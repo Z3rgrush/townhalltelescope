@@ -1,25 +1,6 @@
 # el-paso-county
 
-## [el-paso-county#0] 2026-09-29 | Board of County Commissioners | agenda
-- Final Release of Check No. 1001 for Padmark Business Park Lot 3 in the amount of $1,189.49
-- Resolution approving Intergovernmental Agreement for snow removal and snow and ice control between El Paso County and the Town of Monument
-- Resolution to recognize revenue and appropriate expenditures in the amount of $299,021.00 from the National Highway Traffic Safety Administration (NHTSA) passed-through the State of Colorado, Department of Transportation, for the 2026-27 Impaired Driving Enforcement Program to the Sheriff’s Office 2
-- Resolution to recognize revenue and appropriate expenditures in the amount of $35,306.00 from Roller & Associates, Inc. to the Sheriff’s Office 2026 Budget
-- Resolution to approve submission of a Community Services Block Grant application to the State of Colorado Department of Local Affairs
-- Resolution approving General Release and Monetary Settlement regarding the Estate of Jamin Robertson
-- Procurement and Contracts Consent Calendar
-- Approval of the Third Amendment and Change Order to Wear Parts & Equipment Co., Inc. for cutting edges materials for the Department of Public Works – Fleet & Highway Divisions at a not-to-exceed amount of $50,000.00 (SOQ-23-124)
-- Approval of a Five-Year Service Agreement and Purchase Order to Carahsoft Technology Corporation for FreshService ITSM Platform for the Digital, Strategy and Technology Department at a not-to-exceed amount of $625,878.80 (Omnia R240303)
-- Public Comment on Items Not Scheduled on the Agenda
-- Resolution supporting and opposing various ballot initiatives on the November, 2026 General Election ballot
-- Local Licensing Authority Hearings
-- Hearing on the application by GPB, Inc., d/b/a Goat Patch Brewing Co., for a brew pub liquor license on the premises located at 1756 Lake Woodmoor Dr., El Paso County (Commissioner District 1)
-- 2027 Budget Hearing #1 - Preliminary Balanced Budget and Statutory Presentation of 2027 Preliminary Balanced Budget
-
-## [el-paso-county#2] 2026-10-01 | Planning Commission | agenda
-- Held at: Regional Development Center
-
-## [el-paso-county#3] 2026-10-13 | Board of County Commissioners | agenda
+## [el-paso-county#0] 2026-10-13 | Board of County Commissioners | agenda
 - Application by Holywings LLC, d/b/a Roll Up, to transfer ownership of the existing hotel and restaurant liquor license (Roll Up) located at 301 Main St. (Commissioner District No. 4)
 - Resolution to issue a Class B (no restraints) Secure Transportation Service License and issuance of one (1), Type 1 (partitioned) Vehicle Permit to Statewide Transportation LLC, d/b/a Statewide Transport, to provide secure transportation services in El Paso County
 - Resolution to approve a Standard Grant Contract and recognize and appropriate revenues and expenditures in the amount of $200,000.00 to the El Paso Count Parks Department 2026 budget from Lyda Hill Philanthropies for Paint Mines Interpretive Park
@@ -37,10 +18,10 @@
 - Resolution approving a Tax Increment Revenue Agreement with the Colorado Springs Urban Renewal Authority for the Sugarbowl Urban Renewal Plan
 - Pursuant to C.R.S. § 24-6-402(4)(b) and (e), the County Attorney’s Office is requesting an Executive Session regarding potential litigation stemming from a rear-end auto accident involving Daniel Krawczyk and former Assessor employee Sherri Gonzales. The purposes of the Executive Session include (1)
 
-## [el-paso-county#4] 2026-10-15 | Planning Commission | agenda
+## [el-paso-county#1] 2026-10-15 | Planning Commission | agenda
 - Held at: Regional Development Center
 
-## [el-paso-county#5] 2026-10-20 | Board of County Commissioners | agenda
+## [el-paso-county#2] 2026-10-20 | Board of County Commissioners | agenda
 - Request to approve an application by Pikes Peak AdAmAn Club, Inc., for a Fireworks Display Permit at the Summit of Pikes Peak on the evening of December 31, 2026, and early morning of January 1, 2027
 - Resolution to approve application for Preliminary Acceptance of Settlers Ranch Filing No. 3
 - Resolution to approve application for Preliminary Acceptance of Abert Ranch
@@ -56,14 +37,14 @@
 - Approval of a Contract and Purchase Order to Kone, Inc. for the modernization of elevators no. 1 and no. 2 at the El Paso County Citizens Service Center, for the Department of Facilities and Strategic Infrastructure Management (FSIM) at a not-to-exceed amount of $555,500.00 (OMNIA Partners Contract 
 - Approval of a Contract Modification Order and Change Order to Native Sun Construction for the construction of the El Paso County Pedestrian Crossing Improvements for the Department of Public Works – Engineering Division at a not-to-exceed amount of $155,592.00 (IFB-26-014)
 
-## [el-paso-county#7] 2026-10-22 | Board of County Commissioners (Land Use) | agenda
+## [el-paso-county#4] 2026-10-22 | Board of County Commissioners (Land Use) | agenda
 - FINAL PLAT - HARDY ROAD PROPERTIES SUBDIVISION - A request by Hardy Road Properties, LLC, for approval of a 19.34-acre Final Plat creating two single-family lots and one tract. The property is zoned RR-5 (Residential Rural) and is located approximately 1.75 miles east of North Meridian Road, at 1054
 - PRELIMINARY PLAN - TRIPLE H RANCH PRELIMINARY PLAN - A request by P760 Land, LLC for approval of a 752.68-acre Preliminary Plan creating 244 single-family lots, 40.57-acres of tract dedication, and 67.92-acres of right-of-way dedication. The properties are within the RR-2.5 zoning district and are l
 - First Reading of Ordinance No. 26-02: Requiring the Removal of Weeds and Brush, pursuant to C.R.S. § 30 15 401. Ordinance No. 26-02 updates and revises the requirements for enforcement procedures and legal remedies pursuant to Colorado House Bill 26-1239 and complies with State of Colorado requireme
 - First Reading of Ordinance No. 26-03: Prohibiting the Accumulation of Rubbish, pursuant to C.R.S. § 30 15 401. Ordinance No. 26-03 updates and revises the requirements for enforcement procedures and legal remedies pursuant to Colorado House Bill 26-1239 and complies with State of Colorado requiremen
 - First Reading of Ordinance No. 26-04: Requiring the Removal of Unsafe Structures, pursuant to C.R.S. § 30 15 401. Ordinance No. 26-04 updates and revises the requirements for enforcement procedures and legal remedies pursuant to Colorado House Bill 26-1239 and complies with State of Colorado require
 
-## [el-paso-county#8] 2026-10-27 | Board of County Commissioners | agenda
+## [el-paso-county#5] 2026-10-27 | Board of County Commissioners | agenda
 - Request to set November 17, 2026, as the hearing date to consider the Bent Grass Commercial Metropolitan District Service Plan
 - Request to establish the survey area and set November 17, 2026, as the hearing date on the application by The Chuckwagon LLC, d/b/a The Chuckwagon, for a tavern liquor license to be located at (6437, 6441, 6445) 6453, 6455 Omaha Boulevard (Commissioner District 4)
 - Application by A&J Jaks LLC, d/b/a Jaks Taproom, to transfer ownership of the existing beer & wine liquor license (JAKs Brewing Company) located at 11860 Stapleton Drive (Commissioner District No. 2)
@@ -79,3 +60,21 @@
 - Approval of a Professional Service Amendment and Change Order to IMEG Consultants Corp. for the El Paso County Engineering Criteria Manual update project for the Department of Public Works – Engineering Division at a not-to-exceed amount of $48,500.00 (RFP-25-024)
 - Public Comment on Items Not Scheduled on the Agenda
 - 2027 Budget Hearing #3 - Department/Offices Critical Needs Presentations
+
+## [el-paso-county#6] 2026-11-03 | Board of County Commissioners | agenda
+- Request to approve the Board of County Commissioners September 1, 8, 10, 15, 22, 24, and 29, 2026, Minutes
+- Request to renew one (1) Type 1 Secure Transportation Vehicle Permit to Zin Transportation LLC, to provide secure transportation services in El Paso County
+- Request to approve appointment to the Noxious Weed Advisory Commission
+- Request to approve appointment to the Community Development Advisory Board
+- Resolution to enter into a Memorandum of Understanding (MOU) with Prowers County, Colorado regarding after-hours calls to the State Hotline for child welfare and adult protection concerns at an anticipated cost of $183,392.00
+- Resolution to approve a Purchase Agreement and to approve a Special Warranty Deed conveying land
+- Procurement and Contracts Consent Calendar
+- Approval of a Contract Modification Order and Change Order to Finsterwald Irrigation and Landscape Services, Limited dba Finsterwald Services for the Pedestrian Crossings Improvements Package No. 3 for the Department of Public Works – Engineering Division at a not-to-exceed amount of $454,916.87. (I
+- Approval of Contract Amendment No. 1 and Change Order to Watts Upfitting Inc. for fleet vehicle upfitting services for the El Paso County Sheriff’s Office, Fleet Division, at a total not-to-exceed cost of $14,000.00. (RFP No. 24-096A)
+- Approval of a Contract Modification Order and Change Order to Blue Ridge Construction Inc. for the Pedestrian Crossings Improvements Package No. 1 for the Department of Public Works – Engineering Division at a not-to-exceed amount of $53,043.64. (IFB-26-013)
+- Ceremonial Resolutions and Proclamations
+- Public Comment on Items Not Scheduled on the Agenda
+- Quarterly Budget Report - Quarter 3 - 2026
+
+## [el-paso-county#8] 2026-11-05 | Planning Commission | agenda
+- Held at: Regional Development Center

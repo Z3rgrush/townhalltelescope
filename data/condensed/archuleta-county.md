@@ -94,7 +94,49 @@
 - or online broadcasting. Remote attendance is at the risk of the attendee as public meetings will
 - continue in person regardless of the County’s broadcast capability
 
-## [archuleta-county#7] 2026-10-27 | City Council | agenda
+## [archuleta-county#7] 2026-10-28 | City Council | agenda
+- located at 398 Lewis Street
+- or online broadcasting. Remote attendance is at the risk of the attendee as public meetings will
+- continue in person regardless of the County’s broadcast capability
+- The Agenda as shown includes topics to be discussed by the Board of County Commissioners and
+- consideration of the Board. The topics shown are subject to change without notice. Be advised that
+- the Board may also discuss any topic relevant to conducting County business. No decisions are
+- made at Work Sessions. All documents and items discussed are Work Product
+- 1. Tourism Board Budget – Jennie Green
+
+## [archuleta-county#8] 2026-10-28 | City Council | agenda
+- Public comment and agenda comment item sign-up sheets are available at the meeting
+- Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
+- Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast capability
+- IV. PUBLIC COMMENT
+- 1. Approval of the July 15th, 2026 Meeting Minutes
+- 1. Strategic Planning Retreat Report
+- 1. Draft 2027 Budget Discussion
+
+## [archuleta-county#9] 2026-11-04 | City Council | agenda
+- The Agenda as shown includes topics to be discussed by the Board of County Commissioners and
+- consideration of the Board. The topics shown are subject to change without notice. Be advised that
+- the Board may also discuss any topic relevant to conducting County business. No decisions are
+- made at Work Sessions. All documents and items discussed are Work Product
+- 2. Discussion of Secure Transport Services – Connie Cook
+- 3. Request for Sale of Capital Assets – Waylon Sutton
+- 4. Comprehensive Plan Water Supply and Strategic Growth Review – Longinos Gonzalez
+- 5. Lodgers Tax Update – Longinos Gonzalez
+- 6. Temporary Land Use Approval Discussion – Longinos Gonzalez
+- 7. Discussion to Waive Permit Fees for Flood Recovery – Longinos Gonzalez
+- 8. Consideration of Emergency Gravel Pits in Archuleta County
+- 9. Discussion of PIO Position
+- Commissioners Meeting Room located at 398 Lewis Street, unless otherwise stated
+- or online broadcasting. Remote attendance is at the risk of the attendee as public meetings will
+- continue in person regardless of the County’s broadcast capability
+
+## [archuleta-county#10] 2026-11-04 | City Council | agenda
+- Public comment and agenda comment item sign-up sheets are available at the meeting
+- Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
+- IV. PUBLIC COMMENT
+- 1. 2026 Flood Discussion
+
+## [archuleta-county#11] 2026-11-04 | City Council | agenda
 - APPROVAL OR ADJUSTMENTS TO AGENDA
 - PUBLIC COMMENTS FROM THE FLOOR OR ONLINE
 - Please complete the Public Comment Form and submit it to an Administrative Staff member prior to the beginning of the
@@ -124,23 +166,3 @@
 - Fee Schedule and staff recommends approval of this marijuana license renewal
 - Consideration of Approval of a Retail Center License Renewal for J and J Enterprises, Inc. dba
 - This is a complete renewal application, with no changes, for a Retail Center License for J and J
-
-## [archuleta-county#8] 2026-10-28 | City Council | agenda
-- Public comment and agenda comment item sign-up sheets are available at the meeting
-- Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
-- IV. PUBLIC COMMENT
-- 1. 2026 Flood Discussion
-
-## [archuleta-county#9] 2026-10-28 | City Council | agenda
-- Public comment and agenda comment item sign-up sheets are available at the meeting
-- Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
-- Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast
-
-## [archuleta-county#10] 2026-10-28 | City Council | agenda
-- Public comment and agenda comment item sign-up sheets are available at the meeting
-- Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
-- Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast capability
-- IV. PUBLIC COMMENT
-- 1. Approval of the July 15th, 2026 Meeting Minutes
-- 1. Strategic Planning Retreat Report
-- 1. Draft 2027 Budget Discussion

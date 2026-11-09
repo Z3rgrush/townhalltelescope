@@ -1,73 +1,96 @@
-- title: Data center moratorium study and citizen committee
-  summary: Town Council said a citizen committee for the data center moratorium study will be announced shortly. Council also asked staff to draft letters to state and federal representatives about data center bills and related legislation.
+- title: Data center moratorium study and citizen advisory committee
+  summary: Council is running a study tied to a data center moratorium. A citizen committee was to be announced shortly, and the Data Center Citizen Advisory Committee appointment was on the Nov. 5 agenda. Council also asked staff to draft letters to state and federal representatives about data center bills.
   where: Townwide
   refs:
-  - 4
+  - 2
+  - 6
   topics:
   - Data centers
   - Zoning & development
+  - Government operations
   tags:
   - data-center
-- title: Council endorsement of 2026 ballot measures (fire district, school district, CMC, regional transit)
-  summary: Council considered Resolution 2026-14 endorsing Measure 6A (West Routt Fire mill levy override), 4B (annexing Hayden RE-1 into Colorado Mountain College District), 7A (half-percent sales tax for Yampa Valley Regional Transportation Authority) and 4A (Hayden RE-1 mill levy override). Councilmember Haight objected to the transit language and moved to remove it; a separate Resolution 2026-16 on Measure 7A also came up on Oct. 15.
+- title: 2027-2029 draft budget, COLA and proposed 32-hour work week
+  summary: The Town Council, the Northwest Colorado GID and the Housing Authority held their budget discussions in tandem. Staff presented the draft 2027-2029 budget and asked for direction on an additional COLA increase and a proposed 32-hour work week. The property tax sheets show a general fund mill levy of 25.067 and a debt service levy of 3.990, with about $1.54 million in budgeted property tax revenue.
   where: Townwide
   refs:
+  - 2
+  - 3
+  - 4
+  - 6
+  topics:
+  - Budget & taxes
+  - Government operations
+- title: Council endorsements of 2026 ballot measures (fire district, schools, CMC, regional transit)
+  summary: Council considered Resolution 2026-14 endorsing ballot measures 6A (West Routt Fire mill levy override), 4B (Hayden schools joining Colorado Mountain College district), 7A (half-percent sales tax for the Yampa Valley Regional Transportation Authority) and 4A (Hayden RE-1 mill levy override). Councilmember Haight objected to the language on the transportation authority and moved to remove it. Resolution 2026-16 separately endorsed referral of Measure 7A.
+  where: Townwide
+  refs:
+  - 2
   - 4
   - 6
   topics:
   - Elections
   - Transit
-  - Schools & youth
-- title: 2027-2029 draft budget and property tax
-  summary: The Town Council, Housing Authority and Northwest Colorado GID were presented the 2027-2029 draft budget in October. Town budget materials show a 25.067 mill operating levy and 3.990 mill debt service levy, about $1.54 million in budgeted property tax revenue, and a forecast of sales tax near $2.35 million.
-  where: Townwide
-  refs:
-  - 4
-  - 5
-  - 6
-  - 7
-  topics:
   - Budget & taxes
-- title: New road from business park to Highway 40 and hotel lot
-  summary: The Northwest Colorado GID heard about design work to start a new road from the business park to Highway 40. The GID is also closing on another business park lot intended for a hotel.
-  where: Hayden business park / Highway 40
+- title: Business park road to Highway 40 and new hotel lot
+  summary: The Northwest Colorado GID heard that design is starting for a new road from the business park to Highway 40. The GID is also closing on another business park lot that will be used for a hotel.
+  where: Hayden business park, Highway 40
   refs:
-  - 5
+  - 3
   topics:
   - Roads & traffic
   - Economic development
-- title: Pickleball court and 3rd Street Park
-  summary: The Parks and Recreation Board discussed creating an outdoor pickleball court, possibly splitting the court, with an estimated cost of $260,000 and a search for grants. 3rd Street Park updates were a recurring item.
+  - Land & property
+- title: Colorado Main Street program presentation
+  summary: Council received a Main Street 101 presentation from the Colorado Main Street team on joining the program. It covers mini-grants, façade and building improvements, and a Main Street manager for downtown Hayden.
+  where: Downtown Hayden
+  refs:
+  - 6
+  topics:
+  - Downtown & business
+  - Economic development
+- title: Outdoor pickleball court and 3rd Street Park
+  summary: The Parks & Recreation board discussed building an outdoor pickleball court, possibly splitting the court, with a cost near $260,000. Staff are looking for grants, and a pickleball co-op was suggested. The board also received 3rd Street Park updates at each meeting, and one project has a $5,000 grant.
   where: 3rd Street Park
   refs:
-  - 2
-  - 3
-  - 7
+  - 0
+  - 1
+  - 5
   topics:
   - Parks & open space
   - Recreation & trails
-- title: Emergency fee schedule change and new animal ordinance
-  summary: Council considered Resolution 2026-15 adopting an emergency fee schedule change, and held a second reading and public hearing on Ordinance 752 adopting new animal rules and conforming amendments to Section 14.20.040. No public comment was given at the hearing.
+- title: Parks & Recreation board bylaws on members who move
+  summary: The board discussed amending its bylaws on members who move away during their term. The bylaw discussion was also placed on the Nov. 5 Council agenda.
+  refs:
+  - 0
+  - 5
+  - 6
+  topics:
+  - Government operations
+  - Recreation & trails
+- title: Animal ordinance 752 and emergency fee schedule change
+  summary: Council held a second reading and public hearing on Ordinance 752, a new ordinance on animals within the town. No one commented. Council also considered Resolution 2026-15 adopting an emergency fee schedule change.
   where: Townwide
   refs:
-  - 4
+  - 2
   topics:
-  - Fees & rates
   - Government operations
-- title: Housing Authority rents and grants
-  summary: The Hayden Municipal Housing Authority noted rent increases expected to start August 1 at $900, with grants pending.
-  where: Hayden Municipal Housing Authority properties
+  - Fees & rates
+- title: Routt County Hazard Mitigation Plan adoption
+  summary: Council considered Resolution 2026-17 adopting the 2026 Routt County Hazard Mitigation Plan.
+  where: Countywide
   refs:
-  - 1
+  - 6
   topics:
-  - Housing
-- title: Parks & Rec events and Hayden Center planning
-  summary: The Parks and Recreation Board reviewed event plans such as the farmers market (possible October pumpkin date), food trucks and vendor fees, along with a $5,000 grant and bylaws changes for members who move. The board also discussed budget ideas and Hayden Center updates.
+  - Fire & emergencies
+  - Government operations
+- title: Parks & Rec revenue ideas and events planning
+  summary: The Parks & Rec board reviewed ways to generate revenue and planned events, including a farmers market with pumpkins in October and vendor fees. Other items were food trucks, drink service and volunteer incentives. The board also reviewed budget work that takes effect January 2027.
   where: Hayden
   refs:
-  - 2
-  - 3
-  - 7
+  - 0
+  - 1
+  - 5
   topics:
   - Tourism & events
-  - Recreation & trails
+  - Budget & taxes

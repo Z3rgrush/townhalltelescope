@@ -189,3 +189,15 @@
 - for the purpose of discussing personnel, property, legal advice, matters to be kept confidential
 - A. JRs Se~oerf t1ebile Park I lelding LLC
 - 14. Discontinue Negotiations with Mobile Park Holding LLC
+
+## [ordway#8] 2026-10-21 | City Council | minutes
+- 4. The Agenda was approved. 5-0, Pepper (M), Watkins (S)
+- 5. Ordinance 673 was repealed by a vote of 5-0. Watkins (M), Goeppinger (S)
+- 6. Ordinance 674 was repealed by a vote of 5-0. Goeppinger (M), Watkins (S)
+- 7. Resolution 2026-19 was passed to set a date of November 30, 2026 as the date for the public hearing
+- concerning the annexation of 17484 Highway 96, Addies Restaurant. It was order to publish the
+- resolution in local newspapers for four weeks
+- 4. Approve Agenda f .)) . 'd<'- f~ rt )pf ( f P~Y
+- 5. Repealing Ordinance 673 1~ ~/)/ ~ ~ ...-J
+- 6. Repealing Ordinance 674 f ~ '<.:1 ~ J
+- 7. Approve resolutio ~ date for annexation hearing 1i/ ~

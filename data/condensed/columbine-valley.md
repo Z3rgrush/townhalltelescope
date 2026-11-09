@@ -261,3 +261,6 @@
 - The statute also prohibits adopting a budget that provides for
 - balance. The budget must include a “budget message” describing the
 - After the proposed budget is prepared, the governing body must
+
+## [columbine-valley#13] 2026-11-09 | City Council | agenda
+- 2. STUDY SESSION – to discuss recreational lighting and a possible

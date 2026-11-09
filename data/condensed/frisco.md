@@ -450,3 +450,57 @@
 - Agenda Item #2: Consideration and Possible Approval on Second Reading Ordinance 26-23:
 - AN ORDINANCE SETTING THE MILL LEVY WITHIN THE TOWN OF
 - Council Agendas can legally be amended up until 24 hours prior to the beginning of the scheduled
+
+## [frisco#16] 2026-11-05 | Planning Commission | agenda
+- 1 MAIN STREET
+- Approval of October 1, 2026, Planning Commission meeting minutes
+- Public Comments:
+- Citizens making comments during Public Comments on items not on the agenda shall state
+- than three minutes. No Planning Commission action is taken on public comments. The
+- Agenda Item #1: Planning File No: VAC-26-0002: A request for the vacation of a portion of a
+- adjacent to Pioneer Park, generally located adjacent to and north of 99 N
+- Agenda Item #2: Planning File No. UDC-26-0003: A public hearing to consider proposed
+- amendments, and make a recommendation, to Chapter 180 of the Code of
+- Ordinances of the Town of Frisco, Colorado, by amending Subsection 180
+- 3.10.1 concerning the Light Industrial District, amending Table 180-5.1.5
+- concerning the Table of Allowed Uses, amending Section 180-5.2.8
+- concerning the Light Industrial District, and amending Section 180-9.3,
+- concerning general definitions to permit residential uses in the Light
+- Industrial District and permit one and two dwelling units in Mixed-Use
+- Agenda Item #3: Planning File No. UDC-26-0005: A public hearing to consider amending
+- Chapter 180 of the Code of Ordinances of the Town of Frisco, concerning
+- the Unified Development Code, by amending Subsection 180-3.5.2.A.c,
+- concerning the Residential Low Density District, amending Subsection 180
+- 3.17.1.A.1 concerning Accessory Dwelling Unit Exceptions, amending
+- Section 180-4.3.1 concerning Planned Unit Developments, amending
+- Section 180-5.1.5 concerning the Table of Allowed Uses, amending Section
+- 180-5.5.1, concerning Affordable Housing Incentives, and amending 180
+- 9.3. concerning general definitions, in order to allow incentives for the
+- development of Accessory Dwelling Units
+
+## [frisco#17] 2026-11-05 | Planning Commission | agenda
+- 1 MAIN STREET
+- Approval of October 1, 2026, Planning Commission meeting minutes
+- Public Comments:
+- Citizens making comments during Public Comments on items not on the agenda shall state
+- than three minutes. No Planning Commission action is taken on public comments. The
+- Agenda Item #1: Planning File No: VAC-26-0002: A request for the vacation of a portion of a
+- adjacent to Pioneer Park, generally located adjacent to and north of 99 N
+- Agenda Item #2: Planning File No. UDC-26-0003: A public hearing to consider proposed
+- amendments, and make a recommendation, to Chapter 180 of the Code of
+- Ordinances of the Town of Frisco, Colorado, by amending Subsection 180
+- 3.10.1 concerning the Light Industrial District, amending Table 180-5.1.5
+- concerning the Table of Allowed Uses, amending Section 180-5.2.8
+- concerning the Light Industrial District, and amending Section 180-9.3,
+- concerning general definitions to permit residential uses in the Light
+- Industrial District and permit one and two dwelling units in Mixed-Use
+- Agenda Item #3: Planning File No. UDC-26-0005: A public hearing to consider amending
+- Chapter 180 of the Code of Ordinances of the Town of Frisco, concerning
+- the Unified Development Code, by amending Subsection 180-3.5.2.A.c,
+- concerning the Residential Low Density District, amending Subsection 180
+- 3.17.1.A.1 concerning Accessory Dwelling Unit Exceptions, amending
+- Section 180-4.3.1 concerning Planned Unit Developments, amending
+- Section 180-5.1.5 concerning the Table of Allowed Uses, amending Section
+- 180-5.5.1, concerning Affordable Housing Incentives, and amending 180
+- 9.3. concerning general definitions, in order to allow incentives for the
+- development of Accessory Dwelling Units

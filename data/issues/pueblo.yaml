@@ -1,158 +1,137 @@
-- title: Automated speed camera enforcement program
-  summary: Police Traffic Division presented a plan for speed safety cameras on residential streets, park frontages and designated traffic safety corridors, estimating $302,400 to $504,000 in monthly citations depending on pay rate. On Oct. 13 Council took up a first-reading ordinance on automated enforcement and a staffing ordinance amendment for the Police Department.
+- title: Speed safety camera (automated enforcement) program
+  summary: Police Traffic Division presented a plan for speed cameras on residential streets, park frontages and designated traffic safety corridors. Estimates run $302,400 to $504,000 in monthly citations, depending on the pay rate. On Oct. 13 Council took up an ordinance amending the 2026 police staffing ordinance for automated enforcement.
   where: Citywide
   refs:
-  - 4
-  - 24
+  - 3
+  - 23
   topics:
   - Policing & public safety
   - Roads & traffic
   - Fees & rates
-- title: Black Hills Energy electric rate increase
-  summary: Council discussed the 2026 Black Hills Colorado Electric rate case and then considered a resolution opposing the proposed increase and the added ratepayer costs of its 2026 Electric Resource Plan and Clean Energy Plan (PUC Proceeding No. 26A-0333E). Certified copies would go to the Public Utilities Commission.
+- title: 2027 city budget, property tax levies and sales tax
+  summary: Departments presented 2027 budgets (police, fire, public works, IT, law, finance, parks). The recommended total is $117,785,907, with a 3.7% city sales tax rate. A public hearing was set for Oct. 26, and the mill levies and budget appropriation ordinances came up Nov. 9.
   where: Citywide
   refs:
-  - 26
-  - 27
-  - 31
-  - 32
-  topics:
-  - Energy
-  - Utilities
-  - Fees & rates
-- title: 2027 city budget
-  summary: Departments presented 2027 budgets to Council in August and October work sessions (Police, Fire, Public Works, IT, Law, Finance, Parks). The Mayor's recommended budget totals $117,785,907, with sales tax (3.7% rate) making up 66.8% of general taxes. A public hearing on the proposed 2027 budget was set for Oct. 26.
-  where: Citywide
-  refs:
-  - 3
+  - 2
+  - 7
   - 8
-  - 9
   - 26
-  - 27
-  - 31
-  - 32
+  - 30
+  - 36
   topics:
   - Budget & taxes
-- title: Leonardo da Vinci Museum funding and economic development partner
-  summary: Council reviewed a funding request from the Leonardo da Vinci Museum of North America from the 1/2-cent sales tax fund, which has already approved $14.4 million for the project that replaced the Professional Bull Riders university. Council also followed up on an economic development partner RFP and held closed-door talks on projects including Tortuga, Falcon, Manta and St. Charles Industrial Park.
+  - Government operations
+  public_comment: true
+- title: Opposition to Black Hills Colorado Electric rate increase
+  summary: Council reviewed Black Hills Colorado Electric's 2026 rate case and took up a resolution opposing the proposed electric rate increase and the cost impacts of its Electric Resource Plan and Clean Energy Plan (Proceeding 26A-0333E). Certified copies would go to the Colorado PUC.
+  where: Citywide
+  refs:
+  - 25
+  - 30
+  topics:
+  - Utilities
+  - Energy
+  - Fees & rates
+- title: Leonardo da Vinci Museum funding and RTA sales tax
+  summary: Council discussed the museum's funding request from the half-cent sales tax fund, which has already approved $14.4 million for the project and replaced the Professional Bull Riders University. A closed-door economic development agreement discussion on the museum was also scheduled.
   where: 310 Central Main Street
   refs:
-  - 3
-  - 4
-  - 8
+  - 2
+  - 9
   - 10
-  - 11
-  - 14
-  - 24
-  - 26
   topics:
   - Economic development
   - Tourism & events
   - Budget & taxes
-- title: Lime Road and St. Charles Industrial Park infrastructure
-  summary: Staff reviewed the 1.4-mile, two-lane concrete Lime Road, the only route into St. Charles Industrial Park, which needs frequent repairs. Reinforced concrete is estimated at about $20M versus about $5M for asphalt, against $8M already moved to design Lime Road and wastewater improvements. A resident also spoke about capital improvements on Limon Road.
-  where: Lime Road, St. Charles Industrial Park
+- title: St. Charles Industrial Park and Lime Road improvements
+  summary: Council reviewed Lime Road, the only route into the industrial park, a 1.4-mile unreinforced concrete road. Estimated costs are about $20M for reinforced concrete versus $5M for asphalt, and a traffic study is required. $8M was previously transferred for park infrastructure. Closed sessions covered projects in the park, including Project Manta.
+  where: Lime Road / St. Charles Industrial Park
   refs:
-  - 24
+  - 25
+  - 32
   - 33
-  - 34
   topics:
   - Roads & traffic
   - Economic development
   - Utilities
-  public_comment: true
-- title: EPA smelter cleanup in Eilers and Bessemer
-  summary: An EPA project manager briefed Council on the cleanup of former smelter contamination in Eilers and Bessemer, including residential properties, parks and Benedict Park. The public comment period closed Oct. 15 and EPA is preparing a responsiveness summary.
-  where: Eilers and Bessemer neighborhoods, Benedict Park
+- title: 'Annexations and zoning: Pueblo Masterplan Communities and Jackson Ranch'
+  summary: Council found the petition to annex the 89.93-acre Pueblo Masterplan Communities valid and sent it to Planning and Zoning. Ordinances to zone parts of the Jackson Ranch annexation area (250.1, 65.70 and 225.66 acres) came up for first presentation Sept. 14.
+  where: Pueblo Masterplan Communities and Jackson Ranch annexation areas
   refs:
-  - 33
-  - 34
-  topics:
-  - Environment & climate
-  - Parks & open space
-  public_comment: true
-- title: Annexations and Jackson Ranch zoning
-  summary: Council found valid the petition to annex the 89.93-acre Pueblo Masterplan Communities Annexation No. 1 and sent it to Planning and Zoning for review. On Sept. 14 it began zoning of Jackson Ranch annexation parcels of 250.1, 65.7 and 225.66 acres, including agricultural zoning.
-  where: Jackson Ranch annexation area; Pueblo Masterplan Communities
-  refs:
-  - 6
-  - 13
+  - 5
+  - 12
   topics:
   - Annexation
   - Zoning & development
-- title: Moratorium ordinance on new applications
-  summary: On Sept. 14 Council took up a first-reading ordinance imposing a 24-month moratorium on accepting applications for and issuing certain new permits or licenses; the type is not fully shown in the documents.
-  where: Citywide
+- title: 'Airport: policy advisory board, aviation asset defense funds and lawsuit'
+  summary: Council established an Airport Policy Advisory board and took up an airline operating agreement. It approved a $300,000 transfer for an Aviation Asset Defense project, then scheduled a motion to reconsider it Oct. 5, alongside a closed session on City of Pueblo v. Airport litigation.
+  where: Pueblo Memorial Airport
+  refs:
+  - 5
+  - 12
+  - 17
+  - 18
+  topics:
+  - Airports
+  - Lawsuits & legal
+  - Budget & taxes
+- title: Regional Transportation Authority (RTA) steering committee
+  summary: Council reviewed a draft proposal for a broad voting steering committee to build an RTA, with working groups on governance, projects, finance and outreach, and CDOT and legal staff as non-voting advisors.
+  where: Pueblo area
   refs:
   - 13
+  - 14
   topics:
-  - Zoning & development
+  - Transit
+  - Roads & traffic
   - Government operations
 - title: Pueblo Mountain Park next steps and city parks
-  summary: Council scheduled a work session on next steps for Pueblo Mountain Park, and a resident spoke about city parks and Mountain Park at the Oct. 13 meeting. Council also awarded a $148,337.95 contract for concrete improvements at Elmwood Golf Course.
-  where: Pueblo Mountain Park; Elmwood Golf Course
+  summary: Council scheduled a Pueblo Mountain Park next-steps discussion on Aug. 31. A resident spoke Oct. 13 about city parks and Mountain Park.
+  where: Pueblo Mountain Park
   refs:
-  - 8
-  - 9
-  - 18
-  - 24
+  - 7
+  - 23
   topics:
   - Parks & open space
   - Recreation & trails
   public_comment: true
-- title: Airport projects and Aviation Asset Defense funding
-  summary: Council created a project for Aviation Asset Defense with a $300,000 transfer from the airport grant match project, formed an Airport Policy Advisory board, and approved taxiway/hangar contingencies. The Aviation Asset Defense resolution was then brought back for a motion to reconsider on Oct. 5, and an airline operating agreement was introduced.
-  where: Pueblo Memorial Airport
+- title: Economic development partner RFP and purchasing policy changes
+  summary: Council held several work sessions on selecting an economic development partner through an RFP, plus a purchasing policy amendment and a procurement process overview. Closed sessions covered projects Tortuga and Falcon, and a PEDCO lawsuit.
+  where: Citywide
   refs:
-  - 0
-  - 6
+  - 7
   - 13
-  - 18
-  - 19
-  - 20
+  - 23
+  - 25
+  - 26
   topics:
-  - Airports
-  - Budget & taxes
-- title: Emergency sewer and storm sewer repairs
-  summary: Council ratified emergency contracts including $210,648.29 for a sewer repair at 109 Vernon Pl, $295,504.20 for storm sewer repair at 10th and Conley streets, and smaller sewer repairs at Marian Dr and Bryan Cir. It also awarded a $134,265 manhole rehabilitation contract.
-  where: 109 Vernon Pl; 10th St and Conley St; 132 Marian Dr; 31201 Bryan Cir
+  - Economic development
+  - Government operations
+  - Lawsuits & legal
+- title: 'Library funding: no new tax or rate increase'
+  summary: The library foundation presented that its funding continues under the 2019 voter-approved mill levy and is not a new tax or rate increase.
+  where: Citywide
   refs:
-  - 0
-  - 6
-  - 18
-  - 24
-  topics:
-  - Utilities
-  - Roads & traffic
-- title: Pueblo Library District funding and regional transportation authority
-  summary: A library presentation stressed that the library's mill levy approved in 2019 is not a new tax or rate increase. Council also reviewed a draft steering committee structure for forming a Regional Transportation Authority, including voting seats and technical advisors.
-  where: Pueblo County
-  refs:
-  - 14
-  - 15
   - 19
-  - 20
   topics:
   - Libraries & culture
-  - Transit
   - Budget & taxes
-- title: Dangerous building demolition cost at 125 E. 7th Street
-  summary: Council held a hearing and passed an ordinance assessing demolition and removal costs for dangerous buildings at 125 E. 7th Street, amending the interest rate from 7% to 10%.
+- title: Moratorium ordinance and 125 E. 7th Street demolition costs
+  summary: Council passed an ordinance assessing demolition costs for dangerous buildings at 125 E. 7th Street, raising interest from 7% to 10%. A 24-month moratorium on accepting applications for new licenses also came up for first presentation Sept. 14; the minutes do not say what kind.
   where: 125 E. 7th Street
   refs:
-  - 6
-  - 13
+  - 5
+  - 12
   topics:
   - Land & property
   - Housing
-- title: BATTLE grant and blighted property acquisition
-  summary: Council considered grant funding for a police BATTLE team (project PS2605) and a CREATE emergency and trauma education grant. Closed sessions covered acquiring blighted properties under a housing Section 108 project.
-  where: Citywide
+- title: Smelter cleanup and Benedict Park
+  summary: An EPA project manager briefed Council on the Eilers and Bessemer smelter cleanup. Public comment closed Oct. 15 and a responsiveness summary is being prepared. Benedict Park revitalization is also underway.
+  where: Eilers and Bessemer neighborhoods; Benedict Park
   refs:
-  - 0
-  - 6
-  - 10
-  - 11
+  - 32
+  - 33
   topics:
-  - Policing & public safety
-  - Housing
+  - Environment & climate
+  - Parks & open space
+  public_comment: true

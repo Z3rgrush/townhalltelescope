@@ -1210,3 +1210,126 @@
 - Year Project FAA Discretionary FAA State Apportionment FAA Entitlements FAA BIL Colorado Discretionary Local Passenger Facility Charge Total Funding Project Cost Estimate Comments
 - 2032 Rehabilitate Runway 9/27 - Mill, Overlay and Groove Design & Bidding $0.00 $0.00 $350,000.00 $0.00 $19,444.00 $19,444.00 $0.00 $388,888.00 $386,100.00 Transfer program. $90 k of 2030 ENT, 2031 ENT, $110k of 2032 ENT
 - 2033 Taxiway & Apron Pavement Maintenance - Crack Seal & Seal Coat $0.00 $0.00 $0.00 $0.00 $245,000.00 $27,222.00 $1.0 0 $272,222.00 $269,300.00 $245k CDAG
+
+## [huerfano-county#49] 2026-11-03 | Board of County Commissioners | agenda
+- Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
+- 3. Agenda Approval
+- items. These items are generally perceived as non-controversial and can be approved by a
+- b. Cody Salazar New Hire Huerfano County Road and Bridge
+- 5. Appointments
+- 6. Permits, Licenses, and Public Hearings
+- b. Bulk Water Permit #Bulk-26-000287 for Peter Cappola for parcel #1713762
+- The public is welcome to comment on action items when the Chair calls for discussion of
+- an item. Time for discussion will be limited
+- c. Requisition 26-072 Ferguson Water Meter
+- d. Agreement with Airport Monitoring Systems
+- 9. Public Comment
+- Each person will have up to three minutes to present public comment. Please address the
+- views and the Board generally does not engage in back-and-forth discussion or respond to
+- 719-738-3000 x200. Submit your request as early as possible, and no later than two business
+
+## [huerfano-county#50] 2026-11-03 | Board of County Commissioners | agenda
+- Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
+- 3. Agenda Approval
+- items. These items are generally perceived as non-controversial and can be approved by a
+- b. Cody Salazar New Hire Huerfano County Road and Bridge
+- 5. Appointments
+- 6. Permits, Licenses, and Public Hearings
+- b. Bulk Water Permit #Bulk-26-000287 for Peter Cappola for parcel #1713762
+- The public is welcome to comment on action items when the Chair calls for discussion of
+- an item. Time for discussion will be limited
+- c. Requisition 26-072 Ferguson Water Meter
+- d. Agreement with Airport Monitoring Systems
+- 9. Public Comment
+- Each person will have up to three minutes to present public comment. Please address the
+- views and the Board generally does not engage in back-and-forth discussion or respond to
+- 719-738-3000 x200. Submit your request as early as possible, and no later than two business
+- Motion to approve the agenda
+- Motion to approve the consent agenda
+- a. Two Peaks Fitness Quarterly Presentation
+- Bulk Water Permit presented by Ryan Salbich with Huerfano County Land Use
+- a. Bulk Water Permit #Bulk-26-000280 for Jessie Maes for parcel #28930
+- Motion to approve Bulk Water Permit #Bulk-26-000280 for Jessie Maes for
+- b. Conditional Use Permit LU-26-000154-GroAway
+- Motion to deny Land Use Application Conditional Use Permit LU-26-000154
+- provisions of this zoning regulation
+- comprehensive plan
+- congestion or hazards to vehicular or pedestrian traffic and its roads will
+- meet the requirements of Subdivision County Road Standards and
+- Discussion: 1. Sky Tallman Contract Planner, presented the conditional use
+- permit to the BOCC and the particulars of the project
+- 2. Kristjan Bauer with GroAway LLC, discussed the applicants
+- that the commissioners deny the application and the equipment
+- used in the project
+- 3. Commissioners Wardell and Chairman Sporeleder discussed the
+- 4. Kristjan Bauer with GroAway LLC, discussed use of the land and
+- the parcels around the project
+- 5. Lewis Beale Williams, County Resident, discussed community
+- concerns about the project and his experience as an engineer and
+- thoughts on the project
+- 6. Laurie Stien County Resident, discussed her concern regarding the
+- “cat sanctuary” aspect of the project
+- land the project was proposed on and expressed his concerns about
+- 8. Kim Trujillo,Finance Officer discussed the ownership of the
+- and the affect that would have on the application
+- Motion to approve Proclamation #26-05 - Operation Green Light for Veterans
+- Motion to approve the Huerfano County Law Enforcement Center Change
+- Discussion: Emergency Manager Robert Gilbert asked if this was a secondary
+
+## [huerfano-county#51] 2026-11-04 | Huerfano County Tourism Board | agenda
+- 401 Main Street, Walsenburg, CO 80189
+- 2. Approval of Minutes
+- a. Budget Report
+- b. October Lodging Tax Report
+- c. Sales Tax Trends
+- a. Resolution to Pay October Bills
+- d. Cuchara Fireworks Display Update
+- b. Billboard Discussion
+- 401 Main Street, Walsenburg Co 81089
+- 719-738-3000 x200. Submit your request as early as possible, and no later than two business
+
+## [huerfano-county#52] 2026-11-04 | Huerfano County Tourism Board | agenda
+- 401 Main Street, Walsenburg, CO 80189
+- 2. Approval of Minutes
+- a. Budget Report
+- b. October Lodging Tax Report
+- c. Sales Tax Trends
+- a. Resolution to Pay October Bills
+- d. Cuchara Fireworks Display Update
+- b. Billboard Discussion
+- 401 Main Street, Walsenburg Co 81089
+- 719-738-3000 x200. Submit your request as early as possible, and no later than two business
+- Approval of Minutes
+- Amend the sponsorship item to “continue discussion via email”, amend time to fix typo
+- Greg motion, Sarah second, to vote yes to approve
+- September Lodging Tax Report: down 2% seems to track with trends in other
+- Request to have Meg pull sales tax reports and compare 2025 to 2026
+- Budget Report: Primary use is from promo/ads. Gov Con should show in next month’s
+- Resolution to pay October bills: Greg motion, Sarah second, 2 vote pass
+- M2M Monthly Report: see presentation, had best month ever with Facebook, M2M
+- Cuchara Mountain Park: upgrading snowmaking equipment and replacing aging pipe
+- New Year’s celebration, Meg to reach out to see if fireworks possible
+- EV Charger Station Location Map/Plaquard Discussion: Meg will continue to follow up on
+- Dark Sky: Many opportunities for help and grants through CTO and Dark Sky
+- Appointment of Bob Kennemer: Finalized through BOCC, effective immediately
+- GovCon Discussion and Follow-Up:
+- Dave would like to add National Parks Magazine to next year’s budget
+- the scenes website audit. What are the low hanging fruit improvements to
+- Approve M2M working on Cuchara Free Google Ads: Greg motioned to add to new
+- Greg motioned to approve, Sarah 2nd, 2 vote yes
+- Budget Report
+- Total Budget
+- Fund: 106 - LODGING TAX TOURISM FUND
+- 0.00LODGING TAX 35,175.900.00106-0000-0000-40022 100,000.00100,000.00 -64,824.10 64.82 %
+- 0.00CONTRACT PAY/NO BENEFITS 0.000.00106-5030-0000-51012 15,000.0015,000.00 15,000.00 100.00 %
+- 0.00TREASURER FEE 1,976.180.00106-5030-0000-51320 2,750.002,750.00 773.82 28.14 %
+- 0.00CTO TOURISM MANAGEMENT GRANT 15,580.000.00106-5030-0000-51962 0.000.00 -15,580.00 0.00 %
+- 0.00-59,282.110.00-45,250.00 -45,250.00 -14,032.11Fund: 106 - LODGING TAX TOURISM FUND Surplus (Deficit): -31.01%
+- Budget Report For Fiscal: 2026 Period Ending: 11/30/2026
+- 106 - LODGING TAX TOURISM FUND -59,282.110.00-45,250.00 -45,250.00 0.00 -14,032.11
+- Huerfano County Sales Tax Trends
+- RESOLUTION NO. 26-12-TB
+- A RESOLUTION TO AUTHORIZE PAYMENT IN FULL
+- marketing plan to benefit Huerfano County and Spanish Peaks Country as set forth in Colorado Revised
+- Statutes 30-11-107.5 “Lodging tax for the advertising and marketing of local tourism” and Resolution
+- a 46.3% open rate

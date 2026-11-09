@@ -1,42 +1,40 @@
 # federal-heights
 
-## [federal-heights#0] 2026-10-20 | City Council | agenda
+## [federal-heights#0] 2026-11-03 | City Council | agenda
 - economic development, enhancement of our current services, and
 - capitalized upon its strategic location within the Denver metro
-- 4. Approval of Minutes Regular Meeting – October 6, 2026
-- 5. Approval of Accounts Payable October 7 - 20, 2026
+- 4. Approval of Minutes Regular Meeting – October 20, 2026
+- 5. Approval of Accounts Payable October 21 – November 3, 2026
 - 6. Public Comment
-- 7. Ward II City Council Appointment and Oath of Office
-- 10. CDR – Police Department Code Enforcement Van Replacement & Upfit
-- 11. Public Comment
-- REDEVELOPMENT AGENCY MEETING
-- 2. Approval of Minutes September 15, 2026
-- 3. Approval of Accounts Payable October 6 - 20, 2026
-- 3. Consideration of Res. No. 26-XX – A Resolution of the City Council of the City of
-- Federal Heights, Colorado, Adopting Exhibit A 2027 Fee Schedule for the
+- 7. Resolution No. 26-27 – A Resolution of the City Council of the City of Federal
+- Heights, Colorado, Adopting Exhibit A 2027 Fee Schedule for the
 - Intergovernmental Agreement Between the Cities of Brighton, Commerce City,
-- 4. Consideration of Res No. 26-XX – A Resolution of the City Council of the City of
-- Federal Heights, Colorado, Approving an Intergovernmental Agreement Between
-- the City of Federal Heights and Hyland Hills Park and Recreation District for
-- (Community Development Director Tim Williams)
-- 5. Consideration of Res. No. 26-XX – A Resolution of the City Council of the City of
-- Federal Heights, Colorado, Approving an Intergovernmental Agreement for a
-- Local Natural Hazard Mitigation Plan Between the City of Federal Heights, City
-- 6. Consideration of Res. No. 26-XX – A Resolution of the City Council of the City of
-- 7. Consideration of a Council Decision Request for 2027 Motorola VESTA NXT
-- Project (Acting Chief of Police Karl Ballard)
-- 8. Discussion of 2027 Draft Budget Changes (Finance Director Tim Weitzman)
-- 9. Discussion of Public Safety Tax (City Manager Jacquie Halburnt)
-- 10. Discussion of Increasing Frequency of City Council Meetings
+- 8. Resolution No. 26-28 – A Resolution of the City Council of the City of Federal
+- Heights, Colorado, Approving an Intergovernmental Agreement Between the City
+- of Federal Heights and Hyland Hills Park and Recreation District for Surveying
+- 9. Res. No. 26-29 – A Resolution of the City Council of the City of Federal Heights,
+- Colorado, Approving an Intergovernmental Agreement for a Local Natural
+- Hazard Mitigation Plan Between the City of Federal Heights, City of Thornton
+- 10. Res. No. 26-30 – A Resolution of the City Council of the City of Federal Heights,
+- 11. CDR - 2027 Motorola VESTA NXT Project
+- relative to matters that may be subject to negotiations; developing strategy for
+- 13. Public Comment
+- 2. Consideration of Resolution No. 26-XX – A Resolution of the City Council of the
+- City of Federal Heights, Colorado, Amending Exhibit A Service Fee Schedule of
+- the City of Federal Heights and Verra Mobility Services Agreement Regarding
+- Automated Vehicle Identification Systems (City Attorney Bill Hayashi)
+- 3. Discussion of 2027 City Council Quarterly Workshops
+- 4. Discussion of Public Safety Tax
+- 5. Discussion of 2027 Draft Budget Changes
 - by all individuals. If you have a disability, advance notification of any special needs will help us better serve you. Please call 303-412-3536 to
 - request any special service that you may require. A one (1) week advance notice to allow us to accommodate your request is appreciated
 - APPROVAL OF MINUTES
-- approve the minutes of the Regular Meeting of September 15, 2026, and the Study Session of
-- APPROVAL OF ACCOUNTS PAYABLE – SEPTEMBER 16 – OCTOBER 6, 2026
-- $470,407.23 in Road Improvement, $557,549.54 in Capital Improvements, and $440,314.30 in
+- approve the minutes of the Regular Meeting of October 6, 2026, and the Study Session of
+- APPROVAL OF ACCOUNTS PAYABLE – OCTOBER 7 - 20, 2026
+- approve the October 7 - 20, 2026, Accounts Payable in the amounts of $338,853.54 in the
+- in Road Improvement, $53,551.91 in Capital Improvements, and $490,815.71 in Payroll for a
 - PUBLIC COMMENT
-- Moses Chavez informed the City Council of his interest in holding a holiday market in the Water
-- World parking lot
-- her opinion, justify dismissal of the City Manager
-- Jim Fenimore stated that, in his opinion, the Police Department is in disarray and that
-- Mary Tunberg stated that, in her opinion, Federal Heights has a high crime rate and that
+- Ted May questioned the validity of certain City documents, expressed disagreement with
+- Amendment rights had been violated. He stated that his attorney had copies of the related
+- WARD II CITY COUNCIL APPOINTMENT
+- contract with John Cutler & Associates for audit services in the amount of $13,500 per year for

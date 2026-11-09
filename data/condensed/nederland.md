@@ -115,15 +115,7 @@
 - Nederland Parks, Recreation, and Open Space Advisory Board
 - Presentation
 
-## [nederland#7] 2026-10-20 | BOARD OF TRUSTEES | agenda
-- Executive Session pursuant to C.R.S. section 24-6-402(4)(a), (4)(b), and (4)(e)(I) for consideration of
-- and discussion of the Town’s purchase of property and operations for recreational activities and other
-- assistance with an interpreter or hearing devices, please contact the Town
-- regardless of the heading under which such item appears. Discussion items
-- Trustee members, eliminating lengthy discussions to gain basic
-- understanding. Short discussion on agenda items does not reflect lack of
-
-## [nederland#8] 2026-10-21 | PLANNING COMMISSION | agenda
+## [nederland#7] 2026-10-21 | PLANNING COMMISSION | agenda
 - 3. APPROVAL OF MINUTES
 - 4. PUBLIC COMMENT ON NON-AGENDA ITEMS
 - 6.1. Dissolving BZA Ordinance 896
@@ -165,13 +157,57 @@
 - The Commission discussed the low number of variance applications,
 - difficulty maintaining a separate volunteer board, the similarity between
 
-## [nederland#9] 2026-10-22 | SAB - Nederland Sustainability Advisory Board | agenda
+## [nederland#8] 2026-10-22 | SAB - Nederland Sustainability Advisory Board | agenda
 - Presentation
 
-## [nederland#10] 2026-10-29 | BOARD OF TRUSTEES | agenda
+## [nederland#9] 2026-10-29 | BOARD OF TRUSTEES | agenda
 - Executive Session pursuant to C.R.S. section 24-6-402(4)(a), (4)(b), and (4)(e)(I) for consideration of
 - and discussion of the Town’s purchase of property and operations for recreational activities and other
 - assistance with an interpreter or hearing devices, please contact the Town
 - regardless of the heading under which such item appears. Discussion items
 - Trustee members, eliminating lengthy discussions to gain basic
 - understanding. Short discussion on agenda items does not reflect lack of
+
+## [nederland#10] 2026-11-09 | BOARD OF TRUSTEES | agenda
+- 3.1. Approval of November 9, 2026 Warrants
+- 3.2. Approval of October 20, 2026 BOT Special Meeting Minutes
+- 3.3. Approval of October 20, 2026 BOT Meeting Minutes
+- 3.4. SAB Appointment
+- 3.4 AIM - SAB Appointment Kelci Degnian and Recommendation
+- 3.4 Kelci_Degnian_Advisory_Board_Application 2026
+- 3.5. First Amendment to the Interim Town Manager Employment Agreement
+- 3.5 AIM - Interim Town Manager Agreement Amendment
+- 3.5 Resolution 2026-30 Amendment Gordon Agreement
+- 3.5 NED Gordon Town Manager Agreement First Amendment
+- Public comment may be given for each "Action Item" when called for by the Mayor. Public comment is
+- 5.1 AIM - Eldora Resolution
+- 5.1 Resolution 2026-31 Eldora Spending Resolution
+- 5.1 Public Comment - Dallas Masters
+- 5.1 Public Comment - Karen Blakemore 1
+- 5.1 Public Comment - Karen Blakemore 2
+- 5.1 Public Comment - Karen Blakemore 3
+- 6. DISCUSSION ITEMS
+- Public comment may be given for each "Discussion Item" when called for by the Mayor. Public
+- 6.2. Fiscal Year 2027 Budget
+- 6.2 AIM - FY27 Budget
+- 7. PUBLIC COMMENT ON NON-AGENDA ITEMS
+- Public comment is limited to 3 minutes per person. Prior to providing comment, the speaker must state
+- assistance with the Town an interpreter or hearing devices, please contact
+- regardless of the heading under which such item appears. Discussion items
+- Trustee members, eliminating lengthy discussions to gain basic
+- understanding. Short discussion on agenda items does not reflect lack of
+- InvoiceNumber Approved Amt Budgeted $Date YTD Balance
+- Council Approval Report
+- (Council Approval Report)
+- 34 JVA, Inc., 1319 Spruce Street, Boulder, CO, 80302
+- 32581 $2,275.00 $50,000.0009/30/26 $38,243.89Infrastructure Improvements 10/10/26 10-20-6550$2,275.00 Infrastructure Improveme
+- 2021 Safer Main Streets grant - CDOT
+- 997445738 $747.24 $9,500.0010/01/26 $3,455.10Street Lights 10/31/26 10-20-5235$747.24 Street Lights
+- 520 Widner Juran LLP, 13133 E Arapahoe Road, Suite 100, Centennial, CO, 80112
+- 46.0360 $69.00 $50,000.0009/30/26 $38,243.89Infrastructure Improvements 10/30/26 10-20-6550$69.00 Infrastructure Improveme
+- 594 Pitney Bowes Global Financial Services LLC, dba Purchase Power, PO Box 981022, Boston, MA, 02298-1022
+- 1PCX-MCYG-4GLJ $14.57 $250.0410/12/26 $121.72nameplate Garrett Collier (SAB) - Office
+- 1024 POWDR Corp, 1526 West Ute Blvd, Suite 101, Park City, UT, 84098
+- 783 Patricia Graves, dba Bright Heart Catering, 3065 Golden Gate Canyon Road, Black Hawk, CO, 80422
+- 794 Alarm Detection Systems, Inc, dba Safe Systems, Inc, 1111 Church Road, Aurora, IL, 60505
+- 1064 Push Pedal Pull, Inc., 2306 W 41st Street, Sioux Falls, SD, 57105

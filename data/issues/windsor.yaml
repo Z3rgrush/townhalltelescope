@@ -1,47 +1,62 @@
-- title: 2027 utility rate increases for water, sewer and stormwater
-  summary: Stantec's 2027 rate study was presented to the Water and Sewer Board (Oct 14) for a recommendation to the Town Board, then to the Town Board on Oct 26. The proposed plan includes a 20% sewer rate increase in 2027 and water increases of 12.5% annually through 2028, driven by the new wastewater treatment plant (about $154M Windsor share) and NISP costs.
+- title: Crossroads/Colorado Blvd. roundabout construction closure request
+  summary: Contractor AB Underground asked the Town to fully close Crossroads Boulevard east of Colorado Boulevard during Phase 2, saying two-way traffic is too constrained in the work area. It says the change could speed the project and allow the NISP water casing to be installed in one operation. The Town Board took up the phasing plan at a Sept. 21 work session.
+  where: Crossroads Blvd and Colorado Blvd
+  refs:
+  - 26
+  - 27
+  topics:
+  - Roads & traffic
+  - Utilities
+- title: 2027 budget, staffing and shrinking property tax revenue
+  summary: Staff are building the 2027 budget with lower projected revenue, including falling property taxes, and have not recommended positions such as a Deputy Police Chief, Deputy Town Attorney and Transportation Planner/Engineer. The Board reviewed staffing requests, capital projects and the operating budget, with sales tax split 67% general fund and 33% capital. The Board backed $1.2M for LaBue Park design and a wrap-up of revisions in November.
+  where: Townwide
+  refs:
+  - 3
+  - 4
+  - 17
+  - 18
+  - 26
+  - 27
+  - 35
+  - 36
+  - 61
+  - 62
+  topics:
+  - Budget & taxes
+  - Government operations
+- title: 2027 water, sewer and stormwater rate increases
+  summary: Stantec's 2027 rate study proposes a 20% sewer increase in 2027 and 12.5% annual water increases through 2028, driven by the NISP water project and the new wastewater treatment plant (about $154M Windsor share). The Water and Sewer Board was asked to recommend the rates to the Town Board, which took them up Oct. 26.
   where: Townwide
   refs:
   - 40
-  - 44
-  - 45
-  - 53
-  - 54
+  - 41
+  - 48
+  - 49
   topics:
   - Fees & rates
   - Water
   - Utilities
-- title: 2027 budget, revenue shortfall and staffing requests
-  summary: Staff presented 2027 revenue estimates, staffing requests and operations budget worksessions. Property tax declines mean general fund positions got heavy scrutiny; a Deputy Chief of Police, Deputy Town Attorney and Transportation Planner/Engineer are not recommended. Sales tax is split 67% general fund and 33% capital projects.
+- title: Sign code rewrite
+  summary: The Town is replacing its sign regulations (Chapter 15, Article 17) as called for in the 2024 Comprehensive Plan. The Planning Commission recommended approval of the final draft on Oct. 21, and it went to the Town Board for first reading Oct. 26 and was on the Nov. 9 agenda as Ordinance 2026-1753.
   where: Townwide
   refs:
-  - 7
-  - 8
-  - 21
-  - 22
-  - 30
-  - 39
-  - 40
+  - 3
+  - 4
+  - 46
+  - 50
+  - 51
+  - 65
+  - 66
   topics:
-  - Budget & taxes
-  - Government operations
-- title: Crossroads/Colorado Blvd roundabout construction phasing
-  summary: Contractor AB Underground asked to fully close Crossroads Boulevard east of Colorado Boulevard during Phase 2, rather than keeping two-way traffic, citing constrained work area, winter conditions and a potentially faster schedule. The Town Board reviewed the request and a detour plan; the project also involves a NISP water casing.
-  where: Crossroads Blvd and Colorado Blvd
-  refs:
-  - 1
-  - 13
-  - 30
-  - 31
-  topics:
-  - Roads & traffic
-- title: Data center concerns near Windsor
-  summary: A joint board work session on data centers was held Aug 3, concerning a proposal in unincorporated Weld County, outside Windsor and Greeley. Main concerns are electricity and water use, written comments are being accepted, and a public hearing is expected in a couple of months unless annexation is requested; Town Board discussions are ongoing.
+  - Zoning & development
+  - Downtown & business
+- title: Data center discussions
+  summary: Town and board members reported ongoing talks about proposed data centers in unincorporated Weld County, with concerns about electricity and water use and a joint board work session. Annexation had not been requested.
   where: Unincorporated Weld County near Windsor
   refs:
-  - 13
-  - 28
-  - 49
+  - 9
+  - 24
+  - 56
   topics:
   - Data centers
   - Energy
@@ -49,119 +64,98 @@
   tags:
   - data-center
   public_comment: true
-- title: Hollister Lake Metropolitan District service plan
-  summary: The Town Board reviewed a presentation on the Hollister Lake Metropolitan District and then took up an ordinance approving its service plan and an intergovernmental agreement on Oct 26.
-  where: Hollister Lake area
+- title: Hollister Lake Metropolitan District service plan and Windsor Lake Road
+  summary: The Town Board reviewed the service plan and an intergovernmental agreement for the Hollister Lake Metropolitan District (Ordinance 2026-1754). Separately, the Board accepted right-of-way for the Weld County Road 70 extension (Windsor Lake Road) connecting Hollister Lake Road to SH 257.
+  where: Hollister Lake Road to SH 257
   refs:
-  - 46
-  - 47
-  - 55
-  - 56
-  topics:
-  - Zoning & development
-  - Budget & taxes
-- title: Sign code rewrite
-  summary: Planners presented a draft update of the town's sign code to implement the 2024 Comprehensive Plan, with measurement, permitting and master sign plan changes. A public hearing draft is due in September, Planning Commission hearing in October/November and Town Board adoption in early December.
-  where: Townwide
-  refs:
-  - 7
-  - 8
-  - 9
-  topics:
-  - Zoning & development
-  - Downtown & business
-  public_comment: true
-- title: Windsor Lake Road / WCR 70 extension and 7th Street roundabout land acquisition
-  summary: The Town Board accepted right-of-way dedications and temporary construction easements for the Weld County Road 70 extension (Windsor Lake Road) connecting Hollister Lake Road to SH 257, and for the 7th Street 'dogbone' roundabout at Garden Drive.
-  where: Windsor Lake Road / SH 257 and 7th Street at Garden Drive
-  refs:
-  - 34
-  - 40
-  topics:
-  - Roads & traffic
-  - Land & property
-- title: Proposition 123 affordable housing commitment and housing discussions
-  summary: The Town Board considered a resolution expressing intent to commit to Proposition 123 for affordable housing on Oct 26. Board members also reported on Housing Literate Leaders sessions, the NoCo Housing Fund and the Windsor Housing Authority.
-  where: Townwide
-  refs:
-  - 9
-  - 41
-  - 55
-  - 56
-  topics:
-  - Housing
-- title: Glade Inlet Canal / NISP grant and water supply
-  summary: The NISP Enterprise is applying for a $3,000,000 Bureau of Reclamation grant for Glade Inlet Canal Diversion improvements. Windsor holds about 15 percent, so a successful grant would save the town about $450,000.
-  where: Glade Inlet Canal
-  refs:
-  - 11
-  topics:
-  - Water
-  - Budget & taxes
-- title: GWIP property annexation
-  summary: The Town Board held a public hearing on annexation of the Great Western Industrial Park (GWIP) property, which drew public comment; the mayor said the board listens to all comments.
-  where: Great Western Industrial Park
-  refs:
-  - 11
-  topics:
-  - Annexation
-  - Zoning & development
-  public_comment: true
-- title: Wireless tower and conditional use permit rules, plus site plans
-  summary: Planning Commission considered a 50-foot stealth silo wireless tower at Timberline Church, 22918 County Road 17, along with code amendments on conditional use permits and Chapters 14 and 15. Site plans for a fire training facility, Firestone Complete Auto Care and a medical office building also came forward.
-  where: 22918 County Road 17
-  refs:
-  - 29
+  - 30
+  - 42
+  - 43
   - 50
   - 51
-  - 55
+  - 65
+  - 66
+  topics:
+  - Zoning & development
+  - Roads & traffic
+  - Land & property
+- title: 'Housing: Prop 123, housing action plan and down payment assistance'
+  summary: The Board considered a resolution of intent to commit to Proposition 123 affordable housing, a draft Housing Action Plan, and findings on a possible down payment assistance program that may be funded if DOLA or NoCo Foundation grants come through.
+  where: Townwide
+  refs:
+  - 37
+  - 50
+  - 51
+  - 61
+  - 62
+  topics:
+  - Housing
+  - Budget & taxes
+- title: Glade Inlet Canal Diversion grant (NISP)
+  summary: The NISP Enterprise is applying for a $3,000,000 Bureau of Reclamation grant for the Glade Inlet Canal Diversion. Windsor holds about 15% of the project, so a grant could save the Town roughly $450,000.
+  where: Glade Inlet Canal
+  refs:
+  - 7
+  topics:
+  - Water
+  - Utilities
+- title: Open space purchase near sewer plant and Kodak open space
+  summary: The Town is under contract for open space land with water, ditch water and four historic structures near the sewer plant, for $6.2M total ($3M water, $3.2M land). It will be funded from the Park Improvement Fund and reimbursed from open space sales tax.
+  where: South of Kodak open space near the wastewater plant
+  refs:
+  - 9
+  - 56
+  topics:
+  - Parks & open space
+  - Land & property
+  - Water
+- title: Police shooting range proposal
+  summary: The Board's budget follow-up memo says it supports limited funding of $37,000 in 2027 for the police shooting range and no more. Staff will hold a work session in early 2027 on location and design, noting the floodplain issue. A local range would meet all firearms training locally.
+  where: Windsor floodplain site
+  refs:
+  - 62
+  topics:
+  - Policing & public safety
+  - Budget & taxes
+  - Guns
+  tags:
+  - guns
+- title: Wireless tower at Timberline Church
+  summary: A 50-foot stealth silo wireless tower and conditional use permit were proposed at 29918 County Road 17, with staff recommending approval. The Town Board hearing was set for Nov. 9.
+  where: 29918 County Road 17
+  refs:
+  - 46
+  - 65
+  - 66
   topics:
   - Zoning & development
   - Broadband
-- title: Downtown parking management plan
-  summary: Staff reported on 2025 and 2026 parking utilization studies showing downtown occupancy under 85%, with peak demand near Main and Walnut Streets, and proposed code updates under the Downtown Parking Management Plan adopted June 2025.
+- title: Downtown parking management
+  summary: Under the 2025 Downtown Parking Management Plan, the Board reviewed data collection and code updates. Studies show occupancy stays below 85%, with demand peaking near Main and Walnut.
   where: Downtown Windsor
   refs:
-  - 46
-  - 47
+  - 42
+  - 43
   topics:
+  - Transit
   - Downtown & business
   - Roads & traffic
-- title: Recreation center ballot tax survey and parks projects
-  summary: A Magellan survey found 48% approval of a 0.8% tax for a new rec center and 50% for 0.5% if partnered with Severance, so the town will wait a year or two. Parks also bought about 70 acres of open space and received bids for North Campus Park.
-  where: Townwide
-  refs:
-  - 1
-  - 13
-  topics:
-  - Recreation & trails
-  - Budget & taxes
-  - Parks & open space
-- title: Flood insurance rate map adoption
-  summary: Ordinance amending municipal code to adopt updated FEMA flood maps for Larimer County portions of Windsor advanced from Planning Commission to Town Board; staff found no parcels affected adversely.
-  where: Larimer County portions of Windsor
-  refs:
-  - 29
-  - 34
-  topics:
-  - Zoning & development
-  - Environment & climate
-- title: American Legion Post 109 funding request for ADA improvements
-  summary: American Legion Forbes-McKay Post 109 asked the town for financial help with ADA access improvements to its building at 624 Ash Street, where the main floor sits about five feet above grade.
+- title: American Legion request for ADA funding
+  summary: American Legion Post 109 asked the Town for financial help with ADA improvements at its building at 624 Ash Street, whose main floor sits about five feet above grade.
   where: 624 Ash Street
   refs:
-  - 25
-  - 26
+  - 21
+  - 22
   topics:
+  - Budget & taxes
   - Land & property
-  - Health & human services
   public_comment: true
-- title: Backyard chicken rules
-  summary: The town proposed eliminating the $10 chicken permit and allowing coops up to 10 feet tall, consistent with accessory structure rules; the ordinance moved from Planning Commission to the Town Board.
+- title: Greeley litigation and logistics facilities code
+  summary: The Town Board agenda lists legal matters including The City of Greeley v. Town of Windsor, and direction on the Multimodal Transportation Logistics Facilities Code and a conditional use permit extension.
   where: Townwide
   refs:
-  - 16
-  - 25
+  - 65
+  - 66
   topics:
+  - Lawsuits & legal
   - Zoning & development
-  - Agriculture & wildlife

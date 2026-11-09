@@ -1,85 +1,68 @@
-- title: 2026 budget and property tax levy
-  summary: Council held a November 18 budget workshop, then a December 10 public hearing and votes on the 2026 budget, the property tax levy and the appropriation ordinance (No. 648). A December 29 hearing covered a supplemental appropriation to the 2025 budget.
+- title: 2026 budget, property tax levy and appropriations
+  summary: Council held a budget workshop on Nov. 18, 2025, then a public hearing on Dec. 10 to adopt the 2026 budget (Resolution 25-12-20), set the property tax levy (25-12-21) and appropriate funds (Ordinance 648). A 2025 budget supplement and supplemental appropriations were heard Dec. 29.
   where: Townwide
   refs:
+  - 0
   - 1
   - 2
-  - 3
   topics:
   - Budget & taxes
-- title: Water and sewer projects report and recommendations
-  summary: Council took up a GMS report and recommendations for water and sewer projects on April 2, with a follow-up report on the projects on August 6. The documents do not state the decisions.
+- title: Water and sewer projects
+  summary: Council received a GMS report and recommendations for water and sewer projects in April 2026, followed by project reports and discussions in August and November 2026.
   where: Townwide
   refs:
-  - 7
+  - 6
+  - 10
   - 11
   topics:
   - Water
   - Utilities
 - title: Colorado Wildfire Resiliency Code adoption
-  summary: Council held a public hearing on March 5 on Ordinance 649, which would adopt the 2025 edition of the Colorado Wildfire Resiliency Code. The ordinance appeared again on the April 2 agenda.
+  summary: Council held a public hearing in March 2026 on adopting the 2025 Colorado Wildfire Resiliency Code (Ordinance 649). The ordinance appeared again on the April agenda.
   where: Townwide
   refs:
+  - 5
   - 6
-  - 7
   topics:
   - Fire & emergencies
   - Zoning & development
-- title: Municipal code changes on vehicles, licenses and penalties
-  summary: Council considered ordinances to enforce state vehicle rules (No. 650), require a valid license or permit while driving (No. 651) and amend municipal penalties (No. 652).
-  where: Townwide
+- title: Municipal code changes on driver licensing and penalties
+  summary: Council took up ordinances to enforce state vehicle rules (Ordinance 650), require a valid license or permit when driving (651), and amend municipal penalties (652).
+  where: Citywide
   refs:
+  - 5
   - 6
-  - 7
   topics:
   - Policing & public safety
-  - Government operations
-- title: E-bike regulation (Ordinance 646)
-  summary: Council had Ordinance 646 on e-bike regulation on its November 6 agenda. The agenda does not say what the rules are.
-  where: Townwide
-  refs:
-  - 0
-  topics:
   - Roads & traffic
-  - Policing & public safety
-- title: Irrigation water rights ordinance (Ordinance 647)
-  summary: Council considered Ordinance 647 on irrigation water rights at its November 6 meeting.
-  where: Townwide
-  refs:
-  - 0
-  topics:
-  - Water
 - title: Affordable housing project review policies
-  summary: On June 4 council considered Resolution 26-06-12, which would establish review policies for affordable housing projects. A Housing Authority board appointment followed on August 6.
-  where: Townwide
-  refs:
-  - 9
-  - 11
-  topics:
-  - Housing
-  - Zoning & development
-- title: Limon Municipal Airport and transfer of entitlements
-  summary: Council considered Resolution 26-04-07 on April 2 to transfer airport entitlements to Archuleta County. An airport presentation was scheduled for August 6.
-  where: Limon Municipal Airport
-  refs:
-  - 7
-  - 11
-  topics:
-  - Airports
-- title: Street chip sealing and Limon Events contract
-  summary: On May 7 council considered a proposal from A-1 Chipseal to chip seal designated streets. On July 2 it took up a contract with Big Sandy Builders for work at Limon Events.
+  summary: In June 2026 council considered Resolution 26-06-12 establishing review policies for affordable housing projects. A Housing Authority board appointment followed in August.
   where: Citywide
   refs:
   - 8
   - 10
   topics:
-  - Roads & traffic
-  - Government operations
-- title: Tamarack Golf Club user rates
-  summary: Council considered Resolution 26-03-06 on March 5, which would set user rates for the Tamarack Golf Club.
-  where: Tamarack Golf Club
+  - Housing
+- title: Limon Municipal Airport
+  summary: Council considered Resolution 26-04-07 on transferring airport entitlements to Archuleta County in April 2026, and received a presentation on the airport in August.
+  where: Limon Municipal Airport
   refs:
   - 6
+  - 10
+  topics:
+  - Airports
+- title: Chip sealing of city streets
+  summary: Council considered a proposal from A-1 Chipseal to chip seal designated streets (Resolution 26-05-10).
+  where: Designated city streets
+  refs:
+  - 7
+  topics:
+  - Roads & traffic
+- title: Tamarack Golf Club user rates
+  summary: Council set user rates for Tamarack Golf Club through Resolution 26-03-06.
+  where: Tamarack Golf Club
+  refs:
+  - 5
   topics:
   - Fees & rates
   - Recreation & trails

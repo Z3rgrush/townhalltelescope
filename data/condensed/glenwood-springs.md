@@ -1,41 +1,6 @@
 # glenwood-springs
 
-## [glenwood-springs#0] 2026-08-06 | General | agenda
-- 101 W. 8TH STREET
-- ATTENTION: To ensure your written comments are included in the City Council packet, public comments must be received by 4 p.m
-- An executive session for a discussion with City Attorney, pursuant to C.R.S. § 24-6-402 (4)(b) for the purposes of receiving legal advice on
-
-## [glenwood-springs#1] 2026-08-06 | City Council | minutes
-- Hanlon, Deputy Chief of Police John Hassell, Finance Director Yvette Gustad, Public Works Director Matt
-- Engineer Ryan Gordon, Fire Marshall Robin Pitt, Senior Planner Emery Ellingson, Chief of Public Safety
-- Joseph Deras, and Director of Economic and Community Development Trent Hyatt
-- City resident Rachael Windh made comments about parking and tree stumps on Bennett
-- City resident Jennifer Balms made comments about parking on Bennett
-- City resident Emily Metric made comments about parking on Bennett
-- City resident Terry Gelino made comments about parking on Bennett
-- City resident Donna Yost made comments about parking on Brush Creek Lane
-- Board of Commissioners work session discussing the Hogback bus route
-- Mayor Pro Tem Zalinski moved to approve the consent agenda as presented
-- Item 7. 35:13 Public Update on Special Use Permit and Certificate of
-- Mayor Dehm opened the item for public comment
-- Mayor Dehm closed the public comment
-- legal enforcement action and related sanctions as well as injunctive relief against JG Housing Solutions
-- at 100 Midland Avenue related to Units 110 and 210 for code and zoning and land use violations based
-- on the prior findings of P&Zs revocation of the special use permit and continued violations of land use
-- Item 8. 2:37:03 APPEAL-000029-2026 319 Park Drive Short Term Rental
-- Zoning Commission’s ruling
-- Item 9. 3:24:13 Resolution 2026-18 Supporting HR 9826
-- Item 10. 3:33:00 Project Update
-- Item 11. 3:46:09 Intergovernmental Agreement (IGA) with Roaring Fork
-- Intergovernmental Agreement with Roaring Fork Transportation Authority
-- Item 12. 3:51:35 Award Request for Proposal (RFP) 2026-18P
-- Director of Operations and Interim Parks and Recreation Director Tim Bergman presented on the item
-- Request for Proposal (RFP) 2026-18P Community Center Climbing Wall
-- Item 13. 4:05:01 Fire Department Funding and Consideration of a
-- Property Tax Increase on the November 2026 Ballot
-- Public Works Director Matt Langhorst reported on a water metering and billing issue
-
-## [glenwood-springs#2] 2026-08-20 | City Council | minutes
+## [glenwood-springs#0] 2026-08-20 | City Council | minutes
 - Hanlon, Deputy Chief of Police John Hassell, Finance Director Yvette Gustad, Public Works Director Matt
 - Community Development Trent Hyatt
 - City resident Judy Haynes made comments about a complaint sent to Planning and Zoning and 100
@@ -58,7 +23,7 @@
 - Mayor Dehm made a comment about a resolution in support of the fire tax
 - There were letters from the Salvation Army and the Special Olympics thanking council for grant funding
 
-## [glenwood-springs#3] 2026-08-25 | Planning & Zoning | minutes
+## [glenwood-springs#1] 2026-08-25 | Planning & Zoning | minutes
 - City of Glenwood Springs Planning and Zoning Commission
 - 101 West 8TH STREET 6:00 PM
 - Also Present: Economic and Community Development Director Trent Hyatt, Senior
@@ -96,7 +61,7 @@
 - permit holders who have not intention of using their permit
 - Chair Peter Waller: Can you clarify Carbondale’s requirement on primary
 
-## [glenwood-springs#4] 2026-09-03 | City Council | minutes
+## [glenwood-springs#2] 2026-09-03 | City Council | minutes
 - of Economic and Community Development Trent Hyatt, and Fire Officer David Reinhold
 - City resident Jennifer Balmes made comments about parking on Bennett Ave
 - City resident Kelly Zevin made comments about parking on Bennett Ave
@@ -119,7 +84,7 @@
 - requested council support to move forward with looking at this topic
 - employee housing
 
-## [glenwood-springs#5] 2026-09-17 | City Council | minutes
+## [glenwood-springs#3] 2026-09-17 | City Council | minutes
 - Hanlon, Deputy Police Chief John Hassell, Finance Director Yvette Gustad, Director of Operations Tim
 - Economic and Community Development Trent Hyatt, Senior Planner Emery Ellingson, Housing
 - Development Manager Watkins Fulk-Gray and Economic Development Specialist Jacob Zook
@@ -144,7 +109,7 @@
 - accident. He also gave an update on Ballot Initiative 175, made a comment about housing code and the
 - Councilor Schachter made comments about having an overarching housing conversation; municipal code
 
-## [glenwood-springs#6] 2026-09-22 | Planning & Zoning | minutes
+## [glenwood-springs#4] 2026-09-22 | Planning & Zoning | minutes
 - City of Glenwood Springs Planning and Zoning Commission
 - 101 West 8TH STREET 6:00 PM
 - Also Present: Economic and Community Development Director Trent Hyatt, Long-Range
@@ -183,7 +148,7 @@
 - Xcel Energy seeks approval for L&E permit and recommendation of approval for the 1041
 - permit for the Glenwood Springs portion of the 6584 line
 
-## [glenwood-springs#7] 2026-10-01 | City Council | agenda
+## [glenwood-springs#5] 2026-10-01 | City Council | agenda
 - 101 W. 8TH STREET
 - ATTENTION: To ensure your written comments are included in the City Council packet, public comments must be received by 4 p.m
 - 3:00 Downtown Development Authority Joint Work Session Information/Discussion
@@ -206,7 +171,7 @@
 - Discussion and/or Action
 - 11. Presentation and Submittal of 2027 Budget Presentation
 
-## [glenwood-springs#8] 2026-10-06 | Planning & Zoning | minutes
+## [glenwood-springs#6] 2026-10-06 | Planning & Zoning | minutes
 - City of Glenwood Springs Planning and Zoning Commission
 - 101 West 8TH STREET 6:30 PM
 - Also Present: Economic and Community Development Director Trent Hyatt, Senior
@@ -246,7 +211,7 @@
 - Presenter: Kyle Ervin Cohen Esrey Development Group
 - Kyle Ervin of Cohen Esrey Development Group explained that the development team has
 
-## [glenwood-springs#9] 2026-10-15 | City Council | agenda
+## [glenwood-springs#7] 2026-10-15 | City Council | agenda
 - 101 W. 8TH STREET
 - ATTENTION: To ensure your written comments are included in the City Council packet, public comments must be received by 4 p.m
 - 3:00 Arts and Culture Board Joint Work Session Information/Discussion
@@ -271,19 +236,19 @@
 - 14. Ride Glenwood On-Demand Pricing Discussion and/or Action
 - 15. 2027 Public Budget Hearing Information/Discussion
 
-## [glenwood-springs#10] 2026-10-15 | City Council | agenda
+## [glenwood-springs#8] 2026-10-15 | City Council | agenda
 - 101 W. 8TH STREET
 - ATTENTION: To ensure your written comments are included in the City Council packet, public comments must be received by 4 p.m
 - 2. Executive Session Discussion and/or Action
 - City of Glenwood Springs v. Mitchell-Cooper Ditch and Pipeline Company, and 3) City of Glenwood Springs vs JG Housing Solutions, LLC
 - 3. Direction and/or Action on Executive Session Discussion and/or Action
 
-## [glenwood-springs#11] 2026-10-27 | Planning & Zoning | agenda
+## [glenwood-springs#9] 2026-10-27 | Planning & Zoning | agenda
 - Planning and Zoning Commission
 - 101 W. 8TH STREET
 - B. CDA-000123-2026 - Code Amendment to Sections 070.050.020 Summary Table of Development Review Procedures
 
-## [glenwood-springs#12] 2026-10-27 | Planning & Zoning | agenda
+## [glenwood-springs#10] 2026-10-27 | Planning & Zoning | agenda
 - Planning and Zoning Commission
 - 101 W. 8TH STREET
 - B. CDA-000123-2026 - Code Amendment to Sections 070.050.020 Summary Table of Development Review Procedures
@@ -322,3 +287,35 @@
 - Xcel Energy seeks approval for L&E permit and recommendation of approval for the 1041
 - permit for the Glenwood Springs portion of the 6584 line
 - Project purpose: wildﬁre-mitigation upgrade replacing decades-old wood poles with
+
+## [glenwood-springs#11] 2026-11-05 | City Council | agenda
+- 101 W. 8TH STREET
+- ATTENTION: To ensure your written comments are included in the City Council packet, public comments must be received by 4 p.m
+- 3:00 Tour of the Habitat Project Known as The Confluence at 8th and Midland (Optional) Information/Discussion
+- 3:30 Update on Grant Activity from Sustainable Strategies Information/Discussion
+- 4:00 Tourism Promotion Discussion with Tourism Management Board Information/Discussion
+- 4:30 Update from Senior Staff Information/Discussion
+- 6. Consent Agenda Discussion and/or Action
+- B. Arts and Culture Board Appointments
+- C. Award Request for Proposal 2026-25P KGWS Sumers Airpark Underground
+- D. RESOLUTION 2026-24; A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF
+- GLENWOOD SPRINGS, COLORADO, SETTING 2027 LANDFILL FEES
+- E. RESOLUTION 2026-27; A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF
+- GLENWOOD SPRINGS, COLORADO, ADOPTING PARKS AND RECREATION
+- CONSOLIDATED FEE SCHEDULE FOR 2027
+- ACTIONS AND/OR PRESENTATIONS
+- 7. Submittal of 2025 Annual Comprehensive Financial Report (Audit) Discussion and/or Action
+- 8. RESOLUTION 2026-26; A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF
+- GLENWOOD SPRINGS, COLORADO, APPROVING THE BUDGET FOR FISCAL YEAR 2027
+- Discussion and/or Action
+- 9. Revised Water Service Agreement(s) for 49893 Highway 6 and 24 Discussion and/or Action
+- 10. RESOLUTION 2026-25; A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF
+- 11. Planning File no. 1041-000085-2026 Matters of State Interest 1041 Application - Xcel
+
+## [glenwood-springs#12] 2026-11-05 | City Council | agenda
+- 101 W. 8TH STREET
+- ATTENTION: To ensure your written comments are included in the City Council packet, public comments must be received by 4 p.m
+- 2. Executive Session Discussion and/or Action
+- determining positions relative to matters that may be subject to negotiations; developing strategy for negotiations; and instructing negotiators;
+- related to the Hot Springs Pool raw water delivery contract
+- 3. Direction and/or Action on Executive Session Discussion and/or Action

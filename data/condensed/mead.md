@@ -1,13 +1,6 @@
 # mead
 
-## [mead#0] 2026-08-04 | General | agenda
-- 401 3rd Street, Mead
-- This informational meeting will be held at the Mead Community Center, 401 Third Street, Mead,
-
-## [mead#1] 2026-08-10 | Board of Trustees | agenda
-- 441 3rd Street, Mead
-
-## [mead#2] 2026-09-16 | Planning Commission | agenda
+## [mead#0] 2026-09-16 | Planning Commission | agenda
 - 441 3rd Street, Mead
 - Resolution No. 21-R-2023, the meeting link will be provided on the Town’s website/designated
 - 3. Review and Approve Agenda
@@ -21,7 +14,7 @@
 - Filing No. 2 Preliminary Plat
 - 7. Community Development Update
 
-## [mead#3] 2026-09-16 | Planning Commission | agenda
+## [mead#1] 2026-09-16 | Planning Commission | agenda
 - 441 3rd Street, Mead
 - Resolution No. 21-R-2023, the meeting link will be provided on the Town’s website/designated
 - 3. Review and Approve Agenda
@@ -66,7 +59,7 @@
 - center development, noting the town has not yet received proposals, and mentioned an upcoming
 - Subject: Resolution No. 07-PC-2026 - A Resolution of the Planning
 
-## [mead#4] 2026-09-28 | Urban Renewal Authority | agenda
+## [mead#2] 2026-09-28 | Urban Renewal Authority | agenda
 - 441 3rd Street, Mead
 - June 12, 2023, by Resolution No. 01-URA-2023, remote participation will be allowed. The
 - 3. Review and Approve Agenda
@@ -80,7 +73,7 @@
 - Town payables (bills list/check register) and routinely includes contracts and other items
 - a. Approval of Minutes - Regular Meeting July 13, 2026
 
-## [mead#5] 2026-09-28 | Urban Renewal Authority | agenda
+## [mead#3] 2026-09-28 | Urban Renewal Authority | agenda
 - 441 3rd Street, Mead
 - June 12, 2023, by Resolution No. 01-URA-2023, remote participation will be allowed. The
 - 3. Review and Approve Agenda
@@ -116,7 +109,7 @@
 - approved term
 - reimbursement term; and an abbreviated Small Project Track scales the submittal to a more
 
-## [mead#6] 2026-09-28 | General | agenda
+## [mead#4] 2026-09-28 | General | agenda
 - Mead Hwy 66 and I-25 General Improvement District
 - 441 3rd Street, Mead
 - Board of Trustees on March 13, 2023 by Resolution No. 21-R-2023, remote participation will be
@@ -133,7 +126,7 @@
 - General Improvement District
 - 6. 2027 Budget Presentation
 
-## [mead#7] 2026-09-28 | General | agenda
+## [mead#5] 2026-09-28 | General | agenda
 - Mead Hwy 66 and I-25 General Improvement District
 - 441 3rd Street, Mead
 - Board of Trustees on March 13, 2023 by Resolution No. 21-R-2023, remote participation will be
@@ -175,7 +168,7 @@
 - PERIOD ACTUAL YTD ACTUAL BUDGET UNEARNED PCNT
 - 31-10-4000 PROPERTY TAX .00 15,596.36 15,554.00 ( 42.36) 100.3
 
-## [mead#8] 2026-09-28 | Mead Elevation 25 General Improvement District | agenda
+## [mead#6] 2026-09-28 | Mead Elevation 25 General Improvement District | agenda
 - Mead Elevation 25 General Improvement District
 - 441 3rd Street, Mead
 - Board of Trustees on March 13, 2023 by Resolution No. 21-R-2023, remote participation will be
@@ -192,7 +185,7 @@
 - of Mead, Colorado and the Elevation 25 General Improvement District
 - 6. 2027 Budget Presentation
 
-## [mead#9] 2026-09-28 | Mead Elevation 25 General Improvement District | agenda
+## [mead#7] 2026-09-28 | Mead Elevation 25 General Improvement District | agenda
 - Mead Elevation 25 General Improvement District
 - 441 3rd Street, Mead
 - Board of Trustees on March 13, 2023 by Resolution No. 21-R-2023, remote participation will be
@@ -233,11 +226,11 @@
 - REVENUES WITH COMPARISON TO BUDGET
 - PERIOD ACTUAL YTD ACTUAL BUDGET UNEARNED PCNT
 
-## [mead#10] 2026-10-03 | Board of Trustees | agenda
+## [mead#8] 2026-10-03 | Board of Trustees | agenda
 - 13815 Chaparral Street, Mead
 - Come celebrate, explore the new library, and help welcome this exciting addition to our
 
-## [mead#11] 2026-10-12 | Board of Trustees | agenda
+## [mead#9] 2026-10-12 | Board of Trustees | agenda
 - 441 3rd Street, Mead
 - Board of Trustees on March 13, 2023 by Resolution No. 21-R-2023, remote participation will be
 - 4. Review and Approve Agenda
@@ -263,7 +256,7 @@
 - set for public hearing
 - 10. Budget Questions and Clarifications
 
-## [mead#12] 2026-10-12 | Board of Trustees | agenda
+## [mead#10] 2026-10-12 | Board of Trustees | agenda
 - 441 3rd Street, Mead
 - Board of Trustees on March 13, 2023 by Resolution No. 21-R-2023, remote participation will be
 - 4. Review and Approve Agenda
@@ -301,11 +294,11 @@
 - miles of this road between WCR 32 and WCR 36 includes two travel lanes, bike lanes, two
 - roundabouts located at CR 32 and CR 34, and a ten-foot-wide detached sidewalk. The project is a
 
-## [mead#13] 2026-10-14 | General | agenda
+## [mead#11] 2026-10-14 | General | agenda
 - High Plains Boulevard Coalition, and project developers to celebrate this achievement of
 - expanding Weld County Road (WCR) 9.5 from WCR 32 to WCR 36
 
-## [mead#14] 2026-10-19 | General | agenda
+## [mead#12] 2026-10-19 | General | agenda
 - Mead Police Facility Ground Breaking
 - Chaparral Street, Mead, 80542
 - Mead Police Facility Groundbreaking Ceremony
@@ -314,7 +307,7 @@
 - Liberty Ranch Subdivision, Chaparral Street
 - This project represents a significant investment in the future of public safety in Mead and in
 
-## [mead#15] 2026-10-21 | Planning Commission | agenda
+## [mead#13] 2026-10-21 | Planning Commission | agenda
 - 441 3rd Street, Mead
 - Resolution No. 21-R-2023, the meeting link will be provided on the Town’s website/designated
 - 3. Review and Approve Agenda
@@ -332,7 +325,7 @@
 - Grove Filing No. 1 Preliminary Plat
 - 7. Community Development Update
 
-## [mead#16] 2026-10-21 | Planning Commission | agenda
+## [mead#14] 2026-10-21 | Planning Commission | agenda
 - 441 3rd Street, Mead
 - Resolution No. 21-R-2023, the meeting link will be provided on the Town’s website/designated
 - 3. Review and Approve Agenda
@@ -375,7 +368,7 @@
 - portal and project management system. He mentioned Town Planner Ailey has been instrumental in
 - Subject: Resolution No. 08-PC-2026 — A Resolution of the
 
-## [mead#17] 2026-10-26 | Board of Trustees | agenda
+## [mead#15] 2026-10-26 | Board of Trustees | agenda
 - 441 3rd Street, Mead
 - Mead Highway 66 and I-25 General Improvement District and Elevation 25 General
 - Improvement District Joint Special Meeting
@@ -416,7 +409,7 @@
 - i. Resolution No. 71-R-2026 — A Resolution of the Town of Mead, Colorado,
 - Summarizing Expenditures and Revenues for Each Fund and Adopting a Budget
 
-## [mead#18] 2026-10-26 | Urban Renewal Authority | agenda
+## [mead#16] 2026-10-26 | Urban Renewal Authority | agenda
 - 441 3rd Street, Mead
 - June 12, 2023, by Resolution No. 01-URA-2023, remote participation will be allowed. The
 - 3. Review and Approve Agenda
@@ -435,7 +428,7 @@
 - i. Resolution No. 04-URA-2026 — A Resolution of the Town of Mead Urban
 - Budget for the Town of Mead Urban Renewal Authority for the Fiscal Year
 
-## [mead#19] 2026-10-26 | Urban Renewal Authority | agenda
+## [mead#17] 2026-10-26 | Urban Renewal Authority | agenda
 - 441 3rd Street, Mead
 - June 12, 2023, by Resolution No. 01-URA-2023, remote participation will be allowed. The
 - 3. Review and Approve Agenda
@@ -478,7 +471,7 @@
 - (the “Town Project”)
 - Commissioners discussed the cooperation agreement
 
-## [mead#20] 2026-10-26 | General | agenda
+## [mead#18] 2026-10-26 | General | agenda
 - Mead Hwy 66 & I-25 General Improvement District
 - and Mead Elevation 25 General Improvement District
 - 441 3rd Street, Mead
@@ -503,7 +496,7 @@
 - General Improvement District (GID) Board of Directors Summarizing Expenditures
 - and Revenues, Adopting a Budget, Setting the Mill Levy, and Appropriating Funds for
 
-## [mead#21] 2026-10-26 | General | agenda
+## [mead#19] 2026-10-26 | General | agenda
 - Mead Hwy 66 & I-25 General Improvement District
 - and Mead Elevation 25 General Improvement District
 - 441 3rd Street, Mead
@@ -545,7 +538,7 @@
 - REVENUES WITH COMPARISON TO BUDGET
 - PERIOD ACTUAL YTD ACTUAL BUDGET UNEARNED PCNT
 
-## [mead#22] 2026-10-26 | Board of Trustees | agenda
+## [mead#20] 2026-10-26 | Board of Trustees | agenda
 - 441 3rd Street, Mead
 - Mead Highway 66 and I-25 General Improvement District and Elevation 25 General
 - Improvement District Joint Special Meeting
@@ -586,7 +579,7 @@
 - i. Resolution No. 71-R-2026 — A Resolution of the Town of Mead, Colorado,
 - Summarizing Expenditures and Revenues for Each Fund and Adopting a Budget
 
-## [mead#23] 2026-10-29 | Board of Trustees | agenda
+## [mead#21] 2026-10-29 | Board of Trustees | agenda
 - 441 3rd Street, Mead
 - Board of Trustees on March 13, 2023 by Resolution No. 21-R-2023, remote participation will be
 - 3. Review and Approve Agenda
@@ -596,7 +589,7 @@
 - 6. Public Comment:
 - set for public hearing
 
-## [mead#24] 2026-10-29 | Board of Trustees | agenda
+## [mead#22] 2026-10-29 | Board of Trustees | agenda
 - 441 3rd Street, Mead
 - Board of Trustees on March 13, 2023 by Resolution No. 21-R-2023, remote participation will be
 - 3. Review and Approve Agenda
@@ -605,3 +598,81 @@
 - (2) Option 2: conditional use permit application (CUP)
 - 6. Public Comment:
 - set for public hearing
+
+## [mead#23] 2026-11-09 | Board of Trustees | agenda
+- 441 3rd Street, Mead
+- Board of Trustees on March 13, 2023 by Resolution No. 21-R-2023, remote participation will be
+- 4. Review and Approve Agenda
+- b. United Power Franchise Agreement
+- e. Police Station Recap
+- 8. Public Comment:
+- Consent Agenda items are considered to be routine and will be enacted by one motion and
+- vote. There will be no separate discussion of Consent Agenda items unless a Board
+- member so requests, in which case the item may be removed from the Consent Agenda
+- and considered at the end of the Consent Agenda. Because the Consent Agenda includes
+- Town payables (bills list/check register) and routinely includes contracts and other items
+- a. Approval of Minutes - Regular Meeting October 26, 2026
+- b. Approval of Minutes - Special Meeting October 29, 2026
+- e. Ordinance No. 1122 — An Ordinance of the Town of Mead, Colorado, Granting an
+- Right to Use the Streets, Alleys, Avenues, Roads, Highways, Easements, Right-of
+- Transmit, and Distribute Electricity to the Town and its Residents; Granting the Right
+- the Mayor or Mayor Pro Tem and Town Clerk to Execute the Franchise Agreement on
+- f. Resolution No. 74-R-2026 – A Resolution of the Town of Mead, Colorado,
+- g. Resolution No. 75-R-2026 - A Resolution of the Town of Mead, Colorado, Approving
+- an Agreement for Professional Services with Pro-Pipe Services, LLC for Sanitary
+- Sewer and Culvert Cleaning and Inspection Services
+- h. Resolution No. 76-R-2026 - A Resolution of the Town of Mead, Colorado, Approving
+- an Agreement for Professional Services with Concrete Conservation, LLC for the
+- Wastewater Treatment Facility Headworks Rehabilitation Project
+- i. Resolution No. 77-R-2026 – A Resolution of the Town of Mead, Colorado, Approving
+- an Agreement for Professional Services between the Town of Mead and Merrick &
+- Company for On-Call Wastewater Treatment Facility Engineering Services (RFP No
+- j. Resolution No. 78-R-2026 - A Resolution of the Town of Mead, Colorado, Approving
+- Colorado Office of Economic Development for Designation as a CHIPS Zone Under
+- k. Resolution No. 79-R-2026 — A Resolution of the Town of Mead, Colorado,
+- Approving the Second Amendment to Subdivision Improvement Agreement for Mead
+- Place, Amendment No. 1
+- 10. Public Comment:
+- set for public hearing
+- 12. Executive Session - Pursuant to C.R.S. 24-6-402(4)(f) to discuss personnel matters
+- 13. Executive Session - Pursuant to C.R.S. 24-6-402(4)(f) to discuss personnel matters
+
+## [mead#24] 2026-11-09 | Board of Trustees | agenda
+- 441 3rd Street, Mead
+- Board of Trustees on March 13, 2023 by Resolution No. 21-R-2023, remote participation will be
+- 4. Review and Approve Agenda
+- b. United Power Franchise Agreement
+- e. Police Station Recap
+- 8. Public Comment:
+- Consent Agenda items are considered to be routine and will be enacted by one motion and
+- vote. There will be no separate discussion of Consent Agenda items unless a Board
+- member so requests, in which case the item may be removed from the Consent Agenda
+- and considered at the end of the Consent Agenda. Because the Consent Agenda includes
+- Town payables (bills list/check register) and routinely includes contracts and other items
+- a. Approval of Minutes - Regular Meeting October 26, 2026
+- b. Approval of Minutes - Special Meeting October 29, 2026
+- e. Ordinance No. 1122 — An Ordinance of the Town of Mead, Colorado, Granting an
+- Right to Use the Streets, Alleys, Avenues, Roads, Highways, Easements, Right-of
+- Transmit, and Distribute Electricity to the Town and its Residents; Granting the Right
+- the Mayor or Mayor Pro Tem and Town Clerk to Execute the Franchise Agreement on
+- f. Resolution No. 74-R-2026 – A Resolution of the Town of Mead, Colorado,
+- g. Resolution No. 75-R-2026 - A Resolution of the Town of Mead, Colorado, Approving
+- an Agreement for Professional Services with Pro-Pipe Services, LLC for Sanitary
+- Sewer and Culvert Cleaning and Inspection Services
+- h. Resolution No. 76-R-2026 - A Resolution of the Town of Mead, Colorado, Approving
+- an Agreement for Professional Services with Concrete Conservation, LLC for the
+- Wastewater Treatment Facility Headworks Rehabilitation Project
+- i. Resolution No. 77-R-2026 – A Resolution of the Town of Mead, Colorado, Approving
+- an Agreement for Professional Services between the Town of Mead and Merrick &
+- Company for On-Call Wastewater Treatment Facility Engineering Services (RFP No
+- j. Resolution No. 78-R-2026 - A Resolution of the Town of Mead, Colorado, Approving
+- Colorado Office of Economic Development for Designation as a CHIPS Zone Under
+- k. Resolution No. 79-R-2026 — A Resolution of the Town of Mead, Colorado,
+- Approving the Second Amendment to Subdivision Improvement Agreement for Mead
+- Place, Amendment No. 1
+- 10. Public Comment:
+- set for public hearing
+- 12. Executive Session - Pursuant to C.R.S. 24-6-402(4)(f) to discuss personnel matters
+- 13. Executive Session - Pursuant to C.R.S. 24-6-402(4)(f) to discuss personnel matters
+- The Town Board held a special meeting on Thursday, October 29 th to discuss the construction and
+- funding details of the new police facility. The 19,000 sq foot facility is to be located at the Municipal

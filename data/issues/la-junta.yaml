@@ -1,20 +1,33 @@
-- title: 2027 city budget, mill levy and utility rate changes
-  summary: Finance Director Aliza Libby presented the 2027 budget on Sept. 8, and a public budget hearing was set. In October the Board of Utilities took up 2027 electric, water, wastewater and sanitation rate resolutions and its fund budgets. City Council then took up the budget resolution, the mill levy and the appropriation ordinance, with second readings set for Nov. 2. Mayor Ayala noted people say La Junta has the highest utility rates in Colorado.
+- title: 2027 city budget, mill levy and utility rates
+  summary: Finance Director Aliza Libby presented the 2027 budget on Sept. 8, and a public budget hearing was set. On Oct. 19 council adopted Resolution R-14-2026 approving the proposed budget and passed the mill levy and annual appropriation ordinances on first reading, with second readings on the Nov. 2 agenda. The Board of Utilities was also set to consider 2027 electric, water, wastewater and sanitation rate resolutions on Oct. 13. The mayor noted that people say La Junta has the highest utility rates in Colorado.
   where: Citywide
   refs:
   - 0
+  - 1
   - 4
   - 5
+  - 8
   - 9
   - 10
-  - 13
+  - 12
   topics:
   - Budget & taxes
   - Fees & rates
   - Utilities
+- title: Residents' complaints over police handling of a assault case
+  summary: On Oct. 19 family members spoke at council about an assault case that was reportedly dismissed without notifying the family. They described a city/county jurisdiction disconnect, unanswered requests for updates, and alleged unprofessionalism and a double standard in the police department. They also raised the mayor's endorsement of a sheriff candidate. Earlier council notes referenced transparency and accountability with the police department.
+  where: 13 West 3rd Street / 22nd Street
+  refs:
+  - 1
+  - 10
+  topics:
+  - Policing & public safety
+  - Ethics & transparency
+  - Lawsuits & legal
+  public_comment: true
 - title: Pueblo sewage spill and Arkansas River safety
-  summary: Water Director Tom Seaba briefed Council on a major raw sewage spill in Pueblo that reached the river near Confluence Park. Residents were told not to use untreated river or shallow well water for cooking or bathing. Local drinking water was reported safe, and reservoir releases were increased to help flush the river.
-  where: Arkansas River / Citywide
+  summary: Water Utilities Director Tom Seaba briefed council and the Utilities Board on a major raw sewage spill in Pueblo that reached the river. Residents were told not to use river water or untreated shallow well water for cooking or bathing. Local drinking water was stated to be safe, and reservoir releases were increased to help flush the river.
+  where: Arkansas River
   refs:
   - 4
   - 5
@@ -22,41 +35,20 @@
   - Water
   - Health & human services
   - Environment & climate
-- title: Water loan and system extension on 24th Street
-  summary: The city is extending its water system on 24th Street between Carson and Belleview to improve volume, flow and fire protection. An ordinance on first reading Nov. 2 would authorize a loan from the Colorado Water Resources and Power Development Authority for water distribution improvements. A water fund supplemental appropriation was also scheduled.
-  where: 24th Street between Carson and Belleview
-  refs:
-  - 0
-  - 4
-  - 13
-  topics:
-  - Water
-  - Utilities
-  - Budget & taxes
-- title: Urban Renewal Authority Spark grants and blight funding
-  summary: The URA tabled Sangre de Cristo Community Care's Spark Grant request for a storefront sign at 207 Colorado Ave. because the work was done before approval, and later told the applicant it would not be awarded. The URA approved a blight and safety grant for Arkansas Valley CASA's roof, and La Junta Associated Charities has an application pending. The URA also tabled its 2027 budget for a work session.
-  where: Downtown La Junta
+- title: Urban Renewal Authority grants and Chestnut Apartments
+  summary: The URA tabled the Sangre de Cristo Community Care Spark Grant for a sign at 207 Colorado Ave. because the work was done before approval, and later said it would not be awarded. It approved a roof grant for Arkansas Valley CASA, and La Junta Associated Charities has an application on the Oct. 22 agenda. The Chestnut Apartments project is behind its 180-day contract, and the board tabled the 2027 URA budget for a work session. A resident asked whether the TIF district would expand.
+  where: 207 Colorado Ave. and Chestnut Apartments
   refs:
   - 2
   - 7
-  - 12
+  - 11
   topics:
-  - Downtown & business
   - Economic development
+  - Downtown & business
   - Budget & taxes
   public_comment: true
-- title: Chestnut Apartments project delays
-  summary: The URA reviewed the Chestnut Apartments project, which is about 52 days past its 180-day contract. Remaining work includes fire suppression, HVAC, plumbing and exterior doors. The board planned to hear from tenants about their experiences.
-  where: Chestnut Apartments, La Junta
-  refs:
-  - 2
-  - 7
-  - 12
-  topics:
-  - Housing
-  - Downtown & business
-- title: New Economic Development Board
-  summary: Council passed an ordinance on first and second reading creating a city Economic Development Board, run as an arm of the city like tourism rather than as a nonprofit, in part because of IRS issues. The City Clerk will call for letters of interest for board vacancies.
+- title: New Economic Development Board ordinance
+  summary: Council passed an ordinance on first reading on Sept. 21 and second reading on Oct. 5 creating a city Economic Development Board. It would be an arm of the city rather than a nonprofit, partly because of an IRS issue. The clerk will call for letters of interest for board vacancies.
   where: Citywide
   refs:
   - 6
@@ -64,9 +56,20 @@
   topics:
   - Economic development
   - Government operations
-- title: Temporary event ordinance for side-by-sides and low-speed vehicles
-  summary: Council passed on first and second reading a temporary ordinance allowing side-by-sides and other low-speed vehicles during events. Tarantula Fest and Early Settlers Day committee members use these vehicles, and the police chief was consulted.
-  where: Event areas, La Junta
+- title: Water system improvements and state loan
+  summary: The utilities department is extending the water system on 24th Street between Carson and Belleview to improve flow and fire protection. A Nov. 2 first-reading ordinance would authorize a loan from the Colorado Water Resources and Power Development Authority for distribution system improvements. Water grant applications for new meters and storage tank rehabilitation are also underway.
+  where: 24th Street between Carson and Belleview
+  refs:
+  - 0
+  - 4
+  - 12
+  topics:
+  - Water
+  - Utilities
+  - Budget & taxes
+- title: Low-speed vehicles allowed during temporary events
+  summary: Council passed on first and second reading a temporary event ordinance allowing side-by-sides and other low-speed vehicles during events. It grew out of a tour with Main Street and Urban Renewal and the electric department, with Tarantula Fest and Early Settlers Day mentioned.
+  where: Downtown La Junta
   refs:
   - 5
   - 6
@@ -74,23 +77,15 @@
   - Tourism & events
   - Roads & traffic
 - title: Street flooding and drainage at Lewis Avenue and 2nd Street
-  summary: A Ward 1 resident told Council that recent rainstorms flooded the road at Lewis Avenue and 2nd Street and sent water into nearby basements. She said the area has only two drains.
+  summary: A resident said recent rainstorms flood the road and send water into basements and businesses at Lewis Avenue and 2nd Street, where there are only two drains.
   where: Lewis Avenue and 2nd Street
   refs:
   - 6
   topics:
   - Roads & traffic
-  - Utilities
+  - Environment & climate
   public_comment: true
-- title: Arkansas Valley Emergency Communications authority agreement
-  summary: Council approved an intergovernmental agreement establishing an emergency communications authority among area towns and agencies, funded by a fee on cell phones in the state.
-  where: Arkansas Valley
-  refs:
-  - 6
-  topics:
-  - Fire & emergencies
-  - Policing & public safety
-- title: Naming the field at Potter Park for Jim Sullivan
+- title: Naming field for Jim Sullivan at Potter Park
   summary: Residents asked to name the field Jim Sullivan Field at Potter Park, without renaming the park, under the city's naming procedure.
   where: Potter Park
   refs:
@@ -99,27 +94,19 @@
   - Parks & open space
   - Recreation & trails
   public_comment: true
-- title: Demolition of city-owned blighted property under the Copper Grant
-  summary: Council approved a resolution on a city-owned 'junk' property tied to a larger brownfield-type grant called the 'Copper Grant.' Members discussed abatement costs and plans for four properties.
+- title: Arkansas Valley Emergency communications authority agreement
+  summary: Council approved an intergovernmental agreement establishing the Arkansas Valley Emergency authority among area towns and agencies, tied to the phone fee used for emergency services.
+  where: Arkansas Valley
+  refs:
+  - 6
+  topics:
+  - Fire & emergencies
+  - Government operations
+- title: City-owned junk property cleanup under Copper Grant
+  summary: Council discussed a resolution on a city-owned blighted property that is part of a larger brownfield-type 'Copper Grant', and asked about plans for four properties and abatement costs.
   where: La Junta
   refs:
   - 3
   topics:
   - Land & property
-  - Environment & climate
-- title: Third Amendment to the Consolidation Agreement
-  summary: Council was scheduled to consider a possible action on a third amendment to the Consolidation Agreement on Oct. 19. Earlier notes mention that conditions of the agreement were met for compliance.
-  refs:
-  - 1
-  - 10
-  topics:
-  - Government operations
-- title: Industrial Park and golf course odor at wastewater plant
-  summary: Water Director Tom Seaba addressed the smell near the Industrial Park and golf course and the wastewater treatment center. The wastewater work includes a new dewatering press, and the lagoons were also discussed.
-  where: Industrial Park and golf course
-  refs:
-  - 0
-  - 1
-  topics:
-  - Utilities
   - Environment & climate

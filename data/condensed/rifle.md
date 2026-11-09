@@ -1,60 +1,6 @@
 # rifle
 
-## [rifle#0] 2026-08-10 | Parks & Recreation Advisory Board (PRAB) | agenda
-- Rifle Parks & Recreation
-- 202 Railroad Avenue, Rifle, CO 81650
-- 3. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
-- *(Reserved for general comments or items on the agenda that are not a public hearing)
-- 4.a. Consider Minutes of the July 13, 2026 Parks and Recreation Advisory Board Regular
-- 5. Presentation
-- 6.a. Discuss Weather Closure and Cancellation Policy for Rifle Metro Pool
-- 6.b. Consider Approval of the Parks & Recreation Strategic Plan 2027-2028
-- special assistance, call Parks & Recreation Director Austin Rickstrew at 970-665-6578 or email our ADA Team at
-- Rifle Parks & Recreation Advisory Board
-
-## [rifle#1] 2026-08-10 | Parks & Recreation Advisory Board (PRAB) | agenda
-- Rifle Parks & Recreation
-- 202 Railroad Avenue, Rifle, CO 81650
-- 3. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
-- *(Reserved for general comments or items on the agenda that are not a public hearing)
-- 4.a. Consider Minutes of the July 13, 2026 Parks and Recreation Advisory Board Regular
-- 5. Presentation
-- 6.a. Discuss Weather Closure and Cancellation Policy for Rifle Metro Pool
-- 6.b. Consider Approval of the Parks & Recreation Strategic Plan 2027-2028
-- special assistance, call Parks & Recreation Director Austin Rickstrew at 970-665-6578 or email our ADA Team at
-- Rifle Parks & Recreation Advisory Board
-- Consider Minutes of the July 13, 2026 Parks and Recreation Advisory Board Regular Meeting
-- Move to approve the minutes of the July 13, 2026 Parks and Recreation Advisory Board Regular Meeting
-- Notification Requirements:
-- Rifle Parks & Recreation Advisory Board Meeting July 13, 2026
-- 202 Railroad Avenue Rifle, CO
-- Public Comment
-- Consider the minutes of the June 8th meeting
-- o Aaron Cumming moved to approve the minutes of the June 8 th, Parks and
-- Unanimous approval
-- Kyle will provide an update on marketing and strategy for the Parks and Recreation Department. A flipbook
-- 1. 2026 Rifle Parks and Recreation Marketing and Advertising Report
-- and Strategy
-- Marketing & Advertisement Strategy
-- Content & Advertising Strategy
-- facilities, programs, and event information they need. Effective marketing supports the Parks and
-- Increasing awareness of departments parks, programs, facilities, and services
-- Building trust through timely, accurate, and transparent communication
-- Strategic marketing helps:
-- Keep the public informed about upcoming programs, events, and park projects
-- Showcase how the penny tax dollars are invested in the community
-- Create opportunities for two-way communication and resident feedback
-- Foster pride and a stronger connection between Parks and Rec and its stakeholders
-- Promoting Birch Park, new recreation programs, and current community amenities
-- Reaching new residents and younger audiences through current and future digital platforms
-- Diversifying advertising, find new/old avenues to broaden reach. (print/broadcast/etc.)
-- Communicating complex projects in a clear and engaging way
-- 2026 is shaping up to be another record-breaking year for the Rifle Parks and Recreation Facebook
-- both platforms
-- Through July 31, 2026, our channels have already generated approximately 1.6 million Facebook
-- With five months still remaining in the year, Rifle Parks and Recreation is on pace to surpass last
-
-## [rifle#2] 2026-08-11 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+## [rifle#0] 2026-08-11 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
 - GREATER RIFLE IMPROVEMENT
 - 202 Railroad Avenue, Rifle, CO 81650
 - 4.a. Consider Approval of July 14, 2026, Meeting Minutes
@@ -72,7 +18,7 @@
 - allow 48 hours for your requests to be met
 - auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
 
-## [rifle#3] 2026-08-11 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+## [rifle#1] 2026-08-11 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
 - GREATER RIFLE IMPROVEMENT
 - 202 Railroad Avenue, Rifle, CO 81650
 - 4.a. Consider Approval of July 14, 2026, Meeting Minutes
@@ -115,7 +61,7 @@
 - applications totaling $22,200.00
 - Karah Brubaker, Economic Opportunity Specialist II / Main Street Manager Update
 
-## [rifle#4] 2026-08-25 | Planning and Zoning Commission | agenda
+## [rifle#2] 2026-08-25 | Planning and Zoning Commission | agenda
 - PLANNING & ZONING COMMISSION
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
@@ -132,7 +78,7 @@
 - allow 48 hours for your requests to be met
 - auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
 
-## [rifle#5] 2026-08-25 | Planning and Zoning Commission | agenda
+## [rifle#3] 2026-08-25 | Planning and Zoning Commission | agenda
 - PLANNING & ZONING COMMISSION
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
@@ -175,7 +121,7 @@
 - a CUP-based data center standard
 - Requires proof of water, electricity-provider “will serve”
 
-## [rifle#6] 2026-09-08 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+## [rifle#4] 2026-09-08 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
 - GREATER RIFLE IMPROVEMENT
 - 202 Railroad Avenue, Rifle, CO 81650
 - 4.a. Consider Meeting Minutes of the regularly scheduled August 11th, 2026 GRIT Board
@@ -189,7 +135,7 @@
 - allow 48 hours for your requests to be met
 - auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
 
-## [rifle#7] 2026-09-08 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+## [rifle#5] 2026-09-08 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
 - GREATER RIFLE IMPROVEMENT
 - 202 Railroad Avenue, Rifle, CO 81650
 - 4.a. Consider Meeting Minutes of the regularly scheduled August 11th, 2026 GRIT Board
@@ -228,7 +174,7 @@
 - Discussion and possible action regarding proposed 2027 GRIT budget
 - Staff presented the proposed 2027 GRIT budget for Board review and feedback. Discussion focused on
 
-## [rifle#8] 2026-09-14 | Parks & Recreation Advisory Board (PRAB) | agenda
+## [rifle#6] 2026-09-14 | Parks & Recreation Advisory Board (PRAB) | agenda
 - Rifle Parks & Recreation
 - 202 Railroad Avenue, Rifle, CO 81650
 - 3. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
@@ -241,7 +187,7 @@
 - Rifle Parks & Recreation Advisory Board
 - special assistance, call Parks & Recreation Director Austin Rickstrew at 970-665-6578 or email our ADA Team at
 
-## [rifle#9] 2026-09-29 | Planning and Zoning Commission | agenda
+## [rifle#7] 2026-09-29 | Planning and Zoning Commission | agenda
 - PLANNING & ZONING COMMISSION
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
@@ -258,7 +204,7 @@
 - allow 48 hours for your requests to be met
 - auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
 
-## [rifle#10] 2026-09-29 | Planning and Zoning Commission | agenda
+## [rifle#8] 2026-09-29 | Planning and Zoning Commission | agenda
 - PLANNING & ZONING COMMISSION
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
@@ -301,7 +247,7 @@
 - Physical Warehouse Sizes (Square Footage)
 - Line Dissolution plat. The current code requirements state that if a lot is split, Sec 16-1
 
-## [rifle#11] 2026-10-12 | Parks & Recreation Advisory Board (PRAB) | agenda
+## [rifle#9] 2026-10-12 | Parks & Recreation Advisory Board (PRAB) | agenda
 - Rifle Parks & Recreation
 - 202 Railroad Avenue, Rifle, CO 81650
 - a. Discussion Regarding Recognition Plaque Request — Rifle Mountain Park
@@ -317,7 +263,7 @@
 - Rifle Parks & Recreation Advisory Board
 - special assistance, call Parks & Recreation Director Austin Rickstrew at 970-665-6578 or email our ADA Team at
 
-## [rifle#12] 2026-10-12 | Parks & Recreation Advisory Board (PRAB) | agenda
+## [rifle#10] 2026-10-12 | Parks & Recreation Advisory Board (PRAB) | agenda
 - Rifle Parks & Recreation
 - 202 Railroad Avenue, Rifle, CO 81650
 - a. Discussion Regarding Recognition Plaque Request — Rifle Mountain Park
@@ -356,7 +302,7 @@
 - 4. City Council Approval: The City Council will make the final decision and approve
 - the name via resolution
 
-## [rifle#13] 2026-10-12 | Rifle Community Foundation | agenda
+## [rifle#11] 2026-10-12 | Rifle Community Foundation | agenda
 - 202 Railroad Avenue Rifle, CO 81650
 - 3.a. Consider Minutes of the September 3, 2026 Rifle Community Foundation Regular
 - 4.a. Discuss Board Meeting Dates for 2027
@@ -380,7 +326,7 @@
 - 4.d. Consider Recommendation to Rifle City Council to Restructure the Rifle Community
 - allow 48 hours for your requests to be met
 
-## [rifle#14] 2026-10-12 | Rifle Community Foundation | agenda
+## [rifle#12] 2026-10-12 | Rifle Community Foundation | agenda
 - 202 Railroad Avenue Rifle, CO 81650
 - 3.a. Consider Minutes of the September 3, 2026 Rifle Community Foundation Regular
 - 4.a. Discuss Board Meeting Dates for 2027
@@ -416,7 +362,7 @@
 - foundation transitions under City administration, future appointments will go before City Council for
 - Finance Director Scott Rust requested authorization to communicate directly with the foundation’s
 
-## [rifle#15] 2026-10-13 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+## [rifle#13] 2026-10-13 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
 - GREATER RIFLE IMPROVEMENT
 - 202 Railroad Avenue, Rifle, CO 81650
 - 4.a. Consider Meeting Minutes of the regularly scheduled September 8th, 2026 GRIT Board
@@ -432,7 +378,7 @@
 - allow 48 hours for your requests to be met
 - auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
 
-## [rifle#16] 2026-10-13 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+## [rifle#14] 2026-10-13 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
 - GREATER RIFLE IMPROVEMENT
 - 202 Railroad Avenue, Rifle, CO 81650
 - 4.a. Consider Meeting Minutes of the regularly scheduled September 8th, 2026 GRIT Board
@@ -467,14 +413,14 @@
 - Staff provided updates on the proposed Third Street shade structure/pergola. Preliminary estimates for
 - approximately 400 square feet of shade range from roughly $20,000 for a canvas-style structure to $30,000
 
-## [rifle#17] 2026-10-14 | City Council | agenda
+## [rifle#15] 2026-10-14 | City Council | agenda
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
 - a. Bulk Resource Consumer Conditional Use Permit Requirements Discussion
 - b. Water Rights Report
 - allow 48 hours for your requests to be met
 
-## [rifle#18] 2026-10-14 | City Council | agenda
+## [rifle#16] 2026-10-14 | City Council | agenda
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
 - a. Bulk Resource Consumer Conditional Use Permit Requirements Discussion
@@ -520,61 +466,7 @@
 - be helpful because future high-resource uses may not call themselves data centers but may create similar
 - “Bulk Resource Consumer” means a commercial, industrial, or institutional use that, based on projected or
 
-## [rifle#19] 2026-10-21 | City Council | agenda
-- 202 Railroad Avenue Rifle, CO 81650
-- Discussion and Review
-- 4. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
-- *(Reserved for general comments or items on the agenda that are not a public hearing)
-- 5.a. Consider Minutes of the October 7, 2026 Regular Meeting
-- 5.b. Consider Liquor License Renewal for Rifle Bar, LLC dba Rifle Bar
-- 5.c. Consider Liquor License Renewal for Coloradough, LLC. dba Sweet Coloradough
-- 7. Public Hearing
-- 7.a. Consider Amending the Rifle Municipal Code for ADU's - Ordinance No.20, Series of
-- 8.a. Consider Awarding Bid to Martinez Western Constructors Inc for the Rifle 2026 Water
-- System Improvements Project
-- 8.b. Consider Proposition 123 Commitment of Affordable and Attainable Housing Units for
-- allow 48 hours for your requests to be met
-
-## [rifle#20] 2026-10-21 | City Council | agenda
-- 202 Railroad Avenue Rifle, CO 81650
-- Discussion and Review
-- 4. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
-- *(Reserved for general comments or items on the agenda that are not a public hearing)
-- 5.a. Consider Minutes of the October 7, 2026 Regular Meeting
-- 5.b. Consider Liquor License Renewal for Rifle Bar, LLC dba Rifle Bar
-- 5.c. Consider Liquor License Renewal for Coloradough, LLC. dba Sweet Coloradough
-- 7. Public Hearing
-- 7.a. Consider Amending the Rifle Municipal Code for ADU's - Ordinance No.20, Series of
-- 8.a. Consider Awarding Bid to Martinez Western Constructors Inc for the Rifle 2026 Water
-- System Improvements Project
-- 8.b. Consider Proposition 123 Commitment of Affordable and Attainable Housing Units for
-- allow 48 hours for your requests to be met
-- separate 501(c)(3) and would instead be a board under the City
-- purely on grant funding decisions
-- The foundation also requested to host their page on the City website. It has been published with updated
-- information that reflects the current board and grant process. Click here to view the webpage
-- Notification Requirements:
-- Zach Higgins, Community Development Director
-- The current budget has $100k dedicated in funding to the Business Incubator Center. Now that the proposal has
-- been finalized the budget requestis for $137k
-- grant request from the USDA
-- 2. Rifle BIC Branch 2027 Budget Cover Letter
-- 3. Rifle BIC Branch 2027 Budget Estimate
-- Requested scope and assumptions for a BIC budget estimate
-- Requested from: Western Colorado Business Development Corporation, dba Business Incubator Center
-- Budget response due: 10/09/2026 to be included in Council budget workshop on 10/21/2026
-- Purpose of this document. This is a request for a budget estimate, not a final statement of work or
-- commitment to fund. BIC should price the base scope, identify assumptions and recommended
-- The City is providing a scope of work to the Grand Junction BIC to create and operate a Rifle Branch in
-- Downtown vitality: generate more viable downtown businesses by developing startup concepts and
-- permanent incubator facility. An agreement with the Rifle Regional Economic Development Corporation
-- industrial space may be evaluated separately as demand becomes clear
-- week across at least four weekdays, with remaining time used for appointments, outreach,
-- The branch has a Rifle-specific public identity, intake path, published hours, outreach plan, and
-- Intake, readiness assessment, market validation, business-model development, planning, cash-flow
-- projections, pricing, licensing navigation, marketing, sales, websites, bookkeeping systems,
-
-## [rifle#21] 2026-10-27 | Planning and Zoning Commission | agenda
+## [rifle#17] 2026-10-27 | Planning and Zoning Commission | agenda
 - PLANNING & ZONING COMMISSION
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
@@ -591,7 +483,7 @@
 - allow 48 hours for your requests to be met
 - auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
 
-## [rifle#22] 2026-10-27 | Planning and Zoning Commission | agenda
+## [rifle#18] 2026-10-27 | Planning and Zoning Commission | agenda
 - PLANNING & ZONING COMMISSION
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
@@ -635,3 +527,123 @@
 - redlined the existing plan, marking up the document with comments and edits that provided
 - context on how the plan has been used and where it has fallen short
 - recommendations and key analyses from those plans, so the comprehensive plan reflects work
+
+## [rifle#19] 2026-11-04 | City Council | agenda
+- 202 Railroad Avenue, Rifle, CO 81650
+- Discussion and Review
+- a. Discussion on 2026 Comprehensive Plan Draft
+- 4. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
+- *(Reserved for general comments or items on the agenda that are not a public hearing)
+- 5.a. Consider Minutes of the October 21, 2026 Regular Meeting
+- 5.b. Consider Liquor License Renewal for SZN Investments, LLC dba Jon's Liquors
+- 5.c. Consider Amending the Rifle Municipal Code for ADU's - Ordinance No.20, Series of
+- 7. Presentation
+- 7.a. Update on Roan Plateau Natural Gas Leasing - Wilderness Workshop
+- 8. Public Hearing
+- 8.a. Consider Amending Chapter 16 of the Rifle Municipal Code Adding Bulk Resource
+- Consumer Regulation Standards - Ordinance No. 21, Series of 2026 (1st Reading)
+- 9.a. Consider the Appointment of Tara Rumery to the Downtown Development Authority
+- 9.b. Consider the Appointment of Cobus Van Rooyen to the Downtown Development
+- 9.c. Consider Awarding a GRIT Facade Grant to ProMex Bakery - Funded by Rifle Lodging
+- 9.d. Consider Awarding a GRIT Facade Grant to the Rifle Regional Economic Development
+- Corporation (RREDC) for the Rifle CoWork - Funded by Rifle Lodging Tax
+- 9.e. Consider Applying for Grant Funding with Restoration and Stewardship of Outdoor
+- Resources and Environment (RESTORE) Colorado for Centennial Park Improvements
+- allow 48 hours for your requests to be met
+
+## [rifle#20] 2026-11-04 | City Council | agenda
+- 202 Railroad Avenue, Rifle, CO 81650
+- Discussion and Review
+- a. Discussion on 2026 Comprehensive Plan Draft
+- 4. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
+- *(Reserved for general comments or items on the agenda that are not a public hearing)
+- 5.a. Consider Minutes of the October 21, 2026 Regular Meeting
+- 5.b. Consider Liquor License Renewal for SZN Investments, LLC dba Jon's Liquors
+- 5.c. Consider Amending the Rifle Municipal Code for ADU's - Ordinance No.20, Series of
+- 7. Presentation
+- 7.a. Update on Roan Plateau Natural Gas Leasing - Wilderness Workshop
+- 8. Public Hearing
+- 8.a. Consider Amending Chapter 16 of the Rifle Municipal Code Adding Bulk Resource
+- Consumer Regulation Standards - Ordinance No. 21, Series of 2026 (1st Reading)
+- 9.a. Consider the Appointment of Tara Rumery to the Downtown Development Authority
+- 9.b. Consider the Appointment of Cobus Van Rooyen to the Downtown Development
+- 9.c. Consider Awarding a GRIT Facade Grant to ProMex Bakery - Funded by Rifle Lodging
+- 9.d. Consider Awarding a GRIT Facade Grant to the Rifle Regional Economic Development
+- Corporation (RREDC) for the Rifle CoWork - Funded by Rifle Lodging Tax
+- 9.e. Consider Applying for Grant Funding with Restoration and Stewardship of Outdoor
+- Resources and Environment (RESTORE) Colorado for Centennial Park Improvements
+- allow 48 hours for your requests to be met
+- Discussion on 2026 Comprehensive Plan Draft
+- Zach Higgins, Community Development Director
+- Discussion regarding draft 2026 Comprehensive Plan
+- Provide feedback on draft 2026 Comprehensive Plan
+- Notification Requirements:
+- 1. Draft Plan for PC Review_10_22_2026_reduced size
+- 2. Memo_for_Draft Plan for PC Review_10_22_2026
+- 3. Rifle Comp Plan 2019 vs. 2026 Draft
+- infrastructure, affordability and housing choices, a diverse and resilient economy, and
+- exceptional access to parks, trails, recreation, and community amenities. Rifle will grow in a
+- Comprehensive Plan. The purpose of the Comprehensive Plan Update is to identify the
+- [to add: brief description of comp planning] statutory compliance notes, SGE, WGE, 3 mile plan
+- This 2026 Comprehensive Plan updates the City’s growth assumptions to reflect current
+- population, housing, infrastructure, and market conditions. Recent housing analysis indicates
+- that Rifle will continue to experience significant housing demand over the next 20 years, with
+- projected need ranging from approximately 1,800 to 2,200 additional housing units depending
+- makes it difficult to predict the pace of growth. Regardless of growth rates, the Comprehensive
+
+## [rifle#21] 2026-11-09 | Parks & Recreation Advisory Board (PRAB) | agenda
+- Rifle Parks & Recreation
+- 202 Railroad Avenue, Rifle, CO 81650
+- 3. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
+- *(Reserved for general comments or items on the agenda that are not a public hearing)
+- 4.a. Consider Minutes of the October 12th, 2026, Parks & Recreation Advisory Board Regular
+- 5. Presentation
+- 5.a. City of Rifle Comprehensive Plan - Parks & Recreation
+- 5.b. Rifle Creek Watershed Resilience and Habitat Restoration Project
+- 5.c. Colorado State Forest Service — Raynard Ditch Invasive Removal and Fire Mitigation
+- 6.a. Consider Letter of Support for City of Rifle DOLA EIAF Grant Application - Railroad
+- Rehabilitation Project
+- 7.a. Parks and Recreation Advisory Board Member Terms
+- Rifle Parks & Recreation Advisory Board
+- special assistance, call Parks & Recreation Director Austin Rickstrew at 970-665-6578 or email our ADA Team at
+
+## [rifle#22] 2026-11-09 | Parks & Recreation Advisory Board (PRAB) | agenda
+- Rifle Parks & Recreation
+- 202 Railroad Avenue, Rifle, CO 81650
+- 3. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
+- *(Reserved for general comments or items on the agenda that are not a public hearing)
+- 4.a. Consider Minutes of the October 12th, 2026, Parks & Recreation Advisory Board Regular
+- 5. Presentation
+- 5.a. City of Rifle Comprehensive Plan - Parks & Recreation
+- 5.b. Rifle Creek Watershed Resilience and Habitat Restoration Project
+- 5.c. Colorado State Forest Service — Raynard Ditch Invasive Removal and Fire Mitigation
+- 6.a. Consider Letter of Support for City of Rifle DOLA EIAF Grant Application - Railroad
+- Rehabilitation Project
+- 7.a. Parks and Recreation Advisory Board Member Terms
+- Rifle Parks & Recreation Advisory Board
+- special assistance, call Parks & Recreation Director Austin Rickstrew at 970-665-6578 or email our ADA Team at
+- Consider Minutes of the October 12th, 2026, Parks & Recreation Advisory Board Regular Meeting
+- Consider the minutes of the October 12th, 2026, Parks & Recreation Advisory Board Regular Meeting
+- Move to approve minutes of the October 12, 2026 Parks & Recreation Advisory Board Regular Meeting
+- Notification Requirements:
+- Rifle Parks & Recreation Advisory Board Meeting October 12, 2026
+- 202 Railroad Avenue Rifle, CO
+- PUBLIC COMMENT
+- Public comment was submitted via email regarding the skate park
+- Consider the minutes of the September 14th, 2026, Regular Meeting
+- Ken Blatter moved to approve the minutes of the September 14 th, 2026, Parks and Recreation
+- Consider Recognition plaque Request – Rifle Mountain Park
+- This item was discussed in the previous PRAB meeting on September 14 th, where no action was
+- Cumming. Unanimous approval
+- Consider a Letter of Support for Riparian Restoration and Access at Centennial Park
+- RESTORE Grant
+- Parks & Recreation Director Austin Rickstrew presented the request for a letter of support for the
+- application to the RESTORE Grant. The City of Rifle has partnered with the Middle Colorado
+- Watershed Council to apply for the RESTORE grant, which is a federal, no-match grant
+- requested amount is $130,000.00 and if awarded, is intended to help fund construction
+- documents for the Centennial Park project, identified in the Middle Colorado Watershed
+- Councils’ Rifle Creek Restoration Implementation Plan
+- Unanimous approval
+- Rifle Mountain Park – Bike Rack Installation
+- Parks & Recreation Director Austin Rickstrew gave a recap on a series of bike racks purchased
+- by the Rifle Climbing Coalition that were installed in Rifle Mountain Park over the past few

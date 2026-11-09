@@ -1,80 +1,86 @@
-- title: 209 E. Midland (Vos Building) historic landmark designation and dangerous-building appeal
-  summary: The Historical Preservation Committee considered recommending that City Council designate the Vos Building at 209 E. Midland a Local Historic Landmark, with four letters of support and one public comment received. Separately, owner Andrew Nguyen appealed a Dangerous Building Notice and Notice to Vacate issued May 28, 2026 to the Board of Review. His representative said the building has been vacant since 2019 and the 60-day permit deadline is not feasible, and the Historical Preservation Committee later discussed the appeal.
-  where: 209 E. Midland Avenue
+- title: Temporary moratorium on residential development applications
+  summary: City Council took up Ordinance No. 1541 on initial posting, which would temporarily halt submission, acceptance, processing and approval of development, zoning and land use applications for residential development in the city. A public hearing was set for November 19, 2026.
+  where: Citywide
   refs:
-  - 1
-  - 3
-  - 6
-  topics:
-  - Historic preservation
-  - Zoning & development
-  - Land & property
-  public_comment: true
-- title: Eagle Fire Lodge rezoning and multi-family conditional use permit
-  summary: Cedarwood Development, for owner Woodland Capital, asks to rezone 777 E. US Highway 24 from Planned Unit Development to Multi Dwelling Urban Residential and to get a Conditional Use Permit for multi-dwelling housing. The Planning Commission hearing is Oct. 8, with a City Council hearing to follow.
-  where: 777 E. US Highway 24
-  refs:
-  - 8
   - 10
+  - 11
   topics:
   - Housing
   - Zoning & development
-- title: New 'Public Safety Facilities' use in the Unified Development Code
-  summary: The city is amending the Unified Development Code to add and define 'Public Safety Facilities' as a use allowed through the Special Use Permit process. The Planning Commission discussed it in September and October, and Council was to consider Ordinance No. 1536 on initial posting Oct. 15.
-  where: Citywide
+- title: Eagle Fire Lodge rezoning and multi-household permit at 777 E. US Highway 24
+  summary: 'Cedarwood Development requested rezoning of Lot 3R, Block 3, C.D. Weaver #1A Subdivision from PUD to Multiple Dwelling Urban Residential, plus a conditional use permit for multi-household attached dwellings. The Planning Commission held a hearing on Oct. 8, and Council saw Ordinances 1539 and 1540 on initial posting with hearings set for Nov. 19, 2026.'
+  where: 777 E. US Highway 24
   refs:
   - 7
   - 10
   - 11
-  - 12
   topics:
+  - Housing
   - Zoning & development
-  - Policing & public safety
-- title: 116 W. Lake Avenue historic landmark request
-  summary: Applicant Steve Plutt and owner Murray WP Cabin, LLC asked to designate 116 W. Lake Avenue a Local Historic Landmark. The Historical Preservation Committee held a hearing Sept. 1, and a City Council public hearing is set for Oct. 1, 2026 at 6:00 PM.
+- title: Appeal of dangerous building order at 209 E. Midland Avenue
+  summary: Owner Andrew Nguyen appealed a Notice and Order and Notice to Vacate for the long-vacant building. His representatives said the 60-day permit deadline is unworkable, citing a contractor bankruptcy and plan review and construction timelines. The building has also been recommended for Local Historic Landmark designation.
+  where: 209 E. Midland Avenue
+  refs:
+  - 1
+  - 4
+  topics:
+  - Land & property
+  - Historic preservation
+  - Housing
+- title: Historic landmark designation for 116 W. Lake Avenue
+  summary: The Historical Preservation Committee scheduled a Sept. 1 public hearing on a request by Steve Plutt and Murray WP Cabin, LLC to designate the property a Local Historic Landmark. The City Council hearing is set for Oct. 1, 2026.
   where: 116 W. Lake Avenue
   refs:
-  - 5
-  - 6
+  - 3
+  - 4
   topics:
   - Historic preservation
   - Land & property
-- title: Downtown Development Authority 2027 budget and micro-grants
-  summary: The DDA reviewed its 2026 micro-grant program (about $197,517 total, with final reports approved for several businesses) and discussed its 2027 budget. The flower budget line may drop from $250,000 to $50,000, and a downtown walkability study, holiday promotion and 2027 grants were discussed. The board will see the budget in October, and a member noted City Council may dissolve the DDA.
-  where: Downtown Woodland Park
-  refs:
-  - 8
-  topics:
-  - Downtown & business
-  - Budget & taxes
-  - Economic development
-- title: City 2027 budget, sales tax and school funding presentations
-  summary: The Oct. 15 City Council agenda included a 2027 budget presentation, an August sales tax update and a school district funding presentation explaining how property taxes interact with state school funding.
+- title: Unified Development Code change for Public Safety Facilities
+  summary: The city is amending the Unified Development Code to add Public Safety Facilities as a use under the Special Use Permit process and define the term. The Planning Commission considered it in September and October, and Council had Ordinance No. 1536 up for a public hearing on Nov. 5.
   where: Citywide
   refs:
+  - 5
+  - 7
+  - 10
   - 11
-  - 12
+  topics:
+  - Zoning & development
+  - Policing & public safety
+- title: Downtown Development Authority 2027 budget and micro-grants
+  summary: 'The DDA reviewed its 2027 budget, including $275,000 for TIF agreements (increased for the TAVA TIF agreement), $200,000 for micro-grants and $50,000 for beautification. It also reviewed micro-grant final reports: about $48,337 paid so far, $175,000 expected by year-end, and a move to one grant per applicant going forward.'
+  where: Downtown Woodland Park
+  refs:
+  - 9
   topics:
   - Budget & taxes
-  - Schools & youth
-- title: 'Historic preservation projects: Junction House, Templeton Cemetery, Bergstrom Park'
-  summary: The Historical Preservation Committee tracks the Junction House/Roberts House grant (a possible Brownfields grant handled by the city), the Templeton Cemetery restoration plan, the preservation plan, and the Bergstrom Park Reimagined design, which a council member said is already agreed upon. The committee is also preparing a 2027 work plan and budget.
-  where: Junction House, Templeton Cemetery, Bergstrom Park
+  - Downtown & business
+  - Economic development
+- title: City 2027 budget
+  summary: The 2027 budget was on the Nov. 5 City Council agenda, with public comment allowed.
+  where: Citywide
   refs:
-  - 0
-  - 1
-  - 5
+  - 10
+  - 11
+  topics:
+  - Budget & taxes
+- title: 'Historic preservation projects: Junction House, Templeton Cemetery, Bergstrom Park'
+  summary: The Historical Preservation Committee tracks the Junction House/Roberts House grant (Brownfields funding was discussed), the Templeton Cemetery restoration plan, a preservation plan and the Bergstrom Park Reimagined project. It also reviewed its 2027 work plan and proposed budget.
+  where: Woodland Park
+  refs:
+  - 3
+  - 4
   - 6
-  - 9
+  - 8
   topics:
   - Historic preservation
   - Parks & open space
-- title: Boy Scouts Reservoir presentation
-  summary: Utilities Director Wiley was scheduled to give City Council a presentation on the Boy Scouts Reservoir on Oct. 15.
-  where: Boy Scouts Reservoir
+- title: Main Street programs and grants
+  summary: The Main Street board discussed seeking a $2,500 AARP grant and DOLA mini-grants, and Oktoberfest and parade planning. Council also scheduled a State of Main Street presentation for Nov. 5.
+  where: Downtown Woodland Park
   refs:
-  - 11
-  - 12
+  - 2
+  - 10
   topics:
-  - Water
-  - Utilities
+  - Downtown & business
+  - Tourism & events

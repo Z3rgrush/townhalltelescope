@@ -1,67 +1,58 @@
-- title: Public safety tax discussion
-  summary: City Manager Jacquie Halburnt is scheduled to lead a council discussion of a public safety tax at the October 20, 2026 meeting. The documents give no details on the amount or any decision.
+- title: 2027 fee schedule and automated vehicle identification (Verra Mobility) agreement
+  summary: Council agenda included Resolution 26-27 adopting the 2027 fee schedule and an item amending the service fee schedule tied to the Verra Mobility services agreement for automated vehicle identification systems. The documents do not state the outcome.
   where: Citywide
   refs:
   - 0
   topics:
-  - Budget & taxes
-  - Policing & public safety
-- title: 2027 draft budget changes and fee schedule
-  summary: Finance Director Tim Weitzman is scheduled to present changes to the 2027 draft budget. Council will also consider a resolution adopting the 2027 fee schedule.
-  where: Citywide
-  refs:
-  - 0
-  topics:
-  - Budget & taxes
   - Fees & rates
-- title: Police Department concerns and calls to dismiss the City Manager
-  summary: Residents told council that, in their opinion, the Police Department is in disarray, the city has a high crime rate, and the City Manager should be dismissed. These comments came as council also took up police items such as a code enforcement van replacement and a Motorola VESTA NXT project.
-  where: Citywide
-  refs:
-  - 0
-  public_comment: true
-  topics:
   - Policing & public safety
   - Government operations
-- title: 'Police equipment: code enforcement van and Motorola VESTA NXT'
-  summary: Council is to consider a request to replace and upfit a Police Department code enforcement van. It will also consider a 2027 Motorola VESTA NXT project presented by Acting Chief Karl Ballard.
-  where: Police Department
+- title: Public safety tax discussion and 2027 draft budget changes
+  summary: A council work session item covered a possible public safety tax and changes to the 2027 draft budget. Details and decisions are not given in the documents.
+  where: Citywide
   refs:
   - 0
   topics:
-  - Policing & public safety
   - Budget & taxes
-- title: Holiday market proposal at Water World parking lot
-  summary: Moses Chavez told council he wants to hold a holiday market in the Water World parking lot.
-  where: Water World parking lot
-  refs:
-  - 0
-  public_comment: true
-  topics:
-  - Tourism & events
-  - Downtown & business
-- title: Intergovernmental agreement with Hyland Hills Park and Recreation District
-  summary: Council is to consider a resolution approving an intergovernmental agreement between the city and Hyland Hills Park and Recreation District, presented by Community Development Director Tim Williams.
+  - Policing & public safety
+- title: Hyland Hills intergovernmental agreement for surveying
+  summary: Resolution 26-28 would approve an intergovernmental agreement between Federal Heights and the Hyland Hills Park and Recreation District for surveying.
   where: Federal Heights
   refs:
   - 0
   topics:
   - Parks & open space
-  - Recreation & trails
   - Government operations
-- title: Local Natural Hazard Mitigation Plan agreement
-  summary: Council is to consider an intergovernmental agreement with neighboring governments for a local natural hazard mitigation plan.
-  where: Regional
+- title: Local natural hazard mitigation plan agreement with Thornton and other jurisdictions
+  summary: Resolution 26-29 would approve an intergovernmental agreement for a local natural hazard mitigation plan between Federal Heights, Thornton and other partners.
+  where: Citywide
   refs:
   - 0
   topics:
-  - Environment & climate
   - Fire & emergencies
-  - Government operations
-- title: More frequent City Council meetings
-  summary: Council is scheduled to discuss increasing how often it meets.
+  - Environment & climate
+- title: 2027 Motorola VESTA NXT project
+  summary: Council considered a decision item on the 2027 Motorola VESTA NXT project. VESTA is a 911 call-handling system, though the documents give no further details.
+  where: Citywide
+  refs:
+  - 0
+  topics:
+  - Policing & public safety
+  - Fire & emergencies
+- title: Resident Ted May's complaints about city documents and First Amendment rights
+  summary: During public comment, Ted May questioned the validity of certain city documents and said his First Amendment rights had been violated. He said his attorney had copies of related records.
+  where: Citywide
+  refs:
+  - 0
+  topics:
+  - Ethics & transparency
+  - Lawsuits & legal
+  public_comment: true
+- title: Ward II council appointment and audit services contract
+  summary: Minutes show a Ward II council appointment and a contract with John Cutler & Associates for audit services at $13,500 per year.
   where: Citywide
   refs:
   - 0
   topics:
   - Government operations
+  - Elections

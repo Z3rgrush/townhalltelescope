@@ -1,19 +1,14 @@
 # akron
 
-## [akron#0] 2026-08-10 | Town Council | agenda
-- RESOLUTION 26.09
-- Adoption of Resolution Authorizing Expedited Review Process for
-- Qualified Affordable Housing Projects as Part of a Commitment to Proposition 123, as Adopted
-
-## [akron#1] 2026-08-18 | Town Council | agenda
+## [akron#0] 2026-08-18 | Town Council | agenda
 - Possible Action to Appoint Successor Trustee to Fill Ms. Benson's Position
 - Possible Action Regarding Approval of Settlement with Town Manager
 - 402(4)(b) - discussion of settlement with Town Manager
 
-## [akron#2] 2026-08-24 | Town Council | agenda
+## [akron#1] 2026-08-24 | Town Council | agenda
 - Review County Housing Authority Request for Water Review Title 13 Subdivision
 
-## [akron#3] 2026-09-14 | Town Council | agenda
+## [akron#2] 2026-09-14 | Town Council | agenda
 - 26.08.10_Special Minutes_Housing Project.docx
 - 26.09.01_Special Meeting Minutes_Housing.docx
 - Water Pollution Control Revolving Fund (WPCRF) public hearing for the sanitary sewer
@@ -32,17 +27,17 @@
 - Possible action to approve the updated bid with Mesa Fab Shop, INC
 - Updated_Akron Awning Bid Proposal -2026.pdf
 
-## [akron#4] 2026-10-05 | Town Council | agenda
+## [akron#3] 2026-10-05 | Town Council | agenda
 - 6.b Washington County Housing Authority
 - 8.a E-Bike Ordinance discussion
 - 8.b Possible action regarding new DOLA-EIAF Grant Application recommended by GMS for up
 - to $1,000,000.00 support, The Water Systems Improvement Project
 - 9.a Ordinance 614 - Title 14 Planning and Zoning | Second Read
 
-## [akron#5] 2026-10-12 | Town Council | agenda
+## [akron#4] 2026-10-12 | Town Council | agenda
 - 2027 Budget Review
 
-## [akron#6] 2026-11-02 | Town Council | agenda
+## [akron#5] 2026-11-02 | Town Council | agenda
 - 6.f Washington County Housing Authority
 - discussing negotiation
 - 12. DISCUSS COMPENSATION FOR EMPLOYEES
@@ -73,3 +68,9 @@
 - closed, pump-fed distribution system of cast iron, PVC, and asbestos cement pipe. Arsenic, nitrate, uranium, and
 - well water to meet standards
 - The needed rate increase was estimated at $13 to $18 per month. The schedule calls for a loan application by
+
+## [akron#6] 2026-11-09 | Town Council | agenda
+- Review and possible action of MOU with Washington County Housing Authority
+- Integrated Housing Authority MOU.11.6.26.docx
+- Review and possible action of Sheriff's Contract
+- 2027 Akron Town Contract Code Enforcement final revision.docx

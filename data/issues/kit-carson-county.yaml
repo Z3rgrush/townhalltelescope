@@ -1,54 +1,64 @@
-- title: 2027 draft county budget public hearing
-  summary: The Board of County Commissioners scheduled a public hearing on the 2027 draft budget for 1:30 PM on October 28, 2026. The documents do not state the budget figures or any decision.
+- title: 2027 county budget public hearing
+  summary: The Board of County Commissioners scheduled a 1:30 PM public hearing on the 2027 draft budget on October 28, 2026. The documents do not state the outcome.
   where: Countywide
   refs:
   - 1
   topics:
   - Budget & taxes
-- title: Engie Resources conceptual site plan
-  summary: The Planning Commission agenda for October 20, 2026 includes a conceptual site plan from Engie Resources, along with a separate request for a variance from setback requirements. The documents give no details on the project's location or outcome.
+- title: Engie Resources conceptual site plan and setback variance
+  summary: The Planning Commission's October 20 agenda included a conceptual site plan for Engie Resources and a request for a setback variance. The documents give no details on the project type or any decision.
+  where: Kit Carson County
   refs:
   - 0
   topics:
   - Zoning & development
   - Energy
 - title: Letter to Colorado Parks and Wildlife on prairie dogs on public lands
-  summary: County commissioners had an item on the October 28 agenda about a letter to the Colorado Parks and Wildlife Commission concerning prairie dogs on public lands. The documents do not give the letter's contents.
+  summary: The commissioners considered sending a letter to the Colorado Parks and Wildlife Commission about prairie dogs on public lands.
   where: Countywide
   refs:
   - 1
   topics:
   - Agriculture & wildlife
-  - Land & property
 - title: Landfill leachate pump bids
-  summary: Commissioners were set to consider bids for a leachate pump and its installation at the county landfill.
+  summary: The commissioners reviewed bids for a leachate pump and its installation at the county landfill.
   where: County landfill
   refs:
   - 1
   topics:
-  - Environment & climate
   - Utilities
-- title: ERTB grant-funded Catalis subscription for Clerk & Recorder
-  summary: 'Commissioners had an item for a $23,850 Catalis subscription fee for 2026-2027, tied to ERTB Grant #9, for the Clerk & Recorder''s office.'
-  where: Clerk & Recorder's office
+  - Environment & climate
+- title: Axon contract renewal and dispatch equipment purchases
+  summary: The commissioners met with Travis Belden on renewing the Axon contract. They also considered a $60,760.60 Russ Bassett sales agreement for console desks for dispatch.
+  where: Sheriff and Dispatch
   refs:
-  - 1
+  - 4
   topics:
+  - Policing & public safety
   - Government operations
-  - Fees & rates
-- title: Copier and printer rental agreement
-  summary: A rental agreement with Singlepoint LLC for copiers and printers at $4,352.45 per month was on the commissioners' October 28 agenda for the IT department.
+- title: Albertsons opioid settlement agreement
+  summary: The commissioners took up the county's agreement under the Albertsons opioid settlement on November 4, 2026.
   where: Countywide
   refs:
-  - 1
+  - 4
   topics:
-  - Government operations
-  - Budget & taxes
-- title: 2027 rodeo association applications
-  summary: Commissioners had items on the 2027 PRCA application ($1,300) and WPRA application ($150) for the county rodeo.
+  - Health & human services
+  - Lawsuits & legal
+- title: 2027 rodeo contracts and applications
+  summary: 'The county considered 2027 rodeo items: two bullfighter contracts at $2,400 each, a $1,300 PRCA application and a $150 WPRA application.'
   where: County rodeo
   refs:
   - 1
+  - 4
   topics:
   - Tourism & events
   - Recreation & trails
+- title: Road & Bridge pickups and other 2027 purchases
+  summary: The county took bids for 2027 Road & Bridge pickups and for Clerk & Recorder office furniture. It also considered a $4,352.45/month copier and printer rental and a $23,850 Catalis subscription paid by an ERTB grant.
+  where: Countywide
+  refs:
+  - 1
+  - 4
+  topics:
+  - Roads & traffic
+  - Government operations

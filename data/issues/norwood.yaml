@@ -1,5 +1,5 @@
 - title: Town-wide 15 mph speed limit
-  summary: The board discussed lowering the speed limit in April and June. A July ordinance would set a 15 mph limit on all town streets unless otherwise posted, and the item returned in August. The documents do not state the final vote.
+  summary: The board discussed lowering the speed limit in the spring and summer, then considered an ordinance in July setting a 15 mph limit on all town streets unless otherwise posted. A further ordinance was on the August 12 agenda, but the documents do not state the outcome.
   where: Townwide
   refs:
   - 6
@@ -9,19 +9,21 @@
   topics:
   - Roads & traffic
   - Policing & public safety
-- title: Moratorium on medium and large scale development and land use code rewrite
-  summary: In January the board discussed extending the emergency temporary moratorium on medium and large scale development (Ordinance 0813, 2025). It has since worked on a KLJ land use code contract, a Land Use Code amendment ordinance in October, and a KLJ master plan contract and update.
+- title: Moratorium on medium and large-scale development and land use code rewrite
+  summary: The board considered extending the emergency temporary moratorium on medium and large-scale development (Ordinance 0813, 2025). It also contracted KLJ for a land use code update and a master plan, and a Land Use Code amendment ordinance was scheduled for October. A joint work session covered the master plan and annexation.
   where: Townwide
   refs:
   - 1
   - 2
+  - 10
   - 17
   - 19
   topics:
   - Zoning & development
-  - Government operations
-- title: Norwood Public School property purchase and rezone at 2028 Maverick Way
-  summary: The board took up an update on buying the Norwood Public School property in January. In May it held a public hearing on rezoning 2028 Maverick Way from Agriculture to a Public zoning district.
+  - Annexation
+  - Land & property
+- title: Norwood Public School property purchase and rezone
+  summary: The town tracked its purchase of the Norwood Public School property. A public hearing and ordinance were scheduled on May 13 to rezone 2028 Maverick Way from Agriculture to a Public zoning district.
   where: 2028 Maverick Way
   refs:
   - 1
@@ -30,8 +32,42 @@
   - Land & property
   - Zoning & development
   - Schools & youth
-- title: Pocket park at 1575 Grand Ave
-  summary: The board handled a bid from RMC Builders, updates, signage and the park's address. A dedication was scheduled for September.
+- title: Short-term rental rules
+  summary: Short-term rentals were a recurring discussion item from July through October. The documents do not give specifics of any proposed rules.
+  where: Townwide
+  refs:
+  - 11
+  - 16
+  - 17
+  topics:
+  - Short-term rentals
+  - Housing
+- title: Employee compensation and retention incentives
+  summary: The board considered a resolution and ordinance authorizing additional compensation and retention incentives for employees, with legal review of compensation in May. A second ordinance on the subject came up in July.
+  where: Townwide
+  refs:
+  - 9
+  - 10
+  - 11
+  topics:
+  - Government operations
+  - Budget & taxes
+- title: Water treatment plant land, raw water and water commission
+  summary: The board and Water Commission met about State Land Board property for the water treatment plant. They also worked on raw water board rules, grant authority for the Water Commission, commission appointments and terms, and a drainage study and system design by SGM.
+  where: Townwide
+  refs:
+  - 2
+  - 3
+  - 7
+  - 10
+  - 15
+  - 17
+  topics:
+  - Water
+  - Utilities
+  - Land & property
+- title: Pocket park construction and dedication
+  summary: The town took a bid from RMC Builders for the pocket park at 1575 Grand Ave. Signage and an update followed, and a dedication was set for September.
   where: 1575 Grand Ave
   refs:
   - 6
@@ -42,41 +78,9 @@
   - 16
   topics:
   - Parks & open space
-  - Recreation & trails
-- title: Employee compensation and retention incentives
-  summary: In May the board considered a legal review of employee compensation. In June and July it took up a resolution and ordinance authorizing additional compensation and retention incentives for employees.
-  where: Townwide
-  refs:
-  - 9
-  - 10
-  - 11
-  topics:
-  - Government operations
-  - Budget & taxes
-- title: Water commission, raw water and water treatment plant land
-  summary: The board and Water Commission met in executive session in March on State Land Board property for the water treatment plant. Later items covered Raw Water Board rules, water commission terms and appointments, a drainage study by SGM, and a joint work session on the raw water subcommittee.
-  where: Norwood water system
-  refs:
-  - 2
-  - 3
-  - 10
-  - 15
-  - 17
-  topics:
-  - Water
-  - Land & property
-- title: Short-term rental rules
-  summary: Short-term rentals were on the agenda in July, September and October for discussion.
-  where: Townwide
-  refs:
-  - 11
-  - 16
-  - 17
-  topics:
-  - Short-term rentals
-  - Housing
-- title: CDOT Safer Sidewalks to School project and school traffic
-  summary: The board approved job bids for the CDOT Safer Sidewalks to School project and an MOU with CDOT in June. In October it discussed school traffic and the sidewalk project.
+  - Downtown & business
+- title: Sidewalks, school traffic and CDOT projects
+  summary: The town approved job bids for the CDOT Safer Sidewalks to School project and an MOU with CDOT. It later discussed school traffic and the sidewalk project, and heard about upcoming CDOT projects.
   where: Near Norwood Public Schools
   refs:
   - 10
@@ -85,29 +89,8 @@
   topics:
   - Roads & traffic
   - Schools & youth
-- title: Wildlife and wildfire ordinances, fireworks and dark sky rules
-  summary: The board repeatedly discussed draft wildlife and wildfire ordinances in early 2026. It also discussed fireworks, streetlight and Dark Sky compliance, and updated Dark Sky Coalition rules.
-  where: Townwide
-  refs:
-  - 1
-  - 2
-  - 10
-  - 11
-  - 17
-  topics:
-  - Environment & climate
-  - Fire & emergencies
-  - Agriculture & wildlife
-- title: 2027 draft budget and mill levy
-  summary: The board set the mill levy and amended the certificate of mill levies in January. A 2027 draft budget was presented in October.
-  where: Townwide
-  refs:
-  - 1
-  - 17
-  topics:
-  - Budget & taxes
 - title: Removal for cause hearing
-  summary: In August the board adopted a resolution setting a public hearing on removing an official for cause. It was amended in September, and the hearing was cancelled in October.
+  summary: The board adopted a resolution in August setting a public hearing to consider removing an official for cause, and amended it in September. The October 15 hearing was cancelled. The documents do not name the person or give the reason.
   refs:
   - 15
   - 16
@@ -115,14 +98,34 @@
   topics:
   - Government operations
   - Ethics & transparency
-- title: Town building leases and EV charging stations
-  summary: The board considered updated lease agreements for 1110 Lucerne St and 1475 S Pine St, the latter with an option to purchase and right of first refusal. It also discussed EV charging station rates and install budget.
-  where: 1110 Lucerne St; 1475 S Pine St
+- title: Wildlife and wildfire ordinances, fireworks
+  summary: The board discussed wildlife and wildfire ordinances in January and February. Fireworks, including a Noel Night or New Year's Eve show and 2026 plans, came up several times.
+  where: Townwide
+  refs:
+  - 1
+  - 2
+  - 10
+  - 17
+  topics:
+  - Agriculture & wildlife
+  - Fire & emergencies
+  - Tourism & events
+- title: 2027 draft budget
+  summary: The 2027 draft budget was taken up in October and again on November 4.
+  where: Townwide
+  refs:
+  - 17
+  - 20
+  topics:
+  - Budget & taxes
+- title: EV charging, streetlights and dark sky rules
+  summary: The board discussed EV charging station rates and install budget, streetlight dark sky compliance, and updated Dark Sky Coalition rules.
+  where: Townwide
   refs:
   - 2
   - 4
-  - 10
-  - 15
+  - 11
   topics:
-  - Land & property
   - Energy
+  - Fees & rates
+  - Environment & climate

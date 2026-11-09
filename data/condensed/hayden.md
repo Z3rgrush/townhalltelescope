@@ -1,35 +1,6 @@
 # hayden
 
-## [hayden#0] 2026-08-06 | Northwest Colorado General Improvement District | agenda
-- GID’s public meetings or events, please notify the GID at (970) 276-3741
-- NORTHWEST COLORADO GENERAL IMPROVEMENT
-- 2. PUBLIC COMMENTS
-- Consent agenda items are considered to be routine and will be considered for adoption by one motion. There will be no separate
-- discussion of these items unless a Board of Director or staff requests the Board of Directors to remove an item from the consent
-- A. Consideration of minutes for the Special Meeting, March 5, 2026
-- Public Comment – none
-- Proclamations and Presentations - none
-- Consideration of minutes for the Regular Meeting of February 5, 2026. Vice Chair Gann moved and
-- The Board reviewed and considered approval of Resolution 2026-01 A RESOLUTION DESIGNATING THE
-- the motion passed unanimously to bring this Resolution back to the next meeting as amended to reflect
-- APPROVED THIS xxh DAY OF xx, 2026
-
-## [hayden#1] 2026-08-06 | Hayden Municipal Housing Authority | agenda
-- HAYDEN MUNICIPAL HOUSING AUTHORITY MEETING
-- 1. PUBLIC COMMENTS
-- Consent agenda items are considered to be routine and will be considered for adoption by one motion. There will be
-- no separate discussion of these items unless a Councilmember or Town staff requests the Council to remove an item
-- onsideration and Approval of Minutes of the June 18, 2026, Hayden Municipal Housing Authority Meeting
-- Regular Meeting Hayden Municipal Housing Authority July 23, 2026
-- Hayden Municipal Housing Authority Minutes
-- Chair Banks called the regular meeting of the Hayden Municipal Housing Authority to order at 8:03 p.m
-- Police Chief Scott Scurlock, and Town Clerk Barbara Binetti
-- Public Comment
-- Consideration of minutes for the meeting of May 21, 2026
-- should be out soon. Rent increases are expected to start August 1st at $900. There are grants pending that could
-- APPROVED THIS 23rd DAY OF JULY, 2026
-
-## [hayden#2] 2026-08-19 | Hayden Parks & Recreation Board | minutes
+## [hayden#0] 2026-08-19 | Hayden Parks & Recreation Board | minutes
 - HAYDEN PARKS AND RECREATION MEETING
 - 3. READING AND APPROVAL OF THE MINUTES - Matt approved the minutes. Connor
 - creating an outdoor pickleball court. He would like to consider splitting the court to make
@@ -44,7 +15,7 @@
 - 1. Discussed to add a clause that if a member moves during their term but
 - b. 3rd Street Park – Update
 
-## [hayden#3] 2026-09-16 | Hayden Parks & Recreation Board | minutes
+## [hayden#1] 2026-09-16 | Hayden Parks & Recreation Board | minutes
 - assistance in order to attend any of the Town’s public meetings or events, please notify the Town of Hayden at
 - HAYDEN PARKS AND RECREATION MEETING
 - 3. READING AND APPROVAL OF THE MINUTES - Erica motions for approval of the minutes. Dan
@@ -60,7 +31,7 @@
 - Raised a lot of discussion. HPR would like check further into the possible change for
 - b. 3rd Street Park – Update
 
-## [hayden#4] 2026-10-15 | Hayden Municipal Housing Authority | agenda
+## [hayden#2] 2026-10-15 | Hayden Municipal Housing Authority | agenda
 - HAYDEN MUNICIPAL HOUSING AUTHORITY MEETING
 - 1. PUBLIC COMMENTS
 - 2. PRESENTATIONS – 2027-2029 DRAFT BUDGET
@@ -93,7 +64,7 @@
 - The citizen committee for the data center moratorium study will be announced shortly. Council asked that Staff
 - to draft letters to State and Federal Representatives on bills concerning data centers and related legislation, to
 
-## [hayden#5] 2026-10-15 | Northwest Colorado General Improvement District | agenda
+## [hayden#3] 2026-10-15 | Northwest Colorado General Improvement District | agenda
 - GID’s public meetings or events, please notify the GID at (970) 276-3741
 - NORTHWEST COLORADO GENERAL IMPROVEMENT
 - 2. PUBLIC COMMENTS
@@ -108,7 +79,7 @@
 - told them that the NWGID is closing on another lot at the business park that will be for a hotel
 - APPROVED THIS 15th DAY OF OCTOBER, 2026
 
-## [hayden#6] 2026-10-15 | Hayden Town Council | agenda
+## [hayden#4] 2026-10-15 | Hayden Town Council | agenda
 - A. PUBLIC COMMENTS
 - during public comments must sign in using the sheet available by the Town Clerk. There is a three -minute time limit per
 - B. PROCLAMATIONS/PRESENTATIONS
@@ -143,7 +114,7 @@
 - 10-31-4004 Franchise Tax 121,933 131,796 75,421 121,933 123,153 124,384 125,628
 - 10-31-4006 Building Material Use Tax 95,228 100,000 398,281 398,281 100,000 101,000 102,010
 
-## [hayden#7] 2026-10-21 | Hayden Parks & Recreation Board | minutes
+## [hayden#5] 2026-10-21 | Hayden Parks & Recreation Board | minutes
 - assistance in order to attend any of the Town’s public meetings or events, please notify the Town of Hayden at
 - HAYDEN PARKS AND RECREATION MEETING
 - 3. READING AND APPROVAL OF THE MINUTES Connor made a motion to approve. Jessica
@@ -160,3 +131,55 @@
 - c. Received a grant for funding this - $5000
 - 1. Connor makes a motion to cancel the December 16th Parks and Rec
 - b. 3rd Street Park – Update
+
+## [hayden#6] 2026-11-05 | Hayden Town Council | agenda
+- AMENDED AGENDA
+- A. PUBLIC COMMENTS
+- during public comments must sign in using the sheet available by the Town Clerk. There is a three -minute time limit per
+- B. PROCLAMATIONS/PRESENTATIONS
+- Hayden Parks and Recreation bylaw discussion
+- Consent agenda items are considered to be routine and will be considered for adoption by one motion. There will be no
+- separate discussion of these items unless a Councilmember request to pull an item from the consent agenda
+- 2. Consideration to Review and Approve Ratified Payments dated 10/22/2026 in the amount of $141,186.25 Pa ge 20
+- 3. Consideration to Review and Approve Payments dated 10/29/2026 in the amount of $524,344.15 Pa
+- any of the Town’s public meetings or events, please notify the Town of Hayden at (970) 276-3741
+- 1. 2027-2029 Budget- Discussion regarding additional COLA increase and proposed 32-hour work week
+- 1. Review and Consider for Approval Resolution 2026-17 A RESOLUTION ADOPTING THE 2026 ROUTT COUNTY,
+- COLORADO HAZARD MITIGATION PLAN Pa ge 30
+- 2. Appointment of Data Center Citizen Advisory Committee
+- Main Street 101: Hayden
+- Colorado Main Street Team
+- 45+ years testing strategies across 1300+ communities
+- Façade Projects
+- Building Improvements
+- Board Development,
+- Strategic Planning, Work
+- Logo Development,
+- Placemaking, streetscapes,
+- Design & Development
+- building redevelopment,
+- Main Street Manager
+- Colorado Main Street consulting for branding, website
+- development, and video production
+- Data-Driven Strategy
+- Development Team
+- Beneﬁts of Being a Colorado Main Street
+- Mini-Grants and
+- targeted projects
+- development program of any type, on any scale,
+- anywhere in the country than Main Street
+- small businesses, small deals, and small developments
+- Former Board President of Main Street America
+- ● Gayle Langley, Main Street Coordinator
+- ● Larry Lucas, Main Street Architect
+- ● Traci Stoﬀel, Main Street Specialist
+- ● Matt Gordon, Main Street Economic Vitality Specialist
+- NWCO GID, and HMHA as all three meetings ran in tandem for the 2027 budget discussion
+- Proclamations/Presentations
+- The draft 2027 – 2029 budget was presented by Mathew Mendisco. He asked for a direction from the Council
+- Public Comment – There was none
+- 1. Consideration of minutes for the Regular Meeting of October 1, 2026
+- 2. Consideration to Review and Approve payments dated 10/08/2026 in the amount of $760,107.01
+- 3. Consideration to Review and Approve Hayden Merc payments dated 10/09/2026 in the amount of
+- The Council reviewed and considered approval of RESOLUTION 2026-16 Endorsing the Referral of Ballot
+- Measure 7A, A Half -Percent Sales Tax to Fund the Yampa Valley Regional Transportation Authority, to

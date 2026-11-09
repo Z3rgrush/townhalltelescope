@@ -1,51 +1,51 @@
-- title: Colorado Wildfire Resiliency Code adoption (Ordinance 2026-05)
-  summary: The town introduced Ordinance 2026-05 on March 31 to meet a state mandate effective July 1, 2026, held a public hearing April 23, and approved it May 5 with a correction. In August the board approved changes replacing WUI references with the Colorado Wildfire Resiliency Code. A resident objected to the penalties.
+- title: Colorado Wildfire Resiliency Code ordinance (Ordinance 2026-05)
+  summary: The town introduced Ordinance 2026-05 to adopt the state-mandated Wildfire Resiliency Code, which must be in effect by July 1, 2026. A public hearing was held April 23, the board approved it May 5 with a correction, and in August it approved changing WUI references to the Colorado Wildfire Resiliency Code. A resident questioned the penalties.
   where: Townwide
   refs:
+  - 8
   - 9
-  - 10
+  - 11
   - 12
-  - 13
-  - 17
+  - 16
   topics:
   - Fire & emergencies
   - Zoning & development
   - Environment & climate
   public_comment: true
-- title: Selling town land, open space rezoning and enclave annexation
-  summary: The board has considered selling town properties, and in 2026 weighed rezoning town open space to park, which could make sales harder. The attorney presented a memo on annexing enclaves and the board sent it to the Planning Commission, with an update to the 1997 annexation plan on later agendas. A resident urged rezoning or an ordinance to protect open space.
+- title: Sales tax increase ballot question for capital projects
+  summary: Staff presented a "Closing the Gap" plan for a sales tax increase to fund sidewalks, culverts, sewage, and pool and park updates. On April 7 the mayor moved to put a 0.05% sales tax increase for four years on the ballot for the Capital Improvement Fund, and ballot and TABOR resolutions followed in May. The board called the general election in August.
   where: Townwide
   refs:
-  - 0
-  - 5
+  - 7
+  - 9
+  - 12
+  - 16
+  topics:
+  - Budget & taxes
+  - Elections
+- title: 'Town-owned open space: land sales, rezoning to park, and enclave annexation'
+  summary: The board has debated selling town land, including an appraisal for the El Paso trail property. A resident urged rezoning open space to park, or an ordinance giving sales the same legal requirements as parkland. In June the board sent annexation of enclaves to the Planning Commission and notified owners. Enclave annexation (Resolution 2026-15) and updating the 1997 annexation plan are on fall agendas.
+  where: Townwide
+  refs:
+  - 4
+  - 12
   - 13
-  - 14
-  - 21
+  - 20
+  - 22
   topics:
   - Land & property
   - Annexation
   - Parks & open space
   public_comment: true
-- title: Sales tax increase ballot question for capital projects
-  summary: Staff presented a 'Closing the Gap' plan for sidewalks, culverts, sewage, and pool, park and playground updates. On April 7 the mayor moved to put a 0.05% sales tax for four years on the ballot for the Capital Improvement Fund, with the old Marshal's building as a priority. Ballot and TABOR resolutions followed in May, and the general election was called in August.
+- title: 2027 budget, fee schedule and mill levy
+  summary: In December 2025 the council handled the 2026 fee schedule, mill levy certification and 2026 budget adoption. A 2026 fee schedule resolution was approved in May. Work on the 2027 draft budget, work sessions and the 2027 fee schedule was scheduled for fall 2026.
   where: Townwide
   refs:
-  - 8
-  - 10
-  - 13
-  - 17
-  topics:
-  - Budget & taxes
-  - Elections
-- title: 2026 budget, fees, mill levy and 2027 draft budget
-  summary: In December 2025 the town adopted the 2026 budget, fee schedule and mill levy certification. A March budget amendment raised Marshal's office wages and a 2026 fee schedule resolution was approved in May. Work sessions for the 2027 draft budget were being set up, with a draft on the October 8 agenda.
-  where: Townwide
-  refs:
+  - 0
   - 1
-  - 2
-  - 8
-  - 13
-  - 17
+  - 12
+  - 16
+  - 20
   - 21
   - 22
   topics:
@@ -55,78 +55,87 @@
   summary: In December 2025 the council took up Ordinance 2025-06 on a short-term rental tax and Ordinance 2025-09 amending short-term rental rules.
   where: Townwide
   refs:
-  - 1
+  - 0
   topics:
   - Short-term rentals
   - Fees & rates
-- title: Comprehensive Plan addendum and Community Redevelopment review
-  summary: The town is updating its comprehensive plan with a 2026 addendum, with work sessions set for August 18 and further review on fall agendas. A CRA plan review was also scheduled in September. A resident stressed that the board should implement the plan's goals.
+- title: Comprehensive Plan addendum and 3-mile plan update
+  summary: The town manager is updating the 1997 3-mile plan. A 2026 Comprehensive Plan addendum was on several agendas, with a work session set for August 18 and further review scheduled in the fall. A resident urged the board to follow the plan's goals.
   where: Townwide
   refs:
+  - 12
   - 13
   - 14
-  - 15
-  - 17
+  - 16
+  - 18
   - 19
   - 20
-  - 21
+  - 22
   topics:
   - Zoning & development
   - Land & property
-  - Government operations
   public_comment: true
-- title: Downtown parking, road base and paving
-  summary: The town contracted for paving of about $96,000 focusing on parking near the Blue Moose and Lake Street. A Maple Street parking survey was pursued and trailhead parking raised. The paving was completed with 78 downtown parking spots.
+- title: Downtown parking, paving and drainage
+  summary: The town planned a roughly $96,000 paving contract focused on parking near the Blue Moose and Lake Street, and a Maple Street parking survey. By June the new paving was complete, giving 78 downtown parking spots. Trailhead parking and 2026 drainage improvements also came up.
   where: Downtown, Lake Street and Maple Street
   refs:
-  - 3
-  - 8
-  - 10
-  - 14
+  - 0
+  - 2
+  - 7
+  - 13
   topics:
   - Roads & traffic
-  - Downtown & business
-- title: Wastewater, septic and drainage
-  summary: The town discussed septic pumping near the Marshal's building and park at about $16,000, a wastewater feasibility study, and 2026 drainage improvements. Water rights attorney services were tabled until creek flows could be determined.
+  - Utilities
+- title: Wastewater, septic and water rights
+  summary: The town manager said pumping septic for the Marshal's building and park would cost about $16,000. The board tabled hiring a water attorney for water rights until creek flows are measured. A wastewater feasibility study was announced in April, and a resident thanked staff for work on a water and cesspool issue.
   where: Townwide
   refs:
-  - 1
-  - 3
-  - 5
-  - 10
-  - 14
+  - 2
+  - 4
+  - 9
+  - 13
   topics:
   - Water
   - Utilities
-- title: El Paso trail property and Thomas Trail land sale list
-  summary: The board requested an appraisal of the El Paso trail property and removed Thomas Trail from the land sale list. The mayor reported the Board of Health voted to remove the transfer of title resolution for El Paso, effective July 11.
-  where: El Paso trail and Thomas Trail
-  refs:
-  - 5
-  - 14
-  topics:
-  - Recreation & trails
-  - Land & property
-- title: Election date change and Planning Commission role
-  summary: The council approved Ordinance 2026-03 moving the election date from the first Tuesday of April. Ordinances 2026-01 and 2026-02 on Planning Commission and board responsibilities were discussed and tabled, after a resident asked that the commission be more involved.
+  public_comment: true
+- title: Municipal election date change and planning commission role
+  summary: Ordinance 2026-03 moved the town election from the first Tuesday of April. A resident asked that the Planning Commission be involved in more decisions, and the board considered ordinances changing Planning Commission and board responsibilities, with one tabled in March.
   where: Townwide
   refs:
-  - 5
-  - 8
+  - 4
+  - 7
+  - 16
   topics:
   - Elections
   - Government operations
   public_comment: true
-- title: Pool, park restrooms and summer events
-  summary: The board handled pool opening, Lake Street bathrooms, park restrooms, and event permits including Bronc Day fee waiver, 4th of July ($600 fee) and Green Box pool use ($1,200).
-  where: Pool park and Lake Street
+- title: Marshal's office pay and equipment
+  summary: The board approved a budget amendment for a Marshal's office wage increase, added another speed camera near the pool park, and the town manager applied for a grant to replace a patrol car.
+  where: Townwide
   refs:
-  - 5
-  - 10
+  - 7
+  - 9
   - 13
-  - 19
+  - 16
   topics:
-  - Recreation & trails
-  - Tourism & events
+  - Policing & public safety
+- title: Trash contract and bear reduction grant
+  summary: The November agenda includes a trash RFP and a grant for human-bear conflict reduction.
+  where: Townwide
+  refs:
+  - 22
+  topics:
+  - Environment & climate
+  - Agriculture & wildlife
+- title: Pool, park restrooms and events
+  summary: The board approved Bronc Day fee waivers, the 4th of July event with a $600 fee and Green Box pool use at $1,200. Park restrooms were due in March, the pool opening was discussed, and Lake Street bathrooms were on a September agenda.
+  where: Pool Park and Lake Street
+  refs:
+  - 4
+  - 9
+  - 12
+  - 18
+  topics:
   - Parks & open space
+  - Tourism & events
   public_comment: true

@@ -1,95 +1,6 @@
 # paonia
 
-## [paonia#0] 2026-08-04 | Ad Hoc Committees | agenda
-- B) Approval of Agenda
-- Public comments must be related to the agenda item, 3-minute time limit
-- 1) Brief review of the previous meeting's executive summary and public comment
-- of scope and extension of the facilitator contract
-- a. Review applications received and engage potential new members
-- 4) Discussion of priorities for moving forward and new business
-- 5) Additional Public Comment (time permitting)
-- 6) Discuss agenda items and preparation materials needed for the next meeting. Specific
-
-## [paonia#1] 2026-08-04 | Town Board | agenda
-- 2) Departmental Vehicle Purchases
-- 3) SB24 - 174 Housing Addendum
-- 4) Discussion of waiving sewer tap fees for septic tank users
-
-## [paonia#2] 2026-08-04 | Town Board | agenda
-- broadcast from the endpoint devices are well below the levels m ost people come in contact with on a
-- The ORION Cellular endpoint operates like a cell phone and under normal operation awakens up to four
-- For example, the energy measured two feet away from the endpoint is 1/4 of the energy measured at a
-- Further information regarding the ORION endpoint and its approval for use in water meter reading
-- applications can be found on the FCC website
-- 2) Departmental Vehicle Purchases
-- 3) SB24 - 174 Housing Addendum
-- 4) Discussion of waiving sewer tap fees for septic tank users
-- Housing Needs Assessment and
-- Housing Action Plan:
-- PRE-EXISTING HOUSING NEEDS ASSESSMENT COMPLIANCE ............................... 4
-- Identify the Location of Manufactured Home Parks ........................................................................................ 13
-- Identify Disadvantaged Areas .......................................................................................................................... 13
-- Increased Zoning Capacity Related to House Bill 24-1313 ............................................................................... 13
-- PRE-EXISTING HOUSING ACTION PLAN COMPLIANCE ........................................ 14
-- B. Zoning and Density Assessment .................................................................................... 19
-- Potential Publicly Owned Development Sites .................................................................................................. 19
-- A public hearing to consider acceptance of the Town of Paonia Housing Needs Assessment and Housing
-- Action Plan (HNA and HAP) was held during the regular Town Board Meeting on Tuesday, November 14,
-- 2023. The Board of Trustees approved its acceptance and required it to be included in the Paonia Master
-- Plan, which was being developed. The agenda, board packet, and meeting minutes are included in
-- In December 2024, the state released the Housing Needs Assessment Guide for Colorado Communities,
-- The Town of Paonia (Town) submitted the housing needs assessment to the Colorado Department of
-- memorandum dated April 16, 2025, stating “Conditional Approval” and noting that most, but not all,
-- Housing Action Plan Guide for Colorado Communities. Although the Town of Paonia is not required to
-- have an SB24-174-compliant housing action plan, DOLA provided the Town with another review
-- memorandum dated January 9, 2026, which included a review of the housing action plan
-- additional information requested by DOLA for the Town of Paonia’s 2023 HNA and HAP to achieve
-
-## [paonia#3] 2026-08-04 | Ad Hoc Committees | agenda
--  Draft Common Ground Ordinance
-- ORDINANCE NO. 20_
-- AN ORDINANCE OF THE TOWN OF PAONIA, COLORADO, AMENDING THE PAONIA
-- WHEREAS, on April 1,2025, approximately 70% of Paonia voters approved the repeal of
-- Ordinance 2024-05, signaling a clear community preference for a simpler, more
-- WHEREAS, the Board finds that the primary purposes of this Ordinance are safety,
-- nuisance prevention, accountability, tax compliance, and administrative feasibility, rather
-- than housing engineering or density management; and
-- approximately 943 housing units, well below the saturation levels observed in resort
-- WHEREAS, the Board of Trustees is authorized to adopt this Ordinance pursuant to the
-- police powers granted to statutory municipalities under C.R.S. § 31-15-103, the authority
-- 401 and 31 -15-601, the land use and zoning authority granted under C.R.S. § 31 -23-301 et
-- Code, nor does it include the renting of rooms on a monthly or longer basis as permitted
-- lawfully permitted for habitation under the Paonia Municipal Code
-- owner, who manages and operates a short-term rental
-- E. "Registration" means the approval granted by the Town of Paonia authorizing the
-- A. No person shall operate, advertise, or offer a short-term rental within the Town of Paonia
-- Registration application
-- SECTION 3. APPLICATION AND FEES
-- A. Applications for a Short-Term Rental Registration shall be submitted to the Town
-- Administrator or designee on forms prescribed by the Town. The application shall include:
-- 11. Self-certification affidavit affirming compliance with the safety and operating
-- B. The Registration fee shall be set by resolution of the Board of Trustees and shall be
-- limited to the reasonable costs of administering this Article. The initial fee shall not exceed
-- C. The Town Administrator shall approve or deny an application within thirty (30) days of
-- receipt of a complete application. If denied, the applicant shall receive written notice
-- SECTION 4. TAX COMPLIANCE
-- A. All short-term rental operators shall collect and remit all applicable taxes required by
-- B. Operators using third-party booking platforms that collect and remit taxes on behalf of
-- Town upon request
-- By signature of the Registration application, the owner or operator affirms compliance with
-- alarm if the dwelling unit has a carbon monoxide source (gas appliance, fireplace,
-- 4. An operable fire extinguisher has been placed in proximity to the kitchen
-- B. Occupancy and Wastewater
-- code or wastewater system capacity
-- 7. Properties served by an onsite wastewater treatment system (OWTS) shall have a
-
-## [paonia#4] 2026-08-05 | Town Board | agenda
-- B) Approval of Agenda
-- C) Actions & Presentations
-- Public comments must be related to the agenda item, 3-minute time limit
-- 1) Consideration of Proposals from RFP 26-03 Executive Search Firms
-
-## [paonia#5] 2026-08-18 | Ad Hoc Committees | agenda
+## [paonia#0] 2026-08-18 | Ad Hoc Committees | agenda
 - B) Approval of Agenda
 - 1) Brief review of previous meetings executive summary and public comment
 - ordinance’s preamble section. Continue that discussion
@@ -98,7 +9,7 @@
 - 5) Additonal Public Comment (time Permitting)
 - 6) Discuss agenda items and preparation mateirals needed for the next meeting. Specific
 
-## [paonia#6] 2026-08-18 | Ad Hoc Committees | agenda
+## [paonia#1] 2026-08-18 | Ad Hoc Committees | agenda
 -  Draft Whereas Ordinance from committee members Sam Staley &
 - housing, the growth of short-term rentals, and community concerns about the
 - the availability of aƯordable housing;
@@ -142,7 +53,7 @@
 - Park in connection with the two open seats. Ms. O'Brien, who submitted a formal
 - application and addressed the Committee at the prior meeting, was not present
 
-## [paonia#7] 2026-08-18 | Town Board | minutes
+## [paonia#2] 2026-08-18 | Town Board | minutes
 - Approval of Agenda
 - C) Actions & Presentations
 - 1) Consideration of Amendment #2 to Agreement with RESPEC for Pre-Construction
@@ -182,7 +93,7 @@
 - Resolution Number 19-26, with the following edits - to Section 3: the second-to-last
 - bullet point will read, 'drip irrigation or hand watering of vegetable, fruit, or pollinator
 
-## [paonia#8] 2026-08-25 | Town Board | minutes
+## [paonia#3] 2026-08-25 | Town Board | minutes
 - B) Approval of Agenda
 - D) Public Comment
 - seniors and requested and annual funding contribution of $5,000
@@ -221,7 +132,7 @@
 - The Board found both candidates well qualified and discussed how their respective
 - expertise could benefit the Board, Planning Commission, and possible future water
 
-## [paonia#9] 2026-09-01 | Town Board | agenda
+## [paonia#4] 2026-09-01 | Town Board | agenda
 - 1) Presentation on Upgrading Solar Panels on Town Hall - Empower
 - 2) Sustainable Futures Discussion - Code Rewrite
 - 3) Discussion and Review of New Ordinances and Proposed Amendments to Existing
@@ -260,7 +171,7 @@
 - be discussed outside of that session or with individuals not participating in the
 - IV. Subject to Amendment
 
-## [paonia#10] 2026-09-01 | Town Board | agenda
+## [paonia#5] 2026-09-01 | Town Board | agenda
 - 1) Presentation on Upgrading Solar Panels on Town Hall - Empower
 - 2) Sustainable Futures Discussion - Code Rewrite
 - 3) Discussion and Review of New Ordinances and Proposed Amendments to Existing
@@ -299,7 +210,7 @@
 - be discussed outside of that session or with individuals not participating in the
 - IV. Subject to Amendment
 
-## [paonia#11] 2026-09-01 | Ad Hoc Committees | agenda
+## [paonia#6] 2026-09-01 | Ad Hoc Committees | agenda
 - B) Approval of Agenda
 - 1) Brief review of previous meetings executive summary and public comment
 - 2) Discuss the Committee’s overall approach to public comment, including the online
@@ -309,7 +220,7 @@
 - 3) Continue review and discussion of the proposed Common Ground Ordinance with
 - 5) Discuss agenda items and preparation materials needed for the next meeting. Specific
 
-## [paonia#12] 2026-09-01 | Ad Hoc Committees | agenda
+## [paonia#7] 2026-09-01 | Ad Hoc Committees | agenda
 - B) Approval of Agenda
 - 1) Brief review of previous meetings executive summary and public comment
 - 2) Discuss the Committee’s overall approach to public comment, including the online
@@ -351,7 +262,7 @@
 - rentals have less effect on long-term housing availability. Comments supporting regulation commonly cited health and
 - safety standards, registration or licensing, taxation, parking and neighborhood impacts, and consistent treatment of
 
-## [paonia#13] 2026-09-08 | Town Board | agenda
+## [paonia#8] 2026-09-08 | Town Board | agenda
 - B) Approval of Agenda
 - eligible to serve on the Planning Commission. Please turn in your application and letter of interest
 - D) Public Comment
@@ -391,7 +302,7 @@
 - approval of staff reports, addressing routine correspondence, approval of liquor
 - licenses renewals and approval or extension of other Town licenses. Minor changes in
 
-## [paonia#14] 2026-09-08 | Town Board | agenda
+## [paonia#9] 2026-09-08 | Town Board | agenda
 - B) Approval of Agenda
 - eligible to serve on the Planning Commission. Please turn in your application and letter of interest
 - D) Public Comment
@@ -431,19 +342,19 @@
 - approval of staff reports, addressing routine correspondence, approval of liquor
 - licenses renewals and approval or extension of other Town licenses. Minor changes in
 
-## [paonia#15] 2026-09-14 | Planning Commission | minutes
+## [paonia#10] 2026-09-14 | Planning Commission | minutes
 - Approval of the Agenda
 - Approval of Minutes
 - Commissioner Hunter moves to approve the August 3, 2026 Planning Commission minutes,
 
-## [paonia#16] 2026-09-15 | Ad Hoc Committees | agenda
+## [paonia#11] 2026-09-15 | Ad Hoc Committees | agenda
 - B) Approval of Agenda
 - 1) Brief Review of the Previous Meeting's Executive Summary and Public Comment
 - 2) Review and Discuss the Facilitator’s Recommendations for a Standing Public Input
 - 3) Continue the item-by-item discussion of the proposed Common Ground Ordinance
 - 4) Discuss agenda items and preparation materials needed for the next meeting. Specific
 
-## [paonia#17] 2026-09-15 | Town Board | agenda
+## [paonia#12] 2026-09-15 | Town Board | agenda
 - B) Approval of Agenda
 - C) Actions & Presentations
 - Public comments must be related to the agenda item, 3-minute time limit
@@ -482,7 +393,7 @@
 - Resolution, if, in its sole discretion, such deviation is necessary under the
 - Section 2. Amendment. The Board may amend these Rules of Procedures Policy from
 
-## [paonia#18] 2026-09-15 | Town Board | agenda
+## [paonia#13] 2026-09-15 | Town Board | agenda
 - B) Approval of Agenda
 - C) Actions & Presentations
 - Public comments must be related to the agenda item, 3-minute time limit
@@ -521,7 +432,7 @@
 - Resolution, if, in its sole discretion, such deviation is necessary under the
 - Section 2. Amendment. The Board may amend these Rules of Procedures Policy from
 
-## [paonia#19] 2026-09-15 | Ad Hoc Committees | agenda
+## [paonia#14] 2026-09-15 | Ad Hoc Committees | agenda
 - B) Approval of Agenda
 - 1) Brief Review of the Previous Meeting's Executive Summary and Public Comment
 - 2) Review and Discuss the Facilitator’s Recommendations for a Standing Public Input
@@ -562,7 +473,7 @@
 - Discussion included whether owner occupancy should be verified and what
 - documentation might demonstrate residency (Sec. 3, A, #10). Suggestions
 
-## [paonia#20] 2026-09-15 | Town Board | agenda
+## [paonia#15] 2026-09-15 | Town Board | agenda
 - 1) Berg Foundation Presentation
 - 2) Discussion on Removing Street Lights
 - 3) Employee Insurance Benefits and Budget
@@ -601,7 +512,7 @@
 - Resolution, if, in its sole discretion, such deviation is necessary under the
 - Section 2. Amendment. The Board may amend these Rules of Procedures Policy from
 
-## [paonia#21] 2026-09-15 | Town Board | agenda
+## [paonia#16] 2026-09-15 | Town Board | agenda
 - 1) Berg Foundation Presentation
 - 2) Discussion on Removing Street Lights
 - 3) Employee Insurance Benefits and Budget
@@ -640,21 +551,21 @@
 - Resolution, if, in its sole discretion, such deviation is necessary under the
 - Section 2. Amendment. The Board may amend these Rules of Procedures Policy from
 
-## [paonia#22] 2026-09-30 | Town Board | agenda
+## [paonia#17] 2026-09-30 | Town Board | agenda
 - B) Approval of Agenda
 - C) Actions & Presentations
 - Public comments must be related to the agenda item, 3-minute time limit
 - 1) Consideration of Approval of Executive Search Firm Profile for Town Administrator
 - 2) Consideration of Approval for the Purchase of a New Police Department Patrol Truck
 
-## [paonia#23] 2026-10-05 | Planning Commission | agenda
+## [paonia#18] 2026-10-05 | Planning Commission | agenda
 - B) Approval of Agenda
 - C) Public Hearing
 - D) Approval of Minutes
 - E) Actions & Presentations
 - Public comments must be related to the agenda item, 3-minute time limit
 
-## [paonia#24] 2026-10-05 | Planning Commission | agenda
+## [paonia#19] 2026-10-05 | Planning Commission | agenda
 - B) Approval of Agenda
 - C) Public Hearing
 - D) Approval of Minutes
@@ -664,7 +575,7 @@
 - Approval of Minutes
 - Commissioner Hunter moves to approve the August 3, 2026 Planning Commission minutes,
 
-## [paonia#25] 2026-10-06 | Ad Hoc Committees | agenda
+## [paonia#20] 2026-10-06 | Ad Hoc Committees | agenda
 - B) Approval of Agenda
 - 1) Brief review of the previous meetings Summary and public comment
 - 2) Review of the Ordinance Living Document (Google Doc) Facilitator Brown is
@@ -672,7 +583,7 @@
 - 3) Continue the item-by-item discussion of the proposed Common Ground Ordinance
 - D) Discuss agenda items and preparation materials needed for the next meeting and
 
-## [paonia#26] 2026-10-06 | Ad Hoc Committees | agenda
+## [paonia#21] 2026-10-06 | Ad Hoc Committees | agenda
 - B) Approval of Agenda
 - 1) Brief review of the previous meetings Summary and public comment
 - 2) Review of the Ordinance Living Document (Google Doc) Facilitator Brown is
@@ -707,14 +618,14 @@
 - The committee continued to favor self-certification of basic safety measures through the registration
 - monoxide detectors, fire extinguishers, and safe exit routes. Members discussed referencing applicable
 
-## [paonia#27] 2026-10-20 | Ad Hoc Committees | agenda
+## [paonia#22] 2026-10-20 | Ad Hoc Committees | agenda
 - B) Approval of Agenda
 - 1) Brief review of previous meetings executive summary and public comment
 - 2) Continue the item-by-item discussion and editing of the proposed Common
 - Ground Ordinance using the Google Document
 - D) Discussion: Next Agenda, Materials & Survey Questions
 
-## [paonia#28] 2026-10-20 | Ad Hoc Committees | agenda
+## [paonia#23] 2026-10-20 | Ad Hoc Committees | agenda
 - B) Approval of Agenda
 - 1) Brief review of previous meetings executive summary and public comment
 - 2) Continue the item-by-item discussion and editing of the proposed Common
@@ -754,7 +665,7 @@
 - made a confusing suggestion re: allowing comments. I was assured there would still be public comments allowed throughout the
 - meeting. Yet, to add insult to injury, when I attempted to identify myself as the owner of comment #3 & answer a question put forth by
 
-## [paonia#29] 2026-10-20 | Town Board | agenda
+## [paonia#24] 2026-10-20 | Town Board | agenda
 - 1) ADA Transition Plan - Ryan Kelley
 - 2) Discussion on eliminating liquor license distance requirements for specific classes of
 - 3) Discussion and Direction on Dark Skies & Trail Lights — Added to parking lot by
@@ -792,7 +703,7 @@
 - Resolution, if, in its sole discretion, such deviation is necessary under the
 - Section 2. Amendment. The Board may amend these Rules of Procedures Policy
 
-## [paonia#30] 2026-10-20 | Town Board | agenda
+## [paonia#25] 2026-10-20 | Town Board | agenda
 - 1) ADA Transition Plan - Ryan Kelley
 - 2) Discussion on eliminating liquor license distance requirements for specific classes of
 - 3) Discussion and Direction on Dark Skies & Trail Lights — Added to parking lot by
@@ -830,16 +741,16 @@
 - Resolution, if, in its sole discretion, such deviation is necessary under the
 - Section 2. Amendment. The Board may amend these Rules of Procedures Policy
 
-## [paonia#31] 2026-10-21 | Town Board | agenda
+## [paonia#26] 2026-10-21 | Town Board | agenda
 - Town Board Budget Work Session Agenda
 - A) Budget Work Session
 
-## [paonia#32] 2026-10-26 | Special Board Meeting | agenda
+## [paonia#27] 2026-10-26 | Special Board Meeting | agenda
 - II. Approval of the Agenda
 - Executive Session, under C.R.S. Section 24-6-402(4)(b), for a conference with the Water
 - regarding the Town’s water rights
 
-## [paonia#34] 2026-10-27 | Town Board | agenda
+## [paonia#29] 2026-10-27 | Town Board | agenda
 - B) Approval of Agenda
 - D) Public Comment
 - Any topic not included under Actions & Presentations; 3-minute time limit
@@ -851,7 +762,7 @@
 - 3) Consideration of Approval of Awarding Request for Bid on Sewer Pipe CCTV Scoping
 - 4) Consideration of Approval of Proposal with Recyclops to Handle Free Recycling Service
 
-## [paonia#35] 2026-10-27 | Town Board | agenda
+## [paonia#30] 2026-10-27 | Town Board | agenda
 - B) Approval of Agenda
 - D) Public Comment
 - Any topic not included under Actions & Presentations; 3-minute time limit
@@ -890,12 +801,12 @@
 - 9) Consideration of Approval of Resolution 23-26 Changing the Regular Meeting Time of the
 - Trustee Brown moves to approve Resolution 23-26 after amending the start time of meetings to be 5:30
 
-## [paonia#36] 2026-10-28 | Town Board | agenda
+## [paonia#31] 2026-10-28 | Town Board | agenda
 - Budget Work Session Agenda
 - 1) Budget Work Session
 - 2027 Budget Work Session
 
-## [paonia#37] 2026-11-02 | Planning Commission | agenda
+## [paonia#32] 2026-11-02 | Planning Commission | agenda
 - II. Approval of Agenda
 - III. Approval of Minutes
 - IV. Actions & Presentations
@@ -904,7 +815,7 @@
 - 2) Discussion of Water Moratorium Planning - Tap Availability Processes
 - 3) Discussion on Requirements for Sidewalks in New Subdivisions Based on Lot Size
 
-## [paonia#38] 2026-11-02 | Planning Commission | agenda
+## [paonia#33] 2026-11-02 | Planning Commission | agenda
 - II. Approval of Agenda
 - III. Approval of Minutes
 - IV. Actions & Presentations
@@ -940,3 +851,97 @@
 - units and forbid new ones, or allow ADUs in those zones if they ﬁt other zoning
 - Utilities – How should water, sewer, trash be handled – including physical
 - No new sewer or water taps are required by PMC §13-1-70, but metering currently
+
+## [paonia#34] 2026-11-03 | Ad Hoc Committees | agenda
+- B) Approval of Agenda
+- 2) Finish the item-by-item discussion and editing of the draft ordinance
+- housing stock - that would trigger a pause in new registrations and other
+- D) Discuss Agenda Items, Preparation Materials, and Specific Survey Questions
+
+## [paonia#35] 2026-11-03 | Ad Hoc Committees | agenda
+- B) Approval of Agenda
+- 2) Finish the item-by-item discussion and editing of the draft ordinance
+- housing stock - that would trigger a pause in new registrations and other
+- D) Discuss Agenda Items, Preparation Materials, and Specific Survey Questions
+- Sam Staley. Not present: Jaylene Park, Calla Rose Ostrander
+- Approval of Agenda
+- Action Item #1 - Review of Executive Summary and Public Comment
+- The Chair clarified that public comment would not be taken during Committee
+- comments. Committee members discussed balancing public input with the
+- Action Item #2 - Continuation of line-by-line discussion and editing of the
+- Draft Ordinance
+- Committee favored omitting language regarding judicial review and discussed
+- The Committee discussed Section 10 (Annual Review and Saturation Threshold)
+- Discussion here included annual reporting requirements, written complaints, and
+- The main topic of discussion focused on the percentage of registered whole-home,
+- non-owner-occupied short-term rentals (relative to overall housing stock) that
+- Common Ground ordinance lists that number at 8%. The Committee’s current
+- on the numerical percentage. The Committee will continue discussion on this
+- Town, such as estimating administrative costs and measuring housing impacts
+- The Committee will continue line-by-line review and discussion at Section 10(C)
+- This executive summary provides an overview of feedback received following the October
+- Preservation of Housing Stock
+- Several comments emphasized the importance of maintaining housing availability for
+- reduce access to housing for members of the local workforce and long-term community
+- including potential impacts related to parking, noise, safety, and the overall residential
+- Regulatory and Tax Equity
+- similarly to traditional lodging establishments through lodging taxes and other
+- While the number of survey responses was limited, the feedback generally supports policy
+- housing remains available to local residents
+- thoughts, or feedback you feel would be helpful for the Committee to consider
+- residence, 3) owners must pay a lodging tax
+- like motels, are not compatible, due to lack of street parking, noise, lack of safety and ADA adaptabilities and amenities for nightly
+- renters. Also, nightly stays should be subject to taxation like a motel
+- Meeting 2 — Registration & Application
+- What should the fees be?
+- What should self-certification involve?
+- What should the application and approval process be?
+- Fire extinguishers
+- Wastewater/OWTS
+- Relationship to existing building and fire codes
+- Neighbor notification
+- Tax compliance
+
+## [paonia#36] 2026-11-03 | Town Board | agenda
+- 1) Comprehensive Safety Action Plan Update - Jenny Godwin, Consor
+- 2) Garden Club Presentation
+- 3) Tree Board Ordinance Amendments
+
+## [paonia#37] 2026-11-03 | Town Board | agenda
+- 1) Comprehensive Safety Action Plan Update - Jenny Godwin, Consor
+- 2) Garden Club Presentation
+- 3) Tree Board Ordinance Amendments
+- Project Update to Paonia Board of Trustees
+- COMPREHENSIVE SAFETY ACTION PLAN
+- Town of Paonia Comprehensive Safety Action Plan
+- Project Recap
+- Why are we doing this plan?
+- By analyzing data and identifying trends,
+- the plan aims to create safer roadways
+- Comprehensive Safety Action Plan (CSAP)
+- A strategic approach to improving transportation
+- on crashes and safety concerns, identifying
+- recommendations for projects, operational
+- Project Schedule
+- Crash rates dropped between 2018 and 2023
+- roadway (non-intersection crash)
+- backing, most often parking-related
+- to identify a stationary object, fixed
+- object, or parked vehicle in their path
+- Vulnerable Road Users (VRU)
+- throughout the project area
+- Informs Priority Project Designs (component of CSAP) + positions Town for future funding
+- Samuel Wade Road Vehicle Speeds
+- Ped steps into roadway, then back onto curb to let vehicle pass
+- Paonia Comprehensive Safety Action Plan
+- Online Outreach Strategies
+- 8/13: Pickin’ in the Park tabling
+- ActivitiesStrategies
+- Broken/Damaged Roads + Sidewalks
+- 2nd Street, 3rd Street, Grand Avenue
+- Discussing with T own staff at the 11/4 PMT
+- Begin CSAP development process
+
+## [paonia#38] 2026-11-04 | Town Board | agenda
+- A) Budget Work Session
+- 1) Discussion on Solid Waste Enterprise

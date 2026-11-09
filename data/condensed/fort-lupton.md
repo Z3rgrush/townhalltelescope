@@ -201,75 +201,14 @@
 - FLURA-REIMBURSE WELD TIF VINCENTS END09/14/2026 26,091.28002610 - AIMS COMMUNITY COLLEGE091426APPKT07396 67,549.80
 - FLURA-REIMBURSE REC CENTER TIFF 100%09/14/2026 64,020.14000240 - CITY OF FORT LUPTON2026 TIFAPPKT07396 197,515.21
 
-## [fort-lupton#12] 2026-10-17 | General | agenda
-- BUDGET RETREAT
-- Discussion Items
-- a. Presentation of the 2027 Preliminary Budget
-- *If you would like a copy or want to view the budget book, please contact the City
-
-## [fort-lupton#13] 2026-10-20 | City Council | agenda
-- Approval of Agenda
-- Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion and vote
-- There will be no separate discussion of Consent Agenda items unless a Councilmember so requests, in which case the item
-- b. AM 2026-154 Approving a Motion to Direct the Planning Department to File the Local
-- Government Affordable Housing Commitment in Order to Participate in Funding
-- Programs Associated with Proposition 123 – Colorado Statewide Affordable Housing
-- c. AM 2026-155 Amend the Design Agreement of 5th Street and Broadway Avenue with
-- JVA Inc. for an Amount Not to Exceed $16,585.00, Allocated from the Street Sales Tax
-- Fund CR 12 UPRR Project Funds
-- d. AM 2026-156 Approving a Project for Dust Control on County Road 21 by Envirotech
-- for an Amount Not to Exceed $28,282.80 from the Street Sales Tax Fund
-- e. AM 2026-157 Approving a Police K-9 Program Supported by Donation and
-- a. AM 2026-153 Approve Amendment to the Construction Management Contract with
-- Burns and McDonnell for the Water Tower Project for an Amount Not to Exceed
-- b. AM 2026-158 An Ordinance Imposing a Temporary Suspension on the Submission,
-- Acceptance, Processing, and Approval of Applications for the Establishment or
-- Expansion of Data Center Facilities with A Demand of Five (5) Megawatts (MW) or
-
-## [fort-lupton#14] 2026-10-20 | City Council | agenda
-- Approval of Agenda
-- Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion and vote
-- There will be no separate discussion of Consent Agenda items unless a Councilmember so requests, in which case the item
-- b. AM 2026-154 Approving a Motion to Direct the Planning Department to File the Local
-- Government Affordable Housing Commitment in Order to Participate in Funding
-- Programs Associated with Proposition 123 – Colorado Statewide Affordable Housing
-- c. AM 2026-155 Amend the Design Agreement of 5th Street and Broadway Avenue with
-- JVA Inc. for an Amount Not to Exceed $16,585.00, Allocated from the Street Sales Tax
-- Fund CR 12 UPRR Project Funds
-- d. AM 2026-156 Approving a Project for Dust Control on County Road 21 by Envirotech
-- for an Amount Not to Exceed $28,282.80 from the Street Sales Tax Fund
-- e. AM 2026-157 Approving a Police K-9 Program Supported by Donation and
-- a. AM 2026-153 Approve Amendment to the Construction Management Contract with
-- Burns and McDonnell for the Water Tower Project for an Amount Not to Exceed
-- b. AM 2026-158 An Ordinance Imposing a Temporary Suspension on the Submission,
-- Acceptance, Processing, and Approval of Applications for the Establishment or
-- Expansion of Data Center Facilities with A Demand of Five (5) Megawatts (MW) or
-- 232899 Invoice 09/29/2026 GF-Housing Action Plan-ComDev 10,261.950.00
-- 990005001 AUG… Invoice 09/08/2026 GF-AUGUST 2026 WATER BILL-FAC 258.650.00
-- 260928040 Invoice 09/29/2026 UF-DRINKING WATER TESTING-W LINES 50.000.00
-- 260930022 Invoice 10/01/2026 UF-DRINKING WATER TESTING-W LINES 50.000.00
-- 1300352174 Invoice 09/30/2026 GF-AVCC ANNUAL SUBSCRIPTION FEE 09/… 875.920.00
-- 2140 Invoice 10/01/2026 SST-Asphalt Patch & Seal CO#1-Streets 36,921.480.00
-- 1240301 SEPT26 Invoice 09/30/2026 UF-SEPT26ELEC-SEWER LIFT STA 146.810.00
-- 1322501 SEPT26 Invoice 09/30/2026 GF-SEPT26ELEC-STREET LIGHTS 6,960.300.00
-- 17761600 SEPT26 Invoice 09/30/2026 GF-SEPT26ELEC-HERITAGE PARK 23.200.00
-- 22185901 SEPT26 Invoice 09/30/2026 GF-SEPT26ELEC-FULTON PARK IRRIGATION 23.990.00
-- 7280200 SEPT26 Invoice 09/30/2026 UF-SEPT26ELEC-WATER TANKS 25.080.00
-- 001149 UTILITY NOTIFICATION CENTER 10/13/2026 111117421.86Regular 0.00
-- P00C2948125 Invoice 09/23/2026 GF-PARTS-STREETS 13.490.00
-- 004136 WILLIAMS WATER CONSULTING LLC 10/13/2026 1111202,070.00Regular 0.00
-- 2311 Invoice 10/06/2026 UF-Water Engineering Services-Water 2,070.000.00
-- 997246747 Invoice 09/30/2026 GFSEPT26 GAS BILL-PARKS 189.120.00
-- 110035001SEPT26 Invoice 09/30/2026 GF-07/31-08/31 WATER USAGE-S RAILRO… 1,052.160.00
-
-## [fort-lupton#15] 2026-10-20 | General | agenda
+## [fort-lupton#12] 2026-10-20 | General | agenda
 - Approval of Agenda
 - Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion and vote
 - There will be no separate discussion of Consent Agenda items unless a Councilmember so requests, in which case the item
 - Public Hearings - Public Hearings allow members of the audience to present comments and questions to the City
 - a. AM 2026-003 Consideration of the Renewal Application for a Fermented Malt
 
-## [fort-lupton#16] 2026-10-20 | General | agenda
+## [fort-lupton#13] 2026-10-20 | General | agenda
 - Approval of Agenda
 - Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion and vote
 - There will be no separate discussion of Consent Agenda items unless a Councilmember so requests, in which case the item
@@ -302,7 +241,7 @@
 - which meets the statutory requirements. All public notification requirements including posting
 - to submit comments regarding this application is May 4, 2026. As of May 1, 2026, no
 
-## [fort-lupton#17] 2026-10-22 | Planning Commission | agenda
+## [fort-lupton#14] 2026-10-22 | Planning Commission | agenda
 - Approval of Agenda
 - Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion and vote
 - There will be no separate discussion of Consent Agenda items unless a Councilmember so requests, in which case the item
@@ -312,7 +251,7 @@
 - a. Presentation & Discussion of Draft Housing Action Plan and Draft Strategic Growth
 - b. Presentation & Discussion of Proposed Draft Land Use Categories
 
-## [fort-lupton#18] 2026-10-22 | Planning Commission | agenda
+## [fort-lupton#15] 2026-10-22 | Planning Commission | agenda
 - Approval of Agenda
 - Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion and vote
 - There will be no separate discussion of Consent Agenda items unless a Councilmember so requests, in which case the item
@@ -346,7 +285,7 @@
 - David Van der Vieren responded to the question concerning the length of the project and said it is
 - all of them for the project. He further stated that Western Midstream would be the responsible party for
 
-## [fort-lupton#19] 2026-10-27 | City Council | agenda
+## [fort-lupton#16] 2026-10-27 | City Council | agenda
 - General Discussion – The Town Hall meeting is for the Public to have open discussion with Council regarding any
 - followed by discussion. No transcripts or summary are taken during Town Hall meetings
 - a. Ratifying the Appointment of Lynette Hanzlicek for Region 2 and Dr. Carmody Lee for
@@ -358,7 +297,7 @@
 - g. Draft Housing Action Plan and Strategic Growth Element Discussion
 - h. Draft Comprehensive Plan Future Land Use Categories Discussion
 
-## [fort-lupton#20] 2026-10-27 | City Council | agenda
+## [fort-lupton#17] 2026-10-27 | City Council | agenda
 - General Discussion – The Town Hall meeting is for the Public to have open discussion with Council regarding any
 - followed by discussion. No transcripts or summary are taken during Town Hall meetings
 - a. Ratifying the Appointment of Lynette Hanzlicek for Region 2 and Dr. Carmody Lee for
@@ -396,11 +335,104 @@
 - Growth decisions should consider housing and employment needs, infrastructure and water capacity,
 - community priorities. By directing development to appropriate locations and encouraging reinvestment in existing
 
-## [fort-lupton#21] 2026-10-29 | General | agenda
+## [fort-lupton#18] 2026-10-29 | General | agenda
 - Location: Weld County Administration Building, 1150 O Street, Greeley
 - General Discussion:
 - CRS § 24-6-402 (2) (c) Any meetings at which the adoption of any proposed policy, position, resolution, rule, regulation, or
 
-## [fort-lupton#22] 2026-10-29 | General | agenda
+## [fort-lupton#19] 2026-10-29 | General | agenda
 - Location: 2500 9th Street, Fort Lupton, CO 80621
 - CRS § 24-6-402 (2) (c) Any meetings at which the adoption of any proposed policy, position, resolution, rule, regulation, or
+
+## [fort-lupton#20] 2026-11-03 | General | agenda
+- 2500 9th Street
+- Approval of Agenda
+- Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion and vote
+- There will be no separate discussion of Consent Agenda items unless a Councilmember so requests, in which case the item
+- a. October 17, 2026 City Council Budget Meeting Minutes
+- c. AM 2026-159 Approving a Resolution Ratifying the Appointment of Certain Nominees
+- d. AM 2026-163 Approving a Resolution Ratifying the Mayor’s Appointment of Veronica
+- e. AM 2026-160 Approving a Resolution of the City of Fort Lupton Waiving the $25.00 Fee
+- for Business License Renewal Applications Through December 31, 2026
+- f. AM 2026-161 Approving the Memorandum of Understanding with Performance
+- Services, Inc. for Feasibility Studies for Solar, Water, Wastewater and Infrastructure
+- Improvements
+- a. AM 2026-162 Approve Mayor’s Signing of Public Service Company of Colorado
+- (PSCO) Temporary Access Agreement for Boring, Testing and Investigation of the City
+- Parcel, East of the South Platte River and North of the Fort Site
+- a. November 10, 2026 Town Hall Meeting, City Hall, 2500 9th Street 6:00 p.m
+- November 17, 2026 City Council Meeting, City Hall, 2500 9th Street 6:00 p.m
+- November 24, 2026 Town Hall Meeting, City Hall, 2500 9th Street 6:00 p.m
+- December 1, 2026 City Council Meeting, City Hall, 2500 9th Street 6:00 p.m
+
+## [fort-lupton#21] 2026-11-03 | General | agenda
+- 2500 9th Street
+- Approval of Agenda
+- Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion and vote
+- There will be no separate discussion of Consent Agenda items unless a Councilmember so requests, in which case the item
+- a. October 17, 2026 City Council Budget Meeting Minutes
+- c. AM 2026-159 Approving a Resolution Ratifying the Appointment of Certain Nominees
+- d. AM 2026-163 Approving a Resolution Ratifying the Mayor’s Appointment of Veronica
+- e. AM 2026-160 Approving a Resolution of the City of Fort Lupton Waiving the $25.00 Fee
+- for Business License Renewal Applications Through December 31, 2026
+- f. AM 2026-161 Approving the Memorandum of Understanding with Performance
+- Services, Inc. for Feasibility Studies for Solar, Water, Wastewater and Infrastructure
+- Improvements
+- a. AM 2026-162 Approve Mayor’s Signing of Public Service Company of Colorado
+- (PSCO) Temporary Access Agreement for Boring, Testing and Investigation of the City
+- Parcel, East of the South Platte River and North of the Fort Site
+- a. November 10, 2026 Town Hall Meeting, City Hall, 2500 9th Street 6:00 p.m
+- November 17, 2026 City Council Meeting, City Hall, 2500 9th Street 6:00 p.m
+- November 24, 2026 Town Hall Meeting, City Hall, 2500 9th Street 6:00 p.m
+- December 1, 2026 City Council Meeting, City Hall, 2500 9th Street 6:00 p.m
+- 000031 ADAMSON POLICE PRODUCTS 10/27/2026 111178481.31Regular 0.00
+- 26100009 Invoice 10/15/2026 Streetscape Design Services 13,111.200.00
+- PERMIT#3039211…Invoice 10/16/2026 GF-HAVE A HEART BASEBALL FIELD RENTA… 2,100.000.00
+- 001075 THE CONSOLIDATED MUTUAL WATER COMPANY10/27/2026 111201414.49Regular 0.00
+- 1065268 Invoice 10/13/2026 WATER REVENUE 2017 ADMIN FEES 400.000.00
+- SREIUSAC-0014 Invoice 10/21/2026 GF-DATA CENTER ORDINANCE-LEGIS 96.740.00
+- 0086034 Invoice 10/01/2026 GF - Comp Plan Assistance - Planning 925.000.00
+- 0086501 Invoice 10/12/2026 GF - Comp Plan Assistance - Planning 3,996.060.00
+- 2008276.001 Invoice 10/21/2026 REC-PRO RATED MEMBERSHIP REFUND 236.860.00
+- MS-3674-18020 Invoice 10/15/2026 GOLF-NOV26 SUBSCRIPTION FEE-PRO SH… 750.000.00
+- 1DVH-4VW3-9Y3D Invoice 10/05/2026 GF/CPR-MISC ITEMS--REC/PARKS, EVENTS,… 7,412.030.00
+- 160868-34 Invoice 10/21/2026 UF-WATER TOWER CONSTRUCTION MAN… 80,565.730.00
+- INV2492 Invoice 10/01/2026 UF-2026 Decree Accounting-Water 2,197.000.00
+- 11-1113 Invoice 10/13/2026 GF- LE FEES FOR 3RD QUARTER, JUL-SEP 2… 450.000.00
+- 025-567518 Invoice 10/01/2026 GF-INSITE PORTAL FEE-COURT 365.000.00
+- 160868-36 Invoice 10/21/2026 UF-WATER TOWER CONSTRUCTION MAN… 61,028.250.00
+
+## [fort-lupton#22] 2026-11-05 | Historic Preservation Board | agenda
+- Approval of Agenda
+- Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion
+- and vote. There will be no separate discussion of Consent Agenda items unless a Councilmember so requests, in
+- a. Approval of Minutes
+- Public Comment This portion of the Agenda is provided to allow members of the audience to present
+- Discussion Items
+
+## [fort-lupton#23] 2026-11-05 | Historic Preservation Board | agenda
+- Approval of Agenda
+- Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion
+- and vote. There will be no separate discussion of Consent Agenda items unless a Councilmember so requests, in
+- a. Approval of Minutes
+- Public Comment This portion of the Agenda is provided to allow members of the audience to present
+- Discussion Items
+- APPROVAL OF THE AGENDA
+- Ginny White made a motion to approve the agenda and Alice Garboczi seconded
+- Ginny White made a motion to approve the consent agenda and Zachary Potter seconded
+- agenda; the public comment portion was closed
+- of the application submitted by Jessica Holbrook of the Independent Order of Odd Fellows for
+- the work requires a building permit and that the Historic Preservation Board has the option of doing a
+- practical to replace from a cost perspective. They are hoping to receive a FLURA grant to help cover
+- Member White motioned for final approval based on the discussion and Alice Garboczi seconded. The
+- The project is planned to be brought before the FLURA Board for potential grant assistance
+- Approved by Historic Preservation Board
+- Certified Local Governments
+- Park Service (NPS)
+- o CLG Grants
+- o NPS Grants
+- o Eligibility for state tax credits and State Historical Fund grants
+- o Enforce local preservation ordinance
+- o Attend SHPO-approved training at least once per year
+- o Incentives
+- Lindsey Flewelling, Preservation Planner & Certified Local Government Coordinator

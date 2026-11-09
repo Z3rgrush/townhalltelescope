@@ -1,44 +1,6 @@
 # hudson
 
-## [hudson#0] 2026-08-04 | Planning Commission  | agenda
-- 1140 Terex Road
-- Subcommittee meeting to review Section 1204.02 - Planned Developments within the Land
-- Development Code. The meeting will occur on the first floor Board Room
-- III. Work Session/Discussion
-- an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
-
-## [hudson#1] 2026-08-10 | City Council Workshop | minutes
-- 1140 Terex Road
-- Others & Staff in Attendance: Mr. Griffith, Assistant City Manager; Mr. Hannan, Community Development
-- Director; Mr. Sugar, City Planner; Ms. Fernandez, Community Project Planner; Mr. Thomas, Assistant City
-- Discussion Items3
-- A. 26-0062 Clinton Crossing Development Discussion
-- session to review the Clinton Crossing development and the plan review
-- Clinton Crossing - 3 Refined Site Plans Packet
-- Comprehensive Plan Information
-- Mr. Sugar commented on the Comprehensive Plan as the framework for the land uses at this site and
-- emphasized its alignment in guiding future development . He explained the definitions of a Concept Plan Review
-- and a Planned Development Review, noting that a Planned Development Review may be a better fit for this
-- project and allow for easier tracking by the public . He further discussed the architectural design of the
-- Ms. McCoy noted her involvement as a member of the Comprehensive Plan Steering Committee and cautioned
-- against building apartments at the site, as this type of housing was not preferred by the community . She also
-- apartments, Mr. Sugar indicated that duplexes, quads, and apartments did not receive favorable public
-- feedback. Mr. Hannan commented on the intent to focus on a process discussion initially, but added that
-- Dr. Weinstein clarified that the public was able to select pieces of each plan they preferred and that then would
-- help develop a final plan
-- Ms. Obert asked when a determination would be made if the application would be for a Concept Review Plan or
-- Planned Development. Mr. Sugar responded that the decision would be made when there is a single concept
-- plan and it can be reviewed in a pre-application meeting . Ms. Obert further stated that the subcommittee has
-- met to discuss Planned Development language in the Land Development Code, and requested direction from
-- pattern book. Ms. De’Eramo requested clarification on architectural pattern books and Mr . Sugar noted that it
-- Further discussion followed regarding the Request for Qualifications ( RFQ) and Request for Proposals (RFP)
-- Responding to a question, Mr. Griffith stated that the final plan will be presented to Bricker Graydon Wyatt LLP
-- plans, stating that for residential, the preference was for Plan #1, including single family homes, townhomes,
-- and duplexes and that this was overall preferred use plan . The plan also featured a market hall and community
-- center. Plan #3 was preferred for non-residential uses, which included a boutique hotel and market hall . She
-- also discussed residents' preferred amenities, future hopes for the space, and the importance of recovering the
-
-## [hudson#2] 2026-08-11 | City Council | minutes
+## [hudson#0] 2026-08-11 | City Council | minutes
 - 27 East Main Street
 - Clerk of Council; Mr. Griffith, Assistant City Manager; Mr. Hannan, Community Development Director; Mr
 - Knoblauch, Assistant City Manager - Financial/Special Projects; Mr. Kosco, City Engineer; Mr. Ferda, HCTV
@@ -79,7 +41,7 @@
 - requirements, vacuum excavating, utility safety implementations, and a field checklist . Discussion followed
 - regarding the time and cost implications to the existing Velocity Broadband implementation schedule, whether
 
-## [hudson#3] 2026-08-12 | Architectural & Historic Board of Review | minutes
+## [hudson#1] 2026-08-12 | Architectural & Historic Board of Review | minutes
 - 27 East Main Street
 - Public CommentIII
 - Chair Caputo opened the meeting to public comments for anyone wanting to address the
@@ -121,7 +83,7 @@
 - which may eliminate the need for additional fenestration. They also discussed the possibility
 - application be approved as amended, with trim to match around the doors and
 
-## [hudson#4] 2026-08-18 | City Council | minutes
+## [hudson#2] 2026-08-18 | City Council | minutes
 - 27 East Main Street
 - Clerk of Council; Mr. Hannan, Community Development Director; Mr. Knoblauch, Assistant City Manager
 - Financial/Special Projects; Mr. Ferda, HCTV Production Assistant; and Mr. Tabak, Police Chief
@@ -167,7 +129,7 @@
 - three readings on Ordinance No. 26-115. The motion failed by the following vote:
 - discuss pending court action and matters required to be kept confidential by law. Invited to this
 
-## [hudson#5] 2026-08-20 | Board of Zoning & Building Appeals | minutes
+## [hudson#3] 2026-08-20 | Board of Zoning & Building Appeals | minutes
 - Board of Zoning & Building Appeals
 - 27 East Main Street
 - Chair Bronstein called to order the regularly scheduled meeting of the Board of Zoning & Building Appeals at
@@ -203,7 +165,7 @@
 - legality of the Executive Session could be addressed before considering the merits of the case. The Board also
 - discussed potential remedies for an improper Executive Session, and Mr. Kernan noted that payment of legal fees
 
-## [hudson#6] 2026-08-24 | Planning Commission  | minutes
+## [hudson#4] 2026-08-24 | Planning Commission  | minutes
 - 27 East Main Street
 - Mr. Sugar stated that the application previously appeared before the Planning Commission for Concept Site Plan
 - The Subcommittee, applicant, and staff discussed the wrapping on the six-inch columns; the sign and columns,
@@ -241,7 +203,7 @@
 - parking has been shifted farther from the road which lowered the parking area and allows more practical
 - Discussion continued regarding a 12-inch HPD pipe that does not appear in any city or county records. The
 
-## [hudson#7] 2026-08-25 | City Council Workshop | minutes
+## [hudson#5] 2026-08-25 | City Council Workshop | minutes
 - 27 East Main Street
 - Community Development Director; Mr. Knoblauch, Assistant City Manager - Financial/Special Projects; Mr
 - Kosco, City Engineer; Mr. Ferda, HCTV Production Assistant; and Mr. Tabak, Police Chief
@@ -282,7 +244,7 @@
 - Mr. Knoblauch provided an explanation on this Resolution
 - This Resolution was forwarded for further consideration at the September 1, 2026, Council
 
-## [hudson#8] 2026-08-26 | Architectural & Historic Board of Review | minutes
+## [hudson#6] 2026-08-26 | Architectural & Historic Board of Review | minutes
 - 27 East Main Street
 - Public CommentIII
 - Chair Caputo opened the meeting to public comments for anyone wanting to address the
@@ -324,12 +286,12 @@
 - Renderings of the proposed development, photographs of nearby structures, and a summary of
 - how AHBR’s informal comments were incorporated were included. Mr. Fishman also
 
-## [hudson#9] 2026-08-31 | Planning Commission  | agenda
+## [hudson#7] 2026-08-31 | Planning Commission  | agenda
 - 27 East Main Street
 - To discuss pending litigation pertaining to Planning Commission business
 - an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
 
-## [hudson#10] 2026-09-01 | City Council | minutes
+## [hudson#8] 2026-09-01 | City Council | minutes
 - 27 East Main Street
 - Production Assistant; and Mr. Tabak, Police Chief
 - Approval of the Minutes4
@@ -367,14 +329,14 @@
 - Resolution No. 26-116
 - Resolution No. 26-116 was approved on the Consent Agenda
 
-## [hudson#11] 2026-09-01 | Planning Commission  | agenda
+## [hudson#9] 2026-09-01 | Planning Commission  | agenda
 - 27 East Main Street
 - Subcommittee meeting to review Section 1204.02 - Planned Developments within the Land
 - Development Code. The meeting will occur in the Board room on the first floor
 - III. Work Session/Discussion
 - an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
 
-## [hudson#12] 2026-09-08 | City Council Workshop | minutes
+## [hudson#10] 2026-09-08 | City Council Workshop | minutes
 - 27 East Main Street
 - Others & Staff in Attendance: Mr. Sheridan, City Manager; Mrs. Behnke, Economic Development Manager; Mr
 - Griffith, Assistant City Manager; Mr. Hannan, Community Development Director; Mr. Knoblauch, Assistant
@@ -411,7 +373,7 @@
 - ADVERTISE FOR BIDS AND TO ENTER INTO A CONTRACT FOR
 - THE ELLSWORTH MEADOWS GOLF COURSE STORM WATER
 
-## [hudson#13] 2026-09-09 | Architectural & Historic Board of Review | agenda
+## [hudson#11] 2026-09-09 | Architectural & Historic Board of Review | agenda
 - 27 East Main Street
 - III. Public Comment
 - IV. Consent Applications
@@ -448,14 +410,14 @@
 - AHBR discussion on draft Design Standards update
 - an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
 
-## [hudson#14] 2026-09-10 | Planning Commission  | agenda
+## [hudson#12] 2026-09-10 | Planning Commission  | agenda
 - 1140 Terex Road
 - Subcommittee meeting to review Section 1204.02 - Planned Developments within the Land
 - Development Code. The meeting will occur in the Board room on the first floor
 - III. Work Session/Discussion
 - an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
 
-## [hudson#15] 2026-09-14 | Planning Commission  | minutes
+## [hudson#13] 2026-09-14 | Planning Commission  | minutes
 - 27 East Main Street
 - Previous Approved Elevations and Materials
 - Mr. Sugar introduced the application by reviewing the staff report. He noted that the Standard Shop Company
@@ -488,7 +450,7 @@
 - Chair Norman noted that several Commissioners agreed it was important to hold this discussion early in the
 - meeting. She reviewed the language of the Settlement Agreement and the Planning Commission’s response
 
-## [hudson#16] 2026-09-15 | City Council | minutes
+## [hudson#14] 2026-09-15 | City Council | minutes
 - 27 East Main Street
 - Clerk of Council; Mr. Griffith, Assistant City Manager; Mr. Hannan, Community Development Director; Mr
 - Knoblauch, Assistant City Manager - Financial/Special Projects; Mr. Ferda, HCTV Production Assistant; and
@@ -526,7 +488,7 @@
 - Stockman, Frantz Ward LLP, stated that the settlement agreement conflicts with State and local law, creates a
 - pay-to-play precedent, and abandons the rule of law; discussed the Planning Commission's authority over
 
-## [hudson#17] 2026-09-16 | Board of Zoning & Building Appeals | agenda
+## [hudson#15] 2026-09-16 | Board of Zoning & Building Appeals | agenda
 - Board of Zoning & Building Appeals
 - 27 East Main Street
 - III. Identification, by Chairman, of City Staff
@@ -565,7 +527,7 @@
 - witness may be asked to redirect from commentary back to the presentation of
 - an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
 
-## [hudson#18] 2026-09-22 | City Council Workshop | minutes
+## [hudson#16] 2026-09-22 | City Council Workshop | minutes
 - 27 East Main Street
 - Knoblauch, Assistant City Manager - Financial/Special Projects; Mr. Kosco, City Engineer; Mr. Ferda, HCTV
 - Production Assistant; and Mr. Tabak, Chief of Police
@@ -602,7 +564,7 @@
 - Resolution No. 26-131
 - Mr. Kosco provided details regarding this project, and Mr . Sheridan provided information on why this location
 
-## [hudson#19] 2026-09-23 | Architectural & Historic Board of Review | agenda
+## [hudson#17] 2026-09-23 | Architectural & Historic Board of Review | agenda
 - 27 East Main Street
 - III. Public Comment
 - IV. Consent Applications
@@ -649,7 +611,7 @@
 - the property located at 86 Owen Brown Street, Hudson, OH 44236
 - 86 Owen Brown Street - Findings of FactAttachments:
 
-## [hudson#20] 2026-09-30 | Board of Zoning & Building Appeals | agenda
+## [hudson#18] 2026-09-30 | Board of Zoning & Building Appeals | agenda
 - Board of Zoning & Building Appeals
 - 27 East Main Street
 - III. Identification, by Chairman, of City Staff
@@ -667,7 +629,7 @@
 - witness may be asked to redirect from commentary back to the presentation of
 - an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
 
-## [hudson#21] 2026-10-06 | City Council | minutes
+## [hudson#19] 2026-10-06 | City Council | minutes
 - 27 East Main Street
 - Clerk of Council; Mr. Hannan, Community Development Director; Mr. Knoblauch, Assistant City Manager
 - Financial/Special Projects; Mr. Ferda, HCTV Production Assistant; Mr. Powell, Public Works Director; and
@@ -699,7 +661,7 @@
 - undergoing cancer treatment; and addressed Mrs . Honniball's public comments
 - Mr. Sheridan stated that the Prospect Street Turnpike bridge project would be completed by the end of the
 
-## [hudson#22] 2026-10-12 | Planning Commission  | agenda
+## [hudson#20] 2026-10-12 | Planning Commission  | agenda
 - 27 East Main Street
 - V. Approval of Minutes
 - VI. Public Discussion
@@ -726,7 +688,7 @@
 - witness may be asked to redirect from commentary back to the presentation of
 - an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
 
-## [hudson#23] 2026-10-13 | City Council Workshop | minutes
+## [hudson#21] 2026-10-13 | City Council Workshop | minutes
 - 27 East Main Street
 - Others & Staff in Attendance: Mr. Sheridan, City Manager; Mr. Hannan, Community Development Director;
 - Mr. Knoblauch, Assistant City Manager - Financial/Special Projects; Mr. Kosco, City Engineer; Mr. Ferda,
@@ -763,7 +725,7 @@
 - HAYDEN PARKWAY PURSUANT TO SECTION 414.03(c)(4) OF THE
 - CODIFIED ORDINANCES; AND DECLARING AN EMERGENCY
 
-## [hudson#24] 2026-10-14 | Architectural & Historic Board of Review | agenda
+## [hudson#22] 2026-10-14 | Architectural & Historic Board of Review | agenda
 - 27 East Main Street
 - III. Public Comment
 - IV. Consent Applications
@@ -810,7 +772,7 @@
 - part of the proposed improvements. The Board may also wish to consider
 - an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
 
-## [hudson#25] 2026-10-15 | Board of Zoning & Building Appeals | agenda
+## [hudson#23] 2026-10-15 | Board of Zoning & Building Appeals | agenda
 - Board of Zoning & Building Appeals
 - 27 East Main Street
 - III. Identification, by Chairman, of City Staff
@@ -839,7 +801,7 @@
 - witness may be asked to redirect from commentary back to the presentation of
 - an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
 
-## [hudson#26] 2026-10-19 | Planning Commission  | agenda
+## [hudson#24] 2026-10-19 | Planning Commission  | agenda
 - 27 East Main Street
 - VI. Approval of Minutes
 - VII. Public Discussion
@@ -867,7 +829,7 @@
 - witness may be asked to redirect from commentary back to the presentation of
 - an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
 
-## [hudson#27] 2026-10-20 | City Council | agenda
+## [hudson#25] 2026-10-20 | City Council | agenda
 - 1140 Terex Road
 - LOCATION CHANGE: The meeting will be held at City Hall, 1140 Terex Road, Hudson, OH
 - 4. Approval of the Minutes
@@ -919,7 +881,7 @@
 - C. 26-126 AN ORDINANCE PROVIDING FOR THE ISSUANCE AND SALE OF
 - ISSUANCE OF BONDS, FOR THE PURPOSE OF PAYING COSTS OF
 
-## [hudson#28] 2026-10-27 | City Council Workshop | agenda
+## [hudson#26] 2026-10-27 | City Council Workshop | agenda
 - 27 East Main Street
 - 3. Discussion Items
 - A. 26-0090 Hudson’s Restaurant Sidewalk Improvements
@@ -971,7 +933,7 @@
 - 5/26/26 City Council Workshop discussed
 - B. 26-134 AN ORDINANCE PERMITTING THE INSTALLATION AND
 
-## [hudson#29] 2026-10-28 | Architectural & Historic Board of Review | agenda
+## [hudson#27] 2026-10-28 | Architectural & Historic Board of Review | agenda
 - 27 East Main Street
 - III. Public Comment
 - IV. Consent Applications
@@ -1008,4 +970,30 @@
 - be at a maximum of every 12 feet. Revise 2nd story right side elevation to
 - on projections should match the roof material of the building (unless both
 - f) Submit a roof plan
+- an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
+
+## [hudson#28] 2026-11-09 | Planning Commission  | agenda
+- 27 East Main Street
+- VI. Approval of Minutes
+- VII. Public Discussion
+- IX. Old Business (including continuation of public hearings)
+- X. New Business (including public hearings)
+- A. PC 2026-1397 A Concept Site Plan request for the Clinton Crossing development
+- Parking Study
+- Velocity Broadband Assessment Memo
+- Streetscape Comparison
+- Comprehensive Plan Housing Data Analysis
+- 2024 Comprehensive Plan
+- Presentation for 11.9 Hearing
+- Public Comments
+- B. PC 2026-1402 A Major Site Plan request to construct a City of Hudson salt barn at 996 Hines
+- Hill Road - former YDC property
+- Stormwater Management Report
+- Stormwater Letter
+- Building Elevations - Floor Plan
+- Discussion of Chapter 1210 - Beneficial Use Determination
+- Public Hearings by the Commission will be undertaken for each case in the following order:
+- 9. Discussion/Action by the Commission
+- testimony during a Public Hearing:
+- witness may be asked to redirect from commentary back to the presentation of
 - an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a

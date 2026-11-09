@@ -1,42 +1,6 @@
 # blue-river
 
-## [blue-river#0] 2026-08-04 | Planning and Zoning Commission | minutes
-- BLUE RIVER PLANNING AND ZONING COMMISSION MEETING
-- Approval of Minutes
-- Commissioner Cleary moved and Commissioner Carlsted provided a second to approve
-- the minutes of the June 2026 Planning & Zoning Commission Meeting. All ayes
-- Project Approval
-- The Building Official submitted a Planning/Zoning/Architectural Guidelines Review in
-- the agenda packet indicating the proposed project's full or partial compliance with all
-- Development Standards
-- The Commission reviewed the application for proposed porch additions, roof work,
-- siding, decks, and related exterior improvements at 6871 Highway 9
-- The Commission discussed whether the proposed work triggered requirements under
-- the Colorado Wildfire Resiliency Code, including the threshold that may require broader
-- analysis. The Commission stated that the applicant, staff, or plan reviewer should
-- provide the necessary measurements and determination before the application is
-- Members reviewed the submitted elevations and discussed the proposed roofing,
-- adequately specified for determining compliance with wildfire-resiliency requirements
-- The Commission also discussed the completeness of other propvided application
-- and access information, lack of clear parking information, and lack of details regarding
-- the second Highway 9 access point. Members noted that Type A applications should
-- The Commission discussed the existing second driveway/access point on Highway 9
-- and whether the Highway 9 Access Control Plan would require removal of the second
-- access. Town Attorney Bob Widner advised that the Commission may request
-- information necessary to apply the approval criteria. He further advised that requiring
-- proposed project implicates access, parking, circulation, or a larger redevelopment, but
-- may not be appropriate for a limited porch or entry improvements that do not modify
-- parking or access. He noted that the access-control policy encourages reduction of
-- access points but does not necessarily require removal for every minor project
-- The Commission also discussed a separate interior remodel reportedly underway at the
-- Town Attorney advised that interior improvements do not necessarily implicate a
-- change to access or parking unless they affect the use, parking demand, circulation,
-- After discussion, the Commission determined that the application lacked sufficient
-- information for decision-making. The Commission identified needed information
-- including a current survey or site plan showing property lines, setbacks, easements,
-- encumbrances, existing driveway/access layout, parking spots, snow storage if
-
-## [blue-river#1] 2026-08-12 | General | agenda
+## [blue-river#0] 2026-08-12 | General | agenda
 - however, that public comments will not be taken virtually, but will only be accepted in
 - person during public comment periods
 - distributed separately to the Board of Trustees
@@ -88,7 +52,7 @@
 - 7/25/26 26-1259 180 Whispering Pines Parking
 - 7/25/26 26-1274 25 Cooney Ct Parking
 
-## [blue-river#2] 2026-08-18 | Regular Meeting of the Board of Trustees | agenda
+## [blue-river#1] 2026-08-18 | Regular Meeting of the Board of Trustees | agenda
 - however, that public comments will not be taken virtually, but will only be accepted in
 - person during public comment periods
 - Approval of Agenda/Consent Agenda
@@ -114,7 +78,7 @@
 - advice on questions concerning interpretation of contract terms and to devise negotiation
 - strategy and instruct negotiators concerning a services agreement
 
-## [blue-river#3] 2026-08-18 | Regular Meeting of the Board of Trustees | agenda
+## [blue-river#2] 2026-08-18 | Regular Meeting of the Board of Trustees | agenda
 - however, that public comments will not be taken virtually, but will only be accepted in
 - person during public comment periods
 - Approval of Agenda/Consent Agenda
@@ -164,7 +128,7 @@
 - Mill Levy Rate 10.459 10.459
 - General Property Tax 691,557 677,351 853,782 869,833 930,583 - 930,583 877,236 895,224 (17,989) 229,801 239,756 (9,955)
 
-## [blue-river#4] 2026-08-25 | General | agenda
+## [blue-river#3] 2026-08-25 | General | agenda
 - note, however, that public comments will not be taken virtually, but will only be
 - accepted in-person during public comment periods
 - separately to the Board of Trustees
@@ -179,7 +143,7 @@
 - (v) Program for Application of New Licenses (when surplus available in future)
 - B. Direction to Staff for Incorporation into Draft STR Ordinance Effective Jan. 1, 2028:
 
-## [blue-river#5] 2026-08-25 | General | agenda
+## [blue-river#4] 2026-08-25 | General | agenda
 - note, however, that public comments will not be taken virtually, but will only be
 - accepted in-person during public comment periods
 - separately to the Board of Trustees
@@ -244,7 +208,7 @@
 - Regulatory Fee
 - 3rd and subsequent offenses - $1000 and/or revocation of permit
 
-## [blue-river#6] 2026-09-01 | Planning and Zoning Commission | minutes
+## [blue-river#5] 2026-09-01 | Planning and Zoning Commission | minutes
 - BLUE RIVER PLANNING AND ZONING COMMISSION MEETING
 - Approval of Minutes
 - approve the minutes of the July 2026 Planning & Zoning Commission Meeting. All ayes
@@ -282,7 +246,7 @@
 - c. Revise garage areas or calculations to demonstrate compliance with the 25%
 - B. Discussion of Blue River Wetland Protection Program Items
 
-## [blue-river#7] 2026-09-15 | Regular Meeting of the Board of Trustees | minutes
+## [blue-river#6] 2026-09-15 | Regular Meeting of the Board of Trustees | minutes
 - Also present: Town Manager Chad Hull, Deputy Town Clerk John DeBee, Police Chief David
 - Approval of Agenda/Consent Agenda
 - 1. Approval of Minutes
@@ -322,7 +286,7 @@
 - topography, and maintaining flexibility for future development
 - b. Approval of Ordinance No. 2026-06 – an Ordinance of the Board of Trustees of
 
-## [blue-river#8] 2026-09-15 | Regular Meeting of the Board of Trustees | minutes
+## [blue-river#7] 2026-09-15 | Regular Meeting of the Board of Trustees | minutes
 - Also present: Town Manager Chad Hull, Deputy Town Clerk John DeBee, Police Chief David
 - Approval of Agenda/Consent Agenda
 - In-person public comments were made by Mike Costello, Travis Wardlaw, Laura Wardlaw,
@@ -358,7 +322,7 @@
 - requirements. The Board discussed that future attrition, nonrenewal, property
 - Trustees also discussed the importance of obtaining better compliance and
 
-## [blue-river#9] 2026-09-22 | General | agenda
+## [blue-river#8] 2026-09-22 | General | agenda
 - note, however, that public comments will not be taken virtually, but will only be
 - accepted in-person during public comment periods
 - separately to the Board of Trustees
@@ -367,7 +331,7 @@
 - i. Hearing Officer (possible Municipal Court Judge role)
 - Secondary Issues (TIME PERMITTING, Hull)
 
-## [blue-river#10] 2026-09-22 | General | agenda
+## [blue-river#9] 2026-09-22 | General | agenda
 - note, however, that public comments will not be taken virtually, but will only be
 - accepted in-person during public comment periods
 - separately to the Board of Trustees
@@ -408,7 +372,7 @@
 - Identify repeat offenders and recommend appropriate further enforcement actions
 - Assist applicants, owners, managers, and members of the public with identifying,
 
-## [blue-river#11] 2026-10-06 | Planning and Zoning Commission | minutes
+## [blue-river#10] 2026-10-06 | Planning and Zoning Commission | minutes
 - BLUE RIVER PLANNING AND ZONING COMMISSION MEETING
 - Approval of Minutes
 - approve the minutes of the July 2026 Planning & Zoning Commission Meeting. All ayes
@@ -446,7 +410,7 @@
 - c. Revise garage areas or calculations to demonstrate compliance with the 25%
 - B. Discussion of Blue River Wetland Protection Program Items
 
-## [blue-river#12] 2026-10-13 | General | agenda
+## [blue-river#11] 2026-10-13 | General | agenda
 - note, however, that public comments will not be taken virtually, but will only be
 - accepted in-person during public comment periods
 - Note: This Agenda is proposed to guide the Board of Trustees in its discussions of policy concerning
@@ -460,7 +424,7 @@
 - Rental Applications and Issuing Licenses to be Effective on May 1, 2027 and,
 - separately to the Board of Trustees
 
-## [blue-river#13] 2026-10-13 | General | agenda
+## [blue-river#12] 2026-10-13 | General | agenda
 - note, however, that public comments will not be taken virtually, but will only be
 - accepted in-person during public comment periods
 - Note: This Agenda is proposed to guide the Board of Trustees in its discussions of policy concerning
@@ -497,7 +461,7 @@
 - authorized by this Ordinance to apply for a short -term rental license must submit to the Town a
 - fully complete application for a new license or submit to the Town a fully complete an application
 
-## [blue-river#14] 2026-10-20 | Regular Meeting of the Board of Trustees | agenda
+## [blue-river#13] 2026-10-20 | Regular Meeting of the Board of Trustees | agenda
 - however, that public comments will not be taken virtually, but will only be accepted in
 - person during public comment periods
 - Approval of Agenda/Consent Agenda
@@ -526,7 +490,7 @@
 - 6. Motion to Approve the McMahan and Associates, Inc. 2026 Audit Engagement Letter
 - b. Chief of Police
 
-## [blue-river#15] 2026-10-20 | Regular Meeting of the Board of Trustees | agenda
+## [blue-river#14] 2026-10-20 | Regular Meeting of the Board of Trustees | agenda
 - however, that public comments will not be taken virtually, but will only be accepted in
 - person during public comment periods
 - Approval of Agenda/Consent Agenda
@@ -568,3 +532,10 @@
 - Approximately 76 percent of the proposed mill levy revenue would be used to support
 - dual-credit opportunities, and industry certifications. Approximately $1 million would
 - Discussion focused on employee turnover, declining applicant pools, the cost of living in
+
+## [blue-river#15] 2026-11-03 | Planning and Zoning Commission | agenda
+- BLUE RIVER PLANNING AND ZONING COMMISSION MEETING
+- Approval of Minutes
+- Project Approval
+- C. 0809 Blue River Rd – Detached Garage and Variance Application
+- B. Discussion of LUC Shed Provisions Final Draft

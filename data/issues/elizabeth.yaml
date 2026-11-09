@@ -1,82 +1,90 @@
 - title: Gold Creek Commons Sketch Plan (Resolution 26R28)
-  summary: The Planning Commission held a public hearing on Sept. 15 on the Gold Creek Commons Sketch Plan and considered recommending approval of Resolution 26R28. The Board of Trustees took up a public hearing and possible action on the same resolution on Oct. 13.
-  where: Gold Creek Commons, Elizabeth
+  summary: The Planning Commission held a quasi-judicial public hearing on the Gold Creek Commons Sketch Plan on Sept. 15 and considered recommending Resolution 26R28 to the Board of Trustees. The Trustees took up a public hearing and possible action on the same resolution on Oct. 13. Applicant is Alexandra Cramer.
+  where: Elizabeth
+  refs:
+  - 3
+  - 9
+  topics:
+  - Zoning & development
+  - Housing
+- title: 2027 Town budget and budget workshops
+  summary: The Board of Trustees held budget workshops on Sept. 26 and Oct. 17 and reviewed the 2027 draft budget on Oct. 13. A discussion of 2027 budget modifications is set for the Oct. 27 meeting.
+  where: Townwide
   refs:
   - 5
-  - 11
-  topics:
-  - Zoning & development
-  - Land & property
-- title: 2027 Town Budget and budget workshops
-  summary: The Board of Trustees reviewed the 2027 draft budget on Oct. 13. It also held budget workshops on Sept. 26 and Oct. 17, and discussed 2027 budget modifications on Oct. 27.
-  where: Townwide
-  refs:
-  - 7
-  - 11
+  - 9
+  - 10
   - 12
-  - 14
   topics:
   - Budget & taxes
-- title: Accessory building size and permit rules (Ordinances 26-11 and 26-12)
-  summary: The Planning Commission considered Ordinances 26-11 and 26-12, which amend town code on the size of accessory buildings and permit requirements.
-  where: Townwide
-  refs:
-  - 0
-  topics:
-  - Zoning & development
 - title: Extending town water restrictions
-  summary: On Oct. 13 the Board of Trustees was to discuss and possibly act on extending the town's water restrictions. Public Works presented the item.
+  summary: On Oct. 13 the Trustees were to discuss and possibly act on extending the town's water restrictions, with a presentation by Travis Scurlock.
   where: Townwide
   refs:
-  - 11
+  - 9
   topics:
   - Water
 - title: E86 Annexation Agreement (Resolution 26R29)
   summary: The Board of Trustees had the E86 Annexation Agreement, Resolution 26R29, on its Oct. 13 agenda.
-  where: E86, Elizabeth
+  where: E86
   refs:
-  - 11
+  - 9
   topics:
   - Annexation
   - Land & property
-- title: Housing Planning Grant for Comprehensive Plan elements
-  summary: The Board of Trustees was to consider Resolution 26R32 on Oct. 27, a grant agreement with the Colorado Department of Local Affairs for a Housing Planning Grant (HPLN-H26084). The grant would fund the Elizabeth Comprehensive Plan Elements Project.
+- title: Metropolitan district discussion
+  summary: Corey Hoffmann is scheduled to lead a discussion of metropolitan districts at the Oct. 27 Trustees workshop.
   where: Townwide
   refs:
-  - 14
+  - 12
+  topics:
+  - Zoning & development
+  - Budget & taxes
+- title: Town fire regulations
+  summary: Fire Chiefs TJ Steck and Jeff Engel are to discuss town fire regulations with the Trustees on Oct. 27.
+  where: Townwide
+  refs:
+  - 12
+  topics:
+  - Fire & emergencies
+- title: Housing planning grant for Comprehensive Plan elements (Resolution 26R32)
+  summary: The Trustees are to consider a Colorado Department of Local Affairs Housing Planning Grant (HPLN-H26084) for the Elizabeth Comprehensive Plan Elements Project on Oct. 27.
+  where: Townwide
+  refs:
+  - 12
   topics:
   - Housing
   - Zoning & development
-- title: Main Street Station site plan agreement amendment
-  summary: On Oct. 27 the Board of Trustees considered Resolution 26R31, a first amendment to the site plan agreement with Main Street Station Elizabeth, LLC. The amendment extends the agreement.
-  where: Main Street Station, Elizabeth
+- title: Main Street Station site plan agreement extension (Resolution 26R31)
+  summary: The Trustees are to consider a first amendment to the site plan agreement with Main Street Station Elizabeth, LLC, extending it, on Oct. 27.
+  where: Main Street Station
   refs:
-  - 14
+  - 12
   topics:
   - Zoning & development
   - Downtown & business
-- title: Town fire regulations and metropolitan district discussion
-  summary: At its Oct. 27 workshop the Board discussed town fire regulations with Chief TJ Steck and Chief Jeff Engel. It also held a metropolitan district discussion led by Corey Hoffmann.
-  where: Townwide
+- title: 'Road and paving contracts: NexCivil and Hillside Village'
+  summary: On Oct. 27 the Trustees are to consider Resolutions 26R33 and 26R34, amending trade contractor agreements including NexCivil Engineering and Construction. They will also discuss a change of scope on the Hillside Village paving project.
+  where: Hillside Village
   refs:
-  - 14
-  topics:
-  - Fire & emergencies
-  - Government operations
-- title: 'Town infrastructure contracts: Hillside Village paving and Depot restrooms'
-  summary: On Oct. 27 the Board was to discuss a change of scope on the Hillside Village paving project. It was also to consider Resolutions 26R33 and 26R34 amending trade contractor agreements, including one with NexCivil Engineering and Construction, and to discuss the Depot parking lot restrooms.
-  where: Hillside Village and the Depot parking lot
-  refs:
-  - 14
+  - 12
   topics:
   - Roads & traffic
   - Government operations
-- title: Main Street events and Friday Night Markets
-  summary: The Main Street Board of Directors planned to discuss recent events on Main Street and a possible communication plan on Sept. 14. The Board of Trustees heard a 2026 Friday Night Markets recap from Elizabeth Brewing Company on Oct. 13.
-  where: Main Street, Elizabeth
+- title: Main Street events, Friday Night Markets and communication plan
+  summary: The Main Street Board discussed recent events on Main Street and a possible communication plan. The Trustees heard a 2026 recap of the Friday Night Markets from Tony Briggs of Elizabeth Brewing Company.
+  where: Main Street
   refs:
-  - 4
-  - 11
+  - 2
+  - 9
   topics:
   - Downtown & business
   - Tourism & events
+- title: Depot parking lot restrooms and town facilities
+  summary: The Trustees are to discuss the Depot Parking lot restrooms on Oct. 27. That meeting is also a workshop on town facilities.
+  where: Depot parking lot
+  refs:
+  - 12
+  topics:
+  - Government operations
+  - Parks & open space

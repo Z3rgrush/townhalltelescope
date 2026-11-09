@@ -1,128 +1,113 @@
-- title: 2027 county budget
-  summary: Commissioners heard 2027 budget presentations from nearly every county department in late August and early September. The County Manager's 2027 Proposed Budget came to the Oct. 13 hearing, with ongoing and one-time budget work and a third amendment to the 2026 budget in study sessions through Oct. 28.
+- title: 2027 county budget development
+  summary: Commissioners heard 2027 budget presentations from nearly every department in study sessions from late August into September. The County Manager's 2027 Proposed Budget came to the Oct. 13 hearing, followed by sessions on one-time budget items, sponsorships and changes from proposed to adopted budget. A third amendment to the 2026 budget was also on the agenda.
   where: Countywide
   refs:
-  - 10
+  - 6
+  - 7
+  - 9
   - 11
-  - 13
-  - 15
-  - 33
-  - 34
-  - 40
+  - 29
+  - 30
+  - 36
+  - 37
   topics:
   - Budget & taxes
   - Government operations
 - title: North Broadway County Revitalization Plan
-  summary: The county proposed a revitalization plan and authority for about 263 acres of unincorporated land around Broadway, bounded by West 52nd Avenue and the Union Pacific tracks. Commissioners sent the plan to the Planning Commission on Sept. 29, and the commission took it up in October.
-  where: North Broadway area, unincorporated Adams County (W 52nd Ave to Union Pacific tracks)
+  summary: Commissioners sent the proposed North Broadway County Revitalization Plan to the Planning Commission on Sept. 29. The Planning Commission took it up in October for the roughly 263-acre area bounded by West 52nd Avenue on the south and the Union Pacific tracks on the west.
+  where: North Broadway area, unincorporated Adams County (about 263 acres, north of West 52nd Avenue)
   refs:
-  - 27
-  - 32
-  - 37
+  - 23
+  - 28
+  - 33
   topics:
   - Economic development
   - Zoning & development
-  - Land & property
 - title: Development Standards Overhaul
-  summary: Staff are rewriting the county's Development Standards and Regulations, with text amendments and zoning map changes to match. The overhaul went through commissioner study sessions in August and September and a Planning Commission hearing on Oct. 22. The county also adopted its 2025 Official Zoning Maps on Oct. 6.
+  summary: The county is comprehensively rewriting its Development Standards and Regulations, with zoning map amendments to align the official map with the new standards. It went to a commissioners' study session on Sept. 21 and to the Planning Commission on Oct. 22.
   where: Unincorporated Adams County
   refs:
-  - 3
-  - 23
-  - 30
-  - 37
+  - 19
+  - 33
   topics:
   - Zoning & development
   - Government operations
 - title: Balanced Housing Plan and affordable housing support
-  summary: The county discussed its Balanced Housing Plan in a commissioner study session and a Planning Commission session. The county amended its 2026 fee schedule to rebate building permit fees for affordable housing, and assigned its 2026 private activity bond allocation to Maiker Housing Partners. Housing counseling and bond refinancing for Overlook at Thornton also came up.
+  summary: Commissioners and the Planning Commission reviewed the Adams County Balanced Housing Plan. The board also amended the 2026 fee schedule to rebate building permit fees for affordable housing. It assigned the county's 2026 private activity bond volume cap to Maiker Housing Partners and acknowledged a public hearing on refunding bonds for the Overlook at Thornton apartments.
   where: Countywide
   refs:
-  - 7
-  - 14
-  - 16
-  - 30
-  - 32
+  - 3
+  - 10
+  - 12
+  - 26
+  - 28
   topics:
   - Housing
   - Fees & rates
-- title: Development fees and traffic impact fee update
-  summary: Commissioners reviewed an update to the traffic impact fee in August and held a development fee wrap-up session on Aug. 19.
-  where: Unincorporated Adams County
+- title: Homelessness response funding and Irondale Mobile Home Park acquisition
+  summary: The county approved $95,000 for Brothers Redevelopment's Neighborhood Stability Project and agreements with Village Exchange Center for transformational homelessness response. Commissioners also scheduled study sessions on a possible acquisition of the Irondale Mobile Home Park.
+  where: Countywide; Irondale Mobile Home Park
   refs:
-  - 1
-  - 9
-  topics:
-  - Fees & rates
-  - Roads & traffic
-  - Zoning & development
-- title: Buffers between new development and oil and gas facilities
-  summary: Staff updated commissioners and the Planning Commission on setbacks between new development and existing oil and gas facilities.
-  where: Unincorporated Adams County
-  refs:
-  - 1
-  - 6
-  topics:
-  - Oil, gas & mining
-  - Zoning & development
-- title: Battery storage, substation and large solar proposals
-  summary: The Planning Commission heard conditional use permit requests for a battery energy storage facility and utility substation near 12500 Cavanaugh Road. It also heard a major energy facility with solar and a transmission line near 6301 Manilla Road.
-  where: 12500 Cavanaugh Road and 6301 Manilla Road
-  refs:
-  - 19
+  - 3
   - 26
+  - 36
+  - 37
+  topics:
+  - Homelessness
+  - Housing
+- title: Battery storage, substation and solar facility permits
+  summary: The Planning Commission heard conditional use permits for a battery energy storage facility and utility substation near 12500 Cavanaugh Road. It also heard permits for a major energy facility, utility transmission line and large-scale solar facility at 6301 Manilla Road.
+  where: 12500 Cavanaugh Road; 6301 Manilla Road
+  refs:
+  - 15
+  - 22
   topics:
   - Energy
   - Zoning & development
 - title: Zoning violation penalties and graduated fine schedule
-  summary: On Aug. 25 commissioners adopted a penalty payment process and a graduated fine schedule for civil infractions of zoning and land use rules. An amended fine schedule came back on the Oct. 27 agenda.
+  summary: Commissioners adopted a penalty payment process for zoning and building violations and a graduated fine schedule for civil infractions of the zoning and land use regulations. They took up an amended fine schedule on Oct. 27.
   where: Unincorporated Adams County
   refs:
-  - 12
-  - 38
+  - 8
+  - 34
   topics:
-  - Zoning & development
   - Fees & rates
-- title: Homelessness response funding and Irondale Mobile Home Park
-  summary: The county approved agreements with Brothers Redevelopment for the Homelessness Resolution Program and with Village Exchange Center for transformational homelessness response. A study session on Oct. 28 covered acquisition of the Irondale Mobile Home Park.
-  where: Countywide; Irondale Mobile Home Park
+  - Zoning & development
+- title: Oil and gas buffers and Water Master Plan
+  summary: The Planning Commission got an update on buffers between new development and existing oil and gas facilities. It also considered a Comprehensive Plan amendment adding the Adams County Water Master Plan and a statutory water supply element.
+  where: Unincorporated Adams County
   refs:
-  - 7
-  - 30
-  - 40
+  - 2
+  - 28
   topics:
-  - Homelessness
-  - Housing
-  - Land & property
-- title: Colorado Air and Space Port
-  summary: The county approved hangar leases, a $385,385 taxilane rehabilitation contract, and a hangar development lease. A CASP strategy update and 2027 budget presentation were also on the schedule.
-  where: Colorado Air and Space Port
-  refs:
-  - 0
-  - 11
-  - 12
-  - 14
-  - 35
-  topics:
-  - Airports
-  - Economic development
-- title: Adams County Water Master Plan
-  summary: The Planning Commission considered a comprehensive plan amendment to add the Water Master Plan and statutory water supply element. Strategic Growth Element compliance for the comprehensive plan was also discussed.
-  where: Countywide
-  refs:
-  - 26
-  - 29
-  - 32
-  topics:
+  - Oil, gas & mining
   - Water
   - Zoning & development
-- title: Ballot question referral and Ordinance 19
-  summary: On Aug. 25 commissioners referred a ballot question to county voters. Ordinance 19 had first reading on Sept. 8 and was adopted on second reading on Sept. 29. The documents do not give details.
+- title: Park Central subdivision at 6030 Washington Street
+  summary: A major subdivision preliminary plat to create four lots at 6030 Washington Street went to the Planning Commission on Sept. 24 and to commissioners on Oct. 13.
+  where: 6030 Washington Street
+  refs:
+  - 22
+  - 29
+  topics:
+  - Zoning & development
+  - Land & property
+- title: Water testing at the Old Shooting Range
+  summary: Commissioners approved a $29,981.85 amendment to the agreement with Quantum Water & Environment for water testing and other services at the county's Old Shooting Range.
+  where: Old Shooting Range
+  refs:
+  - 16
+  topics:
+  - Environment & climate
+  - Water
+  tags:
+  - guns
+- title: Strategic Growth Element of the Comprehensive Plan
+  summary: The Planning Commission held a study session on the Strategic Growth Element on Sept. 24. Commissioners then reviewed compliance of the element with the Comprehensive Plan on Sept. 30.
   where: Countywide
   refs:
-  - 12
-  - 16
-  - 27
+  - 22
+  - 25
   topics:
-  - Elections
-  - Government operations
+  - Zoning & development
+  - Land & property

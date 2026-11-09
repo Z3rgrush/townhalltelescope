@@ -1,51 +1,9 @@
 # foxfield
 
-## [foxfield#0] 2025-11-06 | City Council | agenda
-- South Metro Fire Protection District Station #42
-- 7320 South Parker Road
-- a. Approval of Minutes – September 18, 2025
-- 5. For Discussion
-- 6. For Approval
-- a. Approval of the Eleventh Addendum For Services with Terracare
-- e. Wards Discussion
-- h. 2026 Budget
-- 2026 Proposed Budget Study Session
-- suggested discussing specific address directly with Staff. Mayor Jones moved to
-- approve the Consent Agenda, with a second from Trustee Cockrell. The motion
-- Ordinance 2025-01 A Bill for an Ordinance Amending Chapter 7 of the Town of
-- have and why this ordinance is necessary. Ms. Proctor said no changes had been
-- made since the last reading. Mayor Jones moved to approve Ordinance 2025-01
-- amending chapter 7 of the Foxfield Municipal code prohibiting the advertisement of
-- 6. For Discussion
-- maintenance. Trustee discussion included quantity of cameras, picture resolution,
-- been broken. Trustees discussed changes to the gate violation letters, the cameras
-- bids, and that she would talk to the sheriff to see what they would actually need
-- requested to move the speed radar signs so they can capture information
-- Buckley after the last Board meeting. She discussed the items in our last
-- meeting and the requests from the board. Trustee Cockrell mentioned
-- said that they would not approve of a pedestrian crossing at Parker
-- incorporated into this RFP as a design criteria to address potential
-- concerns with this path. She informed the board that it is not out to bid
-- recommended that new Trustees look at the Master Plan and mentioned
-- Cockrell mentioned that there is a Facebook discussion. Trustee Pakanati
-- 1. Ms. Proctor mentioned that staff is working on the 2026 budget
-- they felt we needed a larger location than the Fire House and they
-- do think that is necessary. She mentioned that road work will start
-- f. Ward discussion
-- not consider any of the corridors to have a speeding problem. There are high outliers, but the
-- sidewalks, no streetlights and it is a small community the feel is different than just the
-- based on FHWA for low volume roadways. This is not the only option or only layout. For
-- with these recommendations, we can include $120,000 in the 2026 budget
-- PROJECT BACKGROUND
-- prevent traffic along Parker Rd and Arapahoe Rd from using the Town’s roadways as a cut-through
-- Town’s roadways. SEH was tasked to review recently collected speed and traffic data, and outline traffic
-- Waco St by utilizing radar speed feedback signs that were moved to various locations along the corridor
-- demonstrated the highest speeds among all collected data. While a small percentage of overall traffic,
-
-## [foxfield#1] 2025-11-20 | City Council | agenda
+## [foxfield#0] 2025-11-20 | City Council | agenda
 - 1. Home Rule Presentation by Corey Hoffmann, Town Attorney
 
-## [foxfield#2] 2025-12-11 | City Council | agenda
+## [foxfield#1] 2025-12-11 | City Council | agenda
 - South Metro Fire Protection District Station #42
 - 7320 South Parker Road
 - a. Approval of Minutes – November 6, 2025
@@ -98,7 +56,7 @@
 - Attached for Board consideration is the 2026 Agreement for Law Enforcement Services
 - “I move to approve the 2026 Agreement for Law Enforcement Services as presented.”
 
-## [foxfield#3] 2025-12-18 | City Council | agenda
+## [foxfield#2] 2025-12-18 | City Council | agenda
 - South Metro Fire Protection District Station #42
 - 7320 South Parker Road
 - 4. Public Hearing
@@ -150,7 +108,7 @@
 - 3.75% on purchases delivered into the
 - 10-31-312 Use Tax 89,457 25,642 25,000 25,000 25,000
 
-## [foxfield#5] 2026-01-15 | City Council | agenda
+## [foxfield#4] 2026-01-15 | City Council | agenda
 - South Metro Fire Protection District Station #42
 - 7320 South Parker Road
 - a. Approval of Minutes – December 11th and 18th, 2025
@@ -195,7 +153,7 @@
 - by Trustee Schultz. Approved unanimously
 - Ms. Proctor said SEH did get quotes and bids for the collection of speed
 
-## [foxfield#6] 2026-02-05 | City Council | agenda
+## [foxfield#5] 2026-02-05 | City Council | agenda
 - South Metro Fire Protection District Station #42
 - 7320 South Parker Road
 - a. Approval of Minutes – January 15, 2026
@@ -235,7 +193,7 @@
 - November 2, 2027 special election for approval of the charter,
 - July 22, 2027 Last day to notify County Clerks of participation in the coordinated
 
-## [foxfield#7] 2026-03-05 | City Council | agenda
+## [foxfield#6] 2026-03-05 | City Council | agenda
 - South Metro Fire Protection District Station #42
 - 7320 South Parker Road
 - a. Approval of Minutes – February 5, 2026
@@ -275,7 +233,7 @@
 - ecial meetings of the Board shall be called by the Town Clerk on the oral request of
 - he purpose of a study session shall be to hear, study, and discuss matters in a forum
 
-## [foxfield#8] 2026-03-19 | City Council | agenda
+## [foxfield#7] 2026-03-19 | City Council | agenda
 - South Metro Fire Protection District Station #42
 - 7320 South Parker Road
 - a. Approval of Minutes – March 5, 2026
@@ -330,7 +288,7 @@
 - ion 4. This Ordinance shall become effective thirty (30) days after publication
 - ed as Ordinance No. 01 Series of 2026, by the Board of Trustees of Foxfield,
 
-## [foxfield#9] 2026-04-16 | City Council | agenda
+## [foxfield#8] 2026-04-16 | City Council | agenda
 - South Metro Fire Protection District Station #42
 - 7320 South Parker Road
 - a. Approval of Minutes – March 19, 2026
@@ -383,7 +341,7 @@
 - 10-31-111 CURRENT PROPERTY TAX 23,508.61 57,611.16 132,314.00 74,702.84 43.5
 - 10-31-121 SPECIFIC OWNERSHIP TAX 615.85 1,650.06 7,000.00 5,349.94 23.6
 
-## [foxfield#10] 2026-05-07 | City Council | agenda
+## [foxfield#9] 2026-05-07 | City Council | agenda
 - South Metro Fire Protection District Station #42
 - 7320 South Parker Road
 - 1. Oath of Office for Appointed Board Member, Doug Hodge
@@ -427,7 +385,7 @@
 - 1. ZONING DISTRICTS 8
 - 1. PERMITTED USES TABLE 11
 
-## [foxfield#11] 2026-06-04 | City Council | agenda
+## [foxfield#10] 2026-06-04 | City Council | agenda
 - South Metro Fire Protection District Station #42
 - 7320 South Parker Road
 - a. Approval of Minutes – May 7, 2026
@@ -480,7 +438,7 @@
 - 10-11560 CIGARETTE TAX RECEIVABLE 51.04
 - 10-21110 PAYROLL TAXES PAYABLE 3,516.70
 
-## [foxfield#12] 2026-06-18 | City Council | agenda
+## [foxfield#11] 2026-06-18 | City Council | agenda
 - South Metro Fire Protection District Station #42
 - 7320 South Parker Road
 - a. Approval of Minutes – June 4, 2026
@@ -533,7 +491,7 @@
 - TAXES AND FRANCHISE FEES
 - 10-31-111 CURRENT PROPERTY TAX 94,324.25 94,324.25 132,314.00 37,989.75 71.3
 
-## [foxfield#13] 2026-07-16 | City Council | agenda
+## [foxfield#12] 2026-07-16 | City Council | agenda
 - South Metro Fire Protection District Station #42
 - 7320 South Parker Road
 - a. Approval of Minutes – June 18, 2026
@@ -578,7 +536,7 @@
 - 2023 Town of Foxfield Sales Tax Revenue
 - 2024 Town of Foxfield Sales Tax Revenue
 
-## [foxfield#14] 2026-08-06 | City Council | agenda
+## [foxfield#13] 2026-08-06 | City Council | agenda
 - South Metro Fire Protection District Station #42
 - 7320 South Parker Road
 - a. Approval of Minutes – July 16, 2026
@@ -612,13 +570,13 @@
 - Trustees discussed quantities of sealant and mastic material, lessons learned from the previous year's
 - project, project budgeting, contingency spending, and contractor communication requirements when
 
-## [foxfield#15] 2026-08-18 | City Council | agenda
+## [foxfield#14] 2026-08-18 | City Council | agenda
 - South Metro Fire Protection District Station #42
 - 7320 South Parker Road
 - 1. Wildfire Prevention Training Presentation by Brandi Miller, Community Risk Reduction
 - Specialist for South Metro Fire Rescue
 
-## [foxfield#16] 2026-09-17 | City Council | agenda
+## [foxfield#15] 2026-09-17 | City Council | agenda
 - South Metro Fire Protection District Station #42
 - 7320 South Parker Road
 - a. Approval of Minutes – August 6, 2026
@@ -670,7 +628,7 @@
 - Severance Tax $ 220.51
 - Location Nov Tax
 
-## [foxfield#17] 2026-10-01 | City Council | agenda
+## [foxfield#16] 2026-10-01 | City Council | agenda
 - a. Approval of Minutes – September 17, 2026
 - 5. For Approval
 - a. Resolution 2026-09 A Resolution of the Board of Trustees of the Town of Foxfield Approving
@@ -697,3 +655,42 @@
 - Estimator/Project Manager
 - Project Engineer
 - All the color is completed and I’m thinking another pallet to ﬁnish the remaining on the project if they
+
+## [foxfield#17] 2026-11-05 | City Council | agenda
+- South Metro Fire Protection District Station #42
+- 7320 South Parker Road
+- a. Approval of Minutes – October 1st, 2026
+- 5. For Discussion
+- 6. For Approval
+- a. Resolution 2026-10 A Resolution of the Board of Trustees of the Town of Foxfield Ratifying the
+- Approval of a Contract with Terracare for Emergency Repairs on Arapahoe Road
+- b. Resolution 2026-11 A Resolution of the Board of Trustees of the Town of Foxfield Approving
+- c. Resolution 2026-12 A Resolution of the Board of Trustees of the Town of Foxfield Approving
+- the 2027 ACSO Agreement
+- STUDY SESSION: 2027 Proposed Budget
+- a. Resolution 2026-09 A Resolution of the Board of Trustees of the Town of
+- Foxfield Approving the Bid Between the Town and Vance Brothers for
+- Town Administrator Karen Proctor presented a request to approve additional
+- funding for the Town roads crack seal program. She explained that the original two
+- roads. Representatives from SEH, including Blayne Risk and Scott Jardine, attended
+- roadway maintenance practices, and future planning. Discussion included the
+- challenges of accurately estimating crack seal quantities due to variations in crack
+- width, depth, roadway age, traffic patterns, weather conditions, and pavement
+- in which material estimates proved insufficient to complete the Town. SEH discussed
+- the differences between mobilization costs, traffic control costs, overall project
+- administration costs, future strategies for estimating material quantities, and
+- that completing the roadway maintenance was necessary. Board members
+- expenditures would likely have been approved as part of the original contract
+- Mayor Jones moved to approve Resolution 2026-09 Approving the Vance Brothers
+- roadway maintenance funds with the goal of eventually resurfacing the
+- roads proactively to preserve existing infrastructure
+- throughout Foxfield and neighboring communities, Foxfield’s roads
+- seal applications based on their performance in previous pilot areas
+- proposed 2027 budget and it will be sent to the Board by October
+- discussed the trees locations and responsibility of the owner or
+- for the Town of Foxfield and its employees and contractors. AI chats do fall under information
+- that can be CORA requested, therefore a policy to create guidelines for its usage will protect
+- the Town in the case that this information is requested from us in the future
+- This document applies to Town employees (full-time, part-time, seasonal), contractors,
+- common terms used when discussing AI. Additional deﬁnitions can be reviewed in the ‘AI
+- development tool, etc. that includes AI. There are various types of AI Systems, including,

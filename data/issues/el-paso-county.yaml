@@ -1,78 +1,73 @@
-- title: 2027 county budget hearings
-  summary: 'The Board of County Commissioners held Budget Hearing #1 on Sept. 29 for the preliminary balanced 2027 budget and Hearing #3 on Oct. 27 for department and office critical needs presentations. The Regional Building Department''s 2027 budget was also taken up Oct. 13.'
-  where: Countywide
+- title: Triple H Ranch preliminary plan (244 lots)
+  summary: The commissioners' land use hearing on Oct. 22 covers a request by P760 Land, LLC for a 752.68-acre preliminary plan creating 244 single-family lots in the RR-2.5 zone. The plan includes 40.57 acres of tracts and 67.92 acres of right-of-way.
+  where: El Paso County (RR-2.5 zoned land)
   refs:
-  - 0
-  - 3
-  - 8
-  topics:
-  - Budget & taxes
-  - Government operations
-- title: Triple H Ranch preliminary plan and other land use plats
-  summary: The commissioners were set to consider a 752.68-acre Triple H Ranch Preliminary Plan from P760 Land, LLC creating 244 single-family lots in the RR-2.5 zone. They also had a Final Plat for Hardy Road Properties, a 19.34-acre site that would create two lots, and set a Nov. 17 hearing on the Bent Grass Commercial Metropolitan District Service Plan.
-  where: Triple H Ranch site; 1054 Hardy Road area; Bent Grass Commercial district
-  refs:
-  - 7
-  - 8
+  - 4
   topics:
   - Zoning & development
   - Housing
-  - Land & property
-- title: 'Road and bridge projects: Mesa Ridge Parkway condemnation, US-24 and Commerce Road'
-  summary: The county considered condemning property for the Mesa Ridge Parkway Improvements Project between Powers Blvd and Marksheffel Rd. It also took up an agreement with CDOT on maintenance after the US-24 & Judge Orr Road intersection work and easements for the Commerce Road Bridge Replacement. Design work on North Calhan Highway and a multi-year paving contract of up to $948,543 also came up.
-  where: Mesa Ridge Parkway; US-24 & Judge Orr Road; Commerce Road; North Calhan Highway
+- title: Weed, rubbish and unsafe structure ordinances (HB 26-1239)
+  summary: First readings of Ordinances 26-02, 26-03 and 26-04 update county rules and enforcement procedures on weeds and brush, rubbish accumulation, and unsafe structures to comply with Colorado House Bill 26-1239.
+  where: Countywide
   refs:
-  - 5
-  - 8
-  topics:
-  - Roads & traffic
-  - Land & property
-- title: New county courthouse construction contract
-  summary: The commissioners considered a trade contractor agreement with Adolfson and Peterson Construction for the courthouse construction project at up to $3,633,791.
-  where: El Paso County courthouse
-  refs:
-  - 3
+  - 4
   topics:
   - Government operations
+  - Land & property
+- title: 2027 budget hearings and Q3 budget report
+  summary: 'The commissioners held 2027 Budget Hearing #3 with department critical-needs presentations on Oct. 27, and the Regional Building Department''s 2027 budget was up for approval Oct. 13. A third-quarter 2026 budget report is scheduled for Nov. 3.'
+  where: Countywide
+  refs:
+  - 0
+  - 5
+  - 6
+  topics:
   - Budget & taxes
 - title: Sugarbowl Urban Renewal tax increment agreement
-  summary: The board considered a Tax Increment Revenue Agreement with the Colorado Springs Urban Renewal Authority for the Sugarbowl Urban Renewal Plan.
-  where: Sugarbowl Urban Renewal area, Colorado Springs
+  summary: The commissioners were asked to approve a Tax Increment Revenue Agreement with the Colorado Springs Urban Renewal Authority for the Sugarbowl Urban Renewal Plan.
+  where: Sugarbowl urban renewal area, Colorado Springs
   refs:
-  - 3
+  - 0
   topics:
   - Economic development
   - Budget & taxes
-- title: Weed, rubbish and unsafe structure ordinances
-  summary: First readings of Ordinances 26-02, 26-03 and 26-04 update enforcement procedures and legal remedies for weed and brush removal, rubbish accumulation and unsafe structures. The changes comply with Colorado House Bill 26-1239.
-  where: Unincorporated El Paso County
+- title: Mesa Ridge Parkway condemnation and road projects
+  summary: The commissioners considered condemning property for the Mesa Ridge Parkway Improvements Project (Powers Blvd to Marksheffel Rd). Other road items include a CDOT agreement for US-24 and Judge Orr Road, Commerce Road Bridge easements, and North Calhan Highway design work.
+  where: Mesa Ridge Parkway, Powers Blvd to Marksheffel Rd; US-24 & Judge Orr Road; Commerce Road
   refs:
-  - 7
-  topics:
-  - Land & property
-  - Government operations
-- title: Sheriff's Office grants and safety funding
-  summary: The commissioners considered accepting a $500,000 federal Byrne grant and a $299,021 impaired driving enforcement grant for the Sheriff's Office. A $213,137 dishwasher for the detention facility was also on the agenda.
-  where: Countywide
-  refs:
-  - 0
-  - 3
+  - 2
   - 5
   topics:
-  - Policing & public safety
-  - Budget & taxes
-- title: Paint Mines Interpretive Park grant
-  summary: The county considered a $200,000 grant contract from Lyda Hill Philanthropies for Paint Mines Interpretive Park.
-  where: Paint Mines Interpretive Park
-  refs:
-  - 3
-  topics:
-  - Parks & open space
-  - Recreation & trails
-- title: Resolution on November 2026 ballot initiatives
-  summary: The board considered a resolution supporting or opposing various statewide ballot initiatives on the November 2026 General Election ballot.
-  where: Countywide
+  - Roads & traffic
+  - Land & property
+- title: Courthouse construction contract
+  summary: The commissioners were asked to approve a $3,633,791 trade contractor agreement with Adolfson and Peterson Construction for the courthouse construction project.
+  where: El Paso County courthouse
   refs:
   - 0
   topics:
-  - Elections
+  - Government operations
+- title: Paint Mines Interpretive Park grant
+  summary: The county is to accept a $200,000 grant from Lyda Hill Philanthropies for Paint Mines Interpretive Park and appropriate it to the Parks Department 2026 budget.
+  where: Paint Mines Interpretive Park
+  refs:
+  - 0
+  topics:
+  - Parks & open space
+- title: Bent Grass Commercial Metropolitan District service plan
+  summary: The commissioners set a Nov. 17, 2026 hearing to consider the Bent Grass Commercial Metropolitan District service plan.
+  where: El Paso County
+  refs:
+  - 5
+  topics:
+  - Zoning & development
+  - Budget & taxes
+- title: Federal and state grants for Sheriff, emergency management and wetland bank
+  summary: The county is to accept a $500,000 DOJ Byrne grant for the Sheriff's Office, a $56,139 FEMA emergency management grant, and $2,980,440 in federal revenue for the Akers wetland bank project.
+  where: Countywide
+  refs:
+  - 2
+  topics:
+  - Policing & public safety
+  - Fire & emergencies
+  - Environment & climate

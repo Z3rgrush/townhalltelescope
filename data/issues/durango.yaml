@@ -1,93 +1,75 @@
-- title: Fire protection district inclusion on April 2027 ballot
-  summary: Council is considering a resolution directing the City Manager to start the steps to include the City of Durango in the Durango Fire Protection District on the April 2027 election ballot.
+- title: 2027 city budget and appropriations
+  summary: Council is taking up the City Manager's proposed 2027 budget, with a public hearing and introduction of the operating and capital appropriation ordinances. It also considers amending the 2026 capital budget and the city's investment policy, and a budget reconciliation session is scheduled.
   where: Citywide
   refs:
-  - 0
+  - 5
+  - 6
   topics:
-  - Fire & emergencies
-  - Elections
   - Budget & taxes
-- title: Land Use Code changes responding to 2025 Housing Needs Assessment
-  summary: Council is introducing an ordinance amending the Land Use and Development Code in response to the 2025 Housing Needs Assessment and 2026 state requirements. The Community Development Commission also gave a quarterly report on housing and economic development.
+  - Government operations
+- title: Water and sewer rate changes
+  summary: An ordinance was introduced to amend water charges (Sec. 25-30) and sewer service rates (Sec. 25-114) in the city code. Council also has a study session on Water Efficiency Plan and Water Shortage Response Plan updates.
   where: Citywide
   refs:
-  - 0
+  - 5
+  - 6
   topics:
-  - Housing
-  - Zoning & development
-- title: 2027 proposed budget and lodgers' tax changes
-  summary: Council is requesting a public hearing on the City Manager's 2027 proposed budget. It is also giving final reading to an ordinance amending the lodgers' tax in the city code. The Financial Advisory Board is touring public works sites, including water plants and a street project.
-  where: Citywide
+  - Fees & rates
+  - Water
+  - Utilities
+- title: Lake Nighthorse water pipeline agreement
+  summary: Council is asked to authorize the City Manager to sign a four-party agreement for design and construction of a 200-foot pipeline conveying Lake Nighthorse water.
+  where: Lake Nighthorse
   refs:
-  - 0
   - 5
   topics:
-  - Budget & taxes
-  - Tourism & events
-  - Fees & rates
-- title: Noise rules in the Land Use and Development Code
-  summary: The Community Development Commission is holding a public hearing on text amendments to the Land Use and Development Code regarding noise (PR-26-68), after a study session on October 22.
-  where: Citywide
-  refs:
-  - 1
-  - 3
-  topics:
-  - Zoning & development
-- title: City Hall/Police Station site plan early design guidance
-  summary: The Community Development Commission is reviewing early design guidance for the major site plan for a new City Hall and Police Station (PR-26-52).
+  - Water
+  - Utilities
+- title: City Hall/Police Station site plan
+  summary: The Community Development Commission is getting early design guidance on the major site plan for the new City Hall/Police Station (PR-26-52).
   where: City Hall/Police Station site
   refs:
   - 1
-  - 3
   topics:
   - Zoning & development
   - Government operations
-- title: Neighborhood parking permit options
-  summary: Council is considering a resolution giving staff direction on neighborhood parking permit options.
+- title: Noise rules in the Land Use and Development Code
+  summary: A public hearing is scheduled on text amendments to the Land Use and Development Code regarding noise (PR-26-68).
   where: Citywide
   refs:
-  - 0
+  - 1
+  topics:
+  - Zoning & development
+- title: Regional housing and child care support for 2027
+  summary: Council hears presentations from the Regional Housing Alliance of La Plata County on 2027 and beyond, and an update on the Child Care Investment Fund city grant with a 2027 support proposal.
+  where: Citywide
+  refs:
+  - 5
+  topics:
+  - Housing
+  - Schools & youth
+- title: Remote parking code change and parking wayfinding
+  summary: Council gives final reading to a Land Use and Development Code ordinance on remote parking. A study session covers the Parking Wayfinding Project.
+  where: Downtown Durango
+  refs:
+  - 5
+  - 6
   topics:
   - Roads & traffic
-- title: Old Hire firefighter and police pension cost-of-living adjustment
-  summary: A resolution would direct the City Manager to start an annual cost-of-living adjustment equal to the prior year's national inflation rate for the Old Hire Firefighter and Police pension.
-  where: Citywide
+  - Zoning & development
+- title: Animas Air Park and La Posta economic discussion
+  summary: Council has a staff presentation at a study session on Animas Air Park and La Posta economic matters.
+  where: Animas Air Park / La Posta
   refs:
-  - 0
+  - 6
   topics:
-  - Budget & taxes
-  - Policing & public safety
-- title: Organic waste management feasibility analysis
-  summary: Council is considering a resolution directing the City Manager to analyze the feasibility of organic waste management ordinance and policy options, submitted by Sustainability.
-  where: Citywide
-  refs:
-  - 0
-  topics:
-  - Environment & climate
-  - Utilities
-- title: Camino Crossing underpass presentation
-  summary: The Community Development Commission is hearing a presentation on the Camino Crossing underpass from Lily Oswald.
+  - Airports
+  - Economic development
+- title: Camino Crossing underpass and drone deliveries
+  summary: The Community Development Commission hears a presentation on the Camino Crossing underpass and discusses drone deliveries, proposed by the Chair.
   where: Camino Crossing
   refs:
   - 1
-  - 3
   topics:
   - Roads & traffic
   - Recreation & trails
-- title: Section 106 permitting reform and historic preservation code changes
-  summary: The Historic Preservation Board is discussing Section 106 permitting reform and an ordinance amending the Land Use Code chapter on lots, buildings and structures.
-  where: Citywide
-  refs:
-  - 4
-  topics:
-  - Historic preservation
-  - Zoning & development
-- title: Drone delivery discussion
-  summary: The Community Development Commission chair proposed a discussion of drone deliveries.
-  where: Citywide
-  refs:
-  - 1
-  - 3
-  topics:
-  - Government operations
-  - Economic development

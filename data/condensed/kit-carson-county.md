@@ -22,3 +22,25 @@
 ## [kit-carson-county#2] 2026-10-28 | Liquor License Authority | agenda
 - License Applications/Renewals:
 - Renewal Application for The Bar
+
+## [kit-carson-county#3] 2026-11-04 | KCCPHE- Department of Public Health | agenda
+- Purchase Orders:
+- Discussion Items:
+
+## [kit-carson-county#4] 2026-11-04 | KCCBOCC - Board of County Commissioners | agenda
+- 10:00 AM - Travis Belden - Axon Contract Renewal
+- 1 Review and Approve Consent Agenda Items
+- 1.A Approve minutes for the October 28th - BOCC & LLA and Accounts Payable
+- 2.A Subdivision Exemptions - Darvin Meurisse - 2 applications/plats
+- 2.C Appoint Jason Kramer to Republican River Water Conservation District Board – Admin
+- 2.E Albertsons Opioid Settlement Agreement - Administration
+- 2.H Tyler Dahl Contract - 2027 Rodeo Bullfighter - $2,400 - Rodeo
+- 2.I Connor Rowley Contract - 2027 Rodeo Bullfighter - $2,400 - Rodeo
+- 2.J 2027 VALE Grant Award - $13,000 - Victim Advocate
+- 2.K Bids for 2027 Road & Bridge Pickups - R&B
+- 2.L Bids for Office Furniture for Clerk & Recorder - Grounds & Buildings
+- 2.M Russ Bassett Sales Agreement - Console Desks - $60,760.60 - Dispatch
+- 4 Purchase Orders
+- Required with the Sales Agreement
+- 2 Purchase Orders:
+- 3 Discussion Items:

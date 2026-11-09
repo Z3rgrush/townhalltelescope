@@ -1,10 +1,6 @@
 # rye
 
-## [rye#0] 2025-11-03 | City Council | agenda
-- purpose of this meeting will be to review and discuss water tank inspections and cleaning
-- Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting
-
-## [rye#1] 2025-11-12 | City Council | agenda
+## [rye#0] 2025-11-12 | City Council | agenda
 - Rye Town Hall, 2067 Main Street Rye, CO at 6:00 p.m
 - Matt Akers Presentation on EV Charging Stations & CERT Program
 - A. Approve Minutes:
@@ -30,7 +26,7 @@
 - Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting the Rye Town
 - scheduled event to arrangements can be made to locate the requested auxiliary aid(s)
 
-## [rye#2] 2025-12-10 | City Council | agenda
+## [rye#1] 2025-12-10 | City Council | agenda
 - Rye Town Hall, 2067 Main Street Rye, CO at 6:00 p.m
 - A. Approve Minutes:
 - B. Water Treatment Plant/Main Infrastructure Update

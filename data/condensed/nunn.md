@@ -1,17 +1,6 @@
 # nunn
 
-## [nunn#0] 2025-11-06 | City Council | agenda
-- Discussion of the following:
-- 2. Fort Collins Mobile Storage Sign permit review. 925 Lonetree Lane
-- 4. Road Base and Skid steer proposal
-- 5. 2026 Budget Preview
-- PLANNING AND DEVELOPMENT (Town Board)
-- FINANCE/BUDGET/ PERSONNEL
-- PUBLIC SAFETY (Police, Code Enforcement, Emergency Management)
-- PUBLIC WORKS (Facilities, Parks, Cemetery, Water, Technology)
-- GRANTS (Town Board)
-
-## [nunn#1] 2025-11-20 | City Council | minutes
+## [nunn#0] 2025-11-20 | City Council | minutes
 - APPROVAL OF AGENDA
 - Development to take place before reading and approval of minutes
 - PLANNING AND DEVELOPMENT
@@ -40,7 +29,7 @@
 - Grant phase 5
 - 3. CDBG Grant was released today, will meet with engineer soon to get work started
 
-## [nunn#2] 2025-12-10 | City Council | minutes
+## [nunn#1] 2025-12-10 | City Council | minutes
 - Discussion and possible action of the following agenda items
 - APPROVAL OF AGENDA
 - 1. Adopt Resolution 2025-06 A RESOLUTION LEVYING GENERAL PROPERTY TAXES FOR
@@ -51,7 +40,7 @@
 - or an outright purchase for Dell quote ending in 339.2
 - 3. Discussion for sale of Christmas trees, employee has extra trees to sell
 
-## [nunn#3] 2025-12-18 | City Council | minutes
+## [nunn#2] 2025-12-18 | City Council | minutes
 - APPROVAL OF AGENDA
 - 1. Review permit application for storage building at 116 2 nd Street, Mark and Denise Sage were present
 - Town responsible for 20% of $5,000.00; use to purchase equipment for gymnasium
@@ -81,7 +70,7 @@
 - *Grant update was provided to the Board by Trustee Asher
 - PUBLIC COMMENTS
 
-## [nunn#4] 2026-01-08 | City Council | minutes
+## [nunn#3] 2026-01-08 | City Council | minutes
 - 1. Presentation by Chalk Bluffs Energy Project, Jeremy Call and 2 others
 - 2. Review Resolution 2026-01, Municipal Court Fees for 2026
 - 3. Review Resolution 2026-02, Holiday Schedule
@@ -94,7 +83,7 @@
 - Kyle, Cathy, and Matt (Town attorney) will meet with North Weld Water to review agreement
 - Grants (Town Board)
 
-## [nunn#5] 2026-01-22 | City Council | minutes
+## [nunn#4] 2026-01-22 | City Council | minutes
 - APPROVAL OF AGENDA
 - take place after approval of agenda
 - PLANNING AND DEVELOPMENT
@@ -124,7 +113,7 @@
 - CDBG Grant for Senior Center was submitted
 - PUBLIC COMMENTS
 
-## [nunn#6] 2026-02-05 | City Council | minutes
+## [nunn#5] 2026-02-05 | City Council | minutes
 - 1. Review Resident request regarding water bill due to leak at property
 - 2. Review Resolution 2026-05, Designating the Public Place for posting town notices
 - 3. Review Resolution 2026-06, Cancellation of the 2026 Election and seat candidates for April
@@ -148,7 +137,7 @@
 - 3. Vote for water bill adjustment for 48920 CR 29, James and Karen Langston
 - 4. OEM, Presentation of appreciation letter, plaque, gift card to Denise Bradshaw
 
-## [nunn#7] 2026-02-19 | City Council | minutes
+## [nunn#6] 2026-02-19 | City Council | minutes
 - 1. Review renewal application for NOCO Farms LLC., Marijuana Cultivation Facility license #403R -01387
 - 2. Review renewal application for SPCY Canna LLC., Marijuana Cultivation Facility license #403R -01263
 - 3. Review renewal application for Ace’s Place LLC., Medical Marijuana Culivation Facility license
@@ -168,7 +157,7 @@
 - Presentation to Weld County for CDBG Senior Center, March 4 th
 - PUBLIC COMMENTS
 
-## [nunn#8] 2026-03-19 | City Council | minutes
+## [nunn#7] 2026-03-19 | City Council | minutes
 - 1. Review ordinance to adopt 2024 International Building Code updates, Russ Weber from Safe built
 - same as 2018 amendments
 - 2. Review 2025 Colorado Wild Fire Resiliency Code for future adoption
@@ -198,14 +187,14 @@
 - 12 teams, possible soccer practice at Veteran’s Park April-June, 3 to 15 years old
 - Chief Florence notified that HRA office will be moving to smaller office
 
-## [nunn#9] 2026-04-02 | City Council | minutes
+## [nunn#8] 2026-04-02 | City Council | minutes
 - Discussion and possible action of the following agenda items
 - 1. Review asbestos abatement bids
 - 4 bids, ranging from $56,000 - $161,000
 - $56,000.00 total built into the grant for all work, with an additional $9,000; CDBG is giving us
 - 2. Vote on asbestos abatement contractor
 
-## [nunn#10] 2026-04-16 | City Council | minutes
+## [nunn#9] 2026-04-16 | City Council | minutes
 - Public Hearing
 - The Public Hearing of the Board of Trustees for the Town of Nunn for April 16th, 2026 was called to order at
 - ORDINANCE 329
@@ -236,7 +225,7 @@
 - 2. Tree purchase match
 - PUBLIC COMMENTS
 
-## [nunn#11] 2026-05-21 | City Council | minutes
+## [nunn#10] 2026-05-21 | City Council | minutes
 - 1. Review renewal application for Ace’s Place LLC. Marijuana Cultivation Facility license #403R-01162
 - 2. Review renewal application for Ace’s Place LLC. Marijuana Manufacturing Facility license #404R -00460
 - 3. Review renewal application for Ace’s Place LLC. Medical Marijuana Manufacturing Facility license
@@ -263,7 +252,7 @@
 - PUBLIC COMMENTS
 - Kerri with HRA, invited Town to HRA Board BBQ on June 15 th 5-7 pm at Liberty Park in Ault
 
-## [nunn#12] 2026-06-04 | City Council | minutes
+## [nunn#11] 2026-06-04 | City Council | minutes
 - APPROVAL OF AGENDA
 - 1. -Review CDBG grant updates and determine direction for completion
 - $206,739.34 approved grant total
@@ -285,7 +274,7 @@
 - Water Plan bid created. Trustee Babiarz appointed as co-chair of Grants, Trustee Buxton transition to public
 - 1. Vote for CDBG grant allocation for completion
 
-## [nunn#13] 2026-06-25 | City Council | agenda
+## [nunn#12] 2026-06-25 | City Council | agenda
 - Discussion and possible action of the following agenda items
 - APPROVAL OF AGENDA
 - READING AND APPROVAL OF MINUTES OF PREVIOUS MEETING, (Marijuana Licensing/ Work
@@ -301,7 +290,7 @@
 - Water Updates
 - PUBLIC COMMENTS
 
-## [nunn#14] 2026-07-16 | City Council | minutes
+## [nunn#13] 2026-07-16 | City Council | minutes
 - 1. 2025 Audit Presentation- Chad Chavies
 - 4. Discussion of resident request regarding dirt bikes
 - 5. Review Sunrise Solar Project permit application 49600 CR 29.5
@@ -327,7 +316,7 @@
 - *Trustee Asher provided verbal update on grants
 - PUBLIC COMMENTS
 
-## [nunn#15] 2026-08-06 | City Council | minutes
+## [nunn#14] 2026-08-06 | City Council | minutes
 - 1. Review minor replat of two parcels for Hediger Farms
 - 2. Review Clayton Home building permit, lot 2 of RLD subdivision
 - 3. Review Clayton Home building permit, lot 3 of RLD subdivision
@@ -345,7 +334,7 @@
 - 2. Project Manager for CDBG Senion Center Grant
 - CDBG Senior Center Grant. All in favor
 
-## [nunn#16] 2026-08-20 | City Council | minutes
+## [nunn#15] 2026-08-20 | City Council | minutes
 - APPROVAL OF AGENDA
 - APPROVAL OF MINUTES FOR PREVIOUS WORK SESSION/MEETINGS
 - APPROVAL TO PAY BILLS
@@ -367,7 +356,7 @@
 - Need to post Master Drainage Plan and Comprehensive Safety Plan online for 30 days
 - PUBLIC COMMENTS
 
-## [nunn#17] 2026-09-17 | City Council | minutes
+## [nunn#16] 2026-09-17 | City Council | minutes
 - Public Hearing
 - Review of Clayton Homes variance request for 1467 4 th Street related to a proposed
 - The Public Hearing for the Town of Nunn for September 17th, 2026 was called to order at 6:05 pm and presided over
@@ -401,7 +390,7 @@
 - Grant application for Edward Byrne Jag grant with a 20% match of up to $5,000.00
 - PUBLIC COMMENTS
 
-## [nunn#18] 2026-10-08 | City Council | agenda
+## [nunn#17] 2026-10-08 | City Council | agenda
 - Discussion of the following:
 - 1. Preliminary Concept Plan review for Robert Kearny 20 acres previous Antelope Run
 - 2. Review RV Ordinance for Town of Nunn
@@ -415,7 +404,7 @@
 - PUBLIC WORKS (Facilities, Parks, Cemetery, Water, Technology)
 - GRANTS (Town Board)
 
-## [nunn#19] 2026-10-15 | City Council | agenda
+## [nunn#18] 2026-10-15 | City Council | agenda
 - Discussion and possible action of the following agenda items
 - APPROVAL OF AGENDA
 - READING AND APPROVAL OF MINUTES OF PREVIOUS MEETING, (Work Session/Regular
@@ -431,3 +420,24 @@
 - 2.Vote for Kendra Minch to Chair Water Committee
 - 1.Vote to approve Project Manager CDBG #2
 - PUBLIC COMMENTS
+
+## [nunn#19] 2026-11-05 | City Council | agenda
+- Discussion of the following:
+- 1. Review Excessive Water Use Ordinance for users that exceed water unit/property
+- 2. Discussion of 2027 water rates, permit convenience fee, credit card processing fees
+- 3. Discussion of RV/Adu Ordinance
+- 4. Wildfire Resiliency Code, review classification of fire risks, Resolution for notice of
+- hearing and draft Ordinance for adoption
+- 5. Review quote for potholing water line
+- 6. Discussion of additional Bus Stop shelter on East Side of Highway 85
+- PLANNING AND DEVELOPMENT (Town Board)
+- FINANCE/BUDGET/ PERSONNEL
+- PUBLIC SAFETY (Police, Code Enforcement, Emergency Management)
+- PUBLIC WORKS (Facilities, Parks, Cemetery, Water, Technology)
+- GRANTS (Town Board)
+- APPROVAL OF AGENDA
+- 1. Appoint Pro Tem Mayor for Town of Nunn Board of Trustees
+- 2. Vote for adoption of Resolution 2026-11, A Resolution establishing Banking
+- 3. Vote for approval of Potholing water Line
+- 4. Vote for approval of Bus Stop Shelter
+- 5. Vote to approve donation

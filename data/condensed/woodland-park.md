@@ -1,56 +1,6 @@
 # woodland-park
 
-## [woodland-park#0] 2026-08-04 | Historical Preservation Committee | agenda
-- 2. Approval of Minutes – July 7, 2026
-- 3. Public Hearings – None
-- 4. Committee Business – Active Projects
-- a. Junction House/Roberts House Grant (P3)
-- b. Templeton Cemetery Restoration Plan (P2)
-- c. Preservation Plan (P4)
-- d. Bergstrom Park Reimagined (P5)
-- 7. Public Comment on Items Not on the Agenda
-- FOR MORE INFORMATION, PLEASE CONTACT THE WOODLAND PARK PLANNING
-
-## [woodland-park#1] 2026-08-04 | Historical Preservation Committee | agenda
-- 2. Approval of Minutes – July 7, 2026
-- 3. Public Hearings – None
-- 4. Committee Business – Active Projects
-- a. Junction House/Roberts House Grant (P3)
-- b. Templeton Cemetery Restoration Plan (P2)
-- c. Preservation Plan (P4)
-- d. Bergstrom Park Reimagined (P5)
-- 7. Public Comment on Items Not on the Agenda
-- FOR MORE INFORMATION, PLEASE CONTACT THE WOODLAND PARK PLANNING
-- Staff members present included Planning Director Schminke, Permit Technician Amy Wolin,
-- 2. Approval of Minutes – June 2, 2026: Mr. Black motioned and Mr. Simonson seconded to
-- approve the June 2, 2026, minutes as presented. Motion carried unanimously by voice vote
-- 3. Public Hearings
-- 0099): Consider recommending approval to designate 209 E. Midland (the Vos
-- Building) a Local Historic Landmark, a request by Steve Plutt (Applicant) and
-- of Addition No. 1 to the Town of Manitou Park, now known as Woodland Park,
-- is being considered for a Local Historic Landmark designation. It is nestled in between
-- US24, Fairview Street, and E. Midland Avenue. The triangle-shaped property was adjacent to
-- railroad ROW and became smaller when the ROW became a highway ROW. Steffa’s
-- Subdivision was platted in 1889, and the Town of Manitou Park was platted in 1887. This
-- Scouts and Campfire Girls, held civic affair meetings to control wild dogs running at large
-- and advocate for a fire alarm system, ideas for raising money to start the first Woodland Park
-- 4H club, visualized a “Woodland Park Town Hall” in the old Odd Fellows building, meetings
-- that negotiated and facilitated the donation of 2.85 acres that expanded the Woodland Park
-- etc.). The Architectural Inventory criteria are what the National Park Service and State of
-- generated image of a proposed restored façade
-- The application included four letters of support for this proposal from Pikes Peak Historical
-- Pass Historical Society & Pies Peak Museum (Woodland Park, CO), and Victor Heritage
-- This application was referred out for comments to the DDA, Main Street, NETCO Fire,
-- publications and postings for the public hearing were met. Only one comment was received;
-- The Local Landmark Designation Criteria per Resolution No. 602, Series 2003 are:
-- the City of Woodland Park; and potential to provide important information concerning
-- the history of Woodland Park
-- 3. The structure should have sufficient original or accurately restored materials that
-- documentation of “sufficient original or accurately restored materials that maintain its
-- Move to recommend City Council approve and ordinance designating 209 E. Midland
-- Steffa’s Subdivision of Addition No. 1 to the Town of Manitou Park, now known as
-
-## [woodland-park#2] 2026-08-11 | Board of Review | agenda
+## [woodland-park#0] 2026-08-11 | Board of Review | agenda
 - CITY OF WOODLAND PARK, BUILDING DEPARTMENT
 - 220 W. SOUTH AVENUE, WOODLAND PARK, CO
 - woodlandpark.org) - click on the specific date of this meeting, then “More Details” for the
@@ -58,7 +8,7 @@
 - VI. VARIANCE OR APPEALS HEARINGS - None
 - IX. OPEN DISCUSSION
 
-## [woodland-park#3] 2026-08-11 | Board of Review | agenda
+## [woodland-park#1] 2026-08-11 | Board of Review | agenda
 - CITY OF WOODLAND PARK, BUILDING DEPARTMENT
 - 220 W. SOUTH AVENUE, WOODLAND PARK, CO
 - woodlandpark.org) - click on the specific date of this meeting, then “More Details” for the
@@ -92,7 +42,7 @@
 - identified are repairable. He solicited questions from the Board
 - and use of the building. Mr. Langley replied that before they can justify the expense and continue
 
-## [woodland-park#4] 2026-08-31 | Main Street | minutes
+## [woodland-park#2] 2026-08-31 | Main Street | minutes
 - City of Woodland Park Main Street Board Meeting - Minutes
 - Parade: Tim asked the parade committee to find out how Main Street
 - Oktoberfest group sent out a sign-up link. Main Street board and volunteers
@@ -112,7 +62,7 @@
 - 7. Work plan discussion
 - Tim stated that we have discussed everything on the work plan
 
-## [woodland-park#5] 2026-09-01 | Historical Preservation Committee | agenda
+## [woodland-park#3] 2026-09-01 | Historical Preservation Committee | agenda
 - 2. Approval of Minutes – August 4, 2026
 - 3. Public Hearings – Local Historic Landmark Designation for 116 W. Lake Avenue
 - (26-0182): Consider a request to designate 116 W. Lake Avenue a Local Historic
@@ -129,7 +79,7 @@
 - 7. Public Comment on Items Not on the Agenda
 - FOR MORE INFORMATION, PLEASE CONTACT THE WOODLAND PARK PLANNING
 
-## [woodland-park#6] 2026-09-01 | Historical Preservation Committee | agenda
+## [woodland-park#4] 2026-09-01 | Historical Preservation Committee | agenda
 - 2. Approval of Minutes – August 4, 2026
 - 3. Public Hearings – Local Historic Landmark Designation for 116 W. Lake Avenue
 - (26-0182): Consider a request to designate 116 W. Lake Avenue a Local Historic
@@ -170,57 +120,13 @@
 - Chair Glauth watched the Board of Review (BOR) meeting which considered a case
 - some discussion of what was appealed. The City attorneys also reviewed the case. BOR
 
-## [woodland-park#7] 2026-09-24 | Planning Commission | agenda
+## [woodland-park#5] 2026-09-24 | Planning Commission | agenda
 - WOODLAND PARK PLANNING COMMISSION
 - A. Discusssion to consider amending Section 4.03, Section
 - 6.06.120, and Section 7.03 of the Unified Development Code to
 - Use Permit process, and to define “Public Safety Facilities” under
 
-## [woodland-park#8] 2026-10-06 | Downtown Development Agency | agenda
-- City of Woodland Park
-- Downtown Development Authority
-- 220 W. South Ave., Woodland Park, CO 80863
-- a. Approval of September 01, 2026 Regular Meeting Minutes
-- (Public comment only on matters that are on the Agenda.)
-- a. 2026 Micro-Grant Program Update (City staff)
-- b. 2026 Micro-Grant Program Final Reports (City staff)
-- c. DDA 2027 Budget consideration and adoption (City staff)
-- ii. TIF Reimbursement – Taylor Mountain Enterprises, LLC
-- 7. PUBLIC COMMENT
-- (Public comment on
-- Government/Boards, Commissions and Committees/ Downtown Development Authority. Select
-- Agenda was approved as presented
-- Al Born moved to approve the August 4 minutes as written. George Jones seconds
-- 5. PUBLIC COMMENT (Items on the Agenda) {7:34 a.m.}
-- Anita Riggle, Economic Development and Budget Analyst, provided a
-- Grant update. Completed Grants: RD Toth Construction, Rhapsody
-- Studio/Pine and Petal Salon, Woodland Capital/ Eagle Fire Lodge, Aspen
-- Total amount for grants 2026 $197,516.87
-- b. 2026 Micro-Grant Program Final Reports
-- i. High Folks, LLC for $4,731.00 Kellie Case moved to approve and George
-- ii. Mountain View Studio, LLC for $5,000.00 Kellie Case moved to approve
-- iii. Woodland Capital, LLC for $4,785.00 Kellie Case moved to approve and
-- iv. Aspen Leaf Enterprises, LLC for $5,000.00 Kellie Case moved to approve
-- moved to approve and Geroge Jones seconded the motion. Vote 7 yes, 0 no
-- c. 2027 Budget Discussion - Discussion around TV advertising, promoting
-- Woodland Park during the holiday season, list of businesses in our area,
-- and partnering with Main Street. Shop Small will be promoted and the
-- parade. The ﬂower budget line item may be reduced to $50,000 vs
-- $250,000. It was higher as the DDA had considered a greenhouse and
-- staffing. The iron ﬂower baskets were discussed and they are deer
-- walkability study will be needed for downtown and discussion around the
-- Baggage building in Bergstrom park. DDA Grants for 2027 discussed as it
-- residents. 2025 we had 30 approved grant applications and 2026 we had
-- 40 approved applications. Aaron Vassalotti stated at the October
-- meeting the DDA budget would be presented to the board
-- 7. Public Comment {7:58 a.m.} Public Comment on matters not on the Agenda
-- a. Board Chair Report : Jon is excited about the grant program and Bergstrom
-- amount of $4290.85. Al Born moves to approve and Kellie Case
-- b. Board Members – Al Born discussed the DDA district in Colorado Springs and
-- City Council may dissolve the DDA. He also discussed affordable housing
-- within the district? Sales Tax was discussed brieﬂy and the Rail line which
-
-## [woodland-park#9] 2026-10-06 | Historical Preservation Committee | agenda
+## [woodland-park#6] 2026-10-06 | Historical Preservation Committee | agenda
 - 2. Approval of Minutes – September 1, 2026
 - 3. Public Hearings – None
 - 4. Committee Business – Projects
@@ -233,7 +139,7 @@
 - 7. Public Comment on Items Not on the Agenda
 - FOR MORE INFORMATION, PLEASE CONTACT THE WOODLAND PARK PLANNING
 
-## [woodland-park#10] 2026-10-08 | Planning Commission | agenda
+## [woodland-park#7] 2026-10-08 | Planning Commission | agenda
 - WOODLAND PARK PLANNING COMMISSION
 - 3. APPROVE MINUTES: July 9, 2026
 - 4. PUBLIC HEARINGS
@@ -251,52 +157,94 @@
 - Allowed Uses, to label said use as applicable under the Special Use
 - Permit process, and to define “Public Safety Facilities” under Words and
 
-## [woodland-park#11] 2026-10-15 | City Council | agenda
-- City of Woodland Park
-- City of Woodland Park City Council - October 15, 2026
-- 3. CEREMONIES, PRESENTATIONS AND APPOINTMENTS
-- C. Woodland Park School District Presentation on Funding (Presenter: Kassidi
-- D. Sales Tax Update August 2026 (A) (Presenter: City Manager Vassalotti)
-- E. Boy Scouts Reservoir Presentation (A) (Presenter: Utilities Director Wiley)
-- A. Approval of the October 1, 2026 City Council Meeting Minutes (A) (Presenter:
-- C. Contract for Holiday Tree Lighting (A) (Presenter: Assistant City Manager Felts)
-- 6. PUBLIC COMMENT ON ITEMS NOT ON THE AGENDA (1)
-- A. 2027 Budget Presentation
-- (Public Comment may be heard)
-- 9. ORDINANCES ON INITIAL POSTING
-- A. Approve on Initial Posting, Ordinance No. 1536, Series 2026, An Ordinance of
-- the Woodland Park City Council Amending Section 6.06.120, 7.03.5, and Table
-- 4.03-1 of the Unified Development Code Concerning the Classification of a New
-- Use Type Labeled Public Safety Facilities and Set the Public Hearing for
-- 10. PUBLIC HEARINGS
-- (Public comment not necessary)
-- (A) Administrative- matters involving day-to-day decisions such as approving contracts, hiring
-- groups of people, such as enacting dog regulations or amending the City code. Legislative
-- action generally involves motions, resolutions and ordinances
-- (QJ)Quasi-Judicial- apply general rules to a specific interest, such as zoning change affecting
-- a single piece of property, or a special use permit. Quasi-Judicial actions generally involve
-- adjudication, sometimes in writing, but not a resolution or ordinance. Decision for Quasi
-- Ex-parte communication (communication outside the official hearing) between elected officials
-- and citizens is not permitted on Quasi-Judicial
+## [woodland-park#8] 2026-11-03 | Historical Preservation Committee | agenda
+- 2. Approval of Minutes – September 1, 2026 & October 6, 2026
+- 3. Public Hearings – None
+- 4. Committee Business – Projects
+- a. Junction House/Roberts House Grant (P3)
+- b. Templeton Cemetery Restoration Plan (P2)
+- c. Preservation Plan (P4)
+- d. Bergstrom Park Reimagined (P5)
+- a. 2027 Work Plan
+- b. 2027 Proposed Budget
+- 7. Public Comment on Items Not on the Agenda
+- FOR MORE INFORMATION, PLEASE CONTACT THE WOODLAND PARK PLANNING
 
-## [woodland-park#12] 2026-10-15 | City Council | agenda
+## [woodland-park#9] 2026-11-03 | Downtown Development Agency | agenda
 - City of Woodland Park
-- City of Woodland Park City Council - October 15, 2026
+- Downtown Development Authority
+- 220 W. South Ave., Woodland Park, CO 80863
+- a. Approval of October 06, 2026, Regular Meeting Minutes
+- 5. PUBLIC COMMENT
+- (Public comment only on matters that are on the Agenda.)
+- a. 2026 Micro-Grant Program Update (City staff)
+- b. 2026 Micro-Grant Program Final Reports (City staff)
+- ii. Fifty-Five Twelve, LLC d/b/a Solid Grounds Coffee House
+- v. Woodland Park Pregnancy Center
+- vii. MBI Contractors, Inc
+- c. Resolution No. 2026-08, a Resolution Confirming the Board’s Approval of the Proposed WPDDA
+- 2027 Budget and Recommendation of Approval to City Council, and Adopting the 2027 Budget and
+- Appropriating Funds for Expenditures for the 2027 Fiscal Year Subject to City Council Approval
+- 7. PUBLIC COMMENT
+- (Public comment on matters not on the Agenda.)
+- Government/Boards, Commissions and Committees/ Downtown Development Authority. Select
+- Al Born moved to approve the September minutes as written. Kellie Case seconds
+- 5. PUBLIC COMMENT (Items on the Agenda) {7:32 a.m.}
+- Kimberly Burleson provided a grant update. Grants paid out to date
+- $48,336.81. We have $30,000 in Grant approvals before the board today
+- We do anticipate $175,000 to be paid out by end of the year. Two grant
+- recipients have pulled out: TAVA and one of Bill Page’s applications. All
+- Economic Development, stated if packets are received towards the end
+- 26 Micro-Grant Program Final Reports
+- Discussion about approving all grants at one time. One grant recipient
+- did receive two grants – one grant was for the outside improvement of the
+- building and another grant was for a tenant. Since the grants were
+- approved by the committee, we will honor them this year but moving
+- forward it is one grant per applicant
+- Kellie Case moves to approve items 6b (one thorough six) based on the ﬁnal
+- delineated in each one as disbursement of the awarded grant for recoverable
+- 7 Budget Discussion - Aaron Vassalotti reviews the Fund summary
+- and the 2027 budget projections. Net position of $1,865,000 at the end of
+- 2025 with 2026 projected revenue of $1,115,000. Year end projected
+- expenditures of $748,000 leaving the projected net fund position at the
+- end of 2026 of $2,271,000. In your budget line item details, the revenues
+- are projected to be $1,187,000. Expenditures $1,741,849 which is an
+- $1,717,000 for the end of 2027. We have property tax coming in at
+- Line items which have been discussed: Beautiﬁcation $50,000, TIF
+- agreements $275,000 which was increased for the TAVA TIF agreement
+- DDA Micro-Grants $200,000. Numbers were shifted on the sheet so
+
+## [woodland-park#10] 2026-11-05 | City Council | agenda
+- City of Woodland Park
+- City of Woodland Park City Council - November 5, 2026
+- **Revised Agenda added Police Department Presentations
 - 3. CEREMONIES, PRESENTATIONS AND APPOINTMENTS
-- C. Woodland Park School District Presentation on Funding (Presenter: Kassidi
-- D. Sales Tax Update August 2026 (A) (Presenter: City Manager Vassalotti)
-- E. Boy Scouts Reservoir Presentation (A) (Presenter: Utilities Director Wiley)
-- A. Approval of the October 1, 2026 City Council Meeting Minutes (A) (Presenter:
-- C. Contract for Holiday Tree Lighting (A) (Presenter: Assistant City Manager Felts)
+- B. Pickleball Above the Clouds Presentation (Presenter: Robert Browning)
+- C. State of Main Street (A) (Presenter: Assistant City Manager Burleson)
+- D. Proclamation Small Business Saturday 2026 Woodland Park
+- E. Police Department Presentations (A) (Presenter: Chief Deisler)
+- A. Approval of the October 15, 2026 City Council Meeting Minutes (A) (Presenter:
+- B. Approval of a contract between the City of Woodland Park and Respec for Glen
 - 6. PUBLIC COMMENT ON ITEMS NOT ON THE AGENDA (1)
-- A. 2027 Budget Presentation
+- A. 2027 Budget
 - (Public Comment may be heard)
 - 9. ORDINANCES ON INITIAL POSTING
-- A. Approve on Initial Posting, Ordinance No. 1536, Series 2026, An Ordinance of
-- the Woodland Park City Council Amending Section 6.06.120, 7.03.5, and Table
-- 4.03-1 of the Unified Development Code Concerning the Classification of a New
-- Use Type Labeled Public Safety Facilities and Set the Public Hearing for
+- A. Approve on Initial Posting, Ordinance No. 1539, Series 2026, An Ordinance
+- Rezoning Lot 3R, Block 3, C.D. Weaver #1A Subdivision Woodland Park, Teller
+- County (A.K.A. 777 East US Hwy 24) from Planned Unit Development (PUD) to
+- Multiple Dwelling Urban Residential (MDU) and set the public hearing for
+- B. Approve on Initial Posting, Ordinance No. 1540, Series 2026, An Ordinance
+- Granting a Conditional Use Permit for a “Multi-Household Attached Dwelling” Use
+- hearing for November 19, 2026 (QJ) (Presenter: Planning Director Schminke)
+- C. Approve on Initial Posting, Ordinance No. 1541, Series 2026, An Ordinance of
+- the City Council for the City of Woodland Park, Colorado, Imposing a Temporary
+- Moratorium on the Submission, Acceptance, Processing and Approval of all
+- Development, Zoning, and Land Use Applications for Residential Development
+- the City of Woodland Park and set the public hearing for November 19, 2026
 - 10. PUBLIC HEARINGS
+- A. Approve Ordinance No. 1536, Series 2026, An Ordinance of the Woodland Park
+- City Council Amending Section 6.06.120, 7.03.5, and Table 4.03-1 of the Unified
+- Development Code Concerning the Classification of a New Use Type Labeled
 - (Public comment not necessary)
 - (A) Administrative- matters involving day-to-day decisions such as approving contracts, hiring
 - groups of people, such as enacting dog regulations or amending the City code. Legislative
@@ -305,17 +253,43 @@
 - a single piece of property, or a special use permit. Quasi-Judicial actions generally involve
 - adjudication, sometimes in writing, but not a resolution or ordinance. Decision for Quasi
 - Ex-parte communication (communication outside the official hearing) between elected officials
-- and citizens is not permitted on Quasi-Judicial
-- WHEREAS, the strength and prosperity of City of Woodland Park and the Pikes Peak region are enriched
-- Veterans Small Business Week to celebrate veteran-owned businesses and highlight the resources
-- NOW, THEREFORE, the City Council of Woodland Park, Colorado, does hereby proclaim
-- and encourage all residents to recognize, celebrate, and support our veterans, service members, military families,
-- CITY COUNCIL OF WOODLAND PARK, COLORADO
-- and how property tax increases factor in
-- “My property taxes went up, doesn’t the
-- Colorado guarantees each district a funding total. Local property tax fills it first — then the state pays only the rest
-- Raise local taxes, and the state simply fills less
-- When property taxes are LOWER
-- When property taxes are HIGHER
-- property taxes rise
-- Same total, either way. A bigger property-tax bill doesn't grow the budget — it just means the state sends less
+
+## [woodland-park#11] 2026-11-05 | City Council | agenda
+- City of Woodland Park
+- City of Woodland Park City Council - November 5, 2026
+- **Revised Agenda added Police Department Presentations
+- 3. CEREMONIES, PRESENTATIONS AND APPOINTMENTS
+- B. Pickleball Above the Clouds Presentation (Presenter: Robert Browning)
+- C. State of Main Street (A) (Presenter: Assistant City Manager Burleson)
+- D. Proclamation Small Business Saturday 2026 Woodland Park
+- E. Police Department Presentations (A) (Presenter: Chief Deisler)
+- A. Approval of the October 15, 2026 City Council Meeting Minutes (A) (Presenter:
+- B. Approval of a contract between the City of Woodland Park and Respec for Glen
+- 6. PUBLIC COMMENT ON ITEMS NOT ON THE AGENDA (1)
+- A. 2027 Budget
+- (Public Comment may be heard)
+- 9. ORDINANCES ON INITIAL POSTING
+- A. Approve on Initial Posting, Ordinance No. 1539, Series 2026, An Ordinance
+- Rezoning Lot 3R, Block 3, C.D. Weaver #1A Subdivision Woodland Park, Teller
+- County (A.K.A. 777 East US Hwy 24) from Planned Unit Development (PUD) to
+- Multiple Dwelling Urban Residential (MDU) and set the public hearing for
+- B. Approve on Initial Posting, Ordinance No. 1540, Series 2026, An Ordinance
+- Granting a Conditional Use Permit for a “Multi-Household Attached Dwelling” Use
+- hearing for November 19, 2026 (QJ) (Presenter: Planning Director Schminke)
+- C. Approve on Initial Posting, Ordinance No. 1541, Series 2026, An Ordinance of
+- the City Council for the City of Woodland Park, Colorado, Imposing a Temporary
+- Moratorium on the Submission, Acceptance, Processing and Approval of all
+- Development, Zoning, and Land Use Applications for Residential Development
+- the City of Woodland Park and set the public hearing for November 19, 2026
+- 10. PUBLIC HEARINGS
+- A. Approve Ordinance No. 1536, Series 2026, An Ordinance of the Woodland Park
+- City Council Amending Section 6.06.120, 7.03.5, and Table 4.03-1 of the Unified
+- Development Code Concerning the Classification of a New Use Type Labeled
+- (Public comment not necessary)
+- (A) Administrative- matters involving day-to-day decisions such as approving contracts, hiring
+- groups of people, such as enacting dog regulations or amending the City code. Legislative
+- action generally involves motions, resolutions and ordinances
+- (QJ)Quasi-Judicial- apply general rules to a specific interest, such as zoning change affecting
+- a single piece of property, or a special use permit. Quasi-Judicial actions generally involve
+- adjudication, sometimes in writing, but not a resolution or ordinance. Decision for Quasi
+- Ex-parte communication (communication outside the official hearing) between elected officials

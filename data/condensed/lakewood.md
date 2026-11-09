@@ -1,78 +1,6 @@
 # lakewood
 
-## [lakewood#0] 2026-08-10 | City Council | agenda
-- 480 S. ALLISON PARKWAY
-- advance as possible so we can accommodate your request
-- How to Connect to Provide Public Comment: Online participants may post written
-- comments of any length to LakewoodSpeaks.org, an online forum for public comments
-- ITEM C. – INITIAL PUBLIC COMMENT
-- ORDINANCES ON FIRST READING
-- ITEM 4 – – FIRST READING ORDINANCES
-- ITEM A. – O-2026-30 – AN ORDINANCE TO REPEAL AND REPLACE CHAPTER
-- ANNUAL BUDGET IN THE AMOUNT OF $225,000 IN THE GENERAL
-- ITEM 5 – APPROVING MINUTES OF THE CITY COUNCIL MEETINGS
-- ORDINANCES ON SECOND READING
-- AND PUBLIC HEARINGS
-- ITEM 7 – – SECOND READING ORDINANCES
-- ITEM A. – O-2026-24 – AMENDING CHAPTER 2.54 OF THE LAKEWOOD
-- AUTHORIZING A VOTER-APPROVED AMENDMENT TO SECTION 2.6
-- CERTIFICATION OF THE ELECTION RESULTS, AND ADOPTING THE
-- RECEIVING VOTER APPROVAL TO REPEAL AND REPLACE SECTION
-- INCREASE IN PROPERTY TAXES BE APPROVED BY A VOTE OF THE
-- ELECTORATE, AND ADOPTING THE BALLOT TITLE THEREFOR
-- AUTHORIZING VOTER-APPROVED AMENDMENTS TO THE CITY’S
-- ITEM 8 – – RESOLUTIONS
-- 8A APPROVING PARTICIPATION BY THE CITY OF LAKEWOOD IN A
-- ITEM A. – GENERAL PUBLIC COMMENT
-- 9B CITY COUNCIL REQUEST
-
-## [lakewood#1] 2026-08-10 | City Council | agenda
-- 480 S. ALLISON PARKWAY
-- advance as possible so we can accommodate your request
-- How to Connect to Provide Public Comment: Online participants may post written
-- comments of any length to LakewoodSpeaks.org, an online forum for public comments
-- ITEM C. – INITIAL PUBLIC COMMENT
-- ORDINANCES ON FIRST READING
-- ITEM 4 – – FIRST READING ORDINANCES
-- ITEM A. – O-2026-30 – AN ORDINANCE TO REPEAL AND REPLACE CHAPTER
-- ANNUAL BUDGET IN THE AMOUNT OF $225,000 IN THE GENERAL
-- ITEM 5 – APPROVING MINUTES OF THE CITY COUNCIL MEETINGS
-- ORDINANCES ON SECOND READING
-- AND PUBLIC HEARINGS
-- ITEM 7 – – SECOND READING ORDINANCES
-- ITEM A. – O-2026-24 – AMENDING CHAPTER 2.54 OF THE LAKEWOOD
-- AUTHORIZING A VOTER-APPROVED AMENDMENT TO SECTION 2.6
-- CERTIFICATION OF THE ELECTION RESULTS, AND ADOPTING THE
-- RECEIVING VOTER APPROVAL TO REPEAL AND REPLACE SECTION
-- INCREASE IN PROPERTY TAXES BE APPROVED BY A VOTE OF THE
-- ELECTORATE, AND ADOPTING THE BALLOT TITLE THEREFOR
-- AUTHORIZING VOTER-APPROVED AMENDMENTS TO THE CITY’S
-- ITEM 8 – – RESOLUTIONS
-- 8A APPROVING PARTICIPATION BY THE CITY OF LAKEWOOD IN A
-- ITEM A. – GENERAL PUBLIC COMMENT
-- 9B CITY COUNCIL REQUEST
-- BUDGETARY IMPACTS: None
-- be considered by the Lakewood City Council
-- From: Travis Parker, Chief of the Sustainability & Community Development Branch
-- Subject: Amending Chapter 5.29 - Hauler Licensing
-- Adding missing definitions and amending existing definitions, particularly those that clarify the
-- Outlining how license applications are reviewed and the process for approvals and denials
-- Establishing license fees in Rules & Regulations instead of embedding in the code
-- Establishing a framework for enforcement of noncompliance which includes a hearing and
-- Sustainability Advisory Committee Meeting Presentations from(Jan 2026-May 2026)
-- 2. Await a future set of brief rules and regulations which will set a reasonable hauler license fee
-- compost tonnage and participation rates which are key to tracking progress toward the
-- community-wide Zero Waste goal established in Comprehensive Plan, Envision Lakewood
-- always be slightly out of date and identifying and bringing non-licensed haulers into
-- in Lakewood and therefore broader community engagement was not appropriate. City staff conducted
-- The proposed code was reviewed and discussed by Lakewood’s Sustainability Advisory
-- ATTACHMENTS: 1. Ordinance O-2026-30
-- AN ORDINANCE
-- AN ORDINANCE TO REPEAL AND REPLACE CHAPTER 5.29 OF THE LAKEWOOD
-- WHEREAS, waste haulers within the City of Lakewood (the “City”) generate
-- significant traffic on City roads and State highways through their hauling activities,
-
-## [lakewood#2] 2026-08-24 | City Council | agenda
+## [lakewood#0] 2026-08-24 | City Council | agenda
 - 480 S. ALLISON PARKWAY
 - advance as possible so we can accommodate your request
 - How to Connect to Provide Public Comment: Online participants may post written
@@ -95,13 +23,13 @@
 - ITEM B. – O-2026-30 – AN ORDINANCE TO REPEAL AND REPLACE CHAPTER
 - 8A CITY COUNCIL REQUEST
 
-## [lakewood#3] 2026-09-14 | City Council Study Session | agenda
+## [lakewood#1] 2026-09-14 | City Council Study Session | agenda
 - advance as possible so we can accommodate your request
 - How to Connect to Provide Public Comment: Online participants may post written
 - comments of any length to LakewoodSpeaks.org, an online forum for public comments
 - ITEM 3 – PRESENTATION OF THE REVISED 2026 AND PROPOSED 2027 CITY
 
-## [lakewood#4] 2026-09-14 | General | agenda
+## [lakewood#2] 2026-09-14 | General | agenda
 - How to Connect to Provide Public Comment:
 - Press *9 to Request to Speak, you will be prompted when to speak
 - as far in advance as possible so we can accommodate your request
@@ -109,7 +37,7 @@
 - ITEM 4 – PRESENTATION OF THE LAKEWOOD REINVESTMENT AUTHORITY
 - (LRA) REVISED 2026 AND PROPOSED 2027 BUDGET
 
-## [lakewood#5] 2026-09-14 | General | agenda
+## [lakewood#3] 2026-09-14 | General | agenda
 - How to Connect to Provide Public Comment:
 - Press *9 to Request to Speak, you will be prompted when to speak
 - as far in advance as possible so we can accommodate your request
@@ -128,13 +56,13 @@
 - NEXT STEPS: Staff will present the proposed 2027 LRA budget and 2026 revised LRA budget and
 - seek approval at the October 19, 2026 LRA meeting
 
-## [lakewood#6] 2026-09-21 | City Council | agenda
+## [lakewood#4] 2026-09-21 | City Council | agenda
 - advance as possible so we can accommodate your request
 - How to Connect to Provide Public Comment: Online participants may post written
 - comments of any length to LakewoodSpeaks.org, an online forum for public comments
 - ITEM 3 – Presentation Regarding Automated License Plate Readers
 
-## [lakewood#7] 2026-09-21 | City Council | agenda
+## [lakewood#5] 2026-09-21 | City Council | agenda
 - advance as possible so we can accommodate your request
 - How to Connect to Provide Public Comment: Online participants may post written
 - comments of any length to LakewoodSpeaks.org, an online forum for public comments
@@ -165,7 +93,7 @@
 - approved non-sworn employees of Lakewood whose assignments require use of the system. Each
 - Lakewood affirmatively selects the agencies permitted to search for information generated by its
 
-## [lakewood#8] 2026-09-28 | City Council | agenda
+## [lakewood#6] 2026-09-28 | City Council | agenda
 - 480 S. ALLISON PARKWAY
 - advance as possible so we can accommodate your request
 - How to Connect to Provide Public Comment: Online participants may post written
@@ -204,7 +132,7 @@
 - CORRESPONDING 2025 COLORADO WILDFIRE RESILIENCY
 - ITEM A. – PUBLIC COMMENT
 
-## [lakewood#9] 2026-09-28 | City Council | agenda
+## [lakewood#7] 2026-09-28 | City Council | agenda
 - 480 S. ALLISON PARKWAY
 - advance as possible so we can accommodate your request
 - How to Connect to Provide Public Comment: Online participants may post written
@@ -254,7 +182,7 @@
 - Bruce and Stormy McDonald
 - BUDGETARY IMPACTS: This is no significant budget impact associated with the recognition of
 
-## [lakewood#10] 2026-10-12 | City Council | agenda
+## [lakewood#8] 2026-10-12 | City Council | agenda
 - 480 S. ALLISON PARKWAY
 - advance as possible so we can accommodate your request
 - How to Connect to Provide Public Comment: Online participants may post written
@@ -271,7 +199,7 @@
 - MUNICIPAL OPEN SPACE AND PARK PURPOSES, INCLUDING
 - ITEM 7A. – PUBLIC COMMENT
 
-## [lakewood#11] 2026-10-12 | City Council | agenda
+## [lakewood#9] 2026-10-12 | City Council | agenda
 - 480 S. ALLISON PARKWAY
 - advance as possible so we can accommodate your request
 - How to Connect to Provide Public Comment: Online participants may post written
@@ -310,7 +238,7 @@
 - The City Council has identified public and traffic safety as a community priority, including investments
 - in crime prevention, homelessness response, and other strategies supporting safer streets for
 
-## [lakewood#12] 2026-10-26 | City Council | agenda
+## [lakewood#10] 2026-10-26 | City Council | agenda
 - 480 S. ALLISON PARKWAY
 - advance as possible so we can accommodate your request
 - How to Connect to Provide Public Comment: Online participants may post written
@@ -331,7 +259,7 @@
 - ITEM 9 – PUBLIC COMMENT
 - 10A CITY COUNCIL REQUESTS
 
-## [lakewood#13] 2026-10-26 | City Council | agenda
+## [lakewood#11] 2026-10-26 | City Council | agenda
 - 480 S. ALLISON PARKWAY
 - advance as possible so we can accommodate your request
 - How to Connect to Provide Public Comment: Online participants may post written
@@ -371,3 +299,64 @@
 - the CIPP. One hundred and seventy-six (176) projects have been selected for the program since its
 - inception. Many different types of neighborhood projects have been completed through this program
 - including playground improvements, public art installations and community gardens
+
+## [lakewood#12] 2026-11-09 | City Council | agenda
+- 480 S. ALLISON PARKWAY
+- advance as possible so we can accommodate your request
+- How to Connect to Provide Public Comment: Online participants may post written
+- comments of any length to LakewoodSpeaks.org, an online forum for public comments
+- ITEM D. – INITIAL PUBLIC COMMENT
+- ORDINANCES ON FIRST READING
+- ITEM 4 – – RESOLUTIONS
+- 4A APPROVING PUBLIC BENEFIT AGREEMENT WITH VITAMIN
+- ITEM 5 – – ORDINANCES ON FIRST READING
+- ITEM A. – O-2026-36 – TO REZONE LAND LOCATED AT 7801 W. DUQUESNE
+- ITEM B. – O-2026-37 – TO REZONE LAND LOCATED AT 2501 S. KIPLING ST.,
+- ITEM 6 – APPROVING MINUTES OF THE CITY COUNCIL MEETINGS
+- ORDINANCES ON SECOND READING
+- AND PUBLIC HEARINGS
+- ITEM 8 – – ORDINANCES ON SECOND READING
+- 8A TO REZONE LAND LOCATED AT 2555 S. KIPLING ST., CITY OF
+- 8B TO REZONE LAND LOCATED AT 7201 W. MANSFIELD AVE., CITY
+- ITEM A. – PUBLIC COMMENT
+
+## [lakewood#13] 2026-11-09 | City Council | agenda
+- 480 S. ALLISON PARKWAY
+- advance as possible so we can accommodate your request
+- How to Connect to Provide Public Comment: Online participants may post written
+- comments of any length to LakewoodSpeaks.org, an online forum for public comments
+- ITEM D. – INITIAL PUBLIC COMMENT
+- ORDINANCES ON FIRST READING
+- ITEM 4 – – RESOLUTIONS
+- 4A APPROVING PUBLIC BENEFIT AGREEMENT WITH VITAMIN
+- ITEM 5 – – ORDINANCES ON FIRST READING
+- ITEM A. – O-2026-36 – TO REZONE LAND LOCATED AT 7801 W. DUQUESNE
+- ITEM B. – O-2026-37 – TO REZONE LAND LOCATED AT 2501 S. KIPLING ST.,
+- ITEM 6 – APPROVING MINUTES OF THE CITY COUNCIL MEETINGS
+- ORDINANCES ON SECOND READING
+- AND PUBLIC HEARINGS
+- ITEM 8 – – ORDINANCES ON SECOND READING
+- 8A TO REZONE LAND LOCATED AT 2555 S. KIPLING ST., CITY OF
+- 8B TO REZONE LAND LOCATED AT 7201 W. MANSFIELD AVE., CITY
+- ITEM A. – PUBLIC COMMENT
+- BUDGETARY IMPACTS: None
+- be considered by the Lakewood City Council
+- WHEREAS, Colorado Gives Foundation created Colorado Gives Day to celebrate the impact of
+- WHEREAS, Colorado Gives Day will be celebrated on Tuesday, December 8, 2026, with early giving
+- celebrate the magnitude of good we create together
+- From: Will Chan, Economic Development Director & LRA Executive Director
+- Subject: Public Benefit Agreement with Natural Grocers
+- SUMMARY STATEMENT: The Public Benefit Agreement keeps the national headquarters of Natural
+- at or above the Jefferson County average wage. The agreement is performance-based. The City will
+- Grocers must repay the incentive if it moves its headquarters out of Lakewood during the retention
+- 1955. It has kept its corporate headquarters in Lakewood and now operates more than 175 stores in
+- This is the second agreement Council has considered with Natural Grocers. On February 13, 2023,
+- Council considered a Public Benefit Agreement (Resolution 2023-11) for a two-tier project at the
+- company’s existing location, 12612 W. Alameda Parkway. Tier 1 was a new 13,300-square-foot
+- milestones and a five-year rebate of 75% of incremental sales tax, capped at $28,000, for a total of
+- up to $500,000 on roughly $4.95 million in private investment. That project did not move forward. The
+- public improvements the City required grew beyond what the original agreement covered, and the
+- The new agreement is built to avoid that outcome. It is smaller and tied to a single building remodel,
+- and the improvements eligible for the incentive are listed in Exhibit A before the agreement is signed,
+- agreement at a larger scale, 50 new jobs instead of 25, and adds a requirement that the headquarters
+- stay in Lakewood. Below is a summary of the agreement

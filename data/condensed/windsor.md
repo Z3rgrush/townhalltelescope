@@ -1,94 +1,6 @@
 # windsor
 
-## [windsor#0] 2026-08-04 | Parks, Recreation and Culture | agenda
-- PARKS, RECREATION, AND CULTURE REGULAR
-- 2. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
-- C. BOARD REVIEW/DISCUSSION
-
-## [windsor#1] 2026-08-04 | Parks, Recreation and Culture | agenda
-- PARKS, RECREATION, AND CULTURE REGULAR
-- 2. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
-- C. BOARD REVIEW/DISCUSSION
-- Parks Recreation & Culture Regular Meeting
-- 100 N.5th Street, Windsor, CO 80550
-- Craig Ellingson – Parks Operations Manager
-- Agenda for Consideration
-- MR. GIFFIN MOVED TO APPROVE THE AGENDA AS PRESENTED. MS. LABUS
-- o Discussed hauler licensing from a constituents’ standpoint, no changes,
-- when it has been dropped off and how much, nominal fee for the hauler
-- o Second reading of right of way ordinance and who’s responsibility it is
-- o Discussed open space in Executive Session
-- electric vehicle discussion to see what it is like to be an elected official
-- o Upgrading the police department records management system and
-- o Golf cart permits and where they are allowed to go in Raindance was
-- amended and cleaned up
-- o Waste Water Treatment Facility is at 70% design and should be open fall
-- o Chimney Park turf project is complete, Re-Grand Opening four days this
-- o Waiting on CDOT clearance for Crossroads roundabout
-- o 15th Street water line replacement will start in June
-- o Discussed moving forward with smart meter replacement due to a lot of
-- meters going out, this will use cellular data to be more accurate
-- ➢ Mr. Symsack - Many discussions have been held about that, put in
-- an ordinance that limits what is allowed where, the police came
-- ordinance for enforcement does put the responsibility on the
-- to pursue children, the police are very aware of it, but dealing with
-- city streets in Colorado for 25-30 years, if on private property, the
-- police are not concerned, they are not breaking the law, but being
-- on city streets or cart paths is the issue, especially the ones that do
-- but going at such high rates of speed in public places will end up
-- o Board working in meet and confer with WSEA to plan for the future
-- from the school year – still hearing about Windsor Baseball and more
-- unfavorable, three options were looked at, one is a tax to give the
-- mindful of Parks & Recreation and WSFD who are also potentially
-- MS. LABUS MOVED TO APPROVE THE MAY 5, 2026 MINUTES AS
-- newspapers, Weld County Records, maps, Sanborn Fire Insurance maps,
-- ▪ The Miller Family came as immigrants from Russia and the Sorensen
-- Family came as immigrants from Denmrk, Theo Sorensen served on
-- o The railroad, freight and how Windsor was built with goods/mail coming in
-- opened a store together and Otis Shin road the on the roof of the freight
-- o Received seven bids from contractors for North Campus Park, will review
-
-## [windsor#2] 2026-08-05 | Planning Commission | agenda
-- Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
-- To view Planning Commission meeting broadcasts, visit
-
-## [windsor#3] 2026-08-10 | Town Board | minutes
-- Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
-- To view Town Board meeting broadcasts, visit
-- John Thornhill, Community Development Director
-- Tara Fotsch, Director of Parks, Recreation, and Culture
-- Jody Baker, Deputy Director of Parks, Recreation, and Culture
-- Consideration
-- Town Board Member Klimek moved to approve the agenda as written, Town Board
-- Windsor Housing Authority
-- Council recommended awarding $3 million—the base $2.8 million plus an additional
-- $200,000—to 43 applicants. Total requests received amounted to approximately $6.1
-- applicants did not receive funding due to insufficient funds or non-qualifying applications
-- Notably, 15 of the approved applicants reported that their services reached Windsor
-- campus. Final approval of the recommendations was pending action by the County
-- Chamber of Commerce is scheduled to make a presentation to the Town Board in two
-- on Thursday, August 6th. The Authority approved a preliminary 2027 budget at the same
-- replacement, including the potential pursuit of a grant. Town Board Member Peltz also
-- Severance's community park through which the Great Western Trail passes. Additionally, a
-- Town Board Member Symsack – Parks, Recreation and Culture Advisory Board, Windsor
-- County Road 15 and Harmony, was created by artist Noah Miller and is now complete. The
-- signage—a topographic representation of the Cache la Poudre River Valley crafted in
-- clearer communication to the public that the sculptures are available for purchase by
-- On behalf of the Parks, Recreation and Culture Advisory Board, Town Board Member
-- New museum acquisitions were approved, including a piano, a painting rescued from Town
-- Hall following the 2008 tornado that was identified as the work of a local artist and
-- Dickey Halfway Homestead restoration project was officially unveiled during National Night
-- Town Board Member Klimek - Poudre River Trail Corridor Authority, Water and Sewer
-- Town Board Member Rick Klimek reported that the Water and Sewer Board had not yet
-- Authority, he reported that the primary topic of discussion was the Cycling Without Age
-- cannot realistically meet due to factors outside their control, such as wildfire smoke from
-- registration is now open. Fees are $300 for government, nonprofit, or community
-- Commissioner Stevens was appointed Chair of the National Association of Counties
-- Transportation Committee. A presentation from CDOT on the US34 Corridor Preservation
-- corridor from Kersey to Estes Park to allow for future expansion and multimodal
-- improvements. An Intergovernmental Agreement (IGA) for corridor preservation may be
-
-## [windsor#4] 2026-08-12 | Water and Sewer Board | minutes
+## [windsor#0] 2026-08-12 | Water and Sewer Board | minutes
 - Water and Sewer Board Regular Meeting
 - 200 N. 11th Street, Windsor, CO 80550
 - Also Present: Jim Wielebnicki, Water Systems
@@ -113,7 +25,7 @@
 - materials to promote the conversion of Kentucky Bluegrass to more water efficient
 - Water Resource Technician
 
-## [windsor#5] 2026-08-12 | Historic Preservation Commission | minutes
+## [windsor#1] 2026-08-12 | Historic Preservation Commission | minutes
 - Poudre Conference Room, 200 N. 11th Street, Windsor, CO 80550
 - Consideration
 - Staff Liaison Lambrecht requested that Item C-1 be moved from the Action Agenda
@@ -150,18 +62,18 @@
 - D. DISCUSSION ITEMS
 - 1. Review Preservation Plan Action Items and Implementation Strategies - Near Term Items
 
-## [windsor#6] 2026-08-13 | Liquor Licensing Authority | agenda
+## [windsor#2] 2026-08-13 | Liquor Licensing Authority | agenda
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 - The August 13, 2026, Liquor License Authority Hearing has been cancelled due to the lack of
 
-## [windsor#7] 2026-08-17 | Town Board | agenda
+## [windsor#3] 2026-08-17 | Town Board | agenda
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 - To view Town Board meeting broadcasts, visit
 - discussions of the Town Board
 - 1. Sign Code Update - Draft Code Presentation - K. Lambrecht, Long Range Planner
 - 2. Budget: Revenue Estimates - S. Hale, Town Manager
 
-## [windsor#8] 2026-08-17 | Town Board | agenda
+## [windsor#4] 2026-08-17 | Town Board | agenda
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 - To view Town Board meeting broadcasts, visit
 - discussions of the Town Board
@@ -219,7 +131,7 @@
 - identified by our analysis of the current regulations
 - as identifying a place of business, directing traffic, wayfinding for navigation, and expressing a
 
-## [windsor#9] 2026-08-18 | Windsor Arts Commission | minutes
+## [windsor#5] 2026-08-18 | Windsor Arts Commission | minutes
 - Windsor Art & Heritage Center, 116 5th Street, Windsor, CO 80550
 - Consideration: Approval of Agenda Carrie Ferris, Second by Cindy Rhoads, unanimously
 - 1. Approval of July Meeting Minutes
@@ -253,11 +165,11 @@
 - the 55+ community of yellow apartments that Laura was too young to apply for, maybe next
 - strategic plan meeting at ComDev and a dozen people gave comments. The sign code has
 
-## [windsor#10] 2026-08-19 | Planning Commission | agenda
+## [windsor#6] 2026-08-19 | Planning Commission | agenda
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 - To view Planning Commission meeting broadcasts, visit
 
-## [windsor#11] 2026-08-24 | Town Board | minutes
+## [windsor#7] 2026-08-24 | Town Board | minutes
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 - To view Town Board meeting broadcasts, visit
 - John Thornhill, Community Development Director
@@ -295,13 +207,13 @@
 - executive session believed the session contained any substantial discussion of any matters
 - be stated. Hearing none, the regular meeting resumed at 9:30 p.m
 
-## [windsor#12] 2026-08-25 | Tree Board | agenda
+## [windsor#8] 2026-08-25 | Tree Board | agenda
 - Brunner Farm Park 305 Prospector Street, Windsor, CO 80550
 - 2. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
 - C. BOARD REVIEW/DISCUSSION
 - 1. Walk Brunner Farm Park and Founders Green Park and Evaluate Landscape
 
-## [windsor#13] 2026-08-25 | Tree Board | agenda
+## [windsor#9] 2026-08-25 | Tree Board | agenda
 - Brunner Farm Park 305 Prospector Street, Windsor, CO 80550
 - 2. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
 - C. BOARD REVIEW/DISCUSSION
@@ -343,14 +255,14 @@
 - drip system, requested to have at new backlot area for bed, tree irrigation
 - o Inquired about overgrown trees near the small parking lot by Kyger Open
 
-## [windsor#14] 2026-08-27 | Board of Adjustment/Appeals | agenda
+## [windsor#10] 2026-08-27 | Board of Adjustment/Appeals | agenda
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 
-## [windsor#15] 2026-09-01 | Parks, Recreation and Culture | agenda
+## [windsor#11] 2026-09-01 | Parks, Recreation and Culture | agenda
 - PARKS, RECREATION, AND CULTURE REGULAR
 - Community Recreation Center, 250 N. 11th Street Windsor, CO
 
-## [windsor#16] 2026-09-02 | Planning Commission | minutes
+## [windsor#12] 2026-09-02 | Planning Commission | minutes
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 - To view Planning Commission meeting broadcasts, visit
 - Consideration
@@ -381,7 +293,7 @@
 - ordinance amending Windsor Municipal Code Chapters 7 and 16, concerning the
 - Commission meeting will address flood plain mapping and conditional use permits
 
-## [windsor#17] 2026-09-09 | Water and Sewer Board | agenda
+## [windsor#13] 2026-09-09 | Water and Sewer Board | agenda
 - WATER AND SEWER BOARD REGULAR MEETING
 - Poudre Conference Room, 200 N. 11th Street, Windsor, CO 80550
 - 2. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
@@ -390,7 +302,7 @@
 - a. Introduction of Newly Appointed Alternate Board Member, Steve Southard
 - c. Distribution of Board Appreciation Night Certificates and Swag Items
 
-## [windsor#18] 2026-09-09 | Water and Sewer Board | agenda
+## [windsor#14] 2026-09-09 | Water and Sewer Board | agenda
 - WATER AND SEWER BOARD REGULAR MEETING
 - Poudre Conference Room, 200 N. 11th Street, Windsor, CO 80550
 - 2. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
@@ -427,7 +339,7 @@
 - materials to promote the conversion of Kentucky Bluegrass to more water efficient
 - Water Resource Technician
 
-## [windsor#19] 2026-09-09 | Historic Preservation Commission | minutes
+## [windsor#15] 2026-09-09 | Historic Preservation Commission | minutes
 - Poudre Conference Room, 200 N. 11th Street, Windsor, CO 80550
 - Consideration
 - Commission (HPC) Regular Meeting Agenda. No changes to the agenda were requested
@@ -452,17 +364,17 @@
 - items. Most previous notes on the Preservation Plan Action Item Matrix continue to be
 - upcoming meetings to address new ideas, Preservation Plan items, or items from the
 
-## [windsor#20] 2026-09-10 | Liquor Licensing Authority | agenda
+## [windsor#16] 2026-09-10 | Liquor Licensing Authority | agenda
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 - A. THE SEPTEMBER 10, 2026, LIQUOR LICENSE AUTHORITY HEARING HAS BEEN
 
-## [windsor#21] 2026-09-14 | Town Board | agenda
+## [windsor#17] 2026-09-14 | Town Board | agenda
 - 1st Floor Conference Room, 301 Walnut Street, Windsor, CO 80550
 - To view Town Board meeting broadcasts, visit
 - discussions of the Town Board
 - 2. Budget: Staffing Needs - S. Hale, Town Manager
 
-## [windsor#22] 2026-09-14 | Town Board | agenda
+## [windsor#18] 2026-09-14 | Town Board | agenda
 - 1st Floor Conference Room, 301 Walnut Street, Windsor, CO 80550
 - To view Town Board meeting broadcasts, visit
 - discussions of the Town Board
@@ -497,18 +409,18 @@
 - evening hours. Because A Platoon and B Platoon work opposite regular days off, this
 - Administrative Coordinator provides executive-level support to the Chief of Police and four
 
-## [windsor#23] 2026-09-14 | Kern Board | agenda
+## [windsor#19] 2026-09-14 | Kern Board | agenda
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 - 3. Approval of the July 13, 2026 Kern Board Regular Meeting Minutes - K. Frawley, Town Clerk
 
-## [windsor#24] 2026-09-14 | Kern Board | agenda
+## [windsor#20] 2026-09-14 | Kern Board | agenda
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 - 3. Approval of the July 13, 2026 Kern Board Regular Meeting Minutes - K. Frawley, Town Clerk
 - 3. Approval of the May 11, 2026 Kern Board Regular Meeting Minutes - K. Frawley, Town Clerk
 - Town Board member Peltz moved to approve the meeting minutes, Town Board
 - Town Board Member Steinbach moved to approve the report of bills for June 2026,
 
-## [windsor#25] 2026-09-14 | Town Board | agenda
+## [windsor#21] 2026-09-14 | Town Board | agenda
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 - To view Town Board meeting broadcasts, visit
 - 3. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
@@ -533,7 +445,7 @@
 - Staff presentation: Sandra Mezzetti, Senior Planner
 - b. Major Site Plan- Greenspire Subdivision 8th Filing Lot 2 - Bank of America - K. Lutsch, Senior Planner
 
-## [windsor#26] 2026-09-14 | Town Board | agenda
+## [windsor#22] 2026-09-14 | Town Board | agenda
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 - To view Town Board meeting broadcasts, visit
 - 3. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
@@ -567,10 +479,10 @@
 - extensive site improvements, and/or limitations with the current lot and building configuration
 - street level to the main entry. Ramp solutions were evaluated, but it was determined that the lot
 
-## [windsor#27] 2026-09-15 | General | agenda
+## [windsor#23] 2026-09-15 | General | agenda
 - Main Park 300 Locust Street, Windosr, CO 80550
 
-## [windsor#28] 2026-09-15 | Windsor Arts Commission | minutes
+## [windsor#24] 2026-09-15 | Windsor Arts Commission | minutes
 - Windsor Art & Heritage Center, 116 5th Street, Windsor, CO 80550
 - Consideration: Approval of Agenda Marisha Pelnar, Second by Justin Discoe, unanimously
 - 1. Approval of August Meeting Minutes – Motion by Carrie Ferris, Second by Cindy Rhoads, Unanimously Approved
@@ -597,7 +509,7 @@
 - purchased and It will help to ease Greeleys encroachment. The area includes water rights
 - 3. Communications from WAC Members. Justin Discoe – It would be cool to organize a First Friday and would like to discuss that for future
 
-## [windsor#29] 2026-09-16 | Planning Commission | minutes
+## [windsor#25] 2026-09-16 | Planning Commission | minutes
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 - To view Planning Commission meeting broadcasts, visit
 - Consideration
@@ -631,14 +543,14 @@
 - A motion was made by Commissioner Kirch to forward a recommendation of approval to
 - the Town Board regarding an ordinance amending portions of Chapters 14 and 16 of the
 
-## [windsor#30] 2026-09-21 | Town Board | agenda
+## [windsor#26] 2026-09-21 | Town Board | agenda
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 - To view Town Board meeting broadcasts, visit
 - discussions of the Town Board
 - 1. Crossroads/Colorado Blvd. Roundabout Construction Phasing Plan - O. Herrera, Director of Engineering; S. Pearson, Transportation Engineer
 - 2. Budget: Capital Improvement Projects - S. Hale, Town Manager
 
-## [windsor#31] 2026-09-21 | Town Board | agenda
+## [windsor#27] 2026-09-21 | Town Board | agenda
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 - To view Town Board meeting broadcasts, visit
 - discussions of the Town Board
@@ -671,13 +583,13 @@
 - Underground and Loveland Barricade. The contractor indicates that the detour was developed to
 - accommodate the anticipated range of vehicle types and provide reasonable access around the project
 
-## [windsor#32] 2026-09-22 | Tree Board | agenda
+## [windsor#28] 2026-09-22 | Tree Board | agenda
 - Windsor Community Recreation Center 250. N. 11th Street, Windsor
 
-## [windsor#33] 2026-09-24 | Board of Adjustment/Appeals | agenda
+## [windsor#29] 2026-09-24 | Board of Adjustment/Appeals | agenda
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 
-## [windsor#34] 2026-09-28 | Town Board | minutes
+## [windsor#30] 2026-09-28 | Town Board | minutes
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 - To view Town Board meeting broadcasts, visit
 - Consideration
@@ -713,32 +625,32 @@
 - 1. Public Hearing - Ordinance No. 2026-1751 - An Ordinance Amending Section 15-14-70 of
 - Management Agency Flood Insurance Rate Maps and Flood Insurance Study Concerning
 
-## [windsor#35] 2026-10-05 | Town Board | agenda
+## [windsor#31] 2026-10-05 | Town Board | agenda
 - TOWN BOARD /WATER VALLEY
 - Board Chambers, 301 Walnut Street, Windsor, CO 80550
 - To view Town Board meeting broadcasts, visit
 - 1. Discussion with Water Valley Representatives on Various Topics
 
-## [windsor#36] 2026-10-06 | Parks, Recreation and Culture | agenda
+## [windsor#32] 2026-10-06 | Parks, Recreation and Culture | agenda
 - PARKS, RECREATION, AND CULTURE REGULAR
 - Community Recreation Center, 250 N. 11th Street Windsor, CO
 
-## [windsor#37] 2026-10-07 | Planning Commission | agenda
+## [windsor#33] 2026-10-07 | Planning Commission | agenda
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 - To view Planning Commission meeting broadcasts, visit
 
-## [windsor#38] 2026-10-08 | Liquor Licensing Authority | agenda
+## [windsor#34] 2026-10-08 | Liquor Licensing Authority | agenda
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 - A. DUE TO AN ILLNESS IN THE APPLICANTS FAMILY, THIS HEARING WILL MOVE TO
 
-## [windsor#39] 2026-10-10 | Town Board | agenda
+## [windsor#35] 2026-10-10 | Town Board | agenda
 - Community Development Building, Kern and Kyger Rooms, 200 N
 - 11th Street, Windsor, CO 80550
 - To view Town Board meeting broadcasts, visit
 - discussions of the Town Board
 - 1. Operating Budget - S. Hale, Town Manager
 
-## [windsor#40] 2026-10-10 | Town Board | agenda
+## [windsor#36] 2026-10-10 | Town Board | agenda
 - Community Development Building, Kern and Kyger Rooms, 200 N
 - 11th Street, Windsor, CO 80550
 - To view Town Board meeting broadcasts, visit
@@ -775,7 +687,7 @@
 - Open Space & Trails $609,572 $276,064 Land Maintenance (+$155,000); Contract Services (+$145,000)
 - Water System $8,739,822 $468,564 Potable Water (+$420,000); Assessments (+$117,000); Contract Services (+$107,000); Meter Repair (-$262,000)
 
-## [windsor#41] 2026-10-12 | Town Board | minutes
+## [windsor#37] 2026-10-12 | Town Board | minutes
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 - To view Town Board meeting broadcasts, visit
 - Consideration
@@ -812,13 +724,13 @@
 - gave a project update. The coalition requested that its next meeting review the entire US
 - 34 corridor, including zoning and upcoming projects near the Catalyst and Cascadia
 
-## [windsor#42] 2026-10-14 | Historic Preservation Commission | agenda
+## [windsor#38] 2026-10-14 | Historic Preservation Commission | agenda
 - 1st Floor Conference Room, 301 Walnut Street, Windsor, CO 80550
 - 2. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
 - 1. Review and approval of the September 9, 2026 HPC Regular Meeting Minutes
 - D. DISCUSSION ITEMS
 
-## [windsor#43] 2026-10-14 | Historic Preservation Commission | agenda
+## [windsor#39] 2026-10-14 | Historic Preservation Commission | agenda
 - 1st Floor Conference Room, 301 Walnut Street, Windsor, CO 80550
 - 2. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
 - 1. Review and approval of the September 9, 2026 HPC Regular Meeting Minutes
@@ -854,7 +766,7 @@
 - event in May 2027, in celebration of Historic Preservation Month. Commissioners should plan to
 - evaluate options for outreach, along with considering a date and location
 
-## [windsor#44] 2026-10-14 | Water and Sewer Board | agenda
+## [windsor#40] 2026-10-14 | Water and Sewer Board | agenda
 - WATER AND SEWER BOARD REGULAR MEETING
 - Poudre Conference Room, 200 N. 11th Street, Windsor, CO 80550
 - 2. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
@@ -864,7 +776,7 @@
 - a. 2027 Proposed Operational Budget: Water, Sewer, and Stormwater Funds - Karl Gannon, Budget Analyst
 - 2. Communications from Water and Sewer Board Members
 
-## [windsor#45] 2026-10-14 | Water and Sewer Board | agenda
+## [windsor#41] 2026-10-14 | Water and Sewer Board | agenda
 - WATER AND SEWER BOARD REGULAR MEETING
 - Poudre Conference Room, 200 N. 11th Street, Windsor, CO 80550
 - 2. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
@@ -913,14 +825,14 @@
 - 90 days cash on hand to maintain bond ratings
 - Minimize rate impacts to rate payers
 
-## [windsor#46] 2026-10-19 | Town Board | agenda
+## [windsor#42] 2026-10-19 | Town Board | agenda
 - 1st Floor Conference Room, 301 Walnut Street, Windsor, CO 80550
 - To view Town Board meeting broadcasts, visit
 - discussions of the Town Board
 - 1. Downtown Parking Master Plan - Data Collection and Code Updates - K. Lambrecht, Long Range Planner
 - 3. Hollister Lake Metropolitan District and Service Plan Presentation - D. Money, Town Attorney
 
-## [windsor#47] 2026-10-19 | Town Board | agenda
+## [windsor#43] 2026-10-19 | Town Board | agenda
 - 1st Floor Conference Room, 301 Walnut Street, Windsor, CO 80550
 - To view Town Board meeting broadcasts, visit
 - discussions of the Town Board
@@ -952,7 +864,7 @@
 - on-street parking lasting for less than two hours, and off-street parking lasting somewhat longer
 - Overall occupancy across on- and off-street facilities did not exceed the industry-standard 85%
 
-## [windsor#48] 2026-10-20 | Windsor Arts Commission | agenda
+## [windsor#44] 2026-10-20 | Windsor Arts Commission | agenda
 - Windsor Art & Heritage Center, 116 5th Street, Windsor, CO 80550
 - 2. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
 - 1. Approval of September Minutes
@@ -962,7 +874,7 @@
 - 2. Volunteer Application
 - 3. 2027 Public Art Plan
 
-## [windsor#49] 2026-10-20 | Windsor Arts Commission | agenda
+## [windsor#45] 2026-10-20 | Windsor Arts Commission | agenda
 - Windsor Art & Heritage Center, 116 5th Street, Windsor, CO 80550
 - 2. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
 - 1. Approval of September Minutes
@@ -999,72 +911,50 @@
 - Remaining Budget $10,315 $11,849
 - Subject: Action Requested: Volunteer Application Update for Boards & Commissions
 
-## [windsor#50] 2026-10-21 | Planning Commission | agenda
+## [windsor#46] 2026-10-21 | Planning Commission | minutes
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 - To view Planning Commission meeting broadcasts, visit
-- 2. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
-- 1. Approval of the September 16, 2026 Planning Commission Minutes as presented
-- 1. Public Hearing - An Ordinance Amending Portions of Chapters 14 and 15 of the Town of
-- Planner, Town of Windsor Community Development Department
-- Staff presentation: Kimberly Lambrecht, Long Range Planner
-- 2. Recommendation to Town Board - An Ordinance Amending Portions of Chapters 14 and 15
-- Long Range Planner, Town of Windsor Community Development Department
-- 3. Public Hearing - Wireless Telecommunication Facility (Tower) Site Location within the
-- Subdivision 4th Filing, Lot 1, 22918 County Road 17 - Timberline Church, property owner;
-- Staff presentation: Sandra Mezzetti, Senior Planner
-- 40(k)(3); Trautman Subdivision 4th Filing, Lot 1, 22918 County Road 17 - Timberline Church,
-- 5. Public Hearing - Conditional Use Permit to allow a fifty-foot (50'), Stealth Silo Wireless
-- Road 17 - Timberline Church, property owner; Brandon Alverson, property owner's
-- 6. Recommendation to Town Board - Conditional Use Permit to allow a fifty-foot (50'), Stealth
-- County Road 17 - Timberline Church, property owner; Brandon Alverson, property owner's
-- a. Major Site Plan — Great Western Industrial Park 9th Filing, Lot 1 & Lot 3, Block 1 — Windsor Severance Fire Rescue Training Facility - M. Price, Planner II
-- b. Major Site Plan- East Pointe Subdivision 6th Filing Lot 1 - Firestone Complete Auto Care - K. Lutsch, Senior Planner
-- c. Major Site Plan - Windsor Villages at Ptarmigan, Tract R - Medical Office Building - K. Lambrecht, Long Range Planner
-
-## [windsor#51] 2026-10-21 | Planning Commission | agenda
-- Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
-- To view Planning Commission meeting broadcasts, visit
-- 2. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
-- 1. Approval of the September 16, 2026 Planning Commission Minutes as presented
-- 1. Public Hearing - An Ordinance Amending Portions of Chapters 14 and 15 of the Town of
-- Planner, Town of Windsor Community Development Department
-- Staff presentation: Kimberly Lambrecht, Long Range Planner
-- 2. Recommendation to Town Board - An Ordinance Amending Portions of Chapters 14 and 15
-- Long Range Planner, Town of Windsor Community Development Department
-- 3. Public Hearing - Wireless Telecommunication Facility (Tower) Site Location within the
-- Subdivision 4th Filing, Lot 1, 22918 County Road 17 - Timberline Church, property owner;
-- Staff presentation: Sandra Mezzetti, Senior Planner
-- 40(k)(3); Trautman Subdivision 4th Filing, Lot 1, 22918 County Road 17 - Timberline Church,
-- 5. Public Hearing - Conditional Use Permit to allow a fifty-foot (50'), Stealth Silo Wireless
-- Road 17 - Timberline Church, property owner; Brandon Alverson, property owner's
-- 6. Recommendation to Town Board - Conditional Use Permit to allow a fifty-foot (50'), Stealth
-- County Road 17 - Timberline Church, property owner; Brandon Alverson, property owner's
-- a. Major Site Plan — Great Western Industrial Park 9th Filing, Lot 1 & Lot 3, Block 1 — Windsor Severance Fire Rescue Training Facility - M. Price, Planner II
-- b. Major Site Plan- East Pointe Subdivision 6th Filing Lot 1 - Firestone Complete Auto Care - K. Lutsch, Senior Planner
-- c. Major Site Plan - Windsor Villages at Ptarmigan, Tract R - Medical Office Building - K. Lambrecht, Long Range Planner
-- Re: Approval of the September 16, 2026 Planning Commission Minutes as presented
-- Background / Discussion:
-- Relationship to Strategic Plan:
 - Consideration
-- Planning Commissioner Kirch moved to approve the agenda as presented, Vice Chair
-- present during all public hearings tonight, I will not be giving my opinion or participating in any of the
-- discussions. I will not let tonight’s proceedings influence or affect my review of these matters when
-- evidence presented during the Town Board public hearings.”
+- Vice Chair Nader moved to approve the agenda as presented, Planning Commissioner
 - Chairman Reddick opened the meeting for public comment, to which there was none
-- 1. Approval of the September 2, 2026, Planning Commission Regular Meeting Minutes
-- Vice Chair Nader moved to approve the consent calendar as presented, Commissioner
+- 1. Approval of the September 16, 2026, Planning Commission Regular Meeting Minutes
+- Planning Commissioner Kirch moved to approve the consent calendar as presented,
+- I will be present during all public hearings tonight, I will not be giving my opinion or participating
+- in any of the discussions. I will not let tonight’s proceedings influence or affect my review of
+- Board level based only on the evidence presented during the Town Board public hearings.”
 - Chairman Reddick closed the regular meeting and opened a public hearing
+- 1. Public Hearing – An Ordinance Amending Portions of Chapters 14 and 15 of the Town of Windsor
+- Windsor Community Development Department
+- Long Range Planner Kimberly Lambrecht presented the final draft of the ordinance. It would
+- completely replace the sign regulations in Chapter 15, Article 17, and amend the definitions in
+- consultant project manager
+- Comprehensive Plan and Windsor's small-town character, incorporated community and
+- ordinance would go to the Town Board for first reading on Monday, October 26, 2026 and second
+- in the sign permit section, and corrected definitions in the Chapter 15 definitions section. She
+- Chair Reddick asked that the updated and amended version of the code be the version forwarded
+- would be part of the record. The public hearing was closed and the Commission returned to its
+- 2. Recommendation to Town Board – An Ordinance Amending Portions of Chapters 14 and 15 of
+- Range Planner, Town of Windsor community Development Department
+- Vice Chair Nader moved to forward a recommendation of approval to the Town Board of the
+- Ordinance Amending Portions of Chapters 14 and 15 of the Town of Windsor Municipal
+- 3. Public Hearing – Wireless Telecommunication Facility (Tower) Site Location within the
+- Subdivision 4th Filing, Lot 1, 29918 County Road 17 – Timberline Church, property owner; Brandon
+- Chairman Reddick noted that two public hearings pertained to the same property, the tower site
+- location and the conditional use permit, and that staff would present both together. He closed the
+- regular meeting and opened the public hearing on the site location
+- Senior Planner Sandra Mezzetti stated that the request was for a new wireless telecommunication
+- tower site and a conditional use permit, and that staff recommended approval of both. She
 
-## [windsor#52] 2026-10-22 | Board of Adjustment/Appeals | agenda
+## [windsor#47] 2026-10-22 | Board of Adjustment/Appeals | agenda
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 
-## [windsor#53] 2026-10-26 | Town Board | agenda
+## [windsor#48] 2026-10-26 | Town Board | agenda
 - 1st Floor Conference Room, 301 Walnut Street, Windsor, CO 80550
 - To view Town Board meeting broadcasts, visit
 - discussions of the Town Board
 - 1. Budget: Utility Rates for 2027 - S. Hale, Town Manager
 
-## [windsor#54] 2026-10-26 | Town Board | agenda
+## [windsor#49] 2026-10-26 | Town Board | agenda
 - 1st Floor Conference Room, 301 Walnut Street, Windsor, CO 80550
 - To view Town Board meeting broadcasts, visit
 - discussions of the Town Board
@@ -1120,7 +1010,7 @@
 - Rates 20% increase in FY 20273% increases from FY 2028-2035 12.5% increase in FY 2027-2029 5% increases from FY 2030-2036
 - Single Family Monthly Bill ImpactsSewer
 
-## [windsor#55] 2026-10-26 | Town Board | agenda
+## [windsor#50] 2026-10-26 | Town Board | agenda
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 - To view Town Board meeting broadcasts, visit
 - 3. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
@@ -1145,7 +1035,7 @@
 - d. Major Site Plan - Windsor Villages at Ptarmigan, Tract R - Medical Office Building - K. Lambrecht, Long Range Planner
 - e. Legal Publications Ordinance - K. Frawley, Town Clerk
 
-## [windsor#56] 2026-10-26 | Town Board | agenda
+## [windsor#51] 2026-10-26 | Town Board | agenda
 - Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
 - To view Town Board meeting broadcasts, visit
 - 3. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
@@ -1181,6 +1071,281 @@
 - the Clearview Library on a guided walking tour at Main Park that covered 14 to 15 trees
 - Town Board Member Peltz - Clearview Library Board, Housing Literate Leaders, Great
 
-## [windsor#57] 2026-10-27 | Tree Board | agenda
+## [windsor#52] 2026-10-27 | Tree Board | agenda
 - Community Recreation Center 250 N. 11th Street, Windsor, CO 80550
 - DISCUSS AND PLAN FOR ARBOR DAY 2027
+
+## [windsor#53] 2026-11-03 | General | agenda
+- New Cache Room, 200 N. 11th Street, Windsor, CO 80550
+- To view Town Board meeting broadcasts, visit
+- 2. Approval of November 4, 2025 Regular Meeting Minutes
+
+## [windsor#54] 2026-11-03 | General | agenda
+- New Cache Room, 200 N. 11th Street, Windsor, CO 80550
+- To view Town Board meeting broadcasts, visit
+- 2. Approval of November 4, 2025 Regular Meeting Minutes
+- Community Development Building, New Cache Room,
+- 200 N. 11th Street, Windsor, CO 80550
+- 2. Approval of November 5, 2024 Regular Meeting Minutes
+- The question was presented to approve the November 5, 2024 meeting minutes, which
+- were approved unanimously
+- 3. Reappointment of John Michaels as a director for another 3-year term
+- The question was presented to approve John Michaels as board member for a term of
+- three years, or through December 2028, which was approved unanimously
+- from previous years. Money is transferred from the capital improvement fund each year to
+- Town Capital Improvement Fund money and did not involve the Building Authority
+- the same location (Community Development Building)
+
+## [windsor#55] 2026-11-03 | Parks, Recreation and Culture | agenda
+- PARKS, RECREATION, AND CULTURE REGULAR
+- Community Recreation Center, 250 N. 11th Street Windsor, CO 80550
+- 2. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
+- C. BOARD REVIEW/DISCUSSION
+- 1. 2027 Proposed Budget Presentation
+
+## [windsor#56] 2026-11-03 | Parks, Recreation and Culture | agenda
+- PARKS, RECREATION, AND CULTURE REGULAR
+- Community Recreation Center, 250 N. 11th Street Windsor, CO 80550
+- 2. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
+- C. BOARD REVIEW/DISCUSSION
+- 1. 2027 Proposed Budget Presentation
+- Parks Recreation & Culture Regular Meeting
+- Agenda for Consideration
+- Review/Discussion
+- MS. LABUS MOVED TO APPROVE THE AGENDA AS AMENDED. MR. GIFFIN
+- o Walmart site plan was approved, legal ability to build there, they still have
+- to go through development, breaking ground could be soon based on hoe
+- o Executive sessions which led to a contract for land acquisition
+- o Windsor Downtown Alliance review to discuss relationship with the Town
+- o Productive data center discussion was held last night, very cordial and
+- MS. LABUS MOVED TO APPROVE THE JUNE 2, 2026 MINUTES AS
+- o Coffee set, hammered brass with coffee kraft, sugar and cream containers,
+- ▪ Children’s acitivty kit, Electronic Project Lab, purchased at Radio Shack
+- o Teacher’s desk, made of oak, was used at park School and moved to
+- was originally purchased in 1975 by the Colordado Federation of Women’s
+- purchased, the picture of a racoon entitled ‘Out on a Limb’ by Mrs. Yauk
+- a farm in Windsor on County Road 13 and used a hay sweeper , hay
+- purchased by John Evans, second Territorial Governor of Colorado from
+- the donor’s granfather, the piano was purchased by Yancey from Evans in
+- MR. MASK MOVED TO APPROVE THE RECOMMENDATION TO ACCEPT THE
+- but one pump is broken and the other does not have water, weeds got away
+- o Drought rot at a number of parks, will address maintenance next year, bad
+- Magellan Services, about 48% overall approval, 52% approval of a 0.8
+- tax increase if partnered with Severance, 42% approval of a 1.5 tax
+- smart phones and want us to visit other senior centers, the Parks &
+- Recreation Department did have an 85% approval rating overall
+- o More details to come on the Ribbon Cutting for 15th Street Trail
+- o Very helpful to have the three synthetic turf fields at Chimney Park, especially
+- since there was not water
+- o Eastman Park playground is almost done and looks really great, Ribbon
+- town near the sewer plant and south of Kodak open space, have been
+- working with the land owner over the past several months, under contract
+- of ditch water, four historic structures, including potentially one of the first
+- of the open space sales tax, $6.2M total, $3M for the water, $3.2M for the
+- land and all the structures, funding from Park Improvement Fund and will be
+- reimbursed from open space tax pus charging interest
+
+## [windsor#57] 2026-11-04 | Historic Preservation Commission | agenda
+- 1st Floor Conference Room, 301 Walnut Street, Windsor, CO 80550
+- 1. Review the current Application for a Local Historic Designation
+- 2. Discussion regarding the process for following up with a local historic designation of properties that currently have a National Historic Designation
+- 3. Further information and discussion regarding the May 2027 National Historic Preservation Month Open House event
+
+## [windsor#58] 2026-11-04 | Historic Preservation Commission | agenda
+- 1st Floor Conference Room, 301 Walnut Street, Windsor, CO 80550
+- 1. Review the current Application for a Local Historic Designation
+- 2. Discussion regarding the process for following up with a local historic designation of properties that currently have a National Historic Designation
+- 3. Further information and discussion regarding the May 2027 National Historic Preservation Month Open House event
+- Re: Review the current Application for a Local Historic Designation
+- Background / Discussion:
+- Commissioners have noted that they would like to review the application for a local historic designation
+- in order to determine if adjustments should be made to the application or designation process that
+- might be amended in order to streamline the process or make it more user-friendly. While reviewing the
+- application, Commissioners should also review the Municipal Code (Chapter 15, Article XVI — Historic
+- with the guidelines and regulations that come with the Town of Windsor's designation as a Certified
+- Relationship to Strategic Plan:
+- 1. Local Historic Designation Application (2017)
+- DESIGNATION APPLICATION
+- I certify that I am the owner of the above described property and I hereby give my written
+- consent and approval for the nomination for designation to be a Windsor Historic Landmark
+- Obtained the property owner’s approval as verified above. 
+- Not been able to obtain the property owner’s approval (include documented attempts 
+- to secure owner approval)
+- Name of Original Builder/Contractor: _________________________________________
+- Demonstrates superior craftsmanship of high artistic value 
+- Re: Discussion regarding the process for following up with a local historic designation of
+- Re: Further information and discussion regarding the May 2027 National Historic Preservation
+- At the October 14, 2026 HPC Regular Meeting, the Commissioners discussed several ideas for a May
+- Museums Team, to celebrate a 'grand re-opening' of the Museum area near the Train Depot sometime
+- FUTURE MEETINGS DISCUSSION ITEMS
+- 5:45 P.M. review Local Designation application, review options to consider
+- 5:45 P.M. Saving Places Conference Discussion
+- Tour of the Town’s Museum / Historic Artifacts Storage Facility
+- Windsor Lake – Historical Research – ongoing discussion
+- Local designations for the First United Methodist Church and the Kaplan-Hoover Site
+- requested and may also be scheduled for these dates. Regular meeting dates may be
+
+## [windsor#59] 2026-11-04 | Planning Commission | agenda
+- Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
+- To view Planning Commission meeting broadcasts, visit
+- 2. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
+- Individuals wishing to participate in Public Invited to be Heard (non-agenda item) are requested to
+- Individuals wishing to speak during the Public Invited to be Heard or during Public Hearing
+- section of the meeting, though it will take all input under advisement. If requesting a response from
+- 1. Approval of the October 21, 2026, Planning Commission Regular Meeting Minutes as presented - P. Mascarenas, Assistant Town Clerk
+- 1. Public Hearing — Resolution PC2026-01 Approving and Adopting a Land Use Map
+- Amendment to the Town of Windsor 2024 Comprehensive Plan — Town of Windsor, Applicant
+- Staff presentation: Carlin Malone, Planning Manager
+- 2. Recommendation to Town Board - Land Use Map Amendment to the Town of Windsor 2024
+- Comprehensive Plan — Town of Windsor, Applicant
+
+## [windsor#60] 2026-11-04 | Planning Commission | agenda
+- Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
+- To view Planning Commission meeting broadcasts, visit
+- 2. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
+- Individuals wishing to participate in Public Invited to be Heard (non-agenda item) are requested to
+- Individuals wishing to speak during the Public Invited to be Heard or during Public Hearing
+- section of the meeting, though it will take all input under advisement. If requesting a response from
+- 1. Approval of the October 21, 2026, Planning Commission Regular Meeting Minutes as presented - P. Mascarenas, Assistant Town Clerk
+- 1. Public Hearing — Resolution PC2026-01 Approving and Adopting a Land Use Map
+- Amendment to the Town of Windsor 2024 Comprehensive Plan — Town of Windsor, Applicant
+- Staff presentation: Carlin Malone, Planning Manager
+- 2. Recommendation to Town Board - Land Use Map Amendment to the Town of Windsor 2024
+- Comprehensive Plan — Town of Windsor, Applicant
+- Re: Approval of the October 21, 2026, Planning Commission Regular Meeting Minutes as
+- Background / Discussion:
+- Relationship to Strategic Plan:
+- Consideration
+- Vice Chair Nader moved to approve the agenda as presented, Planning Commissioner
+- Chairman Reddick opened the meeting for public comment, to which there was none
+- 1. Approval of the September 16, 2026, Planning Commission Regular Meeting Minutes
+- Planning Commissioner Kirch moved to approve the consent calendar as presented,
+- I will be present during all public hearings tonight, I will not be giving my opinion or participating
+- in any of the discussions. I will not let tonight’s proceedings influence or affect my review of
+- Board level based only on the evidence presented during the Town Board public hearings.”
+- Chairman Reddick closed the regular meeting and opened a public hearing
+- 1. Public Hearing – An Ordinance Amending Portions of Chapters 14 and 15 of the Town of Windsor
+- Windsor Community Development Department
+- Long Range Planner Kimberly Lambrecht presented the final draft of the ordinance. It would
+- completely replace the sign regulations in Chapter 15, Article 17, and amend the definitions in
+- consultant project manager
+- Comprehensive Plan and Windsor's small-town character, incorporated community and
+- ordinance would go to the Town Board for first reading on Monday, October 26, 2026 and second
+- in the sign permit section, and corrected definitions in the Chapter 15 definitions section. She
+- Chair Reddick asked that the updated and amended version of the code be the version forwarded
+
+## [windsor#61] 2026-11-09 | Town Board | agenda
+- 1st Floor Conference Room, 301 Walnut Street, Windsor, CO 80550
+- To view Town Board meeting broadcasts, visit
+- discussions of the Town Board
+- 2. Budget: Wrap-up Revisions - S. Hale, Town Manager
+- 3. Draft Housing Action Plan Presentation - S. Mezzetti, Senior Planner
+- 4. Discussion of Findings for the Proposed Down Payment Assistance Program - S. Mezzetti, Senior Planner, K. Gados, Pikes Peak Capital
+
+## [windsor#62] 2026-11-09 | Town Board | agenda
+- 1st Floor Conference Room, 301 Walnut Street, Windsor, CO 80550
+- To view Town Board meeting broadcasts, visit
+- discussions of the Town Board
+- 2. Budget: Wrap-up Revisions - S. Hale, Town Manager
+- 3. Draft Housing Action Plan Presentation - S. Mezzetti, Senior Planner
+- 4. Discussion of Findings for the Proposed Down Payment Assistance Program - S. Mezzetti, Senior Planner, K. Gados, Pikes Peak Capital
+- Town of Windsor, Colorado | 2027 Budget Follow-Up 1
+- Subject: 2027 Budget Follow-Up: Board Direction and Staff Responses
+- This memorandum summarizes Town Board direction and questions, staff responses, and remaining follow-up for the proposed 2027 budget. Funding
+- amounts are identified below as proposed budget entries, Board direction, or placeholders, as applicable
+- I. PROJECT FUNDING AND BOARD DIRECTION
+- Board direction / question: All Board members supported including park design funding in the 2027 budget
+- Staff response: Staff has included $1,200,000 for LaBue Park design in the proposed 2027 Capital Improvement Plan (CIP). This will enable the design
+- for the park to be completed, and a proposed phasing plan developed with phase 1 proposed in the 2028 budget
+- Board direction / question: The Board supports funding limited to $37,000 in 2027 and does not support additional funding if requested
+- Police Shooting Range
+- Staff response: Staff will schedule a work session during the first quarter of 2027 to discuss the proposed location and design assumptions. The
+- Based on questions from the Board at our Saturday budget retreat please see additional information below:
+- Town of Windsor, Colorado | 2027 Budget Follow-Up 2
+- Project timeline: provided by our consultant (RDG):
+- permitted if we remain in the floodplain. It is not recommended to elevate the range out of the floodplain
+- able to obtain at NCLETC. If built, we would virtually have 100% of our overall firearms training met at our local range and eliminate commuting and
+- Town of Windsor, Colorado | 2027 Budget Follow-Up 3
+- Staff response: Staff has included $60,000 in the proposed 2027 Mayor & Town Board budget in the General Fund
+- Outstanding follow-up: Staff will schedule a midyear 2027 presentation by the project group on progress, timeline, and fundraising, and will include
+- $60,000 in the proposed 2028 budget
+- Board direction / question: The Board seeks to reserve funding for a potential 2027 program if DOLA or NoCo Foundation grant or matching
+- Outstanding follow-up: The Town Board will discuss the downpayment assistance program during your November 9th work session following this
+
+## [windsor#63] 2026-11-09 | Kern Board | agenda
+- Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
+- 3. Minutes (approval from previous meeting)
+
+## [windsor#64] 2026-11-09 | Kern Board | agenda
+- Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
+- 3. Minutes (approval from previous meeting)
+- 3. Approval of the May 11, 2026 Kern Board Regular Meeting Minutes - K. Frawley, Town Clerk
+- Town Board member Peltz moved to approve the meeting minutes, Town Board
+- Town Board Member Steinbach moved to approve the report of bills for June 2026,
+- 06-484-6260-605 XCEL ENERGY UTILITIES - 1A MAIN STREET UNIT KERN 08/13/2026 129093 16.95
+- 06-484-6260-605 XCEL ENERGY UTILITIES - 107A N CHIMNEY PARK DR UNIT KERN 08/13/2026 129093 17.34
+- 06-484-6240-605 ACE HARDWARE LLC MISC ITEMS FOR STORMWATER 10/15/2026 130245 94.93
+- 06-484-6240-605 TIMBER LINE ELECTRIC AND CONTROL TLECC EQUIPMENT REPAIRS/KERN BOARDWALK PARK WELL & IRRIG 09/03/2026 129455 6,844.19
+
+## [windsor#65] 2026-11-09 | Town Board | agenda
+- Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
+- To view Town Board meeting broadcasts, visit
+- 3. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
+- Town Board Member Steinbach - Larimer County Behavioral Health Policy Council, Windsor Housing Authority
+- Town Board Member Peltz - Clearview Library Board, Housing Literate Leaders, Great Western Trail Authority
+- Town Board Member Symsack – Parks, Recreation and Culture Advisory Board, Windsor Arts Commission
+- Town Board Member Klimek - Poudre River Trail Corridor Authority, Water and Sewer Board
+- Individuals wishing to participate in Public Invited to be Heard (non-agenda item) are requested to
+- Individuals wishing to speak during the Public Invited to be Heard or during Public Hearing
+- section of the meeting, though it will take all input under advisement. If requesting a response from
+- 1. Approval of the October 26, 2026 Town Board Regular Meeting Minutes - K. Frawley, Town Clerk
+- 2. Board and Commission Appointments - K. Frawley, Town Clerk
+- 3. Resolution No. 2026-57 - A Resolution Approving a Land Use Map Amendment to the Town of Windsor 2024 Comprehensive Plan - C. Malone, Planning Manager
+- 1. Public Hearing and Consideration of a Wireless Telecommunication Facility (Tower) Site
+- Location and Consideration of a Conditional Use Permit to allow a fifty-foot (50') Stealth Silo
+- County Road 17 - Timberline Church, property owner, Brandon Alveson, owner's
+- Staff presentation: Sandra Mezzetti, Senior Planner
+- 2. Approval of Consideration of a Wireless Telecommunication Facility (Tower) Site Location and
+- Consideration of a Conditional Use Permit to allow a fifty-foot (50') Stealth Silo Wireless
+- Road 17 - Timberline Church, property owner, Brandon Alveson, owner's representative; Mike
+- 3. Ordinance No. 2026-1753 - An Ordinance Amending Portions of Chapters 14 and 15 of the
+- Staff presentation: Kimberly Lambrecht, Long Range Planner
+- 4. Ordinance No. 2026-1754 - An Ordinance Approving the Service Plan for Hollister Lake
+- Metropolitan District and Authorizing the Execution of an Intergovernmental Agreement
+- Staff presentation: Daniel Money, Town Attorney
+- 5. Ordinance No. 2026-1755 - An Ordinance Amending Section 1-2-10 of the Windsor Municipal
+- Staff presentation: Karen Frawley, Town Clerk
+- b. Multimodal Transportation Logistics Facilities Code status and CUP Extension Request direction
+- et al v. Jaco General Contractor Inc. et al and The City of Greeley v. Town of Windsor
+
+## [windsor#66] 2026-11-09 | Town Board | agenda
+- Town Board Chambers, 301 Walnut Street, Windsor, CO 80550
+- To view Town Board meeting broadcasts, visit
+- 3. Review of Agenda by the Board and Addition of Items of New Business to the Agenda for Consideration
+- Town Board Member Steinbach - Larimer County Behavioral Health Policy Council, Windsor Housing Authority
+- Town Board Member Peltz - Clearview Library Board, Housing Literate Leaders, Great Western Trail Authority
+- Town Board Member Symsack – Parks, Recreation and Culture Advisory Board, Windsor Arts Commission
+- Town Board Member Klimek - Poudre River Trail Corridor Authority, Water and Sewer Board
+- Individuals wishing to participate in Public Invited to be Heard (non-agenda item) are requested to
+- Individuals wishing to speak during the Public Invited to be Heard or during Public Hearing
+- section of the meeting, though it will take all input under advisement. If requesting a response from
+- 1. Approval of the October 26, 2026 Town Board Regular Meeting Minutes - K. Frawley, Town Clerk
+- 2. Board and Commission Appointments - K. Frawley, Town Clerk
+- 3. Resolution No. 2026-57 - A Resolution Approving a Land Use Map Amendment to the Town of Windsor 2024 Comprehensive Plan - C. Malone, Planning Manager
+- 1. Public Hearing and Consideration of a Wireless Telecommunication Facility (Tower) Site
+- Location and Consideration of a Conditional Use Permit to allow a fifty-foot (50') Stealth Silo
+- County Road 17 - Timberline Church, property owner, Brandon Alveson, owner's
+- Staff presentation: Sandra Mezzetti, Senior Planner
+- 2. Approval of Consideration of a Wireless Telecommunication Facility (Tower) Site Location and
+- Consideration of a Conditional Use Permit to allow a fifty-foot (50') Stealth Silo Wireless
+- Road 17 - Timberline Church, property owner, Brandon Alveson, owner's representative; Mike
+- 3. Ordinance No. 2026-1753 - An Ordinance Amending Portions of Chapters 14 and 15 of the
+- Staff presentation: Kimberly Lambrecht, Long Range Planner
+- 4. Ordinance No. 2026-1754 - An Ordinance Approving the Service Plan for Hollister Lake
+- Metropolitan District and Authorizing the Execution of an Intergovernmental Agreement
+- Staff presentation: Daniel Money, Town Attorney
+- 5. Ordinance No. 2026-1755 - An Ordinance Amending Section 1-2-10 of the Windsor Municipal
+- Staff presentation: Karen Frawley, Town Clerk
+- b. Multimodal Transportation Logistics Facilities Code status and CUP Extension Request direction
+- et al v. Jaco General Contractor Inc. et al and The City of Greeley v. Town of Windsor
+- WHEREAS, by executive resolution, the Governor of the State of Colorado designated the second week of

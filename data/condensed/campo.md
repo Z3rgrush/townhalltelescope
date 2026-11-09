@@ -1,45 +1,6 @@
 # campo
 
-## [campo#0] 2025-11-06 | Technical Coordinating Committee | minutes
-- Griffee, Chris Garcia, Tucker Fulle, Landon Chandler, Bret Martin, Tanner
-- The following adjustment to the Agenda was requested by Staff:
-- Paul Black motioned to approve the removal of Item #5.4 from the Agenda. Bret
-- 3. Public Comments
-- There were no public comments
-- Requested Action: ..Action Approve the TCC Meeting Minutes of October 2, 2025
-- Requested Action: Approve the TCC Meeting Minutes of October 2, 2025
-- Emma Linn motioned to approve the TCC Minutes of October 2, 2025. Chris
-- Requested Action: Approve the FY 2026 Q2 Wake Transit Work Plan amendment requests and
-- the Period of Performance extension requests
-- A - FY 2026 Q2 WTWP Amendment Requests
-- B - FY 2026 Period of Performance Extension Requests
-- Mr. Mott provided an overview of the three FY 2026/Q2 Wake Transit Work Plan
-- Amendment Requests and the 18 FY 2026 Period of Performance Extension Requests
-- Performance Extension Request was for two years, not one
-- Brandon Watson motioned to recommend the Executive Board approve the FY
-- 2026 2nd Quarter Wake Transit Work Plan amendment requests and the FY 2026
-- Period of Performance extension requests. Bret Martin seconded the motion. The
-- 5.2 Adoption of the Recommended 2035 Wake Transit Plan
-- Recommended 2035 Wake Transit Plan
-- 2035 Wake Transit Plan Appendices
-- 2035 Wake Transit Plan Engagement Summary - Phase 4
-- Mr. Mott provided an overview of the Recommended 2035 Wake Transit Plan, noting the
-- that all routes will operate 365 days a year by 2035 and stated that the goal is to make
-- feedback received, noting the concerns regarding safety and BRT and the desire for
-- initial review and recommendations. He stated that GoTriangle has reviewed the Plan and
-- requested the following revision to the footnote(s) in the Plan regarding the VRT revenue:
-- “The portion of the Regional Vehicle Rental Car Tax Revenue attributable to Wake
-- Transit continues to be under discussion by the Wake Transit Conference Committee
-- GoTriangle Board of Trustees.” TPAC considered this request and did not recommend
-- including the language, instead providing the following feedback: “TPAC believes that the
-- Conference Committee to remove the VRT from the Plan, and its inclusion would indicate
-- that any decision by the Conference Committee on inclusion of the vehicle rental tax
-- (VRT) revenue is binding on the TPAC; however, they feel that the language in the
-- Recommended Plan provides that clarity and no further revision is necessary.” He
-- presentation on the Plan at their meeting on November 5, 2025, and recommended
-- adoption of the Plan to the GoTriangle Board of Trustees with the following added
-
-## [campo#1] 2025-11-19 | Executive Board | minutes
+## [campo#0] 2025-11-19 | Executive Board | minutes
 - 4. Public Comments
 - Joe Milazzo, RTA, applauded NCDOT and CAMPO for partnering to accelerate the
 - Capital Boulevard/US 1 North project and expressed support for the recommended 2035
@@ -77,7 +38,7 @@
 - spoke regarding the U5307 (Capital Blvd./US 1 North) Project and the Board’s prior action
 - authorizing tolling of that road, or any other means necessary, to accelerate the Project
 
-## [campo#2] 2026-01-08 | Technical Coordinating Committee | minutes
+## [campo#1] 2026-01-08 | Technical Coordinating Committee | minutes
 - McCarthy, Lucy Garcia, and Julian Griffee
 - 3. Public Comments
 - There were no public comments
@@ -113,7 +74,7 @@
 - Alex Rickard inquired about which projects on NCDOT’s list are led by NCDOT and which
 - are led locally. He specifically asked if the Western Boulevard Tunnel Project would be
 
-## [campo#3] 2026-01-21 | Executive Board | minutes
+## [campo#2] 2026-01-21 | Executive Board | minutes
 - Staff requested the addition of the following item to the Agenda:
 - 4. Public Comments
 - There were no public comments
@@ -154,7 +115,7 @@
 - once approved, project scopes should not change much and that only tweaks might be
 - cost certainty earlier in the process. He stated that NCDOT is focusing on those projects
 
-## [campo#4] 2026-02-05 | Technical Coordinating Committee | minutes
+## [campo#3] 2026-02-05 | Technical Coordinating Committee | minutes
 - Stephenson, Julian Griffee, Chris Garcia, Tucker Fulle, Landon Chandler, Bret
 - 3. Public Comments
 - There were no public comments
@@ -192,7 +153,7 @@
 - 5.3 Amendment #2 to FY 2026-2035 Transportation Improvement Program
 - Requested Action: Recommend Executive Board approval of Amendment #2 to the FY 2026-2035
 
-## [campo#5] 2026-02-18 | Executive Board | minutes
+## [campo#4] 2026-02-18 | Executive Board | minutes
 - There were no amendments to the Agenda
 - 4. Public Comments
 - slope and requested that CAMPO insist its regional transit providers only invest in flat
@@ -234,7 +195,7 @@
 - Program, the LAPP Program and its target modal mix, the Project Selection Process and
 - that the Selection Committee recommended funding the top four scoring roadway
 
-## [campo#6] 2026-03-05 | Technical Coordinating Committee | minutes
+## [campo#5] 2026-03-05 | Technical Coordinating Committee | minutes
 - Sandi Bailey, Conrad Olmedo, Chris George, Tracy Stephenson, Julian Griffee,
 - 3. Public Comments
 - There were no public comments
@@ -272,7 +233,7 @@
 - 5.3 Draft FY 2027 Wake Transit Work Plan
 - Draft FY 2027 Wake Transit Work Plan Flyer
 
-## [campo#7] 2026-03-18 | Executive Board | minutes
+## [campo#6] 2026-03-18 | Executive Board | minutes
 - There were no amendments to the Agenda
 - 4. Public Comments
 - There were no public comments
@@ -313,7 +274,7 @@
 - Mr. Mott provided an overview of the Draft FY 2027 Wake Transit Work Plan, noting the
 - key dates, total investments, implementation of the Wake Transit Plan 2035, vehicle
 
-## [campo#8] 2026-04-02 | Technical Coordinating Committee | minutes
+## [campo#7] 2026-04-02 | Technical Coordinating Committee | minutes
 - Griffee, Chris Garcia, Tucker Fulle, Landon Chandler, Bret Martin, Emma Linn,
 - 3. Public Comments
 - There were no public comments
@@ -353,7 +314,7 @@
 - 6. Informational Item: Budget
 - 6.1 Operating Budget, FY2026
 
-## [campo#9] 2026-04-15 | Executive Board | minutes
+## [campo#8] 2026-04-15 | Executive Board | minutes
 - 4. Public Comments
 - There were no public comments
 - Board Member John Allers motioned to approve the Consent Agenda. Board
@@ -390,7 +351,7 @@
 - Mr. Rickard provided an overview the quarterly TIP amendment, noting that it includes the
 - adjustments. He provided the following updates and noted that the public hearing will be
 
-## [campo#10] 2026-05-14 | Technical Coordinating Committee | minutes
+## [campo#9] 2026-05-14 | Technical Coordinating Committee | minutes
 - 3. Public Comments
 - There were no public comments
 - Requested Action: ..Action Approve the TCC Meeting Minutes of April 2, 2026
@@ -426,7 +387,7 @@
 - 5.2 Triangle Mobility Hub Project Progress & LPA Update
 - Catherine Miller, GoTriangle Project Manager
 
-## [campo#11] 2026-05-20 | Executive Board | minutes
+## [campo#10] 2026-05-20 | Executive Board | minutes
 - There were no amendments to the Agenda
 - 4. Public Comments
 - There were no public comments
@@ -469,7 +430,7 @@
 - details for the RDU project, noting that the project is 100% funded by RDU, but that RDU
 - will also be seeking federal funding for the project
 
-## [campo#12] 2026-06-04 | Technical Coordinating Committee | minutes
+## [campo#11] 2026-06-04 | Technical Coordinating Committee | minutes
 - Sandi Bailey, Conrad Olmedo, Chris George, Tracy Stephenson, Julian Griffee,
 - 3. Public Comments
 - There were no public comments
@@ -509,7 +470,7 @@
 - LAPP scoring, considerations of the local match criteria on LAPP scoring, rolling stock
 - as eligible projects, and next steps towards an August 2026 approval and
 
-## [campo#13] 2026-06-17 | Executive Board | minutes
+## [campo#12] 2026-06-17 | Executive Board | minutes
 - There were no amendments to the Agenda
 - 4. Public Comments
 - There were no public comments
@@ -553,7 +514,7 @@
 - versus projected 10-year available funding, and the recommended Regional Impact target
 - does break some projects up; however, that does not always mean the project will
 
-## [campo#14] 2026-08-06 | Technical Coordinating Committee | minutes
+## [campo#13] 2026-08-06 | Technical Coordinating Committee | minutes
 - Julian Griffee, Chris Garcia, Landon Chandler, Bret Martin, Emma Linn, Kevin C
 - 3. Public Comments
 - There were no public comments
@@ -589,7 +550,7 @@
 - intersection improvements identified on some of those intersections. Are we too late to
 - try and expand the scope of that resurfacing project to provide more improvements? Mr
 
-## [campo#15] 2026-08-19 | Executive Board | agenda
+## [campo#14] 2026-08-19 | Executive Board | agenda
 - TDM Plan Update - Interlocal
 - Funding Agreement
 - PUBLIC HEARING:

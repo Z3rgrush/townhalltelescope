@@ -1,142 +1,156 @@
-- title: Town mineral rights, SM Energy Draco pad and lease offer
-  summary: Council approved Ordinance 26-028 on June 23 to sell Town-owned minerals to SM Energy. SM Energy terminated the contract on Aug. 19 and Council repealed the ordinance on Aug. 25. On Sept. 1 staff sought direction on leasing the minerals (an offer of $12,000 per net mineral acre, about $1.36M) and on the state ECMC process for the Draco drilling and spacing unit.
-  where: Draco pad area
+- title: Sale and lease of Town mineral rights near the Draco drilling pad (SM Energy)
+  summary: Council approved Ordinance 26-028 on June 23 to sell Town-owned mineral rights to SM Energy. SM Energy terminated the contract Aug. 19 and Council repealed the ordinance Aug. 25. On Sept. 1 staff asked for direction on a lease offer (a $12,000 per net mineral acre bonus, about $1.36M) and on the state ECMC drilling and spacing process.
+  where: Draco Pad, Town-owned minerals
   refs:
+  - 9
+  - 10
+  - 11
   - 12
-  - 13
-  - 14
-  - 15
   topics:
   - Oil, gas & mining
   - Land & property
   - Budget & taxes
-- title: 2027 Town budget and work plan
-  summary: Council held budget study sessions on Aug. 18 and Oct. 6 on forecast assumptions. Sales tax growth is below 2% and use tax and building permits are down over 40%, so staff are minimizing new positions. The first reading of the 2027 proposed budget was set for Oct. 27. Advisory boards, including Sustainability (reduced to $9,928) and Tree (reduced to $4,750), are working with trimmed budgets.
+- title: 2027 Town budget and revenue shortfall
+  summary: Staff said sales tax growth is below 2% and use tax and building permits are down over 40%, so the 2027 budget limits new staff to health and safety needs. Council held study sessions Aug. 18 and Oct. 6 and saw the proposed budget on first reading Oct. 27. Advisory boards were asked to trim their own 2027 budgets, for example the Tree board from $5,000 to $4,750 and Sustainability to $9,928.
   where: Townwide
   refs:
-  - 0
+  - 1
+  - 2
   - 3
-  - 5
-  - 6
-  - 17
-  - 19
-  - 32
-  - 43
+  - 14
+  - 16
+  - 29
+  - 40
   topics:
   - Budget & taxes
   - Government operations
-- title: Trees removed for new water meters
-  summary: Several residents, including Bradley Beck, Chad Schroeder, Brian Plymell and Christine Welker, spoke to Council on Sept. 8 about the Town digging up trees to install new water meters. Council also approved temporary water meter standards on Sept. 22.
-  where: Townwide
+- title: Tree removal for new water meters and water line work
+  summary: Several residents spoke at the Sept. 8 Council meeting against the Town digging up trees to make way for new water meters. Council later approved temporary water meter standards for water line transitions tied to the end of automatic fire sprinkler requirements in homes.
+  where: Townwide residential neighborhoods
   refs:
-  - 18
-  - 29
+  - 15
+  - 26
   topics:
   - Water
   - Utilities
   - Environment & climate
   public_comment: true
-- title: Oil and gas regulations update (Title 10, Chapter 12)
-  summary: The Planning Commission reviewed proposed changes to the Town's oil and gas rules. These include doubling inspection fees, per-well fees, notification periods, legacy wells, noise, and air quality. A resident spoke on the fee proposals.
+- title: Comprehensive Plan amendments and Proposition 123 affordable housing
+  summary: Residents spoke against any changes to the Comp Plan on Sept. 8, citing water shortage and traffic on Alpine and Primrose. The Planning Commission discussed Prop 123 resolutions; staff said Erie is asking to reduce its Prop 123 unit requirement to 30 units. A comp plan amendment creating a medium-low density designation was reported approved in early November.
   where: Townwide
   refs:
-  - 16
-  - 24
-  topics:
-  - Oil, gas & mining
-  - Fees & rates
-  - Zoning & development
-  public_comment: true
-- title: Page property rezoning and open space protection
-  summary: The Open Space and Trails board recommended rezoning land west of the Cottonwood Extension Irrigation Ditch on the Page property as Reserved Open Space. Council discussion is set for Nov. 10, and a rezoning application for 1025 Weld County Road 1½ was on a Sept. 14 agenda. The Planning Commission and the board are planning a joint study session on Oct. 21 about open space zoning and protection.
-  where: Page Property, near County Road 1.5
-  refs:
-  - 1
   - 4
-  - 20
-  - 41
-  topics:
-  - Parks & open space
-  - Zoning & development
-  - Land & property
-- title: Vista Ridge golf course PD Amendment No. 9
-  summary: The Planning Commission held a hearing Aug. 19 on the Vista Ridge Planned Development Amendment No. 9 for the golf course. Council held a public hearing on the ordinance on Oct. 13 with a presentation by Gauge Land Development and the golf course manager.
-  where: Vista Ridge golf course
-  refs:
-  - 7
-  - 35
-  topics:
-  - Zoning & development
-  public_comment: true
-- title: Comprehensive Plan amendments and Prop 123 affordable housing
-  summary: The Planning Commission and Council discussed Comprehensive Plan amendments. They also discussed Erie's request to reduce its Prop 123 unit requirement to 30 units and how affordable housing will figure in the Unified Development Code update. Residents including the Gonzales family spoke against Comp Plan changes on Sept. 8.
-  where: Townwide
-  refs:
-  - 7
-  - 18
-  - 34
+  - 15
+  - 31
+  - 45
   topics:
   - Housing
   - Zoning & development
   public_comment: true
-- title: Short-term rental regulations and permit fee
-  summary: The Planning Commission reviewed a new UDC chapter on short-term rentals on Oct. 7. Council also took up a fee for short-term rental permit applications on Oct. 27.
+- title: Oil and gas regulations update (Title 10, Chapter 12)
+  summary: Planning Commission reviewed proposed changes including doubling inspection fees, per-well fees, notification periods, legacy wells, noise and air quality. A resident commented, and staff and outside counsel noted constitutional limits on what the Town can do.
   where: Townwide
   refs:
-  - 33
-  - 34
-  - 43
+  - 13
+  - 21
+  topics:
+  - Oil, gas & mining
+  - Fees & rates
+  - Environment & climate
+  public_comment: true
+- title: Vista Ridge golf course Planned Development Amendment No. 9
+  summary: Planning Commission held a hearing on recommending the amendment for the golf course, and Council held a public hearing Oct. 13 with a presentation from Gauge Land Development and the golf course manager.
+  where: Vista Ridge golf course
+  refs:
+  - 4
+  - 32
+  topics:
+  - Zoning & development
+  - Land & property
+  public_comment: true
+- title: Short-term rental rules and permit fee
+  summary: Planning Commission considered a new Chapter 16 of the Unified Development Code on short-term rentals on Oct. 7, and Council was set to consider a fee for short-term rental permit applications on Oct. 27.
+  where: Townwide
+  refs:
+  - 30
+  - 31
+  - 40
   topics:
   - Short-term rentals
   - Fees & rates
-- title: 'Urban Renewal: Colliers Hill tax increment and downtown projects'
-  summary: The Urban Renewal Authority amended the tax increment agreement with Weld County for the Colliers Hill plan area. The amendment removes the requirement that revenue between $10M and $14M go to Weld County Road 5 and adds parks and recreation facilities. The Authority also approved $30K more for FHU design work on a bridge project and took up a disposition agreement for 150 Briggs. Council approved a related agreement with the URA.
-  where: Colliers Hill; downtown Briggs Street
+- title: Colliers Hill urban renewal tax increment changes
+  summary: The Urban Renewal Authority and Council approved agreements on tax increment for the Colliers Hill plan area. A Weld County amendment, approved Sept. 2, removes the requirement that revenue between $10M and $14M go to Weld County Road 5 and allows parks and recreation facilities.
+  where: Colliers Hill Urban Renewal Plan area
   refs:
-  - 10
-  - 11
-  - 12
-  - 27
-  - 28
+  - 7
+  - 8
+  - 9
+  - 24
+  - 25
   topics:
   - Economic development
   - Budget & taxes
-  - Downtown & business
-- title: Airport noise, hangar leases and through-the-fence fees
-  summary: A resident asked for more regulation of early-morning touch-and-go flights. The airport board discussed residential through-the-fence fees (a staff proposal goes to Council in December), a hangar presentation to Council on Oct. 13, and a charter change to allow land leases longer than 20 years. It is also looking at modernizing the airport fund code.
-  where: Erie Municipal Airport
+  - Roads & traffic
+- title: Downtown infrastructure and 150 Briggs redevelopment
+  summary: The URA is paying for downtown infrastructure, including a $30K design contract amendment for a bridge project with Felsburg Holt & Ullevig. It also considered a disposition, development and reimbursement agreement for 150 Briggs Street. Council approved a downtown alleyway consultant amendment and several right-of-way encroachment licenses on Briggs Street.
+  where: Downtown Erie, Briggs Street
   refs:
   - 8
-  - 25
-  - 37
+  - 9
+  - 24
+  - 26
+  - 40
+  topics:
+  - Downtown & business
+  - Economic development
+  - Roads & traffic
+- title: Erie airport fees, hangar leases and noise complaints
+  summary: A resident asked for more regulation of early-morning touch-and-go flights. The board discussed residential through-the-fence fees (a council proposal in December), commercial fees, and a possible ballot question allowing land leases longer than 20 years for hangar development. A hangar presentation to Council is set for Oct. 13.
+  where: Erie Municipal Airport
+  refs:
+  - 5
+  - 22
+  - 34
   topics:
   - Airports
   - Fees & rates
+  - Land & property
   public_comment: true
-- title: New Town Manager appointed
-  summary: Council considered a resolution appointing Kelli Johnson as Town Manager effective Jan. 4, 2027, with an employment agreement. Staff and a review committee interviewed finalists after applications opened in August.
+- title: Protecting open space and the Page property
+  summary: OSTAB and Planning Commission met to discuss open space zoning, the Reserved Open Space zoning district and the voter approval needed to sell or rezone open space. Council discussion of the Page property was scheduled for Nov. 10, with the rezoning process explained to the board.
+  where: Page property and town open space
+  refs:
+  - 1
+  - 17
+  - 38
+  - 45
+  topics:
+  - Parks & open space
+  - Zoning & development
+  - Land & property
+- title: New Town Manager appointment
+  summary: Council scheduled a vote Oct. 20 to appoint Kelli Johnson as Town Manager effective Jan. 4, 2027, with an employment agreement, after interviews and executive sessions.
   where: Town Hall
   refs:
-  - 31
-  - 38
-  - 39
+  - 28
+  - 35
+  - 36
   topics:
   - Government operations
 - title: Compass Park and safe sidewalks
-  summary: Members of the Fargo family spoke in favor of Compass Park and safe sidewalks during public comment on Oct. 6.
+  summary: Residents spoke in favor of Compass Park and safe sidewalks at the Oct. 6 Council meeting.
   where: Compass Park
   refs:
-  - 32
+  - 29
   topics:
   - Parks & open space
   - Roads & traffic
   public_comment: true
-- title: Business licensing and economic incentives policy
-  summary: Council scheduled discussion and direction on business licensing updates and revisions to the Economic Incentives Policy on Oct. 20.
+- title: Flock Safety technology and security arrangements
+  summary: Council planned an executive session Sept. 15 on security arrangements and mitigation strategies, including Flock Safety technology. No details were released.
   where: Townwide
   refs:
-  - 38
-  - 39
+  - 18
+  - 19
   topics:
-  - Economic development
-  - Downtown & business
+  - Policing & public safety

@@ -1,5 +1,5 @@
 - title: GroAway LLC conditional use permit (LU-26-000154)
-  summary: The Planning Commission held a public hearing on Sept. 10 on a conditional use permit for GroAway, LLC, then continued it twice to Oct. 8 and Oct. 22 while it weighed new materials, public comments received after the hearing and a Colorado Parks and Wildlife letter. The permit went to the county commissioners' Oct. 27 agenda; the documents do not state the outcome.
+  summary: The Planning Commission held a hearing Sept. 10, continued it twice to Oct. 8 and Oct. 22, and weighed late public comment and a Colorado Parks and Wildlife letter. On Nov. 3 the commissioners moved to deny the conditional use permit after residents voiced concerns, including about a proposed cat sanctuary.
   where: Huerfano County
   refs:
   - 19
@@ -10,12 +10,13 @@
   - 43
   - 44
   - 45
+  - 50
   topics:
   - Zoning & development
   - Land & property
   public_comment: true
-- title: 'Affordable housing: pre-approved home plans, Prop 123 down payment aid and revolving loan fund'
-  summary: The county is building housing tools. These include pre-approved single-family house plans (tiny home, barndominium, ranch and traditional), a Prop 123 Down Payment Assistance Program, an Affordable Housing Revolving Loan Fund with Impact Development Fund, and a resolution codifying the Housing Authority, which had been dormant since 2021. Commissioners approved Resolutions 26-43 and 26-44, and a land banking, acquisition and donation policy (26-45). A resident asked how the loan program and applications would work.
+- title: Affordable housing, pre-approved home plans and land banking
+  summary: The county worked on pre-approved house plans (tiny home, barndominium and ranch designs), Prop 123 down payment assistance, an affordable housing revolving loan fund with Impact Development, a codified Housing Authority and a land banking policy. Resolutions 26-43 to 26-45 were on the Sept. 29 agenda and a resident asked how the program and application would work.
   where: Countywide
   refs:
   - 0
@@ -31,10 +32,10 @@
   topics:
   - Housing
   - Land & property
-  - Zoning & development
+  - Government operations
   public_comment: true
-- title: Camping ordinance (Ordinance 26-04)
-  summary: Commissioners took up Ordinance 26-04 regulating camping in the county, with discussion about the ordinance and camping rights. It was approved on first reading in August and on second reading Sept. 15.
+- title: County camping ordinance (Ordinance 26-04)
+  summary: Commissioners approved a county ordinance regulating camping on first reading in August, with a second reading on Sept. 1. Discussion at the first reading touched on camping rights.
   where: Countywide
   refs:
   - 1
@@ -42,11 +43,11 @@
   - 14
   - 22
   topics:
+  - Homelessness
   - Policing & public safety
-  - Land & property
   public_comment: true
-- title: 2027 county budget
-  summary: County Administrator Carl Young presented a preliminary 2027 budget with a 3.6% cost of living raise for all employees and market adjustments capped at $4,000 in Human Services and Road and Bridge. He warned that inflation, fuel prices and jail costs for housing prisoners elsewhere are straining County General and Road and Bridge. A balanced budget presentation was held Oct. 15.
+- title: 2027 county budget and employee pay
+  summary: Administrator Carl Young presented a preliminary 2027 budget with a 3.6% cost of living raise and market-rate adjustments for Human Services and Road and Bridge, capped at $4,000. He warned that County General needs cuts, inflation and fuel costs are straining the budget, and jail housing costs are a drain.
   where: Countywide
   refs:
   - 34
@@ -59,7 +60,7 @@
   - Budget & taxes
   - Government operations
 - title: Recreation and cultural mill levy and voter survey
-  summary: Magellan Strategies presented a county voter survey touching on parks and rec and jail renovation projects. Commissioners then approved Resolution 26-34 on a Recreation and Cultural Mill Levy, with Commissioner Wardell explaining the projects behind it.
+  summary: Magellan Strategies presented a county voter survey that touched on parks and rec and jail renovation projects. Commissioners then approved Resolution 26-34 on a recreation and cultural mill levy, and Commissioner Wardell explained the projects it focuses on.
   where: Countywide
   refs:
   - 8
@@ -68,24 +69,25 @@
   topics:
   - Budget & taxes
   - Recreation & trails
-- title: Gardner water augmentation, sewer project and Gardner revitalization plans
-  summary: Commissioners approved lease-purchase financing for eight acre-feet of water augmentation for the Gardner Public Improvement District and three acre-feet for Road and Bridge. The Gardner Sewer Project bid tabulation was also before the board. Commissioners also approved the Gardner Main Street Revitalization Plan and the Rio Cucharas CRA Plan.
-  where: Gardner
+  - Elections
+- title: Water augmentation lease-purchases and bulk water permits
+  summary: Commissioners approved lease-purchase financing for eight acre-feet of augmentation water for the Gardner Public Improvement District and three acre-feet for Road and Bridge. Bulk water permits came up at nearly every meeting, and a Gardner sewer project bid was reviewed.
+  where: Gardner and Countywide
   refs:
-  - 7
-  - 13
-  - 22
   - 25
   - 26
   - 31
   - 34
   - 35
+  - 41
+  - 49
+  - 50
   topics:
   - Water
   - Utilities
-  - Economic development
-- title: Fox Theater Walsenburg loan guaranty
-  summary: Commissioners approved Resolution 26-41, guaranteeing a First Southwest Bank loan for the Fox Theater tied to tax credit sales, and a follow-up Resolution 26-48 guaranty on Oct. 20. A change order with McKinstry for the Fox Theater was also approved.
+  - Fees & rates
+- title: Fox Theater loan guaranty in Walsenburg
+  summary: The county considered guaranteeing a First Southwest Bank loan for the Fox Theater (Resolution 26-41, approved in October), tied to proceeds from tax credit sales. A second guaranty resolution (26-48) and a McKinstry change order for the Fox were also approved.
   where: Walsenburg
   refs:
   - 25
@@ -93,74 +95,68 @@
   - 31
   - 35
   - 40
-  - 41
   - 45
   topics:
+  - Downtown & business
   - Libraries & culture
   - Budget & taxes
+- title: Gardner Main Street and Rio Cucharas revitalization plans
+  summary: The County Revitalization Authority discussed outreach to taxing entities and plan adoption. Commissioners approved the Gardner Main Street Revitalization Plan and the Rio Cucharas plan on Sept. 1.
+  where: Gardner and Rio Cucharas
+  refs:
+  - 7
+  - 13
+  - 14
+  - 22
+  topics:
+  - Economic development
   - Downtown & business
-- title: Wildfire protection, fire restrictions and forest grants
-  summary: The county moved from Stage 2 to Stage 1 fire restrictions in August and lifted Stage 1 in October. Commissioners approved the 2026 Community Wildfire Protection Plan, an amended Community Wildfire Defense Grant subaward, and letters of support for forest restoration and wildfire risk mitigation grants, including Blackhawk Ranch and the Huerfano Ember Shield Coalition.
+- title: Wildfire protection plans, grants and fire restrictions
+  summary: Commissioners moved the county from Stage 2 to Stage 1 fire restrictions, then lifted Stage 1. They approved the 2026 Community Wildfire Protection Plan, an amended Community Wildfire Defense Grant agreement, and letters of support for forest restoration grants including Blackhawk Ranch and the Ember Shield Coalition.
   where: Countywide
   refs:
   - 8
   - 9
   - 14
   - 21
-  - 26
   - 30
   - 31
+  - 34
   - 41
   - 45
   topics:
   - Fire & emergencies
   - Environment & climate
-- title: 'Cuchara Mountain Park: liquor license denial and ski pond dam study'
-  summary: The Liquor License Authority recommended against a special event liquor license for Cuchara Mountain Park. Commissioners also approved a $10,600 geotechnical services agreement for the Ski Pond Dam, with budget questions raised.
+- title: Cuchara Mountain Park ski pond dam and special event liquor license
+  summary: Commissioners approved a $10,600 geotechnical services agreement for the Cuchara Mountain Park ski pond dam. They accepted the Liquor License Authority's recommendation not to approve a special event liquor license for the park, and the Tourism Board noted snowmaking and pipe upgrades there.
   where: Cuchara Mountain Park
   refs:
   - 28
   - 34
   - 35
   - 36
+  - 37
   - 41
+  - 52
   topics:
   - Recreation & trails
   - Tourism & events
   - Cannabis & liquor
-- title: Marijuana license for ISO99, LLC and water use concerns
-  summary: A public hearing on Marijuana License ML-26-000008 for ISO99, LLC drew a citizen question about water restrictions and drought. The applicant provided proof of city water taps and past water bills, and the license was approved with conditions.
-  where: Huerfano County
-  refs:
-  - 28
-  - 35
-  topics:
-  - Cannabis & liquor
-  - Water
-  public_comment: true
-- title: School Creek Gravel Pit conditional use permit
-  summary: The Planning Commission held a long public hearing on LU-26-000122, the School Creek Gravel Pit, and approved it with a recommendation to go to the county commissioners.
-  where: School Creek
-  refs:
-  - 4
-  - 5
-  topics:
-  - Zoning & development
-  - Oil, gas & mining
-  public_comment: true
-- title: Spanish Peaks Regional Airport projects and budget
-  summary: The airport advisory board discussed the Turnaround Taxiway project, a 10-year capital improvement plan, possible land acquisition advised by the FAA, and an airport budget running in the red. Members also voiced frustration over commercial tax assessments.
+- title: Spanish Peaks Regional Airport budget, taxiway and capital plan
+  summary: The airport advisory board is working on a turnaround taxiway project, a 2027-2036 capital improvement plan, FAA-advised land acquisition, and an operating budget that is in the red. Members are frustrated with commercial tax assessments.
   where: Spanish Peaks Regional Airport, County Road 101
   refs:
   - 11
   - 12
   - 47
   - 48
+  - 49
+  - 50
   topics:
   - Airports
   - Budget & taxes
-- title: Tourism board budget, EV charger map and Enchanted Outpost ad
-  summary: The Tourism Board reviewed lodging tax revenue, finalized the 2027 budget, approved a $3,560.75 Enchanted Outpost winter ad, and discussed an EV charger location map and the 2027 sponsorship program. Megan Rutter was appointed Director of Tourism and Bob Kennemer to the board.
+- title: Tourism Board marketing, 2027 budget and EV chargers
+  summary: The Tourism Board manages lodging tax funds, approved a 2027 budget and paid for an Enchanted Outpost winter ad ($3,560.75). It also discussed EV charger location posters and Dark Sky efforts. Lodging tax is down about 2%, and the board appointed Meg Rutter as Director of Tourism.
   where: Countywide
   refs:
   - 2
@@ -169,20 +165,37 @@
   - 18
   - 36
   - 37
+  - 51
+  - 52
   topics:
   - Tourism & events
   - Budget & taxes
-- title: Trash dumping, Road and Bridge staffing and Gardner community center upkeep
-  summary: The sheriff raised illegal trash dumping and the administrator discussed strengthening the ordinance; a resident asked about dumpsters. Road and Bridge also saw a superintendent change. Safe Streets and road conditions came up at the Raymond Aguirre Community Center board.
+- title: Marijuana license hearings
+  summary: Commissioners held a public hearing on the ISO99, LLC marijuana license, where a citizen asked about water use during drought. They also acted on licenses for TKJ Investments and Focus Buds LLC.
+  where: Huerfano County
+  refs:
+  - 9
+  - 14
+  - 28
+  - 35
+  topics:
+  - Cannabis & liquor
+  - Water
+  public_comment: true
+- title: School Creek Gravel Pit conditional use permit
+  summary: The Planning Commission held a long public hearing on the School Creek Gravel Pit conditional use permit (LU-26-000122) on Aug. 13. It approved a recommendation to send the application to the Board of County Commissioners.
+  where: School Creek
+  refs:
+  - 5
+  topics:
+  - Zoning & development
+  - Oil, gas & mining
+- title: Trash and illegal dumping
+  summary: The Sheriff and Administrator Carl Young discussed illegal trash dumping, what the current ordinance says and what a future ordinance could add. A resident asked whether residents could request dumpsters.
   where: Countywide
   refs:
-  - 10
   - 22
-  - 26
-  - 27
-  - 46
   topics:
-  - Roads & traffic
-  - Government operations
   - Environment & climate
+  - Policing & public safety
   public_comment: true

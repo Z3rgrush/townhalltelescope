@@ -220,5 +220,13 @@
 - Budget discussion
 - 11. EXECUTIVE SESSION TO DISCUSS PERSONNEL MATTERS
 
-## [crawford#10] 2026-10-26 | City Council | agenda
+## [crawford#10] 2026-10-19 | City Council | agenda
 - Staff: Grant Knowles, Jeff Blanton
+
+## [crawford#11] 2026-11-09 | City Council | agenda
+- Crawford State Park water rate structure
+- Staff: Grant Knowles, Jeff Blanton, Ruben Santiago
+- 2. APPROVAL OF THE AGENDA
+- Budget discussion
+- Resolution 6-2026 Designating Authorized Signatories
+- Address Access/Subdivision Fees & Town’s Fee Structure

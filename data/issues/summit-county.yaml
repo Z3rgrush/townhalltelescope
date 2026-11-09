@@ -1,99 +1,70 @@
-- title: Quikrete concrete and asphalt batch plant appeal at 28755 State Hwy 9
-  summary: Commissioners heard an appeal of the Lower Blue Planning Commission decision on PLN26-004, a Class 4 conditional use permit for milling and concrete and asphalt batch plant operations on a 151-acre portion of a 605-acre A-1 parcel. Public comments, a stormwater plan, and a landscape plan were in the packet. The documents do not state the outcome.
+- title: Quikrete concrete and asphalt batch plant appeal on Highway 9
+  summary: The commissioners held a public hearing on an appeal of the Lower Blue Planning Commission's decision on PLN26-004, a Class 4 conditional use permit for milling and concrete and asphalt batch plant operations. The site is a 151-acre portion of a 605-acre A-1 parcel. The packet includes public comments, a stormwater plan and a landscape plan. The documents do not state the outcome.
   where: 28755 State Hwy 9
   refs:
-  - 2
+  - 0
   topics:
   - Zoning & development
   - Land & property
   - Environment & climate
   public_comment: true
-- title: Verizon Wireless tower appeal at 6631 Heeney Road
-  summary: Commissioners held a public hearing on an appeal of the Lower Blue Planning Commission decision on PLN26-009 and PLN26-010, a conditional use permit and site plan for a new Verizon Wireless telecommunication facility. Public comments received through 9/23/26 were in the packet. The documents do not state the outcome.
-  where: 6631 Heeney Road
-  refs:
-  - 0
-  topics:
-  - Zoning & development
-  - Utilities
-  public_comment: true
 - title: 2027 county budget
-  summary: The county reviewed the 2027 draft budget across work sessions and a regular meeting. Sessions covered the Assessor, Capital Projects, Road & Bridge, Lodging Tax, Coroner, and Human Services budgets, plus a District Attorney budget amendment. A public hearing for comment on the proposed 2027 budget was set for 10/27.
+  summary: A draft 2027 budget was presented on Oct. 13, with a public hearing and public comment on the proposed budget on Oct. 27. Work sessions covered capital projects, road and bridge, lodging tax, the coroner, human services (BOSS) and a District Attorney budget amendment.
   where: Countywide
   refs:
+  - 0
   - 1
   - 2
   - 3
-  - 4
-  - 5
   topics:
   - Budget & taxes
-  - Government operations
+  - Roads & traffic
   public_comment: true
-- title: Purchase of historic mining claims and mill sites
-  summary: Commissioners were asked to exercise option agreements to buy the Pirate, Canadian, and Manerva mill sites in the Snake River Basin. They were also asked to exercise an option for the Summit Gulch claims in the Upper Blue Basin.
-  where: Snake River Basin and Upper Blue Basin
+- title: SCRAP fee analysis and rate study
+  summary: Commissioners reviewed a rate study and fee analysis for SCRAP on Oct. 20. A follow-up rate study Q&A and a comparison of other agencies' rate factors were on the Oct. 27 work session.
+  where: Countywide
+  refs:
+  - 1
+  - 3
+  topics:
+  - Fees & rates
+  - Utilities
+- title: Proposition 123 housing credits for Soda Creek project in Keystone
+  summary: The county was asked to approve an intergovernmental agreement with the Town of Keystone on allocating Proposition 123 housing credits (units) for the Soda Creek project.
+  where: Soda Creek, Keystone
   refs:
   - 0
-  - 2
+  topics:
+  - Housing
+- title: Summit Gulch claims option agreement in Upper Blue Basin
+  summary: Commissioners were asked to approve exercising an option agreement to acquire the Summit Gulch claims in the Upper Blue Basin.
+  where: Summit Gulch, Upper Blue Basin
+  refs:
+  - 0
   topics:
   - Land & property
   - Parks & open space
-  - Historic preservation
-- title: Soda Creek Proposition 123 housing credits IGA with Keystone
-  summary: The county discussed in work session and then considered an intergovernmental agreement with the Town of Keystone on allocating Proposition 123 housing units and credits for the Soda Creek project.
-  where: Soda Creek, Keystone
-  refs:
-  - 1
-  - 2
-  topics:
-  - Housing
-  - Government operations
-- title: Positions on November 2026 ballot measures
-  summary: Commissioners considered resolutions supporting Amendment 87, Proposition 137, Proposition NN and Referred Measure 4A. They also considered resolutions opposing Amendments 81, 82 and 85 and Proposition 136.
-  where: Countywide
+- title: County Road 506 full maintenance consideration
+  summary: Commissioners considered a resolution on whether the county should provide full maintenance on CR 506.
+  where: County Road 506
   refs:
   - 0
-  topics:
-  - Elections
-- title: SCRAP fee analysis and rate study
-  summary: A special work session reviewed a rate study and fee analysis for SCRAP. A rate study Q&A and comparison with other agency rate factors followed on 10/27.
-  where: Countywide
-  refs:
-  - 3
-  - 5
-  topics:
-  - Fees & rates
-- title: County Road 506 full maintenance
-  summary: Commissioners considered a resolution on whether the county should provide full maintenance on CR 506 for 2026.
-  where: CR 506
-  refs:
-  - 2
   topics:
   - Roads & traffic
 - title: Background checks for massage facility personnel
   summary: Commissioners considered a proposed resolution requiring background checks for massage facility personnel.
   where: Countywide
   refs:
-  - 2
+  - 0
   topics:
   - Policing & public safety
-  - Health & human services
-- title: Head Start and community services grants
-  summary: The county considered the Head Start continuation application for 2027 and a supplemental Head Start grant application. It also considered the Community Services Block Grant 3-year community needs assessment.
+  - Government operations
+- title: Community Services Block Grant needs assessment and Head Start grant
+  summary: Commissioners were asked to authorize the chair to approve the 3-year CSBG Community Needs Assessment and the 2027-2029 Community Action Plan. They were also asked to approve a Head Start supplemental grant application.
   where: Countywide
   refs:
   - 0
   - 2
-  - 4
   topics:
-  - Schools & youth
   - Health & human services
-- title: Property tax abatements for Highlands Riverfront tracts
-  summary: Commissioners considered abatement requests on 2025 property taxes for Highlands Riverfront Subdivision future development tracts A, T and U.
-  where: Highlands Riverfront Subdivision
-  refs:
-  - 0
-  topics:
-  - Budget & taxes
-  - Land & property
+  - Schools & youth

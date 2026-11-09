@@ -1,120 +1,123 @@
-- title: Minturn shooting range grant and USFS special use permit
-  summary: The Town was awarded a $225,000 Colorado Parks and Wildlife grant to improve its shooting range and address long-standing issues. It is seeking in-kind help from Eagle County and a Forest Service special use permit, targeted for Spring 2027. A council item on the range was pulled and continued on Oct. 7, and a status update was on the Oct. 21 agenda.
+- title: Police services contract with Eagle County Sheriff's Office
+  summary: Council appointed an ad-hoc committee to negotiate a Sheriff's Office police services contract starting in 2027, covering service levels, costs, terms and community concerns about automated license plate readers. The proposed terms will return to the full Council; the contract was on the Oct. 21 and Nov. 4 agendas.
+  where: Townwide
+  refs:
+  - 11
+  - 13
+  - 15
+  topics:
+  - Policing & public safety
+  - Government operations
+- title: Minturn shooting range grant and Forest Service permit
+  summary: Minturn won a $225,000 Colorado Parks and Wildlife grant to improve the town shooting range and address long-standing issues. The town is seeking in-kind help from Eagle County, such as road grading, and aims to have a USFS special use permit by spring 2027. A status update was on the Oct. 21 agenda, and a councilmember asked to continue the related item on Oct. 7.
   where: Minturn shooting range
   refs:
-  - 8
-  - 12
-  - 14
+  - 7
+  - 11
+  - 13
   topics:
   - Guns
   - Recreation & trails
   - Land & property
   tags:
   - guns
-- title: Police services contract with Eagle County Sheriff's Office
-  summary: Council is negotiating a police services contract with the Eagle County Sheriff's Office beginning in 2027. Talks cover service levels, costs, contract terms and community concerns about automated license plate readers. Proposed terms will return to the full Council for approval.
-  where: Townwide
+- title: Speed bumps and traffic calming, Main Street speed camera study
+  summary: Residents in the Boulder and Pine Street area asked for more speed bumps and tables, and at the Oct. 7 meeting a resident raised a 2023 petition and speed concerns. Staff is studying a Main Street speed camera and evaluating FY 2027 funding for speed bumps and radar feedback signs.
+  where: Main Street; Boulder and Pine Street area
   refs:
-  - 12
-  - 14
-  topics:
-  - Policing & public safety
-  - Budget & taxes
-- title: Speed bumps and traffic calming on Main Street and neighborhood streets
-  summary: Residents in the Boulder and Pine Street area asked for traffic calming, and residents spoke about speeding and missing speed bumps. Staff is studying a Main Street speed camera and evaluating speed bumps, speed tables and radar feedback signs for the FY 2027 budget.
-  where: Main Street and Boulder/Pine Street area
-  refs:
-  - 3
-  - 12
+  - 2
+  - 11
   topics:
   - Roads & traffic
   - Budget & taxes
   public_comment: true
-- title: Water moratorium and downtown water improvements
-  summary: Council took up the second reading of Ordinance No. 11 amending the town's water moratorium. It also considered Resolution No. 50 repurposing CDS funds for downtown water improvements. Water Treatment Plant work and line relocation are ongoing.
-  where: Downtown Minturn
+- title: FY 2027 town budget
+  summary: The FY 2027 budget was the subject of a public hearing on Nov. 4. Items in line for consideration include traffic calming, Beach Park retaining wall work and other capital projects.
+  where: Townwide
   refs:
-  - 0
-  - 14
+  - 2
+  - 11
+  - 15
+  topics:
+  - Budget & taxes
+  public_comment: true
+- title: Water moratorium ordinance, water tank design and downtown water funds
+  summary: Council considered on second reading Ordinance No. 11 amending the water moratorium, and Resolution No. 50 to repurpose CDS funds for downtown water improvements. An update from S.E.H. on water tank evaluations and design progress on Bellm Bridge was scheduled for Nov. 4.
+  where: Downtown and Bellm Bridge
+  refs:
+  - 13
+  - 15
   topics:
   - Water
   - Utilities
-  - Zoning & development
-- title: Historic Preservation Plan update
-  summary: The Historic Preservation Commission finalized the 2026 Historic Preservation Plan, with amendments to goals on objects and cultural resources. Members discussed asking Council about a historic district and a budget line item for preservation. They also elected Ken Halliday chair and Dan Brown vice chair, and gave an update on the Meyer's Barn project.
-  where: Townwide
-  refs:
-  - 1
-  - 2
-  - 6
-  - 7
-  topics:
-  - Historic preservation
-- title: Regional housing authority and employee housing
-  summary: Council discussed the Regional Housing Authority in a joint meeting with Eagle County, where housing costs, unoccupied homes and employee housing were raised. Participants noted the RHA is still taking shape and past ballot measures lacked a specific plan.
-  where: Eagle County / Minturn
-  refs:
-  - 0
-  - 8
-  topics:
-  - Housing
   - Government operations
-- title: Land use code rewrite and definitions
-  summary: The Planning Commission worked through draft definitions and standards for the land use code, including permeability of decks and parking areas, bulk plane illustrations, and how uses in the Bolts Lake zone districts are separated under a settlement agreement.
-  where: Townwide, including Bolts Lake
-  refs:
-  - 5
-  topics:
-  - Zoning & development
-- title: DDA Investment and Incentive Policy
-  summary: The Downtown Development Authority board considered Resolution No. 02 adopting an Investment and Incentive Policy. It covers a small project matching grant program, large redevelopment and catalyst projects, and strategic property acquisition.
-  where: Downtown Minturn
-  refs:
-  - 9
-  - 10
-  topics:
-  - Downtown & business
-  - Economic development
-- title: 2027 budget and sales tax
-  summary: Staff and council began 2027 budget talks, with sales tax about $10K down year to date. Capital wish-list items include traffic calming, a Beach Park retaining wall and other projects.
+- title: Electric outages and Xcel Energy reliability
+  summary: Town staff met with the Colorado Energy Office and Xcel Energy about outages and reliability. At Xcel's recommendation the town sent formal correspondence requesting improvements and is monitoring Xcel's response and timelines.
   where: Townwide
   refs:
-  - 0
-  - 3
-  - 12
-  topics:
-  - Budget & taxes
-  public_comment: true
-- title: Main Street parking study
-  summary: A planning intern presented parking study findings. Council members suggested a winter study around plowing restrictions, later evening counts of resident vehicles, and marking parking spaces on Main Street if permitted.
-  where: Main Street
-  refs:
-  - 0
-  topics:
-  - Roads & traffic
-- title: Xcel Energy power outages and reliability
-  summary: Town staff met with the Colorado Energy Office and Xcel Energy about outages and system reliability. The Town sent formal correspondence at Xcel's recommendation and is monitoring its response.
-  where: Townwide
-  refs:
-  - 3
+  - 2
   topics:
   - Utilities
   - Energy
-- title: Ballot Issue 5B for Education Foundation of Eagle County
-  summary: Council heard a presentation from the Education Foundation of Eagle County and considered Resolution No. 51 on Ballot Issue 5B.
-  where: Countywide
-  refs:
-  - 14
-  topics:
-  - Elections
-  - Schools & youth
-  - Budget & taxes
-  public_comment: true
 - title: ERWSD Main Street siphon rehabilitation
-  summary: Eagle River Water & Sanitation District is rehabilitating the Minturn siphon, with sewer bypass pumping starting by Aug. 14 and traffic control on US 24/Main Street.
+  summary: Eagle River Water & Sanitation District's siphon rehabilitation is underway, with sewer bypass pumping expected to begin by Aug. 14. Traffic control remains in place on US 24/Main Street during construction.
   where: US 24/Main Street
   refs:
-  - 3
+  - 2
   topics:
   - Utilities
+  - Water
   - Roads & traffic
+- title: Historic Preservation Plan update
+  summary: The Historic Preservation Commission worked on the final 2026 Historic Preservation Plan, with amendments to goals on objects and cultural resources. Members discussed asking Council about a historic district and a budget line item, and elected Ken Halliday chair and Dan Brown vice chair. The Meyer's Barn project was also updated.
+  where: Townwide
+  refs:
+  - 0
+  - 1
+  - 5
+  - 6
+  topics:
+  - Historic preservation
+- title: Joint meeting with Eagle County on housing and e-bikes
+  summary: At a joint meeting, Minturn and the County discussed a Regional Housing Authority, with concerns about unoccupied homes, business costs and employee housing, and the need for a clear plan after past ballot measures. They also discussed e-bike rules, confusion over e-bike classes and youth riders.
+  where: Eagle County
+  refs:
+  - 7
+  topics:
+  - Housing
+  - Transit
+  - Government operations
+- title: Land development code definitions and Bolts Lake zoning
+  summary: The Planning Commission reviewed new definitions for the land use code, including pervious surfaces, bulk plane and affordable housing terms. Staff explained the settlement agreement and the use table for the Bolts Lake zone districts.
+  where: Townwide; Bolts Lake
+  refs:
+  - 4
+  topics:
+  - Zoning & development
+  - Housing
+- title: Silver Star Trail changes to approved plans
+  summary: Requests to change approved plans at 0024 and 0018 Silver Star Trail went to the Planning Commission on Oct. 14 and Council on Oct. 21. The 0018 item was continued to Nov. 4.
+  where: 0024 and 0018 Silver Star Trail
+  refs:
+  - 12
+  - 13
+  - 15
+  topics:
+  - Zoning & development
+- title: DDA investment and incentive policy
+  summary: The Downtown Development Authority board considered Resolution No. 02 adopting an Investment and Incentive Policy. It covers a small project matching grant program, large redevelopment projects and strategic property acquisition.
+  where: Downtown Minturn
+  refs:
+  - 8
+  - 9
+  topics:
+  - Downtown & business
+  - Economic development
+- title: Highlands parcels listing strategy and conservation options
+  summary: Council planned a discussion on a strategy for listing the Highlands parcels and conservation options, with negotiations possibly handled privately.
+  where: Highlands parcels
+  refs:
+  - 15
+  topics:
+  - Land & property
+  - Environment & climate

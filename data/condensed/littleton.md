@@ -1,9 +1,6 @@
 # littleton
 
-## [littleton#0] 2026-08-10 | Planning Commission | agenda
-- 1. Presentation - Transition StandardsAttachments:
-
-## [littleton#1] 2026-08-11 | City Council | agenda
+## [littleton#0] 2026-08-11 | City Council | agenda
 - Geneva Village Site Redevelopment Process Options Discussiona) ID# 26-150
 - 2. Presentation_Geneva Village Advisory Services
 - Utility Rate Study Results Discussion - Part 2b) ID# 26-155
@@ -13,7 +10,7 @@
 - 3. Presentation_FCS Group to City of Englewood_Nov 2022
 - 4. Presentation_SPR Governance Analysis_Hazen
 
-## [littleton#2] 2026-08-17 | Historical Preservation Commission | agenda
+## [littleton#1] 2026-08-17 | Historical Preservation Commission | agenda
 - 3. Approval of Agenda
 - 4. Minutes to be Approved
 - Certification of the April 20, 2026 Transitional & Regular Meeting Minutesa) ID# 26-093
@@ -36,7 +33,7 @@
 - 8. Presentation_HPC Res #04-2026
 - I. Community Development Staff
 
-## [littleton#3] 2026-08-18 | City Council | agenda
+## [littleton#2] 2026-08-18 | City Council | agenda
 - 3. Approval of Agenda
 - 4. Scheduled Appearances and Presentations - None
 - 6. Public Comment
@@ -80,13 +77,13 @@
 - Speakers wishing to address council as part of a public hearing will be limited to three (3) minutes and will be
 - called upon when the mayor opens the public comment portion of the hearing
 
-## [littleton#4] 2026-08-25 | City Council | agenda
+## [littleton#3] 2026-08-25 | City Council | agenda
 - 1. Presentation_BSC Basis of Design Program OptionsAttachments:
 - E-Bike and E-Motor Safety Ordinance Discussionb) ID# 26-159
 - 1. E-Bike Ordinance_DRAFT
 - 2. Presentation_E-Bikes
 
-## [littleton#5] 2026-09-01 | City Council | agenda
+## [littleton#4] 2026-09-01 | City Council | agenda
 - 3. Approval of Agenda
 - 4. Scheduled Appearances and Presentations
 - Funding grant recipient)
@@ -131,7 +128,7 @@
 - called upon when the mayor opens the public comment portion of the hearing
 - Ordinance 17-2026: An ordinance on second reading amending the city
 
-## [littleton#6] 2026-09-08 | City Council | agenda
+## [littleton#5] 2026-09-08 | City Council | agenda
 - 2. Presentation_TMB
 - Safer Streets Updateb) ID# 26-172
 - 1. Presentation_Safer Streets UpdateAttachments:
@@ -139,7 +136,7 @@
 - 1. Economic Partnership Incentive Policy - Proposed Update_Draft
 - 2. Presentation_Economic Development Strategies
 
-## [littleton#7] 2026-09-15 | City Council | agenda
+## [littleton#6] 2026-09-15 | City Council | agenda
 - 3. Approval of Agenda
 - 4. Scheduled Appearances and Presentations
 - a) South Metro Fire Rescue (John Curtis, Fire Chief; and Phil McCart, Board Director – Dist. 4)
@@ -184,7 +181,7 @@
 - Resolution 63-2026: Approving an Economic Partnership Incentive
 - Agreement between the City of Littleton, RIG Mineral LLC and Scheels All
 
-## [littleton#8] 2026-09-16 | Appeals & Adjustment Commission | agenda
+## [littleton#7] 2026-09-16 | Appeals & Adjustment Commission | agenda
 - 3. Approval of Agenda
 - 4. Minutes to be Approved
 - Certification of the April 15, 2026 transitional & regular meeting minutes of
@@ -224,27 +221,27 @@
 - I. Community Development Director
 - II. Community Development Staff
 
-## [littleton#9] 2026-09-22 | City Council | agenda
+## [littleton#8] 2026-09-22 | City Council | agenda
 - Main Street Investment Strategiesa) ID# 26-183
 - 1. Presentation_Main Street Investment StrategyAttachments:
 - 3. Presentation_2026 Littleton Residential Survey
 - 1. Presentation_ Communications UpdateAttachments:
 
-## [littleton#10] 2026-09-28 | Planning Commission | agenda
+## [littleton#9] 2026-09-28 | Planning Commission | agenda
 - Discussion for potential topics for Planning Commission joint study
 - 1. Presentation - Joint Study Session TopicsAttachments:
 - Unified Land Use Code (ULUC) Update Preview Discussionb) ID# 26-186
 - 9.28 Study Session_Planning Commission PresentationAttachments:
 
-## [littleton#11] 2026-10-06 | City Council | agenda
+## [littleton#10] 2026-10-06 | City Council | agenda
 - Charter for purpose of discussing performance evaluations for the city manager and city attorney
 
-## [littleton#12] 2026-10-13 | City Council | agenda
+## [littleton#11] 2026-10-13 | City Council | agenda
 - 2. Presentation_HPC Joint Study Session
 - Planning Commission Joint Study Session - Discussion on priorities and
 - 1. Presentation_PC Joint Study SessionAttachments:
 
-## [littleton#13] 2026-10-14 | Licensing Commission | agenda
+## [littleton#12] 2026-10-14 | Licensing Commission | agenda
 - 3. Approval of the Agenda
 - 4. Minutes to be Approved
 - Certification of the April 8, 2026 transitional & regular meeting minutesa) ID# 26-079
@@ -262,7 +259,7 @@
 - b) LC Resolution
 - 1. LC Resolution 02-2026
 
-## [littleton#14] 2026-10-20 | City Council | agenda
+## [littleton#13] 2026-10-20 | City Council | agenda
 - 3. Approval of Agenda
 - 4. Scheduled Appearances and Presentations - None
 - 6. Public Comment
@@ -312,6 +309,71 @@
 - Motion to approve minutes for the October 6, 2026, special meeting of
 - Motion to approve minutes for the October 6, 2026, regular meeting of
 
-## [littleton#15] 2026-10-27 | City Council | agenda
+## [littleton#14] 2026-10-27 | City Council | agenda
 - Geneva Village Redevelopment Advisory Team Recommendationa) ID# 26-219
 - 1. Presentation_GV RedevlopmentAttachments:
+
+## [littleton#15] 2026-11-03 | City Council | agenda
+- 3. Approval of Agenda
+- 4. Scheduled Appearances and Presentations - None
+- 6. Public Comment
+- If you wish to address city council under Public Comment, please sign -in on the public speaker form before the
+- part of public hearings on tonight ’s agenda; a separate opportunity will be provided for comment for any public
+- hearing. Each speaker is limited to three (3) minutes. We expect comments to be civil. Disrespectful or disruptive
+- behavior will not be tolerated. The city council is not authorized under the Colorado Open Meetings Law to discuss,
+- comment, or take action at this meeting on any issue raised by public comment that is not part of tonight's
+- Public Comment, or to staff to obtain additional information and report back to council as appropriate
+- Consent agenda items can be adopted by a simple motion. All ordinances must be read by title prior to a vote on
+- the motion. Any consent agenda item may be removed at the request of a council member
+- Ordinance 23-2026: An ordinance on first reading appropriating funds for
+- the 2027 annual budget for all municipal purposes of the City of Littleton,
+- adopting budgets for the enterprise funds of the City of Littleton for the
+- and amending the 2026 budget
+- a) Ordinance
+- 1. Ordinance No. 23-2026Attachments:
+- Ordinance 24-2026: An ordinance on first reading establishing the tax levy
+- b) Ordinance
+- 1. Ordinance No. 24-2026Attachments:
+- Ordinance 25-2026: An ordinance on first reading establishing the tax levy
+- Downtown Development Authority of the county of Arapahoe, State of
+- c) Ordinance
+- 1. Ordinance No. 25-2026Attachments:
+- Motion to approve minutes for the October 20, 2026, regular meeting of
+- Resolution 81-2026: Expressing support for and directing staff to take next
+- steps regarding formation of a public authority to operate the city’s jointly
+- owned wastewater treatment facility
+- a) Resolution
+- 1. Resolution No. 81-2026
+- 2. Presentation_Res. 81-2026
+- 10. Ordinances on Second Reading and Public Hearings
+- Speakers wishing to address council as part of a public hearing will be limited to three (3) minutes and will be
+- called upon when the mayor opens the public comment portion of the hearing
+- Ordinance 19-2026: An ordinance on second reading amending Title 3,
+- 1. Ordinance No. 19-2026
+- 2. South Metro Waste Diversion Plan 2025
+- 3. Environmental Stewardship Action Plan 2024
+- 4. Presentation_Ord. 19-2026
+- Ordinance 22-2026: An ordinance on second reading establishing a
+- Temporary Moratorium on the acceptance, processing, and approval of
+- applications for Data Centers and directing staff to study and recommend
+
+## [littleton#16] 2026-11-09 | Planning Commission | agenda
+- 3. Approval of Agenda
+- 4. Minutes to be Approved
+- Certification of the April 27, 2026 transitional & regular meeting minutesa) ID# 26-107
+- 5. Public Comment
+- If you wish to address the board under Public Comment, please sign -in on the public speaker form before the call
+- to order for this meeting. Public Comment is an opportunity to express opinions regarding issues that are not part
+- of public hearings on tonight ’s agenda; a separate opportunity will be provided for comment for any public
+- hearing. Each speaker is limited to three (3) minutes. We expect comments to be civil. Disrespectful or disruptive
+- behavior will not be tolerated. The board is not authorized under the Colorado Open Meetings Law to discuss,
+- comment, or take action at this meeting on any issue raised by public comment that is not part of tonight's
+- 7. Public Hearing
+- PC Resolution 09-2026: Approving a Conceptual Master Development
+- Plan for Bear Valley Bible Institute at 7926 S. Platte Canyon Road
+- a) PC Resolution
+- 1. PC Resolution No. 09 2026
+- 5. Project and Decision Criteria Narrative
+- 6. Conceptual Master Development Plan
+- 9. Presentation_PC Res. 09-2026
+- I. Community Development Director/Staff

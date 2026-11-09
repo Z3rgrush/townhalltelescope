@@ -1,51 +1,6 @@
 # sterling
 
-## [sterling#0] 2026-08-05 | City Council | minutes
-- 2. Approval of Planning Commission minutes from meeting held June 3, 2026
-- a. Review a Map Amendment for J-Tab Rentals, LLC to change the zoning on the property
-- located at 917 Hamilton Street from High density Residential (R3) to Community
-- Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting Public Works Executive Assistant
-- locate the requested auxiliary aid(s)
-
-## [sterling#1] 2026-08-05 | City Council | minutes
-- Approval of Minutes
-- Chair Nelson requested approval of the April 1 and May 6, 2026 meeting minutes. No
-- Vote: 7 yes, minutes approved
-- Chair Nelson opened the public hearing to review a conditional use request to open a
-- Director Davison confirmed application requirements have been met from Zoning
-- Ordinance, Chapter V- Conditional Use Section 502 through 504. Fees were paid; written
-- notice and Notice of public hearing were published and mailed at least 7 days prior to
-- hearing date
-- determined that Veterinary clinic or hospital is not permitted in a Medical Services (MS) in
-- zoning change of the property may be needed
-- Chair Nelson opened the public hearing and asked the representative to step forward
-- and state their name, address and reason for request. Porche Robison 22995 County
-- Road 43 Padroni, CO 80745. Ms. Robison would like to open a small veterinary clinic in
-- Commissioners discussed:
-- Zoning requirements
-- o A text amendment to allow Conditional Use requests in Medical Services
-- o A map amendment to change the zone on the property from MS to
-- Parking requirements
-- o Location has 19 parking spaces, which is sufficient for the location
-- Veterinary location on Main Street- Not an option
-- o Ms. Robison does not want to purchase existing equipment
-- Noise ordinance
-- Doug Kaufman 140 Club Road Realtor for 625-627 Holly Drive
-- Public Hearing closed at 5:59 pm. Chair Nelson asked if there were any other questions
-- Commissioners asked if fee could be waived if the applicant had to come back
-- and reapply for map or text amendment
-- recommend to the Sterling City Council the conditional approval of the conditional use
-- request from Porche Robinson to open a "Copper Gate Animal Clinic" located at 625-627
-- This motion was based on these findings: The Planning Commission cannot approve the
-- the City Council to move forward with a Map Amendment with fees waived to change the
-- zone to Community Business (CB) or move forward with a Text Amendment to allow a
-- Chair Nelson opened the public hearing. Chair Nelson asked if there were any
-- Colin Mudd Jay's Downtown Dispensary 129 N 3rd Street Unit 3
-- Colin Mudd discussed marijuana regulations with the Commissioners:
-- The Commissioners agreed to table the discussion to give the Dispensary owners time
-- Vice Chair Bedford moved to table the discussion until the next meeting The motion
-
-## [sterling#2] 2026-08-11 | City Council | minutes
+## [sterling#0] 2026-08-11 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Regular City Council Agenda – Amended 8/10/26
@@ -59,7 +14,7 @@
 - LLC for the 2026 Waterline Replacement Project #26-001
 - A. Executive Session to consider personnel matters, pursuant to C.R.S. 24-6-402(4)(f),
 
-## [sterling#3] 2026-08-11 | City Council | minutes
+## [sterling#1] 2026-08-11 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Regular City Council Agenda – Amended 8/10/26
@@ -96,7 +51,7 @@
 - the Mayor to execute the Agreement
 - C. Discussion and possible action regarding Resolution 7-6-26, Series of 2026, a Resolution
 
-## [sterling#4] 2026-08-25 | City Council | minutes
+## [sterling#2] 2026-08-25 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Council Chambers, 421 N. 4th Street
@@ -116,7 +71,7 @@
 - A Work Session will follow the regularly scheduled meeting to discuss the following topics:
 - 1. Court Fines and fees
 
-## [sterling#5] 2026-08-25 | City Council | minutes
+## [sterling#3] 2026-08-25 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Council Chambers, 421 N. 4th Street
@@ -152,7 +107,7 @@
 - Reminder that September 3rd is the CML District Meeting. Let Staff know if you plan on
 - Mayor Pro Tem Knowles requested an update regarding the downtown sidewalks. Due to
 
-## [sterling#6] 2026-09-02 | City Council | minutes
+## [sterling#4] 2026-09-02 | City Council | minutes
 - 2. Approval of Planning Commission minutes from meeting held August 5, 2026
 - Review a variance request from Jesse Mull to convert a garage to a home on the property
 - located at 728 McKinley Street
@@ -160,7 +115,7 @@
 - Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting Public Works Executive Assistant
 - locate the requested auxiliary aid(s)
 
-## [sterling#7] 2026-09-08 | City Council | minutes
+## [sterling#5] 2026-09-08 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Council Chambers, 421 N. 4th Street
@@ -174,7 +129,7 @@
 - certain city-owned real property located in Lot 4, Block 8, Platte Addition, third filing, Logan
 - A Work Session will follow the regularly scheduled meeting to discuss the following topics:
 
-## [sterling#8] 2026-09-08 | City Council | minutes
+## [sterling#6] 2026-09-08 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Council Chambers, 421 N. 4th Street
@@ -208,12 +163,12 @@
 - Zoning, Chapter VII – Special Regulations, Section 709 – Veterinary Clinics and Hospitals,
 - and Appendix A – Zoning, Chapter IV – Use Regulations, Section 402 – Schedule of permitted
 
-## [sterling#9] 2026-09-14 | City Council | agenda
+## [sterling#7] 2026-09-14 | City Council | agenda
 - 2. APPROVAL OF MINUTES FROM MAY 2026
 - A. Sterling Rural Fire District
 - B. Public Comment
 
-## [sterling#10] 2026-09-22 | City Council | minutes
+## [sterling#8] 2026-09-22 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Regular City Council Agenda Amended 9/21/2026
@@ -239,7 +194,7 @@
 - before the City of Sterling, Logan County, Colorado, approving the recommendation of the
 - Citizen’s Advisory Board to expend up to $10,000 from the Hotel Tax Fund to update and
 
-## [sterling#11] 2026-09-22 | City Council | minutes
+## [sterling#9] 2026-09-22 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Regular City Council Agenda Amended 9/21/2026
@@ -276,7 +231,7 @@
 - and reappoint Deanie VanBerg to the open positions on the Housing Authority of the City of
 - B. Discussion and possible action regarding Resolution 9-1-26, a Resolution approving a
 
-## [sterling#12] 2026-10-13 | City Council | minutes
+## [sterling#10] 2026-10-13 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Council Chambers, 421 N. 4th Street
@@ -313,13 +268,13 @@
 - There was no public comment
 - Mayor Fuller closed the Public Hearing and reopened the Regular Meeting at 6:25 PM
 
-## [sterling#13] 2026-10-13 | City Council | minutes
+## [sterling#11] 2026-10-13 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Council Chambers, 421 N. 4th Street
 - A. Executive Session to consider specialized details of security arrangements in the Council
 
-## [sterling#14] 2026-10-27 | City Council | minutes
+## [sterling#12] 2026-10-27 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Council Chambers, 421 N. 4th Street
@@ -345,7 +300,7 @@
 - of holiday lighted garland wraps and a protective storage container for West Main Street
 - A Work Session will follow the regularly scheduled meeting to discuss the following topics:
 
-## [sterling#15] 2026-10-27 | City Council | minutes
+## [sterling#13] 2026-10-27 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Council Chambers, 421 N. 4th Street

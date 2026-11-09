@@ -1,103 +1,97 @@
-- title: Clear Water Enterprises rezone (PLN26-022) for 378.5 acres of homes
-  summary: Peter Edwards/Clear Water Enterprises asked to rezone about 378.5 acres from A-35 to RES-1 for residential lots that would be served by Golden Eagle Water Company taps. The Planning Commission heard it Aug 12, and the commissioners held a public hearing Sept 15. A water attorney's opinion in the packet says the water rights and augmentation plan are adequate.
+- title: Clear Water Enterprises rezone (PLN26-022) for 378.5 acres
+  summary: Peter Edwards/Clear Water Enterprises LLC asked to rezone about 378.5 acres from A-35 to RES-1 for future residential subdivision. A water attorney's opinion says the water rights and augmentation plan (Golden Eagle Water Company, Shea Pump and Pipeline, Blue Mesa releases) can supply it. The Planning Commission heard it Aug. 12 and the commissioners held a hearing Sept. 15.
   where: Gunnison River area, Delta County
   refs:
+  - 0
   - 1
-  - 2
+  - 9
   - 10
-  - 11
   topics:
   - Zoning & development
-  - Water
   - Housing
-- title: 'Land Use Code amendments: battery storage, natural medicine and general cleanup'
-  summary: The county held public hearings on Land Use Code changes, including rules for battery energy storage systems (BESS) and natural medicine businesses. Adopting them would repeal earlier moratorium resolutions. Public comments covered temporary special events, intensive agricultural setbacks and site plan review. The Planning Commission reviewed the amendments and the commissioners moved to submit them on Oct 6.
+  - Water
+  public_comment: true
+- title: 'Land Use Code amendments: battery storage, natural medicine, and general cleanup'
+  summary: The county reworked its Land Use Code, with hearings on Sept. 1 and Sept. 15. The changes cover battery energy storage systems (BESS) and natural medicine businesses, ending earlier moratoriums, plus setbacks, site plans, temporary special events and intensive agricultural setbacks. The Planning Commission heard public comment in October, and the commissioners were set to consider adopting a resolution on Nov. 3.
   where: Countywide
   refs:
+  - 6
   - 7
-  - 8
+  - 9
   - 10
   - 11
-  - 12
+  - 14
   - 15
-  - 16
+  - 19
   topics:
   - Zoning & development
   - Energy
   - Cannabis & liquor
   public_comment: true
 - title: Concentrated animal feeding operation (CAFO) regulations working group
-  summary: On Sept 15 the commissioners considered forming a working group to review and draft changes to county land use rules for CAFOs.
+  summary: Commissioners considered forming a working group to evaluate, review and draft amendments to the county's land use rules for CAFOs.
   where: Countywide
   refs:
+  - 9
   - 10
-  - 11
   topics:
   - Agriculture & wildlife
   - Zoning & development
 - title: Proposed 2027 county budget
-  summary: The commissioners received a presentation of the proposed 2027 Delta County budget at a special meeting on Oct 13. The Assessor also presented the 2026 property assessment study, and the county is updating mileage and per diem rates starting Jan 1, 2027, which had not risen since 2008.
+  summary: The commissioners held a special meeting on Oct. 13 for a presentation of the proposed 2027 Delta County budget. Related items include updated mileage and per diem rates starting Jan. 1, 2027, which had not risen since 2008, and a county property assessment study.
   where: Countywide
   refs:
-  - 12
+  - 9
+  - 11
   - 13
-  - 14
-  - 18
+  - 17
   topics:
   - Budget & taxes
   - Government operations
-- title: Fire Mountain speed limit change and road right-of-way dedications
-  summary: The commissioners considered a speed analysis and a resolution to change the speed limit on Fire Mountain. They also took dedications of road right-of-way for Fire Mountain Road (2.03 acres), Barrow Mesa Road, H Road and Surface Creek Road, and discussed a School Bus Ahead sign on G Road west of the railroad tracks.
-  where: Fire Mountain Road, G Road, Barrow Mesa Road
+- title: Fire Mountain speed limit change
+  summary: Commissioners were to consider a speed analysis and a resolution changing the speed limit on Fire Mountain. They also looked at a driveway spacing variance (PLN26-013) off 3260 Road near Highway 92, where the standard requires 200 feet from the arterial.
+  where: Fire Mountain; 3260 Road near Highway 92
   refs:
-  - 0
-  - 7
-  - 10
+  - 16
   - 17
+  - 20
   topics:
   - Roads & traffic
-- title: Hotchkiss skate park request
-  summary: Hotchkiss resident Tanner Wilson asked the commissioners to consider a skate park in Hotchkiss, possibly at the fairgrounds, and offered to fundraise. He said families currently have to drive to other towns.
-  where: Hotchkiss / county fairgrounds
+- title: Hotchkiss skate park request at the fairgrounds
+  summary: Hotchkiss resident Tanner Wilson asked commissioners to consider a skate park at the county fairgrounds, saying families now drive to other towns. He offered to fundraise and pointed to the fairgrounds master plan.
+  where: County fairgrounds, Hotchkiss
   refs:
-  - 8
+  - 7
   topics:
   - Recreation & trails
+  - Parks & open space
   - Schools & youth
   public_comment: true
 - title: Comment letter on the 2001 Roadless Rule and Forest Service road agreement
-  summary: The commissioners discussed a county comment letter on the 2001 Roadless Rule on Sept 15. On Oct 6 they discussed a road agreement with the U.S. Forest Service.
+  summary: Commissioners discussed a county comment letter on the federal 2001 Roadless Rule on Sept. 15. On Oct. 6 they discussed a road agreement with the U.S. Forest Service.
   where: Countywide
   refs:
+  - 9
   - 10
-  - 12
+  - 11
   topics:
-  - Land & property
   - Environment & climate
   - Roads & traffic
-- title: Property tax appeals and Board of Equalization
-  summary: Acting as the Board of Equalization, the commissioners heard 2026 valuation appeals, including Lannie Yeager's property at Fruitland Mesa Road in Crawford (the value was retained at $449,341) and a stipulation for Meadow Brook Boulevard LLC. They also reviewed senior exemption applications.
-  where: Countywide
-  refs:
-  - 0
-  - 3
-  - 4
-  topics:
-  - Budget & taxes
-  public_comment: true
+  - Land & property
 - title: Portable chemical toilets policy and septic variance
-  summary: The Board of Health planned to discuss a public health policy on portable chemical toilets and a variance request for an on-site wastewater treatment system.
+  summary: The Board of Health scheduled a discussion of public health policy on portable chemical toilets and an onsite wastewater (OWTS) variance request.
   where: Countywide
   refs:
+  - 4
   - 5
-  - 6
   topics:
   - Health & human services
   - Environment & climate
 - title: Resolution supporting Amendment 83
-  summary: The commissioners considered a resolution in support of Amendment 83, a proposed constitutional right on the 2026 ballot.
+  summary: Commissioners were to consider a resolution in support of Amendment 83, a constitutional rights ballot measure.
   where: Countywide
   refs:
+  - 16
   - 17
   topics:
   - Elections

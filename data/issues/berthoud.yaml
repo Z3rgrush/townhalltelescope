@@ -1,13 +1,12 @@
 - title: Data center moratorium and land use rules
-  summary: After trustees asked on Aug. 25 for a possible moratorium, the Board adopted Ordinance 1391 on Sept. 22, an emergency measure temporarily suspending applications for large data centers. Discussion focused on the size threshold for a large data center. A Sept. 29 work session looked at a technical criteria guide and code amendments covering noise, heat and water, and staff plan to budget for a noise consultant in 2027. A study session summary was on the Oct. 27 agenda.
+  summary: On Aug. 25 trustees asked for an agenda item on a possible moratorium on data center applications. On Sept. 22 they approved Emergency Ordinance 1391 temporarily suspending acceptance, processing and approval of large data center applications, with discussion of what size counts as large. A Sept. 29 work session began a Technical Criteria Guide and possible code amendments covering noise, heat and water, and a study session summary was set for Oct. 27.
   where: Townwide
   refs:
-  - 9
+  - 7
+  - 16
   - 18
-  - 20
-  - 21
-  - 33
-  - 34
+  - 19
+  - 31
   topics:
   - Data centers
   - Zoning & development
@@ -16,136 +15,133 @@
   - data-center
   public_comment: true
 - title: Legacy Park final plat and development agreement
-  summary: The Planning Commission held a hearing on the Legacy Park final plat (south of Mountain Ave, east of Meadowlark Dr, west of S. Berthoud Pkwy) and moved to approve it. The Town Board held a hearing on Sept. 8 on the development agreement with revised vesting and phase-by-phase improvement guarantees. The silos on the site are to be removed because of asbestos.
+  summary: Planning Commission held a hearing Sept. 10 on the Legacy Park final plat south of Mountain Avenue, and approved it. The Town Board held a hearing Sept. 8 on revised vesting and improvement guarantees in the development agreement. The silos on the site will be removed because of asbestos.
   where: South of Mountain Avenue, east of Meadowlark Drive, west of S. Berthoud Parkway
   refs:
-  - 3
-  - 10
-  - 11
-  - 29
+  - 1
+  - 8
+  - 9
+  - 27
   topics:
   - Zoning & development
-  - Land & property
+  - Housing
 - title: Heron Lakes Marina neighborhood master plan
-  summary: The Planning Commission heard the Heron Lakes Marina Neighborhood Master Plan in September and recommended it to the Town Board. The Board took up a continued hearing on Resolution 2026-25 approving it on Oct. 27.
+  summary: Planning Commission heard the Heron Lakes Marina Neighborhood Master Plan on Sept. 10 and sent a recommendation to the Town Board. The Board continued its public hearing on Resolution 2026-25 approving the plan to Oct. 27.
   where: Heron Lakes Marina
   refs:
-  - 11
-  - 33
-  - 34
-  topics:
-  - Zoning & development
-- title: Rewrite of Chapter 30 land use code
-  summary: Staff introduced amendments to Chapter 30 of the Municipal Code covering impact fees, annexation, zoning, flood mitigation and other sections, including a technical guide for zoning amendments. The Planning Commission was to hold a hearing on Oct. 22 and the trustees on Nov. 10. The Planning Commission also considered the annual Three Mile Plan.
-  where: Townwide
-  refs:
-  - 30
+  - 9
   - 31
   - 32
   topics:
   - Zoning & development
-  - Annexation
-  - Fees & rates
-- title: November 3 ballot measure and bond financing
-  summary: The Board approved intergovernmental agreements with Larimer County for the Nov. 3, 2026 coordinated election and reviewed ballot language in Ordinance 1390. Trustees worried the language did not clearly say taxes would not increase, and bond counsel suggested adding wording to that effect. A resident spoke in favor of a bond to finance Mountain Vista Park.
+  - Recreation & trails
+- title: Wildfire Resiliency Code and wildland-urban interface
+  summary: The Town Board continued a hearing in September and on Oct. 13 approved Ordinance 1389 adopting the 2025 Colorado Wildfire Resiliency Code, with a mapped wildland-urban interface boundary. A cooperative agreement with the Berthoud Fire Protection District for code administration was also considered.
   where: Townwide
   refs:
-  - 2
+  - 8
+  - 24
+  topics:
+  - Fire & emergencies
+  - Zoning & development
+- title: Chapter 30 land use code rewrite
+  summary: Staff proposed amendments to Chapter 30 of the municipal code covering impact fees, annexation, zoning, flood mitigation and other sections. Planning Commission was to consider a repeal and replacement Oct. 22, with trustees hearing it Nov. 10. Also on the agenda was a discussion of Ordinance 1355 and a possible expansion of affordable housing.
+  where: Townwide
+  refs:
+  - 28
+  - 29
+  - 30
+  topics:
+  - Zoning & development
+  - Annexation
+  - Housing
+- title: November 3 ballot measure and Mountain Vista Park bond
+  summary: Trustees approved intergovernmental agreements with Larimer County for the Nov. 3 coordinated election and reviewed ballot language in Ordinance 1390. They worried it might not make clear that taxes would not increase. A resident spoke in favor of a bond to finance Mountain Vista Park.
+  where: Mountain Vista Park
+  refs:
+  - 0
+  - 5
   - 7
-  - 9
+  - 8
   topics:
   - Elections
   - Budget & taxes
   - Parks & open space
   public_comment: true
-- title: Wildfire Resiliency Code and wildland-urban interface
-  summary: After a continuance in September, the Board held a hearing and approved Ordinance 1389 adopting the 2025 Colorado Wildfire Resiliency Code. A cooperative agreement with the Berthoud Fire Protection District for administering the code was also considered. Trustees asked for a map of the wildland-urban interface boundary.
+- title: 2027 draft budget
+  summary: Administrator Kirk introduced the preliminary draft 2027 budget on Oct. 13, and a public hearing was to be set. The Board also adopted a new supplies and equipment purchasing policy and reviewed purchase authorization limits.
   where: Townwide
   refs:
-  - 10
-  - 26
-  topics:
-  - Fire & emergencies
-  - Zoning & development
-- title: 2027 preliminary budget
-  summary: Administrator Kirk introduced the preliminary 2027 draft budget on Oct. 13 and a public hearing was to be set. The Board also approved a 2026-2028 strategic plan in September and a new supplies and equipment purchasing policy.
-  where: Townwide
-  refs:
-  - 10
-  - 20
-  - 26
+  - 18
+  - 24
   topics:
   - Budget & taxes
   - Government operations
 - title: Boards and commissions ordinance 1388
-  summary: The Board adopted Ordinance 1388 consolidating rules for town boards and commissions into a new Section 4.9, with term limits and appointment procedures. Trustees added a requirement that each board review it in October and update bylaws. Committees such as Tree, Parks and Historic Preservation discussed the change and recruitment.
+  summary: Trustees adopted Ordinance 1388, consolidating rules for town boards and commissions into a new municipal code section 4.9. They asked each board to review it and update bylaws in October.
   where: Townwide
   refs:
-  - 2
+  - 0
+  - 13
   - 15
-  - 17
-  - 28
-  - 29
-  - 32
+  - 27
+  - 30
   topics:
   - Government operations
-- title: Historic preservation grants and water tower sign
-  summary: The Historic Preservation commission pursued a survey plan grant and a water tower interpretive sign. Funding for the elevated water tank interpretive sign was received. Residents asked the Board in September to support historic preservation.
-  where: Berthoud water tower
-  refs:
-  - 1
-  - 14
-  - 18
-  - 29
-  topics:
-  - Historic preservation
-  - Libraries & culture
-  public_comment: true
 - title: Welch Avenue and 9th Street road improvements
-  summary: The Board authorized a request for proposals for design of Welch Avenue roadway and drainage improvements. Staff also gave an update on challenges and planned improvements to the 9th Street crossing. A resident asked for a speed limit adjustment.
+  summary: Trustees authorized a request for proposals for design of Welch Avenue roadway and drainage improvements. They also received an update on 9th Street crossing improvements.
   where: Welch Avenue and 9th Street
   refs:
-  - 2
-  - 10
-  - 18
+  - 8
+  - 16
   topics:
   - Roads & traffic
-  public_comment: true
-- title: Parks and open space projects
-  summary: Trustees handled Jaskowski Open Space construction bids, Mountain Vista Park design changes, bike park bids, and an Eagle Vista/Front Range Trail grant letter of support. The Board also discussed an arboretum design reduction contract.
-  where: Jaskowski Open Space, Mountain Vista Park, Eagle Vista
+- title: Water share purchases and Northern Water lease
+  summary: Trustees approved contracts to buy Loveland Lake and Ditch water shares from Bebo and Hillside Commercial Group. A lease amendment with Northern Water for water was also on the agenda.
+  where: Townwide
   refs:
-  - 9
-  - 10
-  - 18
+  - 0
+  - 7
+  topics:
+  - Water
+- title: Parks, open space and trail projects
+  summary: The Board approved bids for Jaskowski Open Space construction, bike park improvements and a Mountain Vista Park design change order. A letter of support for the Eagle Vista/Front Range Trail grant was considered.
+  where: Jaskowski Open Space, Mountain Vista Park, Eagle Vista Open Space
+  refs:
+  - 7
+  - 8
+  - 16
+  - 35
   topics:
   - Parks & open space
   - Recreation & trails
-- title: Affordable housing and Ordinance 1355
-  summary: The Board scheduled a discussion of Ordinance 1355 and possible expansion of affordable housing. The Planning Commission also held a work session with the regional housing director.
-  where: Townwide
-  refs:
-  - 23
-  - 24
-  - 30
-  topics:
-  - Housing
-- title: Tree program and memorial trees
-  summary: A resident asked the Board and the Tree Advisory Committee to start a memorial tree program in Fickel Park. The committee is also pursuing grants and a fall planting plan.
+- title: Urban forest and memorial tree program
+  summary: A resident asked the Tree Advisory Committee and the Board about a program to buy memorial trees in Fickel Park. The committee also discussed grants and a fall planting plan.
   where: Fickel Park
   refs:
-  - 2
-  - 5
-  - 17
-  - 27
+  - 0
+  - 15
+  - 25
   topics:
   - Parks & open space
   - Environment & climate
   public_comment: true
-- title: Flock cameras discussion
-  summary: More than three trustees supported scheduling a future agenda item on Flock cameras.
+- title: Historic preservation grants and survey
+  summary: The Historic Preservation Advisory Commission reported funding for interpretive signage at the elevated water tank and worked on a survey plan grant from History Colorado. Residents asked the Board to support historic preservation.
+  where: Elevated water tank
+  refs:
+  - 12
+  - 16
+  - 27
+  - 37
+  topics:
+  - Historic preservation
+  public_comment: true
+- title: Regional housing discussion
+  summary: Planning Commission held a work session Oct. 8 with the Northern Colorado regional housing director on housing.
   where: Townwide
   refs:
-  - 9
+  - 21
+  - 22
   topics:
-  - Policing & public safety
+  - Housing

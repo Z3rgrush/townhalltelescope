@@ -1,45 +1,6 @@
 # minturn
 
-## [minturn#0] 2026-08-05 | Town Council | minutes
-- moderator will unmute your line and you will have five minutes for public comment
-- Public Comments: If you are unable to attend, public comments regarding any items on the
-- 3. Approval of Consent Agenda
-- previously from the council, final land-use file documents after the public hearing has been
-- B. 0136 Miles End Lane - Changes to Approved Plans
-- C. 671 Main Street - New Garage
-- Motion by Lynn F., second by Spence N., to approve the August 5, 2026 Consent
-- 4. Approval of Regular Agenda
-- Opportunity for amendment or deletions to the agenda
-- Motion by Spence N., second by Lynn F., to approve the August 5, 2026 Agenda as presented
-- 6. Public Comment
-- Agenda subject to a public hearing. Please limit your comments to five minutes per person
-- unless arrangements have been made for a presentation with the Town Clerk. Those who
-- are speaking are requested to state their name and address for the record
-- Mr. Mark Sifers, 325 Pine St., is requesting to have a letter retracted / removed from his record
-- regarding a trash can violation that he feels was not correct at a property he owns at 537 Pine
-- St. He has not yet heard back from anyone and would like resolution to this matter
-- mandatory agreement with the Colorado River Compact. The lower basin states are getting
-- project. The current projected timeline is summer 2028. However, the line
-- Rob G. and Jay B. are beginning 2027 budget conversations. We are looking
-- Rob G. attended the housing meeting today in Avon, at this point still trying to
-- housing authority
-- There was a Water Treatment Plant site visit last week, and another one will
-- be scheduled for September. There is some water line relocation still going
-- The sidewalk project has been held up due to some challenges encountered
-- with the contractor. The Town is working with CDOT to try to get this moving
-- B. Sales Tax Update
-- Jay B: Sales tax is currently about $10K down YTD, so not dramatically concerning
-- 9. Special Presentations
-- Presentations are limited to 5 minutes. Invited presentations are limited to 10 minutes if
-- A. Parking Study Findings
-- Planning Intern Jessica Copeland presented her recent parking study findings. This
-- presentation material will be included at the end of the minutes document
-- He suggested trying to do a study in the winter, especially as it relates to winter parking
-- restrictions / plowing, etc. Also in favor of marking parking spaces on Main St. if permitted by
-- It was also discussed that studying times later in the evenings may provide more data around
-- vehicles of residents who live and park on Main St. (whose vehicles are not there during the
-
-## [minturn#1] 2026-08-18 | Historic Preservation Commission | agenda
+## [minturn#0] 2026-08-18 | Historic Preservation Commission | agenda
 - moderator will unmute your line and you will have five minutes for public comment
 - Public Comments: If you are unable to attend, public comments regarding any items on the
 - 3. Approval of Regular Agenda
@@ -54,7 +15,7 @@
 - 9. Discussion / Direction Items
 - A. Historic Preservation Plan Update
 
-## [minturn#2] 2026-08-18 | Historic Preservation Commission | agenda
+## [minturn#1] 2026-08-18 | Historic Preservation Commission | agenda
 - moderator will unmute your line and you will have five minutes for public comment
 - Public Comments: If you are unable to attend, public comments regarding any items on the
 - 3. Approval of Regular Agenda
@@ -99,7 +60,7 @@
 - The Kick Off Committee completed a survey for feedback
 - nance. The survey results were reviewed and discussed at
 
-## [minturn#3] 2026-08-19 | Town Council | minutes
+## [minturn#2] 2026-08-19 | Town Council | minutes
 - moderator will unmute your line and you will have five minutes for public comment
 - Public Comments: If you are unable to attend, public comments regarding any items on the
 - 3. Approval of Consent Agenda
@@ -138,7 +99,7 @@
 - Funding for the project will be included for consideration in the FY 2027 budget
 - ACTIVE CAPITAL PROJECTS:
 
-## [minturn#4] 2026-09-09 | Planning Commission | agenda
+## [minturn#3] 2026-09-09 | Planning Commission | agenda
 - moderator will unmute your line and you will have five minutes for public comment
 - Public Comments: If you are unable to attend, public comments regarding any items on the
 - 3. Approval of Regular Agenda
@@ -153,7 +114,7 @@
 - 8. Design Review and Land Use Public Hearings
 - 9. Discussion / Direction Items
 
-## [minturn#5] 2026-09-09 | Planning Commission | agenda
+## [minturn#4] 2026-09-09 | Planning Commission | agenda
 - moderator will unmute your line and you will have five minutes for public comment
 - Public Comments: If you are unable to attend, public comments regarding any items on the
 - 3. Approval of Regular Agenda
@@ -191,7 +152,7 @@
 - or by artificial means
 - Driveway A private road that provides access to a home, garage, or other off-street area for vehicles. It
 
-## [minturn#6] 2026-09-15 | Historic Preservation Commission | agenda
+## [minturn#5] 2026-09-15 | Historic Preservation Commission | agenda
 - moderator will unmute your line and you will have five minutes for public comment
 - Public Comments: If you are unable to attend, public comments regarding any items on the
 - 3. Approval of Regular Agenda
@@ -204,7 +165,7 @@
 - A. 2026 Historic Preservation Plan
 - 9. Discussion / Direction Items
 
-## [minturn#7] 2026-09-15 | Historic Preservation Commission | agenda
+## [minturn#6] 2026-09-15 | Historic Preservation Commission | agenda
 - moderator will unmute your line and you will have five minutes for public comment
 - Public Comments: If you are unable to attend, public comments regarding any items on the
 - 3. Approval of Regular Agenda
@@ -246,7 +207,7 @@
 - of the Historic Preservation Ordinance. THIRD PUBLIC COMMITTEE MEETING
 - version of the draft ordinance, proposed to be the new
 
-## [minturn#8] 2026-09-16 | Town Council | minutes
+## [minturn#7] 2026-09-16 | Town Council | minutes
 - moderator will unmute your line and you will have five minutes for public comment
 - Public Comments: If you are unable to attend, public comments regarding any items on the
 - A. This joint meeting will provide an opportunity to discuss County-wide and Minturn
@@ -284,7 +245,7 @@
 - Opportunity for amendment or deletions to the agenda
 - Motion by Gusty K., second by Kate S., to approve the September 16, 2026 Regular Agenda as
 
-## [minturn#9] 2026-09-30 | Downtown Development Authority Board | agenda
+## [minturn#8] 2026-09-30 | Downtown Development Authority Board | agenda
 - Downtown Development Authority Board Regular Meeting | 10:00 AM
 - and should use the Chat feature to submit any questions or comments that they wish to discuss
 - 2. Approval of Regular Agenda
@@ -293,7 +254,7 @@
 - A. Resolution No. 02 - Series 2026, A Resolution Adopting an Investment and Incentive
 - 5. Discussion / Direction Items
 
-## [minturn#10] 2026-09-30 | Downtown Development Authority Board | agenda
+## [minturn#9] 2026-09-30 | Downtown Development Authority Board | agenda
 - Downtown Development Authority Board Regular Meeting | 10:00 AM
 - and should use the Chat feature to submit any questions or comments that they wish to discuss
 - 2. Approval of Regular Agenda
@@ -328,13 +289,13 @@
 - Strategic Property Acquisition ...............................................................................................................9
 - Project Evaluation Checklist ................................................................................................................11
 
-## [minturn#11] 2026-10-06 | General | agenda
+## [minturn#10] 2026-10-06 | General | agenda
 - Little Beach Park, 801 Cemetery Rd, Minturn
 - 1. Special Presentations
 - A. This event is to celebrate the opening of the new Little Beach Park Playground
 - actions will be discussed, initiated, or decided at this event
 
-## [minturn#12] 2026-10-07 | Town Council | minutes
+## [minturn#11] 2026-10-07 | Town Council | minutes
 - moderator will unmute your line and you will have five minutes for public comment
 - Public Comments: If you are unable to attend, public comments regarding any items on the
 - 3. Approval of Consent Agenda
@@ -372,7 +333,7 @@
 - regarding automated license plate readers
 - Proposed terms will return to the full Council for consideration and approval
 
-## [minturn#13] 2026-10-14 | Planning Commission | agenda
+## [minturn#12] 2026-10-14 | Planning Commission | agenda
 - moderator will unmute your line and you will have five minutes for public comment
 - Public Comments: If you are unable to attend, public comments regarding any items on the
 - 3. Approval of Regular Agenda
@@ -391,7 +352,7 @@
 - Street Single Family Residence
 - 9. Discussion / Direction Items
 
-## [minturn#14] 2026-10-21 | Town Council | agenda
+## [minturn#13] 2026-10-21 | Town Council | agenda
 - moderator will unmute your line and you will have five minutes for public comment
 - Public Comments: If you are unable to attend, public comments regarding any items on the
 - 3. Approval of Consent Agenda
@@ -419,7 +380,7 @@
 - A. USFS Special Use Permit Application for the Shooting Range - Status Update
 - C. Eagle County Sheriff's Office Service Agreement
 
-## [minturn#15] 2026-10-28 | Planning Commission | agenda
+## [minturn#14] 2026-10-28 | Planning Commission | agenda
 - moderator will unmute your line and you will have five minutes for public comment
 - Public Comments: If you are unable to attend, public comments regarding any items on the
 - 3. Approval of Regular Agenda
@@ -433,3 +394,26 @@
 - Presentations are limited to 5 minutes. Invited presentations are limited to 10 minutes if
 - 8. Design Review and Land Use Public Hearings
 - 9. Discussion / Direction Items
+
+## [minturn#15] 2026-11-04 | Town Council | agenda
+- moderator will unmute your line and you will have five minutes for public comment
+- Public Comments: If you are unable to attend, public comments regarding any items on the
+- 3. Approval of Consent Agenda
+- previously from the council, final land-use file documents after the public hearing has been
+- D. Resolution No. 52 - Series 2026, A Resolution Approving a Service Agreement with
+- 4. Approval of Regular Agenda
+- Opportunity for amendment or deletions to the agenda
+- 6. Public Comment
+- Agenda subject to a public hearing. Please limit your comments to five minutes per person
+- unless arrangements have been made for a presentation with the Town Clerk. Those who
+- are speaking are requested to state their name and address for the record
+- 9. Special Presentations
+- Presentations are limited to 5 minutes. Invited presentations are limited to 10 minutes if
+- B. Water Tank Evaluations and Design Progress on Bellm Bridge - Update from S.E.H
+- Items and/or Public Hearings listed under Business Items may be old or new and may
+- A. 0018 Silver Star Trail - Changes to Approved Plans - Continued from October 21,
+- B. FY 2027 Budget - Public Hearing
+- 11. Discussion / Direction Items
+- B. Continued Discussion Regarding the Eagle County Sheriff's Office Contract Renewal
+- C. Highlands Parcels Listing Strategy and Conservation Options
+- that may be subject to negotiations; developing strategy for negotiations; and

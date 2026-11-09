@@ -1,94 +1,91 @@
-- title: Elevation Volleyball annexation and initial zoning
-  summary: Council considered a petition to annex the Elevation Volleyball property from Arapahoe County, with initial zoning (Ordinances 2026-O-11 and O-12). Planning and Zoning reviewed the zoning on Sept 9, first reading was Sept 15, and annexation hearings were set for Oct 6.
-  where: Elevation Volleyball annexation
+- title: Elevation Volleyball annexation, initial zoning and public hearing
+  summary: The council accepted an annexation petition in August, and the Planning Commission reviewed initial zoning for the Elevation Volleyball Annexation, moving from Arapahoe County mixed-use zoning. Annexation and zoning ordinances (2026-O-11 and O-12) were set for first reading on Sept. 15 and public hearings on Oct. 6.
+  where: Elevation Volleyball Annexation
   refs:
-  - 3
+  - 2
+  - 8
   - 10
   - 12
-  - 14
   topics:
   - Annexation
   - Zoning & development
-- title: Rezoning of business park and industrial land (Fremont/Potomac, Nichols/Akron, Chester)
-  summary: Ordinance 2026-O-14 would rezone land north of East Fremont Avenue and east of Potomac Street from PUD to Employment Center – Light Industry 50. Further rezonings south of East Nichols and east of South Akron, and west of South Chester, from Business Park to Employment Center were on first reading Nov 2. Council also held a legal-advice session on regulating industrial and business parks and discussed legislative zoning opportunities.
-  where: East Fremont Ave/Potomac St; East Nichols Ave/South Akron St; South Chester St
+- title: Rezoning Fremont Avenue and Potomac Street site from PUD to light industry
+  summary: Ordinance 2026-O-14 would rezone property north of East Fremont Avenue and east of Potomac Street from Planned Unit Development to Employment Center – Light Industry 50. It went from the Planning Commission (Aug. 26) to first reading Sept. 1 and a council public hearing Sept. 15.
+  where: North of E. Fremont Ave and east of Potomac St
   refs:
+  - 4
   - 5
-  - 6
-  - 12
-  - 13
-  - 18
+  - 10
+  topics:
+  - Zoning & development
+- title: Legislative rezoning of Business Park land to Employment Center
+  summary: The city is pursuing legislative rezonings of Business Park (BP) land to Employment Center districts, with legal advice on regulating industrial and business park uses. Ordinances 2026-O-18 (south of E. Nichols Ave and east of S. Akron St) and 2026-O-19 (west of S. Chester St) were heard by the Planning Commission Nov. 4 and set for council hearings Nov. 17.
+  where: S. Akron St/E. Nichols Ave and S. Chester St areas
+  refs:
+  - 11
+  - 16
+  - 20
   - 22
   topics:
   - Zoning & development
-  - Economic development
-- title: 2027/2028 biennial budget
-  summary: The Budget Committee and Council held work sessions and budget workshops on revenues, fund balance and the City Manager's proposed 2027/2028 budget. Committee also reviewed a fee and cost analysis for general improvement districts.
+  - Land & property
+- title: 2027/2028 biennium budget
+  summary: Council and the Budget Committee reviewed revenues, fund balance and the City Manager's proposed 2027/2028 budget in September and October workshops.
+  where: Citywide
+  refs:
+  - 7
+  - 9
+  - 14
+  - 15
+  topics:
+  - Budget & taxes
+- title: Sales and use tax rate increase and November election
+  summary: In August, council considered resolutions on an intergovernmental agreement for the election and on authorizing a sales and use tax rate increase. A related ordinance (2026-O-21) amending tax provisions in the municipal code was set for hearing Nov. 17.
   where: Citywide
   refs:
   - 0
-  - 9
-  - 11
-  - 16
-  - 17
-  topics:
-  - Budget & taxes
-  - Fees & rates
-- title: Sales and use tax rate increase and election
-  summary: Resolutions in August covered an intergovernmental agreement for election administration and authorization to increase the sales and use tax rate. Ordinance 2026-O-21 amending Chapter 4 on a tax rate increase was set for hearing Nov 17.
-  where: Citywide
-  refs:
-  - 1
-  - 22
+  - 20
   topics:
   - Budget & taxes
   - Elections
 - title: Opting out of the state graywater program
-  summary: Ordinance 2026-O-15 would opt Centennial out of the state graywater program and prohibit graywater treatment works and use. It had first reading Sept 1 and a public hearing Sept 15.
+  summary: Ordinance 2026-O-15 would opt Centennial out of the state graywater program and prohibit graywater treatment works and graywater use. It had first reading Sept. 1 and a hearing Sept. 15.
   where: Citywide
   refs:
-  - 6
-  - 12
+  - 5
+  - 10
   topics:
   - Water
   - Environment & climate
 - title: Land Development Code amendments
-  summary: Planning and Zoning and Council study sessions discussed proposed amendments to the Land Development Code in October.
+  summary: Staff presented proposed Land Development Code amendments to council and the Planning Commission in October. A Nov. 4 commission item covered possible code changes on utilities.
   where: Citywide
   refs:
-  - 15
-  - 18
+  - 13
+  - 16
+  - 22
   topics:
   - Zoning & development
   - Government operations
 - title: Livable Streets residential collectors next phase
-  summary: Council discussed the next phase of the Livable Streets program for residential collector streets on Oct 20.
-  where: Residential collector streets
+  summary: Council discussed the next phase of the Livable Streets program for residential collector streets on Oct. 20.
+  where: Citywide
   refs:
-  - 20
+  - 18
   topics:
   - Roads & traffic
-- title: Changes to Investment and Budget Committees
-  summary: Ordinance 2026-O-17 would amend the rules for the city's Investment and Budget Committees, including member appointment dates, with a hearing set for Nov 17.
+- title: Housing finance bond allocation and grant-funded budget amendment
+  summary: In August council considered assigning private activity bond ceiling to the Colorado Housing and Finance Authority, and amending the 2026 budget to accept an agreement for grant funding.
   where: Citywide
   refs:
-  - 19
-  - 22
-  topics:
-  - Government operations
-- title: Grant funding agreement and housing bond allocation
-  summary: Council considered amending the 2026 budget to accept grant funding, and assigning private activity bond ceiling to the Colorado Housing and Finance Authority.
-  where: Citywide
-  refs:
-  - 3
+  - 2
   topics:
   - Housing
   - Budget & taxes
-- title: Westray Business Improvement District 2027 plan and budget
-  summary: Council considered Resolution 2026-R-32 approving the Westray Business Improvement District's 2027 operating plan and budget.
-  where: Westray BID
+- title: City manager contract and budget/investment committee changes
+  summary: Council took up a first amendment to the city manager's employment agreement and an ordinance changing the investment and budget committees, with a hearing set for Nov. 17.
+  where: Citywide
   refs:
   - 20
   topics:
-  - Downtown & business
-  - Budget & taxes
+  - Government operations

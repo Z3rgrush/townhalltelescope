@@ -2,15 +2,15 @@
  "adams-county": {
   "name": "Adams County",
   "adapter": "primegov",
-  "meetings": 41,
-  "documents": 41,
-  "ok": 41,
+  "meetings": 38,
+  "documents": 38,
+  "ok": 38,
   "failed": 0,
   "error": "",
   "log": [
-   "  41 meetings in window"
+   "  38 meetings in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "akron": {
   "name": "Akron",
@@ -21,22 +21,20 @@
   "failed": 1,
   "error": "",
   "log": [
-   "  https://www.townofakron.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 8 files in window"
+   "  https://www.townofakron.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: 8 files in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "alamosa-county": {
   "name": "Alamosa County",
   "adapter": "agendacenter",
-  "meetings": 13,
-  "documents": 13,
-  "ok": 13,
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
   "failed": 0,
-  "error": "",
-  "log": [
-   "  https://www.alamosacounty.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 18 files in window"
-  ],
-  "run": "2026-11-02"
+  "error": "RuntimeError: https://www.alamosacounty.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.alamosacounty.org', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.alamosacounty.org', port=443) at 0x749c1a53b170>, 'Connection to www.alamosacounty.org timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "alma": {
   "name": "Alma",
@@ -49,33 +47,33 @@
   "log": [
    "  http://townofalma.com/meetings/: 0 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "arapahoe-county": {
   "name": "Arapahoe County",
   "adapter": "legistar",
-  "meetings": 42,
-  "documents": 42,
-  "ok": 38,
-  "failed": 4,
+  "meetings": 39,
+  "documents": 39,
+  "ok": 34,
+  "failed": 5,
   "error": "",
   "log": [
    "  72 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "archuleta-county": {
   "name": "Archuleta County",
   "adapter": "linkscan",
-  "meetings": 7,
-  "documents": 13,
-  "ok": 11,
+  "meetings": 8,
+  "documents": 14,
+  "ok": 12,
   "failed": 2,
   "error": "",
   "log": [
    "  https://www.archuletacounty.gov/archuleta-county-co-official-website/agenda-minutes-archive/: 45 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "arriba": {
   "name": "Arriba",
@@ -88,31 +86,33 @@
   "log": [
    "  https://townofarriba.colorado.gov/town-board-meeting-minutes: 13 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "arvada": {
   "name": "Arvada",
   "adapter": "civicclerk",
-  "meetings": 28,
-  "documents": 50,
-  "ok": 47,
+  "meetings": 27,
+  "documents": 47,
+  "ok": 44,
   "failed": 3,
   "error": "",
   "log": [
-   "  53 events in window"
+   "  51 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "aspen": {
   "name": "Aspen",
   "adapter": "granicus",
-  "meetings": 25,
-  "documents": 25,
-  "ok": 24,
-  "failed": 1,
-  "error": "ReadTimeout: HTTPSConnectionPool(host='cityofaspen.granicus.com', port=443): Read timed out. (read timeout=60)",
-  "log": [],
-  "run": "2026-11-02"
+  "meetings": 34,
+  "documents": 34,
+  "ok": 32,
+  "failed": 2,
+  "error": "",
+  "log": [
+   "  38 documents in window"
+  ],
+  "run": "2026-11-09"
  },
  "aurora": {
   "name": "Aurora",
@@ -125,7 +125,7 @@
   "log": [
    "  https://www.auroratv.org/series/city-council-meetings: 33 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "avon": {
   "name": "Avon",
@@ -137,35 +137,33 @@
   "error": "",
   "log": [
    "  folder 69873: 17 documents, 4 in window with text",
-   "  folder 67538: 20 documents, 0 in window with text"
+   "  folder 67538: 21 documents, 0 in window with text"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "basalt": {
   "name": "Basalt",
   "adapter": "agendacenter",
-  "meetings": 35,
-  "documents": 36,
-  "ok": 34,
-  "failed": 2,
-  "error": "",
-  "log": [
-   "  https://www.basalt.net/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 39 files in window"
-  ],
-  "run": "2026-11-02"
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
+  "failed": 0,
+  "error": "RuntimeError: https://www.basalt.net/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.basalt.net', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.basalt.net', port=443) at 0x749c1ab73c20>, 'Connection to www.basalt.net timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "berthoud": {
   "name": "Berthoud",
   "adapter": "civicclerk",
-  "meetings": 28,
+  "meetings": 29,
   "documents": 39,
-  "ok": 35,
-  "failed": 4,
+  "ok": 36,
+  "failed": 3,
   "error": "",
   "log": [
    "  36 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "black-hawk": {
   "name": "Black Hawk",
@@ -176,22 +174,22 @@
   "failed": 6,
   "error": "",
   "log": [
-   "  https://www.cityofblackhawk.org/AgendaCenter/Search/?term=&CIDs=all&startDate=11/02/2025&endDate=11/02/2026&dateRange=&dateSelector=: 46 files in window"
+   "  https://www.cityofblackhawk.org/AgendaCenter/Search/?term=&CIDs=all&startDate=11/09/2025&endDate=11/09/2026&dateRange=&dateSelector=: 46 files in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "blue-river": {
   "name": "Blue River",
   "adapter": "civicclerk",
   "meetings": 10,
-  "documents": 16,
+  "documents": 17,
   "ok": 16,
-  "failed": 0,
+  "failed": 1,
   "error": "",
   "log": [
    "  12 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "boone": {
   "name": "Boone",
@@ -204,35 +202,35 @@
   "log": [
    "  https://boone.colorado.gov/agendas-and-minutes: 25 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "boulder": {
   "name": "Boulder",
   "adapter": "primegov",
-  "meetings": 14,
-  "documents": 14,
-  "ok": 14,
+  "meetings": 13,
+  "documents": 13,
+  "ok": 13,
   "failed": 0,
   "error": "",
   "log": [
-   "  14 meetings in window"
+   "  13 meetings in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "boulder-county": {
   "name": "Boulder County",
   "adapter": "escribe",
-  "meetings": 40,
-  "documents": 40,
-  "ok": 40,
+  "meetings": 37,
+  "documents": 37,
+  "ok": 37,
   "failed": 0,
   "error": "",
   "log": [
    "  document types: ['Agenda', 'AgendaCover', 'PostMinutes', 'Video']",
-   "  29 meetings returned, 21 kept",
-   "  19 events with descriptions in window"
+   "  26 meetings returned, 20 kept",
+   "  17 events with descriptions in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "breckenridge": {
   "name": "Breckenridge",
@@ -243,75 +241,68 @@
   "failed": 3,
   "error": "",
   "log": [
-   "  29 events in window"
+   "  30 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "brighton": {
   "name": "Brighton",
   "adapter": "legistar",
-  "meetings": 11,
-  "documents": 11,
-  "ok": 11,
+  "meetings": 10,
+  "documents": 10,
+  "ok": 10,
   "failed": 0,
   "error": "",
   "log": [
-   "  11 events in window"
+   "  10 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "broomfield": {
   "name": "Broomfield",
   "adapter": "agendacenter",
-  "meetings": 42,
-  "documents": 43,
-  "ok": 41,
-  "failed": 2,
-  "error": "",
-  "log": [
-   "  https://broomfield.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 41 files in window",
-   "  11 meeting videos with chapters in window"
-  ],
-  "run": "2026-11-02"
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
+  "failed": 0,
+  "error": "RuntimeError: https://broomfield.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='broomfield.org', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='broomfield.org', port=443) at 0x749c1abd99a0>, 'Connection to broomfield.org timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "brush": {
   "name": "Brush",
   "adapter": "linkscan",
-  "meetings": 8,
-  "documents": 8,
+  "meetings": 9,
+  "documents": 9,
   "ok": 0,
-  "failed": 8,
+  "failed": 9,
   "error": "",
   "log": [
-   "  http://www.brushcolo.com/your_city/agendas_minutes.php: 13 dated links in window"
+   "  http://www.brushcolo.com/your_city/agendas_minutes.php: 14 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "buena-vista": {
   "name": "Buena Vista",
   "adapter": "agendacenter",
-  "meetings": 42,
-  "documents": 42,
-  "ok": 35,
-  "failed": 7,
-  "error": "",
-  "log": [
-   "  http://www.buenavistaco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 60 files in window"
-  ],
-  "run": "2026-11-02"
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
+  "failed": 0,
+  "error": "RuntimeError: http://www.buenavistaco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPConnectionPool(host='www.buenavistaco.gov', port=80): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPConnection(host='www.buenavistaco.gov', port=80) at 0x749c1abbfec0>, 'Connection to www.buenavistaco.gov timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "burlington": {
   "name": "Burlington",
   "adapter": "agendacenter",
-  "meetings": 9,
-  "documents": 9,
-  "ok": 2,
-  "failed": 7,
-  "error": "",
-  "log": [
-   "  http://www.burlingtoncolo.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 14 files in window"
-  ],
-  "run": "2026-11-02"
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
+  "failed": 0,
+  "error": "RuntimeError: http://www.burlingtoncolo.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPConnectionPool(host='www.burlingtoncolo.com', port=80): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPConnection(host='www.burlingtoncolo.com', port=80) at 0x749c1908cbf0>, 'Connection to www.burlingtoncolo.com timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "calhan": {
   "name": "Calhan",
@@ -324,60 +315,58 @@
   "log": [
    "  https://www.calhan.co/services/resource_room/meeting_minutes_packets.php: 0 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "campo": {
   "name": "Campo",
   "adapter": "legistar",
-  "meetings": 16,
-  "documents": 16,
-  "ok": 16,
+  "meetings": 15,
+  "documents": 15,
+  "ok": 15,
   "failed": 0,
   "error": "",
   "log": [
-   "  16 events in window"
+   "  15 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "canon-city": {
   "name": "Ca\u00f1on City",
   "adapter": "agendacenter",
-  "meetings": 68,
-  "documents": 70,
-  "ok": 70,
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
   "failed": 0,
-  "error": "",
-  "log": [
-   "  https://www.canoncity.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 71 files in window"
-  ],
-  "run": "2026-11-02"
+  "error": "RuntimeError: https://www.canoncity.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.canoncity.org', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.canoncity.org', port=443) at 0x749c1a538b30>, 'Connection to www.canoncity.org timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "castle-pines": {
   "name": "Castle Pines",
   "adapter": "granicus",
-  "meetings": 12,
-  "documents": 12,
+  "meetings": 11,
+  "documents": 11,
   "ok": 10,
-  "failed": 2,
+  "failed": 1,
   "error": "",
   "log": [
-   "  16 documents in window"
+   "  17 documents in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "centennial": {
   "name": "Centennial",
   "adapter": "onbase",
-  "meetings": 24,
-  "documents": 24,
-  "ok": 24,
+  "meetings": 23,
+  "documents": 23,
+  "ok": 23,
   "failed": 0,
   "error": "",
   "log": [
-   "  search: 179 links, 24 meeting pages",
-   "  24 documents in window from 26 page(s)"
+   "  search: 181 links, 23 meeting pages",
+   "  23 documents in window from 25 page(s)"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "center": {
   "name": "Center",
@@ -390,33 +379,31 @@
   "log": [
    "  https://townofcenter.colorado.gov/town-government/agendas-minutes/2025-agendas-minutes: 2 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "chaffee-county": {
   "name": "Chaffee County",
   "adapter": "civicclerk",
-  "meetings": 33,
-  "documents": 55,
-  "ok": 55,
+  "meetings": 31,
+  "documents": 56,
+  "ok": 56,
   "failed": 0,
   "error": "",
   "log": [
-   "  47 events in window"
+   "  46 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "cherry-hills-village": {
   "name": "Cherry Hills Village",
   "adapter": "agendacenter",
-  "meetings": 19,
-  "documents": 19,
-  "ok": 16,
-  "failed": 3,
-  "error": "",
-  "log": [
-   "  https://www.cherryhillsvillage.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 23 files in window"
-  ],
-  "run": "2026-11-02"
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
+  "failed": 0,
+  "error": "RuntimeError: https://www.cherryhillsvillage.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.cherryhillsvillage.com', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cherryhillsvillage.com', port=443) at 0x749c181f92b0>, 'Connection to www.cherryhillsvillage.com timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "cheyenne-county": {
   "name": "Cheyenne County",
@@ -429,59 +416,59 @@
   "log": [
    "  https://www.co.cheyenne.co.us/: 0 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "clear-creek-county": {
   "name": "Clear Creek County",
   "adapter": "agendacenter",
-  "meetings": 18,
-  "documents": 19,
-  "ok": 18,
+  "meetings": 19,
+  "documents": 21,
+  "ok": 20,
   "failed": 1,
   "error": "",
   "log": [
-   "  https://www.clearcreekcounty.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 21 files in window"
+   "  https://www.clearcreekcounty.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: 22 files in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "colorado-springs": {
   "name": "Colorado Springs",
   "adapter": "legistar",
-  "meetings": 29,
-  "documents": 29,
-  "ok": 29,
+  "meetings": 30,
+  "documents": 30,
+  "ok": 30,
   "failed": 0,
   "error": "",
   "log": [
-   "  32 events in window"
+   "  33 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "columbine-valley": {
   "name": "Columbine Valley",
   "adapter": "linkscan",
-  "meetings": 12,
-  "documents": 13,
-  "ok": 13,
+  "meetings": 13,
+  "documents": 14,
+  "ok": 14,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://columbinevalley.org/board-trustee-agendas-minutes/: 37 dated links in window"
+   "  https://columbinevalley.org/board-trustee-agendas-minutes/: 38 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "commerce-city": {
   "name": "Commerce City",
   "adapter": "legistar",
-  "meetings": 101,
-  "documents": 101,
-  "ok": 101,
+  "meetings": 97,
+  "documents": 97,
+  "ok": 97,
   "failed": 0,
   "error": "",
   "log": [
-   "  111 events in window"
+   "  105 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "cortez": {
   "name": "Cortez",
@@ -494,7 +481,7 @@
   "log": [
    "  14 agendas in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "craig": {
   "name": "Craig",
@@ -507,137 +494,133 @@
   "log": [
    "  6 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "crawford": {
   "name": "Crawford",
   "adapter": "linkscan",
-  "meetings": 11,
-  "documents": 11,
-  "ok": 11,
+  "meetings": 12,
+  "documents": 12,
+  "ok": 12,
   "failed": 0,
   "error": "",
   "log": [
    "  https://townofcrawford.colorado.gov/departments/council-meetings-minutes-and-agendas: 12 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "crested-butte": {
   "name": "Crested Butte",
   "adapter": "linkscan",
-  "meetings": 20,
-  "documents": 40,
-  "ok": 22,
-  "failed": 18,
+  "meetings": 19,
+  "documents": 38,
+  "ok": 21,
+  "failed": 17,
   "error": "",
   "log": [
-   "  https://townofcrestedbutte.colorado.gov/government/town-council: 83 dated links in window"
+   "  https://townofcrestedbutte.colorado.gov/government/town-council: 80 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "dacono": {
   "name": "Dacono",
   "adapter": "agendacenter",
-  "meetings": 21,
-  "documents": 21,
-  "ok": 19,
-  "failed": 2,
-  "error": "",
-  "log": [
-   "  https://www.daconoco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 22 files in window"
-  ],
-  "run": "2026-11-02"
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
+  "failed": 0,
+  "error": "RuntimeError: https://www.daconoco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.daconoco.gov', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.daconoco.gov', port=443) at 0x749c1a4164b0>, 'Connection to www.daconoco.gov timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "de-beque": {
   "name": "De Beque",
   "adapter": "linkscan",
   "meetings": 15,
   "documents": 16,
-  "ok": 2,
-  "failed": 14,
+  "ok": 1,
+  "failed": 15,
   "error": "",
   "log": [
-   "  https://townofdebeque.colorado.gov/trustee-agendas-minutes: 31 dated links in window"
+   "  https://townofdebeque.colorado.gov/trustee-agendas-minutes: 32 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "del-norte": {
   "name": "Del Norte",
   "adapter": "linkscan",
-  "meetings": 5,
-  "documents": 7,
-  "ok": 7,
+  "meetings": 6,
+  "documents": 9,
+  "ok": 9,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://www.delnortecolorado.com/minutes-agendas/: 7 dated links in window"
+   "  https://www.delnortecolorado.com/minutes-agendas/: 9 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "delta": {
   "name": "Delta",
   "adapter": "agendacenter",
-  "meetings": 14,
-  "documents": 20,
-  "ok": 20,
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
   "failed": 0,
-  "error": "",
-  "log": [
-   "  https://www.cityofdelta.net/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 20 files in window"
-  ],
-  "run": "2026-11-02"
+  "error": "RuntimeError: https://www.cityofdelta.net/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.cityofdelta.net', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cityofdelta.net', port=443) at 0x749c1907c1d0>, 'Connection to www.cityofdelta.net timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "delta-county": {
   "name": "Delta County",
   "adapter": "civicclerk",
   "meetings": 12,
   "documents": 22,
-  "ok": 20,
-  "failed": 2,
+  "ok": 21,
+  "failed": 1,
   "error": "",
   "log": [
-   "  33 events in window"
+   "  30 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "denver": {
   "name": "Denver",
   "adapter": "legistar",
-  "meetings": 118,
-  "documents": 118,
-  "ok": 116,
+  "meetings": 117,
+  "documents": 117,
+  "ok": 115,
   "failed": 2,
   "error": "",
   "log": [
    "  139 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "dolores": {
   "name": "Dolores",
   "adapter": "linkscan",
   "meetings": 23,
   "documents": 23,
-  "ok": 16,
-  "failed": 7,
+  "ok": 18,
+  "failed": 5,
   "error": "",
   "log": [
-   "  https://townofdolores.colorado.gov/government/town-board-meetings: 50 dated links in window"
+   "  https://townofdolores.colorado.gov/government/town-board-meetings: 52 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "douglas-county": {
   "name": "Douglas County",
   "adapter": "legistar",
-  "meetings": 41,
-  "documents": 41,
-  "ok": 41,
+  "meetings": 43,
+  "documents": 43,
+  "ok": 43,
   "failed": 0,
   "error": "",
   "log": [
-   "  61 events in window"
+   "  63 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "dove-creek": {
   "name": "Dove Creek",
@@ -650,47 +633,47 @@
   "log": [
    "  https://townofdovecreek.colorado.gov/meeting-agendas: 9 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "durango": {
   "name": "Durango",
   "adapter": "onbase",
-  "meetings": 7,
-  "documents": 7,
-  "ok": 7,
+  "meetings": 8,
+  "documents": 8,
+  "ok": 8,
   "failed": 0,
   "error": "",
   "log": [
    "  search: 0 links, 0 meeting pages",
-   "  7 documents in window from 2 page(s)"
+   "  8 documents in window from 2 page(s)"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "eagle": {
   "name": "Eagle",
   "adapter": "civicclerk",
-  "meetings": 29,
-  "documents": 44,
-  "ok": 44,
+  "meetings": 31,
+  "documents": 47,
+  "ok": 47,
   "failed": 0,
   "error": "",
   "log": [
-   "  36 events in window"
+   "  38 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "eagle-county": {
   "name": "Eagle County",
   "adapter": "cablecast",
-  "meetings": 11,
-  "documents": 11,
-  "ok": 11,
+  "meetings": 12,
+  "documents": 12,
+  "ok": 12,
   "failed": 0,
   "error": "",
   "log": [
-   "  11 meeting videos with chapters in window"
+   "  12 meeting videos with chapters in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "eaton": {
   "name": "Eaton",
@@ -703,7 +686,7 @@
   "log": [
    "  2 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "edgewater": {
   "name": "Edgewater",
@@ -716,7 +699,7 @@
   "log": [
    "  40 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "el-paso-county": {
   "name": "El Paso County",
@@ -729,20 +712,20 @@
   "log": [
    "  9 meetings in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "elizabeth": {
   "name": "Elizabeth",
   "adapter": "civicclerk",
   "meetings": 21,
   "documents": 21,
-  "ok": 15,
-  "failed": 6,
+  "ok": 16,
+  "failed": 5,
   "error": "",
   "log": [
    "  22 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "empire": {
   "name": "Empire",
@@ -755,20 +738,20 @@
   "log": [
    "  https://townofempire.colorado.gov/board-of-trustees/board-of-trustees-agenda-meeting-packet-for-upcoming-meeting: 0 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "erie": {
   "name": "Erie",
   "adapter": "civicclerk",
-  "meetings": 34,
-  "documents": 46,
-  "ok": 44,
+  "meetings": 35,
+  "documents": 48,
+  "ok": 46,
   "failed": 2,
   "error": "",
   "log": [
-   "  38 events in window"
+   "  39 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "estes-park": {
   "name": "Estes Park",
@@ -782,7 +765,7 @@
    "  folder 25: 19 documents, 5 in window with text",
    "  folder 24: 21 documents, 5 in window with text"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "evans": {
   "name": "Evans",
@@ -795,7 +778,7 @@
   "log": [
    "  https://www.evanscolorado.gov/your-government/city-council/agendas-and-minutes/: 0 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "fairplay": {
   "name": "Fairplay",
@@ -808,20 +791,20 @@
   "log": [
    "  10 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "federal-heights": {
   "name": "Federal Heights",
   "adapter": "linkscan",
-  "meetings": 0,
-  "documents": 0,
-  "ok": 0,
+  "meetings": 1,
+  "documents": 1,
+  "ok": 1,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://www.fedheights.org/index.asp?SEC=%7BE66D34DF-8290-4807-83DA-3AF56D110C00%7D: 0 dated links in window"
+   "  https://www.fedheights.org/index.asp?SEC=%7BE66D34DF-8290-4807-83DA-3AF56D110C00%7D: 1 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "firestone": {
   "name": "Firestone",
@@ -834,59 +817,57 @@
   "log": [
    "  14 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "florence": {
   "name": "Florence",
   "adapter": "linkscan",
-  "meetings": 1,
-  "documents": 1,
-  "ok": 1,
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://www.cityofflorenceco.gov/: 1 dated links in window"
+   "  https://www.cityofflorenceco.gov/: 0 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "fort-collins": {
   "name": "Fort Collins",
   "adapter": "civicclerk",
-  "meetings": 18,
-  "documents": 31,
-  "ok": 31,
+  "meetings": 20,
+  "documents": 38,
+  "ok": 38,
   "failed": 0,
   "error": "",
   "log": [
-   "  19 events in window"
+   "  22 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "fort-lupton": {
   "name": "Fort Lupton",
   "adapter": "civicclerk",
-  "meetings": 19,
-  "documents": 26,
-  "ok": 23,
-  "failed": 3,
+  "meetings": 20,
+  "documents": 28,
+  "ok": 24,
+  "failed": 4,
   "error": "",
   "log": [
-   "  32 events in window"
+   "  31 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "fort-morgan": {
   "name": "Fort Morgan",
   "adapter": "agendacenter",
-  "meetings": 19,
-  "documents": 19,
-  "ok": 18,
-  "failed": 1,
-  "error": "",
-  "log": [
-   "  https://www.cityoffortmorgan.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 24 files in window"
-  ],
-  "run": "2026-11-02"
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
+  "failed": 0,
+  "error": "RuntimeError: https://www.cityoffortmorgan.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.cityoffortmorgan.com', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cityoffortmorgan.com', port=443) at 0x749c066bc260>, 'Connection to www.cityoffortmorgan.com timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "fountain": {
   "name": "Fountain",
@@ -899,7 +880,7 @@
   "log": [
    "  https://fountain.colorado.gov/government/city-council: 0 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "foxfield": {
   "name": "Foxfield",
@@ -912,33 +893,31 @@
   "log": [
    "  https://townoffoxfield.colorado.gov/node/10166: 18 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "fraser": {
   "name": "Fraser",
   "adapter": "agendacenter",
-  "meetings": 15,
-  "documents": 15,
-  "ok": 14,
-  "failed": 1,
-  "error": "",
-  "log": [
-   "  https://www.frasercolorado.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 21 files in window"
-  ],
-  "run": "2026-11-02"
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
+  "failed": 0,
+  "error": "RuntimeError: https://www.frasercolorado.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.frasercolorado.com', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.frasercolorado.com', port=443) at 0x749c0676c7a0>, 'Connection to www.frasercolorado.com timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "frederick": {
   "name": "Frederick",
   "adapter": "civicclerk",
-  "meetings": 29,
-  "documents": 50,
+  "meetings": 27,
+  "documents": 49,
   "ok": 47,
-  "failed": 3,
+  "failed": 2,
   "error": "",
   "log": [
-   "  43 events in window"
+   "  41 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "fremont-county": {
   "name": "Fremont County",
@@ -951,20 +930,20 @@
   "log": [
    "  https://fremontcountyco.gov/commissioners/meeting-agendas-and-minutes: 12 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "frisco": {
   "name": "Frisco",
   "adapter": "civicclerk",
-  "meetings": 9,
-  "documents": 18,
-  "ok": 16,
+  "meetings": 10,
+  "documents": 20,
+  "ok": 18,
   "failed": 2,
   "error": "",
   "log": [
-   "  10 events in window"
+   "  11 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "fruita": {
   "name": "Fruita",
@@ -975,22 +954,22 @@
   "failed": 4,
   "error": "",
   "log": [
-   "  https://www.fruita.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 34 files in window"
+   "  https://www.fruita.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: 34 files in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "garden-city": {
   "name": "Garden City",
   "adapter": "civicclerk",
-  "meetings": 4,
-  "documents": 4,
-  "ok": 4,
+  "meetings": 3,
+  "documents": 3,
+  "ok": 3,
   "failed": 0,
   "error": "",
   "log": [
    "  27 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "garfield-county": {
   "name": "Garfield County",
@@ -1004,7 +983,7 @@
    "  document types: ['AdditionalDocuments', 'Agenda', 'AgendaCover', 'PostMinutes', 'Video']",
    "  18 meetings returned, 17 kept"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "gilpin-county": {
   "name": "Gilpin County",
@@ -1017,25 +996,23 @@
   "log": [
    "  https://gilpincounty.colorado.gov/public-meetings/board-of-county-commissioners-bocc-meetings: 10 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "glendale": {
   "name": "Glendale",
   "adapter": "agendacenter",
-  "meetings": 7,
-  "documents": 7,
-  "ok": 5,
-  "failed": 2,
-  "error": "",
-  "log": [
-   "  https://www.glendale.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 9 files in window"
-  ],
-  "run": "2026-11-02"
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
+  "failed": 0,
+  "error": "RuntimeError: https://www.glendale.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.glendale.co.us', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.glendale.co.us', port=443) at 0x749c1ad163f0>, 'Connection to www.glendale.co.us timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "glenwood-springs": {
   "name": "Glenwood Springs",
   "adapter": "civicclerk",
-  "meetings": 11,
+  "meetings": 10,
   "documents": 13,
   "ok": 13,
   "failed": 0,
@@ -1043,20 +1020,20 @@
   "log": [
    "  13 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "golden": {
   "name": "Golden",
   "adapter": "granicus",
-  "meetings": 52,
-  "documents": 52,
-  "ok": 52,
+  "meetings": 53,
+  "documents": 53,
+  "ok": 53,
   "failed": 0,
   "error": "",
   "log": [
-   "  74 documents in window"
+   "  76 documents in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "granby": {
   "name": "Granby",
@@ -1069,59 +1046,57 @@
   "log": [
    "  7 agendas in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "grand-county": {
   "name": "Grand County",
   "adapter": "agendacenter",
-  "meetings": 25,
-  "documents": 25,
-  "ok": 11,
-  "failed": 14,
-  "error": "",
-  "log": [
-   "  https://www.co.grand.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 39 files in window"
-  ],
-  "run": "2026-11-02"
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
+  "failed": 0,
+  "error": "RuntimeError: https://www.co.grand.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.co.grand.co.us', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.co.grand.co.us', port=443) at 0x749c1a53b2c0>, 'Connection to www.co.grand.co.us timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "grand-junction": {
   "name": "Grand Junction",
   "adapter": "civicclerk",
-  "meetings": 55,
-  "documents": 84,
-  "ok": 73,
-  "failed": 11,
+  "meetings": 57,
+  "documents": 85,
+  "ok": 72,
+  "failed": 13,
   "error": "",
   "log": [
-   "  62 events in window"
+   "  63 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "grand-lake": {
   "name": "Grand Lake",
   "adapter": "civicclerk",
-  "meetings": 14,
-  "documents": 21,
-  "ok": 18,
+  "meetings": 13,
+  "documents": 19,
+  "ok": 16,
   "failed": 3,
   "error": "",
   "log": [
    "  17 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "greeley": {
   "name": "Greeley",
   "adapter": "civicclerk",
-  "meetings": 79,
-  "documents": 113,
-  "ok": 113,
+  "meetings": 82,
+  "documents": 119,
+  "ok": 119,
   "failed": 0,
   "error": "",
   "log": [
-   "  89 events in window"
+   "  93 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "green-mountain-falls": {
   "name": "Green Mountain Falls",
@@ -1134,20 +1109,20 @@
   "log": [
    "  https://greenmountainfalls.colorado.gov/government/board-of-trustees/bot-agendas-and-minutes: 36 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "greenwood-village": {
   "name": "Greenwood Village",
   "adapter": "civicclerk",
-  "meetings": 24,
-  "documents": 42,
-  "ok": 41,
+  "meetings": 23,
+  "documents": 40,
+  "ok": 39,
   "failed": 1,
   "error": "",
   "log": [
    "  56 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "grover": {
   "name": "Grover",
@@ -1156,64 +1131,59 @@
   "documents": 0,
   "ok": 0,
   "failed": 0,
-  "error": "",
-  "log": [
-   "  https://www.grover.org/AgendaCenter/Search/?term=&CIDs=all&startDate=11/02/2025&endDate=11/02/2026&dateRange=&dateSelector=: 0 files in window",
-   "  https://www.grover.org/AgendaCenter: 0 files in window"
-  ],
-  "run": "2026-11-02"
+  "error": "RuntimeError: https://www.grover.org/AgendaCenter/Search/?term=&CIDs=all&startDate=11/09/2025&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.grover.org', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=11/09/2025&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.grover.org', port=443) at 0x749c19a423f0>, 'Connection to www.grover.org timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "gunnison-county": {
   "name": "Gunnison County",
   "adapter": "agendacenter",
-  "meetings": 21,
-  "documents": 21,
-  "ok": 21,
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
   "failed": 0,
-  "error": "",
-  "log": [
-   "  https://www.gunnisoncounty.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 32 files in window"
-  ],
-  "run": "2026-11-02"
+  "error": "RuntimeError: https://www.gunnisoncounty.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.gunnisoncounty.org', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gunnisoncounty.org', port=443) at 0x749c1a538230>, 'Connection to www.gunnisoncounty.org timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "gypsum": {
   "name": "Gypsum",
   "adapter": "granicus",
-  "meetings": 8,
-  "documents": 8,
-  "ok": 8,
+  "meetings": 9,
+  "documents": 9,
+  "ok": 9,
   "failed": 0,
   "error": "",
   "log": [
-   "  13 documents in window"
+   "  14 documents in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "haxtun": {
   "name": "Haxtun",
   "adapter": "linkscan",
-  "meetings": 2,
-  "documents": 2,
-  "ok": 2,
+  "meetings": 1,
+  "documents": 1,
+  "ok": 1,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://townofhaxtun.colorado.gov/town-council: 2 dated links in window"
+   "  https://townofhaxtun.colorado.gov/town-council: 1 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "hayden": {
   "name": "Hayden",
   "adapter": "agendacenter",
-  "meetings": 13,
-  "documents": 13,
-  "ok": 8,
-  "failed": 5,
+  "meetings": 11,
+  "documents": 11,
+  "ok": 7,
+  "failed": 4,
   "error": "",
   "log": [
-   "  https://co-hayden.civicplus.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 21 files in window"
+   "  https://co-hayden.civicplus.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: 18 files in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "hillrose": {
   "name": "Hillrose",
@@ -1226,7 +1196,7 @@
   "log": [
    "  https://www.hillrosecolorado.org/: 0 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "hinsdale-county": {
   "name": "Hinsdale County",
@@ -1239,7 +1209,7 @@
   "log": [
    "  https://hinsdalecounty.colorado.gov/documents/minutes/2025-minutes: 0 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "hooper": {
   "name": "Hooper",
@@ -1252,7 +1222,7 @@
   "log": [
    "  https://townofhooper.colorado.gov/meeting-minutes-agendas: 2 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "hotchkiss": {
   "name": "Hotchkiss",
@@ -1265,33 +1235,33 @@
   "log": [
    "  https://townofhotchkiss.colorado.gov/about-the-town/board-of-trustee-minutes: 23 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "hudson": {
   "name": "Hudson",
   "adapter": "legistar",
-  "meetings": 30,
-  "documents": 30,
-  "ok": 30,
+  "meetings": 29,
+  "documents": 29,
+  "ok": 29,
   "failed": 0,
   "error": "",
   "log": [
-   "  31 events in window"
+   "  29 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "huerfano-county": {
   "name": "Huerfano County",
   "adapter": "civicclerk",
-  "meetings": 27,
-  "documents": 49,
-  "ok": 49,
+  "meetings": 29,
+  "documents": 53,
+  "ok": 53,
   "failed": 0,
   "error": "",
   "log": [
-   "  33 events in window"
+   "  35 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "hugo": {
   "name": "Hugo",
@@ -1304,20 +1274,20 @@
   "log": [
    "  https://townhugo.com/government/committee-meetings/agenda/: 37 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "idaho-springs": {
   "name": "Idaho Springs",
   "adapter": "civicclerk",
-  "meetings": 17,
-  "documents": 34,
-  "ok": 34,
+  "meetings": 16,
+  "documents": 32,
+  "ok": 32,
   "failed": 0,
   "error": "",
   "log": [
-   "  17 events in window"
+   "  16 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "ignacio": {
   "name": "Ignacio",
@@ -1330,7 +1300,7 @@
   "log": [
    "  https://townofignacio.colorado.gov/forms/informational-packets-and-handbooks: 0 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "jamestown": {
   "name": "Jamestown",
@@ -1343,34 +1313,34 @@
   "log": [
    "  https://jamestownco.org/board-of-trustees-meeting-agendas/minutes/: 0 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "jefferson-county": {
   "name": "Jefferson County",
   "adapter": "escribe",
-  "meetings": 26,
-  "documents": 26,
-  "ok": 26,
+  "meetings": 24,
+  "documents": 24,
+  "ok": 24,
   "failed": 0,
   "error": "",
   "log": [
    "  document types: ['AdditionalDocuments', 'Agenda', 'PostMinutes', 'Video']",
-   "  62 meetings returned, 27 kept"
+   "  61 meetings returned, 25 kept"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "johnstown": {
   "name": "Johnstown",
   "adapter": "civicclerk",
-  "meetings": 15,
-  "documents": 24,
-  "ok": 22,
+  "meetings": 14,
+  "documents": 22,
+  "ok": 20,
   "failed": 2,
   "error": "",
   "log": [
-   "  20 events in window"
+   "  17 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "keenesburg": {
   "name": "Keenesburg",
@@ -1383,20 +1353,20 @@
   "log": [
    "  https://www.townofkeenesburg.com/government/agendas_minutes/signed_minutes.php: 0 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "kersey": {
   "name": "Kersey",
   "adapter": "linkscan",
   "meetings": 6,
   "documents": 6,
-  "ok": 6,
-  "failed": 0,
+  "ok": 5,
+  "failed": 1,
   "error": "",
   "log": [
    "  https://www.kerseygov.com/government/agendas_minutes/index.php: 9 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "kiowa": {
   "name": "Kiowa",
@@ -1409,47 +1379,47 @@
   "log": [
    "  51 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "kit-carson-county": {
   "name": "Kit Carson County",
   "adapter": "granicus",
-  "meetings": 32,
-  "documents": 32,
-  "ok": 2,
-  "failed": 30,
+  "meetings": 31,
+  "documents": 31,
+  "ok": 4,
+  "failed": 27,
   "error": "",
   "log": [
-   "  61 documents in window"
+   "  57 documents in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "la-junta": {
   "name": "La Junta",
   "adapter": "civicclerk",
-  "meetings": 13,
+  "meetings": 14,
   "documents": 14,
   "ok": 14,
   "failed": 0,
   "error": "",
   "log": [
-   "  13 events in window"
+   "  14 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "lafayette": {
   "name": "Lafayette",
   "adapter": "linkscan",
-  "meetings": 11,
-  "documents": 18,
-  "ok": 18,
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://www.lafayetteco.gov/Archive.aspx?AMID=37: 11 dated links in window",
-   "  https://www.lafayetteco.gov/Archive.aspx?AMID=38: 7 dated links in window"
+   "  skip https://www.lafayetteco.gov/Archive.aspx?AMID=37: https://www.lafayetteco.gov/Archive.aspx?AMID=37: HTTPSConnectionPool(host='www.lafayetteco.gov', port=443): Max retries exceeded with url: /Archive.aspx?AMID=37 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.lafayetteco.gov', port=443) at 0x749c1ad457c0>, 'Connection to www.lafayetteco.gov timed out. (connect timeout=45)'))",
+   "  skip https://www.lafayetteco.gov/Archive.aspx?AMID=38: https://www.lafayetteco.gov/Archive.aspx?AMID=38: HTTPSConnectionPool(host='www.lafayetteco.gov', port=443): Max retries exceeded with url: /Archive.aspx?AMID=38 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.lafayetteco.gov', port=443) at 0x749c1ad162a0>, 'Connection to www.lafayetteco.gov timed out. (connect timeout=45)'))"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "lake-city": {
   "name": "Lake City",
@@ -1462,20 +1432,18 @@
   "log": [
    "  https://www.townoflakecityco.gov/board-of-trustees-meetings: 13 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "lake-county": {
   "name": "Lake County",
   "adapter": "agendacenter",
-  "meetings": 44,
-  "documents": 46,
-  "ok": 43,
-  "failed": 3,
-  "error": "",
-  "log": [
-   "  https://www.lakecountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 54 files in window"
-  ],
-  "run": "2026-11-02"
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
+  "failed": 0,
+  "error": "RuntimeError: https://www.lakecountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.lakecountyco.gov', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.lakecountyco.gov', port=443) at 0x749c17fe9c10>, 'Connection to www.lakecountyco.gov timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "lakewood": {
   "name": "Lakewood",
@@ -1486,23 +1454,23 @@
   "failed": 1,
   "error": "",
   "log": [
-   "  17 events in window"
+   "  16 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "lamar": {
   "name": "Lamar",
   "adapter": "linkscan",
-  "meetings": 5,
-  "documents": 7,
-  "ok": 7,
+  "meetings": 6,
+  "documents": 6,
+  "ok": 6,
   "failed": 0,
   "error": "",
   "log": [
    "  https://cityoflamar.specialdistrict.org/city-council-meetings?year=2026: 8 dated links in window",
    "  https://cityoflamar.specialdistrict.org/city-council-meetings?year=2025: 0 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "limon": {
   "name": "Limon",
@@ -1515,20 +1483,20 @@
   "log": [
    "  https://www.townoflimon.com/index.php/government/trustee-meetings/agenda: 28 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "littleton": {
   "name": "Littleton",
   "adapter": "legistar",
-  "meetings": 16,
-  "documents": 16,
-  "ok": 16,
+  "meetings": 17,
+  "documents": 17,
+  "ok": 17,
   "failed": 0,
   "error": "",
   "log": [
-   "  22 events in window"
+   "  24 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "lochbuie": {
   "name": "Lochbuie",
@@ -1541,72 +1509,70 @@
   "log": [
    "  0 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "logan-county": {
   "name": "Logan County",
   "adapter": "agendacenter",
   "meetings": 19,
   "documents": 27,
-  "ok": 17,
-  "failed": 10,
+  "ok": 18,
+  "failed": 9,
   "error": "",
   "log": [
-   "  https://www.logancountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 49 files in window"
+   "  https://www.logancountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: 50 files in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "lone-tree": {
   "name": "Lone Tree",
   "adapter": "civicweb",
-  "meetings": 17,
-  "documents": 17,
-  "ok": 17,
+  "meetings": 18,
+  "documents": 18,
+  "ok": 18,
   "failed": 0,
   "error": "",
   "log": [
-   "  17 recent meetings in window"
+   "  18 recent meetings in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "longmont": {
   "name": "Longmont",
   "adapter": "primegov",
   "meetings": 85,
   "documents": 85,
-  "ok": 76,
-  "failed": 9,
+  "ok": 77,
+  "failed": 8,
   "error": "",
   "log": [
    "  87 meetings in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "louisville": {
   "name": "Louisville",
   "adapter": "civicclerk",
-  "meetings": 43,
+  "meetings": 44,
   "documents": 95,
-  "ok": 90,
-  "failed": 5,
+  "ok": 91,
+  "failed": 4,
   "error": "",
   "log": [
    "  60 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "lyons": {
   "name": "Lyons",
   "adapter": "agendacenter",
-  "meetings": 49,
-  "documents": 56,
-  "ok": 54,
-  "failed": 2,
-  "error": "",
-  "log": [
-   "  https://townoflyons.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 70 files in window"
-  ],
-  "run": "2026-11-02"
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
+  "failed": 0,
+  "error": "RuntimeError: https://townoflyons.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='townoflyons.com', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='townoflyons.com', port=443) at 0x749c1a9a1040>, 'Connection to townoflyons.com timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "manzanola": {
   "name": "Manzanola",
@@ -1619,33 +1585,33 @@
   "log": [
    "  https://townofmanzanola.colorado.gov/agendas-meeting-minutes/agendas: 13 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "mead": {
   "name": "Mead",
   "adapter": "civicclerk",
-  "meetings": 18,
+  "meetings": 17,
   "documents": 28,
   "ok": 25,
   "failed": 3,
   "error": "",
   "log": [
-   "  34 events in window"
+   "  33 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "meeker": {
   "name": "Meeker",
   "adapter": "linkscan",
-  "meetings": 28,
-  "documents": 33,
+  "meetings": 29,
+  "documents": 34,
   "ok": 9,
-  "failed": 24,
+  "failed": 25,
   "error": "",
   "log": [
-   "  https://townofmeeker.org/meeting-information/: 78 dated links in window"
+   "  https://townofmeeker.org/meeting-information/: 80 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "mesa-county": {
   "name": "Mesa County",
@@ -1656,50 +1622,50 @@
   "failed": 0,
   "error": "",
   "log": [
-   "  search: 245 links, 41 meeting pages",
-   "  25 documents in window from 43 page(s)"
+   "  search: 249 links, 42 meeting pages",
+   "  25 documents in window from 44 page(s)"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "milliken": {
   "name": "Milliken",
   "adapter": "civicclerk",
   "meetings": 22,
-  "documents": 49,
-  "ok": 49,
+  "documents": 52,
+  "ok": 52,
   "failed": 0,
   "error": "",
   "log": [
-   "  33 events in window"
+   "  34 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "minturn": {
   "name": "Minturn",
   "adapter": "civicclerk",
   "meetings": 14,
-  "documents": 21,
+  "documents": 22,
   "ok": 16,
-  "failed": 5,
+  "failed": 6,
   "error": "",
   "log": [
    "  17 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "moffat-county": {
   "name": "Moffat County",
   "adapter": "linkscan",
-  "meetings": 7,
-  "documents": 7,
-  "ok": 6,
+  "meetings": 6,
+  "documents": 6,
+  "ok": 5,
   "failed": 1,
   "error": "",
   "log": [
-   "  https://moffatcounty.colorado.gov/government/elected-officials/county-commissioners/county-commissioner-meetings: 1 dated links in window",
+   "  https://moffatcounty.colorado.gov/government/elected-officials/county-commissioners/county-commissioner-meetings: 0 dated links in window",
    "  https://moffatcounty.colorado.gov/2026-bocc-meeting-minutes: 6 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "montezuma": {
   "name": "Montezuma",
@@ -1712,7 +1678,7 @@
   "log": [
    "  https://www.townofmontezuma.com/: 0 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "montezuma-county": {
   "name": "Montezuma County",
@@ -1723,87 +1689,85 @@
   "failed": 2,
   "error": "",
   "log": [
-   "  https://montezumacounty.gov/calendarsminutes/boccminutes/: 71 dated links in window"
+   "  https://montezumacounty.gov/calendarsminutes/boccminutes/: 72 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "montrose": {
   "name": "Montrose",
   "adapter": "civicclerk",
   "meetings": 21,
-  "documents": 30,
-  "ok": 30,
+  "documents": 28,
+  "ok": 28,
   "failed": 0,
   "error": "",
   "log": [
    "  30 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "montrose-county": {
   "name": "Montrose County",
   "adapter": "granicus",
-  "meetings": 22,
-  "documents": 22,
-  "ok": 22,
+  "meetings": 21,
+  "documents": 21,
+  "ok": 21,
   "failed": 0,
   "error": "",
   "log": [
-   "  29 documents in window"
+   "  26 documents in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "monument": {
   "name": "Monument",
   "adapter": "civicclerk",
   "meetings": 16,
-  "documents": 24,
-  "ok": 22,
-  "failed": 2,
+  "documents": 23,
+  "ok": 20,
+  "failed": 3,
   "error": "",
   "log": [
    "  16 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "morgan-county": {
   "name": "Morgan County",
   "adapter": "linkscan",
   "meetings": 8,
-  "documents": 23,
-  "ok": 22,
-  "failed": 1,
+  "documents": 19,
+  "ok": 19,
+  "failed": 0,
   "error": "",
   "log": [
-   "  https://morgancounty.colorado.gov/elected-officials/commissioners/2026-agendas-and-minutes: 23 dated links in window"
+   "  https://morgancounty.colorado.gov/elected-officials/commissioners/2026-agendas-and-minutes: 19 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "morrison": {
   "name": "Morrison",
   "adapter": "agendacenter",
-  "meetings": 18,
-  "documents": 22,
-  "ok": 19,
-  "failed": 3,
-  "error": "",
-  "log": [
-   "  https://www.morrisonco.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 27 files in window"
-  ],
-  "run": "2026-11-02"
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
+  "failed": 0,
+  "error": "RuntimeError: https://www.morrisonco.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.morrisonco.us', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.morrisonco.us', port=443) at 0x749c19e37b60>, 'Connection to www.morrisonco.us timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "mountain-view": {
   "name": "Mountain View",
   "adapter": "legistar",
-  "meetings": 55,
-  "documents": 55,
-  "ok": 55,
+  "meetings": 62,
+  "documents": 62,
+  "ok": 62,
   "failed": 0,
   "error": "",
   "log": [
-   "  60 events in window"
+   "  66 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "nederland": {
   "name": "Nederland",
@@ -1816,20 +1780,20 @@
   "log": [
    "  12 recent meetings in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "new-castle": {
   "name": "New Castle",
   "adapter": "civicclerk",
-  "meetings": 22,
-  "documents": 30,
-  "ok": 29,
-  "failed": 1,
+  "meetings": 23,
+  "documents": 29,
+  "ok": 26,
+  "failed": 3,
   "error": "",
   "log": [
    "  26 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "northglenn": {
   "name": "Northglenn",
@@ -1842,20 +1806,20 @@
   "log": [
    "  https://webdocs.northglenn.org/: 0 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "norwood": {
   "name": "Norwood",
   "adapter": "linkscan",
-  "meetings": 20,
-  "documents": 20,
-  "ok": 20,
+  "meetings": 21,
+  "documents": 21,
+  "ok": 21,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://www.norwoodtown.com/board-of-trustees-meetings: 20 dated links in window"
+   "  https://www.norwoodtown.com/board-of-trustees-meetings: 21 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "nunn": {
   "name": "Nunn",
@@ -1868,7 +1832,7 @@
   "log": [
    "  https://townofnunn.colorado.gov/government/town-board-meeting-minutes-and-agendas: 34 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "oak-creek": {
   "name": "Oak Creek",
@@ -1881,7 +1845,7 @@
   "log": [
    "  9 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "olney-springs": {
   "name": "Olney Springs",
@@ -1894,7 +1858,7 @@
   "log": [
    "  https://townofolneysprings.colorado.gov/agendas-town-council: 0 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "ophir": {
   "name": "Ophir",
@@ -1907,46 +1871,44 @@
   "log": [
    "  https://townofophir.colorado.gov/planning-and-zoning: 9 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "ordway": {
   "name": "Ordway",
   "adapter": "linkscan",
-  "meetings": 12,
-  "documents": 12,
-  "ok": 8,
+  "meetings": 13,
+  "documents": 13,
+  "ok": 9,
   "failed": 4,
   "error": "",
   "log": [
-   "  https://townofordway.colorado.gov/minutes-and-agendas: 12 dated links in window"
+   "  https://townofordway.colorado.gov/minutes-and-agendas: 13 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "ouray-county": {
   "name": "Ouray County",
   "adapter": "agendacenter",
-  "meetings": 8,
-  "documents": 8,
-  "ok": 6,
-  "failed": 2,
-  "error": "",
-  "log": [
-   "  https://ouraycountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 10 files in window"
-  ],
-  "run": "2026-11-02"
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
+  "failed": 0,
+  "error": "RuntimeError: https://ouraycountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='ouraycountyco.gov', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='ouraycountyco.gov', port=443) at 0x749c1a7c6a20>, 'Connection to ouraycountyco.gov timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "pagosa-springs": {
   "name": "Pagosa Springs",
   "adapter": "civicclerk",
-  "meetings": 34,
-  "documents": 41,
-  "ok": 41,
+  "meetings": 36,
+  "documents": 45,
+  "ok": 45,
   "failed": 0,
   "error": "",
   "log": [
-   "  36 events in window"
+   "  38 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "palisade": {
   "name": "Palisade",
@@ -1959,33 +1921,33 @@
   "log": [
    "  https://palisade.colorado.gov/events/board-of-trustees-regular-meeting-10/13/2026: 2 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "palmer-lake": {
   "name": "Palmer Lake",
   "adapter": "civicclerk",
   "meetings": 24,
   "documents": 36,
-  "ok": 30,
-  "failed": 6,
-  "error": "",
-  "log": [
-   "  32 events in window"
-  ],
-  "run": "2026-11-02"
- },
- "paonia": {
-  "name": "Paonia",
-  "adapter": "civicclerk",
-  "meetings": 28,
-  "documents": 45,
-  "ok": 39,
-  "failed": 6,
+  "ok": 31,
+  "failed": 5,
   "error": "",
   "log": [
    "  31 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
+ },
+ "paonia": {
+  "name": "Paonia",
+  "adapter": "civicclerk",
+  "meetings": 27,
+  "documents": 44,
+  "ok": 39,
+  "failed": 5,
+  "error": "",
+  "log": [
+   "  30 events in window"
+  ],
+  "run": "2026-11-09"
  },
  "parachute": {
   "name": "Parachute",
@@ -1998,33 +1960,31 @@
   "log": [
    "  24 documents in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "park-county": {
   "name": "Park County",
   "adapter": "agendacenter",
-  "meetings": 50,
-  "documents": 53,
-  "ok": 45,
-  "failed": 8,
-  "error": "",
-  "log": [
-   "  https://www.parkcountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 66 files in window"
-  ],
-  "run": "2026-11-02"
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
+  "failed": 0,
+  "error": "RuntimeError: https://www.parkcountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.parkcountyco.gov', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.parkcountyco.gov', port=443) at 0x749c194cf710>, 'Connection to www.parkcountyco.gov timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "parker": {
   "name": "Parker",
   "adapter": "civicclerk",
-  "meetings": 29,
-  "documents": 38,
-  "ok": 36,
-  "failed": 2,
+  "meetings": 28,
+  "documents": 33,
+  "ok": 32,
+  "failed": 1,
   "error": "",
   "log": [
-   "  38 events in window"
+   "  37 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "phillips-county": {
   "name": "Phillips County",
@@ -2037,7 +1997,7 @@
   "log": [
    "  https://phillipscounty.colorado.gov/departments/county-commissioners/agendas/2026-agendas: 9 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "pitkin": {
   "name": "Pitkin",
@@ -2050,7 +2010,7 @@
   "log": [
    "  https://townofpitkin.colorado.gov/documents/approved-meeting-minutes: 7 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "platteville": {
   "name": "Platteville",
@@ -2063,7 +2023,7 @@
   "log": [
    "  https://platteville.colorado.gov/agendas-and-minutes: 16 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "poncha-springs": {
   "name": "Poncha Springs",
@@ -2074,22 +2034,22 @@
   "failed": 0,
   "error": "",
   "log": [
-   "  20 events in window"
+   "  21 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "pueblo": {
   "name": "Pueblo",
   "adapter": "civicclerk",
-  "meetings": 27,
-  "documents": 38,
-  "ok": 35,
+  "meetings": 30,
+  "documents": 42,
+  "ok": 39,
   "failed": 3,
   "error": "",
   "log": [
-   "  28 events in window"
+   "  30 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "pueblo-county": {
   "name": "Pueblo County",
@@ -2100,9 +2060,9 @@
   "failed": 0,
   "error": "",
   "log": [
-   "  77 events in window"
+   "  75 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "rangely": {
   "name": "Rangely",
@@ -2115,7 +2075,7 @@
   "log": [
    "  https://townofrangely.colorado.gov/departments/administrative-services/town-council/meeting-dates-board-packets: 8 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "red-cliff": {
   "name": "Red Cliff",
@@ -2128,7 +2088,7 @@
   "log": [
    "  https://townofredcliff.colorado.gov/government/2023-records/2023-meeting-agendas: 0 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "rico": {
   "name": "Rico",
@@ -2141,7 +2101,7 @@
   "log": [
    "  https://townofrico.colorado.gov/government/board-of-trustees: 6 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "ridgway": {
   "name": "Ridgway",
@@ -2154,7 +2114,7 @@
   "log": [
    "  https://townofridgway.colorado.gov/i-want-to/ridgway-town-council: 38 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "rifle": {
   "name": "Rifle",
@@ -2165,9 +2125,9 @@
   "failed": 5,
   "error": "",
   "log": [
-   "  17 events in window"
+   "  18 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "rio-blanco-county": {
   "name": "Rio Blanco County",
@@ -2180,7 +2140,7 @@
   "log": [
    "  https://www.rbc.us/: 0 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "rockvale": {
   "name": "Rockvale",
@@ -2193,46 +2153,44 @@
   "log": [
    "  https://townofrockvale.colorado.gov/town-government/town-board-meetings-documents: 13 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "routt-county": {
   "name": "Routt County",
   "adapter": "agendacenter",
-  "meetings": 32,
-  "documents": 32,
-  "ok": 32,
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
   "failed": 0,
-  "error": "",
-  "log": [
-   "  https://www.co.routt.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 35 files in window"
-  ],
-  "run": "2026-11-02"
+  "error": "RuntimeError: https://www.co.routt.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.co.routt.co.us', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.co.routt.co.us', port=443) at 0x749c17f4e1b0>, 'Connection to www.co.routt.co.us timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "rye": {
   "name": "Rye",
   "adapter": "linkscan",
-  "meetings": 3,
-  "documents": 3,
-  "ok": 3,
+  "meetings": 2,
+  "documents": 2,
+  "ok": 2,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://townofrye.colorado.gov/meeting-agendas/2025-meeting-agendas: 3 dated links in window"
+   "  https://townofrye.colorado.gov/meeting-agendas/2025-meeting-agendas: 2 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "salida": {
   "name": "Salida",
   "adapter": "civicclerk",
-  "meetings": 13,
-  "documents": 20,
-  "ok": 20,
+  "meetings": 12,
+  "documents": 18,
+  "ok": 18,
   "failed": 0,
   "error": "",
   "log": [
-   "  23 events in window"
+   "  22 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "san-juan-county": {
   "name": "San Juan County",
@@ -2245,20 +2203,20 @@
   "log": [
    "  https://sanjuancounty.colorado.gov/meetings: 24 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "san-miguel-county": {
   "name": "San Miguel County",
   "adapter": "civicclerk",
-  "meetings": 24,
-  "documents": 36,
-  "ok": 36,
+  "meetings": 26,
+  "documents": 39,
+  "ok": 39,
   "failed": 0,
   "error": "",
   "log": [
-   "  26 events in window"
+   "  28 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "severance": {
   "name": "Severance",
@@ -2271,20 +2229,18 @@
   "log": [
    "  15 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "sheridan": {
   "name": "Sheridan",
   "adapter": "agendacenter",
-  "meetings": 21,
-  "documents": 21,
-  "ok": 21,
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
   "failed": 0,
-  "error": "",
-  "log": [
-   "  https://ci.sheridan.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 29 files in window"
-  ],
-  "run": "2026-11-02"
+  "error": "RuntimeError: https://ci.sheridan.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='ci.sheridan.co.us', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='ci.sheridan.co.us', port=443) at 0x749c181f8200>, 'Connection to ci.sheridan.co.us timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "silt": {
   "name": "Silt",
@@ -2297,59 +2253,57 @@
   "log": [
    "  https://www.townofsilt.org/board_of_trustees_agendas_minutes: 15 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "silver-cliff": {
   "name": "Silver Cliff",
   "adapter": "agendacenter",
-  "meetings": 23,
-  "documents": 24,
-  "ok": 11,
-  "failed": 13,
-  "error": "",
-  "log": [
-   "  https://www.silvercliffco.com/AgendaCenter/Search/?term=&CIDs=all&startDate=11/02/2025&endDate=11/02/2026&dateRange=&dateSelector=: 51 files in window"
-  ],
-  "run": "2026-11-02"
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
+  "failed": 0,
+  "error": "RuntimeError: https://www.silvercliffco.com/AgendaCenter/Search/?term=&CIDs=all&startDate=11/09/2025&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.silvercliffco.com', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=11/09/2025&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.silvercliffco.com', port=443) at 0x749c194ce240>, 'Connection to www.silvercliffco.com timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "silver-plume": {
   "name": "Silver Plume",
   "adapter": "linkscan",
   "meetings": 8,
   "documents": 8,
-  "ok": 7,
-  "failed": 1,
+  "ok": 6,
+  "failed": 2,
   "error": "",
   "log": [
-   "  https://silverplumetown.com/agendas-and-minutes/: 13 dated links in window"
+   "  https://silverplumetown.com/agendas-and-minutes/: 16 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "snowmass-village": {
   "name": "Snowmass Village",
   "adapter": "civicclerk",
-  "meetings": 29,
-  "documents": 48,
-  "ok": 46,
+  "meetings": 30,
+  "documents": 51,
+  "ok": 49,
   "failed": 2,
   "error": "",
   "log": [
-   "  36 events in window"
+   "  38 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "starkville": {
   "name": "Starkville",
   "adapter": "civicclerk",
-  "meetings": 12,
-  "documents": 19,
-  "ok": 18,
-  "failed": 1,
+  "meetings": 16,
+  "documents": 21,
+  "ok": 21,
+  "failed": 0,
   "error": "",
   "log": [
    "  18 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "steamboat-springs": {
   "name": "Steamboat Springs",
@@ -2363,98 +2317,98 @@
    "  search: 0 links, 0 meeting pages",
    "  20 documents in window from 2 page(s)"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "sterling": {
   "name": "Sterling",
   "adapter": "linkscan",
-  "meetings": 9,
-  "documents": 20,
-  "ok": 16,
+  "meetings": 8,
+  "documents": 18,
+  "ok": 14,
   "failed": 4,
   "error": "",
   "log": [
-   "  http://www.sterlingcolo.com/government/council_boards_and_commissions_agendas_and_minutes.php: 21 dated links in window"
+   "  http://www.sterlingcolo.com/government/council_boards_and_commissions_agendas_and_minutes.php: 19 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "summit-county": {
   "name": "Summit County",
   "adapter": "civicweb",
-  "meetings": 6,
-  "documents": 6,
-  "ok": 6,
+  "meetings": 4,
+  "documents": 4,
+  "ok": 4,
   "failed": 0,
   "error": "",
   "log": [
-   "  6 recent meetings in window"
+   "  4 recent meetings in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "superior": {
   "name": "Superior",
   "adapter": "civicclerk",
-  "meetings": 29,
-  "documents": 32,
-  "ok": 32,
+  "meetings": 30,
+  "documents": 33,
+  "ok": 33,
   "failed": 0,
   "error": "",
   "log": [
-   "  54 events in window"
+   "  56 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "teller-county": {
   "name": "Teller County",
   "adapter": "civicclerk",
-  "meetings": 18,
-  "documents": 32,
-  "ok": 31,
+  "meetings": 17,
+  "documents": 29,
+  "ok": 28,
   "failed": 1,
   "error": "",
   "log": [
-   "  19 events in window"
+   "  18 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "telluride": {
   "name": "Telluride",
   "adapter": "civicweb",
-  "meetings": 38,
-  "documents": 39,
-  "ok": 37,
+  "meetings": 36,
+  "documents": 37,
+  "ok": 35,
   "failed": 2,
   "error": "",
   "log": [
-   "  39 recent meetings in window"
+   "  37 recent meetings in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "thornton": {
   "name": "Thornton",
   "adapter": "primegov",
   "meetings": 41,
   "documents": 41,
-  "ok": 40,
-  "failed": 1,
+  "ok": 39,
+  "failed": 2,
   "error": "",
   "log": [
-   "  44 meetings in window"
+   "  43 meetings in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "timnath": {
   "name": "Timnath",
   "adapter": "civicweb",
-  "meetings": 14,
-  "documents": 14,
-  "ok": 14,
+  "meetings": 13,
+  "documents": 13,
+  "ok": 13,
   "failed": 0,
   "error": "",
   "log": [
-   "  14 recent meetings in window"
+   "  13 recent meetings in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "washington-county": {
   "name": "Washington County",
@@ -2467,7 +2421,7 @@
   "log": [
    "  https://washingtoncounty.colorado.gov/2026-agendas: 12 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "weld-county": {
   "name": "Weld County",
@@ -2480,7 +2434,7 @@
   "log": [
    "  24 meeting pages in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "wellington": {
   "name": "Wellington",
@@ -2493,7 +2447,7 @@
   "log": [
    "  21 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "westcliffe": {
   "name": "Westcliffe",
@@ -2506,20 +2460,20 @@
   "log": [
    "  https://townofwestcliffe.colorado.gov/town-board-of-trustees-meetings: 37 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "westminster": {
   "name": "Westminster",
   "adapter": "primegov",
-  "meetings": 17,
-  "documents": 17,
-  "ok": 17,
+  "meetings": 16,
+  "documents": 16,
+  "ok": 16,
   "failed": 0,
   "error": "",
   "log": [
-   "  17 meetings in window"
+   "  16 meetings in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "williamsburg": {
   "name": "Williamsburg",
@@ -2532,59 +2486,57 @@
   "log": [
    "  https://townofwilliamsburg.colorado.gov/board-agendas: 27 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "windsor": {
   "name": "Windsor",
   "adapter": "civicclerk",
-  "meetings": 40,
-  "documents": 58,
-  "ok": 58,
+  "meetings": 43,
+  "documents": 67,
+  "ok": 67,
   "failed": 0,
   "error": "",
   "log": [
-   "  46 events in window"
+   "  49 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "winter-park": {
   "name": "Winter Park",
   "adapter": "granicus",
-  "meetings": 14,
-  "documents": 14,
-  "ok": 14,
+  "meetings": 15,
+  "documents": 15,
+  "ok": 15,
   "failed": 0,
   "error": "",
   "log": [
-   "  24 documents in window"
+   "  25 documents in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "woodland-park": {
   "name": "Woodland Park",
   "adapter": "civicclerk",
   "meetings": 16,
-  "documents": 21,
-  "ok": 13,
+  "documents": 20,
+  "ok": 12,
   "failed": 8,
   "error": "",
   "log": [
    "  36 events in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "wray": {
   "name": "Wray",
   "adapter": "agendacenter",
-  "meetings": 6,
-  "documents": 6,
-  "ok": 6,
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
   "failed": 0,
-  "error": "",
-  "log": [
-   "  http://www.cityofwray.org/AgendaCenter/Search/?term=&CIDs=all&startDate=11/02/2025&endDate=11/02/2026&dateRange=&dateSelector=: 11 files in window"
-  ],
-  "run": "2026-11-02"
+  "error": "RuntimeError: http://www.cityofwray.org/AgendaCenter/Search/?term=&CIDs=all&startDate=11/09/2025&endDate=11/09/2026&dateRange=&dateSelector=: HTTPConnectionPool(host='www.cityofwray.org', port=80): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=11/09/2025&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPConnection(host='www.cityofwray.org', port=80) at 0x749c19a1c980>, 'Connection to www.cityofwray.org timed out. (connect timeout=45)'))",
+  "log": [],
+  "run": "2026-11-09"
  },
  "yuma": {
   "name": "Yuma",
@@ -2597,7 +2549,7 @@
   "log": [
    "  https://cityofyuma.colorado.gov/agendas: 17 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  },
  "yuma-county": {
   "name": "Yuma County",
@@ -2610,6 +2562,6 @@
   "log": [
    "  https://yumacounty.colorado.gov/board-meetings: 23 dated links in window"
   ],
-  "run": "2026-11-02"
+  "run": "2026-11-09"
  }
 }

@@ -1,112 +1,106 @@
-- title: Triangle Bikeway East Design alignment and opposition
-  summary: The TCC and Executive Board were asked to endorse a technical alignment for the Triangle Bikeway East Design Project to carry forward to 30% design. At the November 2025 board meeting, a resident spoke against the project, citing mining regulations, zoning and active lawsuits on the property.
-  where: Triangle Bikeway East corridor, Wake County
+- title: 2055 Metropolitan Transportation Plan and Capital Blvd/US 1 North tolling
+  summary: CAMPO held public hearings on the 2055 Metropolitan Transportation Plan, with the Board approving the draft in November 2025 and final adoption set for February. Staff recommended removing the U-5307 Capital Blvd/US 1 North project as a tolled project, reversing the Board's earlier action authorizing tolling to speed it up.
+  where: Capital Boulevard / US 1 North, Wake County
   refs:
-  - 1
+  - 0
+  - 2
+  topics:
+  - Roads & traffic
+  - Government operations
+  public_comment: true
+- title: Triangle Bikeway East design alignment
+  summary: The TCC and Executive Board were asked to endorse a technical alignment for the Triangle Bikeway East to carry forward to 30% design. A resident spoke against the project in November, citing mining regulations, zoning and active lawsuits on the property.
+  where: Triangle Bikeway corridor, Wake County
+  refs:
+  - 0
+  - 11
   - 12
-  - 13
   topics:
   - Recreation & trails
   - Land & property
-  - Roads & traffic
+  - Lawsuits & legal
   public_comment: true
-- title: Capital Boulevard/US 1 North (U-5307) project and tolling
-  summary: The board discussed accelerating the Capital Blvd./US 1 North project, including its earlier action authorizing tolling. The 2055 transportation plan was recommended for approval subject to removing U-5307 as a tolled project. An outside speaker praised NCDOT and CAMPO for speeding it up.
-  where: Capital Boulevard / US 1 North, Raleigh area
-  refs:
-  - 1
-  topics:
-  - Roads & traffic
-  - Budget & taxes
-  public_comment: true
-- title: 2055 Metropolitan Transportation Plan adoption
-  summary: The Executive Board approved the draft 2055 MTP/CTP project list in November 2025 and held public hearings, with final adoption planned for February 2026. A resident at the January hearing called the plan good and asked that safety be emphasized.
-  where: Regionwide (CAMPO area)
-  refs:
-  - 1
-  - 3
-  topics:
-  - Roads & traffic
-  - Transit
-  - Government operations
-  public_comment: true
-- title: Wake Transit Plan 2035, Bus Plan and annual work plans
-  summary: CAMPO committees reviewed the Recommended 2035 Wake Transit Plan, which aims for routes running 365 days a year, plus quarterly amendments and the FY 2027 Wake Transit Work Plan. The board approved a Wake Bus Plan 2035 contract with Nelson\Nygaard, and a public hearing on the FY 2027 work plan was held in May 2026. A vehicle rental tax revenue footnote was debated.
+- title: FY 2027 Wake Transit Work Plan and Wake Bus Plan 2035
+  summary: The draft and recommended FY 2027 Wake Transit Work Plan went through public hearings and TCC and Board approval in May and June. The Board also approved a Wake Bus Plan 2035 contract with Nelson\Nygaard in January, and a speaker in November backed the 2035 Wake Transit Plan.
   where: Wake County
   refs:
   - 0
-  - 1
-  - 3
-  - 5
-  - 7
+  - 2
+  - 6
+  - 10
   - 11
   - 12
-  - 13
   topics:
   - Transit
   - Budget & taxes
   public_comment: true
-- title: Triangle Mobility Hub preferred alternative
-  summary: GoTriangle sought approval of the Locally Preferred Alternative for the Triangle Mobility Hub. After a public hearing where comments generally supported the project, the Executive Board moved to approve it in June 2026. The Triangle West board approved it the day before.
+- title: Regional Transit Technology Plan
+  summary: The TCC and Executive Board approved the Regional Transit Technology Plan as a guiding document for future transit technology investment. It covers real-time passenger information, integrated payments, data standards and an open data portal, and an extra 30-day comment period drew no comments.
+  where: Regionwide (Triangle)
+  refs:
+  - 5
+  - 6
+  topics:
+  - Transit
+  - Government operations
+- title: Triangle Mobility Hub locally preferred alternative
+  summary: GoTriangle sought approval of the Locally Preferred Alternative for the Triangle Mobility Hub. After a public hearing in June, where comments generally supported the project, the Executive Board moved to approve it. The Triangle West board approved it the day before.
   where: Triangle region
   refs:
-  - 10
-  - 12
-  - 13
-  topics:
-  - Transit
-  - Roads & traffic
-  public_comment: true
-- title: Project cost estimates and delivery deadline for NCDOT-funded projects
-  summary: NCDOT now requires a certified cost estimate (CSCE) for prioritized projects, with a September 30, 2027 target for all projects. CAMPO has 27 projects needing plans, and officials tracked Division 4 and 5 projects such as the Western Boulevard tunnel and NC 42. The chair asked for more frequent updates.
-  where: Regionwide (CAMPO area)
-  refs:
-  - 2
-  - 3
-  - 10
-  topics:
-  - Roads & traffic
-  - Budget & taxes
-  - Government operations
-- title: Local roads and greenways funding (LAPP) including Crabtree Creek Greenway
-  summary: Raleigh requested additional funding for the Crabtree Creek Greenway at Lassiter Mill, requiring a 50/50 match, with bids due February 10, 2026. The FFY 2027 LAPP funded 19 submitted projects, including Rolesville, Holly Springs Road and Smith Creek Greenway, and planning began for the FFY 2028 call for projects in August 2026.
-  where: Crabtree Creek Greenway at Lassiter Mill, Raleigh; other Wake County sites
-  refs:
-  - 4
-  - 5
-  - 7
-  - 12
-  - 15
-  topics:
-  - Recreation & trails
-  - Roads & traffic
-  - Budget & taxes
-- title: Bonus allocation projects and TIP amendments (NC 540, RDU interchange)
-  summary: 'The board selected 16 NC 540 bonus allocation projects, including a new two-lane Neuse River bridge and the Benson Road and Poole Road work, and added them in TIP Amendment #3. The amendment also added an RDU-funded interchange at Aviation Boulevard and National Park, and removed a Cary trails project. Amendment #4 had a hearing in August 2026.'
-  where: Johnston and Wake counties; Aviation Blvd at National Park Drive, RDU
-  refs:
-  - 8
   - 9
   - 11
-  - 13
-  - 15
+  - 12
   topics:
-  - Roads & traffic
-  - Airports
-  - Budget & taxes
-- title: NCDOT resurfacing and safety improvements in Johnston County
-  summary: NCDOT Division 5 briefed the TCC on resurfacing, bridge replacements and the Angier Bypass (scheduled April 2028). CAMPO staff asked whether local funds could widen FY 2028 resurfacing projects to add intersection improvements, and were told it was possible but timing was unclear.
-  where: Johnston County
+  - Transit
+  public_comment: true
+- title: FFY 2027 LAPP projects and Crabtree Creek Greenway funding
+  summary: CAMPO reviewed 19 submitted projects for FFY 2027 Locally Administered Projects Program funding and recommended the top roadway projects, including Rolesville at Riley Hill and Holly Springs Road. Raleigh also requested additional funding for the Crabtree Creek Greenway at Lassiter Mill, which requires a 50/50 match. The FFY 2028 target modal mix and call for projects are coming in August 2026.
+  where: Wake County; Crabtree Creek Greenway at Lassiter Mill, Raleigh
   refs:
+  - 3
+  - 4
+  - 6
+  - 11
   - 14
   topics:
   - Roads & traffic
-- title: Regional Transit Technology Plan
-  summary: The TCC and Executive Board approved the Regional Transit Technology Plan as a guiding document for future technology investment, covering real-time passenger information, integrated payments and open data. No public comments were received.
+  - Recreation & trails
+  - Budget & taxes
+- title: NC 540 bonus allocation projects and TIP amendments
+  summary: 'CAMPO worked with NCDOT Division 5 to refine costs for 16 projects selected for the NC 540 bonus allocation, including a Neuse River bridge and Benson Road widening. They were included in TIP Amendment #3, approved after a May public hearing with no public comments received. The amendment also added an RDU interchange project at Aviation Boulevard and removed a Cary trail project. Amendment #4 is up for a public hearing in August.'
+  where: Johnston and Wake Counties; Aviation Blvd, RDU
+  refs:
+  - 7
+  - 8
+  - 10
+  - 12
+  - 14
+  topics:
+  - Roads & traffic
+  - Airports
+- title: NCDOT cost estimate requirement and project delivery deadline
+  summary: NCDOT is requiring cost estimates (CSCE) for prioritized projects, with all to be completed by September 30, 2027. CAMPO has 27 projects programmed that need plans to meet the deadline. TCC members questioned the status of projects such as the Western Boulevard Tunnel, and the Chair asked for more frequent updates.
   where: Regionwide
   refs:
+  - 1
+  - 2
+  - 9
+  topics:
+  - Roads & traffic
+  - Government operations
+- title: FAST Transit and Wake BRT corridor projects
+  summary: Consultants presented FAST Transit concepts such as transit priority lanes on Blue Ridge Road and options on I-540 and I-40. The Wake BRT update noted that Raleigh has had difficulty getting bids on the New Bern Avenue project, which is under construction.
+  where: New Bern Avenue, Blue Ridge Road, I-40, I-540
+  refs:
+  - 5
   - 6
-  - 7
   topics:
   - Transit
-  - Government operations
+  - Roads & traffic
+- title: NCDOT Division resurfacing and safety projects
+  summary: NCDOT Division 5 and 6 staff briefed the TCC on resurfacing and safety projects, including the Angier Bypass, scheduled for April 2028. CAMPO staff asked whether FY 2028 resurfacing projects could be expanded to add intersection improvements through LAPP.
+  where: Johnston County and Wake County
+  refs:
+  - 13
+  topics:
+  - Roads & traffic

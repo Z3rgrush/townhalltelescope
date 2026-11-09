@@ -1,0 +1,573 @@
+ 
+BOARD OF DIRECTORS 
+MEETING AGENDA 
+______________________________________________________________________________ 
+Location:  Mountain Media Center E-470 Board of Directors 
+                   8900 Liberty Circle Chair – Council Member Francoise Bergan (Aurora) 
+                   Englewood, CO 80112 Vice-Chair – Council Member John Diak (Parker) 
+Date:       November 5 2026   Secretary – Jeﬀ Baker, Commissioner (Arapahoe County)  
+Time:       9:00 a.m.              Treasurer – Steve Douglas, Mayor (Commerce City) 
+_____________________________________________________________________________________ 
+PLEASE NOTE ALL MEMBERS OF THE PUBLIC ARE WELCOME TO PARTICIPATE VIRTUALLY VIA THE FOLLOWING: 
+Join the meeting now 
+Meeting ID: 223 853 915 455 44 
+Passcode: tW95mK36 
+Dial in by phone 
++1 424-566-7556,568911431# United States, Beverly Hills 
+Find a local number 
+Phone conference ID: 568 911 431# 
+ 
+Agenda Details: 
+1. Call to Order .................................................................................................. Chair Francoise Bergan 
+2. Pledge of Allegiance ...................................................................................... Chair Francoise Bergan 
+3. Public Comment ............................................................................................ Chair Francoise Bergan 
+4. Consent Calendar .......................................................................................... Chair Francoise Bergan 
+a. Meeting Minutes of October 8, 2026 
+b. CDM Smith Task Order 
+5. Finance Department.................................................................................................Joe McClaﬀerty 
+a. CLA 2026 Audit Planning and Schedule 
+b. Quarterly Financial Update 
+6. Operations and Customer Experience Department .............................................. Anjie Vescera 
+a. WSP Contract Amendment 
+b. MMC Lease Amendment  
+c. Terracare Contract Amendment 
+d. Colorado State Patrol Q3 Stats 
+7. Executive Director Report .................................................................................. Joe Donahue 
+8. Other Business .............................................................................................. Chair Francoise Bergan 
+9. Adjourn Meeting ........................................................................................... Chair Francoise Bergan 
+
+ 
+The next anticipated E-470 Board of Directors Board Meeting will be on December 10, 2026 at  
+9:00 a.m. at the Mountain Media Center, 8900 Liberty Circle, Englewood, CO 80112 
+ 
+Please Note:  In Person Attendance, other than Board Members, is not permitted at the Mountain 
+Media Center 
+ 
+Please use the link at the top of the agenda to join virtually 
+ 
+4a. Meeting Minutes of October 8, 2026 
+RECORD OF PROCEEDINGS 
+ 
+RECORD OF PROCEEDINGS 
+ MINUTES OF THE WORKSHOP MEETING OF THE BOARD OF DIRECTORS 
+ 
+OF THE 
+ 
+E-470 PUBLIC HIGHWAY AUTHORITY 
+  
+ Held: Thursday, October 8 , 2026, at 8:00 A. M., at 22470 East Stephen D. Hogan 
+Parkway, Aurora, Colorado and virtually via Microsoft Teams as specified in the 
+meeting agenda.  
+  
+Attendance: A workshop meeting of the Board of Directors of the E-470 Public Highway Authority 
+was held as scheduled and in accordance with applicable statutes of the State of 
+Colorado, with the following directors present: 
+ 
+Francoise Bergan, Councilmember City of Aurora 
+John Diak, Councilmember Town of Parker 
+Steve Douglas, Mayor City of Commerce City 
+Tom Green, Councilmember City of Brighton 
+Jeff Baker, Arapahoe County Commissioner  
+Devin Byrd, Councilmember City of Thornton 
+Emma Pinter, Adams County Commissioner  
+ 
+Deborah Mulvey, DRCOG (non-voting) 
+Kathleen Chandler, RTD (non-voting) 
+Alecia Brown, City of Lone Tree (non-voting) 
+Katie Peterson, City and County of Broomfield (non-voting) 
+Sharon Davis, City of Arvada (non-voting)  
+  
+ Also present were:  Lloyd Worth, Councilmember, City of Brighton (alternate); Rocky 
+Teter, Councilmember City of Commerce City (alternate);  Julie Duran Mullican, 
+Adams County Commissioner (alternate); Chris Russell, Councilmember, City of 
+Thornton (alternate ); Michael Ablaczny, Product Manager –  OTX Prodfolio,  Tracy 
+Allen, Risk and Compliance Coordinator, Nick Badraun, D irector of C ustomer 
+Experience, Brian Barr, Data and Enterprise Applications, Judy Batenburg, Senior 
+Director of Technical Services, Amy Bell, Senior Director of Marketing and PR, Jim 
+Brady, Director of Construction , Jon Campbell, Lane Systems Technical Manager, 
+Helen Chan, Program Manager,  Natalie Claytor Minoli, Senior Program Manager, 
+Shelby Costello, C ommunications and P ublic Affairs Supervisor, Wanda DeV argas, 
+Director of R oadway Maintenance, Ryan Dole, Manager of Budgeting and Financial 
+Analysis, Joe Donahue, E xecutive Director, Jeff Evans, Senior Director of Field 
+Operations, Kathy Frangiskakis, MAST Operations Coordinator, Laura Gott, Finance 
+Specialist, Mike Hancock, Director of Operations, Jimmy Herrera, Service Desk 
+Technician III, Don Huff, Procurement Administrator, Pat Hughes, Director Financial 
+Planning and Analysis, Becki Keator, Director of Product,  Brandi Kemper, Permit 
+Supervisor, Aline Koop, Executive Assistant, Jacob Kramer, Director of Human 
+Resources, Diane Lundquist, Executive Assistant, Joe McClafferty, Chief Financial 
+Officer, Scott McNab, Service Desk Technician I, David Mullen, Communications 
+Coordinator, Maddie Meyers, Program Manager, Aaron Schilz , IT Service Desk 
+Technician, Shashi Shamarao, Senior Director of Software Engineering, Michelle 
+Schrode, HR S pecialist, Whitney Smith, Product Manager, Brianna Summers, 
+Controller/Director of Fiscal Services, Curtis Templeman, Construction Engineer, Neil 
+Thomson, Deputy Executive Director – Chief Engineer, Ryan Thornton, Senior 
+Systems Manager, Jenson Thottian, Head of Software Eng ineering, Tricia Trujillo, 
+Senior Customer Experience and Program Manager, Dave Vari, Enterprise Architect,  
+Anjie V escera, Deputy Executive Director – Chief Operations Officer, Chuck Weiss, 
+Director of Engineering, Blake Williams, Operations Manager, E-470 Public Highway 
+Authority; Tim Stewart, Randi Oldham, Atkins Realis; Trooper Dinkel, Eden Brantley, 
+Colorado State Patrol; Robert Orban, Chloe Gose, HNTB; Fernando Molina, Doug 
+Stremel, Jacobs Engineering Group; Andrew Ma, Robyn Moore, Piper Sandler; Stacy 
+Mast, Stifel; Natalie Stiffler, WSP; Sarah Templeman, member of the public; and 
+Tamara Seaver, Shannon Smith Johnson, Icenogle Seaver Pogue, P.C.  
+  
+Call to Order: Councilmember Bergan, noting the presence of a quorum of the directors, called the 
+Board meeting to order at 8:01 A.M.  
+  
+Pledge of 
+Allegiance: 
+Councilmember Bergan led all present in the Pledge of Allegiance. 
+  
+Public Comment: None. 
+  
+Consent Calendar: Commissioner Baker moved approval of the consent agenda, comprising meeting 
+minutes of September 10 , 2026. The motion was seconded by Councilmember Byrd 
+and unanimously approved by the Board. 
+  
+Engineering and 
+Roadway 
+Maintenance 
+Department: 
+ 
+E470/I-70 
+Interchange 
+NEPA RFP:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FHU Road 
+Widening 
+Contract 
+Amendment 2: 
+Mr. Weiss addressed the Board and reviewed E470/I-70 Interchange NEPA RFP.  He 
+reported on the history of the I -70 NEPA process culminating in the current RFP.  He 
+then reviewed the RFP process and the bidders, and the results of the procurement 
+process.  He then provided details regarding the top 3 proposers’ rankings, with Jacobs 
+Engineering Group, Inc. being the staff recommendation for contract award.  Mr. Weiss 
+then reviewed the contract terms and the Task Order 1 scope.  Councilmember Diak 
+inquired about the finality of this portion of the NEPA process and Mr. Weiss responded. 
+ 
+Councilmember Diak moved that the Board approve the award of Contract No. EN-26-
+I70-1 to provide environmental assessment reevaluation and preliminary design 
+services to Jacobs Engineering Group, Inc. with a Task Order 1 not-to-exceed amount 
+of $500,000, and to authorize the Executive Director to execute the same, subject to  
+review and approval of General Counsel. The motion was seconded by Commissioner 
+Baker and unanimously approved by the Board. 
+ 
+Mr. Templeman addressed the Board and reviewed the FHU Road Widening Design 
+Contract Amendment 2 . He noted the current progress for the project and forecast 
+completion by 2028.  He reminded the Board of the scope of project and the substance 
+of the proposed amendment.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Concrete 
+Pavement 
+Maintenance 
+Contract:  
+Commissioner Baker moved that the Board approve Amendment 2 to the FHU Contract 
+EN-25-WDES-1 to provide engineering design services for the road widening project 
+in the amount of $749,000, with a revised not-to-exceed contract amount of $8,202,000, 
+and to authorize the Executive Di rector to execute the same, subject to review and 
+approval of General Counsel.  The motion was seconded by Mayor Douglas and 
+unanimously approved by the Board.  
+ 
+Mr. Templeman then reviewed history regarding the Pavement Maintenance Contract 
+RFP resulting in no proposals due to the complexity of the work and the limited scope.  
+Accordingly, he reported that Flatiron was engaged to perform some emergency repairs 
+and thereafter Authority staff engaged in negotiations with Flatiron to continue t o 
+perform pavement maintenance.  Mr. Templeman reviewed the terms of the proposed 
+contract with the Board.  Commissioner Baker inquired regarding the competitive 
+bidding process and Ms. Seaver responded regarding the Authority’s processes and 
+related legal matters. Mayor Douglas inquired about the war ranties and Mr. Brady 
+responded.  Director Chandler commented on the engineering team’s innovative 
+problem solving. 
+ 
+Mayor Douglas moved that the Board approve the Flatiron Dragados Constructors Inc. 
+Contract EN-26-CONC-1 to provide concrete pavement maintenance services, with a 
+three-year not-to-exceed contract amount of  $1,500,000 and authorize the Executive 
+Director to execute the same, subject to review and approval of General Counsel. The 
+motion was seconded by Commissioner Baker and unanimously approved by the 
+Board. 
+  
+Information 
+Technology 
+Department:  
+ 
+ITIV Pool 
+Update:  
+Ms. Batenburg addressed the Board and provided background and detail regarding the 
+ITIV (information technology infrastructure) Pool.  She reviewed the metrics of the 
+pool and the goal to expand the vendor pool size to minimize business risk.  She 
+reported regarding the recent RFQ and the evaluations of the proposers noting 10 
+vendors were selected for the pool. She provided detail regarding the vendors and staff 
+recommendations regarding the same.  Mayor Douglas inquired regarding the pool size 
+and Ms. Batenburg responded.   
+ 
+Commissioner Pinter moved that the Board approve (i) Adding the following vendors 
+to the existing ITIV vendor pool with no increase to the 2026 not -to-exceed 
+compensation amount for the ITIV vendor pool already approved by the Board of 
+Directors: Akkodis, CDW Government, LongView, Optiv, Talent Acquisition L LC 
+d/b/a Stand8, Tevora, and World Wide Technology;  (ii) Entering into the necessary 
+master service agreements with the following ITIV vendor pool of Advanced Network 
+Management, Akkodis, CDW Government, ePlus Technology, LongView, Optiv, Talent 
+Acquisition LLC d/b/a Stand8, Tevora, Trace 3, and World Wide Technology for a term 
+through December 31, 2029, and authorizing the Executive Director to execute the 
+master services agreements subject to the review and approval of the final contract 
+terms by General Counsel; and (iii) The combined total not -to-exceed compensation 
+amount of  $6,000,000 for work to be performed under the various master services 
+agreements within the foregoing ITIV vendor pool, for the period of January 1, 2027 
+through December 31, 2027, with all future  annual total not-to-exceed compensation 
+amounts to be approved by the Board of Directors. The motion was seconded by Mayor 
+Douglas and unanimously approved by the Board. 
+  
+Operations and 
+Customer 
+Experience 
+Department: 
+ 
+DLR Group 
+Contract 
+Amendment No. 
+3:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+JHL CMGC – 
+Construction 
+Package  
+Amendment No. 
+1:  
+Mr. Hancock addressed the Board and reviewed the DLR Group Contract Amendment 
+No. 3.  He reviewed the contract history and the substance of Amendment No. 3 and 
+the associated NTE increase.  Councilmember Bergan inquired regarding the initial 
+design.    
+ 
+Councilmember Byrd moved that the Board approve Amendment No 3 to Contract 
+OTX-25-DLRG-1 with DLR Group, Inc., modifying the scope of work and increasing 
+the total not-to-exceed compensation for the contract to $1,317,707 and further that the 
+Executive Director be authorized to execute the same, subject to the review and 
+approval of General Counsel. The motion was seconded by Commissioner Baker and 
+unanimously approved by the Board. 
+ 
+Mr. Hancock reviewed with the Board the JHL CMGC – Construction Package  
+Amendment No. 1.  Mayor Douglas inquired regarding the solar panels and their energy 
+generation and benefits to the Authority from Xcel.  Mr. Hancock responded.  
+Councilmember Diak inquired about the benefits of the project for protection of the 
+Authority’s fleet vehicles and Mr. Hancock responded by reporting on the cost savings 
+related thereto.  Mr. Donahue made additional comments regarding the savings and 
+comparisons to the original solar installations on the AHF roof. 
+ 
+Mayor Douglas moved that the Board approve Construction/LLTP Package 
+Amendment No. 1 to AHF CM/GC with JHL Constructors (Contract OTX-26-CMGC-
+1) in the amount of $1,438,154 and authorize the Executive Director to execute the 
+Contract Amendment, subject to the review and approval of Ge neral Counsel.  The 
+motion was seconded by Commissioner Baker  and unanimously approved by the 
+Board. 
+  
+Executive Director 
+Report:   
+Mr. Donahue addressed the Board and provided an update on the IBTTA Global Tolling 
+Summit in Montreal, which he attended with Councilmember Bergan.  He noted the 
+next IBTTA event is the Annual Conference to be held in Arlington, TX.  He then 
+reported on hi s attendance at Member Jurisdiction governing body meetings, local 
+economic development corporations, and civil organizations.   He also noted his 
+legislative meetings and related discussions.  Mr. Donahue reported on the Parker 
+opening for Applegreen.   M r. Donahue reported regarding the 2026 E -470 
+Transportation Safety Foundation Fundraiser.  Finally, Mr. Donahue reported on being 
+asked to present at CoMotion LA 2026, a global mobility and urban innovation 
+conference bringing together transportation leaders, policymakers, investors, startups, 
+and researchers. Mr. Donahue will be on a panel discussing the challenges and 
+opportunities of procuring technology in the public sector. 
+ 
+  
+Other Business: None.  
+  
+Budget Planning 
+Workshop:  
+Mr. Donahue opened the 2027 Budget Workshop and provided an introduction 
+regarding the background for the proposed 2027 Budget and the nature of the 
+organization as well as infrastructure and technology needs.   
+ 
+2027 Budget 
+Overview:  
+ 
+Mr. McClafferty thanked all Authority staff for their work on the proposed 2027 Budget 
+and presented an overview of the Board the same. He reported on transaction volumes 
+and provided a revenue overview.  Various Board members inquired as to revenue. Mr. 
+ 
+ 
+ 
+ 
+ 
+OTX Proposed 
+2027 Budget:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Roadway and 
+Engineering 
+Department 
+Proposed 2027 
+Budget:  
+ 
+Finance 
+Department 
+Proposed 2027 
+Budget: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Executive 
+Proposed 2027 
+Budget: 
+ 
+ 
+Human 
+Resources 
+Proposed 2027 
+Budget: 
+ 
+ 
+Capital Budget 
+Overview:  
+ 
+Capital Budget – 
+Roadway 
+Projects: 
+ 
+Capital Budget – 
+OTX Projects:  
+ 
+McClafferty then provided a 2027 expense overview and reported on headcount and 
+personnel matters.  Mr. McClafferty then provided the 2027 operating budget summary, 
+debt service coverage, fund balances. He then provided a capital overview for 2027, 
+noting key projects.   
+ 
+Ms. Vescera reported on the 20 strategic initiates accomplished for 2026.  She then 
+provided the Board with an overview of the proposed OTX 2027 Budget, commencing 
+with the OTX Department’s strategic approach regarding technology modernization, 
+talent and expertise, contact center transformation, brand and organizational positioning 
+and technology-enabled operations.  Mayor Douglas and Director Brown commented 
+on the importance of live agents.  Ms. Vescera then provided an operating financial 
+summary beginning with background of the technology assessment.  Councilmember 
+Green inquired about technical debt and Mss. Vescera and Shamarao responded along 
+with Mr. Donahue.  Discussion ensued.  Ms. Vescera then discussed information 
+technology budgeting matters and operations for 2027.   
+ 
+Mr. Thomson reviewed the 2026 strategic plan initiatives delivered by the Roadway 
+and Engineering Department in 2026 and then provided the Board with the proposed 
+2027 Roadway Department 2027 Budget Overview.  He reviewed the 2027 Operating 
+Budget and then reported on Mr. Slack’s retirement.  
+ 
+ 
+Mr. McClafferty presented to the Board the proposed Finance Department 2027 Budget 
+and reviewed the department’s Fiscal Services and Financial Planning and Analysis 
+teams.   He reported on modernizing the financial system with an enterprise resources 
+planning (ERP) system, enhancing analytics, refinement of the long-range plan, capital 
+planning and funding, and strategically partnering within the organization.   Mayor 
+Douglas commented on the credit card transactions and inquired about how to get the 
+percentage paid for credit card transactions reduced.  Discussion ensued among the 
+Board members regarding alternative payment platforms and associated matters.  Mr. 
+Donahue reported on the relative level of credit card fees and associated costs of doing 
+business.   
+ 
+Mr. Donahue reviewed with the Board the proposed Executive 2027 Budget.  
+Councilmember Bergan inquired about the increase in the legal budget and Mr. 
+Donahue reported that it was largely comprised of special counsel associated with the 
+various key strategic initiatives.   
+ 
+Mr. Kramer reviewed with the Board the proposed Human Resources 2027 Budget as 
+well as Human Resources initiatives.  Mayor Douglas expressed his opinion that 
+Human Resources is the heart of the organization and very important to ensure 
+employee satisfaction.   
+ 
+ 
+Mr. McClafferty reviewed with the Board the proposed Capital 2027 Budget.  
+ 
+ 
+Mr. Thomson presented to the Board the proposed 2027 Capital Budget in light of the 
+Roadway and Engineering Department’s 2027 Capital Projects. 
+ 
+ 
+Ms. Vescera presented to the Board the proposed 2027 Capital Budget and associated 
+OTX Projects, notably including the AHF Campus Refresh, CCaaS implementation, 
+and ERP Implementation.    
+ 
+Financial 
+Summary / Wrap-
+Up:  
+ 
+Mr. McClafferty concluded the Budget Workshop by reporting on several key drivers 
+for the budget.  
+  
+Executive 
+Session: 
+Commissioner Baker moved that the Board retire into Executive Session pursuant to 
+(a) C.R.S., Section 24- 6-402(4)(f) or the purpose of discussing personnel matters 
+regarding Ms. Donahue and (b) C.R.S., Section 24 -6-402(4)(b) and Section 24- 6-
+402(4)(e) for the purposes of receiving legal advice on specific l egal questions and 
+determining positions relative to matters that may be subject to negotiations as well as 
+providing direction to negotiators regarding the Authority’s tolling services agreements 
+with Plenary Roads Denver and HPTE d/b/a CTIO.  Mayor Douglas seconded  the 
+motion, which was approved unanimously by the Board at 11:17 A.M. 
+ 
+The Board retired to the Board Conference Room for the executive session, which was 
+attended by all voting members present at the meeting, and Messrs. Thomson, Donahue, 
+and McClafferty, Councilmember  Worth ( City of Brighton Alternate), and 
+Councilmember Teter (Commerce City Alternate), and Mss. Vescera, Bell, and Seaver.  
+ 
+The executive session was adjourned by Councilmember Bergan at 12:06 A.M. and the 
+Board returned to the open session meeting.   
+  
+Adjournment: There being no further business to come before the Board, Councilmember Bergan 
+adjourned the meeting at 12:07 P.M. 
+  
+ 
+ 
+ 
+ 
+     
+Chair of the Meeting 
+ 
+ 
+Preliminary  
+E-470 2026 Calendar 
+Committee Work Sessions will be convened as needed 
+and publicly posted as prescribed by statute and 
+resolution 
+January 2026 
+January 1 New Year’s – Office Closed 
+January 15 BOARD MEETING – 9:00 A.M. Board 
+Officer Nominations and Elections 
+January 19 Martin Luther King, Jr.’s Day -Office 
+Closed 
+ 
+February 2026 
+February 12 BOARD MEETING - 9:00 A.M. 
+February 12 Executive Committee – 11:00 A.M. 
+February 26 Finance Committee – 8:30 A.M. 
+February 26 Operations Committee – 10 A.M. 
+February 26 IT Committee – 11:00 A.M. 
+February 26 Roadway Committee – 1:00 P.M. 
+ 
+March 2026 
+March 12 BOARD MEETING 9:00 A.M. 
+March 12 Executive Committee – 11:00 A.M. 
+March 26 Finance Committee – 8:30 A.M. 
+March 26 Operations Committee – 10 A.M. 
+March 26 IT Committee – 11:00 A.M. 
+March 26 Roadway Committee – 1:00 P.M. 
+ 
+April 2026 
+April 9 BOARD MEETING - 9:00 A.M. 
+April 23 Finance Committee – 8:30 A.M. 
+April 23 Operations Committee – 10 A.M. 
+April 23 IT Committee – 11:00 A.M. 
+April 23 Roadway Committee – 1:00 P.M. 
+ 
+May 2026 
+May 7 BOARD MEETING 9:00 A.M. 
+May 7 Executive Committee – 11:00 A.M. 
+May 25 Memorial Day – Office Closed 
+May 28 Finance Committee – 8:30 A.M. 
+May 28 Operations Committee – 10 A.M. 
+May 28 IT Committee – 11:00 A.M. 
+May 28 Roadway Committee – 1:00 P.M. 
+ 
+June 2026 
+June 11 BOARD MEETING 9:00 A.M. 
+June 19 Juneteenth – Office Closed 
+June 23-26 CML Conference - Westminster 
+June 25 Finance Committee – 8:30 A.M. 
+June 25 TSF Grant Check Ceremony -9:30 AM 
+June 25 Operations Committee – 10 A.M. 
+June 25 IT Committee – 11:00 A.M. 
+June 25 Roadway Committee – 1:00 P.M. 
+ 
+ 
+July 2026 
+July 3 Independence Day – Observed  
+ Office Closed 
+July 9 BOARD MEETING - 9:00 A.M. 
+July 23 Finance Committee – 8:30 A.M. 
+July 23 Operations Committee – 10 A.M. 
+July 23 IT Committee – 11:00 A.M. 
+July 23 Roadway Committee – 1:00 P.M. 
+ 
+August 2026 
+August 13 BOARD MEETING - 9:00 A.M. 
+August 13 Executive Committee – 11:00 A.M. 
+August 27 Finance Committee – 8:30 A.M. 
+August 27 Operations Committee – 10 A.M. 
+August 27 IT Committee – 11:00 A.M. 
+August 27 Roadway Committee – 1:00 P.M. 
+ 
+September 2026 
+September 7  Labor Day – Office Closed 
+September 10 Board Meeting – 9:00 A.M. 
+September 24 Finance Committee – 8:30 A.M. 
+September 24 Operations Committee – 10 A.M. 
+September 24 IT Committee – 11:00 A.M. 
+September 24 Roadway Committee – 1:00 P.M. 
+ 
+October 2026 
+October 8 BOARD WORKSHOP – 8:00 A.M. 
+October 22 Finance Committee – 8:30 A.M. 
+October 22 Operations Committee – 10 A.M. 
+October 22 IT Committee – 11:00 A.M. 
+October 22 Roadway Committee – 1:00 P.M. 
+ 
+November 2026 
+November 5 BOARD MEETING – 9:00 A.M. 
+November 5 Executive Committee – 11:00 A.M. 
+November 11 Veteran’s Day – Office Closed 
+November 12 IBTTA 94th Annual Meeting and 
+To 15 Exhibition – Arlington, Texas  
+November 19 Finance Committee – 8:30 A.M. 
+November 19 Operations Committee – 10 A.M. 
+November 19 IT Committee – 11:00 A.M. 
+November 19 Roadway Committee – 1:00 P.M. 
+November 26 Thanksgiving – Office Closed 
+ and 27 
+ 
+December 2026 
+December 10 BOARD MEETING 9:00 A.M. 
+December 10 Executive Committee – 11:00 A.M. 
+December 17 Finance Committee – 8:30 A.M. 
+December 17 Operations Committee – 10 A.M. 
+December 17 IT Committee – 11:00 A.M. 
+December 17 Roadway Committee – 1:00 P.M. 
+December 24 Christmas – Office Closed 
+and 25 

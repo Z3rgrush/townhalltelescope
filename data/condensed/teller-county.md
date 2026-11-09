@@ -1,109 +1,6 @@
 # teller-county
 
-## [teller-county#0] 2026-08-04 | General | agenda
-- 800 Research Drive. Suite 230, Woodland Park, CO
-- 9:30 AM Community Development: Moore Corporate Wellness - Amended Final Plat
-- 10:00 AM County Administrator’s Discussion Items
-- 11:00 AM Commissioners’ Discussion Items
-- Work sessions conducted by the Board of County Commissioners are informal discussions among Commissioners,
-- discussions between the Commissioners and County staff and with persons who are invited to attend to provide information
-- to the Commissioners on specific topics. Work sessions are not public hearings. Members of the public may attend work
-- sessions to listen to the discussions; however, public comment will not be taken. The Board does not take any formal actions
-
-## [teller-county#1] 2026-08-04 | General | agenda
-- 800 Research Drive. Suite 230, Woodland Park, CO
-- 9:30 AM Community Development: Moore Corporate Wellness - Amended Final Plat
-- 10:00 AM County Administrator’s Discussion Items
-- 11:00 AM Commissioners’ Discussion Items
-- Work sessions conducted by the Board of County Commissioners are informal discussions among Commissioners,
-- discussions between the Commissioners and County staff and with persons who are invited to attend to provide information
-- to the Commissioners on specific topics. Work sessions are not public hearings. Members of the public may attend work
-- sessions to listen to the discussions; however, public comment will not be taken. The Board does not take any formal actions
-- Moore-Corporate Wellness – Amended Final Plat
-- Property Owners: Darren Moore and Corporate Wellness PS, LLC (Bridget Riley)
-- Recommendation: Approval
-- The request for the Amended Final Plat to adjust the interior lot line between Lot 21 and Lot 22
-- Agreement between the property owners recorded at Reception No. 763566 on January 9, 2024
-- power from Lot 21 to Lot 22. The request will create Lot 21R and Lot 22R of Ranch Resorts of
-- Staff has determined that the submittal requirements for the Amended Final Plat have been
-- Staff recommends to the Board of County Commissioners approve the request for an Amended
-- Final Plat between Lot 21 and Lot 22 of Ranch Resorts of Colorado Subdivision No. 2
-- AMENDED FINAL PLAT
-- PROPERTY OWNERS: Darren Moore; Corporate Wellness PS LLC
-- REQUEST: Amended Final Plat
-- ZONING DISTRICT: R-1
-- STAFF: Dan Swallow, Community Development Director
-- STAFF RECOMMENDATION: Approve
-- Moore-Corporate Wellness PS LLC - Amended Final Plat
-- Attached Documents: Appendix A: Maps and Plats
-- Appendix B: Application/Narrative/Authorization
-- Appendix D: Public Comments
-- notice for a public hearing for an Amended Final Plat request
-- requires this notice to be posted at least 30 days in advance of the first hearing
-- The Pikes Peak Courier Extra, on DATE, at least 10 days prior to this public hearing in compliance
-- SUMMARY OF REQUEST
-- The request is for an Amended Final Plat to adjus
-- per the terms of the Boundary and Easement Agreement between the property owners recorded at
-- Reception 763566 on January 9, 2024. The agreement is to adjust the boundary and to create a
-- utility easement to facilitate the extension of power from Lot 21 to Lot 22. This request will create
-- Lot 22 of Ranch Resorts of Colorado Subdivision No. 2 is owned by Corporate Wellness PS, LLC
-- Ranch Resorts of Colorado Subdivision No. 2 wa s platted, approved by the Board of County
-
-## [teller-county#2] 2026-08-06 | Board of County Commisisoners | agenda
-- 112 North A Street, Cripple Creek, CO
-- 3. 9:40 Time reserved for the public without an appointment
-- First Reading of Ordinance 23 - Short Term Rentals
-- Consider approval of the construction phase contract for the
-- Appointments may vary by 15 minutes earlier or later than scheduled depending upon
-- cancelations and time required for review and/or consideration of an agenda item
-
-## [teller-county#3] 2026-08-06 | Board of County Commisisoners | agenda
-- 112 North A Street, Cripple Creek, CO
-- 3. 9:40 Time reserved for the public without an appointment
-- First Reading of Ordinance 23 - Short Term Rentals
-- Consider approval of the construction phase contract for the
-- Appointments may vary by 15 minutes earlier or later than scheduled depending upon
-- cancelations and time required for review and/or consideration of an agenda item
-- seconded, to approve the minutes of the meeting of the Teller County Board
-- of County Commissioners on March 12, 2026 as amended. All Commissioners
-- seconded, that the Board approve the accounts payable run date of May 12,
-- Reported on the Victor water pipe leak which left the City without water
-- Herzog and Fred Clifford. The water pipe is fixed and the City of Victor is
-- looking for grants
-- The kids are grateful for the improvements to the Fairgrounds
-- Attended a meeting on Friday with Colorado Parks and Wildlife, BLM,
-- Forest in Teller County. Patrols will be carried out by Colorado Parks
-- statutes, ordinances, and regulations, and 177 - Right to natural gas
-- Discussed the upcoming Memorial Day events: 11:00 Woodland Park
-- Initiative 175 requires HUTF funds to be used for roads. The
-- Mayor of Woodland Park
-- reviewing in public hearings
-- Initiative 175 and House Bill 260 sponsored by road contractors to
-- require road and bridge money should go to road and bridge
-- billion dollars to roads but the budget has been reduced by 40%. The
-- Legislature will undo Initiative 175 if it passes. Plan to cut the gas tax in
-- election that requests the state keep TABOR surplus to use for
-- The Forest Service is lifting recreational shooting but kept the Fire Ban in
-- revocations and have had 5 responses. Taxpayers have until June 8th
-- Stage 2 Fire Ban is still in effect
-- Thanked all who helped with the Victor water leak
-- Noted that the County received the impact fee study from NETCO and is
-- looking for public comment on the proposed fees
-- Commented on affordable housing. Representative Flanell sent him a
-- survey on housing costs in Colorado
-- NETCO impact fees. The DDA has underfunded NETCO for 20 years
-- The proposed fees will increase costs for housing. He does
-- understand the need for funding for the fire districts
-- Woodland Park
-- Plan. Businesses are increasing in Four Mile such as STRs. Requested
-- Plan. STR owners have gotten onto the HOA board and have changed
-- 4. 9:50 Employee Service Awards
-- Consider Approval of Liquor License for Serrano's
-- Public Comment: Marion Clare, Greg Liverman, and Candace Lemon. All
-- seconded, to approve a Retail Liquor License for Serrano’s. All
-- Consider Approval of Special Event Liquor Permit for Top of the World
-
-## [teller-county#4] 2026-08-11 | General | agenda
+## [teller-county#0] 2026-08-11 | General | agenda
 - 800 Research Drive. Suite 230, Woodland Park, CO
 - 9:30 AM Community Development: Pollock-Kenyon - Amended Final Plat Discussion
 - 10:00 AM County Administrator’s Discussion Items
@@ -113,7 +10,7 @@
 - to the Commissioners on specific topics. Work sessions are not public hearings. Members of the public may attend work
 - sessions to listen to the discussions; however, public comment will not be taken. The Board does not take any formal actions
 
-## [teller-county#5] 2026-08-11 | General | agenda
+## [teller-county#1] 2026-08-11 | General | agenda
 - 800 Research Drive. Suite 230, Woodland Park, CO
 - 9:30 AM Community Development: Pollock-Kenyon - Amended Final Plat Discussion
 - 10:00 AM County Administrator’s Discussion Items
@@ -152,7 +49,7 @@
 - Lot 4 has legal access from Fl oresta Place, a platted road in Highland Meadows 1, and has
 - been assigned the address of 10 Floresta Place with a driveway permit, D-4367
 
-## [teller-county#6] 2026-08-18 | Board of County Commisisoners | agenda
+## [teller-county#2] 2026-08-18 | Board of County Commisisoners | agenda
 - 112 North A Street, Cripple Creek, CO
 - 3. 9:35 Time reserved for the public without an appointment
 - Consider acceptance and authorize publishing of the Treasurer's
@@ -164,7 +61,7 @@
 - Appointments may vary by 15 minutes earlier or later than scheduled depending upon
 - cancelations and time required for review and/or consideration of an agenda item
 
-## [teller-county#7] 2026-08-18 | Board of County Commisisoners | agenda
+## [teller-county#3] 2026-08-18 | Board of County Commisisoners | agenda
 - 112 North A Street, Cripple Creek, CO
 - 3. 9:35 Time reserved for the public without an appointment
 - Consider acceptance and authorize publishing of the Treasurer's
@@ -196,7 +93,7 @@
 - 311 NE TELLER COUNTY FIRE DISTRICT $26,743.07 $3,270,451.12 $70.92 $158,223.71 ($2,458,385.29) ($98,179.64) $898,923.89
 - 313 NE TELLER COUNTY FIRE ABATEMENT REFUND $158.24 $7,942.35 $0.23 $385.80 ($6,240.35) $0.00 $2,246.27
 
-## [teller-county#8] 2026-08-25 | General | agenda
+## [teller-county#4] 2026-08-25 | General | agenda
 - 800 Research Drive. Suite 230, Woodland Park, CO
 - 9:30 AM Finance: Commissioners Budget Information
 - 10:00 AM Community Development: Discussion of proposed changes to Teller County
@@ -207,7 +104,7 @@
 - to the Commissioners on specific topics. Work sessions are not public hearings. Members of the public may attend work
 - sessions to listen to the discussions; however, public comment will not be taken. The Board does not take any formal actions
 
-## [teller-county#9] 2026-08-25 | General | agenda
+## [teller-county#5] 2026-08-25 | General | agenda
 - 800 Research Drive. Suite 230, Woodland Park, CO
 - 9:30 AM Finance: Commissioners Budget Information
 - 10:00 AM Community Development: Discussion of proposed changes to Teller County
@@ -241,7 +138,7 @@
 - The annual fee shall be one hundred-fifty dollars ($150.00). NAWT certification is required
 - 10. OWTS Operation and Maintenance Contractor (On-Site Wastewater Treatment Systems)
 
-## [teller-county#10] 2026-09-02 | General | agenda
+## [teller-county#6] 2026-09-02 | General | agenda
 - 800 Research Drive. Suite 230, Woodland Park, CO
 - 9:30 AM County Administrator’s Discussion Items
 - Work sessions conducted by the Board of County Commissioners are informal discussions among Commissioners,
@@ -249,12 +146,12 @@
 - to the Commissioners on specific topics. Work sessions are not public hearings. Members of the public may attend work
 - sessions to listen to the discussions; however, public comment will not be taken. The Board does not take any formal actions
 
-## [teller-county#11] 2026-09-02 | General | agenda
+## [teller-county#7] 2026-09-02 | General | agenda
 - 800 Research Dr., Suite 230, Woodland Park, CO 80863
 - ● Consider approval of Compliance Agreement with Quantum Tech, LLC for the property at 10180 West
 - ● Consider a Resolution to transition from the existing Stage II Fire Ban to a Stage I Fire Ban
 
-## [teller-county#12] 2026-09-02 | General | agenda
+## [teller-county#8] 2026-09-02 | General | agenda
 - 800 Research Dr., Suite 230, Woodland Park, CO 80863
 - ● Consider approval of Compliance Agreement with Quantum Tech, LLC for the property at 10180 West
 - ● Consider a Resolution to transition from the existing Stage II Fire Ban to a Stage I Fire Ban
@@ -290,7 +187,7 @@
 - 5. Future CUP Application
 - Agreement. Following completion of the removal and compliance process contemplated
 
-## [teller-county#13] 2026-09-08 | General | agenda
+## [teller-county#9] 2026-09-08 | General | agenda
 - 800 Research Drive. Suite 230, Woodland Park, CO
 - 9:30 AM Teller Senior Coalition: Project/funding updates
 - 10:00 AM Finance: Commissioners Budget Information
@@ -301,7 +198,7 @@
 - to the Commissioners on specific topics. Work sessions are not public hearings. Members of the public may attend work
 - sessions to listen to the discussions; however, public comment will not be taken. The Board does not take any formal actions
 
-## [teller-county#14] 2026-09-10 | Board of County Commisisoners | agenda
+## [teller-county#10] 2026-09-10 | Board of County Commisisoners | agenda
 - 112 North A Street, Cripple Creek, CO
 - 3. 9:40 Time reserved for the public without an appointment
 - Consider a resolution for approval of a Special Use Permit for
@@ -321,7 +218,7 @@
 - Appointments may vary by 15 minutes earlier or later than scheduled depending upon
 - cancelations and time required for review and/or consideration of an agenda item
 
-## [teller-county#15] 2026-09-15 | General | agenda
+## [teller-county#11] 2026-09-15 | General | agenda
 - 800 Research Drive. Suite 230, Woodland Park, CO
 - 9:30 AM County Administrator’s Discussion Items
 - 11:00 AM Commissioners’ Discussion Items
@@ -330,7 +227,7 @@
 - to the Commissioners on specific topics. Work sessions are not public hearings. Members of the public may attend work
 - sessions to listen to the discussions; however, public comment will not be taken. The Board does not take any formal actions
 
-## [teller-county#16] 2026-09-22 | General | agenda
+## [teller-county#12] 2026-09-22 | General | agenda
 - 800 Research Drive. Suite 230, Woodland Park, CO
 - 9:30 AM Finance: Capital Plan and Budget
 - 10:00 AM County Administrator’s Discussion Items
@@ -340,7 +237,7 @@
 - to the Commissioners on specific topics. Work sessions are not public hearings. Members of the public may attend work
 - sessions to listen to the discussions; however, public comment will not be taken. The Board does not take any formal actions
 
-## [teller-county#17] 2026-09-24 | Board of County Commisisoners | agenda
+## [teller-county#13] 2026-09-24 | Board of County Commisisoners | agenda
 - 112 North A Street, Cripple Creek, CO
 - 3. 9:35 Time reserved for the public without an appointment
 - 4. 9:40 Employee Service Awards
@@ -354,7 +251,7 @@
 - Appointments may vary by 15 minutes earlier or later than scheduled depending upon
 - cancelations and time required for review and/or consideration of an agenda item
 
-## [teller-county#18] 2026-09-24 | Board of County Commisisoners | agenda
+## [teller-county#14] 2026-09-24 | Board of County Commisisoners | agenda
 - 112 North A Street, Cripple Creek, CO
 - 3. 9:35 Time reserved for the public without an appointment
 - 4. 9:40 Employee Service Awards
@@ -399,7 +296,7 @@
 - Consider approval of a Special Event Permit for Makers Market
 - Consider approval of a Special Event Permit for the Faithful Hearts Equine
 
-## [teller-county#19] 2026-09-29 | General | agenda
+## [teller-county#15] 2026-09-29 | General | agenda
 - 800 Research Drive. Suite 230, Woodland Park, CO
 - 9:30 AM County Administrator’s Discussion Items
 - 11:00 AM Commissioners’ Discussion Items
@@ -408,7 +305,7 @@
 - to the Commissioners on specific topics. Work sessions are not public hearings. Members of the public may attend work
 - sessions to listen to the discussions; however, public comment will not be taken. The Board does not take any formal actions
 
-## [teller-county#20] 2026-10-06 | General | agenda
+## [teller-county#16] 2026-10-06 | General | agenda
 - 800 Research Drive. Suite 230, Woodland Park, CO
 - 11:00 AM County Administrator’s Discussion Items
 - 12:30 PM Commissioners’ Discussion Items
@@ -417,7 +314,7 @@
 - to the Commissioners on specific topics. Work sessions are not public hearings. Members of the public may attend work
 - sessions to listen to the discussions; however, public comment will not be taken. The Board does not take any formal actions
 
-## [teller-county#21] 2026-10-06 | General | agenda
+## [teller-county#17] 2026-10-06 | General | agenda
 - 800 Research Drive. Suite 230, Woodland Park, CO
 - 11:00 AM County Administrator’s Discussion Items
 - 12:30 PM Commissioners’ Discussion Items
@@ -454,7 +351,7 @@
 - at approximately $20–$25 each, however, grant funding allowed for purchase and the signs will be
 - Staff also reported on the oxygen program and the purchase of five emergency oxygen
 
-## [teller-county#22] 2026-10-08 | Board of County Commisisoners | agenda
+## [teller-county#18] 2026-10-08 | Board of County Commisisoners | agenda
 - 112 North A Street, Cripple Creek, CO
 - 3. 9:35 Time reserved for the public without an appointment
 - 2027 Proposed Budget Presentation
@@ -467,7 +364,7 @@
 - Appointments may vary by 15 minutes earlier or later than scheduled depending upon
 - cancelations and time required for review and/or consideration of an agenda item
 
-## [teller-county#23] 2026-10-08 | Board of County Commisisoners | agenda
+## [teller-county#19] 2026-10-08 | Board of County Commisisoners | agenda
 - 112 North A Street, Cripple Creek, CO
 - 3. 9:35 Time reserved for the public without an appointment
 - 2027 Proposed Budget Presentation
@@ -510,7 +407,7 @@
 - Schedule of Expenditures of Federal Awards
 - information referred to above when considered in relation to the financial statements as a
 
-## [teller-county#24] 2026-10-13 | General | agenda
+## [teller-county#20] 2026-10-13 | General | agenda
 - 800 Research Drive. Suite 230, Woodland Park, CO
 - 11:00 AM Palmer Land Trust: Pinestone Ranch Project Discussion
 - Noon County Administrator’s Discussion Items
@@ -520,7 +417,7 @@
 - to the Commissioners on specific topics. Work sessions are not public hearings. Members of the public may attend work
 - sessions to listen to the discussions; however, public comment will not be taken. The Board does not take any formal actions
 
-## [teller-county#25] 2026-10-13 | General | agenda
+## [teller-county#21] 2026-10-13 | General | agenda
 - 800 Research Drive. Suite 230, Woodland Park, CO
 - 11:00 AM Palmer Land Trust: Pinestone Ranch Project Discussion
 - Noon County Administrator’s Discussion Items
@@ -530,7 +427,7 @@
 - to the Commissioners on specific topics. Work sessions are not public hearings. Members of the public may attend work
 - sessions to listen to the discussions; however, public comment will not be taken. The Board does not take any formal actions
 
-## [teller-county#26] 2026-10-20 | General | agenda
+## [teller-county#22] 2026-10-20 | General | agenda
 - 800 Research Drive. Suite 230, Woodland Park, CO
 - 10:30 AM County Administrator’s Discussion Items
 - Noon Commissioners’ Discussion Items
@@ -539,7 +436,7 @@
 - to the Commissioners on specific topics. Work sessions are not public hearings. Members of the public may attend work
 - sessions to listen to the discussions; however, public comment will not be taken. The Board does not take any formal actions
 
-## [teller-county#27] 2026-10-22 | Board of County Commisisoners | agenda
+## [teller-county#23] 2026-10-22 | Board of County Commisisoners | agenda
 - 112 North A Street, Cripple Creek, CO
 - 3. 9:35 Time reserved for the public without an appointment
 - 4. 9:40 Employee Service Awards
@@ -573,7 +470,7 @@
 - WHEREAS, funds budgeted in the above referenced holding departments, which have been added to each
 - available for expenditure and are only accessible by resolution of the Board of County Commissioners
 
-## [teller-county#28] 2026-10-22 | Board of County Commisisoners | agenda
+## [teller-county#24] 2026-10-22 | Board of County Commisisoners | agenda
 - 112 North A Street, Cripple Creek, CO
 - 2. Woodland Park School District
 - 4. 9:35 Time reserved for the public without an appointment
@@ -587,7 +484,7 @@
 - Appointments may vary by 15 minutes earlier or later than scheduled depending upon
 - cancelations and time required for review and/or consideration of an agenda item
 
-## [teller-county#29] 2026-10-27 | General | agenda
+## [teller-county#25] 2026-10-27 | General | agenda
 - 800 Research Drive. Suite 230, Woodland Park, CO
 - 9:30 AM Human Resources/Acrisure: 2027 Insurance Renewal Discussion
 - 11:00 AM Community Development: Cripple Creek & Victor Gold Mining Co. Discussion
@@ -600,7 +497,7 @@
 - to the Commissioners on specific topics. Work sessions are not public hearings. Members of the public may attend work
 - sessions to listen to the discussions; however, public comment will not be taken. The Board does not take any formal actions
 
-## [teller-county#30] 2026-10-27 | General | agenda
+## [teller-county#26] 2026-10-27 | General | agenda
 - 800 Research Drive. Suite 230, Woodland Park, CO
 - 9:30 AM Human Resources/Acrisure: 2027 Insurance Renewal Discussion
 - 11:00 AM Community Development: Cripple Creek & Victor Gold Mining Co. Discussion
@@ -640,3 +537,13 @@
 - Although the State has already approved this Amendment, that approval is subject to final
 - approval by Teller County. Teller County recognizes that State and Federal agencies have
 - programs in place to permit, inspect, and enforce requirements at mining operations and to assure
+
+## [teller-county#27] 2026-11-03 | General | agenda
+- 800 Research Drive. Suite 230, Woodland Park, CO
+- 9:30 AM Finance: Financial Strategic Planning
+- 10:30 AM County Administrator’s Discussion Items
+- Noon Commissioners’ Discussion Items
+- Work sessions conducted by the Board of County Commissioners are informal discussions among Commissioners,
+- discussions between the Commissioners and County staff and with persons who are invited to attend to provide information
+- to the Commissioners on specific topics. Work sessions are not public hearings. Members of the public may attend work
+- sessions to listen to the discussions; however, public comment will not be taken. The Board does not take any formal actions

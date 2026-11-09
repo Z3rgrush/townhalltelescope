@@ -1,16 +1,12 @@
 # new-castle
 
-## [new-castle#0] 2026-08-04 | Town Council | minutes
-- Resolution TC 2026-1
-- Items for Consideration
-
-## [new-castle#1] 2026-08-12 | Planning and Zoning Commission | agenda
+## [new-castle#0] 2026-08-12 | Planning and Zoning Commission | agenda
 - 450 W Main Street
 
-## [new-castle#2] 2026-08-17 | Historic Preservation Commission  | agenda
+## [new-castle#1] 2026-08-17 | Historic Preservation Commission  | agenda
 - 450 W Main Street
 
-## [new-castle#3] 2026-08-18 | Town Council | minutes
+## [new-castle#2] 2026-08-18 | Town Council | minutes
 - Resolution TC 2026-1
 - Items for Consideration
 - Update - Police Department - Chief Curry
@@ -18,7 +14,7 @@
 - the last discussion he has attended one SPEAR meeting with the other chiefs and there is
 - another one on Thursday. At the meeting there was discussion about adding more
 
-## [new-castle#4] 2026-08-20 | Town Council | agenda
+## [new-castle#3] 2026-08-20 | Town Council | agenda
 - 450 W Main Street
 - Items for Consideration
 - A. Discussion of Community Market Recycle/Compost update
@@ -27,7 +23,7 @@
 - D. Consider October Fall Clean-up
 - E. Approval of July 16, 2026 Minutes
 
-## [new-castle#5] 2026-08-20 | Town Council | agenda
+## [new-castle#4] 2026-08-20 | Town Council | agenda
 - 450 W Main Street
 - Items for Consideration
 - A. Discussion of Community Market Recycle/Compost update
@@ -56,15 +52,15 @@
 - Motion: Commissioner Bakich moved to approve the minutes with the noted changes. Commissioner Benson
 - Chair Morris suggested a work session to discuss the goals of the mural project
 
-## [new-castle#6] 2026-08-26 | Planning and Zoning Commission | agenda
+## [new-castle#5] 2026-08-26 | Planning and Zoning Commission | agenda
 - 450 W Main Street
 - New Castle Planning and Zoning August 26, 2026 Cancelled
 
-## [new-castle#7] 2026-09-01 | General | agenda
+## [new-castle#6] 2026-09-01 | General | agenda
 - 450 W Main Street
 - B. Update – Police Department
 
-## [new-castle#8] 2026-09-01 | General | agenda
+## [new-castle#7] 2026-09-01 | General | agenda
 - 450 W Main Street
 - B. Update – Police Department
 - Re: Workshop Item: Building and Planning and Police Department Updates
@@ -104,25 +100,25 @@
 - professional development while minimizing the financial impact on the Town
 - Throughout 2026, the New Castle Police Department has continued its commitment to
 
-## [new-castle#9] 2026-09-01 | Town Council | minutes
+## [new-castle#8] 2026-09-01 | Town Council | minutes
 - Resolution TC 2026-1
 - Items for Consideration
 
-## [new-castle#10] 2026-09-09 | Planning and Zoning Commission | agenda
+## [new-castle#9] 2026-09-09 | Planning and Zoning Commission | agenda
 - 450 W Main Street
 - New Castle Planning and Zoning Commission Cancelled September 9,
 
-## [new-castle#11] 2026-09-15 | General | agenda
+## [new-castle#10] 2026-09-15 | General | agenda
 - 450 W Main Street
 - C. Discussion – Glenwood Hot Springs Protection Act
 
-## [new-castle#12] 2026-09-15 | Town Council | minutes
+## [new-castle#11] 2026-09-15 | Town Council | minutes
 - Resolution TC 2026-1
 - Canyon Senior Housing. She asked about the ordinances which the town may have
 - aggressive. Ms. McMillian said the residents at the senior housing are concerned about the
 - Reynolds said council can discussion the issue at an upcoming work session
 
-## [new-castle#13] 2026-09-17 | Town Council | agenda
+## [new-castle#12] 2026-09-17 | Town Council | agenda
 - 450 W Main Street
 - Items for Consideration
 - A. Consider the Community Market Plastic Reduction
@@ -130,7 +126,7 @@
 - D. Consider Work Session to Discuss 2027 Initiatives
 - E. Approval of August 20, 2026 Minutes
 
-## [new-castle#14] 2026-09-17 | Town Council | agenda
+## [new-castle#13] 2026-09-17 | Town Council | agenda
 - 450 W Main Street
 - Items for Consideration
 - A. Consider the Community Market Plastic Reduction
@@ -146,115 +142,42 @@
 - Consider actions we can take to decrease waste at other community events
 - Approval of July 16, 2026 minutes
 
-## [new-castle#15] 2026-09-23 | Planning and Zoning Commission | agenda
+## [new-castle#14] 2026-09-23 | Planning and Zoning Commission | agenda
 - 450 W Main Street
 
-## [new-castle#16] 2026-10-06 | Town Council | agenda
-- 450 W. Main Street
-- a. Police Department Tour and Council Photos
-
-## [new-castle#17] 2026-10-06 | Town Council | agenda
-- 450 W Main Street
-- Items for Consideration
-- A. Presentation – Garfield County RE2 Ballot Issue Committee
-- E. Presentation – Maintain Our County Libraries Committee
-- F. Discussion – 2027 Budget
-- will be approved by one motion. There will be no separate
-- discussion of these items unless a council member or citizen
-- requests it, in which case the item will be removed from the consent
-- G. Approval of Month Bills - $760,381.54
-- Planning & Zoning Commission
-
-## [new-castle#18] 2026-10-14 | Planning and Zoning Commission | agenda
+## [new-castle#15] 2026-10-14 | Planning and Zoning Commission | agenda
 - 450 W Main Street
 - New Castle Planning and Zoning Commissiosn October 14, 2026
 
-## [new-castle#19] 2026-10-15 | Climate and Environment Commission | agenda
+## [new-castle#16] 2026-10-15 | Climate and Environment Commission | agenda
 - 450 W Main Street
 - Items for Consideration
 - A. Discussion of the Trash Clean-up on October 10, 2026
 - B. Consider the November Dates for 3 Hour Worksession
 - C. 2026 Budget and Bag Fee Update
 
-## [new-castle#20] 2026-10-15 | Climate and Environment Commission | agenda
+## [new-castle#17] 2026-10-15 | Climate and Environment Commission | agenda
 - 450 W Main Street
 - Items for Consideration
 - A. Discussion of the Trash Clean-up on October 10, 2026
 - B. Consider the November Dates for 3 Hour Worksession
 - C. 2026 Budget and Bag Fee Update
 
-## [new-castle#21] 2026-10-19 | Historic Preservation Commission  | agenda
+## [new-castle#18] 2026-10-19 | Historic Preservation Commission  | agenda
 - 450 W Main Street
 
-## [new-castle#22] 2026-10-20 | General | agenda
+## [new-castle#19] 2026-10-20 | General | agenda
 - 450 W Main Street
 - A. 2026 Budget
 
-## [new-castle#23] 2026-10-20 | General | agenda
+## [new-castle#20] 2026-10-20 | General | agenda
 - 450 W Main Street
 - A. 2026 Budget
 - landfill fees, Mountain Waste is working to gather data that will drive our 2027 trash and recycle fees
 - Mountain Waste would like to take a few minutes to discuss the upcoming changes and will return in
 - 450 W. Main Street
 
-## [new-castle#24] 2026-10-20 | Town Council | agenda
-- 450 W Main Street
-- Items for Consideration
-- B. Presentation – Garfield County School of Innovation
-- C. Discussion with Town Attorney – Comprehensive Plan
-- D. Consider EV Charging Station Guidelines
-- E. Consider Letter of Support to Garfield County RE2 Ballot
-- F. Update/Discussion – Colorado Municipal League Policy
-- will be approved by one motion. There will be no separate discussion
-- of these items unless a council member or citizen requests it, in
-- Planning & Zoning Commission
-
-## [new-castle#25] 2026-10-20 | Town Council | agenda
-- 450 W Main Street
-- Items for Consideration
-- B. Presentation – Garfield County School of Innovation
-- C. Discussion with Town Attorney – Comprehensive Plan
-- D. Consider EV Charging Station Guidelines
-- E. Consider Letter of Support to Garfield County RE2 Ballot
-- F. Update/Discussion – Colorado Municipal League Policy
-- will be approved by one motion. There will be no separate discussion
-- of these items unless a council member or citizen requests it, in
-- Planning & Zoning Commission
-- 450 W. Main Street
-- Re: Agenda Item: Charter School Presentation
-- husband Barry have submitted a formal application to the School Board and are awaiting a review and
-- If successful with their application, GCSI proposes to open a Charter School in New Castle in 2027
-- rich, research-based, integrated, and non
-- defining problems, brainstorming solutions, prototyping, testing,
-- will integrate more deeply with science, mathematics, technology,
-- and real-world applications. By making engineering a continuous
-- Valley Economic Development Partnership; GCSI’s required
-- Plan to Start Immediately After Rosie’s Renovation
-- age-appropriate projects, Junior Achievement-style
-- across Garfield County and the broader Western
-- Master Chef, where students plan menus, prepare
-- The Development Team is working to
-- FAA-certificated provider
-- In-Kind Donations and Grants
-- the school from business and industry, private, grants,
-- Beautiful New Chairs for all T eachers and Staff
-- Application filed with the Garfield County Re-2 School
-- the Owner which will be finalized after charter approval by
-- GCSI will present our application at the Garfield County
-- GCSI Application will be reviewed, with a decision from the
-- Re: Agenda Item: Comprehensive Plan Discussion
-- review the legal process for updating a municipal comprehensive plan. As discussed during the Town
-- Council Retreat and at previous Town Council meetings, the Town’s Comprehensive Plan is due for an
-- This discussion will serve as an initial step in understanding the legal requirements, available options,
-- and potential approaches to undertaking this project. The goal is to establish a clear understanding of
-- the process and identify the appropriate next steps for moving forward with a Comprehensive Plan
-- RE: Updates to the Town of New Castle’s Comprehensive Plan
-- adopting a comprehensive plan under local ordinances and state law. The Town of New Castle (the
-- “Town”) adopted its current comprehensive plan on May 27, 2009. It has not been updated since
-- its adoption. The current comprehensive plan can be found here:
-- I. What is a comprehensive plan?
-
-## [new-castle#26] 2026-10-26 | Historic Preservation Commission  | agenda
+## [new-castle#21] 2026-10-26 | Historic Preservation Commission  | agenda
 - 450 W Main Street
 - Items for Consideration
 - A. Discussion of Videography Project
@@ -263,7 +186,7 @@
 - C. Consider Survey Grant Updates
 - D. Approval of CLG Audit
 
-## [new-castle#27] 2026-10-26 | Historic Preservation Commission  | agenda
+## [new-castle#22] 2026-10-26 | Historic Preservation Commission  | agenda
 - 450 W Main Street
 - Items for Consideration
 - A. Discussion of Videography Project
@@ -308,5 +231,25 @@
 - C. Approval of February 23, 2026, Minutes
 - D. Update of Videography Project
 
-## [new-castle#28] 2026-10-28 | Planning and Zoning Commission | agenda
+## [new-castle#23] 2026-10-28 | Planning and Zoning Commission | agenda
 - 450 W Main Street
+
+## [new-castle#24] 2026-11-03 | General | agenda
+- 450 W Main Street
+- A. 2027 Budget
+- B. Discussion – Council Retreat Debrief
+
+## [new-castle#25] 2026-11-03 | Town Council | agenda
+- 450 W Main Street
+- Items for Consideration
+- A. 2025 Audit Presentation - John Cutler & Associates
+- B. Consider a Motion to Accept the 2025 Audit as Presented
+- C. Discussion and Consider Artificial Intelligence Use Policy
+- D. Discussion of General Data Center information
+- Recess the Town Council Meeting, Convene as the Board of Zoning
+- E. Consider EV Charging State Use Designation in the Burning
+- Mountain PUD (Phase II) Zoning District
+- will be approved by one motion. There will be no separate discussion
+- of these items unless a council member or citizen requests it, in
+- F. Approval of Month Bills - $1,417,374.03
+- Planning & Zoning Commission

@@ -1,5 +1,5 @@
 - title: Water rate overhaul and Water Rate Committee
-  summary: A committee formed in spring 2026 is building a new water rate structure. Current rates of $35-$41 are well below sustainable levels, and the operating need is projected at $238,800 by 2027. Consultant Rita Trick (RCAC) recommended $125/month. Options include tiered overage rates, bulk water at $2-$3 per 100 gallons (now $1.50), a higher tap fee (now $5,000) and doubled conservation rates. A single proposal is headed to a public hearing, and sewer rate analysis was authorized on June 8.
+  summary: The town formed a committee to set a sustainable water rate structure. A consultant recommended about $125/month, and current rates of $35–$41 cover none of the required reserves. In June the committee presented a model with a fully funded operating need of $238,800, higher bulk water rates ($2–$3 per 100 gallons) and a higher tap fee. Sewer rate analysis was authorized in June, and water rates for the State Park and others were still on agendas in fall 2026.
   where: Townwide
   refs:
   - 4
@@ -8,47 +8,69 @@
   - 7
   - 8
   - 9
+  - 11
   topics:
   - Fees & rates
   - Water
   - Utilities
   public_comment: true
 - title: Crawford State Park water and sewer rate structure
-  summary: The committee is reviewing how the state park is billed. The park has about 76-78 points of use, modeled as roughly 31 equivalent taps, and is billed as a rural commercial tap. Council questioned whether that still fits given the park's growth since the 1990s. The park rate was on the October 12 agenda.
+  summary: The committee is reviewing how the State Park is charged. It has about 76–78 points of use, modeled as roughly 31 equivalent taps, and is billed as a rural commercial tap. Council noted the park has grown a lot since the 1990s and the issue appeared on the October and November 2026 agendas.
   where: Crawford State Park
   refs:
   - 6
   - 9
+  - 11
   topics:
   - Fees & rates
   - Water
-- title: Spring water project and potable water tank replacement
-  summary: The spring project is substantially complete and came in under $400,000 of a $537,000 grant, with final reimbursement received by June 2026. Replacing the potable water tank awaits CDPHE approval of the final design, and bidding is expected around July. Crews logged about 150 overtime hours on the project, and council deferred a decision on comp time pending grant guidance.
+- title: 2026 budget, water/sewer increases and fee schedule
+  summary: Council worked on the 2026 budget with a proposed $10/month water increase per meter, a sewer deficit of about $21,000 and a public hearing on Nov 24. Resolution 6-2025 updating the town fee schedule was discussed but deferred without final changes. Budget and fee-structure items, including address access and subdivision fees, returned on the fall 2026 agendas.
+  where: Townwide
+  refs:
+  - 0
+  - 1
+  - 9
+  - 11
+  topics:
+  - Budget & taxes
+  - Fees & rates
+- title: Spring water project, grant reimbursement and staff overtime
+  summary: The spring water project was substantially complete, with costs under $400,000 of a $537,000 grant. Staff logged about 150 overtime hours, and council debated comp time versus pay pending reimbursement guidance. Final reimbursement was received by June 2026.
   where: Town water system
   refs:
   - 0
+  - 1
+  - 3
+  - 6
+  - 7
+  topics:
+  - Water
+  - Budget & taxes
+- title: Water storage tank replacement and system inspections
+  summary: The tank replacement project awaits state health department (CDPHE) approval of the final design before bidding, which was targeted for July. CDPHE requires full project review before splitting the potable tank bids. Tanks and the system passed inspections, and lagoon liner deterioration needs long-term planning for the 2027 budget.
+  where: Town water tanks and wastewater lagoon
+  refs:
   - 1
   - 2
   - 3
   - 4
   - 5
-  - 7
+  - 6
   topics:
   - Water
   - Utilities
-  - Government operations
-- title: 2026 budget, fee schedule and sewer deficit
-  summary: Council held the 2026 budget hearing on Nov. 24, 2025. The proposal included a $10/month water increase per meter and a $21,000 sewer deficit split between rate increases and reserves. It also budgeted $10,000 for new billing software and a wastewater jetter. Resolution 6-2025 would update the town fee schedule, but discussion was deferred. Lagoon liner deterioration needs planning for the 2027 budget.
-  where: Townwide
+- title: Cemetery land plat and Grateful Flats Campground
+  summary: A final plat and boundary adjustment would let the Cemetery District buy more land, with a historic cattle-drive easement found abandoned. It was scheduled for June 22, 2026. Council also conditionally approved opening the in-town part of Grateful Flats Campground after county septic inspection and a public works review.
+  where: Cemetery and Grateful Flats Campground
   refs:
-  - 0
-  - 1
-  - 2
+  - 7
   topics:
-  - Budget & taxes
-  - Fees & rates
-- title: Fire-damaged properties on Dogwood and Elm
-  summary: Council raised concerns about two properties left from earlier fires. In March, letters went to the owners requesting cleanup plans.
+  - Land & property
+  - Recreation & trails
+  public_comment: true
+- title: Fire-damaged properties and cleanup
+  summary: Council raised concerns about two properties on Dogwood and Elm left from earlier fires. Staff sent letters to the owners asking for cleanup plans.
   where: Dogwood and Elm streets
   refs:
   - 2
@@ -56,50 +78,42 @@
   topics:
   - Land & property
   - Zoning & development
-- title: Cemetery District land purchase and plat
-  summary: The Cemetery District plans to buy land from Ann Landreth, requiring a boundary adjustment and final plat. Survey and title work indicate the historic cattle-drive easement was abandoned decades ago. Town staff will process the amended plat, set for June 22, 2026. A separate A Street property closing was also noted in November 2025.
-  where: Cemetery land, Crawford
-  refs:
-  - 1
-  - 7
-  topics:
-  - Land & property
-  - Zoning & development
-  public_comment: true
-- title: 2026 municipal election
-  summary: Three council seats are up for election. Petitions were due January 26, and the town is working with the County Clerk under an intergovernmental agreement.
-  where: Townwide
-  refs:
-  - 2
-  topics:
-  - Elections
-- title: Region 10 partnership and campus master plan
-  summary: Region 10 pitched regional economic development help, including broadband fiber links, small business consulting and Enterprise Zone credits ($19,000 reinvested locally last year). Council discussed a campus master plan for town-owned property and grants from DOLA and USDA.
-  where: Town-owned property
+- title: Regional planning, broadband and campus master plan
+  summary: Region 10 presented regional economic development, fiber broadband links, small business help and Enterprise Zone credits. Council discussed a master plan for town-owned property and grants from DOLA and USDA.
+  where: Town-owned campus property
   refs:
   - 3
   topics:
   - Economic development
   - Broadband
-  - Land & property
-- title: Unauthorized excavation on K Street and building permit enforcement
-  summary: The town is pursuing a resolution over unauthorized excavation on town property on K Street. Resident Cameron Clark raised concerns about inconsistent building permit enforcement and was allowed to renew his permit for $50. Council also discussed the need for clearer permit requirements and formal variance procedures.
-  where: K Street
+- title: Building permits, variances and property enforcement
+  summary: Council discussed formal variance procedures with applications, notice and fees. A resident asked for a permit renewal and raised inconsistent enforcement, and was allowed to renew for $50. Unauthorized excavation on town property on K Street is being pursued, and an A Street property closing needed a boundary adjustment.
+  where: K Street, A Street and townwide
   refs:
+  - 1
   - 2
-  - 4
   - 5
   - 6
   topics:
   - Zoning & development
   - Land & property
   public_comment: true
-- title: Public access to meeting packets and Town Hall concerns
-  summary: Resident Marty Durlin reported difficulty accessing agendas online and asked for packets to be public. The clerk will work on providing water rate reports. Fire Auxiliary member Cathy Cheatham raised kitchen cleanliness, grease trap and pest issues at Town Hall.
-  where: Town Hall
+- title: 2026 town election and meeting access
+  summary: Three council seats were up for election, with petitions due January 26. Residents and a reporter asked for online access to agenda packets and water rate reports, and the clerk said she would work on providing them.
+  where: Townwide
   refs:
+  - 2
   - 5
   topics:
+  - Elections
   - Ethics & transparency
+  public_comment: true
+- title: Town Hall conditions and office hours
+  summary: The Fire Department Auxiliary raised concerns about kitchen cleanliness, grease trap maintenance and bugs in Town Hall. Council also discussed Friday office hours and staffing costs.
+  where: Town Hall
+  refs:
+  - 2
+  - 5
+  topics:
   - Government operations
   public_comment: true

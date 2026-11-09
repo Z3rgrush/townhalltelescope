@@ -1,81 +1,61 @@
 - title: Temporary moratorium on data center development
-  summary: On the October 27, 2026 agenda, the Council is set to discuss and give direction on a temporary moratorium on data center development within the town. The documents give no details on the outcome.
+  summary: The Council was set to discuss and give direction on a temporary moratorium on data center development within the town. The agenda does not state an outcome.
   where: Townwide
   refs:
-  - 1
+  - 0
   topics:
   - Data centers
   - Zoning & development
   tags:
   - data-center
-- title: Pivot Energy solar farm proposed in unincorporated Mesa County
-  summary: The Council is continuing to discuss a Pivot Energy solar farm proposed in unincorporated Mesa County that borders the town. It is on the October 27 agenda for further discussion and direction to staff.
+- title: Pivot Energy solar farm in unincorporated Mesa County
+  summary: The Council continued discussing a proposed Pivot Energy solar farm in unincorporated Mesa County that borders the town. It also planned further discussion and direction on the development.
   where: Unincorporated Mesa County bordering De Beque
   refs:
-  - 1
+  - 0
   topics:
   - Energy
-  - Land & property
   - Zoning & development
-- title: Water, wastewater, irrigation and trash fee schedule
-  summary: Resolution 2026-30 would adopt a fee schedule for water, wastewater, irrigation and trash services. It was scheduled for discussion and action on September 22, 2026.
+  - Land & property
+- title: CDBG housing abatement and demolition grant application
+  summary: The Board of Trustees held a public hearing on a Community Development Block Grant application to the state Division of Housing for a housing abatement and demolition program. It also considered Resolution 2026-32 authorizing staff to apply.
   where: Townwide
   refs:
   - 0
-  topics:
-  - Fees & rates
-  - Water
-  - Utilities
-- title: 2027 preliminary budget
-  summary: Staff presented the preliminary 2027 town budget on September 22. An updated preliminary budget was submitted on the October 27 agenda.
-  where: Townwide
-  refs:
-  - 0
-  - 1
-  topics:
-  - Budget & taxes
-- title: CDBG grant application for housing abatement and demolition program
-  summary: The Board held a public hearing on an application to the state Department of Local Affairs, Division of Housing, for a Community Development Block Grant for a housing abatement and demolition program. Resolution 2026-32 would authorize staff to apply.
-  where: Townwide
-  refs:
-  - 1
   topics:
   - Housing
-  - Land & property
+  - Health & human services
+  - Budget & taxes
   public_comment: true
 - title: Automated license plate readers
-  summary: The Council is scheduled to discuss automated license plate readers on October 27. The documents give no details on what is proposed.
+  summary: The Council scheduled a discussion on using automated license plate readers. No decision is recorded in the agenda.
   where: Townwide
-  refs:
-  - 1
-  topics:
-  - Policing & public safety
-- title: Homeward Bound of the Grand Valley funding request
-  summary: Marvin Duarte of Homeward Bound of the Grand Valley gave an operational update and made a funding request to the Council on September 22.
   refs:
   - 0
   topics:
-  - Homelessness
-  - Health & human services
-- title: Sanitary sewer agreement and dedication
-  summary: Resolution 2026-34 would authorize the dedication and acceptance of a sanitary sewer agreement between the town and another party. Resolution 2026-33 would direct staff to enter a contract. Both were on the October 27 agenda.
+  - Policing & public safety
+  - Ethics & transparency
+- title: Updated 2027 preliminary budget
+  summary: Staff submitted an updated 2027 preliminary budget for the board's review.
+  where: Townwide
   refs:
-  - 1
+  - 0
+  topics:
+  - Budget & taxes
+- title: Sanitary sewer agreement and dedication/acceptance resolution
+  summary: The Council was to consider Resolution 2026-34 on the dedication and acceptance of infrastructure tied to a sanitary sewer agreement between the Town of De Beque and another party. It also considered Resolution 2026-33 directing staff to enter a contract.
+  where: Townwide
+  refs:
+  - 0
   topics:
   - Utilities
   - Land & property
-- title: Animal Assistance Foundation grant and Title 9 code change
-  summary: Resolution 2026-31 approves the town's application for a grant from the Animal Assistance Foundation. Ordinance 576 amends Title 9 of the municipal code.
+  - Government operations
+- title: DOLA Local Capacity Grant and timelines
+  summary: The Council received a presentation on the DOLA Local Capacity Grant and its timelines.
   where: Townwide
   refs:
   - 0
   topics:
-  - Agriculture & wildlife
   - Government operations
-- title: Change to council meeting time
-  summary: The Council continued discussion and direction on a new meeting time at both the September and October meetings.
-  refs:
-  - 0
-  - 1
-  topics:
-  - Government operations
+  - Economic development

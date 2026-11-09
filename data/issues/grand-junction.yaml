@@ -1,155 +1,176 @@
 - title: Temporary moratorium on large data centers
-  summary: Staff told Council on Sept. 14 that city code does not address data centers and their heavy power and water demands, with no applications pending. Council introduced a moratorium ordinance on Oct. 7 that would last until data center rules are adopted or 365 days pass, with a hearing set for Oct. 21.
+  summary: Council discussed on Sept. 14 a temporary moratorium on large data centers because the code does not address them and they could use significant power and water; no applications are pending. An ordinance for a moratorium lasting until code amendments or 365 days was introduced Oct. 7 with a hearing set for Oct. 21.
   where: Citywide
   refs:
-  - 43
-  - 64
-  - 72
+  - 33
+  - 54
   topics:
   - Data centers
   - Zoning & development
   - Utilities
   tags:
   - data-center
-- title: 2027 budget and $6 million structural gap
-  summary: Staff reported a $6 million General Fund structural gap, with pressure from growth, rural fire/EMS costs and health insurance claims. The recommended 2027 budget is $317.4 million ($120.8 million General Fund), with about $2 million in personnel cuts, reduced Lincoln Park Pool hours, some housing programs moving to partners, and $2.7 million for six police officers and three fire battalion chiefs. Council continued review Oct. 26.
+- title: 2027 city budget and structural deficit
+  summary: Staff reported a $6 million General Fund structural gap. The recommended 2027 budget is $317.4 million ($120.8 million General Fund), with about $2 million in personnel cuts, reduced Lincoln Park Pool hours, and $2.7 million for public safety including six police officers and three fire battalion chiefs. It also includes utility rate and golf fee increases and a $93.5 million capital program; a regional fire district is being explored. Appropriation hearings are set for November.
   where: Citywide
   refs:
-  - 27
-  - 59
+  - 17
+  - 49
+  - 66
+  - 76
   - 77
   - 78
   topics:
   - Budget & taxes
-  - Policing & public safety
+  - Fees & rates
   - Fire & emergencies
-- title: Significant Tree Ordinance removed from development code
-  summary: The Housing Affordability Code Task Force asked to remove the significant tree protections (sections 21.07.040 and 21.09.060(a)(1)) as a housing cost. Council heard the ordinance on Sept. 2 and, per the Forestry Board, voted to remove it, despite strong public support for keeping it. A consultant will look at code changes through December and a replacement may be considered.
+  public_comment: true
+- title: Significant Tree Ordinance removed from Development Code
+  summary: At the Housing Affordability Code Task Force's request, Council considered removing the significant tree protections from the Zoning and Development Code. The Forestry Board later reported Council voted to remove them despite strong public support for keeping them. A consultant review of the code may bring an alternative.
   where: Citywide
   refs:
-  - 2
-  - 9
-  - 22
-  - 31
-  - 55
+  - 12
+  - 13
+  - 21
+  - 45
   topics:
   - Environment & climate
   - Zoning & development
   - Housing
   public_comment: true
 - title: Housing Affordability Code Task Force and code simplification
-  summary: The task force is reviewing the development code and TEDS street standards for housing costs, with consultant KLJ sorting possible amendments into four categories. Work is meant to wrap up, including hearings, in the first quarter of 2027, before the Comprehensive Plan update.
+  summary: The task force is working with consultant KLJ to find code and TEDS requirements that raise housing costs, aiming to finish recommendations including hearings in early 2027. It discusses cost analysis, incentives versus mandates, and a final report.
   where: Citywide
   refs:
-  - 9
-  - 21
-  - 38
-  - 46
-  - 58
-  - 71
-  - 82
+  - 11
+  - 28
+  - 36
+  - 48
+  - 61
+  - 70
   topics:
   - Housing
   - Zoning & development
-- title: Housing Action Plan and Juniper Grove affordable homes at the Salt Flats
-  summary: Council reviewed a revised Housing Action Plan on Aug. 31, dropping a proposed Housing Advisory Board; the plan returns for a public hearing after state review. Council also took up selling about 3.3 acres of the city-owned Salt Flats at 450 28 Road to Grand Junction Homes for 48 for-sale affordable units (under 100% AMI), with the hearing continued to Sept. 16 and a funding agreement including $593,340 in water and sewer fee payments.
+  - Government operations
+- title: Juniper Grove affordable homeownership at the Salt Flats
+  summary: Council considered selling about 3.3 acres of the city-owned Salt Flats at 450 28 Road to Grand Junction Homes for 48 for-sale units serving households under 100% AMI. The city would also cover $593,340 in water and sewer fees; the hearing was continued to Sept. 16, with completion expected winter 2027.
   where: 450 28 Road
   refs:
-  - 13
-  - 27
-  - 49
-  - 50
+  - 3
   topics:
   - Housing
   - Land & property
-- title: Galley Meadows rezone, 2590 Galley Lane and 675 26 Road
-  summary: Neighbors objected to the rezone of about 13.04 acres to RL-4 for Monument Homes and Cuesta Verde. They raised concerns over traffic, construction, lighting and the entrance location. The Planning Commission recommended approval and Council passed Ordinance 5341 on Sept. 16.
+- title: Housing Action Plan update
+  summary: Consultant Root Policy presented a revised Housing Action Plan that drops the proposed Housing Advisory Board and pushes exploration of new housing revenue to years four to six. Council supported moving forward; DOLA review, public comment and a Council adoption hearing follow.
+  where: Citywide
+  refs:
+  - 17
+  - 39
+  - 40
+  topics:
+  - Housing
+  - Government operations
+- title: Galley Meadows rezone at 2590 Galley Lane and 675 26 Road
+  summary: Neighbors raised concerns about traffic, lighting, construction and density on the 13.04-acre rezone to RL-4. The Planning Commission recommended approval, and Council approved Ordinance 5341 on Sept. 16.
   where: 2590 Galley Lane and 675 26 Road
   refs:
-  - 10
-  - 31
-  - 45
+  - 0
+  - 21
+  - 35
   topics:
   - Zoning & development
   - Housing
   - Roads & traffic
   public_comment: true
-- title: 'Annexations: 2911 D 1/2 Road and Redlands 360'
-  summary: Council started annexation of 14.88 acres at 2911 D 1/2 Road, with Anthony Properties seeking MU-2 zoning, a Comprehensive Plan amendment and a circulation plan amendment; the hearing is set for Dec. 16. Council also began annexing rights-of-way around Redlands 360, whose planned development was expanded by about 29 acres to roughly 629 acres in August.
-  where: 2911 D 1/2 Road; Redlands
-  refs:
-  - 2
-  - 64
-  - 72
-  - 80
-  topics:
-  - Annexation
-  - Zoning & development
-- title: Materials Recovery Facility financing and Persigo sewer budget
-  summary: Council approved an additional $9.3 million in certificates of participation for the city's Materials Recovery Facility (Ordinance 5338). Separately, the proposed 2027 Persigo wastewater budget is $69.9 million, about $49.7 million of it capital, and Council moved toward a contract amendment for the plant's Phase 2 expansion.
-  where: Persigo Wastewater Treatment Plant
-  refs:
-  - 18
-  - 47
-  - 48
-  - 72
-  topics:
-  - Utilities
-  - Budget & taxes
-  - Fees & rates
 - title: Lincoln Park Barn and Certified Local Government
-  summary: The Historic Preservation Board discussed seeking Certified Local Government status, which could bring design review to historic districts. Members of the public asked the board to nominate the Lincoln Park Barn for designation, and members asked staff to schedule a special meeting on it. The board also commented to CDOT on I-70B impacts on historic resources.
+  summary: The Historic Preservation Board is weighing the city's pursuit of Certified Local Government status and its effect on design review in historic districts. Residents asked the board to nominate the Lincoln Park Barn for designation, and members asked for a special meeting.
   where: Lincoln Park
   refs:
-  - 26
-  - 28
-  - 29
-  - 60
-  - 61
+  - 18
+  - 19
+  - 50
+  - 51
   topics:
   - Historic preservation
   - Land & property
   public_comment: true
-- title: Matchett Park Bike Park and parks capital funding
-  summary: A survey showed strong support for keeping the Matchett bike park. Given the city's budget problems, the parks board moved to hold off on further development there. Parks staff also warned that impact-fee revenue will drop from about $1.2 million to $758,000 in 2027.
-  where: Matchett Park
+- title: I-70B corridor improvements and historic resources
+  summary: The Historic Preservation Board reviewed CDOT's request for comments on I-70B improvements, including impacts on the former Union Carbide building, possible buried streetcar tracks and Emerson Park, and chose to send feedback.
+  where: I-70B corridor
   refs:
-  - 5
-  - 6
-  - 33
-  - 57
+  - 16
   topics:
-  - Parks & open space
-  - Recreation & trails
-  - Budget & taxes
-- title: Water supply planning and turf conversion vs. trees
-  summary: Staff presented a new Water Supply Element for the Comprehensive Plan required by SB 24-174, saying current supplies meet current and projected needs. The Forestry Board discussed how turf conversion can harm mature trees when owners stop irrigating.
+  - Roads & traffic
+  - Historic preservation
+- title: Water supply element and water conservation
+  summary: Staff presented the Water Supply Element required by SB 24-174 for the Comprehensive Plan, saying supplies are sufficient for current and projected needs. Separately, the Forestry Board discussed how turf conversion affects mature trees, and Council reviewed the Juniata Ditch piping grant, which addresses about 1,400 acre-feet of annual loss.
   where: Citywide
   refs:
-  - 4
-  - 37
-  - 43
+  - 21
+  - 27
+  - 33
+  - 66
   topics:
   - Water
   - Environment & climate
-- title: 2324 Highway 6 and 50 rezone to commercial
-  summary: RAMS 1 Ho LLC asked to rezone 2.88 acres from I-1 to CG for a retail and office development in the 24 Road Overlay. The Planning Commission recommended approval, and Council set a hearing for Oct. 21.
-  where: 2324 Highway 6 and 50
+- title: Matchett Park bike park future
+  summary: A survey showed strong support for keeping the Matchett bike park. Given budget limits and the Lunch Loop project, the Parks board moved to hold off on further development.
+  where: Matchett Park
   refs:
-  - 51
-  - 52
-  - 64
-  - 66
-  - 72
+  - 22
+  - 23
+  - 47
+  topics:
+  - Parks & open space
+  - Recreation & trails
+  public_comment: true
+- title: Parks capital plan and impact fee decline
+  summary: The 2027 parks capital plan includes a second greenhouse, parking repairs and playground work, while impact-fee revenue is projected to fall from about $1.2 million to $758,000. Columbine and Hawthorne parks get a $500,000 Safe Streets grant for lighting, and a facility naming policy was approved.
+  where: Citywide parks
+  refs:
+  - 23
+  - 47
+  - 79
+  topics:
+  - Parks & open space
+  - Fees & rates
+  - Budget & taxes
+- title: 2911 D 1/2 Road annexation and mixed-use zoning
+  summary: Anthony Properties petitioned to annex 14.88 acres at 2911 D 1/2 Road. The Planning Commission was to consider a Comprehensive Plan amendment, MU-2 zoning and a Circulation Plan amendment, with a Council hearing set for Dec. 16.
+  where: 2911 D 1/2 Road
+  refs:
+  - 54
+  - 68
+  topics:
+  - Annexation
+  - Zoning & development
+- title: Rezone of 2324 Hwy 6 & 50 to commercial
+  summary: RAMS 1 Ho LLC requested rezoning 2.88 acres from I-1 to CG for new retail and office; the Planning Commission recommended approval, noting the loss of industrial land. Council set a hearing for Oct. 21.
+  where: 2324 Hwy 6 & 50
+  refs:
+  - 41
+  - 42
+  - 54
+  - 56
   topics:
   - Zoning & development
   - Economic development
-- title: Regional fire and EMS services and rural fire district
-  summary: Council discussed the long-term sustainability of the city's regional fire and EMS service. Staff plan to give the Rural Fire District the required two-year notice to renegotiate, and the city manager is pursuing a regional fire district.
-  where: Countywide
+- title: Materials Recovery Facility financing
+  summary: Council approved Ordinance 5338 authorizing an additional $9.3 million in Certificates of Participation to finish acquisition and improvements for the city's Materials Recovery Facility. No public comment was given.
+  where: Citywide
   refs:
-  - 27
-  - 59
+  - 8
   topics:
-  - Fire & emergencies
+  - Utilities
   - Budget & taxes
+- title: Persigo sewer budget and lift station
+  summary: The 2027 Persigo wastewater budget totals $69.9 million, about $49.7 million of it capital, with $4.5 million in unplanned needs. Council also authorized buying 354 Bonny Street for a new sewer lift station.
+  where: Persigo 201 Service Area; 354 Bonny Street
+  refs:
+  - 35
+  - 37
+  - 38
+  topics:
+  - Utilities
+  - Budget & taxes
+  - Fees & rates

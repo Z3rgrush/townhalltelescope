@@ -1,25 +1,6 @@
 # delta-county
 
-## [delta-county#0] 2026-08-04 | Board of County Commissioners | agenda
-- 560 Dodge Street - Delta, CO 81416
-- Delta County Administration Building - 560 Dodge Street
-- CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
-- APPROVAL OF AGENDA
-- 1. Board's consideration of the Minutes for the July 21, 2026 BoCC Regular Meeting
-- 2. Board's consideration of the Minutes for the July 28, 2026 BoCC Special Meeting
-- 3. Board's consideration of an Application for a Permanent Colorado Liquor Sales Room for Shade
-- 4. Board's consideration of an update on Sauvage Spectrum LLC application for a Temporary Sales
-- Canyon Road, Delta. The dates that are different from the previous license are August 29, 2026 has
-- tax appeals for 2026
-- Lannie E. Yeager - R017304 - 37598 Fruitland Mesa Road, Crawford
-- 2. Board of Equalization consideration of Stipulation for Meadow Brook Boulevard LLC - R008369
-- 2. Road and Bridge Reports
-- 1. Board's consideration of Airport Ground Lease North Fork Valley Airport Hangar 151 Leslie
-- Accept dedication of Road Right-of-Way to Delta County for Fire Mountain Road (2.03 +/- acres),
-- as a public road, and approve an Exemption Plat
-- CERTIFICATION OF POSTING
-
-## [delta-county#1] 2026-08-12 | Planning Commission | agenda
+## [delta-county#0] 2026-08-12 | Planning Commission | agenda
 - Consider any changes to the order of the agenda or addition of any matter needing attention that arose after
 - 1. Approve the meeting minutes for the meeting held on July 8, 2026
 - D. PUBLIC HEARING ITEMS
@@ -31,7 +12,7 @@
 - future consideration
 - CERTIFICATION OF POSTING
 
-## [delta-county#2] 2026-08-12 | Planning Commission | agenda
+## [delta-county#1] 2026-08-12 | Planning Commission | agenda
 - Consider any changes to the order of the agenda or addition of any matter needing attention that arose after
 - 1. Approve the meeting minutes for the meeting held on July 8, 2026
 - D. PUBLIC HEARING ITEMS
@@ -71,7 +52,7 @@
 - The Subject Water Rights were originally decreed by the Division 4 Water Court in
 - Case No. 02CW39. The Subject Water Rights are decreed for 1.66 cubic feet per second
 
-## [delta-county#3] 2026-08-18 | Board of County Commissioners | agenda
+## [delta-county#2] 2026-08-18 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
@@ -86,7 +67,7 @@
 - Approval of the plan
 - CERTIFICATION OF POSTING
 
-## [delta-county#4] 2026-08-18 | Board of County Commissioners | agenda
+## [delta-county#3] 2026-08-18 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
@@ -121,19 +102,19 @@
 - at 37958 at Fruitland Mesa Road and retain the actual value at $449,341.00. Commissioner Fuller 47
 - Board of Equalization consideration of Stipulation for Meadow Brook Boulevard LLC – R008369: 52
 
-## [delta-county#5] 2026-08-24 | Board of Health | agenda
+## [delta-county#4] 2026-08-24 | Board of Health | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - Variance Request – OWTS Variance for 11958
 - CERTIFICATION OF POSTING
 
-## [delta-county#6] 2026-08-24 | Board of Health | agenda
+## [delta-county#5] 2026-08-24 | Board of Health | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - Discuss Public Health Policy: Portable Chemical Toilets*
 - CERTIFICATION OF POSTING
 
-## [delta-county#7] 2026-09-01 | Board of County Commissioners | agenda
+## [delta-county#6] 2026-09-01 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
@@ -154,7 +135,7 @@
 - PRESENTATION
 - CERTIFICATION OF POSTING
 
-## [delta-county#8] 2026-09-01 | Board of County Commissioners | agenda
+## [delta-county#7] 2026-09-01 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
@@ -189,13 +170,13 @@
 - he thought he would get his feet wet and see what it is all about and maybe they could get some direction 68
 - three hours the wind goes in a different direction. He did it in feet instead of measuring the wind on the 5
 
-## [delta-county#9] 2026-09-15 | Board of Health | agenda
+## [delta-county#8] 2026-09-15 | Board of Health | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - Review of the July/Aug Payment Approval Report*
 - CERTIFICATION OF POSTING
 
-## [delta-county#10] 2026-09-15 | Board of County Commissioners | agenda
+## [delta-county#9] 2026-09-15 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
@@ -222,7 +203,7 @@
 - Storage Systems (BESS) and Repealing Moratorium Resolutions No. 2025-R-43 and No. 2026-R
 - CERTIFICATION OF POSTING
 
-## [delta-county#11] 2026-09-15 | Board of County Commissioners | agenda
+## [delta-county#10] 2026-09-15 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
@@ -260,7 +241,7 @@
 - Board’s consideration of a Liquor License Renewal for a Hotel and a Restaurant for SFR 40
 - Teri stated that she has received all necessary documentation, fees and the Sheriff was contacted and 43
 
-## [delta-county#12] 2026-10-06 | Board of County Commissioners | agenda
+## [delta-county#11] 2026-10-06 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
@@ -282,7 +263,7 @@
 - 4. Board's consideration of a Resolution submitting proposed Land Use Code amendments to the Delta
 - CERTIFICATION OF POSTING
 
-## [delta-county#13] 2026-10-06 | Board of County Commissioners | agenda
+## [delta-county#12] 2026-10-06 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
@@ -317,7 +298,7 @@
 - Arizona burnt everything down and good pictures shows the plume and how it separated like a clover leaf 23
 - and they chose not to use water and drug a couple of the containers away. What happened is all those 24
 
-## [delta-county#14] 2026-10-13 | Board of County Commissioners | agenda
+## [delta-county#13] 2026-10-13 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS
@@ -325,7 +306,7 @@
 - 1. Proposed 2027 Delta County Budget Presentation
 - CERTIFICATION OF POSTING
 
-## [delta-county#15] 2026-10-14 | Planning Commission | agenda
+## [delta-county#14] 2026-10-14 | Planning Commission | agenda
 - Consider any changes to the order of the agenda or addition of any matter needing attention that arose after
 - 1. Approve the Meeting Minutes for the July 8, 2026, meeting as presented
 - 2. Approve the Meeting Minutes for the July 29, 2026, meeting as presented
@@ -340,7 +321,7 @@
 - future consideration
 - CERTIFICATION OF POSTING
 
-## [delta-county#16] 2026-10-14 | Planning Commission | agenda
+## [delta-county#15] 2026-10-14 | Planning Commission | agenda
 - Consider any changes to the order of the agenda or addition of any matter needing attention that arose after
 - 1. Approve the Meeting Minutes for the July 8, 2026, meeting as presented
 - 2. Approve the Meeting Minutes for the July 29, 2026, meeting as presented
@@ -379,7 +360,7 @@
 - prior to the meeting regarding temporary special events, intensive agricultural setbacks, site plan reviews and a late
 - comment regarding suggested technical verbiage modification of the BESS amendment. Mr. Gardner shared an
 
-## [delta-county#17] 2026-10-20 | Board of County Commissioners | agenda
+## [delta-county#16] 2026-10-20 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
@@ -397,7 +378,7 @@
 - 3. Board's consideration and approval of a Mini Grant
 - CERTIFICATION OF POSTING
 
-## [delta-county#18] 2026-10-20 | Board of County Commissioners | agenda
+## [delta-county#17] 2026-10-20 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
@@ -435,7 +416,7 @@
 - Leone explained that the old rates had not increased since 2008 and we all know that prices for meals 14
 - has increased and the old rates were barely covering meals when traveling. Based on economic mileage 15
 
-## [delta-county#19] 2026-10-27 | Board of County Commissioners | agenda
+## [delta-county#18] 2026-10-27 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building — 560 Dodge Street, Delta
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
@@ -443,3 +424,61 @@
 - 2. county-held tax liens
 - 3. Liquor License Fees Update
 - 8:30 am to 12:30 pm, at the Administration Building, 560 Dodge Street, Delta. The Commissioners also hold regular
+
+## [delta-county#19] 2026-11-03 | Board of County Commissioners | agenda
+- 560 Dodge Street - Delta, CO 81416
+- Delta County Administration Building - 560 Dodge Street
+- CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
+- APPROVAL OF AGENDA
+- 1. Board's consideration of the Minutes for the October 20, 2026 BoCC Regular Meeting
+- 2. Board's consideration of a Club Liquor License Renewal for American Legion Wilson Head Post
+- #97 located at 40772 Lamborn Mesa Road, Paonia
+- 1. Board's consideration proclaiming November National Hospice Month with HopeWest Community
+- 2. Emergency Manager Kris Stewart — Review and Chair's signature for the Homeland Security Grant
+- 2. Road and Bridge Reports
+- 1. PLN26-036 Ventimiglia Replat - Accept a Replat of the West Elk Subdivision (Antonsson/
+- Antonsson/ Shiles/ Sunberg Boundary Line Adjustment), modifying a Plat Note Restriction
+- 2. PUBLIC HEARING
+- Board's consideration of a Resolution Adopting Amendments to the Delta County Land Use Code
+- CERTIFICATION OF POSTING
+
+## [delta-county#20] 2026-11-03 | Board of County Commissioners | agenda
+- 560 Dodge Street - Delta, CO 81416
+- Delta County Administration Building - 560 Dodge Street
+- CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
+- APPROVAL OF AGENDA
+- 1. Board's consideration of the Minutes for the October 20, 2026 BoCC Regular Meeting
+- 2. Board's consideration of a Club Liquor License Renewal for American Legion Wilson Head Post
+- #97 located at 40772 Lamborn Mesa Road, Paonia
+- 1. Board's consideration proclaiming November National Hospice Month with HopeWest Community
+- 2. Emergency Manager Kris Stewart — Review and Chair's signature for the Homeland Security Grant
+- 2. Road and Bridge Reports
+- 1. PLN26-036 Ventimiglia Replat - Accept a Replat of the West Elk Subdivision (Antonsson/
+- Antonsson/ Shiles/ Sunberg Boundary Line Adjustment), modifying a Plat Note Restriction
+- 2. PUBLIC HEARING
+- Board's consideration of a Resolution Adopting Amendments to the Delta County Land Use Code
+- CERTIFICATION OF POSTING
+- months from the above date. All documents incorporated in these minutes by reference are also available 10
+- Chairman Lane approved the agenda as presented. 19
+- Board’s consideration of the minutes for the October 6, 2026 BoCC Regular Meeting accepted as 25
+- Board’s consideration of the minutes for the October 13, 2026 BoCC Special Meeting accepted as 28
+- Board’s consideration of PLN26-013 Driveway Spacing Variance Request: 32
+- Project Location: 37
+-  3260 Road is along the west property line 41
+-  3260 Road is a Public Use – Privately Maintained Gravel Road 42
+- Project Details 43
+-  Development of Parcel number 324135100004 (change from residential use to 44
+-  Access application was received March10, 2026 as part of the LUP Application 46
+-  The parcel boarders 3260 Road on its west boundary 47
+-  Proposed access is to 3260 Road 48
+- o 3260 Road is classified as a Local Service Gravel Road – Public Use Privately 49
+- Maintained (Item 12 Delta County Roadway Design Standards. 50
+-  Delta County Roadway design & Construction Standards 52
+- o Driveway Spacing Standards require new access points on Local Road to be a minimum 53
+- of 200 feet from an Arterial Road 54
+-  Approve Variance with conditions 58
+-  Approve Variance to driveway spacing standards 59
+- Tim stated that the Delta County Roadway Design Standards for driveway spacing on a local road must 62
+- be 200’ from a major arterial road, which is Highway 92. The applicant is requesting a reduction of the 63
+- the County Roadway Standards require 200’ south of Highway 92 for the beginning entrance of their 2
+- driveway and a major road like Highway 92 and eventually causing issues with vehicles trying to get on 5

@@ -1,8 +1,8 @@
-- title: Regulations for wind, solar, battery storage and data center facilities
-  summary: The county commissioners had an agenda item on regulations for wind energy, solar, battery energy storage and data center facilities on Aug. 20. A Land Use Code public hearing was cancelled that day. The documents do not state what was decided.
+- title: Wind, solar, battery storage and data center regulations
+  summary: The county commissioners had an agenda item on regulations for wind energy, solar, battery energy storage and data center facilities on Aug. 20. A Land Use Code public hearing was cancelled that day. The documents do not say what was decided.
   where: Countywide
   refs:
-  - 1
+  - 0
   topics:
   - Data centers
   - Energy
@@ -10,10 +10,11 @@
   tags:
   - data-center
 - title: 2027 county budget work sessions
-  summary: The commissioners scheduled 2027 budget work sessions after their meetings on Sept. 9, Sept. 29, Oct. 9, Oct. 19 and Oct. 30. A 2027 sales tax MOU for control of confidential data also came up on Sept. 29.
+  summary: Commissioners scheduled 2027 budget work sessions after their meetings from September through November. A 2027 sales tax MOU for control of confidential data also came up on Sept. 29.
   where: Countywide
   refs:
-  - 3
+  - 2
+  - 4
   - 5
   - 6
   - 7
@@ -21,72 +22,67 @@
   topics:
   - Budget & taxes
 - title: Floodplain ordinance
-  summary: A floodplain ordinance had its first reading on Oct. 19 and its second reading on Oct. 30.
-  where: Countywide
-  refs:
-  - 7
-  - 8
-  topics:
-  - Land & property
-  - Environment & climate
-  - Zoning & development
-- title: Housing needs assessment and water supply element
-  summary: On Oct. 9 the commissioners considered a request for qualifications for a housing needs assessment and water supply element. On Oct. 30 they took up Proposition 123 recertification, which relates to affordable housing commitments.
+  summary: A floodplain ordinance had its first reading on Oct. 19 and its second reading on Oct. 30. The documents do not give its contents.
   where: Countywide
   refs:
   - 6
-  - 8
+  - 7
+  topics:
+  - Environment & climate
+  - Land & property
+  - Zoning & development
+- title: Housing needs assessment and Proposition 123 recertification
+  summary: The county sought qualifications from firms for a Housing Needs Assessment and Water Supply Element on Oct. 9. On Oct. 30 it took up Proposition 123 recertification, which relates to affordable housing commitments.
+  where: Countywide
+  refs:
+  - 5
+  - 7
   topics:
   - Housing
   - Water
-- title: Landfill equipment purchase and landfill rates
-  summary: The landfill manager presented an equipment purchase on Aug. 20, and landfill rates were on the Aug. 31 agenda.
+- title: Landfill equipment purchase and rates
+  summary: The landfill manager presented an equipment purchase on Aug. 20. Landfill rates were on the Aug. 31 agenda.
   where: County landfill
   refs:
+  - 0
   - 1
-  - 2
   topics:
   - Fees & rates
   - Utilities
 - title: Viaero roadway occupancy agreements
-  summary: Roadway occupancy agreements with Viaero were on the agenda on Aug. 31 and again on Oct. 9.
+  summary: Roadway occupancy agreements with Viaero were on the Aug. 31 and Oct. 9 agendas. Such agreements cover the company's use of county road right-of-way.
   where: County roads
   refs:
-  - 2
-  - 6
+  - 1
+  - 5
   topics:
   - Roads & traffic
   - Broadband
+  - Utilities
+- title: Brightwater Cattle Co. on County Road 38 and minor land use change
+  summary: The commissioners heard a Brightwater Cattle Co. item on County Road 38 on Oct. 30. A public hearing on a minor land use change for Jason Roberts was held Sept. 21.
+  where: County Road 38
+  refs:
+  - 3
+  - 7
+  topics:
+  - Land & property
+  - Zoning & development
+  - Agriculture & wildlife
 - title: Road and Bridge propane contracts and equipment
-  summary: Road and Bridge brought a CHS propane contract on Sept. 29, propane contracts on Oct. 9, and a cutting edges equipment purchase on Sept. 29.
+  summary: Road and Bridge brought a CHS propane contract and a cutting edges equipment purchase on Sept. 29. Propane contracts returned Oct. 9.
   where: Countywide
   refs:
+  - 4
   - 5
+  topics:
+  - Roads & traffic
+  - Government operations
+- title: Fairgrounds entrance asphalt replacement
+  summary: The commissioners considered a project payment for replacing asphalt at the fairgrounds entrance on Oct. 19.
+  where: County fairgrounds
+  refs:
   - 6
   topics:
   - Roads & traffic
-  - Budget & taxes
-- title: Minor land use change hearing for Jason Roberts
-  summary: A public hearing on a minor land use change requested by Jason Roberts was scheduled Sept. 21. The documents do not state the outcome.
-  refs:
-  - 4
-  topics:
-  - Zoning & development
-  - Land & property
-- title: Brightwater Cattle Co. and County Road 38
-  summary: An item concerning Brightwater Cattle Co. and County Road 38 was on the Oct. 30 agenda.
-  where: County Road 38
-  refs:
-  - 8
-  topics:
-  - Roads & traffic
-  - Agriculture & wildlife
-- title: Human services contract and carpet bids
-  summary: The Department of Human Services director presented a contract on Aug. 20, and DHS carpet bids were considered on Sept. 21.
-  where: Department of Human Services
-  refs:
-  - 1
-  - 4
-  topics:
-  - Health & human services
-  - Government operations
+  - Recreation & trails

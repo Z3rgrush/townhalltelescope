@@ -91,3 +91,24 @@
 - Closing of Hearing
 - Action: Following the Public Hearing- Regular Board Meeting- Ordinance No. 789
 - amending Table 16-4A, Use Chart, for the Town of Del Norte
+
+## [del-norte#7] 2026-11-05 | City Council | agenda
+- Del Norte Town Hall Council Chambers – 140 Spruce Street
+- A. AMENDMENT TO AGENDA
+- 2. Review and Approval of Financial Accounts /Reports
+- F. CONTRACTS/AGREEMENTS/LEASES/REQUEST
+- 1. Del Norte Library Request for funding for computers
+- H. PERMITS/LICENSES/LIQUOR RENEWALS
+- 1. Special Event Permit- La Verde Foundation- Christmas Gala
+- 2. Special Events Permit- Del Norte Chamber-Parade of Lights
+- I. RESOLUTIONS/ORDINANCES
+- 24-6-402-(4)(b); To discuss the purchase, acquisition of lease, transfer, or sale of real, personal, or other
+- 2. Neighborhood Watch Meeting- November 18, 2026, RG Annex 6pm
+- 3. Del Norte Town Board Work Session Town Budget-November 18, 2026 6pm
+
+## [del-norte#8] 2026-11-05 | City Council | agenda
+- PUBLIC HEARING
+- 2027 Proposed Budget
+- Hearing Officer: Attorney Eugene Farish
+- I. Statement of Purpose of Hearing
+- Discussion/Closing of Hearing:

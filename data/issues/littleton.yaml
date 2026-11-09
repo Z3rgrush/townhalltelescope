@@ -1,100 +1,121 @@
-- title: Temporary moratorium on data center applications
-  summary: On Oct. 20, 2026 council took up Ordinance 22-2026 on first reading, which would pause acceptance, processing and approval of data center applications while staff study and recommend land use regulations.
+- title: Temporary moratorium on data centers
+  summary: Council took up Ordinance 22-2026, which would pause acceptance, processing and approval of data center applications while staff study and recommend land use regulations. It was on first reading Oct. 20 and second reading Nov. 3.
   where: Citywide
   refs:
-  - 14
+  - 13
+  - 15
   topics:
   - Data centers
   - Zoning & development
   tags:
   - data-center
+- title: South Platte Renew wastewater plant governance
+  summary: Council reviewed governance model options for South Platte Renew, the wastewater treatment facility Littleton owns jointly with Englewood. Resolution 81-2026 on Nov. 3 expresses support for forming a public authority to operate it and directs staff on next steps.
+  where: South Platte Renew wastewater treatment facility
+  refs:
+  - 0
+  - 15
+  topics:
+  - Utilities
+  - Government operations
 - title: Geneva Village site redevelopment
-  summary: Council discussed process options and advisory services for redeveloping the Geneva Village site in August, and on Oct. 27 was set to hear the Redevelopment Advisory Team's recommendation.
+  summary: Council discussed process options for redeveloping the Geneva Village site in August and received the Redevelopment Advisory Team's recommendation on Oct. 27.
   where: Geneva Village site
   refs:
-  - 1
-  - 15
+  - 0
+  - 14
   topics:
   - Land & property
   - Zoning & development
-- title: Utility rate study and South Platte Renew governance
-  summary: Council reviewed Part 2 of the utility rate study results and analyzed governance model options for South Platte Renew, the wastewater plant shared with Englewood.
+  - Housing
+- title: 2027 budget and tax levies
+  summary: On first reading Nov. 3, council considered the 2027 annual budget appropriations, enterprise fund budgets and amendments to the 2026 budget. It also considered the tax levies, including one for the Downtown Development Authority. Council also approved 2027 operating plans and budgets for the Aspen Grove and Mineral Business Improvement Districts.
   where: Citywide
   refs:
-  - 1
+  - 13
+  - 15
   topics:
-  - Utilities
+  - Budget & taxes
+  - Downtown & business
+- title: Utility rate study
+  summary: Council heard Part 2 of the utility rate study results on Aug. 11. The documents do not state any decisions.
+  where: Citywide
+  refs:
+  - 0
+  topics:
   - Fees & rates
-  - Water
-- title: Economic partnership incentives for Mineral area retail (RIG Mineral, Scheels)
-  summary: Council considered an updated Economic Partnership Incentives Policy and agreements with RIG Mineral LLC, including a sales tax share-back amendment and a new agreement involving Scheels.
+  - Utilities
+- title: Economic partnership incentives for Mineral/Scheels retail
+  summary: Council took up an amended Economic Partnership Incentives Policy (Resolution 61-2026). It also considered an amendment to the sales tax share-back agreement with RIG Mineral LLC and a new incentive agreement involving RIG Mineral and Scheels.
   where: Mineral area
   refs:
+  - 5
   - 6
-  - 7
   topics:
   - Economic development
   - Budget & taxes
+- title: 'Safer streets: 25 mph speed limit and street safety'
+  summary: Ordinance 17-2026 would set a maximum lawful speed limit of 25 mph. It was on first reading Aug. 18 and second reading Sept. 1. Council also received a Safer Streets update on Sept. 8. A Transportation Master Plan update contract was on the Oct. 20 agenda.
+  where: Citywide
+  refs:
+  - 2
+  - 4
+  - 5
+  - 13
+  topics:
+  - Roads & traffic
+  - Policing & public safety
 - title: E-bike and e-motor safety ordinance
   summary: Council discussed a draft ordinance on e-bike and e-motor safety on Aug. 25.
   where: Citywide
   refs:
-  - 4
+  - 3
   topics:
   - Roads & traffic
-  - Recreation & trails
-- title: 25 mph speed limit ordinance and Safer Streets
-  summary: Ordinance 17-2026 would set a maximum lawful speed of 25 mph; it passed first reading Aug. 18 and came up for second reading Sept. 1. Council also received a Safer Streets update on Sept. 8.
+  - Policing & public safety
+- title: Hauler licensing, waste diversion and equal space ordinance
+  summary: Council discussed a proposal for trash hauler licensing and an equal space ordinance in August. Ordinance 19-2026, amending Title 3 and tied to the South Metro Waste Diversion Plan, went to first reading Oct. 20 and second reading Nov. 3.
   where: Citywide
   refs:
-  - 3
-  - 5
-  - 6
-  topics:
-  - Roads & traffic
-- title: Street projects and transportation planning
-  summary: Council approved contracts for the 2026 Mill & Overlay and surface sealing projects, studied the Elati Street corridor, and approved a consultant agreement for the Transportation Master Plan update.
-  where: Citywide; Elati Street
-  refs:
-  - 3
-  - 5
-  - 14
-  topics:
-  - Roads & traffic
-- title: Hauler licensing and waste diversion rules
-  summary: Council discussed hauler licensing and an Equal Space Ordinance proposal, then took up Ordinance 19-2026 amending Title 3 on Oct. 20, tied to the South Metro Waste Diversion Plan. A Circular Action Alliance subaward was also on consent.
-  where: Citywide
-  refs:
-  - 3
-  - 7
-  - 14
+  - 2
+  - 13
+  - 15
   topics:
   - Environment & climate
   - Utilities
-- title: Sign variances for 2450 W Main Street
-  summary: The Appeals & Adjustment Commission was to hear seven variance requests for signs at 2450 W Main Street, including a marquee sign projecting 6 ft, extra height, and exposed bulb lighting.
+- title: Main Street sign variances at 2450 W Main Street
+  summary: The Appeals & Adjustment Commission was to hear seven variance requests for signs at 2450 W Main Street. They covered a marquee sign projecting 6 ft where 4 ft is allowed, a 30 ft clearance where 25 ft is allowed, exposed bulb lighting, and two window signs.
   where: 2450 W Main Street
   refs:
-  - 8
+  - 7
   topics:
-  - Downtown & business
   - Zoning & development
-- title: Historic review of Main Street facade remodels
-  summary: The Historical Preservation Commission was to consider certificates of appropriateness, including a restaurant facade remodel at 2589 W Main Street.
+  - Downtown & business
+- title: Historic review of facade remodel at 2589 W Main Street
+  summary: The Historical Preservation Commission held a public hearing on a certificate of appropriateness for a facade remodel of an existing restaurant at 2589 W Main Street. A second certificate (HPC Resolution 04-2026) was also on the agenda.
   where: 2589 W Main Street
   refs:
-  - 2
+  - 1
   topics:
   - Historic preservation
   - Downtown & business
-- title: Land use code update and Main Street investment
-  summary: Planning Commission looked at transition standards and previewed the Unified Land Use Code update, and council discussed a Main Street investment strategy and joint study session priorities.
-  where: Citywide; Main Street
+- title: Bear Valley Bible Institute master plan
+  summary: The Planning Commission considered a conceptual master development plan for Bear Valley Bible Institute at 7926 S. Platte Canyon Road.
+  where: 7926 S. Platte Canyon Road
   refs:
-  - 0
-  - 9
-  - 10
-  - 12
+  - 16
   topics:
   - Zoning & development
+  - Land & property
+- title: Main Street investment, Elati corridor and land use code update
+  summary: Council reviewed Main Street investment strategies and an Elati Street corridor study update. The Planning Commission previewed a Unified Land Use Code update and joint study session topics.
+  where: Main Street and Elati Street
+  refs:
+  - 4
+  - 8
+  - 9
+  - 11
+  topics:
   - Downtown & business
+  - Zoning & development
+  - Roads & traffic

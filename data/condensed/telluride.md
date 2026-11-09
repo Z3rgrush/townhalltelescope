@@ -1,46 +1,6 @@
 # telluride
 
-## [telluride#0] 2026-08-19 | Historic & Architectural Review Commission Chair | agenda
-- II. PUBLIC COMMENT ON NON-AGENDA ITEMS
-- public comment
-- III. PUBLIC HEARING ITEMS
-- 1 PROJECT TITLE: Minor Scale Pergola
-- SUMMARY: Consideration of a Minor-Scale alteration of a rated structure that does
-- currently in violation, as it was constructed without a permit
-- REPLAT OF LOTS 21 22 AND WEST HALF LOT 23 BLOCK 6 WEST TELLURIDE
-- ADDITION TO THE TOWN OF TELLURIDE ACC TO THE PLAT REC IN PLAT BK 1
-- Efficiency – We value time and expediency, and come to each meeting prepared and understanding each application to
-- staff, members of the public, and each other. Our discussions and deliberations are civil and considerate
-- Consistency – Our review of applications and decisions will be based on the Master Plan, Land Use Code, and the
-- comment on the proposed development, please forward your comment letter to "Attention: Historic & Architectural Review Commission"
-- NOTE: In the interest of managing the agenda and time, the Chair may request public comment to be kept to 3 minutes per person
-- PROJECT TITLE: Minor Scale Pergola
-- violation, as it was constructed without a permit
-- LEGAL DESCRIPTION: LOT 21A SWEDE FINN HALL MINOR SUBDIVISION REPLAT OF
-- OFF STREET LEASED PARKING SPACE FROM TOT ACC TO BK 493 PG 614
-- GROUNDWATER: Zone 2, depths 5’ – 20’
-- RATED STRUCTURES IN THE IMMEDIATE VICINITY: Several
-- IDENTIFICATION: 5SM.1657
-- 2. Site Plan provided by applicant, dated 06/25/2026
-- PROJECT SCOPE
-- of West Pacific Avenue and Townsend Street, near the historic depot. Constructed between 1898
-- throughout its history—first for Swedish-Finn immigrants and their cultural organizations, and today
-- constructed without permits
-- Guidelines apply to this application. Only applicable Design Guidelines from each section are listed
-- The pergola structure was constructed without the required permits and design review and is
-- currently in violation. Staff do not find sufficient justification to support approval, given the
-- denial of the application. As an alternative, the Chair could consider allowing the pergola to
-- remain only as a temporary structure, with the applicant required to obtain a separate permit for
-- I move to DISSAPPROVE (OR have the applicant apply for a temporary permit for the pergola
-- This motion is based on evidence and testimony provided at a public hearing held on August 19,
-- 2026, with notice of such hearing provided as required by the Telluride Land Use Code
-- I. IDENTIFICATION
-- 13. Boundary description and justification:
-- 14. Building plan (footprint, shape): Rectangular Plan
-- 15. Dimensions in feet: 1775 square feet
-- Avenue and Townsend Street. It is supported by a low concrete foundation, which is considerably higher at the
-
-## [telluride#1] 2026-08-19 | Parks & Recreation Commission | agenda
+## [telluride#0] 2026-08-19 | Parks & Recreation Commission | agenda
 - Parks & Recreation Commission Meeting
 - 1. PUBLIC COMMENT (5 MINUTE MAXIMUM PER PERSON)
 - 2. APPROVAL OF MINUTES
@@ -88,7 +48,7 @@
 -  Fee increases of $2.00-$5.00 per night per site type, or an average of 8.13%
 - fees continue to be inclusive of lodging taxes and credit card processing fees
 
-## [telluride#2] 2026-08-20 | Liquor Licensing Authority | agenda
+## [telluride#1] 2026-08-20 | Liquor Licensing Authority | agenda
 - INSTRUCTIONS FOR PUBLIC COMMENT
 - public comment
 - I. PUBLIC COMMENT
@@ -135,7 +95,7 @@
 - ABT Certified
 - permit, an require shall Authority the also
 
-## [telluride#3] 2026-08-25 | Ethics Commission | agenda
+## [telluride#2] 2026-08-25 | Ethics Commission | agenda
 - I. APPROVAL OF MINUTES
 - I.a. Approval of Meeting Minutes - May 18, 2026
 - II.b. Discussion and Possible Recommendation to Town Council to Establish a Code of
@@ -176,7 +136,7 @@
 - common law in all respects as to the subject matter of this Code, to the extent legally permitted. (Prior code
 - contrary or when such application would be manifestly inconsistent with the plain intent of the Town Council:
 
-## [telluride#4] 2026-08-26 | Resident Advisory Committee | agenda
+## [telluride#3] 2026-08-26 | Resident Advisory Committee | agenda
 - 1. APPROVAL OF MINUTES
 - A. No minutes to approve at this meeting
 - This is a link to the Telluride Employee Rental Housing Policies: Rental Housing
@@ -187,7 +147,7 @@
 - General public comment period to receive comments from tenants/residents
 - per year); identify translation needs
 
-## [telluride#5] 2026-08-26 | Public Art Commission (PAC) | agenda
+## [telluride#4] 2026-08-26 | Public Art Commission (PAC) | agenda
 - III.A. Existing Policy and Guidelines for Review of Public Art - Review and Discuss
 - Town Council 2026 Objective I.D.5. Explore opportunities to integrate public art and
 - IV. COMMISSION AND STAFF DISCUSSION
@@ -196,7 +156,7 @@
 - b. To review requests for public art in Town Park and other Town-owned properties managed by the Parks and
 - Recreation Department and make a recommendation to the Parks and Recreation Commission
 
-## [telluride#6] 2026-09-02 | Telluride Housing Authority Subcommittee | agenda
+## [telluride#5] 2026-09-02 | Telluride Housing Authority Subcommittee | agenda
 - Telluride Housing Authority Subcommittee Regular
 - I. APPROVAL OF MINUTES
 - A. Consideration and Approval from Minutes of June 3, 2026
@@ -238,7 +198,7 @@
 - A. Consideration of a Request from Alpine Planning proposing to deed
 - The applicants presented their project and responded to questions. Some of the
 
-## [telluride#7] 2026-09-02 | Ecology Commission | agenda
+## [telluride#6] 2026-09-02 | Ecology Commission | agenda
 - I. GENERAL ANNOUNCEMENTS/PUBLIC COMMENT
 - II. APPROVAL OF MINUTES
 - III.A. 2027 Workplan Initial Discussion
@@ -276,7 +236,7 @@
 - regarding equity considerations in Town
 - programs (incentives, rebates, etc.) related
 
-## [telluride#8] 2026-09-14 | Telluride Housing Authority Subcommittee | agenda
+## [telluride#7] 2026-09-14 | Telluride Housing Authority Subcommittee | agenda
 - Telluride Housing Authority Subcommittee
 - I. PUBLIC COMMENT
 - A. Worksession to Discuss Intent and Potential Guidelines/Policies Changes with
@@ -309,7 +269,7 @@
 - adoption of the Telluride Employee Rental Housing Policies (Policies) on November 19, 2024
 - Section 105 of the Policies created a defined methodology for the management of the housing waitlist
 
-## [telluride#9] 2026-09-16 | Historic & Architectural Review Commission Chair | agenda
+## [telluride#8] 2026-09-16 | Historic & Architectural Review Commission Chair | agenda
 - II. PUBLIC COMMENT ON NON-AGENDA ITEMS
 - public comment
 - III. PUBLIC HEARING ITEMS
@@ -345,50 +305,7 @@
 - Article 7, Division 1, and if the applicant demonstrates a legitimate need to delay the start of
 - 7-211.J.2. An application for extension of a CA shall be submitted to the Planning Director no less
 
-## [telluride#10] 2026-09-16 | Historic & Architectural Review Commission | agenda
-- To submit written public comments after noon, please print and bring printed materials
-- to the hearing or testify in person
-- II. APPROVAL OF MINUTES
-- IV. PUBLIC COMMENT ON NON-AGENDA ITEMS
-- public comment
-- 1 PROJECT TITLE: 113 W Columbia Work Session
-- SUMMARY:Consideration of an application for a Work Session on potential
-- VI. PUBLIC HEARING ITEMS
-- 1 PROJECT TITLE: Phoenix Market CA Extension and Associated Vested Property
-- SUMMARY: Consideration of an application for an extension of a Certificate of
-- 2 PROJECT TITLE: 208 S Fir Street HARC Large-Scale Final Development (Continued
-- SUMMARY: Consideration of a Final Large-Scale application for new construction
-- that will contain five thousand (5,000) square feet or more of floor area per LUC 7
-- 208 S Fir Public Comment Brendel
-- 208 S Fir Public Comment
-- 208 S. Fir Public Comment Booz
-- 3 PROJECT TITLE: 845 Primrose Lane CA Amendment (Continued from the August
-- SUMMARY:Consideration of a Small-Scale application for an amendment to
-- Certificate of Appropriateness No. 10910 per LUC 7-212 and LUC 7-203.B.1.3
-- SUBDIVISION REPLAT A LARGE SCALE SUBDIVISION REPLAT OF PORTIONS
-- 4 PROJECT TITLE: 461 Dakota Ave (Continued from the August 19, 2026 HARC
-- SUMMARY: Consideration of an application for Small-Scale new construction of a
-- acres. Lot 10, Block 6, Dakota Addition to the Town of Telluride, per plat recorded
-- 461 Dakota - Public Comment-Jackson, D.-8-19-2026
-- 5 PROJECT TITLE: 734 Primrose Small-Scale (Continued from the August 19, 2026
-- VII. BOARD AND STAFF DISCUSSION
-- each application to the best of our individual ability
-- contributions of applicants, staff, members of the public, and each other. Our discussions and
-- deliberations are civil and considerate
-- Consistency – Our review of applications and decisions will be based on the Master Plan, Land Use
-- you would like to comment on the proposed development, please forward your comment letter to "Attention:
-- NOTE: In the interest of managing the agenda and time, the Chair may request public comment to be kept to 3
-- Community Housing Manager James Van Hooser
-- Projects Manager Lance McDonald
-- Road. Bear Black 860 at that site walk announced Shambaugh Chair occurred Only topics
-- relating to the orientation, physical characteristics, and layout of the site were discussed
-- III. APPROVAL OF MINUTES
-- To approve the meeting minutes of July 15, 2026 as presented
-- Chair Shambaugh approved the Chair meeting minutes of July 15, 2026 as presented
-- focus on the Colorado Wildfire Resiliency Code, Flood Plane regulations, and the construction
-- mitigation plan
-
-## [telluride#11] 2026-09-17 | Liquor Licensing Authority | agenda
+## [telluride#9] 2026-09-17 | Liquor Licensing Authority | agenda
 - INSTRUCTIONS FOR PUBLIC COMMENT
 - public comment
 - I. PUBLIC COMMENT
@@ -427,7 +344,7 @@
 - For The Telluride Blues And Brews Festival For Use At Telluride Town Park, 500 E. Colorado
 - hearing, the Telluride Liquor Licensing Authority grant ed three (3) Special Event Permits to
 
-## [telluride#12] 2026-09-22 | Telluride Housing Authority | agenda
+## [telluride#10] 2026-09-22 | Telluride Housing Authority | agenda
 - Telluride Housing Authority Meeting
 - A. Approval of Minutes - July 21, 2026
 - Telluride Housing Authority - Jul 21 2026 - DRAFT Minutes
@@ -468,7 +385,7 @@
 - of Qualified Owners who would otherwise be priced out of other local affordable housing
 - have been discussed by Town Council at length, and this request comes as a last resort
 
-## [telluride#13] 2026-09-23 | Vending Subcommittee | agenda
+## [telluride#11] 2026-09-23 | Vending Subcommittee | agenda
 - I. APPROVAL OF MINUTES
 - II.a. Appointment of Vending Subcommittee Chairperson
 - Staff Memo - Applications Winter - Pdf
@@ -506,47 +423,7 @@
 -  A business plan with a description of the products to be sold, trash disposal,
 - The applicant has been advised of the date and time of this hearing and have been
 
-## [telluride#14] 2026-09-24 | Planning & Zoning Commission | agenda
-- Planning & Zoning Commission
-- II. APPROVAL OF MINUTES
-- Planning & Zoning Commission - Aug 20 2026 - DRAFT Minutes
-- IV. PUBLIC COMMENT ON NON-AGENDA ITEMS
-- public comment
-- 1 PROJECT TITLE: Telluride School District R1 Employee Housing Work Session
-- SUMMARY: Consideration of an application for a Work Session on proposed new
-- construction for employee housing at the northwest corner of the Telluride Middle
-- High School site, pursuant to LUC 5-201.C. and an Intergovernmental Agreement
-- LEGAL DESCRIPTION: LOT A R1 SCHOOL DISTRICT ACC TO REPLAT NO 3
-- TELLURIDE R1 SCHOOL DISTRICT A REPLAT OF LOT A OF REPLAT NO 2
-- REPLAT OF LOT 4 BUTCHER CREEK AND LOT A WEST TELLURIDE ADDITION
-- REC 08 21 2012 PLAT BK 1 PG 4538-4539
-- 2 Telluride Land Use Code ("LUC") Potential Amendments Work Session
-- Further discussion on potential amendments to the following:
-- VI. PUBLIC HEARING ITEM
-- staff capacity, the following Public Hearing will be Continued Without Discussion from
-- PROJECT TITLE: Shandoka Lot Redevelopment Project – Preliminary PUD
-- SUMMARY: (PUD) Development Unit Planned a of Consideration Preliminary
-- application to increase certain dimensional limitations and provide public benefits on
-- LEGAL DESCRIPTION: Lot L Backman Village Accord to Plat Bk 1 Pg 328 and
-- Replat 1 30 96 Bk 1 Pg 1991 of Lots J and L Dedication Bk 483 P733 Cont 4.07 Ac
-- VII. BOARD AND STAFF DISCUSSION
-- If you would like to comment on the proposed project, please forward your comment letter to “Attention: Planning and
-- person at Rebekah Hall at the address listed above. Please include "Public Comment" and the address of the project you
-- are commenting on in the Subject line if you submit a public comment by email
-- Written public comment must be submitted prior to 9 a.m. on the day of the P&Z meeting for distribution to P&Z members
-- and adding to the Document Center in advance of the meeting. To submit written public comment after 9 a.m. on the day
-- of the P&Z meeting, please print and bring 10 copies of printed materials to the P&Z meeting and/or testify in person. In
-- the interest of managing the agenda and time, the P&Z Chair may request public comment to be kept to 5 minutes per
-- Planning & Zoning Commission Meeting
-- To approve the meeting minutes of July 23, 2026 as presented
-- board discussed
-- PUBLIC COMMENT ON NON-AGENDA ITEMS IV
-- There was no public comment
-- PROJECT TITLE: Telluride School District R1 Employee Housing Work Session
-- SUMMARY: Consideration of an application for a Work Session on proposed new construction
-- for employee housing at the northwest corner of the Telluride Middle- High School site,
-
-## [telluride#15] 2026-09-24 | Resident Advisory Committee | agenda
+## [telluride#12] 2026-09-24 | Resident Advisory Committee | agenda
 - 1. APPROVAL OF MINUTES
 - A. There are no minutes to approve
 - A. Discussion of Tenant Survey
@@ -555,10 +432,7 @@
 - Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting Town Hall: address - 135
 - scheduled event so arrangements can be made to locate requested auxiliary aid(s)
 
-## [telluride#17] 2026-09-28 | Open Space Commission | agenda
-- I. PUBLIC COMMENT
-
-## [telluride#18] 2026-09-30 | Historic & Architectural Review Commission | agenda
+## [telluride#14] 2026-09-30 | Historic & Architectural Review Commission | agenda
 - III. PUBLIC COMMENT ON NON-AGENDA ITEMS
 - public comment
 - IV. PUBLIC HEARING ITEMS
@@ -592,14 +466,14 @@
 - (Continued from July 15, 2026 and continued without discussion from August 19, 2026.)
 - LEGAL DESCRIPTION: Lots 34 and 34B, Backman Village Subdivision, According to the Plat, recorded June
 
-## [telluride#19] 2026-10-01 | Planning & Zoning Commission | agenda
+## [telluride#15] 2026-10-01 | Planning & Zoning Commission | agenda
 - Planning & Zoning Commission - Special
 - 1 Comprehensive Plan
 - Facilitated by Comprehensive Plan Consultants and Staff
 - An opportunity for the Comprehensive Plan consulting team to seek input from P&Z
 - and share updates in person to wrap up a week of Comprehensive Plan community
 
-## [telluride#20] 2026-10-05 | Open Space Commission | agenda
+## [telluride#16] 2026-10-05 | Open Space Commission | agenda
 - I. APPROVAL OF MINUTES
 - II. PUBLIC COMMENT
 - public comment
@@ -607,49 +481,7 @@
 - B. Discussion regarding Valley Floor Signage Update First Phase Implementation and
 - C. Debrief of Bear Creek Preserve Zone 1 Restoration Plan Site Walk
 
-## [telluride#21] 2026-10-06 | Town Council | agenda
-- Examples of materials found in the Document Center are presentations projected
-- 1.a. Discussion Regarding Automated License Plate Reader (ALPR) Cameras and Flock
-- Staff Memo - ALPR/Flock Discussion - Pdf
-- Public comment - McKenzie
-- 2. PUBLIC COMMENT ON NON-AGENDA ITEMS (1:00PM)
-- Each person will be allotted no more than 5 minutes. Overall public comment will be limited
-- INSTRUCTIONS FOR REMOTE PUBLIC COMMENT
--  To indicate you would like to provide public comment "raise your hand."
-- 3. PRESENTATIONS AND PROCLAMATIONS
-- There are no Presentations or Proclamations
-- 4. APPOINTMENTS TO BOARDS AND COMMISSIONS
-- 4.b. Planning & Zoning Commission – Two Alternate Seats for a One or Two-Year Term
-- Staff Memo - Applications – Shayni Saftler (New) & Marcin Ostromecki (New) - Pdf
-- Staff Memo - Applications - Mark Shambaugh (Incumbent), Matt Lee (Incumbent), and
-- 5.a. Approval of Minutes - Regular Meeting September 22, 2026
-- 6. PUBLIC HEARING
-- 6.a. Consideration of a Request for Approval of an Extension of the Vesting Period of
-- Property Rights, per LUC Section 5-208, for 221 W Colorado (Certificate of
-- 6.b. Second Reading of an Ordinance of the Town Council of the Town of Telluride,
-- Colorado Amending Telluride Municipal Code At Chapter 2, Article 4 (Ethics
-- Code) Section 2-4-30 General Guidelines - Tiffany Kavanaugh (1:35pm)(10min)
-- Staff Memo & Ordinance Ethics Code Amendments - Pdf
-- Sales Tax by Category for Ec Adv Committee 25-26 August
-- Short-Term Rental & Town Lodgers Excise Tax - 2026 August Rec in September
-- Payment Approval Report
-- 10. TELLURIDE HOUSING AUTHORITY
-- There are no items for the Telluride Housing Authority
-- 11.a. Town Attorney Evaluation - For Discussion Of A Personnel Matter Under Colorado
-- Rule Charter And Not Involving: Any Specific Employees Who Have Requested
-- Discussion Of The Matter In Open Session; Any Member Of This Body Or Any
-- Elected Official; The Appointment Of Any Person To Fill An Office Of This Body Or Of
-- An Elected Official; Or Personnel Policies That Do Not Require The Discussion Of
-- Amended 9/30/26 to add 9.a2
-- Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting Town Hall: address - 135 W
-- made to locate requested auxiliary aid(s)
-- to Town Council under separate cover, but cannot guarantee full consideration if not delivered by the deadline
-- Colorado (Certificado de Idoneidad n.º 10263), que vence el 18 de octubre de 2026 —
-- artículo 4 (Código Ético), sección 2-4-30, «Directrices generales» — Tiffany Kavanaugh
-- Title: Automated License Plate Reader Discussion
-- Automated_License_Plate_Readers__ALPR_ (3)
-
-## [telluride#22] 2026-10-07 | Ecology Commission | agenda
+## [telluride#17] 2026-10-07 | Ecology Commission | agenda
 - I. GENERAL ANNOUNCEMENTS/PUBLIC COMMENT
 - II. APPROVAL OF MINUTES
 - III.A. 2022 Climate Action Plan Update Discussion -- Community Resilience & Wellbeing
@@ -678,7 +510,7 @@
 - Food miles The distance food travels from where it is grown and harvested to where it is purchased and consumed
 - Systems used to manage stormwater including storage and volume control, runoff flow, water quality, and erosion control. Some
 
-## [telluride#23] 2026-10-07 | Commission for Community Assistance, Arts & Special Events | agenda
+## [telluride#18] 2026-10-07 | Commission for Community Assistance, Arts & Special Events | agenda
 - 1. PUBLIC COMMENT
 - 2. APPROVAL OF MINUTES
 - Approval of Minutes from the September 2, 2026 Regular Meeting
@@ -723,7 +555,7 @@
 - 18 ~ 21 N Y Telluride Bluegrass Festival Town Park, Town Malls, Other Venues
 - 25 N N SAF's Oak Street Park Summer SHOW Series Sheridan Opera House and N. Oak Park
 
-## [telluride#24] 2026-10-07 | Telluride Housing Authority Subcommittee | agenda
+## [telluride#19] 2026-10-07 | Telluride Housing Authority Subcommittee | agenda
 - Telluride Housing Authority Subcommittee Regular
 - I. APPROVAL OF MINUTES
 - A. Consideration and Approval of Minutes from June 3, 2026
@@ -766,7 +598,7 @@
 - A. Consideration of a Request from Alpine Planning proposing to deed
 - The applicants presented their project and responded to questions. Some of the
 
-## [telluride#25] 2026-10-08 | San Miguel Authority for Regional Transportation | agenda
+## [telluride#20] 2026-10-08 | San Miguel Authority for Regional Transportation | agenda
 - Item 1: Public Comment on non-agendized items
 - Item 2: Resolution 2026-21, Part 1a, regarding the Review and Approval of the October 8th,
 - 2026 Agenda and Consent Items, and part 1b regarding the Approval of the September 10th,
@@ -776,48 +608,10 @@
 - Item 5: Gondola Project Update (verbal)
 - Item 9: Executive Session pursuant to C.R.S. 24-6-402 4(f) for the purpose of: to Discuss
 
-## [telluride#26] 2026-10-12 | Open Space Commission | agenda
+## [telluride#21] 2026-10-12 | Open Space Commission | agenda
 - I. PUBLIC COMMENT
 
-## [telluride#27] 2026-10-13 | Town Council | agenda
-- Special Town Council Budget
-- Examples of materials found in the Document Center are presentations projected
-- 1.a. 2027 Budget: Enterprise Funds, Open Space, Affordable Housing, All other funds
-- Water and Wastewater
-- 2027 Water and Sewer Rate Study - Burns McDonnell
-- 2027 Fee Schedule - Draft
-- Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting Town Hall: address - 135 W
-- made to locate requested auxiliary aid(s)
-- to Town Council under separate cover, but cannot guarantee full consideration if not delivered by the deadline
-- Title: 2027 Budget – Miscellaneous Funds: 21 Debt Service, 22
-- Restricted, 24 Energy Mitigation, 25 Child Development, 58
-- Parking, 59 Virginia Placer 2A, 60 Open Space, 70
-- Town Lodgers Tax and 78 Health Reserve
-- Meeting Date: October 13, 2026 – Council Budget Workshop
-- Purpose. This memo summarizes the FY27 budget requests for 12 Town funds,
-- and/or scope of services. Together they request $12.11 million in revenue and $16.11
-- entirely from the $4.79 million Open Space set-aside in Fund 60, which budgets the
-- Council direction requested. (1) Acceptance of the 2027 budget requests for the 12
-- of the $290,000 increase in the transfer to the Transportation Fund. (4) Approval of the
-- Town Lodgers' Tax Fund position moving from part time to full time
-- The 12 funds request $12.11M in revenue and $16.11M in expenditures for 2027, a combined
-- 25 – Child Development Fund 447,460 446,296 1,164 9,813
-- 58 – Parking Fund 904,450 919,020 (14,570) 139,524
-- 76 – Town Lodgers Tax Fund 1,140,963 1,238,700 (97,737) 616,742
-- 1. Open Space set-aside drives the draw. The $4.79M Open Space Set Aside budgets the
-- fund's full remaining balance so it is available for Council-approved acquisitions or
-- projects, drawing $4.25M on a budget basis and leaving a $0 ending balance. Tax
-- 2. Transportation relies on a larger transfer. The Transportation Fund is projected to end
-- 3. Lodgers' tax assumes a rebound. 2026 lodgers' tax is projected at $919,075, down
-- 18.8% from 2025. Staff recommends a 2027 budget of $1.14M, 24.1% above the 2026
-- projection and about equal to 2025; the fund still draws $97,737 from fund balance
-- 4. Child Development relies on a growing General Fund transfer. Tuition is held at $78
-- per day, and a larger vacancy allowance holds budgeted tuition 7% below the 2026
-- projection. The General Fund transfer rises to $182,000 to keep the fund balance positive
-- November 17, 2026 — Budget adoption at regular meeting
-- assessment debt and lease-purchase payments, namely focused on the Marshal’s facility. The
-
-## [telluride#28] 2026-10-14 | Liquor Licensing Authority | agenda
+## [telluride#22] 2026-10-14 | Liquor Licensing Authority | agenda
 - INSTRUCTIONS FOR PUBLIC COMMENT
 - public comment
 - I. PUBLIC COMMENT
@@ -864,7 +658,7 @@
 - permit, an require the shall also Authority
 - special event permit to nonprofits; except for
 
-## [telluride#29] 2026-10-21 | Historic & Architectural Review Commission | agenda
+## [telluride#23] 2026-10-21 | Historic & Architectural Review Commission | agenda
 - II. APPROVAL OF MINUTES
 - IV. PUBLIC COMMENT ON NON-AGENDA ITEMS
 - public comment
@@ -907,14 +701,11 @@
 - REPLAT LOT8R BLK 23 TOT A MINOR SUB TO VACATE PROP LINE BT S2 LOT 8
 - ADDRESS: 214 S Fir Street
 
-## [telluride#31] 2026-10-22 | Planning & Zoning Commission Chair | agenda
-- Planning & Zoning Commission Chair
-
-## [telluride#32] 2026-10-23 | Commission for Community Assistance, Arts & Special Events | agenda
+## [telluride#25] 2026-10-23 | Commission for Community Assistance, Arts & Special Events | agenda
 - Events - Grant Subcommittee
 - Review and Discussion of 2027 Grant Application Discrepancy Matrices
 
-## [telluride#34] 2026-10-27 | Town Council | agenda
+## [telluride#27] 2026-10-27 | Town Council | agenda
 - Examples of materials found in the Document Center are presentations projected
 - 1.a. Review and Discussion of Special Events Occurring on Town Property in 2026
 - 1.b. Discussion Regarding Proposed Major Event (A Two-Night Concert) in Town Park on
@@ -956,7 +747,7 @@
 - Of Telluride, Colorado Suspending For The 2027 Budget Year The Telluride
 - Town Revenue From The Town’s Real Estate Transfer Tax - Kevin Geiger, Zoe
 
-## [telluride#35] 2026-11-02 | Planning & Zoning Commission Chair | agenda
+## [telluride#28] 2026-11-02 | Planning & Zoning Commission Chair | agenda
 - Planning & Zoning Commission Chair
 - II. PUBLIC HEARING ITEMS
 - 1 This item will be continued without discussion to November 2, 2026 at 10:30 AM
@@ -965,7 +756,7 @@
 - and 6-406.D.2 to vacate the internal lot line between Lots 39 and 40, Block 9, West
 - ADDRESS: 510 W Columbia Avenue/129 N Townsend Street
 
-## [telluride#36] 2026-11-02 | Planning & Zoning Commission Chair | agenda
+## [telluride#29] 2026-11-02 | Planning & Zoning Commission Chair | agenda
 - Special Meeting - Planning & Zoning
 - continued without discussion from 11/2 at 9:00 AM to 11/2 at 10:30 AM. This meeting
 - II. PUBLIC HEARING ITEM
@@ -998,3 +789,143 @@
 - a Contributing shed on the property that is currently bisected by the existing lot line proposed for vacation
 - LUC 6-408.W – Prohibition on Certain Lot Line Vacations
 - The request to vacate an interior lot line is compliant with LUC 6-408.W which reads as follows:
+
+## [telluride#30] 2026-11-04 | Ecology Commission | agenda
+- I. GENERAL ANNOUNCEMENTS/PUBLIC COMMENT
+- II. APPROVAL OF MINUTES
+- III.A. 2027 Workplan Discussion
+- 2026 Ecology Commission Workplan
+- III.B. Combustion Lawn & Garden Equipment Ordinance Discussion
+- Telluride_Combustion_Lawn_Equipment_Ordinance_Art10_v2
+- IV.A. 2027 Workplan Adoption
+- Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting Town Hall: address - 135
+- scheduled event so arrangements can be made to locate requested auxiliary aid(s)
+- A. Trash Bash Initial Event Planning Discussion
+- B. Spring Bear Safety Campaign Discussion
+- Commissioner Update and Discission - General Work Plan Educate and Advocate
+- Commissioner Update - General Work Plan Research and Inform Updates
+- A. 2022 Climate Action Plan Update Discussion - Municipal Operations Focus Area
+- B. 2022 Climate Action Plan Update – Buildings & Energy Focus Area
+- A. Adopt Recommendations for 2022 Climate Action Plan Update – Municipal Operations Focus Area
+- A. Trash Bash Final Planning Discussion
+- A. Adopt Recommendations for 2022 Climate Action Plan Update – Buildings & Energy Focus Area
+- A. 2022 Climate Action Plan Update Discussion – Transportation & Land Use Focus Area
+- A. Adopt Recommendations for Climate Action Plan Update – Buildings & Energy Focus Area
+- JUNE Work session A. Festival Tabling/Volunteering Discussion
+- A. 2027 Work Plan and Budget Discussion
+- B. 2022 Climate Action Plan Update Discussion – Materials & Consumption Focus Area
+- A. Green Grant Selection Subcommittee Selection
+- B. Adopt Recommendations for 2022 Climate Action Plan Update – Transportation & Land Use Focus
+- *Council work plan approval at
+- Grants Application
+- A. Bear Awareness Week Final Planning Discussion
+- A. Adopt Recommendations for 2022 Climate Action Plan Update – Materials & Consumption Focus Area
+- A. 2027 Work Plan Discussion
+- A. 2027 Work Plan Approval
+- OCTOBER Work session A. 2022 Climate Action Plan Update Discussion – Community Resilience & Wellbeing Focus Area
+- *Green Grants Applications
+- A. 2027 Work Plan Task Allocation
+- B. 2027 Meeting Date Approval
+- Adopt Recommendations for Climate Action Plan Update – Community Resilience & Wellbeing Focus Area
+- A. 2022 Climate Action Plan Update Discussion – Natural Systems & Water Focus Area
+- (approval of recommendations for this focus area to be included in Jan. 2027 meeting)
+- *Green Grant Selection
+- Committee to Award Grants
+- Telluride Ecology Commission’s 2026 Work Plan
+- This work plan has been compiled as a tool to help the Ecology Commission address issues of ecological concern,
+- as identified within the Town’s Municipal Code. These issues shall include, but not be limited to, the following:
+
+## [telluride#31] 2026-11-04 | Commission for Community Assistance, Arts & Special Events | agenda
+- 1. PUBLIC COMMENT
+- 2. APPROVAL OF MINUTES
+- 2.a. Approval of Minutes from the October 7, 2026 Regular Meeting
+- 2.b. Approval of Minutes from the October 23, 2026 Grant Subcommittee Meeting
+- October 23, 2026 Grant Subcommittee Minutes - draft
+- 3.a. Consideration of the following by Telluride Arts for Art Walk:
+-  Calendar Date Requests for December 9, 2026, January 7, 2027, February 4,
+-  Banner Request for December 8 - 10, 2026
+- Staff Memo - 2026 Calendar and Banner Date Requests - Pdf
+- 3.b. Consideration of a Calendar Date Request by Telluride Arts for Holiday Arts Bazaar
+- Staff Memo - 2027 Calendar Date Request - Pdf
+- 3.c. Consideration of a Calendar Date Change Request by SBG Productions for Telluride
+- Staff Memo - 2027 Calendar Date Change Request - Pdf
+- 4.a. Grant Review Financial Training
+- Staff Memo - Grant Review Financial Training - Pdf
+- 4.b. Discussion of 2027 Grant Guidelines and Philosophies
+- Staff Memo - 2027 Grant Discussion - Pdf
+- 4.c. Discussion of 2027 Special Event Policies
+- Staff Memo - 2027 Special Event Policies Discussion - Pdf
+- INSTRUCTIONS FOR REMOTE PUBLIC COMMENT
+- public comment
+- Approval of Minutes from the September 2, 2026 Regular Meeting
+- 4.a. Consideration of a Calendar Date Request by San Miguel County Democrats for
+- 4.b. Consideration of the following by the Telluride Booster Club for Telluride High
+- Calendar Date Request for October 18 - 25, 2026
+- Banner Request for October 18 - 25, 2026
+- Laydon moved to approve the calendar date request, banner request, and banner design,
+- 4.c. Consideration of a Calendar Date Change Request by Ah Haa School for the Arts for
+- 4.d. Consideration of a Calendar Date Request by Just For Kids Foundation, Inc. for
+- Staff reported on the 2027 Grant Process and requested Commission input on the 2027 CCAASE
+- GRANT SUBCOMMITTEE MEETING
+- Review and Discussion of 2027 Grant Application Discrepancy Matrices
+- The subcommittee discussed 2027 grant application discrepancies and made a
+- recommendation on the associated course of action for consideration by the full
+- Street Closure
+- 14 ~ 15 Y N Telluride Skijoring and Winter Celebration Colorado Ave. and N. Spruce Park
+- April 3 Y Y KOTO Street Dance Colorado Avenue
+- 15 ~ 16 N Y Annual Spring Cleanup Carhenge Parking Lot
+- 16 ~ 17 N Y Telluride Youth Lacrosse Tournament Town Park, TMHS Turf, Lawson Hill Field
+- 23 ~ 30 N Y School Supper Club and Party in the Park Local Restaurants, Town Park
+- 29 N N Impetus Town Park Skate Park
+- 5 ~ 7 Y N Telluride Balloon Festival Town Park, Town Streets
+- 6 N N Huck Finn & Becky Thatcher Fishing Derby Town Park
+
+## [telluride#32] 2026-11-05 | Planning & Zoning Commission | agenda
+- Planning & Zoning Commission - Special
+- 1 This Special Meeting focused on the Comprehensive Plan has been rescheduled to
+
+## [telluride#33] 2026-11-09 | Town Council | agenda
+- Public comments on specific agenda items will be permitted at the Chair's discretion and as time
+- allows. Each public comment will be limited to 3 minutes: Members of the public who wish to
+- the time for public comment during the meeting be limited The Chair will not invite public
+- at 1:40 pm Regional Large Projects Update - Ophir, Mountain Village, Telluride, San
+- b, 2:05 pm Presentation of the updated process for the Multi-Jurisdictional Hazard
+- Mitigation Plan - Shannon Armstrong, County Emergency Manager - 10 mins
+- (:1, 2:25 pm Presentation of the shared inter-jurisdictional housing for Prop 123
+- Hearings, and Special Meetings are recorded, and ACTION MAY BE TAKEN ON ANY
+- San Miguel Commissioners may hold an Executive Session to discuss noticed agenda items
+
+## [telluride#34] 2026-11-09 | Open Space Commission | agenda
+- I. APPROVAL OF MINUTES
+- II. PUBLIC COMMENT
+- public comment
+- A. Discussion of Letter from Ramona Gaylord regarding the Goat Pilot Program on the
+- B. Review and Approval of the 2026/2027 Annual Winter Use Operational Plan for the
+- Draft 2026-2027 TVF Winter Use Operational Plan and Map
+- meetings and couldn’t find any discussion of the Valley Floor goat grazing pilot, so I am writing
+- to request clarification regarding both the results of the program and its future
+- 3)The total cost of the program for each year, including the goat contractor, transportation,
+- removal, or other integrated weed-management approaches
+- in 2027 and beyond, and when that decision will be considered publicly
+- should depend upon demonstrated results—not simply a continuation of the experiment
+- Town's quantitative monitoring demonstrates otherwise, I would very much like to see those
+- VALLEY FLOOR ANNUAL WINTER USE OPERATIONAL PLAN
+- As required by the Valley Floor Open Space Management Plan, following is the proposed Annual
+- Operational Plan for Winter Use on the Valley Floor for the 2026/2027 season
+- land under a Special Use Permit (SUP), and limited grooming of Boomerang Rd. in Mountain Village
+- landing pad south of the Shell gas station and west of Boomerang Rd., if requested
+- c. Install and remove the temporary bridges consistent with the Plan
+- December 15th, 202 6 and March 19th, 202 7 (conditions permitting). The race is limited to 50
+- fee collected for the event shall be used only for documentable costs associated with coordinating
+- and management of the event, with any remaining fees to be donated to the Town of Telluride Open
+- conditions permitting. Grooming will occur generally after a snow depth of one foot is present
+- ST-1 Tailings Remediation/River Restoration Project area
+- attached plan. Walking/snowshoe/biking and Nordic ski routes may coincide at bridge locations. Bridges
+- no walking/snowshoe/biking on groomed Nordic ski routes) is authorized pursuant to the Trails Plan
+- Approach is to maintain low-profile signage with color-coded signage identifying trail numbers and uses,
+- and to ensure dog permitted/prohibited routes are clearly marked
+- Tenga en cuenta: No se permiten perros en el sendero/carretera
+- Tenga en cuenta: Está prohibido andar en bicicleta, caminar y caminar
+- No se permiten perros al oeste de este puntoNo se permiten perros al oeste de este puntoNo se permiten perros al oeste de este punto
+- and swapping the contemporary photo for a Mountain Ute image. I’m working on both of those projects and
+- make efforts to make native people feel welcome here. He suggested incorporating Ute place names in open

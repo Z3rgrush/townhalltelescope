@@ -187,3 +187,10 @@
 - Hugh Fairfield-Smith, Division Chief of Wildland Fire Operations
 - Community Development Report
 - Persons with disabilities needing auxiliary aids may request assistance by contacting Polly Keene, Town Clerk, at the Gypsum Town Hall, 50 Lundgren Blvd. PO Box 130, Gypsum, Colorado 81637, or by calling (970) 524-1737 during business hours. We would appreciate you contacting us at least 72 hours in
+
+## [gypsum#8] 2026-11-04 | Design Review Board | agenda
+- Approval of Minutes from September 2, 2026
+- Beans & Brews Coffee - Minor Site Modification for Change in Color
+- Michelle Forys - Permit Specialist, Yesco
+- Vail Brewing Company, 55 McGregor Drive: Minor Building, Landscaping, & Site Plan Modification for Certificate of Occupancy
+- Persons with disabilities needing auxiliary aids may request assistance by contacting Cholpon Lord, Planning Secretary, at the Gypsum Town Hall, 50 Lundgren Blvd. PO Box 130, Gypsum, Colorado 81637, or by calling (970) 524-1737 during business hours. We would appreciate you contacting us at least 72

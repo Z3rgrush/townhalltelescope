@@ -1,109 +1,134 @@
 - title: Ballot measure to expand the Board of County Commissioners from 3 to 5
-  summary: In late August the commissioners fixed the ballot title for a measure expanding the BOCC from 3 to 5 members and approved an amended resolution referring it to voters on Aug 31 after a continuance. A ballot title protest administrative hearing was scheduled for Sept 3 and 4. Dozens of residents spoke on Aug 31.
+  summary: In late August the commissioners fixed the ballot title for expanding the board from three to five members and then referred a measure to preserve voters' rights to vote on it. About 26 residents spoke on Aug. 31, and the board approved an amended referral resolution (R-026-062). Ballot title protest administrative hearings were scheduled for Sept. 3 and 4.
   where: Countywide
   refs:
+  - 9
+  - 10
   - 11
   - 12
-  - 13
-  - 14
   topics:
   - Elections
   - Government operations
   public_comment: true
-- title: Flexential tax incentive agreement
-  summary: The commissioners approved a Business Personal Property Tax Incentive Agreement between Douglas County and Flexential Corp (ED2025-002) on Aug 11 after pulling it from the consent agenda. Several residents from Parker, Highlands Ranch and Castle Rock spoke on it. The documents do not describe the facility.
+- title: Flexential business personal property tax incentive agreement
+  summary: The board took up a business personal property tax incentive agreement between Douglas County and Flexential Corp (project ED2025-002). The item was pulled from the consent agenda, five residents spoke, and Vice Chair Van Winkle moved approval on Aug. 11. Flexential is a data center operator, but the documents don't describe the facility.
   where: Countywide
   refs:
-  - 2
+  - 0
   topics:
   - Economic development
   - Budget & taxes
+  - Data centers
+  tags:
+  - data-center
   public_comment: true
-- title: Private activity bonds for Ponderosa Pines and another project
-  summary: A $50 million private activity bond authorizing resolution for Ponderosa Pines was continued on Aug 11 to a later business meeting. A $37 million private activity bond resolution appeared on the Sept 22 agenda.
-  where: Countywide
+- title: Private activity bonds for Ponderosa Pines
+  summary: A $50 million private activity bond authorization for Ponderosa Pines was continued in August. A $37 million bond authorizing resolution (R-026-070) was approved on Sept. 22 on the consent agenda; the documents don't confirm it is the same project.
+  where: Ponderosa Pines
   refs:
-  - 3
-  - 24
+  - 1
+  - 22
   topics:
   - Housing
   - Budget & taxes
-- title: 'Zoning changes: nonfunctional turf and non-owned animal training'
-  summary: The county is drafting zoning amendments to regulate nonfunctional turf and artificial turf (DR2026-001) and animal training lessons and exercising sessions for non-owned animals (DR2026-004). Planning Commission work session and hearings were in September, with BOCC hearings set for Oct 27.
-  where: Unincorporated Douglas County
-  refs:
-  - 22
-  - 26
-  - 37
-  topics:
-  - Zoning & development
-  - Water
-- title: 'New metro districts: Bloom, Castle Pines North, Roxborough Village'
-  summary: The commissioners approved a new service plan for Bloom Metropolitan District on Aug 4. The Planning Commission is set to review the Castle Pines North Metropolitan District service plan on Oct 5 and a Roxborough Village Metropolitan District service plan amendment on Nov 2.
+- title: Zoning rules for nonfunctional turf and artificial turf
+  summary: A proposed zoning amendment (DR2026-001) would regulate nonfunctional turf and artificial turf. It went to a Planning Commission work session on Sept. 14 and a hearing on Sept. 28, and then to commissioner hearings on Oct. 27 and Nov. 3.
   where: Countywide
   refs:
-  - 1
-  - 28
+  - 20
+  - 24
+  - 35
   - 39
   topics:
   - Zoning & development
-  - Utilities
-- title: Special use permits at 6685 S. Highway 83 and 2485 S. Russellville Road
-  summary: Two Use by Special Review applications went to the Planning Commission in October and to the commissioners on Oct 27. They cover 6685 South Highway 83 (US2023-011) and 2485 South Russellville Road (US2025-010).
-  where: 6685 S. Highway 83 and 2485 S. Russellville Road
+  - Water
+  - Environment & climate
+- title: Zoning rules for training and exercising non-owned animals
+  summary: A zoning amendment (DR2026-004) would regulate training lessons and exercise sessions for animals not owned by the property owner. It moved from a Planning Commission work session to hearings before the Planning Commission and the commissioners in late September through early November.
+  where: Countywide
   refs:
-  - 28
-  - 33
-  - 37
+  - 20
+  - 24
+  - 35
+  - 39
+  topics:
+  - Zoning & development
+  - Agriculture & wildlife
+- title: Use by Special Review requests at 6685 S. Highway 83 and 2485 S. Russellville Road
+  summary: Two special-use requests, US2023-011 at 6685 S. State Highway 83 and US2025-010 at 2485 S. Russellville Road, went to the Planning Commission in October. They are scheduled for commissioner hearings on Oct. 27 and Nov. 3. The documents don't state the proposed uses.
+  where: 6685 S. State Highway 83; 2485 S. Russellville Road
+  refs:
+  - 26
+  - 31
+  - 35
+  - 39
   topics:
   - Zoning & development
   - Land & property
-- title: Trinity Substation and Peaking Facility location review
-  summary: The Planning Commission was scheduled on Aug 17 to review the location and extent of the Trinity Substation and Peaking Facility (LE2026-009). It was on the agenda alongside a Highlands Ranch Filing 159 review.
-  where: Douglas County
+- title: 'Metropolitan district service plans: Castle Pines North and Roxborough Village'
+  summary: The Castle Pines North Metropolitan District service plan (and a second amendment) and the Roxborough Village Metropolitan District service plan amendment were scheduled for review in October and November.
+  where: Castle Pines North; Roxborough Village
   refs:
-  - 6
+  - 26
+  - 37
+  - 41
   topics:
-  - Energy
+  - Zoning & development
   - Utilities
-- title: Road projects and transportation planning
-  summary: The county approved easements and contracts for the Highlands Ranch Parkway reconstruction, Pine Drive and Pine Lane improvements, and the Dakan Road bridge replacement. It also funded a University Blvd and Post Office traffic signal, a Waterton Road design contract of $2.15 million, and a $279,320 Transportation Safety Action Plan. The commissioners vacated Pine View Circle on Aug 25.
-  where: Countywide
+- title: Sterling Ranch Filing 6A, 2nd Amendment
+  summary: Commissioners approved the minor development amendment (SB2026-014) on Sept. 22 with 2 conditions. Two people spoke during public comment.
+  where: Sterling Ranch
   refs:
-  - 0
-  - 2
-  - 8
-  - 9
-  - 15
-  - 34
+  - 18
+  - 23
   topics:
-  - Roads & traffic
-- title: Rueter-Hess reservoir recreation and budget
-  summary: The Rueter-Hess Advisory Board considered recreation requests for sailing and e-foil use, budget updates, a budget reallocation and Incline Trailhead improvements.
-  where: Rueter-Hess Reservoir, Parker
+  - Zoning & development
+  - Housing
+  public_comment: true
+- title: Pine View Circle road vacation
+  summary: The Planning Commission reviewed and commissioners approved vacating Pine View Circle on Aug. 25 with 2 conditions (SB2026-017). No one spoke.
+  where: Pine View Circle
   refs:
   - 4
-  - 31
+  - 7
   topics:
-  - Recreation & trails
-  - Water
-- title: 'Parks funding and grants: Gold Crown, Wildcat Regional Park, Mark Weston memorial'
-  summary: The commissioners approved a parks funding agreement with the Gold Crown Foundation and up to $30,000 in open space funds to name a Mark Weston Open Space Memorial. A Great Outdoors Colorado grant request for Wildcat Regional Park was on the Sept 22 agenda.
+  - Roads & traffic
+  - Land & property
+- title: Road and bridge projects
+  summary: The county approved several road contracts. These include Woodmoor drainage and road repair ($106,463), the Dakan Road bridge replacement, a University Blvd and Post Office traffic signal, Waterton Road improvements ($2.15 million) and a transportation safety action plan. It is also pursuing $2.875 million in district funding for the County Line Road and Inverness Parkway intersection.
   where: Countywide
   refs:
-  - 0
+  - 6
+  - 13
   - 15
-  - 24
+  - 32
+  - 41
+  topics:
+  - Roads & traffic
+  - Budget & taxes
+- title: Regional parks, open space and Rueter-Hess
+  summary: The county approved a Mark Weston Open Space Memorial renaming with up to $30k in open space funds. It also backed a GOCO grant for Wildcat Regional Park and approved a Macanta Regional Park pedestrian bridge contract. The Rueter-Hess Advisory Board discussed budget updates and Incline Trailhead improvements.
+  where: Wildcat, Macanta and Rueter-Hess parks
+  refs:
+  - 2
+  - 13
+  - 22
+  - 29
+  - 32
+  - 41
   topics:
   - Parks & open space
   - Recreation & trails
-- title: Homelessness and human services grants
-  summary: The county applied for a $125,000 Homelessness Resolution Program grant, including a $62,500 match. It also handled older adult services grants and a Homeless Initiative meeting.
+- title: Homelessness and older adult grants and human services funding
+  summary: The county applied for a $125,000 Homelessness Resolution Program grant, gave Older Adult Initiative grant checks, and amended TANF and Colorado Works contracts ($2.4 million). The Homeless Initiative and Board of Health also met, with a 2027 health department budget on the Board of Health agenda.
   where: Countywide
   refs:
-  - 2
-  - 15
-  - 18
+  - 0
+  - 13
+  - 16
+  - 17
+  - 32
+  - 41
   topics:
   - Homelessness
   - Health & human services

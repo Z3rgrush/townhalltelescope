@@ -1,33 +1,45 @@
-- title: Toni Evans annexation and zoning
-  summary: 'The Planning Commission held a hearing on Aug. 10, 2026 on a petition by Toni Evans to annex land into Ordway, and the trustees adopted resolutions on eligibility and the petition. A second reading of the annexation and zoning ordinances (#673 and #674) followed on Oct. 5. A separate ''Addies'' annexation was also recommended and approved to move forward.'
-  where: Ordway town limits
+- title: Addies Restaurant annexation at 17484 Highway 96
+  summary: Trustees took up an annexation petition filed by Toni Evans (Addies Restaurant) in August, and Planning and Zoning recommended annexation. Ordinances 673 and 674 on annexation and zoning had a second reading on Oct. 5, but were repealed Oct. 21. Council then set a Nov. 30, 2026 public hearing on the annexation.
+  where: 17484 Highway 96
   refs:
   - 5
   - 7
+  - 8
   topics:
   - Annexation
   - Zoning & development
-- title: Water moratorium and water restrictions
-  summary: Council denied a water restrictions resolution in April, then approved Resolution 2026-07 in June placing a moratorium on additional water services. Water reports, well output and a town water restructuring were also discussed.
+- title: Water moratorium, restrictions and water supply
+  summary: Council denied a water restrictions resolution (2026-06) in April, then approved Resolution 2026-07 in June, a moratorium on additional water services. Water reports and a town resident water restructuring discussion also came up, along with the SE Colorado Water Conservancy allocation of 64.75 AF.
   where: Townwide
   refs:
+  - 1
   - 2
   - 3
   - 4
   topics:
   - Water
   - Utilities
-- title: CIRSA coverage and settlement over former town attorney's contract change
-  summary: Documents in August include a CIRSA coverage letter and a settlement agreement, release and assignment. They concern losses the Town says began in 2022 after the former town attorney amended a water-rate contract and allegedly failed to advise the Town correctly. A malpractice lawsuit and a receivership are mentioned.
-  where: 311 Main Street
+  - Fees & rates
+- title: Town attorney contract loss and CIRSA insurance claim
+  summary: Documents include a CIRSA coverage letter and a settlement agreement tied to a former town attorney's amendment of a water rate contract, with losses beginning in 2022. The Town's losses and the malpractice claim are described, but the outcome is not clear from the documents.
+  where: Townwide
   refs:
   - 5
   topics:
   - Lawsuits & legal
-  - Water
-- title: Historic preservation, Certified Local Government status and cemetery board
-  summary: Council advanced ordinances to establish a Certified Local Government and a Historic Preservation Advisory Authority, and created a cemetery board. A further historic preservation ordinance (#675) had a first reading in October, and a cemetery grant is moving forward.
-  where: Townwide, Ordway Cemetery
+  - Fees & rates
+- title: 428 E. 3rd Street town property sale and foreclosure
+  summary: Council authorized sale of town-owned property in March, including 428 East 3rd Street, then discussed the property in executive session in May. In June it discussed restarting foreclosure on the property.
+  where: 428 E. 3rd Street
+  refs:
+  - 1
+  - 3
+  - 4
+  topics:
+  - Land & property
+- title: Historic preservation and Certified Local Government
+  summary: Council moved to establish a Certified Local Government and a Historic Preservation Advisory Authority (Ordinances 668, 669, 671) and gave updates on the CLG process. A further historic ordinance (675) had a first reading in October.
+  where: Townwide
   refs:
   - 1
   - 2
@@ -35,57 +47,42 @@
   - 7
   topics:
   - Historic preservation
-  - Parks & open space
   - Government operations
-- title: 428 E. 3rd Street town-owned property sale and foreclosure
-  summary: Council considered resolutions in March authorizing the sale of town-owned property, including 428 East 3rd Street. In May and June it discussed the property in executive session and talked about restarting foreclosure.
-  where: 428 E 3rd Street
-  refs:
-  - 1
-  - 3
-  - 4
-  topics:
-  - Land & property
-- title: Tax certificates, demolition and property requests on Arkansas, Idaho and E. 3rd
-  summary: In October the board approved negotiating tax certificates for 305, 317 and 319 Arkansas and 326 Idaho. It approved a demolition application at 318 E 3rd and an extension request for 215 E 4th Street. Discussion of 629 Idaho was postponed. An agreement on future affordable housing development was also on the agenda.
-  where: Arkansas, Idaho and E 3rd/4th streets
+- title: Affordable housing development agreement and tax certificate purchases
+  summary: In October the Town considered an agreement with a development company on future affordable housing. It also approved negotiating tax certificates for properties at 305, 317 and 319 Arkansas and 326 Idaho, and approved a demolition application at 318 E 3rd.
+  where: Arkansas, Idaho and E 3rd Streets
   refs:
   - 7
   topics:
-  - Land & property
   - Housing
-- title: Street improvements, comprehensive plan and Old Pharmacy
-  summary: The town held a kickoff with the State for street improvements and is updating its comprehensive plan. It also discussed extending 1st Street, a master plan for the Old Pharmacy building, and a Stantec visit.
-  where: Townwide
+  - Land & property
+- title: Mobile park holding negotiations ended
+  summary: Council discussed a sewer tap for a mobile park in June and in October moved to discontinue negotiations with Mobile Park Holding LLC.
+  refs:
+  - 4
+  - 7
+  topics:
+  - Housing
+  - Utilities
+- title: Cemetery board and cemetery grant
+  summary: Council passed an ordinance (672) creating a Cemetery Board for Ordway Cemetery and gave an update on moving ahead with a cemetery grant.
+  where: Ordway Cemetery
   refs:
   - 1
   - 2
-  - 4
-  - 7
   topics:
-  - Roads & traffic
-  - Zoning & development
-- title: Fire department invoices and funding
-  summary: In June the town discussed a county invoice to the fire department, which will pay past due invoices with a subsidy. Workers' compensation for the fire department and Air Med Care membership were also discussed.
-  where: Ordway Fire Department
+  - Government operations
+  - Parks & open space
+- title: Fire department county invoices and funding
+  summary: Council discussed an invoice from the county to the Fire Department in June. The Fire Department will pay past-due invoices with a subsidy. Workers' compensation and Air Med Care membership also came up.
   refs:
   - 1
   - 4
   topics:
   - Fire & emergencies
   - Budget & taxes
-- title: Budget, raises and health insurance
-  summary: The town held a preliminary budget work session on Oct. 19, approved a health insurance company, and approved 3% personnel raises in August.
-  where: Townwide
-  refs:
-  - 5
-  - 7
-  topics:
-  - Budget & taxes
-  - Government operations
-- title: Community library agreement
-  summary: Council approved a revised Community Library intergovernmental agreement in September after library discussion in April.
-  where: Ordway Community Library
+- title: Community Library agreement
+  summary: Council discussed the library in April and approved a revised Community Library IGA in September.
   refs:
   - 2
   - 6

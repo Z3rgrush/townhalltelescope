@@ -1,14 +1,112 @@
-- title: 2027 Town budget and grant-funded contracts
-  summary: Trustees held a series of workshops on a preliminary 2027 budget built from the 2025 audit. It shows a General Fund deficit of about $589,184 after the Town's share of four grant contracts, with $2.87M of the $7.51M in General Fund revenue coming from grants. A public hearing is set for November 9 and final approval for November 23, 2026, with discussion of wages, benefits and a budget officer appointment.
+- title: 'Land Use Code overhaul: definitions, shoreline rules and development review (Ordinances 13-2026 to 27-2026)'
+  summary: The Planning Commission reviewed amendments (Resolutions 08-2026 and 10-2026) to Chapter 12 of the town code. They move definitions out of several sections, drop the certified-mail notice requirement, create a new Certifications section and clarify development review thresholds and procedures. The Board of Trustees scheduled a public hearing and first reading of Ordinances 13-2026 through 27-2026 for Nov. 9.
+  where: Townwide
+  refs:
+  - 0
+  - 1
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  topics:
+  - Zoning & development
+  - Government operations
+- title: 2027 town budget and public hearing
+  summary: The Board held workshops on Sept. 28 and Oct. 8 and reviewed the draft 2027 budget on Oct. 12 and 26, including wages and benefits compared with other municipalities. The preliminary budget shows $7.51M of General Fund revenue, of which $2.87M is grant money tied to four specific projects. A public hearing on the FY 2027 budget was set for Nov. 9, with final approval planned for Nov. 23.
   where: Townwide
   refs:
   - 4
   - 5
+  - 6
+  - 7
   - 8
   - 9
-  - 10
-  - 16
-  - 17
+  - 12
+  - 13
+  - 14
+  - 15
   topics:
   - Budget & taxes
+  - Government operations
+- title: Major subdivision at 120 County Road 663
+  summary: The Planning Commission held a public hearing on the final development application and final plat for a major subdivision on property annexed in 2025. Staff flagged concerns about fire and emergency access, the road improvements needed, protecting the water main under County Road 663 that supplies all of Grand Lake, and stormwater and flood risk after the post-fire flooding.
+  where: 120 County Road 663
+  refs:
+  - 10
+  - 11
+  topics:
+  - Zoning & development
+  - Water
+  - Annexation
+- title: Shoreline and side/front yard setback variances
+  summary: The Board of Adjustment heard variance requests for 536 Cairns Avenue, including a side yard setback for a separate staircase, which neighbors spoke in support of, and a front yard setback for an elevator. A shoreline setback variance (Resolution 08-2026) had a notice error naming the wrong hearing body, since shoreline variances go to the Planning Commission. The Trustees were set to hear a shoreline variance (Resolution 87-2026) for a property on Mad.
+  where: 536 Cairns Avenue; 134 Mad... (shoreline property)
+  refs:
+  - 2
+  - 3
+  - 12
+  - 13
+  topics:
+  - Zoning & development
+  - Land & property
+  public_comment: true
+- title: Boots, Bass & Big Air downtown winter event
+  summary: Trustees discussed a proposed downtown winter event on Saturday, January 30, 2027, with a working budget of $40,000 and a snowmobile jump on a closed Grand Avenue. Staff raised concerns about public safety and liability, street closures, parking and staff time on the same weekend as skijoring. No action was requested, only Board direction.
+  where: Grand Avenue and Town Park
+  refs:
+  - 12
+  - 13
+  topics:
+  - Tourism & events
+  - Downtown & business
+- title: 'Town Council retreat agenda: marketing, housing, parking and governance'
+  summary: Multi-day Board sessions covered the What Makes Us Grand marketing campaign, events policy (fee waivers, food trucks, mobile stage), Mary Drive next steps and workforce housing, downtown property acquisition and parking direction. They also covered home rule versus statutory town, the Colorado Wildfire Resiliency Code, reserves policy and a five-year capital plan.
+  where: Townwide
+  refs:
+  - 7
+  - 8
+  - 9
+  topics:
+  - Housing
+  - Economic development
+  - Government operations
+- title: $175,000 promissory note for Space to Create Grand Lake
+  summary: Trustees were asked to approve Resolution 91-2026, a $175,000 promissory note with The Grand Foundation for the Space to Create Grand Lake project.
+  where: Grand Lake
+  refs:
+  - 14
+  - 15
+  topics:
+  - Housing
+  - Budget & taxes
+- title: Little Columbine Creek restoration and fire mitigation contracts
+  summary: The Board considered a construction contract with Frontier Environmental Services for Little Columbine Creek restoration (Stormwater Plan Phase 2). It also considered a fire mitigation contract for the Mathews Property at 195 County Road.
+  where: Little Columbine Creek; 195 County Road
+  refs:
+  - 14
+  - 15
+  topics:
+  - Environment & climate
+  - Fire & emergencies
+- title: Public comment and meeting recording policy
+  summary: Trustees considered Resolution 94-2026 adopting a public comment and meeting recording policy.
+  where: Townwide
+  refs:
+  - 14
+  - 15
+  topics:
+  - Ethics & transparency
+  - Government operations
+- title: Town Square Park marquee sign
+  summary: The Board considered a revised proposal from SALT Workshop and MetalMorphic Methods for the Town Square Park marquee sign. A sign code waiver (Resolution 92-2026) was also on the Nov. 9 agenda.
+  where: Town Square Park
+  refs:
+  - 12
+  - 13
+  - 14
+  - 15
+  topics:
+  - Downtown & business
   - Government operations

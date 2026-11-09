@@ -449,3 +449,22 @@
 - 13.3 Preliminary 2027 Budget
 - Treasurer Kelley Unrein presented the proposed 2027 Budget and reviewed the upcoming
 - meetings and public hearing associated with the budget process
+
+## [dolores#16] 2026-10-26 | City Council | minutes
+- WORKSHOP: The Board of Trustees held a budget workshop beginning at 5:30 p.m. to
+- review the proposed 2027 Town of Dolores Budget
+- The Board reviewed the 2027 Budget Notebook in its entirety, including the proposed
+- revenues, expenditures, capital projects, and funding priorities for the upcoming fiscal
+- 4. APPROVAL OF THE AGENDA
+- Mayor Pro Tem Chris Curry moved to approve the agenda. Trustee Derek Beckman
+- Trustee Marie Roan moved to approve the Consent Agenda, including the liquor license
+- minutes, and the library board appointment. Mayor Pro Tem Chris Curry seconded. Motion
+- 8. PUBLIC COMMENT
+- is comparable to the Town operating parks
+- 10. DISCUSSION / POSSIBLE ACTION ITEMS
+- 10.1 Resolution No. 726 – Accepting a Proposal from Durango Electrical Services for
+- Electrical Service Improvements at the Dolores Water Treatment Plant. Mayor Pro Tem
+- Chris Curry moved to approve Resolution No. 726. Trustee Marie Roan seconded. Motion
+- 11.1 Rescheduling Trustee Interviews and Appointment: The Board decided to
+- reschedule the trustee candidate interviews and appointment to the November 23, 2026
+- 12. FUTURE AGENDA ITEMS / BOARD PARKING LOT

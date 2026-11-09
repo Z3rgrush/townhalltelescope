@@ -1,162 +1,142 @@
-- title: Prestige Builder Group settlement for Canterbury Meadows development
-  summary: Council held a public hearing on Resolution 26-118, a settlement of litigation and a multi-million-dollar claim with Prestige Builder Group over about 94.56 acres on Ravenna Street and Stow Road, to be developed as a 32-lot conservation subdivision. Neighbors and an attorney objected, citing water runoff, a high water table, and bypassing the Planning Commission. The Planning Commission has separately discussed the agreement and asked for its own legal counsel.
+- title: Prestige Builder Group settlement for Canterbury Meadows (Ravenna Street and Stow Road)
+  summary: Council held a public hearing on Resolution 26-118, settling litigation and a multi-million-dollar takings claim with Prestige Builder Group over a 32-lot development on about 94.56 acres. Neighbors raised drainage, high water table and precedent concerns and questioned why Council, not the Planning Commission, is deciding. The Planning Commission also discussed the agreement and asked for separate legal counsel.
   where: Ravenna Street and Stow Road
   refs:
-  - 6
-  - 12
-  - 15
+  - 4
+  - 5
+  - 8
+  - 10
+  - 13
+  - 14
   - 16
-  - 18
-  - 21
-  - 22
-  - 26
+  - 19
+  - 20
+  - 24
   topics:
   - Lawsuits & legal
   - Zoning & development
   - Housing
   public_comment: true
-- title: Clinton Crossing downtown redevelopment plan
-  summary: Council and staff are working toward a concept site plan for Clinton Crossing, with three refined plans, a market hall, and possible single-family, townhome and duplex housing. Some council members and residents oppose apartments. In October, council heard about financing tools including a TIF, New Community Authority, special or business improvement district and a downtown redevelopment district. The Planning Commission was to get an introduction to the concept plan.
-  where: Clinton Crossing, downtown Hudson
+- title: Clinton Crossing downtown redevelopment
+  summary: Council and the Planning Commission reviewed the Clinton Crossing concept site plan, including a market hall, a residential component, parking studies and the nearby railroad tracks. Council heard about public finance tools such as TIF, new community authorities and special improvement districts. A Planning Commission concept plan hearing was set for Nov. 9.
+  where: Clinton Street and Morse Road, downtown
   refs:
   - 0
-  - 1
-  - 2
-  - 6
-  - 12
-  - 22
-  - 23
-  - 26
-  topics:
-  - Zoning & development
-  - Downtown & business
-  - Housing
-  public_comment: true
-- title: Low-speed vehicle rules (Ordinance 26-113, Chapter 478)
-  summary: Council is amending Chapter 478 of the codified ordinances on low-speed vehicles such as golf carts. Residents objected that the draft bans travel on 35 MPH roads and questioned the rules on lights and equipment. The ordinance had its first reading on Aug. 11 and a second on Aug. 18, with further amendments proposed.
-  where: Citywide
-  refs:
-  - 2
   - 4
   - 10
+  - 20
   - 21
+  - 24
+  - 28
+  topics:
+  - Downtown & business
+  - Zoning & development
+  - Housing
+  public_comment: true
+- title: Low-speed vehicle rules (Ordinance 26-113)
+  summary: Council amended Chapter 478 on low-speed vehicles such as golf carts, with readings in August. Residents objected to the ban on 35 MPH roads and asked why lights are required if the vehicles cannot be operated at night.
+  where: Citywide
+  refs:
+  - 0
+  - 2
+  - 8
+  - 19
   topics:
   - Roads & traffic
   - Government operations
   public_comment: true
-- title: 2027 budget and 2027-2031 five-year capital plan
-  summary: Council reviewed the 2027-2031 capital plan and the 2027 capital budget, covering streets, stormwater, sidewalks, trails, debt service and many funds. Council also discussed which unfunded projects to prioritize, including Fiber-to-the-Home, stormwater and the Barlow Road sidewalk, as income tax revenue shifted after a business departure. Council also accepted the county Budget Commission's property tax rates.
-  where: Citywide
-  refs:
-  - 7
-  - 10
-  - 12
-  - 23
-  - 28
-  topics:
-  - Budget & taxes
-  - Roads & traffic
-  - Broadband
-- title: Hudson Innovation Park at 996 Hines Hill Road
-  summary: Staff updated council on the innovation park site, including relocating the salt barn, excess soil on site, property tax abatement options, and improvements to Hines Hill Road. Council asked for a document on what an abatement would entail and estimated road costs. A resolution on excess soils from the public works facility was on a later workshop agenda.
+- title: Hudson Innovation Park and Hines Hill Road salt barn
+  summary: Staff updated Council on the Innovation Park at 996 Hines Hill Road, covering salt barn relocation, excess soil, tax abatement options and Hines Hill Road improvements. A reimbursement agreement for excess soils was on the October agenda, and the Planning Commission set a Nov. 9 site plan hearing for the salt barn.
   where: 996 Hines Hill Road
   refs:
-  - 12
+  - 10
+  - 26
   - 28
   topics:
   - Economic development
   - Land & property
   - Roads & traffic
-- title: Short-term rental rules (Ordinance 26-78, Chapter 876)
-  summary: Council is working on amendments to the short-term rental policy in Chapter 876, after workshops from March to May. The ordinance was postponed to a date certain of November 10, 2026, and a draft with a councilor's amendment was circulated.
+- title: 2027 budget, five-year capital plan and unfunded projects
+  summary: Council reviewed the 2027-2031 five-year capital plan, covering streets, stormwater, sidewalks, trails and debt service. Council also discussed which unfunded projects to fund, including Fiber-to-the-Home, stormwater and the Barlow Road sidewalk, amid income tax changes. It also accepted the county budget commission's property tax rates.
   where: Citywide
   refs:
-  - 28
+  - 5
+  - 8
+  - 10
+  - 21
+  - 26
+  topics:
+  - Budget & taxes
+  - Broadband
+  - Roads & traffic
+- title: Short-term rental rules (Ordinance 26-78)
+  summary: Council has worked on amendments to Chapter 876 on short-term rentals since March. The ordinance was postponed to Nov. 10, with a new amendment from Councilor Goetz.
+  where: Citywide
+  refs:
+  - 26
   topics:
   - Short-term rentals
-  - Housing
-- title: Fiber-to-the-Home construction rules and broadband
-  summary: Council considered an ordinance on construction methods such as directional drilling, vacuum excavation and utility safety, with concern about added cost and delay to the Velocity Broadband schedule. A motion to suspend the rules failed, so the ordinance requires three readings. Fiber-to-the-Home also competes for funds in capital planning.
+  - Zoning & development
+- title: Utility construction rules and Velocity Broadband fiber (Ordinance 26-115)
+  summary: A proposed ordinance sets requirements for horizontal directional drilling, vacuum excavation and field checklists. Council debated its time and cost effects on the Velocity Broadband schedule. A motion to pass it without three readings failed.
   where: Citywide
   refs:
+  - 0
   - 2
-  - 4
-  - 7
-  - 18
   topics:
   - Broadband
   - Utilities
-- title: Fire and EMS full-time staffing and Senior Van
-  summary: Fire and EMS renovations and full-time staffing began in August, with 24/7 coverage starting the Monday after the Aug. 18 meeting. A Senior Van service was to start Sept. 2.
-  where: Citywide
+  - Government operations
+- title: 'Historic district reviews: 88 N. Main door appeal and Owen Brown Street townhomes'
+  summary: The BZBA heard an appeal over a door installed without a permit at 88 N. Main Street, with the appellant's attorney challenging an executive session. A townhome project at Clinton and Morse, reduced from 22 to 18 units, went through historic board review and was appealed to the BZBA after a denial.
+  where: 88 N. Main Street; 86 Owen Brown Street
   refs:
-  - 2
-  - 4
+  - 3
+  - 6
+  - 11
+  - 17
+  - 22
+  - 23
   topics:
-  - Fire & emergencies
-  - Health & human services
-- title: Downtown Phase II property financing and Maple Grove Park lease
-  summary: Council took up ordinances to issue $740,000 and $925,000 in bond anticipation notes tied to former Windstream properties at 94 and 100 Owen Brown Street bought for Downtown Phase II. Council also considered ending the lease with Summit Metro Parks for Maple Grove Park.
-  where: Owen Brown Street; Maple Grove Park
+  - Historic preservation
+  - Housing
+  - Lawsuits & legal
+- title: Brandywine Creek watershed study and stormwater projects
+  summary: Council reviewed the Brandywine Creek Watershed Study and a ranked list of capital projects. It also took up a stormwater project at Ellsworth Meadows Golf Course and pond retaining wall work.
+  where: Brandywine Creek; Ellsworth Meadows Golf Course
   refs:
-  - 18
-  - 27
+  - 0
+  - 5
+  - 10
+  topics:
+  - Water
+  - Environment & climate
+  - Parks & open space
+- title: Maple Grove Park lease termination with Summit Metro Parks
+  summary: Council moved toward a settlement and lease termination agreement with Summit Metro Parks over Maple Grove Park. A resolution was on the Oct. 20 agenda.
+  where: Maple Grove Park
+  refs:
+  - 16
+  - 25
+  topics:
+  - Parks & open space
+  - Land & property
+- title: Downtown Phase II property financing on Owen Brown Street
+  summary: Council considered $740,000 and $925,000 in note issues to refinance and finance former Windstream properties at 94 and 100 Owen Brown Street.
+  where: 94 and 100 Owen Brown Street
+  refs:
+  - 25
   topics:
   - Budget & taxes
+  - Downtown & business
   - Land & property
-  - Parks & open space
-- title: Townhome project at Clinton Street and Morse Road, 86 Owen Brown Street
-  summary: The Historic Board of Review reviewed a Fairmont townhome project, reduced from 22 to 18 units, and a denial of its design is being appealed to the Board of Zoning & Building Appeals. Staff also noted variances granted earlier.
-  where: 86 Owen Brown Street, Clinton Street and Morse Road
+- title: 'Road, rail and intersection projects: Barlow Road crossing exemption, SR 303 and Hayden Parkway, truck restrictions'
+  summary: Council agreed to seek a PUCO exemption for the W. Barlow Road railroad tracks. It also considered an ordinance for the SR 303 and N. Hayden Parkway intersection, truck restrictions near SR 91 and SR 303, and annual road programs.
+  where: W. Barlow Road; SR 303 and N. Hayden Parkway
   refs:
-  - 8
-  - 13
-  - 19
+  - 16
   - 21
   - 25
   topics:
-  - Housing
-  - Historic preservation
-  - Zoning & development
-  public_comment: true
-- title: Appeal over unpermitted door at 88 N Main Street
-  summary: The property owner appealed a historic board decision over a door installed without a permit. His attorney challenged the legality of an executive session and sought a remand or continuance. The case returned to the Historic Board in September and October.
-  where: 88 N Main Street
-  refs:
-  - 5
-  - 19
-  - 24
-  topics:
-  - Historic preservation
-  - Lawsuits & legal
-- title: Standard Shop Company site plan nearing expiration
-  summary: The industrial business park project, approved in 2020 and still under construction, faces approval expiring in October 2026. Planning Commission members asked for proof of financing, a bond, and design fixes.
-  where: Terex Road
-  refs:
-  - 15
-  - 22
-  - 26
-  topics:
-  - Zoning & development
-  - Economic development
-- title: Brandywine Creek watershed study and stormwater projects
-  summary: Council reviewed the final draft Brandywine Creek Watershed Study, which ranks recommended capital projects. Stormwater work also includes Ellsworth Meadows golf course drainage and retaining wall projects.
-  where: Brandywine Creek watershed; Ellsworth Meadows
-  refs:
-  - 2
-  - 12
-  topics:
-  - Water
-  - Utilities
-  - Budget & taxes
-- title: Barlow Road sidewalk and railroad crossing exemption
-  summary: Council agreed to ask PUCO for an exemption for the W. Barlow Road railroad tracks. Staff also sought a contract with GAI Consultants to redesign the Barlow Road sidewalk, and council discussed the Walk and Bike Plan ranking.
-  where: W. Barlow Road
-  refs:
-  - 7
-  - 18
-  - 27
-  - 28
-  topics:
   - Roads & traffic
-  - Recreation & trails
+  - Transit

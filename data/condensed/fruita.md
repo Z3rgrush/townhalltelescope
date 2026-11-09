@@ -1,44 +1,6 @@
 # fruita
 
-## [fruita#0] 2026-08-04 | 2026 City Council Meetings | minutes
-- 3. AGENDA - ADOPT/AMEND
-- City Clerk Deb Woods noted that there was an amendment to the agenda to add a Presentation from the
-- “Proclamations and Presentations.”
-- Mayor Breman noted that he wanted to pull Item D. from the Consent Agenda (First Reading of Ordinance
-- 2026-14 – Amending certain Sections of Title 17 of the Fruita Municipal Code regarding Natural
-- COUNCILOR PURSER MOVED TO APPROVE THE AGENDA AS AMENDED
-- 4. PROCLAMATIONS AND PRESENTATIONS
-- A. PRESENTATION – FRUITA LIVABILITY COMMISSION BIKE SAFETY FESTIVAL
-- had already been appropriated by City Council in the 2026 Budget under Boards and Commissions
-- B. PRESENTATION – SHENNA HAYDEN, MUSEUMS OF WESTERN COLORADO
-- The MWC will embark on a multi-phased thirteen-year Revitalization Plan and is looking to expand their
-- about the project over the years ahead
-- Mayor Breman asked if the MWC has outlined a capital campaign on the project yet. Hayden responded
-- Mayor Breman asked when construction might start if everything else for the project goes according to
-- plan and Hayden estimated that it would likely start very late in 2028 or early 2029
-- and the development that is going to be proposed and the lack of transparency in our workshop
-- development plan for at least 40 homes. We all agree that housing is needed. But my primary
-- concern is the water that's going to be going to this property. This property will draw from the
-- Before we move forward, residents deserve clear answers. Where will the irrigation water come
-- get less? Or are we expecting current shareholders to absorb the impact of this new development?
-- Or alternatively, if the plan is to irrigate landscaping with municipal drinking water, that deserves
-- public discussion as well
-- The Encanto system already lost water for over 24 hours at the end of June, and there's already
-- before approvals are granted, not after construction begins
-- accountable. During a recent workshop meeting, the Chief of Police made broad generalizations
-- accurate record for elected officials and staff alike and the public. So, my requests are twofold :
-- Provide a clear, long-term irrigation plan for the new development, addressing how Encanto strain
-- might be mitigated. Or what the plan is to make it better. Implement a policy to record workshop
-- Water is one of Fruita's most precious resources, and transparency is the foundation of good
-- A. MINUTES – A REQUEST TO APPROVE THE MINUTES OF THE JULY 21, 2026
-- B. BOARDS AND COMMISSIONS APPOINTMENT – A REQUEST TO APPROVE THE
-- APPOINTMENT OF ASYLAN VALKO TO THE ARTS AND CULTURE BOARD TO
-- C. BOARDS AND COMMISSIONS APPOINTMENT – A REQUEST TO APPROVE THE
-
-## [fruita#1] 2026-08-05 | Arts and Culture Board | agenda
-- 2) Public Comment
-
-## [fruita#2] 2026-08-11 | Planning Commission | agenda
+## [fruita#0] 2026-08-11 | Planning Commission | agenda
 - The following item(s) will be presented at this public hearing of the Fruita Planning Commission for their
 - consideration. Depending on the application type, the Planning Commission will formulate a recommendation
 - information may call (970) 858-0786. The hearing impaired may call Relay Colorado at 1-800-659-2656 or
@@ -82,12 +44,12 @@
 - The Planning Commission’s decision is forwarded to the Fruita City Council. Once a project is
 - approved by the City Council it must be revised to reflect all the conditions placed on it by the City
 
-## [fruita#3] 2026-08-11 | Planning Commission | agenda
+## [fruita#1] 2026-08-11 | Planning Commission | agenda
 - FROM:Planning & Development Department
 - AGENDA TEXT:Planning Commission Water Supply and Strategic Growth Community Engagement Discussion
 - The State of Colorado has mandated that by December 31, 2026, municipalities with a Comprehensive Plan must adopt a Water Supply Element and Strategic Growth Element as part of that plan. The purpose of this cover sheet is to get feedback and discuss with the Planning Commission a community engageme
 
-## [fruita#4] 2026-08-12 | Arts and Culture Board | minutes
+## [fruita#2] 2026-08-12 | Arts and Culture Board | minutes
 - 2. Public Comment
 - a. There was no public comment
 - locations and a new pedestal on South Mesa Street; the pedestal in the Dinosaur
@@ -103,7 +65,7 @@
 - the selected sculptures in person, confirm accurate representation, and
 - notified of the selections. The board will decide whether to announce selections
 
-## [fruita#5] 2026-08-18 | 2026 City Council Meetings | minutes
+## [fruita#3] 2026-08-18 | 2026 City Council Meetings | minutes
 - 3. AGENDA - ADOPT/AMEND
 - COUNCILOR PARRISH MOVED TO APPROVE THE AGENDA AS
 - 4. PROCLAMATIONS AND PRESENTATIONS
@@ -142,12 +104,12 @@
 - brief and to the point and cover all of the main points of the project
 - 3. Public Comment - (limit of 3 minutes per person) Speakers must step up to the microphone and state their name and address. Speakers
 
-## [fruita#6] 2026-08-20 | Livability Commission | agenda
+## [fruita#4] 2026-08-20 | Livability Commission | agenda
 - II. Public Comment
 - III. Review and Approve Minutes
 - a. Discussion of Bike Safety Event
 
-## [fruita#7] 2026-08-25 | 2026 City Council Meetings | minutes
+## [fruita#5] 2026-08-25 | 2026 City Council Meetings | minutes
 - 1. BEE CITY PRESENTATION (6:30 – 7:00 P.M.)
 - species, including improved water conservation, soil and air quality, crop yields and reduced lawn
 - County’s first Bee City. The Parks Department could serve as the committee and is already meeting
@@ -179,7 +141,7 @@
 - Element by December 31, 2026, the state will consider the City of Fruita “Compliance in Progress”
 - The Council discussed the questions in the survey and what implementation will look like after the
 
-## [fruita#8] 2026-08-27 | Fruita Tourism Advisory Council | minutes
+## [fruita#6] 2026-08-27 | Fruita Tourism Advisory Council | minutes
 - 2. Public Comment
 - Ms. Shepardson opened the meeting for public comment. After seeing none, this agenda item
 - 3. Approval of Minutes
@@ -208,7 +170,7 @@
 - c. Staff applied for a tourism marketing grant for next year to fund an earned media
 - e. Staff will begin scheduling presentations from mini-grant recipients at upcoming
 
-## [fruita#9] 2026-09-01 | 2026 City Council Meetings | minutes
+## [fruita#7] 2026-09-01 | 2026 City Council Meetings | minutes
 - Special Projects Coordinator Steve Martinez
 - Planning and Development Director Henry Hemphill
 - 3. AGENDA - ADOPT/AMEND
@@ -244,7 +206,7 @@
 - 2. Applicant Presentation - The petitioner is asked to present the proposal. Presentations should be
 - brief and to the point and cover all of the main points of the project
 
-## [fruita#10] 2026-09-15 | 2026 City Council Meetings | minutes
+## [fruita#8] 2026-09-15 | 2026 City Council Meetings | minutes
 - Planning and Development Director Henry Hemphill
 - 3. AGENDA - ADOPT/AMEND
 - accepted by Denise Rodriguez, Project Coordinator in the Mesa County Behavioral Health Division
@@ -280,13 +242,13 @@
 - consideration to matters which are placed into evidence and are part of the public record. Quasi
 - judicial hearings are held in the following manner:
 
-## [fruita#11] 2026-09-22 | 2026 City Council Meetings | minutes
+## [fruita#9] 2026-09-22 | 2026 City Council Meetings | minutes
 - A. EXECUTIVE SESSION – DISCUSSION AND POSSIBLE ACTION TO CONSIDER A
 - After the final interview, Council and Mayor proceeded to discuss which candidate would be the best
 - appointee to the position of Municipal Court Judge. Each Council member provided input on who they
 - The recommendation at the end of the discussion was for the City Manager to negotiate a contract for
 
-## [fruita#12] 2026-09-29 | 2026 City Council Meetings | minutes
+## [fruita#10] 2026-09-29 | 2026 City Council Meetings | minutes
 - Yamashita, Public Works Director, Special Projects Coordinator Steve Martinez and Special Counsel
 - 1. PRESENTATION – ACCESS CONTROL PLAN (ACP) AMENDMENT FOR THE
 - FUTURE CDOT WIDENING PROJECT BY MATT CASEY, DESIGN ENGINEER
@@ -327,17 +289,17 @@
 - to get its employees to market rate and while most have been updated to market rate, a few positions
 - remain that will require increases such those for Wastewater Reclamation Facility (WWRF) Operators
 
-## [fruita#13] 2026-09-30 | Arts and Culture Board | agenda
+## [fruita#11] 2026-09-30 | Arts and Culture Board | agenda
 - 2) Public Comment
 - 3) Approval of Minutes
 - 5) Grant Application Review - Fruita Historic Preservation Board
 
-## [fruita#14] 2026-10-01 | Fruita Tourism Advisory Council | agenda
+## [fruita#12] 2026-10-01 | Fruita Tourism Advisory Council | agenda
 - 2) Public Comment
 - 3) Approval of Minutes
 - 4) Presentation from Girls On
 
-## [fruita#15] 2026-10-05 | Parks and Recreation Commission | minutes
+## [fruita#13] 2026-10-05 | Parks and Recreation Commission | minutes
 - Fruita Parks and Recreation Commission Meeting
 - Steven Sparks
 - Steve Moralez (Parks Liaison)
@@ -363,7 +325,7 @@
 - Action Items/Topics for Future PARC Meetings To Consider:
 - LAUNCH Project: Possible future concerns with homeless camps in area
 
-## [fruita#16] 2026-10-13 | Planning Commission | agenda
+## [fruita#14] 2026-10-13 | Planning Commission | agenda
 - The following item (s) will be presented at this public hearing of the Fruita Planning Commission for their
 - consideration. Depending on the application type, the Planning Commission will formulate a recommendation
 - information may call (970) 858- 0786. The hearing impaired may call Relay Colorado at 1- 800-659-2656 or
@@ -404,19 +366,53 @@
 - Council before documents are recorded and/or building permits are issued. If the project fails to meet
 - the Fruita Land Use Code time limits for final documents, the project approval of the project lapses and
 
-## [fruita#17] 2026-10-15 | Livability Commission | agenda
+## [fruita#15] 2026-10-15 | Livability Commission | agenda
 - II. Public Comment
 - III. Review and Approve Minutes
 - a. Discussion on Trail Cleanup
 
-## [fruita#19] 2026-10-22 | Fruita Tourism Advisory Council | agenda
+## [fruita#16] 2026-10-20 | 2026 City Council Meetings | minutes
+- Planning and Development Director Henry Hemphill
+- 3. Agenda - adopt/amend
+- Councilor Purser moved to approve the agenda as presented. Councilor Parrish seconded
+- 4. Proclamations and Presentations
+- A. Presentation – Fruita Students of the Month for October 2026: Rim Rock Elementary
+- Each Council member took a turn reading the name of a student and each student received a certificate
+- C. Presentation - Update from Ilana Moir, Conservation Director of the Colorado West Land
+- Ilana Moir, Director of Conservation at Colorado West Land Trust provided a PowerPoint presentation
+- Ms. Moir’s presentation also included the following information:
+- through private conservation agreements with the Land Trust
+- The Land Trust personalizes its conservation easements and agreements to what families’
+- ✓ Land protection through Conservation Agreements
+- Conservation Agreements are followed forever so that future generations have the
+- where they agreed not to annex designated buffer areas
+- on projects. Funds come from entities such as the Great Outdoors Colorado (GOCO) and
+- Paul Schultz, resident of Fruita, requested that:
+- 1. The City Council remove Consent Agenda Item 5.H – Ordinance 2026-20 – First Reading - An
+- introduction of an Ordinance enacting Title 18 of the Fruita Municipal Code concerning
+- Metropolitan Districts for publication of Public Hearing on November 17, 2026 from the Consent
+- 2. Halt the $2.2 million Fremont Street to 18 ½ Road expenditure in the 2027 Annual Budget
+- Schultz said that he was submitting the following statement on behalf of Fruita taxpayers:
+- “I am Paul Schultz, a City of Fruita resident speaking on behalf of Fruita taxpayers, and I ask
+- Council to take two actions tonight: 1) pull Item 5.H, Ordinance 2026 -20, from the Consent
+- Agenda, and 2), halt the $2.02 million Fremont Street —18 ½ Road—expenditure in the 2027
+- Tonight’s packet exposes a troubling pattern: using public tax dollars and eminent domain to
+- farms, existing neighborhoods and Fruita taxpayers
+- Look first at 19 Road, on Iron Wheel’s east boundary. The City used eminent domain against area
+- family farms and spent over $7 million—with more than $1 million in budget overruns, including
+- Now, in the 2027 Budget under Item 7.A, the City proposes diverting $2.02 million —from the
+- General Fund, Impact Fees, and from the Sewer Fund—to build 18 ½ Road and extend trunk sewer
+- south to the "future Skiff Avenue alignment," piping untreated storm runoff directly into the buried
+- Palmer Drain. To pay for this, the City took funds from 2027 citywide street overlays and chip
+
+## [fruita#17] 2026-10-22 | Fruita Tourism Advisory Council | agenda
 - 2) Public Comment
 - 3) Approval of Minutes
 - 4) Presentations from:
 - 5) Mini-Grant Application
 - 6) 2027 Budget Overview
 
-## [fruita#21] 2026-11-02 | Parks and Recreation Commission | agenda
+## [fruita#19] 2026-11-02 | Parks and Recreation Commission | agenda
 - PARKS AND RECREATION REGULAR MEETING November 2, 2026 P a g e | 1
 - PARKS AND RECREATION
 - 2. AGENDA - ADOPT/AMEND
@@ -426,3 +422,8 @@
 - public regarding items that do not otherwise appear on this agenda. Generally, the Parks and
 - Recreation Advisory Board will not discuss the issue and will not take an official action under this
 - 5. PARKS AND RECREATION REPORT / UPDATE
+
+## [fruita#21] 2026-11-04 | Arts and Culture Board | agenda
+- FARM Fruita – 160 S. Park Square
+- 2) Public Comment
+- 3) Approval of Minutes

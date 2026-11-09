@@ -1,97 +1,20 @@
 # severance
 
-## [severance#0] 2026-08-05 | Citizen Advisory Board | agenda
-- CITIZEN ADVISORY BOARD / COMPREHENSIVE PLAN ADVISORY COMMITTEE MEETING
-- 3 S. Timber Ridge Parkway, Severance, CO 80550
-- THE COMPREHENSIVE PLAN ADVISORY COMMITTEE STARTS FOLLOWING THE
-- 3. Approval of Agenda
-- 4. Approval of Minutes 7.1.26
-- 5. Public Comment
-- The purpose of the Public Comment is for members of the public to speak to the Comprehensive
-- Plan Advisory Committee on any subject not scheduled on the agenda. To accomplish
-- person or an appropriate time as deemed by the Chair. The Comprehensive Plan Advisory
-- schedule the matter for a later discussion. Those addressing the Comprehensive Plan Advisory
-- 1. Presentation: Administrative Service Department Overview
-- Staff Presentation: Sarah Jacobsen, Town Clerk
-- 2. Approval of Agenda
-- 3. Approval of Minutes 7.1.26
-- 4. Public Comment
-- 1. Discussion regarding the Comprehensive Plan Engagement Plan and schedule
-- Staff Presentation: Shani Porter, Planning Director
-
-## [severance#1] 2026-08-05 | Citizen Advisory Board | agenda
-- CITIZEN ADVISORY BOARD / COMPREHENSIVE PLAN ADVISORY COMMITTEE MEETING
-- 3 S. Timber Ridge Parkway, Severance, CO 80550
-- THE COMPREHENSIVE PLAN ADVISORY COMMITTEE STARTS FOLLOWING THE
-- 3. Approval of Agenda
-- 4. Approval of Minutes 7.1.26
-- 5. Public Comment
-- The purpose of the Public Comment is for members of the public to speak to the Comprehensive
-- Plan Advisory Committee on any subject not scheduled on the agenda. To accomplish
-- person or an appropriate time as deemed by the Chair. The Comprehensive Plan Advisory
-- schedule the matter for a later discussion. Those addressing the Comprehensive Plan Advisory
-- 1. Presentation: Administrative Service Department Overview
-- Staff Presentation: Sarah Jacobsen, Town Clerk
-- 2. Approval of Agenda
-- 3. Approval of Minutes 7.1.26
-- 4. Public Comment
-- 1. Discussion regarding the Comprehensive Plan Engagement Plan and schedule
-- Staff Presentation: Shani Porter, Planning Director
-- 4. Approval of June 3, 2026 Minutes
-- No public comment
-- 1. Mobile Food Vendor Licensing Discussion
-- Staff Presentation: Andrew Rogers, Town Attorney
-- registering to vote, requesting a public record, appearing in
-- records requests
-- Licensing / Permits
-- Public Records Requests /
-- state/local legal requirement — the Clerk certifies
-- Colorado's Taxpayer's Bill of Rights — it requires
-- voter approval before governments raise taxes
-- As official record keeper, the Clerk's office makes sure Town records are accurate, retained on schedule, and accessible to the public we
-- CORA Requests
-- every request
-- Online requests
-- Take a breath, focus, and make sure the resident feels heard
-- LICENSING & PERMITTING
-- What We License & Permit
-- permit before activity
-- a special event permit to
-- Chicken Permit
-- limits requires a permit
-- COMPREHENSIVE PLAN ADVISORY COMMITTEE MEETING
-- 3. Approval of May 6, 2026 Minutes
-- 1. Review of the current 2020 Comprehensive Plan
-- Presentation was given by Shani Porter, Lindsey Wilson, and Josh Olhava
-- Presentation was given by Lindsey Wilson and Josh Olhava
-- Discussion regarding the
-- Comprehensive Plan
-- Engagement Plan and schedule
-- ACTION REQUESTED
-- Review and Discuss the Comprehensive Master Plan and Engagement
-- Plan Schedule Presentation
-- The goal of this engagement plan is to build trust, educate the public, and gather meaningful input
-- from Severance residents and stakeholders regarding the Comprehensive Plan update. The
-- they already are. Engagement will focus on what the Comprehensive Plan is, why it matters, and
-- how community input directly shapes future land use, transportation, parks, growth, and
-- 1. Severance CP Engagement Plan
-- ENGAGEMENT PLAN
-
-## [severance#2] 2026-08-11 | Town Council | agenda
+## [severance#0] 2026-08-11 | Town Council | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 
-## [severance#3] 2026-08-19 | Planning Commission | agenda
+## [severance#1] 2026-08-19 | Planning Commission | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 
-## [severance#4] 2026-09-02 | Citizen Advisory Board | agenda
+## [severance#2] 2026-09-02 | Citizen Advisory Board | agenda
 - CITIZEN ADVISORY BOARD / COMPREHENSIVE PLAN ADVISORY COMMITTEE CANCELED
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - Citizen Advisory Board / Comprehensive Plan Advisory Committee Meeting
 
-## [severance#5] 2026-09-07 | Youth Council | agenda
+## [severance#3] 2026-09-07 | Youth Council | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 
-## [severance#6] 2026-09-16 | Planning Commission | agenda
+## [severance#4] 2026-09-16 | Planning Commission | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - 3. Approval of Agenda
 - 4. Approval of Minutes January 21, 2026
@@ -108,7 +31,7 @@
 - infrastructure for new development
 - Commission approval may be sought for administrative actions in association with staff reports
 
-## [severance#7] 2026-09-16 | Planning Commission | agenda
+## [severance#5] 2026-09-16 | Planning Commission | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - 3. Approval of Agenda
 - 4. Approval of Minutes January 21, 2026
@@ -153,7 +76,7 @@
 - Promote public health, safety, and welfare while preserving a noticed public hearing before
 - Legal Staff is requesting the Planning Commission review, discuss, and approve PC-2026-02R for the
 
-## [severance#8] 2026-09-22 | Town Council | agenda
+## [severance#6] 2026-09-22 | Town Council | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - 1. Pg. 4 - 2027 Capital Improvement Program (CIP) Final Draft Discussion
 - Staff Presentation: Nicholas Wharton, Town Manager
@@ -180,7 +103,7 @@
 - Ordinance 2026-12: An Ordinance of the Town Council of the Town of Severance,
 - Colorado, approving the consolidated service plan for Northgate Lakes Metropolitan
 
-## [severance#9] 2026-09-22 | Town Council | agenda
+## [severance#7] 2026-09-22 | Town Council | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - 1. Pg. 4 - 2027 Capital Improvement Program (CIP) Final Draft Discussion
 - Staff Presentation: Nicholas Wharton, Town Manager
@@ -221,7 +144,7 @@
 - 2027 Water Acquisition Program (Additional Funds Added)
 - 2027 Town Park Improvement Program (Additional Funds Added for a Restroom at Blue
 
-## [severance#10] 2026-10-05 | Youth Council | agenda
+## [severance#8] 2026-10-05 | Youth Council | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - 3. Approval of Minutes 8.3.26
 - 4. Public Comment
@@ -235,7 +158,7 @@
 - Staff Presentation: Kayli Adams
 - C. FUTURE DISCUSSION ITEMS
 
-## [severance#11] 2026-10-05 | Youth Council | agenda
+## [severance#9] 2026-10-05 | Youth Council | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - 3. Approval of Minutes 8.3.26
 - 4. Public Comment
@@ -272,7 +195,7 @@
 - Social Media Discussion
 - Town Management asks that the Youth Council discuss and provide feedback on the following
 
-## [severance#12] 2026-10-07 | Citizen Advisory Board | agenda
+## [severance#10] 2026-10-07 | Citizen Advisory Board | agenda
 - CITIZEN ADVISORY BOARD / COMPREHENSIVE PLAN ADVISORY COMMITTEE MEETING
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - THE COMPREHENSIVE PLAN ADVISORY COMMITTEE STARTS FOLLOWING THE
@@ -288,7 +211,7 @@
 - 3. Severance Chamber Community Grant Application
 - E. COMPREHENSIVE PLAN ADVISORY COMMITTEE (CANCELED)
 
-## [severance#13] 2026-10-07 | Citizen Advisory Board | agenda
+## [severance#11] 2026-10-07 | Citizen Advisory Board | agenda
 - CITIZEN ADVISORY BOARD / COMPREHENSIVE PLAN ADVISORY COMMITTEE MEETING
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - THE COMPREHENSIVE PLAN ADVISORY COMMITTEE STARTS FOLLOWING THE
@@ -339,11 +262,11 @@
 - If awarded, the grant funding would be pooled with other
 - Our mission directly relates to the Town’s Award Criteria by
 
-## [severance#14] 2026-10-13 | Town Council | agenda
+## [severance#12] 2026-10-13 | Town Council | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - A. 2027 Town Projects & Budget Town Hall
 
-## [severance#15] 2026-10-21 | Planning Commission | agenda
+## [severance#13] 2026-10-21 | Planning Commission | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - 3. Approval of Agenda
 - 4. Approval of Minutes 9.16.26
@@ -360,7 +283,7 @@
 - amending Chapter 16 of the Severance Municipal Code regarding early grading permit
 - Commission approval may be sought for administrative actions in association with staff reports
 
-## [severance#16] 2026-10-21 | Planning Commission | agenda
+## [severance#14] 2026-10-21 | Planning Commission | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - 3. Approval of Agenda
 - 4. Approval of Minutes 9.16.26
@@ -397,7 +320,7 @@
 - Approve Resolution No. PC 2026-06R: Amend the Municipal Code concerning electric
 - service infrastructure for new development. All Commissioners present voting Yes
 
-## [severance#17] 2026-10-27 | Town Council | agenda
+## [severance#15] 2026-10-27 | Town Council | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - 1. Pg. 5 - 2027 Proposed Rates, Fee Schedule, and Budget
 - Staff Presentation: Jacquelyn Grossnickle, Finance Director, Nicholas Wharton, Town
@@ -434,7 +357,7 @@
 - 7. Pg. 436 - Ordinance 2026-15: An Ordinance of the Town Council of the Town of
 - Severance, Colorado, amending sections 16.3.320 and 16.3.420 and tables 16.3.320 and
 
-## [severance#18] 2026-10-27 | Town Council | agenda
+## [severance#16] 2026-10-27 | Town Council | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - 1. Pg. 5 - 2027 Proposed Rates, Fee Schedule, and Budget
 - Staff Presentation: Jacquelyn Grossnickle, Finance Director, Nicholas Wharton, Town
@@ -471,7 +394,7 @@
 - 7. Pg. 436 - Ordinance 2026-15: An Ordinance of the Town Council of the Town of
 - Severance, Colorado, amending sections 16.3.320 and 16.3.420 and tables 16.3.320 and
 
-## [severance#19] 2026-11-02 | Youth Council | agenda
+## [severance#17] 2026-11-02 | Youth Council | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - 3. Approval of October 5, 2026 Minutes
 - 4. Public Comment
@@ -483,7 +406,7 @@
 - Staff Presentation: Lindsay Radcliff-Coombes, Deputy Town Manager
 - C. FUTURE DISCUSSION ITEMS
 
-## [severance#20] 2026-11-02 | Youth Council | agenda
+## [severance#18] 2026-11-02 | Youth Council | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - 3. Approval of October 5, 2026 Minutes
 - 4. Public Comment
@@ -511,3 +434,83 @@
 - Town Management asks that the Youth Council discuss and take action on
 - Presentation
 - newsletter will present it to the Youth Council for either approval, approval with additions, or denial
+
+## [severance#19] 2026-11-04 | Citizen Advisory Board | agenda
+- CITIZEN ADVISORY BOARD / COMPREHENSIVE PLAN ADVISORY COMMITTEE MEETING
+- 3 S. Timber Ridge Parkway, Severance, CO 80550
+- THE COMPREHENSIVE PLAN ADVISORY COMMITTEE STARTS FOLLOWING THE
+- 3. Approval of Agenda
+- 4. Approval of Minutes 8.5.26 & 10.7.26
+- 5. Public Comment
+- The purpose of the Public Comment is for members of the public to speak to the Comprehensive
+- Plan Advisory Committee on any subject not scheduled on the agenda. To accomplish
+- person or an appropriate time as deemed by the Chair. The Comprehensive Plan Advisory
+- schedule the matter for a later discussion. Those addressing the Comprehensive Plan Advisory
+- 1. Presentation: Planning Department Overview
+- Staff Presentation: Shani Porter, Planning Director
+- 2. Approval of Agenda
+- 3. Approval of Minutes 8.5.26
+- 4. Public Comment
+- 2. Sample Design for the Comprehensive Plan 2026
+- 3. Draft Chapters Comprehensive Plan 2026
+
+## [severance#20] 2026-11-04 | Citizen Advisory Board | agenda
+- CITIZEN ADVISORY BOARD / COMPREHENSIVE PLAN ADVISORY COMMITTEE MEETING
+- 3 S. Timber Ridge Parkway, Severance, CO 80550
+- THE COMPREHENSIVE PLAN ADVISORY COMMITTEE STARTS FOLLOWING THE
+- 3. Approval of Agenda
+- 4. Approval of Minutes 8.5.26 & 10.7.26
+- 5. Public Comment
+- The purpose of the Public Comment is for members of the public to speak to the Comprehensive
+- Plan Advisory Committee on any subject not scheduled on the agenda. To accomplish
+- person or an appropriate time as deemed by the Chair. The Comprehensive Plan Advisory
+- schedule the matter for a later discussion. Those addressing the Comprehensive Plan Advisory
+- 1. Presentation: Planning Department Overview
+- Staff Presentation: Shani Porter, Planning Director
+- 2. Approval of Agenda
+- 3. Approval of Minutes 8.5.26
+- 4. Public Comment
+- 2. Sample Design for the Comprehensive Plan 2026
+- 3. Draft Chapters Comprehensive Plan 2026
+- 4. Approval of Minutes 7.1.26
+- No one was present for public comment
+- 1. Presentation: Administrative Service Department Overview
+- Staff Presentation: Sarah Jacobsen, Town Clerk
+- Ken Chavez, Police Chief
+- 1. Presentation: Police Department
+- 2. Severance High School After Prom Grant Application
+- Staff Presentation: Nicholas Wharton, Town Manager
+- Motion to approve the Severance High School After Prom Grant for $2000 by Chair Green, seconded
+- 3. Severance Chamber Community Grant Application
+- A plan for how land is used
+- Where parks and trails go
+- How roads connect everything
+- Walkable Streets
+- Parks & Open Space
+- Water & Sewer Service
+- Development Nodes
+- Developments
+- Participate in discussions
+- COMPREHENSIVE PLAN ADVISORY COMMITTEE MEETING
+- 3. Approval of Minutes 7.1.26
+- No public comment
+- 1. Discussion regarding the Comprehensive Plan Engagement Plan and schedule
+- A presentation was given by Josh Olhave and Chris Wilson. The Committee provided feedback
+- ACTION REQUESTED
+- Please review and come prepared to discuss at the meeting. Report Discussion
+- As part of the Town of Severance Comprehensive Plan Update, the planning team conducted
+- multiple rounds of community engagement to ensure the plan reflects the community's voices and
+- Engagement Plan
+- As part of the Town of Severance Comprehensive Plan
+- of community engagement to ensure the plan
+- with an overview of the Comprehensive Plan
+- project timeline. Council members then
+- their perspectives on Severance and identify
+- Opportunities for Improvement
+- Small-town feel
+- Agricultural feel
+- Mature and generate sales tax
+- Economic and business development
+- More housing diversity
+- Council Focused Strategies
+- Provide support with incentives and creative problem solving

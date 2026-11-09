@@ -1,97 +1,77 @@
+- title: Town Administrator/Clerk transition and Cheryl Campbell's resignation
+  summary: On July 21, 2026 the Board accepted Town Administrator Cheryl Campbell's resignation and discussed handing the position over once Linda Blackston starts. An employment agreement and an alternate town attorney option were also on the agenda.
+  where: Town Hall, 621 27th Street Road
+  refs:
+  - 2
+  topics:
+  - Government operations
 - title: New Police Department building construction
-  summary: The board repeatedly approved Mark Young Construction change orders (COR 002 through 010) and monthly invoices, including a $301,598.32 November 2025 invoice, and approved a June 2026 invoice. Staff also noted the PD floor will be entirely replaced.
+  summary: The Board repeatedly approved Mark Young Construction change orders and invoices for the Police Department project, including a $301,598.32 November 2025 invoice and a June 2026 invoice. The police chief also noted the PD floor will be entirely replaced and grants were submitted.
   where: Garden City Police Department
   refs:
   - 0
   - 1
   - 2
-  - 3
   topics:
   - Policing & public safety
   - Budget & taxes
-  - Government operations
-- title: 2026 budget, 4% COLA and property tax levy
-  summary: After a public hearing, the board was set to adopt the 2026 budget, appropriation and property tax levy (Resolutions 10, 11 and 12-2025) on Dec. 9. It also considered a 4% cost-of-living raise and a larger health insurance stipend for employees.
+- title: 2026 budget, property tax levy and employee raises
+  summary: After a public hearing, the Board in December 2025 considered adopting the 2026 budget, appropriating funds and setting the general property tax levy. It also considered a 4% cost-of-living raise and a larger health insurance stipend for employees.
   where: Townwide
   refs:
+  - 0
   - 1
-  - 2
   topics:
   - Budget & taxes
   - Government operations
-- title: Town Administrator/Clerk transition and alternate attorney
-  summary: In July 2026 the board approved Town Administrator Cheryl Campbell's resignation letter and discussed handing the position over once Linda Blackston starts. It also discussed an employment agreement and alternate town attorney options.
-  where: Town Hall, 621 27th Street Road
-  refs:
-  - 3
-  topics:
-  - Government operations
-- title: Speed humps on 27th Street Road
-  summary: The board considered speed hump proposals for 27th Street Road in November 2025. In July 2026 staff were to check on an issue at the end of 27th Street Road.
-  where: 27th Street Road
-  refs:
-  - 0
-  - 3
-  topics:
-  - Roads & traffic
-- title: 2026 Greeley Transit contract
-  summary: The board considered approving the 2026 contract with Greeley Transit for services.
-  where: Townwide
-  refs:
-  - 0
-  topics:
-  - Transit
-- title: Building codes and 2026 building permit fees
-  summary: The board considered adopting the 2026 building permit fee schedule. It also took up Ordinance 11-2025, adopting by reference building codes including the Electric and Solar Ready Code and Colorado wildfire resiliency code, with a hearing on Dec. 9.
+  public_comment: true
+- title: Electric and solar ready building code (Ordinance 11-2025)
+  summary: The Board introduced Ordinance 11-2025 adopting by reference the 2023 International electric and solar ready codes and the Colorado Wildfire Resiliency code, then held a public hearing on December 9, 2025.
   where: Townwide
   refs:
   - 0
   - 1
-  - 2
   topics:
-  - Fees & rates
   - Zoning & development
-  - Fire & emergencies
+  - Energy
+  public_comment: true
 - title: Award Alliance incentive
-  summary: Paul Hlad of Award Alliance presented to the board in November 2025. On Dec. 9 the board was set to consider Resolution 13-2025, an incentive for Award Alliance.
+  summary: Paul Hlad of Award Alliance presented to the Board in November 2025, and in December the Board considered Resolution 13-2025 granting an incentive to Award Alliance.
   where: Garden City
   refs:
+  - 0
   - 1
-  - 2
   topics:
   - Economic development
-- title: Marijuana business licenses and special review use
-  summary: The board considered several retail marijuana store, cultivation and manufacturing licenses and renewals in November 2025. In July 2026 it considered a Star Buds license at 2502 8th Ave and adopted Resolution 10-2026 granting a use by special review.
-  where: 2502 8th Ave
+- title: Marijuana license applications and renewals
+  summary: The Board considered several retail marijuana store, cultivation and manufacturer licenses in November 2025, including Nature's Herbs and Wellness Center and High Plainz Strains II. In July 2026 it took up a Star Buds license at 2502 8th Ave.
+  where: 2502 8th Ave and other Garden City locations
   refs:
-  - 1
-  - 3
+  - 0
+  - 2
   topics:
   - Cannabis & liquor
-  - Zoning & development
-- title: Commercial Revitalization Grant for El Rodeo Night Club
-  summary: The board was to give final review and approval to El Rodeo Night Club LLC's Commercial Revitalization Grant.
+- title: Use by special review and Northern Colorado Driveline
+  summary: In July 2026 the Board adopted Resolution 10-2026 granting a use by special review and separately discussed Northern Colorado Driveline. The documents give no further details.
   where: Garden City
   refs:
-  - 1
+  - 2
+  topics:
+  - Zoning & development
+  - Economic development
+- title: Weld County CDBG agreement and coordinated election
+  summary: The Board approved an intergovernmental agreement for the Community Development Block Grant program in Weld County and a memorandum for a coordinated election, and discussed the election.
+  where: Townwide
+  refs:
+  - 2
+  topics:
+  - Elections
+  - Health & human services
+- title: El Rodeo Night Club commercial revitalization grant
+  summary: The Board reviewed final approval of a Commercial Revitalization Grant for El Rodeo Night Club LLC in November 2025.
+  where: Garden City
+  refs:
+  - 0
   topics:
   - Downtown & business
   - Economic development
-- title: Coordinated election and community development grants
-  summary: In July 2026 the board approved a memorandum of intergovernmental agreement for the coordinated election, discussed the election, and approved an IGA for the Weld County Community Development Block Grant program.
-  where: Townwide
-  refs:
-  - 3
-  topics:
-  - Elections
-  - Government operations
-- title: Police department sells last Smith & Wesson
-  summary: The board approved lowering the price of the last Smith & Wesson firearm held by the police department.
-  where: Garden City Police Department
-  refs:
-  - 3
-  topics:
-  - Guns
-  - Policing & public safety
-  tags:
-  - guns

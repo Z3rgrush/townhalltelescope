@@ -1,27 +1,6 @@
 # garden-city
 
-## [garden-city#0] 2025-11-04 | Board of Trustees | agenda
-- Town Hall - 621 27th Street Road, Garden City, CO 80631
-- The Board will consider and may act on the following items:
-- a. Approve Minutes from October 20, 2025 Regular Meeting
-- b. Approve Bills Paid
-- c. Approve Bills to be Paid
-- d. Approve Hauser Architects invoice in the amount of $11,500.00
-- a. Consider I&B Inc DBA El Bandido Niteclub Permit of Application and Report of
-- b. Consider I&B Inc DBA El Bandido Niteclub Tavern with Live Entertainment Liquor
-- 6. Contract for 2026 Transit Services
-- a. Approve 2026 Greeley Transit Contract for Services
-- 7. Fee Schedule
-- a. Adopt Building Permit Fee Schedule for 2026
-- 8. Consider Speed Hump proposals for 27th Street Road
-- 9. Consider concrete proposals for work behind the Community Center
-- 10. Police Department Items
-- a. Approve Mark Young Construction Change Order COR No.002 in the amount of
-- b. Approve Mark Young Construction Change Order COR No.003 in the amount of
-- c. Approve Mark Young invoice for October construction services in the amount of
-- b. Police Chief
-
-## [garden-city#1] 2025-11-18 | Board of Trustees | agenda
+## [garden-city#0] 2025-11-18 | Board of Trustees | agenda
 - Town Hall - 621 27th Street Road, Garden City, CO 80631
 - The Board will consider and may act on the following items:
 - a. Approve Minutes from November 4, 2025 Regular Meeting
@@ -57,7 +36,7 @@
 - d. Approve Mark Young Construction Change Order COR No.007 in the amount of
 - b. Police Chief
 
-## [garden-city#2] 2025-12-09 | Board of Trustees | agenda
+## [garden-city#1] 2025-12-09 | Board of Trustees | agenda
 - Town Hall - 621 27th Street Road, Garden City, CO 80631
 - The Board will consider and may act on the following items:
 - 3. Swear in David Vogl as Part-Time Police Officer
@@ -90,7 +69,7 @@
 - a. Adopt Resolution 13-2025 Incentive for Award Alliance
 - b. Police Chief
 
-## [garden-city#3] 2026-07-21 | Board of Trustees | minutes
+## [garden-city#2] 2026-07-21 | Board of Trustees | minutes
 - Town Hall - 621 27th Street Road, Garden City, CO 80631
 - The Board will consider and may act on the following items:
 - In Attendance: Town Administrator Cheryl Campbell, Police Chief Jeremy Black, Deputy

@@ -212,3 +212,7 @@
 - PLANNING AND ZONING COMMISION
 - 1. Discussion of Master Plan Update
 - any time. The staff reports may include administrative items not listed. Regular meetings, Public Hearings, and Special
+
+## [norwood#20] 2026-11-04 | City Council | agenda
+- 1. 2027 Draft Budget
+- any time. The staƯ reports may include administrative items not listed. Regular meetings, Public Hearings, and Special

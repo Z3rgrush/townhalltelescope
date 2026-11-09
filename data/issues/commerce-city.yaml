@@ -1,153 +1,135 @@
 - title: Data center moratorium and study
-  summary: Council voted to schedule a data center topic for a study session, in response to a request for a data center moratorium ordinance. The Environmental Policy and Innovation Commission is discussing data centers and preparing a recommendation, and public feedback is encouraged.
+  summary: Council took up a request for a data center moratorium ordinance and a motion to schedule a data center study session. A resident later asked Council to extend the Data Center Moratorium and spoke on water restrictions. The Environmental Policy and Innovation Commission has been researching data centers and was set to make a recommendation in October.
   where: Citywide
   refs:
-  - 16
-  - 17
-  - 32
-  - 55
-  - 86
+  - 6
+  - 7
+  - 22
+  - 45
+  - 67
+  - 77
   topics:
   - Data centers
-  - Zoning & development
+  - Water
   - Environment & climate
   tags:
   - data-center
-- title: Shamrock Foods rezoning to I-3 and food oil conditional use at 5199 Ivy Street
-  summary: Planning Commission recommended approval of rezoning the site at the southwest corner of East 52nd Avenue and Ivy Street from I-2 to I-3 heavy industrial, plus a conditional use permit for food oil storage tanks. Commissioners noted the Sand Creek Regional Greenway, about 1,100 feet north, was not notified. Council approved the rezoning on first reading October 5.
-  where: 5199 Ivy Street (SW corner of E 52nd Ave and Ivy St)
+  public_comment: true
+- title: Colorado Blvd traffic, jake brakes and Chambers Road/120th Ave road work
+  summary: Residents complained about truck traffic, speeding, drainage and poor road conditions on Colorado Blvd. Council directed the City Manager to find a way to prohibit jake brakes by ordinance by the end of Q1 2027, and moved to improve 120th Avenue between Sable Boulevard and Chambers Road, including the I-76 bridge, before winter. Council also awarded a Chambers Road and Heartland Drive contract and received a Chambers Road widening update.
+  where: Colorado Blvd, 120th Avenue, Chambers Road
   refs:
-  - 0
-  - 63
-  topics:
-  - Zoning & development
-  - Economic development
-- title: 2027 city budget, fees and mill levy
-  summary: Council and its related districts (Urban Renewal Authority, E-470 Commercial and Residential GIDs, Northern Infrastructure GID) reviewed 2027 preliminary budgets, with mill levy options for NIGID. Budget adoption and tax levy hearings are set for October 19 and November 2. Parks and golf fee increases for 2027 were also presented.
-  where: Citywide
-  refs:
-  - 5
   - 6
+  - 60
+  - 67
+  topics:
+  - Roads & traffic
+  public_comment: true
+- title: 2027 city budget, tax levy and district mill levies
+  summary: Council held a 2027 budget workshop in September and a public hearing on November 2 on adopting the 2027 city budget and the tax levy. The Northern Infrastructure, E-470 Commercial and E-470 Residential general improvement districts and the Urban Renewal Authority each continued their budget and mill levy hearings to November 2. Parks and recreation fee increases for 2027 were also reviewed.
+  where: Citywide
+  refs:
   - 7
-  - 8
-  - 9
-  - 17
-  - 40
-  - 42
-  - 59
-  - 63
-  - 76
-  - 77
-  - 78
-  - 79
-  - 80
-  - 96
-  - 97
-  - 98
-  - 99
-  - 100
-  topics:
-  - Budget & taxes
-  - Fees & rates
-- title: Reunion Filing 39 final plat (84 lots)
-  summary: Oakwood Homes requested final plat approval for Reunion Filing 39, creating 84 lots and six tracts on about 22.5 acres near Chambers Road and Heartland Drive within the Reunion PUD. It went to Planning Commission September 1 and Council October 19, with public comment submitted.
-  where: Chambers Road and Heartland Drive, Reunion PUD
-  refs:
-  - 33
-  - 76
-  topics:
-  - Housing
-  - Zoning & development
-  public_comment: true
-- title: Land Development Code rezoning and amendments
-  summary: The city is updating its 2025 Land Development Code, including a legislative rezoning project with proposed zoning maps, Ordinance 2795, Ordinance 2803 and a joint Tier 2 study session on land uses, procedures and approval criteria. Public comment was included in the rezoning materials.
-  where: Citywide
-  refs:
-  - 0
-  - 24
-  - 25
-  - 33
-  - 37
-  - 51
-  - 64
-  - 65
-  - 76
-  topics:
-  - Zoning & development
-  public_comment: true
-- title: 'Annexations: Third Creek East, South Platte Crossing Phase 2, surrounded enclaves'
-  summary: Council found substantial compliance on the Third Creek East annexation petition (September 21) and the South Platte Crossing Phase 2 petition (October 19), setting eligibility hearings. Council also discussed annexing surrounded enclaves, and approved the 88th and Tower annexation earlier.
-  where: Third Creek East; South Platte Crossing; 88th and Tower
-  refs:
-  - 0
-  - 51
-  - 58
-  - 76
-  topics:
-  - Annexation
-  - Land & property
-- title: Housing Action Plan and Commerce City Housing Authority
-  summary: Outreach for the Housing Action Plan launched with public surveys, and a consultant presented to Council and Planning Commission on October 26. Council also scheduled a discussion of the Commerce City Housing Authority and its affordable projects.
-  where: Citywide
-  refs:
-  - 0
+  - 30
+  - 32
+  - 49
+  - 68
+  - 69
   - 70
+  - 71
+  - 87
+  - 88
+  - 89
   - 90
   - 91
   topics:
-  - Housing
-- title: Chambers Road widening and road impact fees
-  summary: Council moved to use road impact fee funds for road widening Phase I projects, awarded a contract to Lighthouse Transportation Group for the Chambers Road and Heartland Drive project, and scheduled a project update.
-  where: Chambers Road and Heartland Drive
-  refs:
-  - 16
-  - 70
-  - 76
-  topics:
-  - Roads & traffic
-  - Fees & rates
-- title: Oil and gas development north of the city, Suncor study session
-  summary: A Chevron-hosted meeting reviewed proposed oil and gas development north of the city, and a Council request sought a study session with Suncor.
-  where: North of Commerce City; Suncor refinery
-  refs:
-  - 17
-  - 63
-  topics:
-  - Oil, gas & mining
-  - Environment & climate
-- title: Police mobile command unit and Axon agreement
-  summary: Council considered an ordinance (2796) for the Police Department to purchase a mobile command unit from SACFD, and approved a first amendment to the Axon master services agreement.
-  where: Citywide
-  refs:
-  - 31
-  - 51
-  - 63
-  topics:
-  - Policing & public safety
   - Budget & taxes
-- title: Municipal court, noise ordinance and code enforcement changes
-  summary: Court staff presented draft ordinances 2806 and 2807 on jury trials and compliance and enforcement, while Council also discussed options for the municipal noise ordinance.
+  - Fees & rates
+- title: Land Development Code and citywide legislative rezoning
+  summary: Council and the Planning Commission reviewed the legislative rezoning project and proposed zoning maps, with public comment attached. Ordinance 2795, other code amendments and Tier 2 amendments to the 2025 Land Development Code were also on agendas. Ordinance 2811 would repeal and reenact the official zoning map, with property owner feedback attached.
   where: Citywide
   refs:
-  - 58
-  - 76
-  topics:
-  - Lawsuits & legal
-  - Government operations
-- title: Hogan Property PUD amendment
-  summary: Council adopted on second reading an ordinance amending the Hogan Property PUD to consolidate development standards and expand the boundary, on 16.82 acres near 101st Way, with written public comment.
-  where: 15955 E 101st Way
-  refs:
-  - 51
+  - 14
+  - 15
+  - 23
+  - 27
+  - 54
+  - 55
+  - 92
   topics:
   - Zoning & development
   public_comment: true
-- title: Riverdale Animal Shelter fees and outdoor vendor rules
-  summary: Council reviewed Riverdale Animal Shelter fees and services, and introduced an ordinance amending restrictions on outdoor vendors.
+- title: 'Annexations: Third Creek East, South Platte Crossing Phase 2, and surrounded enclaves'
+  summary: Council found the Third Creek East annexation petition (AN26-0002) in substantial compliance and set an eligibility hearing. It did the same for South Platte Crossing Phase 2 (AN26-0004, 0.61 acres at 7110 Colorado Blvd), which went to Planning Commission with a zoning request. Council also discussed annexing surrounded enclaves.
+  where: 7110 Colorado Blvd and Third Creek East area
+  refs:
+  - 41
+  - 48
+  - 67
+  - 92
+  topics:
+  - Annexation
+  - Zoning & development
+- title: Reunion Filing 39 final plat and Hogan Property PUD amendment
+  summary: Oakwood Homes asked the Planning Commission to approve a final plat creating 84 lots in the Reunion PUD near Chambers Road and Heartland Drive; public comment and an applicant response were in the packet. Council adopted on second reading an amendment to the Hogan Property PUD covering 16.82 acres near 15955 E 101st Way, with written comment.
+  where: Reunion PUD near Chambers Rd and Heartland Dr; 15955 E 101st Way
+  refs:
+  - 23
+  - 41
+  topics:
+  - Housing
+  - Zoning & development
+  public_comment: true
+- title: Housing Action Plan and Commerce City Housing Authority
+  summary: Council discussed the Commerce City Housing Authority and its current and developed affordable projects. Council and Planning Commission were also scheduled to see a consultant presentation on a Housing Action Plan.
   where: Citywide
   refs:
-  - 24
-  - 63
+  - 60
+  - 81
+  - 82
   topics:
-  - Fees & rates
-  - Downtown & business
+  - Housing
+- title: Crown Enterprises development plan at 10251 Newark Street
+  summary: Council considered a resolution approving a development plan amendment for the Crown Enterprises property at 10251 Newark Street. The item was continued to a later date set by staff.
+  where: 10251 Newark Street
+  refs:
+  - 6
+  topics:
+  - Zoning & development
+- title: Rezoning at East 52nd Avenue and Ivy Street to heavy industrial
+  summary: Council approved on first reading a rezoning of properties at the southwest corner of East 52nd Avenue and Ivy Street from I-2 to I-3 high intensity industrial.
+  where: SW corner of E 52nd Ave and Ivy St
+  refs:
+  - 53
+  topics:
+  - Zoning & development
+- title: Police mobile command unit and public safety items
+  summary: Council took up a budget amendment (Ordinance 2796) to buy a mobile command unit from the SACFD for the police department. It also considered an amendment to the Axon master services agreement and a presentation on municipal noise ordinance options.
+  where: Citywide
+  refs:
+  - 21
+  - 41
+  - 48
+  - 53
+  topics:
+  - Policing & public safety
+  - Budget & taxes
+- title: Oil and gas development north of the city and Suncor
+  summary: A Chevron-hosted meeting reviewed proposed oil and gas development north of the city, mentioned at the parks commission. Council also requested a study session with Suncor.
+  where: North of Commerce City
+  refs:
+  - 7
+  - 53
+  topics:
+  - Oil, gas & mining
+  - Environment & climate
+- title: Parks, trails and recreation projects
+  summary: The parks commission heard about trails and the Prairieways Action Plan, and impact fees and land dedication for new development. Council awarded the Pioneer Park renovation contract and ordered a feasibility study of pump tracks and bike parks.
+  where: Pioneer Park, 5950 Holly St; citywide
+  refs:
+  - 7
+  - 53
+  - 67
+  topics:
+  - Parks & open space
+  - Recreation & trails

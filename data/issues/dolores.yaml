@@ -1,5 +1,5 @@
 - title: Broc's Development PUD and rezoning of 206 and 207 South Third Street
-  summary: Neighbors raised concerns about density, three-story buildings, parking, roads, lighting and infrastructure at the KKV/Broc Smith project on South Third Street. The Board approved the PUD concept plan on May 11, held hearings on Ordinance 592 rezoning the parcels from Downtown Mixed Use in August, and approved it on second reading on Sept. 14. Residents also raised spot-zoning and traffic study concerns.
+  summary: The board reviewed a PUD concept plan from KKV Development/Broc Smith in May, with neighbors raising concerns about parking, three-story buildings, infrastructure and density. Ordinance 592, rezoning 206 and 207 S. Third Street from Downtown Mixed Use, had its first reading in August and was moved for approval on second reading on Sept. 14.
   where: 206 and 207 South Third Street
   refs:
   - 3
@@ -9,10 +9,24 @@
   topics:
   - Zoning & development
   - Housing
-  - Roads & traffic
+  - Land & property
   public_comment: true
-- title: 2026 fee schedule, business license fees and Ordinance 591
-  summary: The Board reworked town fees, including the business license, short-term rental permits, parks and building fees. Ordinance 591 gives authority to set fees by resolution and sets renewal, late fee and enforcement procedures; it passed on second reading Aug. 10. On July 27 the Board set the business license fee at $30 with a $50 late fee, and a business owner later objected to a late fee she was charged.
+- title: Phase 2 water project and water main replacement funding
+  summary: The town is funding Phase 2 of its water infrastructure project, with about $700,000 from DOLA and a DWRF loan agreement (Resolutions 700 and 719). Construction is expected to start in spring 2027, and the water main replacement continues. Staff also got consensus to hire a water law attorney on town water rights and to meter Riverside Park.
+  where: Townwide
+  refs:
+  - 0
+  - 1
+  - 3
+  - 6
+  - 9
+  - 13
+  topics:
+  - Water
+  - Utilities
+  - Budget & taxes
+- title: Fee schedule update and Ordinance 591
+  summary: The town rewrote its fee schedule and adopted Ordinance 591, which lets fees be set by resolution and sets renewal, late-fee and enforcement procedures. The board set the business license fee at $30 with a $50 late fee, and short-term rental permit fees were questioned. A business owner contested her late fee.
   where: Townwide
   refs:
   - 8
@@ -25,23 +39,31 @@
   - Short-term rentals
   - Government operations
   public_comment: true
-- title: Phase 2 water project and main line replacement funding
-  summary: The town is funding water main replacement and the Phase 2 water project through a DOLA award of about $700,000 and Drinking Water Revolving Fund loan agreements (Resolutions 700 and 719). Phase II construction is expected to start in spring 2027.
+- title: 2027 budget
+  summary: Staff presented the preliminary 2027 budget in October. The board held a budget workshop on Oct. 26 and reviewed the whole budget notebook. Residents urged making park improvements a priority, and Community Center funding was to be handled in the budget.
   where: Townwide
   refs:
-  - 0
-  - 1
-  - 2
-  - 3
-  - 6
-  - 9
+  - 10
+  - 12
   - 13
+  - 15
+  - 16
   topics:
-  - Water
-  - Utilities
+  - Budget & taxes
+  - Parks & open space
+  public_comment: true
+- title: Sheriff's Office contract
+  summary: The board scheduled a workshop on the Sheriff's contract. In August it reviewed a draft and discussed metrics for judging the level and value of law enforcement service.
+  where: Townwide
+  refs:
+  - 5
+  - 10
+  - 12
+  topics:
+  - Policing & public safety
   - Budget & taxes
 - title: Comprehensive Plan update
-  summary: The town is updating its comprehensive plan with a consultant, biweekly team meetings and community questionnaires. Public outreach events ended July 10, comments closed July 31, and a draft plan is expected in October.
+  summary: The town is updating its comprehensive plan with a consultant. Public outreach ended July 10 and comments closed July 31, and a draft is expected in October. Residents were urged to complete the questionnaire.
   where: Townwide
   refs:
   - 1
@@ -51,53 +73,51 @@
   - 15
   topics:
   - Zoning & development
-  - Government operations
-- title: Sheriff's Office contract
-  summary: The Board held workshops on the town's law-enforcement contract with the Sheriff's Office, discussing metrics to evaluate the value and level of service. Sheriff Steve Nowlin reported to the Board in May, and a draft contract was reviewed Aug. 24.
-  where: Townwide
-  refs:
-  - 5
-  - 10
-  - 12
-  topics:
-  - Policing & public safety
-  - Budget & taxes
-- title: 2027 budget and Community Center funding
-  summary: Staff began 2027 budget planning in August and presented a preliminary budget Oct. 12, with a public hearing to follow. The Community Center Advisory Board asked for funding direction, and residents urged prioritizing unfinished park projects.
-  where: Townwide
-  refs:
-  - 10
-  - 12
-  - 13
-  - 15
-  topics:
-  - Budget & taxes
-  - Recreation & trails
-  - Parks & open space
+  - Land & property
   public_comment: true
-- title: Public comment rules and public records policy
-  summary: After personal attacks on staff during public comment, the Board discussed limits, signage and adding a comment period before workshops. A resident argued the Board cannot limit comment under the First Amendment. A public records request policy and form were also reviewed.
+- title: Public comment rules and board meeting procedures
+  summary: The board discussed limiting personal attacks on staff during public comment and planned signage on expectations. A speaker argued this raises First Amendment concerns. The board also discussed adding a public comment period before workshops and changing the meeting schedule.
   where: Town Hall
   refs:
   - 10
   - 11
+  - 12
   topics:
-  - Ethics & transparency
   - Government operations
+  - Ethics & transparency
   public_comment: true
-- title: Town Attorney resignation and new legal services
-  summary: Town Attorney Ethan Sumrall announced his resignation, and the Board accepted it by Resolution 723 on Oct. 12. It approved a legal services agreement with Holligan Westendorff, PLLC. In July the Board also agreed to hire a water law attorney for town water rights.
+- title: Town attorney resignation and new legal services
+  summary: Town Attorney Ethan Sumrall announced his resignation, and in October the board accepted it (Resolution 723). It approved a legal services agreement with Holligan Westendorff, PLLC.
   where: Townwide
   refs:
-  - 9
   - 11
   - 15
   topics:
   - Lawsuits & legal
   - Government operations
-  - Water
-- title: Adoption of 2024 International Codes and wildfire code
-  summary: Ordinance 594 adopting the 2024 International Codes passed first reading Oct. 12. A resident thanked the Board for not adopting the Colorado Wildfire Resiliency Code. Fire hazard mitigation, such as tree cutting along the escarpment, continues.
+- title: Dog licensing ordinance changes
+  summary: Ordinance 589 changing dog licensure requirements passed first reading in March and had a second reading hearing in April. Staff also discussed feral cats later.
+  where: Townwide
+  refs:
+  - 1
+  - 2
+  - 3
+  - 13
+  topics:
+  - Government operations
+  - Agriculture & wildlife
+- title: Dolores Community Center funding and direction
+  summary: The Community Center Advisory Board asked for direction on the center, including a boundary issue and parking lot. The board directed staff to move on the boundary issue and to review funding in the budget process.
+  where: Dolores Community Center
+  refs:
+  - 0
+  - 12
+  - 13
+  topics:
+  - Recreation & trails
+  - Budget & taxes
+- title: 2024 International Codes and wildfire resiliency code
+  summary: Ordinance 594 adopting the 2024 International Codes passed first reading in October. A resident thanked the board for not adopting the Colorado Wildfire Resiliency Code. Fire hazard mitigation along the escarpment was also underway.
   where: Townwide
   refs:
   - 9
@@ -106,31 +126,11 @@
   - Zoning & development
   - Fire & emergencies
   public_comment: true
-- title: Dog licensing ordinance 589
-  summary: The Board rewrote dog licensing rules to be more enforceable. Ordinance 589 passed first reading March 9, with a second reading hearing held April 13.
-  where: Townwide
-  refs:
-  - 1
-  - 2
-  - 3
-  topics:
-  - Government operations
-  - Fees & rates
-- title: Hemp and THC beverage policy and marijuana tax changes
-  summary: The Board considered Resolution 698 on a hemp-derived and THC beverage policy in April. In September the attorney discussed HB 26-1409 and its effect on marijuana tax distributions.
+- title: Hemp and THC beverage policy
+  summary: In April the board considered Resolution 698 setting a policy on hemp-derived and THC beverages. HB 26-1409's effect on marijuana tax distributions was also discussed in September.
   where: Townwide
   refs:
   - 3
   - 13
   topics:
   - Cannabis & liquor
-  - Budget & taxes
-- title: Housing grant pass-through and housing needs assessment
-  summary: Resolution 714 makes the town the pass-through agent for a housing project funded by federal and state grants. In October the Board discussed the SB24-174 Housing Needs Assessment from Region 9 EDD.
-  where: Townwide
-  refs:
-  - 9
-  - 15
-  topics:
-  - Housing
-  - Government operations

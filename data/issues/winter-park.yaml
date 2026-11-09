@@ -1,74 +1,85 @@
-- title: Urban Renewal Authority tax increment agreements (East Grand Fire and Cooper Creek Village)
-  summary: The Winter Park Urban Renewal Authority took up Resolution 25, a tax increment revenue agreement with the East Grand County Fire Protection District No. 4, and Resolution 26, a professional services agreement with Northland Securities. It also scheduled a closed session on negotiating a tax increment sharing agreement with the Cooper Creek Village Metro Districts. The agenda does not state outcomes.
-  where: Winter Park
+- title: 2027 Town of Winter Park budget
+  summary: Town Council holds a public hearing on Resolution 2355 to adopt the 2027 budget and make appropriations. It is on the Nov. 3 agenda; the documents do not state the outcome.
+  where: Townwide
   refs:
-  - 2
+  - 14
+  topics:
+  - Budget & taxes
+- title: Urban Renewal Authority tax increment deals with Fire District and Cooper Creek Village
+  summary: The URA board considered a tax increment revenue agreement with the East Grand County Fire Protection District No. 4 (Resolution 25) and a financial services agreement with Northland Securities (Resolution 26). It also planned a closed session on negotiating tax increment sharing with the Cooper Creek Village Metro Districts.
+  where: Winter Park downtown
+  refs:
+  - 1
   topics:
   - Budget & taxes
   - Economic development
   - Fire & emergencies
-- title: Downtown Aerial Transit System (ATS) portal design
-  summary: The Urban Renewal Authority received a presentation on the design of the downtown portal for the Aerial Transit System.
-  where: Downtown Winter Park
+- title: Wheeler Road housing purchases by Housing Authority
+  summary: Council, acting as the Winter Park Housing Authority, considered resolutions authorizing purchase and sale agreements for 34 Wheeler Road and 56 Wheeler Road. A closed session on buying, selling or leasing Town-owned property was also scheduled.
+  where: 34 and 56 Wheeler Road
   refs:
-  - 2
+  - 14
   topics:
-  - Transit
-  - Downtown & business
-- title: Downtown Design Guidelines 75% draft
-  summary: The Planning Commission reviewed the 75% draft of the Winter Park Downtown Design Guidelines on September 22. It also discussed its 2026 priorities list.
-  where: Downtown Winter Park
+  - Housing
+  - Land & property
+- title: Sojourn development agreement amendment and ADU deed restrictions
+  summary: Council considered Resolution 2356, a second amendment to the Development Improvement Agreement for Sojourn that would also release accessory dwelling unit deed restrictions.
+  where: Sojourn development
   refs:
-  - 10
+  - 14
   topics:
+  - Housing
   - Zoning & development
-  - Downtown & business
-- title: 2027 Transit Operating Budget
-  summary: The Transit Advisory Committee reviewed the 2027 transit operating budget at its September 14 meeting and held a further meeting October 5.
+- title: Thermal energy network design contract
+  summary: Council considered Resolution 2354 to award GreyEdge Group a contract for 10 percent design of a Town thermal energy network.
   where: Townwide
   refs:
-  - 8
-  - 11
+  - 14
   topics:
-  - Transit
-  - Budget & taxes
-- title: Rendezvous at Winter Park Filing 2C final plat
-  summary: The Planning Commission held a public hearing on the final plat for Rendezvous at Winter Park Filing No. 2C (PLN26-024).
-  where: Rendezvous at Winter Park
-  refs:
-  - 1
-  topics:
-  - Zoning & development
-  - Housing
-- title: ROAM Neighborhood Park
-  summary: The Planning Commission discussed the ROAM Neighborhood Park on August 25.
-  where: ROAM neighborhood
-  refs:
-  - 4
-  topics:
-  - Parks & open space
-- title: Setback variance at 23 Maple Road
-  summary: The Board of Adjustment will hear a setback variance request for 23 Maple Road (PLN26-076) on September 8, with draft resolutions for both approval and denial prepared.
-  where: 23 Maple Road
-  refs:
-  - 6
-  topics:
-  - Zoning & development
-  - Land & property
-- title: 'Site plan reviews: Bear Trail, Lupine Lane, Ski Idlewild Road, Trademark Drive, Arrow sign program'
-  summary: The Planning Commission reviewed minor site plans for 373 Bear Trail, 405 Lupine Lane, 40 Ski Idlewild Road, and 100 Trademark Drive (which includes a retaining wall plan). It also reviewed a master sign program for Arrow at Winter Park, 78746 US Highway 40.
-  where: 373 Bear Trail; 405 Lupine Lane; 40 Ski Idlewild Road; 100 Trademark Drive; 78746 US Hwy 40
+  - Energy
+  - Utilities
+- title: Downtown ATS aerial transit portal and transit budget
+  summary: The URA saw a design presentation on the downtown portal for the Aerial Transit System (ATS). The Transit Advisory Committee reviewed the 2027 transit operating budget.
+  where: Downtown Winter Park
   refs:
   - 1
   - 7
   - 10
   topics:
-  - Zoning & development
-- title: Turkey Trot special event permit
-  summary: Town Council scheduled a public hearing on a special event permit application for the Turkey Trot on October 20.
-  where: Winter Park
+  - Transit
+  - Budget & taxes
+- title: Downtown Design Guidelines draft
+  summary: The Planning Commission reviewed the 75% draft of the Winter Park Downtown Design Guidelines and its 2026 priorities list. It also discussed the Arrow at Winter Park master sign program.
+  where: Downtown Winter Park; 78746 US Hwy 40
   refs:
+  - 9
+  topics:
+  - Zoning & development
+  - Downtown & business
+- title: 47 Village Drive preliminary plat and Rendezvous Filing 2C final plat
+  summary: The Planning Commission held public hearings on the preliminary plat for 47 Village Drive and the final plat for Rendezvous at Winter Park Filing No. 2C.
+  where: 47 Village Drive; Rendezvous at Winter Park
+  refs:
+  - 0
   - 13
   topics:
-  - Tourism & events
-  - Recreation & trails
+  - Zoning & development
+  - Land & property
+- title: ROAM Neighborhood Park
+  summary: The Planning Commission put the ROAM Neighborhood Park on its Aug. 25 agenda.
+  where: ROAM neighborhood
+  refs:
+  - 3
+  topics:
+  - Parks & open space
+- title: Site plan and variance reviews
+  summary: Planning bodies reviewed minor site plans at 373 Bear Trail, 405 Lupine Lane, 40 Ski Idlewild Road and 100 Trademark Drive, and a setback variance at 23 Maple Road. They also reviewed a subdivision exemption plat at 215 Dreamcatcher South.
+  where: Various Winter Park addresses
+  refs:
+  - 0
+  - 5
+  - 6
+  - 13
+  topics:
+  - Zoning & development
+  - Land & property

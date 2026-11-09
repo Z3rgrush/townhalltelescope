@@ -1,20 +1,6 @@
 # logan-county
 
-## [logan-county#0] 2026-08-04 | Logan County Commissioners | minutes
-- APPROVAL OF MINUTES FROM PREVIOUS SESSION – Commissioner Yahn moved to approve the Work
-- REVIEW OF BUSINESS MEETING AGENDA – There was no discussion
-- Christine Baseggio of Ignite Athletics met with the Board to request a waiver of the Mitchek Event Center fees for
-- Colorado and hopes to attend a competition in Las Vegas if it receives a bid. Last year, one team earned a bid to
-- The Board approved the fee waiver. Commissioner Brownell told the group that , although not yet implemented,
-- the Board may eventually need to charge some nonprofit groups a small fee to help cover wear and tear, utilities,
-- SUMMIT CARBON SOLUTIONS – Matt Bright of Summit Carbon Solutions met with the Board to discuss a
-- The company hopes to establish as much of the route as possible voluntarily by offering landowner incentives. Mr
-- He said the project is in the early stages, with surveys beginning and construction not expected until mid- to late
-- Commissioner Yahn mentioned that the County just adopted new fees for pipelines and new setbacks for
-- prices. He noted that the project is not solely about carbon sequestration or CO2 storage, as captured carbon may
-- Road and Bridge crew, for preparing the Fairgrounds arena for the Logan County Fair. The Board also recognized
-
-## [logan-county#1] 2026-08-11 | Logan County Commissioners | minutes
+## [logan-county#0] 2026-08-11 | Logan County Commissioners | minutes
 - APPROVAL OF MINUTES FROM PREVIOUS SESSION – Commissioner Santomaso moved to approve the
 - CENNTENNIAL SOIL CONSERVATION DISTRICT FIRE PROTECTION GRANT - Amber Beeson of
 - the Board. Ms. Beeson told the Board that Mr. Gillham had the idea to put together this project. She worked with
@@ -42,7 +28,7 @@
 - The Board agreed to maintain the road and help as much as they possibly can
 - engineer for Sage Pointe gave a slide presentation on the creation of the district and some of the issues that the
 
-## [logan-county#2] 2026-08-12 | Human Services Board | minutes
+## [logan-county#1] 2026-08-12 | Human Services Board | minutes
 - Approval of Previous Meeting Minutes
 - Commissioner Yahn moved to approve the minutes as presented. Commissioner Santomaso
 - Director Rice presented an overview of the units’ master report summaries. The Board discussed
@@ -53,7 +39,7 @@
 - An application was also submitted for a scholarship to attend the National Adult Protective
 - Respectfully submitted, Approved by:
 
-## [logan-county#3] 2026-08-18 | Logan County Commissioners | minutes
+## [logan-county#2] 2026-08-18 | Logan County Commissioners | minutes
 - APPROVAL OF MINUTES FROM PREVIOUS SESSION – Commissioner Santomaso moved to approve the
 - REVIEW OF BUSINESS MEETING AGENDA – There was no discussion
 - DEPARTMENT OF LOCAL AFFAIRS GRANT DISCUSSIONS – Greg Etl , Regional Manager for the
@@ -80,7 +66,7 @@
 - Commissioner Brownell stated that for budgeting purposes the Board will discuss if they do receive grant money,
 - they will need to know what the match will need to be. Mr. Etl also mentioned that grants for roads have been
 
-## [logan-county#4] 2026-08-25 | Logan County Commissioners | minutes
+## [logan-county#3] 2026-08-25 | Logan County Commissioners | minutes
 - APPROVAL OF MINUTES FROM PREVIOUS SESSION – Commissioner Santomaso moved to approve the
 - REVISIONS TO THE WORK SESSION AGENDA – Rob Nichols and JD Stone requested to postpone their
 - COMMISSIONER YAHN UPDATES ON COLORADO WATER CONCRESS AND OTHER
@@ -108,7 +94,7 @@
 - Board meeting ran long, so the poultry building was not discussed. The Fair Board will meet again in September
 - redesigns of some tie-outs, which may help to address some of the issues previously discussed
 
-## [logan-county#5] 2026-09-01 | Logan County Commissioners | minutes
+## [logan-county#4] 2026-09-01 | Logan County Commissioners | minutes
 - APPROVAL OF MINUTES FROM PREVIOUS SESSION – Commissioner Santomaso moved to approve the
 - Klein to the agenda to discuss Saturday hours and Mike Burri and Kathy Hradecky to discuss the Permit Gateway
 - permitting system
@@ -135,7 +121,7 @@
 - contact the company to confirm those fees. The Board indicated support for moving forward with the permitting
 - OFF-SYSTEM BRIDGE GRANTS – Commissioner Brownell mentioned to Mike Burri that the Off-System
 
-## [logan-county#6] 2026-09-08 | Logan County Commissioners | minutes
+## [logan-county#5] 2026-09-08 | Logan County Commissioners | minutes
 - APPROVAL OF MINUTES FROM PREVIOUS SESSION – Commissioner Yahn moved to approve the Work
 - EMS BUDGET FOR 2027 – Lonnie Knudsen, EMS Battalion Chief for the Sterling Fire Department met with
 - the board to request guidance on the 2027 budget. He asked about a RETAC grant that was to pay for FTO training
@@ -162,7 +148,7 @@
 - and facility costs in the 2027 budget. Some expenses appear in both the County’s and City’s EMS budgets, while
 - other County-paid items are not paid by the City. He is working to create a budget that reflects those differences
 
-## [logan-county#7] 2026-09-10 | Logan County Fair Board | agenda
+## [logan-county#6] 2026-09-10 | Logan County Fair Board | agenda
 - FAIR BOARD AGENDALogan County Fair BoardLogan County Courthouse, 315 Main Street, Sterling, ColoradoThursday, September 10, 2026 – 7:00 p.m
 - Guest Presentations:
 - Approval of Minutes from August 20, 2026, Secretary Janie Rasmussen
@@ -172,7 +158,7 @@
 - Ticketing Staff Requests: Cameras at gates and Livestock Families be added to gate entrance lists
 - Kay’s Life of the Party Contract Renewal
 
-## [logan-county#8] 2026-09-15 | Logan County Commissioners | minutes
+## [logan-county#7] 2026-09-15 | Logan County Commissioners | minutes
 - APPROVAL OF MINUTES FROM PREVIOUS SESSION – Commissioner Santomaso moved to approve the
 - agreement is an amendment of one that the Board approved on June 30, 2026. Excel had given us the wrong exhibits
 - to attach to the easement agreement. They’ve now supplied the correct exhibits and Excel is asking for approval of
@@ -199,7 +185,7 @@
 - proposed access routes. They requested permission to temporarily remove signs at County Roads 67 and 24. No
 - road improvements are planned, although turn radii will be installed along the roadway on private property. The
 
-## [logan-county#9] 2026-09-22 | Logan County Commissioners | minutes
+## [logan-county#8] 2026-09-22 | Logan County Commissioners | minutes
 - APPROVAL OF MINUTES FROM PREVIOUS SESSION – Commissioner Santomaso moved to approve the
 - VIAERO FIBER OPTIC – Braden and Lance McAlister of Viaero Fiber Optic met with the Board to discuss
 - Viaero is working to install fiber internet along Colorado Highway 14 to their store in Sterling on Main Street
@@ -224,7 +210,7 @@
 - had washed over the road while CR 79 was closed because of downed electrical poles. Burri inspected the road and
 - found it somewhat rough but not severe; however, because the caller travels it daily, he requested that it be bladed
 
-## [logan-county#10] 2026-09-29 | Logan County Commissioners | minutes
+## [logan-county#9] 2026-09-29 | Logan County Commissioners | minutes
 - APPROVAL OF MINUTES FROM PREVIOUS SESSION – Commissioner Yahn moved to approve the Work
 - sales tax increase. The funds will go entirely for road maintenance with in the City of Sterling. She is in charge of
 - paving assessment that was done. A similar ballot initiative failed last year. Ms. Rivers discussed why the City of
@@ -251,7 +237,7 @@
 - RURAL HEALTH TRANSFORMATION PROGRAM (RHTP ) GRANT - Chief Howell reported that Chief
 - advance EMS services. They want the interfacility transports taken care of if possible. They were approved for a
 
-## [logan-county#11] 2026-10-06 | Logan County Commissioners | minutes
+## [logan-county#10] 2026-10-06 | Logan County Commissioners | minutes
 - APPROVAL OF MINUTES FROM PREVIOUS SESSION – Commissioner Santomaso moved to approve the
 - REVISIONS TO THE WORK SESSION AGENDA – Commissioner Yahn will discuss CCI topics and the
 - Sentinel Missile project under new business
@@ -264,7 +250,7 @@
 - Nebraska, will serve as the hub for the project. About one -third of the missiles will be located in Wyoming, one
 - Commissioner Brownell asked if the project is still discussing removing some here missile sites in Colorado due to
 
-## [logan-county#12] 2026-10-08 | Logan County Fair Board | agenda
+## [logan-county#11] 2026-10-08 | Logan County Fair Board | agenda
 - Logan County Courthouse, 315 Main Street, Sterling, Colorado
 - Guest Presentations:
 - Welcoming Station- Media Logic Radio Bidding
@@ -277,7 +263,7 @@
 -  Bull Riding, and Demo Derby Contracts Expire 2026 – out to bid
 -  Application – Sponsorship Coordinator
 
-## [logan-county#13] 2026-10-13 | Logan County Commissioners | minutes
+## [logan-county#12] 2026-10-13 | Logan County Commissioners | minutes
 - APPROVAL OF MINUTES FROM PREVIOUS SESSION – Commissioner Yahn moved to approve the Work
 - Director of Logan County Economic Development, was hosting several visitors from Israel who were interested in
 - agricultural innovation and local water resources. Because the South Platte Basin Roundtable was meeting in
@@ -291,6 +277,26 @@
 - and Bridge Department is expected to receive $233,000 for vehicle hail damage. The Board has discussed upgrading
 - plan. Mr. Burri said the only pickup he would repair hail damage on is Rob Kasper’s because it is just three months
 - COMMISSIONERS PROCEEDINGS FOR SEPTEMBER 2026 – Commissioner Yahn moved to approve the
+
+## [logan-county#13] 2026-10-14 | Human Services Board | minutes
+- Approval of Previous Meeting Minutes
+- presented for review. Commissioner Santomaso moved to approve the minutes as presented
+- Presentation of the Proposed LCDHS Budget
+- 2027 Logan County Department of Human Services (LCDHS) budget
+- County Collaboration Agreements
+- Financing (HCPF) County Collaboration Agreements. The Board agreed that collaboration with
+- agreements. Commissioner Santomaso seconded the motion. The motion carried unanimously
+- CCCAP Intergovernmental Agreements with Baca County and Washington County
+- Director Rice presented the intergovernmental agreement (IGA) between Baca County and Logan
+- County for processing applications and overseeing the cases for the Colorado Child Care Assistance
+- Program (CCCAP). Commissioner Yahn moved to enter into an intergovernmental agreement with
+- Director Rice also provided information regarding the current intergovernmental agreement (IGA)
+- with Washington County for child care services. Commissioner Yahn moved to amend the current
+- Director Rice discussed the 2012 Dodge Grand Caravan, which is experiencing mechanical issues
+- following a hailstorm. The Department may keep the insurance proceeds associated with the total
+- requested that the office close for two hours so all staff can attend the party and lunch. The Board
+- approved closing the office for staff to participate. Clients with urgent matters will be assisted during
+- Respectfully submitted, Approved by:
 
 ## [logan-county#14] 2026-10-20 | Logan County Commissioners | minutes
 - APPROVAL OF MINUTES FROM PREVIOUS SESSION – Commissioner Santomaso moved to approve the
@@ -320,54 +326,42 @@
 - appointed during Governor Polis’s tenure
 - have caused to the land and she’s not concerned. The Governor’s Board appointees have also had an influence
 
-## [logan-county#15] 2026-10-27 | Logan County Commissioners | agenda
-- Logan County Courthouse, 315 Main Street, Sterling, Colorado
-- Approve the minutes from the October 20, 2026, regular meeting
-- Consideration of the approval of an agreement between Logan County and the State of Colorado
-- to receive grant funds from the federal award issued by the Centers for Medicare & Medicaid
-- State of Colorado Grant Agreement
-- Agreement Maximum Amount
-- Budget Period One from Effective Date to
-- Budget Period Two: $0.00
-- Budget Period Three: $0.00
-- Budget Period Four: $0.00
-- Budget Period Five: $0.00
-- Total for All Budget Periods: $2,105,514.00
-- Agreement Number
-- Agreement Performance Beginning Date
-- Initial Agreement Expiration Date
-- Agreement Authority
-- Authority to enter into this Agreement exists
-- Agreement Purpose
-- Department provides federal Rural Health Transformation Program (“RHTP”) Grant Funds to
-- Grantee from the federal award issued by the Centers for Medicare & Medicaid Services (“CMS”)
-- under Federal Award Opportunity Number CMS-RHT-26-001 and authorized by Section 71401 of
-- Public Law 119-21. Grantee shall use the Grant Funds to strengthen Colorado’s rural health care
-- The following Exhibits and attachments are included with this Agreement:
-- 3. Exhibit C, Budget
-- 5. Exhibit E, PII Certification
-- In the event of a conflict of inconsistency between this Agreement and any Exhibit or attachment,
-- 3. Colorado Special Provisions in §17 of the main body of this Agreement
-- 4. The provisions of the other sections of the main body of this Agreement
-- 6. Exhibit E, PII Certification
-- 8. Exhibit C, Budget
-- RHTP Contracts and Grants Manager
-- For Grantee:
-- Commander/Battalion Chief Sterling Fire
-- THE PARTIES HERETO HAVE EXECUTED THIS AGREEMENT
-- Each person signing this Agreement represents and warrants that the signer is duly authorized to
-- execute this Agreement and to bind the Party authorizing such signature
-- 2nd Grantee Signature If Needed
-- In accordance with §24-30-202, C.R.S., this Agreement is not valid until signed and dated below by
-- This Agreement is entered into by and between Grantee named on the Cover Page for
-- this Agreement (the “Grantee”), and the STATE OF COLORADO acting by and through
-- the State agency named on the Cover Page for this Agreement (the “State”). Grantee
-- and the State agree to the terms and conditions in this Agreement
-- This Agreement shall not be valid or enforceable until the Effective Date, and the
-- Grant Funds shall be expended by the Fund Expenditure End Date shown on the
-- Signature and Cover Page for this Agreement. The State shall not be bound by
-- any provision of this Agreement before the Effective Date and shall have no
+## [logan-county#15] 2026-10-27 | Logan County Commissioners | minutes
+- APPROVAL OF MINUTES FROM PREVIOUS SESSION – Commissioner Santomaso moved to approve the
+- REVISIONS TO THE WORK SESSION AGENDA – Commissioner Yahn added discussion of the possibility
+- for waiver of the fees. The Board has approved use of the facility and waived the fees
+- some of the county’s solar regs are limiting. She would like to meet with the Board to discuss things that might
+- Veydovec explained that there has not been a lot of change since they last met. The rental agreement was extended
+- that were being discharged to groundwater. There have been approximately 170 violations. A cease-and-desist
+- Violation Cease and Desist Order (NOVCDO) in raising rates and supporting a rental agreement with a temporary
+- unit that’s on site. The initial rental agreement was around $28,000 per month. With the extended rental agreement,
+- They have been pursuing funds; however, they were not eligible as an HOA for multiple grants and loans from the
+- payment agreements right now with vendors and consultants and have chosen to hold back billing for a time, so
+- $78,000 (per month) with the updated rental agreement. This is contingent upon the property taxes through the
+- community. Even at 90%, which is around $72,000 revenue, it is a little short of what they’re projecting and what
+- structured payment agreement
+- towards owned equipment is the long-term goal. Then w orking with the state to get approved and close out their
+- reserve ratio is common. SPMD has demonstrated that they can pay the debt service that’s currently in place with
+- First Farm Bank through an advance payment agreement with the HOA . SPMD has an agreement in place to pay
+- $27,000 - $28,000 was built into the rate model which would not change the monthly rate for users. The wastewater
+- plant is not the only infrastructure project on the horizon. The challenge has been the lender hurdle. They're new
+- and unfortunately, lenders like to see a demonstrated credit history, two years technically a formal audit after a full
+- It is very expensive to keep paying for the rental unit. They could have just purchased the current rental unit ;
+- necessary steps with SRF to get approved with the private funding to be able to purchase that unit. It is fabricated
+- The district has engaged a construction manager who has been in the wastewater treatment business for 30 years
+- He can deploy a crew to keep down bonds and insurance, contractor markup, overhead and profit and general
+- Commissioner Yahn asked if the costs that have not been paid to some of the contractors and vendors will be
 
-## [logan-county#16] 2026-10-27 | Logan County Commissioners | agenda
-- 9:15 AM Approval of Minutes from Previous Session
-- Lonnie Knudsen re: Use of Mitchek Event Center with Fee Waiver for Field
+## [logan-county#16] 2026-11-03 | Logan County Commissioners | agenda
+- Logan County Courthouse, 315 Main Street, Sterling, Colorado
+- Approval of the Minutes of the October 27, 2026, meeting
+- Consideration of the approval of an agreement between Logan County and Inventiv e
+- Wireless of Nebraska, LLC d/b/a Vistabeam and issuance of Right of Way Permit Number
+- Consideration of the approval of an agreement between Logan County and Genesis Wind,
+- LLC and issuance of Right of Way Permit Number 2026-19 for use of the County Right of
+- The Board will conduct a B udget Hearing to consider the P roposed Logan County Budget
+- The B oard will conduct a Budget Hearing to consider the Proposed Logan County Pes t
+- District Budget for fiscal year 2027 during the regular Bus iness meeting at 9:30 a.m. on
+
+## [logan-county#17] 2026-11-03 | Logan County Commissioners | agenda
+- 9:00 AM Approval of Minutes from Previous Session

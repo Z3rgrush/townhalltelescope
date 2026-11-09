@@ -1,43 +1,11 @@
 # clear-creek-county
 
-## [clear-creek-county#0] 2026-08-04 | BOCC Packets | minutes
-- 405 Argentine Street, Georgetown, CO 80444
-- 2. Public Comment - (Members of the audience have three minutes to present a matter of concern to the
-- On August 26th, there is a Wildfire Preparedness Workshop at Dumont Fire Station
-- A. Consideration of Approval of the Warrant Register
-- B. Consideration of Approval of Written Minutes for the Board of County Commissioners Meetings
-- C. Consideration of Approval of Letter of Commitment to Participate in the Clear Creek Regional
-- Housing Authority’s Housing Action Plan
-- D. Consideration of Approval of the Fourth Amendment to Agreement between the County of Clear
-- E. Consideration of Approval of Memorandum of Understanding to Provide Physical Door Keys to
-- F. Consideration of Approval of a Memorandum of Understanding Between the Clear Creek County
-- G. Consideration of Approval of Ratification of Request for Extension of Time to File Audit
-- H. Consideration of Approval of Resolution R -26-41, A Resolution Regarding the Licensing,
-- I. Consideration of Approval of Certification of Compliance
-- J. Consideration of Approval of the Core Services Plan
-- 8. Consideration of Rescinding Approval of Memorandum of Agreement between Clear Creek County and
-- Jefferson County Public Health for Referral Clinical Services, Previously Approved and Executed by the
-- 9. Consideration of Approval of Memorandum of Agreement between Clear Creek County and Jefferson
-- 10. Consideration of Rescinding Approval of Intergovernmental Agreement for Clinician Preceptor Services
-- between Clear Creek County and Arapahoe County Public Health, Previously Approved and Executed by
-- 11. Consideration of Approval of Intergovernmental Agreement for Clinician Preceptor Services between
-- Finance Director, Nikki Holmlund made a presentation to the Board that included the information
-- 12. Assessment Appeal Hearings:
-- Motion: Moved to approve Assessor’s Recommendation to Deny Petitioner’s Request for Case No
-- Mitch Huston, Executive Director of the Clear Creek Schools Foundation presented a request to adjust
-- the administrative cost rate for the Strong Start Scholarship Program. The board clarified that this was
-- weeks with the full financials to proceed with an amendment to the existing agreement
-- 14. Work Session: FTE Justification for Deputy Clerk Position
-- Clear Creek County Treasurer, Carol Lee and Chief Deputy Treasurer, Keith Ewig presented a request
-- to restore a Deputy Clerk position as a permanent full-time equivalent (FTE). The request is to restore
-- 18. Work Session: Digital Accessibility Transition Plan - Megan Hiler-Wilson
-
-## [clear-creek-county#1] 2026-08-11 | BOCC Packets | agenda
+## [clear-creek-county#0] 2026-08-11 | BOCC Packets | agenda
 - II. Lodging Tax
 - V. General discussion of matters of common interest among the Board of County
 - Commissioners and the Mayors and/or other representatives of the incorporated
 
-## [clear-creek-county#2] 2026-08-11 | BOCC Packets | agenda
+## [clear-creek-county#1] 2026-08-11 | BOCC Packets | agenda
 - 2. Public Comment
 - 3. Consideration Of Approval Of Resolution R-26-54, A Resolution Authorizing The Sale
 - Of Real Property And Granting Signature Authority To Execute Real Estate Documents
@@ -46,7 +14,7 @@
 - Subject To Negotiations; Developing Strategy For Negotiations; And Instructing
 - with your ability to access information, please contact us. Additional ways to provide feedback
 
-## [clear-creek-county#3] 2026-08-12 | Open Space Commission Packets | agenda
+## [clear-creek-county#2] 2026-08-12 | Open Space Commission Packets | agenda
 - 1711 Miner Street, Idaho Springs, CO
 - l Agenda Approval/Changes
 - 1. Approval of July 8, 2026 Meeting Minutes
@@ -62,7 +30,7 @@
 - specific legal questions related to adding a gate to an access road for the Sheep
 - representative will follow up and provide the requested content in an accessible format
 
-## [clear-creek-county#4] 2026-08-18 | BOCC Packets | agenda
+## [clear-creek-county#3] 2026-08-18 | BOCC Packets | agenda
 - 2. Public Comment
 - MOTORCYCLE PICTURES - PUBLIC COMMENT 2026.08.18.PDF
 - Applications to renew a marijuana license shall be approved administratively by
@@ -109,19 +77,19 @@
 - 2. RESOLUTION R-01-83.PDF
 - B. Shared Role Discussion - Veteran’s Services Officer
 
-## [clear-creek-county#6] 2026-08-26 | Board of Adjustment Packets | agenda
+## [clear-creek-county#5] 2026-08-26 | Board of Adjustment Packets | agenda
 - Location : Idaho Springs City Hall, 1711 Miner Street, Idaho
 - Call For Public Comment On Non-Agenda Items
 - questions regarding the application to Clear Creek County’s Boards and Commissions of
 
-## [clear-creek-county#7] 2026-08-26 | Open Space Commission Packets | agenda
+## [clear-creek-county#6] 2026-08-26 | Open Space Commission Packets | agenda
 - 1711 Miner Street, Idaho Springs, CO
 - Springs City Hall, 1711 Miner Street, Idaho Springs, CO 80452 (In Person Only – No Virtual
 - Public Comment - (Members Of The Audience Have Three Minutes To Present A Matter Of
 - Of Receiving Legal Advice On Specific Questions Regarding The Application To Clear Creek
 - representative will follow up and provide the requested content in an accessible format
 
-## [clear-creek-county#8] 2026-09-01 | BOCC Packets | agenda
+## [clear-creek-county#7] 2026-09-01 | BOCC Packets | agenda
 - 2. Public Comment
 - OF RESOLUTION R-26-55 - LODGING TAX INCREASE BALLOT
 - 3. Consideration Of Rescission Of July 21, 2026, Approval Of Change Of Ownership
@@ -163,11 +131,11 @@
 - ATTACHMENT 4 - CDOT I-70 FLOYD HILL BOCC PRESENTATION.PDF
 - 13. Work Session: Presentation And Discussion Of CDOT Requirements For Condition 9
 
-## [clear-creek-county#9] 2026-09-08 | BOCC Packets | agenda
+## [clear-creek-county#8] 2026-09-08 | BOCC Packets | agenda
 - VI. General discussion of matters of common interest among the Board of County
 - Commissioners and the Mayors and/or other representatives of the incorporated
 
-## [clear-creek-county#10] 2026-09-09 | BOCC Packets | agenda
+## [clear-creek-county#9] 2026-09-09 | BOCC Packets | agenda
 - 2. Public Comment
 - A. 2027 Budget Requests And Process
 - E. Alvarado Park Project Update
@@ -175,11 +143,11 @@
 - F. Parking On County Roads To Access Open Space And Other Recreational Lands
 - with your ability to access information, please contact us. Additional ways to provide feedback
 
-## [clear-creek-county#11] 2026-09-09 | Open Space Commission Packets | agenda
+## [clear-creek-county#10] 2026-09-09 | Open Space Commission Packets | agenda
 - 1711 Miner Street, Idaho Springs, CO
 - representative will follow up and provide the requested content in an accessible format
 
-## [clear-creek-county#12] 2026-09-15 | BOCC Packets | agenda
+## [clear-creek-county#11] 2026-09-15 | BOCC Packets | agenda
 - 2. Public Comment
 - A. Consideration Of Approval Of The Warrant Register
 - B. Consideration Of Approval Of Minutes For:
@@ -201,18 +169,18 @@
 - in applying for and participating in a wildfire mitigation grant
 - with your ability to access information, please contact us. Additional ways to provide feedback
 
-## [clear-creek-county#13] 2026-09-19 | Open Space Commission Packets | agenda
+## [clear-creek-county#12] 2026-09-19 | Open Space Commission Packets | agenda
 - 1711 Miner Street, Idaho Springs, CO
 - Fox Lot (the lot at the end of 4th Street behind the Courthouse. Plan to depart at 9:30
 - representative will follow up and provide the requested content in an accessible format
 
-## [clear-creek-county#14] 2026-09-22 | Open Space Commission Packets | agenda
+## [clear-creek-county#13] 2026-09-22 | Open Space Commission Packets | agenda
 - 1711 Miner Street, Idaho Springs, CO
 - Courthouse in the Fox Lot accessed via 4th Street
 - water to the Front Range as well as key wildlife habitat and
 - representative will follow up and provide the requested content in an accessible format
 
-## [clear-creek-county#15] 2026-10-06 | BOCC Packets | agenda
+## [clear-creek-county#14] 2026-10-06 | BOCC Packets | agenda
 - 2. Public Comment
 - The following marijuana applications shall be approved administratively by the
 - Chair of the Local Licensing Authority without public hearing or the need for public
@@ -253,12 +221,12 @@
 - Subject To Negotiations; Developing Strategy For Negotiations; And Instructing
 - with your ability to access information, please contact us. Additional ways to provide feedback
 
-## [clear-creek-county#16] 2026-10-13 | BOCC Packets | agenda
+## [clear-creek-county#15] 2026-10-13 | BOCC Packets | agenda
 - II. Clear Creek Economic Development Corp – Lindsey Valdez
 - V. General discussion of matters of common interest among the Board of County Commissioners
 - and the Mayors and/or other representatives of the incorporated municipalities within Clear
 
-## [clear-creek-county#17] 2026-10-14 | Open Space Commission Packets | agenda
+## [clear-creek-county#16] 2026-10-14 | Open Space Commission Packets | agenda
 - 1711 Miner Street, Idaho Springs, CO
 - Agenda Approval/Changes
 - o Approval of August 12, 2026 Meeting Minutes
@@ -276,7 +244,7 @@
 - Glass Memorial Concept For Alvarado Open Space Park
 - representative will follow up and provide the requested content in an accessible format
 
-## [clear-creek-county#18] 2026-10-20 | BOCC Packets | agenda
+## [clear-creek-county#17] 2026-10-20 | BOCC Packets | agenda
 - 2. Public Comment
 - 6. Work Session: 2025 Annual Financial Audit Presentation
 - A. Consideration Of Approval Of The Warrant Register
@@ -301,3 +269,70 @@
 - Fund Certain Necessary Expenses Of The District Attorney ’s Office Budget Under
 - Subject To Negotiations; Developing Strategy For Negotiations; And Instructing
 - with your ability to access information, please contact us. Additional ways to provide feedback
+
+## [clear-creek-county#18] 2026-11-03 | BOCC Packets | agenda
+- 2. Public Comment
+- Applications to renew a marijuana license shall be approved administratively by
+- the Chair of the Local Licensing Authority without public hearing or the need for
+- public comment unless the Licensee has had complaints filed against it, has a
+- constitute Good Cause, in which case a public hearing on the renewal
+- application may be set at a later date
+- 3. Administrative Approval Of Marijuana Business Licenses
+- Approval of Change of Beneficial Ownership/Transfer of Ownership
+- A. Consideration Of Approval Of The Warrant Register
+- B. Consideration Of Approval Of The Written Minutes For August 18, 2026
+- C. Consideration Of Approval Of Second Amendment To 2023 CDBG Grant And
+- Business Loan Fund Agreement Between Clear Creek County And Clear Creek
+- Economic Development Corporation, Inc
+- 2026-11-03 BOCC AGENDA MEMO CCEDC SECOND AMENDMENT CHIPS
+- 2026-04-07 SECOND AMENDMENT TO 2023 CCEDC BLF AGREEMENT.PDF
+- D. Consideration Of Approval Of Infrastructure Acquisition Agreement Between Central
+- 2026-11-03 CCCSD - INFRASTRUCTURE ACQUISITION AGREEMENT
+- PUBLIC HEARING
+- 8. Public Hearing On The Proposed 2027 Budget For Clear Creek County, The
+- Emergency Services General Improvement District And The Clear Creek County Housing
+- 1. 2027 PROPOSED BUDGET_FINAL.PDF
+- 2. BUDGET HEARING DECK.PDF
+- 9. Consideration Of Approval Of An Intergovernmental Agreement Between Clear Creek
+- 2. INTERGOVERNMENTAL AGREEMENT.PDF
+- 10. Consideration Of Resolution R-26-60, A Resolution Authorizing The Contribution Of
+- Funds From The Open Space Trust Fund To The Town Of Georgetown For The Purchase
+- 11. Consideration Of Resolution R-26-61, A Resolution Adopting A Supplemental Budget
+- Amounts Budgeted For Clear Creek County, Colorado
+- 1. 2026-61 ADOPTING A SUPPLEMENTAL BUDGET AND APPROPRIATING
+- BUDGET APPROPRIATION.PDF
+- 12. Work Session: Information And Discussion Related To County Annex Building
+- 13. Public Hearing: Introduction, First Reading, And Order For Publication Of Ordinance
+- BOARD AGENDA MEMO - ORDINANCE NO 21.PDF
+- 1. ORDINANCE NO. 21.PDF
+- 2. OCTOBER 2026 PUBLIC FEEDBACK SUMMARY.PDF
+- 3. PUBLIC FEEDBACK (ALL COMMUNITY COMMENTS).PDF
+- 4. DRAFT ORDINANCE NO. 21 (REVIEWED BY COMMUNITY).PDF
+- 5. ORDINANCE NO. 19.PDF
+- 6. SUMMARY OF SUBSTANTIVE CHANGES TO ORDINANCE 19.PDF
+- WRITTEN PUBLIC COMMENTS ON STR ORDINANCE 21.PDF
+- Matters That May Be Subject To Negotiations; Developing Strategy For Negotiations;
+- And Instructing Negotiators With Regard To Potential Amendment Of The Clear Creek
+- Fire Authority 2024 Amended And Restated Intergovernmental Agreement
+- Agreement (IGA) Between Gilpin County And Clear Creek County For The Operation Of
+
+## [clear-creek-county#19] 2026-11-05 | Board of Adjustment Packets | agenda
+- Call For Public Comment On Non-Agenda Items
+- VAR-26-005 COLLEEN PATRICK is requesting a variance pursuant
+- to Section 1302.2 – “Request to Encroach into a Setback ” and
+- Encroachment” of the Clear Creek County Zoning Regulations
+- The owner(s)/applicant request the acknowledgement of an encroachment into the 30’
+- The owner(s)/applicant(s) request to encroach into the 30’ setbacks to construct the
+- VAR-26-005 LUKE & ERIKA GLENNON is requesting a variance
+- Setback Encroachment” of the Clear Creek County Zoning
+- The owner(s)/applicant request the acknowledgement of an encroachment into the
+
+## [clear-creek-county#20] 2026-11-05 | Board of Adjustment Packets | agenda
+- Call For Public Comment On Non-Agenda Items
+- VAR-26-005 COLLEEN PATRICK is requesting a variance pursuant
+- to Section 1302.2 – “Request to Encroach into a Setback ” and
+- Encroachment” of the Clear Creek County Zoning Regulations
+- The owner(s)/applicant request the acknowledgement of an encroachment into the 30’
+- The owner(s)/applicant(s) request to encroach into the 30’ setbacks to construct the
+- VAR-26-005 LUKE & ERIKA GLENNON is requesting a variance
+- Setback Encroachment” of the Clear Creek County Zoning

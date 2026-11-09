@@ -1,137 +1,147 @@
 - title: Data center moratorium discussion
-  summary: City Council discussed a possible data center moratorium at the Aug. 25 council update and again at the Sept. 1 planning session, with a data center presentation each time. The documents do not state a decision.
+  summary: City Council took up a possible data center moratorium at its Aug. 25 update session and continued the discussion at the Sept. 1 planning session, with staff presentations on data centers. The documents do not state an outcome.
   where: Citywide
   refs:
-  - 8
-  - 10
+  - 7
+  - 9
   topics:
   - Data centers
   - Zoning & development
   tags:
   - data-center
 - title: Creekside Gardens Annexation and zoning
-  summary: Council held a public hearing on Aug. 25 on annexing about 26 acres at the southwest corner of East 140th Avenue and Washington Street into Ward 4. The second reading of the annexation and of the zoning amendment with a development plan followed on Sept. 8.
+  summary: Council held a public hearing on Aug. 25 on annexing about 26 acres at the southwest corner of East 140th Avenue and Washington Street into Ward 4, with zoning, an overall development plan and a conceptual site plan. Second readings of the annexation and zoning ordinances were on the Sept. 8 agenda.
   where: Southwest corner of East 140th Avenue and Washington Street
   refs:
-  - 9
-  - 13
+  - 8
+  - 12
   topics:
   - Annexation
   - Zoning & development
-- title: Bellflower Annexation, zoning and site plan
-  summary: The Planning Commission was scheduled on Oct. 20 to hear the annexation of about 39 acres near East 120th/140th Avenue and Holly Street. The same hearing covered a zoning amendment and a conceptual site plan for a residential development on about 38 acres. Council also designated an annexation plan for land in Adams and Weld Counties on Oct. 13.
-  where: East of Holly Street, north of East 140th Avenue
-  refs:
-  - 27
-  - 30
-  topics:
-  - Annexation
   - Housing
+- title: Bellflower Annexation, zoning and site plan
+  summary: The Planning Commission was scheduled on Oct. 20 to hold hearings on annexing about 39 acres near East 120th/140th Avenue and Holly Street. The hearings cover annexation, a zoning amendment with a development plan, and a conceptual site plan for a residential development on about 38 acres.
+  where: East of Holly Street, near East 120th and East 140th Avenues
+  refs:
+  - 28
+  topics:
+  - Annexation
   - Zoning & development
+  - Housing
 - title: Welby Station zoning amendment
-  summary: A zoning amendment for about 55 acres at the northeast and northwest corners of East 88th Avenue and Welby Road went to the Planning Commission on Sept. 15. It then went to a Council public hearing on Oct. 13.
+  summary: The Planning Commission considered a zoning amendment for about 55 acres at the northeast and northwest corners of East 88th Avenue and Welby Road (Case PLZ202600342) on Sept. 15. Council held a public hearing on the zoning ordinance on Oct. 13.
   where: East 88th Avenue and Welby Road
   refs:
-  - 16
-  - 27
+  - 15
+  - 26
   topics:
   - Zoning & development
 - title: 2027 city budget, pay plans and tax levy
-  summary: Council reviewed the preliminary 2027 budget in September planning sessions. On Oct. 27 it held public hearings on adopting the 2027 budget, pay plans and appropriations, and a first reading of the property tax levy. Related budgets were also on the agenda for TASHCO, the Thornton Development Authority and the 136th Avenue General Improvement District.
+  summary: Council reviewed the preliminary 2027 budget in September planning sessions. On Oct. 27 it held a public hearing on adopting the 2027 budget, pay plans, appropriations and the property tax levy (first reading). Related boards also took up 2027 budgets, including the 136th Avenue GID, TDA and TASHCO.
   where: Citywide
   refs:
-  - 10
-  - 17
-  - 22
+  - 9
+  - 16
+  - 21
+  - 33
+  - 34
   - 35
   - 36
   - 37
-  - 38
   topics:
   - Budget & taxes
-- title: 2027 water, sewer and stormwater rates and water revenue bonds
-  summary: Council reviewed proposed 2027 utility rate and fee adjustments for water, sewer and stormwater, effective Jan. 1, 2027. It also had a first reading of an ordinance authorizing Series 2026 Water Enterprise Revenue Bonds.
+  - Government operations
+- title: 2027 water, sewer and stormwater rates and Water Enterprise bonds
+  summary: Council reviewed proposed 2027 utility rate and fee adjustments for water, sewer and stormwater, effective Jan. 1, 2027. An ordinance authorizing Series 2026 Water Enterprise Revenue Bonds was also on the Aug. 11 agenda.
   where: Citywide
   refs:
-  - 2
-  - 5
+  - 1
+  - 4
   topics:
   - Fees & rates
   - Water
   - Utilities
-- title: Interim City Attorney and City Attorney recruitment
-  summary: Council held several executive sessions in August on interviewing internal candidates and negotiating a potential employment agreement for the Interim City Attorney position. In October it met on selecting a vendor for the City Attorney recruitment and on performance of the interim attorney, municipal judge and city manager.
+- title: Interim City Attorney hiring and personnel matters
+  summary: Council held several executive sessions on the Interim City Attorney position, including interviewing internal candidates and a potential employment agreement. In October it also discussed a vendor for the City Attorney recruitment and the performance of the Municipal Judge, Interim City Attorney and City Manager.
   refs:
-  - 1
-  - 4
-  - 7
+  - 0
+  - 3
+  - 6
+  - 27
   - 29
-  - 31
   topics:
   - Government operations
-- title: Parks and Recreation Master Plan and Arts and Culture Master Plan
-  summary: The Parks, Recreation and Community Programs Master Plan and the Arts and Culture Master Plan 2026-2030 were presented on Sept. 8. Council considered a resolution adopting the Parks and Recreation Master Plan on Sept. 22.
+- title: City Code changes to align with Colorado Supreme Court ruling
+  summary: Council discussed and took up on first reading an ordinance amending Thornton City Code Sections 1-8, 38-175, 38-176 and 38-177 to align with state law following a Colorado Supreme Court ruling.
   where: Citywide
   refs:
   - 0
-  - 12
-  - 21
-  - 32
+  - 1
+  topics:
+  - Lawsuits & legal
+  - Government operations
+- title: Parks and Recreation Master Plan and Arts and Culture Master Plan
+  summary: Council reviewed the 2026 Parks, Recreation & Community Programs Master Plan and the Arts and Culture Master Plan 2026-2030 on Sept. 8. A resolution adopting the Parks and Recreation Master Plan was on the Sept. 22 agenda.
+  where: Citywide
+  refs:
+  - 11
+  - 20
+  - 30
   topics:
   - Parks & open space
-  - Libraries & culture
   - Recreation & trails
+  - Libraries & culture
 - title: Parterre subdivision legal strategy
-  summary: Council met in executive session on Sept. 8 for legal advice and negotiator instructions about developing the Parterre subdivision.
+  summary: Council met in executive session on Sept. 8 to receive legal advice and give instructions to negotiators about strategies for developing the Parterre subdivision.
   where: Parterre subdivision
   refs:
-  - 12
-  - 14
+  - 11
+  - 13
   topics:
   - Zoning & development
   - Lawsuits & legal
 - title: Small-lot housing and residential design standards
-  summary: Council held a planning session on Oct. 20 on residential housing and design standards, including small-lot housing. The Planning Commission also took up housekeeping amendments to the development code in Chapter 18.
+  summary: Council discussed residential housing and design standards, including small-lot housing, on Oct. 20. The Planning Commission also had Chapter 18 development code housekeeping amendments on Oct. 6.
   where: Citywide
   refs:
-  - 25
-  - 29
+  - 24
+  - 27
   topics:
   - Housing
   - Zoning & development
-- title: Station area plans and Thornton Parkway multimodal path
-  summary: Council discussed visioning for the York at 144th and North Thornton at CO 7 station areas. The Thornton Development Authority took up conveying property to the city for the Thornton Parkway multimodal path from I-25 to Grant Street.
-  where: Thornton Parkway, I-25 to Grant Street; 144th and CO 7 station areas
-  refs:
-  - 3
-  - 24
-  - 32
-  topics:
-  - Transit
-  - Roads & traffic
-  - Recreation & trails
 - title: Marijuana licensing code amendments
-  summary: Council reviewed potential amendments to the city code on marijuana licensing at the Oct. 27 council update.
+  summary: Council reviewed potential amendments to the city's marijuana licensing code on Oct. 27, with draft amendments prepared.
   where: Citywide
   refs:
-  - 34
+  - 32
   topics:
   - Cannabis & liquor
-- title: Redevelopment Request for Qualifications negotiations
-  summary: Council met in executive session on Sept. 22 and 29 to set negotiation strategy on responses to the city's Request for Qualifications for a redevelopment project.
+- title: Station area plans, Thornton Parkway path and transit-area redevelopment
+  summary: Council discussed visioning for the York at 144th and North Thornton at CO 7 station areas. The TDA moved to convey property to the city for the Thornton Parkway Multimodal Path from I-25 to Grant Street. Council also held executive sessions on responses to a Request for Qualifications for a redevelopment project.
+  where: Thornton Parkway, I-25 to Grant Street; York/144th and CO 7 station areas
   refs:
-  - 20
+  - 2
+  - 19
+  - 21
   - 22
   - 23
   topics:
-  - Economic development
-  - Land & property
-- title: Old Hire Fire Pension cost-of-living request
-  summary: The Old Hire Fire Pension Board asked that a cost-of-living adjustment be included in the 2027 budget recommendation. Council reviewed the request at the Aug. 18 planning session.
-  where: Citywide
+  - Transit
+  - Zoning & development
+  - Roads & traffic
+- title: Municipal Annexation Act plan for Adams and Weld County land
+  summary: Council considered a resolution on Oct. 13 designating a plan under the Municipal Annexation Act for land in Adams and Weld Counties.
+  where: Adams and Weld Counties
   refs:
-  - 5
+  - 26
   topics:
-  - Budget & taxes
-  - Fire & emergencies
-  public_comment: true
+  - Annexation
+  - Land & property
+- title: Security and speaker rules at public hearings
+  summary: Council held an executive session on Oct. 13 to receive legal advice on speakers' constitutional rights and maintaining order during public hearings, and to discuss security arrangements.
+  where: Council chambers
+  refs:
+  - 25
+  topics:
+  - Government operations
+  - Policing & public safety

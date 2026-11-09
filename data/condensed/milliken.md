@@ -1,69 +1,11 @@
 # milliken
 
-## [milliken#0] 2026-08-05 | Planning Commission | agenda
-- 1201 Broad Street, Meeting House, Milliken, CO 80543
-- scheduled meeting date in order to allow the Town to better accommodate your request
-
-## [milliken#1] 2026-08-05 | Planning Commission | agenda
-- 1201 Broad Street, Meeting House, Milliken, CO 80543
-
-## [milliken#2] 2026-08-05 | Board of Trustees | agenda
-- 1201 Broad Street, Meeting House, Milliken, CO 80543
-- 4. Agenda Approval
-- a. Approval of Professional Services Agreement with Ayres Associates, Inc
-- for Preparation of the Water Supply Element
-- Kevin Koelbel, Community Development Director
-- b. Discussion of negotiations related to a possible new town administrator
-- contract, including possible executive session
-- From: Kevin Koelbel, Community Development
-- Item Category: Professional Service Agreement
-- Agenda Title: Approval of Professional Services Agreement with Ayres Associates, Inc
-- 1. PSA Ayres Water Supply
-- Approval of a Professional Services Agreement with Ayres Associates, Inc. to prepare
-- the Town of Milliken Water Supply Element and related amendments to the
-- Comprehensive Plan as required by Senate Bill 24-174
-- Senate Bill 24-174 requires municipalities to adopt a Water Supply Element as part of
-- their Comprehensive Plan by the state-established deadline. To meet this requirement,
-- staff recommends contracting with Ayres Associates to prepare the Water Supply
-- growth projections, and long-term planning goals through their completion of the
-- Town's Housing Needs Assessment and their ongoing work preparing the Strategic
-- Growth Element of the Comprehensive Plan. This familiarity provides continuity
-- consultant to efficiently develop a Water Supply Element that is consistent with the
-- analyses, streamline the planning process, and maintain the project schedule
-- BUDGET IMPLICATIONS
-- The proposed agreement is for a lump-sum amount not to exceed $17,500. There will
-- be additional costs associated with this plan that will be incurred by our contracted
-- Water Engineer for assistance with this plan
-- Staff recommends approval of Professional Services Agreement with Ayres Associates,
-- Inc. for Preparation of the Water Supply Element
-- I move to approve the Professional Services Agreement with Ayres Associates, Inc. for
-- Preparation of the Water Supply Element and direct the mayor to
-- sign such agreement
-- Comprehensive Plan Water Supply Element
-- PROFESSIONAL SERVICES AGREEMENT
-- This PROFESSIONAL SERVICES AGREEMENT (“Agreement”) is made and entered into this
-- corporation of the State of Colorado, with offices at 1101 Broad Street, Milliken, Colorado 80543
-- (the “Town”), and Ayres Associates Inc. with offices at 3665 JFK Parkway, Bldg. 2, Suite 100,
-- Fort Collins, CO 80525-3152 (the "Contractor")
-- WHEREAS, the Contractor has represented that it has expertise in regard to municipal
-- WHEREAS, the Town desires to contract with the Contractor subject to the terms of this
-- NOW, THEREFORE, for the consideration herein expressed, it is agreed as follows by and
-
-## [milliken#3] 2026-08-05 | Board of Trustees | agenda
-- 1201 Broad Street, Meeting House, Milliken, CO 80543
-- 4. Agenda Approval
-- a. Approval of Professional Services Agreement with Ayres Associates, Inc
-- for Preparation of the Water Supply Element
-- Kevin Koelbel, Community Development Director
-- b. Discussion of negotiations related to a possible new town administrator
-- contract, including possible executive session
-
-## [milliken#4] 2026-08-12 | Board of Trustees | agenda
+## [milliken#0] 2026-08-12 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Topics
 - a. Future Agenda Setting Discussion
 
-## [milliken#5] 2026-08-12 | Board of Trustees | agenda
+## [milliken#1] 2026-08-12 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Minutes from July 22, 2026
@@ -82,7 +24,7 @@
 - b. Discussion and Direction Regarding the HWY 257 Noise Complaint
 - a. Police Department Report for July 2026
 
-## [milliken#6] 2026-08-12 | Board of Trustees | agenda
+## [milliken#2] 2026-08-12 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Minutes from July 22, 2026
@@ -125,14 +67,14 @@
 - Staff continue to process invoices, vendor applications, parade registrations, licensing items,
 - The training provides valuable professional development and education specific to municipal
 
-## [milliken#7] 2026-08-19 | Planning Commission | agenda
+## [milliken#3] 2026-08-19 | Planning Commission | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Topics
 
-## [milliken#8] 2026-08-19 | Planning Commission | agenda
+## [milliken#4] 2026-08-19 | Planning Commission | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 
-## [milliken#9] 2026-08-20 | Housing Authority | agenda
+## [milliken#5] 2026-08-20 | Housing Authority | agenda
 - HOUSING AUTHORITY AGENDA
 - 1101 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
@@ -147,7 +89,7 @@
 - a. Send 2027 budget to Town of Milliken
 - b. Approve 2027 budget in September or October meeting
 
-## [milliken#10] 2026-08-20 | Housing Authority | agenda
+## [milliken#6] 2026-08-20 | Housing Authority | agenda
 - HOUSING AUTHORITY AGENDA
 - 1101 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
@@ -182,17 +124,17 @@
 - those contained in the buyer's purchase order, and to the extent that this is the case, the seller hereby expressly conditions its acceptance of the buyer's offer on the buyer's
 - terms. The buyer and seller agree that any contract hereby entered into has been made and is to be construed according to our State Law
 
-## [milliken#11] 2026-08-21 | Board of Trustees | agenda
+## [milliken#7] 2026-08-21 | Board of Trustees | agenda
 - TOWN BOARD BUDGET RETREAT WORK
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Agenda
 - a. 2027 Budget Retreat — General Fund Discussion
 
-## [milliken#12] 2026-08-26 | Board of Trustees | agenda
+## [milliken#8] 2026-08-26 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Topics
 
-## [milliken#13] 2026-08-26 | Board of Trustees | agenda
+## [milliken#9] 2026-08-26 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Topics
 - Item Category: Discussion Agenda
@@ -237,7 +179,7 @@
 - Trash removal as required by the Rental Agreement; and
 - Renters are responsible for ensuring that the facility is completely vacated by the end of
 
-## [milliken#14] 2026-08-26 | Board of Trustees | agenda
+## [milliken#10] 2026-08-26 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Minutes from August 5th Special Meeting and August 12th
@@ -246,7 +188,7 @@
 - 12. Discussion Agenda
 - a. Community Development Report
 
-## [milliken#15] 2026-08-26 | Board of Trustees | agenda
+## [milliken#11] 2026-08-26 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Minutes from August 5th Special Meeting and August 12th
@@ -288,20 +230,20 @@
 - Trustee BJ Cummins moved to approve and authorize the mayor to sign the proposed Town
 - Administrator Employment Agreement and to deliver it to Mr. Greg Brinck as an offer of
 
-## [milliken#16] 2026-09-02 | Planning Commission | agenda
+## [milliken#12] 2026-09-02 | Planning Commission | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 
-## [milliken#17] 2026-09-02 | Planning Commission | agenda
+## [milliken#13] 2026-09-02 | Planning Commission | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - scheduled meeting date in order to allow the Town to better accommodate your request
 
-## [milliken#18] 2026-09-09 | Board of Trustees | agenda
+## [milliken#14] 2026-09-09 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Topics
 - b. Town Administrator Goals Discussion
 - c. Strategic Growth Plan - Continued Discussion
 
-## [milliken#19] 2026-09-09 | General | agenda
+## [milliken#15] 2026-09-09 | General | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Minutes from August 29, 2026
@@ -314,7 +256,7 @@
 - a. Social Media Policy Update Discussion
 - a. Milliken Police Department Report for August 2026
 
-## [milliken#20] 2026-09-09 | General | agenda
+## [milliken#16] 2026-09-09 | General | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Minutes from August 29, 2026
@@ -359,29 +301,29 @@
 - a. An Ordinance Amending Section 2-2-90 Of The Milliken Municipal Code
 - Town Attorney Matthew Gould presented for the Board of Trustees’ consideration An
 
-## [milliken#21] 2026-09-11 | Board of Trustees | agenda
+## [milliken#17] 2026-09-11 | Board of Trustees | agenda
 - TOWN BOARD BUDGET RETREAT WORK
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Agenda
 - a. Preliminary Budget Discussions Continued
 
-## [milliken#22] 2026-09-14 | Housing Authority | agenda
+## [milliken#18] 2026-09-14 | Housing Authority | agenda
 - HOUSING AUTHORITY WORK SESSION
 - 1101 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Agenda
 
-## [milliken#23] 2026-09-14 | Housing Authority | agenda
+## [milliken#19] 2026-09-14 | Housing Authority | agenda
 - HOUSING AUTHORITY WORK SESSION
 - 1101 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Agenda
 
-## [milliken#24] 2026-09-16 | Planning Commission | agenda
+## [milliken#20] 2026-09-16 | Planning Commission | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 
-## [milliken#25] 2026-09-16 | Planning Commission | agenda
+## [milliken#21] 2026-09-16 | Planning Commission | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 
-## [milliken#26] 2026-09-17 | Housing Authority | agenda
+## [milliken#22] 2026-09-17 | Housing Authority | agenda
 - HOUSING AUTHORITY AGENDA
 - 1101 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
@@ -401,7 +343,7 @@
 - b. 2027 MHA Budget updates
 - b. Approve 2027 budget in October meeting
 
-## [milliken#27] 2026-09-17 | Housing Authority | agenda
+## [milliken#23] 2026-09-17 | Housing Authority | agenda
 - HOUSING AUTHORITY AGENDA
 - 1101 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
@@ -447,17 +389,17 @@
 - "I move to approve for one commissioner to attend the National Association of Housing
 - Milliken Housing Authority’s
 
-## [milliken#28] 2026-09-23 | Board of Trustees | agenda
+## [milliken#24] 2026-09-23 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Topics
 - c. Northern Colorado Water Conservancy District Joint Meeting
 
-## [milliken#29] 2026-09-23 | Board of Trustees | agenda
+## [milliken#25] 2026-09-23 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Topics
 - c. Northern Colorado Water Conservancy District Joint Meeting
 
-## [milliken#30] 2026-09-23 | Board of Trustees | agenda
+## [milliken#26] 2026-09-23 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Minutes from September 9, 2026
@@ -466,7 +408,7 @@
 - b. Social Media and Communications Discussion
 - a. Community Development Report
 
-## [milliken#31] 2026-09-23 | Board of Trustees | agenda
+## [milliken#27] 2026-09-23 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Minutes from September 9, 2026
@@ -503,7 +445,7 @@
 - transparency regarding water supply sources, and an explanation from the Board regarding why
 - tiered rate structures push residents into higher fee tiers. She emphasized the need for accurate
 
-## [milliken#32] 2026-10-05 | Housing Authority | agenda
+## [milliken#28] 2026-10-05 | Housing Authority | agenda
 - HOUSING AUTHORITY WORK SESSION
 - 1101 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Agenda
@@ -511,7 +453,7 @@
 - Sloane Hawes, Housing Authority Chair
 - b. Prepare for MHA presentation for Town Board of Trustees on November
 
-## [milliken#33] 2026-10-05 | Housing Authority | agenda
+## [milliken#29] 2026-10-05 | Housing Authority | agenda
 - HOUSING AUTHORITY WORK SESSION
 - 1101 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Agenda
@@ -519,21 +461,21 @@
 - Sloane Hawes, Housing Authority Chair
 - b. Prepare for MHA presentation for Town Board of Trustees on November
 
-## [milliken#34] 2026-10-07 | Planning Commission | agenda
+## [milliken#30] 2026-10-07 | Planning Commission | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Topics
 - a. Development Application Review Continued
 
-## [milliken#35] 2026-10-07 | Planning Commission | agenda
+## [milliken#31] 2026-10-07 | Planning Commission | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - scheduled meeting date in order to allow the Town to better accommodate your request
 
-## [milliken#36] 2026-10-14 | Board of Trustees | agenda
+## [milliken#32] 2026-10-14 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Topics
 - a. Proposed 2027 Budget Review and Discussions Continued
 
-## [milliken#37] 2026-10-14 | Board of Trustees | agenda
+## [milliken#33] 2026-10-14 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Minutes from September 23, 2026
@@ -543,7 +485,7 @@
 - a. Food Truck Park Discussion
 - b. 1398 Irene - Student Home Construction Partnership Discussion
 
-## [milliken#38] 2026-10-14 | Board of Trustees | agenda
+## [milliken#34] 2026-10-14 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Minutes from September 23, 2026
@@ -580,7 +522,7 @@
 - Town Administrator Greg Brinck provided an update on current Town activities and discussed
 - provided at the second meeting. Department information, including Police and Community
 
-## [milliken#39] 2026-10-15 | Housing Authority | agenda
+## [milliken#35] 2026-10-15 | Housing Authority | agenda
 - HOUSING AUTHORITY AGENDA
 - 1101 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
@@ -595,7 +537,7 @@
 - a. Strategic plan updates
 - Update presentation for Town of Milliken Board of Trustees,
 
-## [milliken#40] 2026-10-15 | Housing Authority | agenda
+## [milliken#36] 2026-10-15 | Housing Authority | agenda
 - HOUSING AUTHORITY AGENDA
 - 1101 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
@@ -645,30 +587,30 @@
 - Expenses Budget
 - Balance at Jan 1, 2027 (Projected) $ 140,719.88
 
-## [milliken#41] 2026-10-21 | Planning Commission | agenda
+## [milliken#37] 2026-10-21 | Planning Commission | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Topics
 - a. Development Application Review Continued
 
-## [milliken#42] 2026-10-21 | Planning Commission | agenda
+## [milliken#38] 2026-10-21 | Planning Commission | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Topics
 - a. Development Application Review Continued
 
-## [milliken#43] 2026-10-21 | Planning Commission | agenda
+## [milliken#39] 2026-10-21 | Planning Commission | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 
-## [milliken#44] 2026-10-28 | Board of Trustees | agenda
-- 1201 Broad Street, Meeting House, Milliken, CO 80543
-- 1. Discussion Topics
-- a. Budget Discussion Continued
-
-## [milliken#45] 2026-10-28 | Board of Trustees | agenda
+## [milliken#40] 2026-10-28 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Topics
 - a. Budget Discussion Continued
 
-## [milliken#46] 2026-10-28 | Board of Trustees | agenda
+## [milliken#41] 2026-10-28 | Board of Trustees | agenda
+- 1201 Broad Street, Meeting House, Milliken, CO 80543
+- 1. Discussion Topics
+- a. Budget Discussion Continued
+
+## [milliken#42] 2026-10-28 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Minutes from October 14, 2026
@@ -678,7 +620,7 @@
 - 11. Discussion Agenda
 - a. Communication & Social Media Policy Discussion
 
-## [milliken#47] 2026-10-28 | Board of Trustees | agenda
+## [milliken#43] 2026-10-28 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Minutes from October 14, 2026
@@ -718,6 +660,150 @@
 - Kevin Koelbel, Community Development Director, presented an Encroachment Agreement
 - with the Meadow Farms Homeowners Association (HOA) requesting permission to utilize
 
-## [milliken#48] 2026-11-02 | Housing Authority | agenda
+## [milliken#44] 2026-11-02 | Housing Authority | agenda
 - HOUSING AUTHORITY WORK SESSION
 - 1101 Broad Street, Meeting House, Milliken, CO 80543
+
+## [milliken#45] 2026-11-04 | Planning Commission | agenda
+- 1201 Broad Street, Meeting House, Milliken, CO 80543
+
+## [milliken#46] 2026-11-04 | Planning Commission | agenda
+- 1201 Broad Street, Meeting House, Milliken, CO 80543
+- 4. Agenda Approval
+- a. Approval of Minutes from March 4, 2026
+- a. Public Hearing to Consider and Make Recommendation on Sunfield
+- Filing 3 Preliminary Plat
+- Kevin Koelbel, Community Development Director
+- 9. Discussion Agenda
+- scheduled meeting date in order to allow the Town to better accommodate your request
+
+## [milliken#47] 2026-11-04 | Planning Commission | agenda
+- 1201 Broad Street, Meeting House, Milliken, CO 80543
+- 4. Agenda Approval
+- a. Approval of Minutes from March 4, 2026
+- a. Public Hearing to Consider and Make Recommendation on Sunfield
+- Filing 3 Preliminary Plat
+- Kevin Koelbel, Community Development Director
+- 9. Discussion Agenda
+- scheduled meeting date in order to allow the Town to better accommodate your request
+- Agenda Title: Approval of Minutes from March 4, 2026
+- For consideration in approval of the Planning Commission minutes from March 4, 2026
+- "I move to approve the Planning Commission Meeting Minutes from March 4, 2026 as
+- 1201 Broad Street
+- Also Present: Community Development Director Kevin Koelbel, Planner 1 Jordan Cashman, and
+- Commissioner Kassidee Fior moved to approve the agenda as presented. Trustee Jimmy Baugh
+- a. Approval of Minutes from February 4, 2026
+- Commissioner Kassidee Fior moved to approve the meeting minutes from February 4, 2026, as
+- a. Milliken Store-N-Go Conditional Use Permit
+- Chair Randy Helzer announced the procedures governing the Public Hearing and inquired if any
+- disclosure or if any members needed to recuse themselves from the hearing, along with an
+- explanation for doing so. Hearing no response, Chair Helzer formally opened the Public Hearing
+- Kevin Koelbel, Community Development Director, presented the item, requesting the Planning
+- Commission consider the Milliken Store-N-Go Conditional Use Permit (CUP) application and
+- Permit to establish a fully enclosed, self-service storage facility within the C-4 Service Business
+- Zoning District, pursuant to Section 16-2-170 of the Milliken Land Use Code (LUC). The
+- project consists of seven (7) buildings totaling over 52,000 square feet of indoor commercial
+- access gates, and 24/7 surveillance with controlled access, and no outdoor storage is permitted
+- recommended no additional conditions be placed on the use. Furthermore, the application was
+- During Commission discussion, Chair Helzer inquired about the historical intent for the property
+- and whether the proposed storage facility deviates from its original C-4 platting. Director
+- Koelbel reviewed the extensive list of uses permitted by right within the C-4 district—such as
+- well as conditional uses like animal boarding and gun ranges. Discussion followed regarding the
+- improvements would require CDOT approval and that the existing landscape easement would
+- Hearing no further testimony, Chair Helzer closed the Public Hearing at 6:11 P.M
+- Commissioner Kassidee Fior motioned to recommend approval of the Milliken Store-N-Go
+- Conditional Use Permit to the Town Board of Trustees. Commissioner Jimmy Baugh seconded
+
+## [milliken#48] 2026-11-09 | Board of Trustees | agenda
+- 1201 Broad Street, Meeting House, Milliken, CO 80543
+- 1. Discussion Topics
+- a. Draft Milliken Strategic Growth Plan
+- b. Milliken Housing Authority Update
+
+## [milliken#49] 2026-11-09 | Board of Trustees | agenda
+- 1201 Broad Street, Meeting House, Milliken, CO 80543
+- 1. Discussion Topics
+- a. Draft Milliken Strategic Growth Plan
+- b. Milliken Housing Authority Update
+- 1 Milliken Strategic Growth Element 2026
+- STRATEGIC GROWTH ELEMENT
+- RESOLUTION NO. 2026-XX-XX
+- APPROVED BY CITY COUNCIL MONTH DAY, 2026
+- 2 Milliken Strategic Growth Element 2026
+- CHAPTER 2: LOCAL CONDITIONS AND STRATEGIC GROWTH FRAMEWORK .............................. 5
+- CHAPTER 3: STRATEGIC GROWTH POLICIES AND TOOLS ....................................................... 15
+- CHAPTER 4: INFILL AND REDEVELOPMENT ANALYSIS ............................................................ 18
+- CHAPTER 5: GREENFIELD DEVELOPMENT ANALYSIS .............................................................. 32
+- CHAPTER 6: STRATEGIC GROWTH RECOMMENDATIONS AND IMPLEMENTATION ................... 51
+- 3 Milliken Strategic Growth Element 2026
+- The Strategic Growth Element (SGE) is a required component of municipal comprehensive planning under Colorado
+- existing infrastructure and services while supporting housing, economic development, and long-term community
+- By promoting strategic growth patterns, the SGE helps identify opportunities for housing, business investment, and
+- public improvements while considering infrastructure capacity, fiscal impacts, environmental resources, and
+- The Strategic Growth Element addresses three required components:
+- 1. Strategic Growth Policies and Tools
+- 2. Infill and Redevelopment
+- 3. Greenfield Development
+- 1.2 Strategic Growth in Milliken
+- near Highway 60, Highway 257, Greeley, and Johnstown creates opportunities for housing, employment, business
+- agricultural heritage, established neighborhoods, local businesses, parks, and community facilities
+- Strategic growth in Milliken balances reinvestment within established areas with carefully planned expansion at the
+- community’s edges. Infill and redevelopment opportunities may include rehabilitation, adaptive reuse, compatible
+- housing, neighborhood-serving businesses, and commercial reinvestment. Longer-term greenfield opportunities
+- may support residential, commercial, industrial, mixed-use, recreational, and infrastructure development where
+- Future growth decisions should consider:
+- Water availability
+- Housing and employment needs
+- The Strategic Growth Element provides a framework for evaluating these considerations together. It does not
+- establish development rights, annexation priorities, or a required sequence of development. Rather, it supports
+- The Strategic Growth Element should be used alongside Milliken’s Comprehensive Plan, Land Use and Growth Map,
+
+## [milliken#50] 2026-11-09 | Board of Trustees | agenda
+- 1201 Broad Street, Meeting House, Milliken, CO 80543
+- 4. Agenda Approval
+- a. Approval of Minutes from October 28, 2026
+- 10. Public Hearing Action Agenda
+- a. Public Hearing to Consider the Sunfield Filing 3 Preliminary Plat
+- Kevin Koelbel, Community Development Director
+- a. Approval of Professional Services Agreement with Willdan Financial
+- Services for Preparation of the Town-Wide Rate and Fee Study
+- b. Adoption of Resolution 2026-39; a Resolution Approving Policies for
+- 12. Discussion Agenda
+
+## [milliken#51] 2026-11-09 | Board of Trustees | agenda
+- 1201 Broad Street, Meeting House, Milliken, CO 80543
+- 4. Agenda Approval
+- a. Approval of Minutes from October 28, 2026
+- 10. Public Hearing Action Agenda
+- a. Public Hearing to Consider the Sunfield Filing 3 Preliminary Plat
+- Kevin Koelbel, Community Development Director
+- a. Approval of Professional Services Agreement with Willdan Financial
+- Services for Preparation of the Town-Wide Rate and Fee Study
+- b. Adoption of Resolution 2026-39; a Resolution Approving Policies for
+- 12. Discussion Agenda
+- 1201 Broad Street
+- Director Steven Krolczyk, Streets and Facilities Director Jon Rabas, Parks and Open Space
+- Director Keith Staggs, Water Wastewater Director Don Stonebrink, and Town Attorney Matt
+- Those Absent: Chief of Police Benito Garcia and Community Development Director Kevin
+- Trustee Amanda Nix moved to amend the agenda by adding the Budget Work Session
+- continuation under the Discussion Agenda. Mayor Pro Tem Michael Orcutt seconded
+- Weld County Road (WCR) 44 east of WCR 19 in relation to the upcoming 2027 Budget. Mr
+- described severe surface deterioration, washboarding, deep ruts, standing water, and excessive
+- Intergovernmental Agreement (IGA) and Service Plan for Meadow Farms Filing 1 that allocated
+- oversight and fund the necessary paving improvements
+- water meters, referencing statements from the prior Board meeting indicating the selected
+- system was less expensive than Badger meters. Ms. Hopkins noted that she had requested a copy
+- of the bid submitted by Badger and received four (4) emails from Town staff confirming that all
+- records responsive to her request had been provided, before later being informed that the Town
+- a. Approval of Minutes from October 14, 2026
+- Trustee Mindy Wakeman moved to approve the meeting minutes from October 14, 2026, as
+- a. Milliken Sidewalk and ADA Project, Federal Aid Project N0. Tap M887-007
+- CDOT Construction Project Code NO. 25922
+- Jon Rabas , Streets and Facilities Directors
+- Streets and Facilities Director Jon Rabas presented a request to authorize the Mayor to execute a
+- construction agreement with Gold Star Concrete Inc. for the Milliken Sidewalk and ADA
+- Project in the amount of $1,018,200.30, with a total project cost not to exceed $1,170,930.30
+- Director Rabas reviewed the project scope, grant funding, bid results, and funding shortfall. The
+- Board discussed potential scope reductions, project delays, and cost-sharing opportunities with
+- the School District. Staff recommended awarding the contract to Gold Star Concrete Inc. as the
+- lowest responsive bidder, noting that re-bidding could result in additional costs and delays. Staff

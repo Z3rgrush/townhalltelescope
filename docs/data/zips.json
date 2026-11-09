@@ -26,11 +26,11 @@
    "arvada/1",
    "arvada/3",
    "arvada/5",
-   "arvada/10",
-   "jefferson-county/2",
-   "jefferson-county/3",
-   "jefferson-county/8",
-   "adams-county/0"
+   "adams-county/0",
+   "jefferson-county/1",
+   "arvada/9",
+   "jefferson-county/0",
+   "jefferson-county/7"
   ],
   "tagged": {
    "data-center": {
@@ -41,7 +41,7 @@
    },
    "guns": {
     "ids": [
-     "jefferson-county/13"
+     "adams-county/9"
     ],
     "site": false
    }
@@ -74,11 +74,11 @@
    "arvada/1",
    "arvada/3",
    "arvada/5",
-   "arvada/10",
+   "adams-county/0",
    "westminster/2",
-   "westminster/4",
-   "westminster/12",
-   "adams-county/0"
+   "arvada/9",
+   "westminster/3",
+   "westminster/5"
   ],
   "tagged": {
    "data-center": {
@@ -90,7 +90,7 @@
    },
    "guns": {
     "ids": [
-     "jefferson-county/13"
+     "adams-county/9"
     ],
     "site": false
    }
@@ -113,22 +113,16 @@
    "arvada/1",
    "arvada/3",
    "arvada/5",
-   "arvada/10",
+   "arvada/9",
    "arvada/2",
-   "arvada/11",
-   "arvada/13",
-   "arvada/4"
+   "arvada/8",
+   "jefferson-county/1",
+   "arvada/0"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "arvada/0"
-    ],
-    "site": false
-   },
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
     ],
     "site": false
    }
@@ -156,23 +150,17 @@
    "arvada/1",
    "arvada/3",
    "arvada/5",
-   "arvada/10",
+   "arvada/9",
+   "westminster/2",
    "arvada/2",
-   "arvada/11",
-   "arvada/13",
-   "westminster/2"
+   "arvada/8",
+   "jefferson-county/1"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "arvada/0",
      "westminster/0"
-    ],
-    "site": false
-   },
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
     ],
     "site": false
    }
@@ -195,22 +183,16 @@
    "arvada/1",
    "arvada/3",
    "arvada/5",
-   "arvada/10",
+   "arvada/9",
+   "jefferson-county/1",
    "arvada/2",
-   "arvada/11",
-   "arvada/13",
-   "jefferson-county/2"
+   "arvada/8",
+   "jefferson-county/0"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "arvada/0"
-    ],
-    "site": false
-   },
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
     ],
     "site": false
    }
@@ -248,7 +230,14 @@
    "data-center": {
     "ids": [
      "aurora/0",
-     "arapahoe-county/0"
+     "arapahoe-county/0",
+     "arapahoe-county/9"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -286,7 +275,14 @@
    "data-center": {
     "ids": [
      "aurora/0",
-     "arapahoe-county/0"
+     "arapahoe-county/0",
+     "arapahoe-county/9"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -311,20 +307,21 @@
    }
   ],
   "issues": [
-   "denver/3",
+   "denver/2",
    "aurora/0",
    "aurora/8",
-   "denver/4",
-   "denver/5",
    "denver/0",
+   "denver/4",
    "aurora/3",
-   "arapahoe-county/1"
+   "arapahoe-county/1",
+   "denver/6"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "aurora/0",
      "arapahoe-county/0",
+     "arapahoe-county/9",
      "denver/1"
     ],
     "site": false
@@ -349,16 +346,17 @@
    "aurora/8",
    "arapahoe-county/1",
    "aurora/3",
+   "arapahoe-county/0",
    "arapahoe-county/9",
    "aurora/1",
-   "aurora/2",
-   "aurora/4"
+   "aurora/2"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "aurora/0",
-     "arapahoe-county/0"
+     "arapahoe-county/0",
+     "arapahoe-county/9"
     ],
     "site": false
    }
@@ -383,20 +381,21 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
+   "denver/2",
+   "denver/0",
    "aurora/0",
    "aurora/8",
-   "denver/0",
-   "denver/2",
-   "denver/11"
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "aurora/0",
      "arapahoe-county/0",
+     "arapahoe-county/9",
      "denver/1"
     ],
     "site": false
@@ -423,19 +422,20 @@
   ],
   "issues": [
    "arapahoe-county/1",
-   "centennial/1",
-   "centennial/2",
    "centennial/0",
+   "centennial/2",
+   "centennial/3",
    "aurora/0",
    "aurora/8",
-   "arapahoe-county/9",
-   "arapahoe-county/5"
+   "arapahoe-county/0",
+   "arapahoe-county/9"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "aurora/0",
-     "arapahoe-county/0"
+     "arapahoe-county/0",
+     "arapahoe-county/9"
     ],
     "site": false
    }
@@ -470,20 +470,22 @@
    }
   ],
   "issues": [
-   "foxfield/0",
-   "foxfield/1",
+   "foxfield/2",
    "arapahoe-county/1",
    "aurora/0",
    "aurora/8",
-   "centennial/1",
-   "centennial/2",
-   "arapahoe-county/9"
+   "foxfield/0",
+   "arapahoe-county/0",
+   "arapahoe-county/9",
+   "foxfield/3"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "aurora/0",
-     "arapahoe-county/0"
+     "arapahoe-county/0",
+     "arapahoe-county/9",
+     "douglas-county/1"
     ],
     "site": false
    }
@@ -516,7 +518,8 @@
    "data-center": {
     "ids": [
      "aurora/0",
-     "arapahoe-county/0"
+     "arapahoe-county/0",
+     "arapahoe-county/9"
     ],
     "site": false
    }
@@ -540,8 +543,8 @@
    "aurora/8",
    "arapahoe-county/1",
    "aurora/3",
+   "arapahoe-county/0",
    "arapahoe-county/9",
-   "arapahoe-county/5",
    "aurora/1",
    "aurora/2"
   ],
@@ -549,7 +552,8 @@
    "data-center": {
     "ids": [
      "aurora/0",
-     "arapahoe-county/0"
+     "arapahoe-county/0",
+     "arapahoe-county/9"
     ],
     "site": false
    }
@@ -574,14 +578,20 @@
    "adams-county/0",
    "aurora/3",
    "adams-county/3",
-   "adams-county/9",
    "aurora/1",
-   "aurora/2"
+   "aurora/2",
+   "aurora/4"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "aurora/0"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -592,7 +602,7 @@
    {
     "name": "Broomfield",
     "share": 0.806,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Westminster",
@@ -606,25 +616,19 @@
    }
   ],
   "issues": [
-   "broomfield/1",
-   "broomfield/5",
-   "broomfield/9",
-   "broomfield/3",
-   "broomfield/4",
    "westminster/2",
-   "westminster/4",
-   "westminster/12"
+   "westminster/3",
+   "westminster/5",
+   "westminster/6",
+   "westminster/7",
+   "westminster/8",
+   "jefferson-county/1",
+   "westminster/1"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "westminster/0"
-    ],
-    "site": false
-   },
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
     ],
     "site": false
    }
@@ -640,7 +644,7 @@
    {
     "name": "Broomfield",
     "share": 0.241,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Jefferson County",
@@ -649,25 +653,19 @@
    }
   ],
   "issues": [
-   "broomfield/1",
    "westminster/2",
-   "westminster/4",
-   "westminster/12",
    "westminster/3",
-   "broomfield/5",
-   "broomfield/9",
-   "westminster/6"
+   "westminster/5",
+   "westminster/6",
+   "westminster/7",
+   "westminster/8",
+   "westminster/1",
+   "westminster/11"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "westminster/0"
-    ],
-    "site": false
-   },
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
     ],
     "site": false
    }
@@ -687,19 +685,25 @@
    }
   ],
   "issues": [
-   "commerce-city/4",
-   "commerce-city/2",
    "commerce-city/0",
+   "commerce-city/3",
+   "commerce-city/2",
    "adams-county/0",
-   "commerce-city/5",
-   "adams-county/3",
-   "adams-county/9",
-   "commerce-city/6"
+   "commerce-city/4",
+   "commerce-city/9",
+   "commerce-city/1",
+   "adams-county/3"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "commerce-city/0"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -710,7 +714,7 @@
    {
     "name": "Broomfield",
     "share": 0.82,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Westminster",
@@ -729,20 +733,26 @@
    }
   ],
   "issues": [
-   "broomfield/1",
-   "broomfield/5",
-   "broomfield/9",
-   "broomfield/3",
-   "broomfield/4",
    "adams-county/0",
    "westminster/2",
-   "westminster/4"
+   "westminster/3",
+   "westminster/5",
+   "adams-county/3",
+   "westminster/6",
+   "adams-county/4",
+   "thornton/4"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "thornton/0",
      "westminster/0"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -759,14 +769,21 @@
   "issues": [
    "adams-county/0",
    "adams-county/3",
-   "adams-county/9",
-   "adams-county/2",
+   "adams-county/4",
    "adams-county/1",
-   "adams-county/8",
-   "adams-county/10",
-   "adams-county/11"
+   "adams-county/2",
+   "adams-county/5",
+   "adams-county/6",
+   "adams-county/7"
   ],
-  "tagged": {}
+  "tagged": {
+   "guns": {
+    "ids": [
+     "adams-county/9"
+    ],
+    "site": false
+   }
+  }
  },
  "80025": {
   "governments": [
@@ -777,25 +794,25 @@
    }
   ],
   "issues": [
-   "boulder-county/1",
-   "boulder-county/5",
-   "boulder-county/10",
+   "boulder-county/0",
+   "boulder-county/6",
    "boulder-county/11",
-   "boulder-county/12",
    "boulder-county/2",
-   "boulder-county/3",
-   "boulder-county/6"
+   "boulder-county/4",
+   "boulder-county/5",
+   "boulder-county/7",
+   "boulder-county/12"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "boulder-county/0"
+     "boulder-county/1"
     ],
     "site": false
    },
    "guns": {
     "ids": [
-     "boulder-county/4"
+     "boulder-county/3"
     ],
     "site": false
    }
@@ -806,7 +823,7 @@
    {
     "name": "Lafayette",
     "share": 0.941,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Boulder County",
@@ -815,26 +832,25 @@
    }
   ],
   "issues": [
-   "lafayette/0",
-   "lafayette/1",
-   "lafayette/6",
-   "lafayette/2",
-   "lafayette/7",
-   "lafayette/4",
-   "lafayette/5",
-   "boulder-county/1"
+   "boulder-county/0",
+   "boulder-county/6",
+   "boulder-county/11",
+   "boulder-county/2",
+   "boulder-county/4",
+   "boulder-county/5",
+   "boulder-county/7",
+   "boulder-county/12"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "lafayette/3",
-     "boulder-county/0"
+     "boulder-county/1"
     ],
     "site": false
    },
    "guns": {
     "ids": [
-     "boulder-county/4"
+     "boulder-county/3"
     ],
     "site": false
    }
@@ -859,25 +875,25 @@
    }
   ],
   "issues": [
-   "louisville/2",
+   "louisville/1",
    "superior/0",
-   "louisville/5",
-   "louisville/0",
-   "louisville/3",
    "louisville/9",
-   "louisville/14",
-   "superior/1"
+   "louisville/2",
+   "louisville/3",
+   "louisville/4",
+   "louisville/6",
+   "louisville/10"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "boulder-county/0"
+     "boulder-county/1"
     ],
     "site": false
    },
    "guns": {
     "ids": [
-     "boulder-county/4"
+     "boulder-county/3"
     ],
     "site": false
    }
@@ -903,19 +919,25 @@
   ],
   "issues": [
    "westminster/2",
-   "westminster/4",
-   "westminster/12",
    "westminster/3",
+   "westminster/5",
    "westminster/6",
+   "adams-county/0",
+   "westminster/7",
    "westminster/8",
-   "westminster/9",
-   "arvada/1"
+   "westminster/1"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "westminster/0",
      "arvada/0"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -941,13 +963,13 @@
   ],
   "issues": [
    "westminster/2",
-   "westminster/4",
-   "westminster/12",
    "adams-county/0",
    "westminster/3",
+   "westminster/5",
    "westminster/6",
    "adams-county/3",
-   "adams-county/9"
+   "westminster/7",
+   "westminster/8"
   ],
   "tagged": {
    "data-center": {
@@ -958,7 +980,7 @@
    },
    "guns": {
     "ids": [
-     "jefferson-county/13"
+     "adams-county/9"
     ],
     "site": false
    }
@@ -984,24 +1006,18 @@
   ],
   "issues": [
    "arvada/1",
+   "jefferson-county/1",
    "arvada/3",
    "arvada/5",
-   "jefferson-county/2",
-   "jefferson-county/3",
-   "jefferson-county/8",
-   "arvada/10",
-   "jefferson-county/5"
+   "jefferson-county/0",
+   "jefferson-county/7",
+   "jefferson-county/9",
+   "jefferson-county/10"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "arvada/0"
-    ],
-    "site": false
-   },
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
     ],
     "site": false
    }
@@ -1034,6 +1050,12 @@
    "data-center": {
     "ids": [
      "aurora/0"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -1077,16 +1099,23 @@
    "adams-county/0",
    "arapahoe-county/1",
    "adams-county/3",
-   "adams-county/9",
+   "arapahoe-county/0",
    "arapahoe-county/9",
-   "arapahoe-county/5",
-   "adams-county/2",
-   "arapahoe-county/0"
+   "adams-county/4",
+   "arapahoe-county/2",
+   "adams-county/1"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "arapahoe-county/0"
+     "arapahoe-county/0",
+     "arapahoe-county/9"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -1108,17 +1137,24 @@
   "issues": [
    "arapahoe-county/1",
    "adams-county/0",
-   "arapahoe-county/9",
-   "arapahoe-county/5",
-   "adams-county/3",
-   "adams-county/9",
    "arapahoe-county/0",
-   "arapahoe-county/2"
+   "arapahoe-county/9",
+   "adams-county/3",
+   "arapahoe-county/2",
+   "adams-county/4",
+   "adams-county/1"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "arapahoe-county/0"
+     "arapahoe-county/0",
+     "arapahoe-county/9"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -1138,16 +1174,23 @@
    }
   ],
   "issues": [
+   "douglas-county/10",
    "douglas-county/0",
-   "douglas-county/7",
+   "douglas-county/11",
    "douglas-county/3",
    "douglas-county/4",
    "douglas-county/5",
    "douglas-county/9",
-   "douglas-county/10",
-   "douglas-county/2"
+   "douglas-county/6"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80105": {
   "governments": [
@@ -1169,18 +1212,19 @@
   ],
   "issues": [
    "arapahoe-county/1",
-   "arapahoe-county/9",
-   "arapahoe-county/5",
    "arapahoe-county/0",
+   "arapahoe-county/9",
    "arapahoe-county/2",
    "arapahoe-county/3",
+   "arapahoe-county/5",
    "arapahoe-county/7",
-   "arapahoe-county/11"
+   "arapahoe-county/8"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "arapahoe-county/0"
+     "arapahoe-county/0",
+     "arapahoe-county/9"
     ],
     "site": false
    }
@@ -1205,16 +1249,23 @@
    }
   ],
   "issues": [
-   "el-paso-county/0",
-   "el-paso-county/6",
-   "douglas-county/0",
-   "douglas-county/7",
-   "el-paso-county/1",
    "el-paso-county/2",
+   "douglas-county/10",
+   "douglas-county/0",
+   "douglas-county/11",
+   "el-paso-county/4",
    "douglas-county/3",
-   "douglas-county/4"
+   "douglas-county/4",
+   "douglas-county/5"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80107": {
   "governments": [
@@ -1260,16 +1311,23 @@
    }
   ],
   "issues": [
-   "castle-pines/2",
-   "castle-pines/7",
+   "douglas-county/10",
    "douglas-county/0",
-   "douglas-county/7",
-   "castle-pines/1",
-   "castle-pines/0",
+   "douglas-county/11",
+   "castle-pines/2",
    "douglas-county/3",
-   "douglas-county/4"
+   "douglas-county/4",
+   "douglas-county/5",
+   "douglas-county/9"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80109": {
   "governments": [
@@ -1285,16 +1343,23 @@
    }
   ],
   "issues": [
+   "douglas-county/10",
    "douglas-county/0",
-   "douglas-county/7",
+   "douglas-county/11",
    "douglas-county/3",
    "douglas-county/4",
    "douglas-county/5",
    "douglas-county/9",
-   "douglas-county/10",
-   "douglas-county/2"
+   "douglas-county/6"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80110": {
   "governments": [
@@ -1306,7 +1371,7 @@
    {
     "name": "Sheridan",
     "share": 0.208,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Denver",
@@ -1325,21 +1390,22 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "sheridan/0",
-   "sheridan/4",
+   "denver/2",
    "denver/0",
+   "denver/4",
+   "denver/6",
    "arapahoe-county/1",
-   "denver/2"
+   "denver/3",
+   "denver/5",
+   "denver/12"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "arapahoe-county/0",
-     "denver/1",
-     "littleton/0"
+     "arapahoe-county/9",
+     "littleton/0",
+     "denver/1"
     ],
     "site": false
    }
@@ -1365,23 +1431,24 @@
    {
     "name": "Cherry Hills Village",
     "share": 0.033,
-    "has_records": true
+    "has_records": false
    }
   ],
   "issues": [
    "arapahoe-county/1",
-   "centennial/1",
-   "centennial/2",
+   "arapahoe-county/0",
    "arapahoe-county/9",
-   "greenwood-village/0",
    "greenwood-village/7",
-   "arapahoe-county/5",
-   "centennial/0"
+   "centennial/0",
+   "centennial/2",
+   "centennial/3",
+   "greenwood-village/1"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "arapahoe-county/0"
+     "arapahoe-county/0",
+     "arapahoe-county/9"
     ],
     "site": false
    }
@@ -1406,19 +1473,21 @@
    }
   ],
   "issues": [
-   "centennial/1",
-   "centennial/2",
    "arapahoe-county/1",
    "centennial/0",
-   "arapahoe-county/9",
-   "douglas-county/0",
-   "douglas-county/7",
-   "arapahoe-county/5"
+   "centennial/2",
+   "centennial/3",
+   "douglas-county/10",
+   "centennial/1",
+   "centennial/6",
+   "arapahoe-county/0"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "arapahoe-county/0"
+     "arapahoe-county/0",
+     "arapahoe-county/9",
+     "douglas-county/1"
     ],
     "site": false
    }
@@ -1434,7 +1503,7 @@
    {
     "name": "Cherry Hills Village",
     "share": 0.226,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Arapahoe County",
@@ -1444,18 +1513,19 @@
   ],
   "issues": [
    "arapahoe-county/1",
-   "cherry-hills-village/4",
-   "cherry-hills-village/6",
+   "arapahoe-county/0",
    "arapahoe-county/9",
+   "arapahoe-county/2",
+   "arapahoe-county/3",
    "arapahoe-county/5",
-   "cherry-hills-village/1",
-   "cherry-hills-village/2",
-   "arapahoe-county/0"
+   "arapahoe-county/7",
+   "arapahoe-county/8"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "arapahoe-county/0"
+     "arapahoe-county/0",
+     "arapahoe-county/9"
     ],
     "site": false
    }
@@ -1470,16 +1540,23 @@
    }
   ],
   "issues": [
+   "douglas-county/10",
    "douglas-county/0",
-   "douglas-county/7",
+   "douglas-county/11",
    "douglas-county/3",
    "douglas-county/4",
    "douglas-county/5",
    "douglas-county/9",
-   "douglas-county/10",
-   "douglas-county/2"
+   "douglas-county/6"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80117": {
   "governments": [
@@ -1518,16 +1595,23 @@
    }
   ],
   "issues": [
+   "douglas-county/10",
    "douglas-county/0",
-   "douglas-county/7",
+   "douglas-county/11",
    "douglas-county/3",
    "douglas-county/4",
    "douglas-county/5",
    "douglas-county/9",
-   "douglas-county/10",
-   "douglas-county/2"
+   "douglas-county/6"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80120": {
   "governments": [
@@ -1543,20 +1627,21 @@
    }
   ],
   "issues": [
-   "littleton/10",
-   "littleton/5",
    "littleton/6",
-   "littleton/7",
+   "littleton/12",
+   "littleton/8",
    "arapahoe-county/1",
+   "littleton/0",
    "littleton/1",
-   "littleton/3",
-   "arapahoe-county/9"
+   "littleton/2",
+   "littleton/3"
   ],
   "tagged": {
    "data-center": {
     "ids": [
+     "littleton/0",
      "arapahoe-county/0",
-     "littleton/0"
+     "arapahoe-county/9"
     ],
     "site": false
    }
@@ -1587,23 +1672,24 @@
    {
     "name": "Cherry Hills Village",
     "share": 0.011,
-    "has_records": true
+    "has_records": false
    }
   ],
   "issues": [
-   "centennial/1",
-   "centennial/2",
    "centennial/0",
+   "centennial/2",
+   "centennial/3",
+   "centennial/1",
+   "centennial/6",
    "arapahoe-county/1",
-   "greenwood-village/0",
    "greenwood-village/7",
-   "greenwood-village/1",
-   "centennial/3"
+   "greenwood-village/1"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "arapahoe-county/0",
+     "arapahoe-county/9",
      "littleton/0"
     ],
     "site": false
@@ -1629,19 +1715,20 @@
    }
   ],
   "issues": [
-   "centennial/1",
-   "centennial/2",
    "centennial/0",
-   "arapahoe-county/1",
-   "littleton/10",
+   "centennial/2",
    "centennial/3",
-   "centennial/4",
-   "centennial/5"
+   "centennial/1",
+   "centennial/6",
+   "arapahoe-county/1",
+   "littleton/6",
+   "littleton/12"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "arapahoe-county/0",
+     "arapahoe-county/9",
      "littleton/0"
     ],
     "site": false
@@ -1687,27 +1774,22 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
+   "denver/2",
    "denver/0",
-   "jefferson-county/2",
-   "jefferson-county/3",
-   "jefferson-county/8",
-   "denver/2"
+   "denver/4",
+   "jefferson-county/1",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "arapahoe-county/0",
-     "denver/1",
-     "littleton/0"
-    ],
-    "site": false
-   },
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
+     "arapahoe-county/9",
+     "littleton/0",
+     "denver/1"
     ],
     "site": false
    }
@@ -1727,16 +1809,23 @@
    }
   ],
   "issues": [
+   "douglas-county/10",
    "douglas-county/0",
-   "douglas-county/7",
-   "lone-tree/9",
+   "douglas-county/11",
    "douglas-county/3",
    "douglas-county/4",
    "douglas-county/5",
    "douglas-county/9",
-   "douglas-county/10"
+   "lone-tree/7"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80125": {
   "governments": [
@@ -1747,16 +1836,23 @@
    }
   ],
   "issues": [
+   "douglas-county/10",
    "douglas-county/0",
-   "douglas-county/7",
+   "douglas-county/11",
    "douglas-county/3",
    "douglas-county/4",
    "douglas-county/5",
    "douglas-county/9",
-   "douglas-county/10",
-   "douglas-county/2"
+   "douglas-county/6"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80126": {
   "governments": [
@@ -1767,16 +1863,23 @@
    }
   ],
   "issues": [
+   "douglas-county/10",
    "douglas-county/0",
-   "douglas-county/7",
+   "douglas-county/11",
    "douglas-county/3",
    "douglas-county/4",
    "douglas-county/5",
    "douglas-county/9",
-   "douglas-county/10",
-   "douglas-county/2"
+   "douglas-county/6"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80127": {
   "governments": [
@@ -1792,22 +1895,16 @@
    }
   ],
   "issues": [
-   "jefferson-county/2",
-   "jefferson-county/3",
-   "jefferson-county/8",
-   "jefferson-county/5",
+   "jefferson-county/1",
+   "jefferson-county/0",
+   "jefferson-county/7",
    "jefferson-county/9",
    "jefferson-county/10",
-   "jefferson-county/14",
-   "jefferson-county/0"
+   "jefferson-county/12",
+   "jefferson-county/11",
+   "jefferson-county/13"
   ],
   "tagged": {
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
-    ],
-    "site": false
-   },
    "data-center": {
     "ids": [
      "littleton/0"
@@ -1835,26 +1932,21 @@
    }
   ],
   "issues": [
-   "jefferson-county/2",
-   "jefferson-county/3",
-   "jefferson-county/8",
-   "jefferson-county/5",
+   "jefferson-county/1",
+   "jefferson-county/0",
+   "jefferson-county/7",
    "jefferson-county/9",
    "jefferson-county/10",
-   "jefferson-county/14",
-   "arapahoe-county/1"
+   "jefferson-county/12",
+   "jefferson-county/11",
+   "jefferson-county/13"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "arapahoe-county/0",
+     "arapahoe-county/9",
      "littleton/0"
-    ],
-    "site": false
-   },
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
     ],
     "site": false
    }
@@ -1874,18 +1966,19 @@
    }
   ],
   "issues": [
+   "douglas-county/10",
    "douglas-county/0",
-   "douglas-county/7",
+   "douglas-county/11",
    "douglas-county/3",
    "douglas-county/4",
    "douglas-county/5",
    "douglas-county/9",
-   "douglas-county/10",
-   "douglas-county/2"
+   "douglas-county/6"
   ],
   "tagged": {
    "data-center": {
     "ids": [
+     "douglas-county/1",
      "littleton/0"
     ],
     "site": false
@@ -1901,16 +1994,23 @@
    }
   ],
   "issues": [
+   "douglas-county/10",
    "douglas-county/0",
-   "douglas-county/7",
+   "douglas-county/11",
    "douglas-county/3",
    "douglas-county/4",
    "douglas-county/5",
    "douglas-county/9",
-   "douglas-county/10",
-   "douglas-county/2"
+   "douglas-county/6"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80131": {
   "governments": [
@@ -1921,16 +2021,23 @@
    }
   ],
   "issues": [
+   "douglas-county/10",
    "douglas-county/0",
-   "douglas-county/7",
+   "douglas-county/11",
    "douglas-county/3",
    "douglas-county/4",
    "douglas-county/5",
    "douglas-county/9",
-   "douglas-county/10",
-   "douglas-county/2"
+   "douglas-county/6"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80132": {
   "governments": [
@@ -1952,15 +2059,21 @@
   ],
   "issues": [
    "monument/0",
-   "monument/2",
-   "monument/4",
-   "monument/11",
-   "el-paso-county/0",
-   "el-paso-county/6",
+   "el-paso-county/2",
    "monument/1",
-   "monument/8"
+   "monument/3",
+   "monument/4",
+   "palmer-lake/3",
+   "palmer-lake/9",
+   "palmer-lake/2"
   ],
   "tagged": {
+   "guns": {
+    "ids": [
+     "monument/7"
+    ],
+    "site": false
+   },
    "data-center": {
     "ids": [
      "palmer-lake/0"
@@ -1984,13 +2097,13 @@
   ],
   "issues": [
    "palmer-lake/3",
-   "palmer-lake/1",
-   "palmer-lake/2",
-   "palmer-lake/7",
    "palmer-lake/9",
-   "palmer-lake/6",
+   "palmer-lake/2",
+   "palmer-lake/1",
+   "palmer-lake/8",
    "palmer-lake/0",
-   "palmer-lake/5"
+   "palmer-lake/5",
+   "palmer-lake/7"
   ],
   "tagged": {
    "data-center": {
@@ -2015,16 +2128,23 @@
    }
   ],
   "issues": [
+   "douglas-county/10",
    "douglas-county/0",
-   "douglas-county/7",
+   "douglas-county/11",
    "parker/2",
-   "parker/7",
-   "parker/4",
-   "parker/5",
+   "parker/8",
    "douglas-county/3",
-   "douglas-county/4"
+   "douglas-county/4",
+   "douglas-county/5"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80135": {
   "governments": [
@@ -2040,19 +2160,19 @@
    }
   ],
   "issues": [
+   "douglas-county/10",
    "douglas-county/0",
-   "douglas-county/7",
+   "douglas-county/11",
    "douglas-county/3",
    "douglas-county/4",
    "douglas-county/5",
    "douglas-county/9",
-   "douglas-county/10",
-   "jefferson-county/2"
+   "douglas-county/6"
   ],
   "tagged": {
-   "guns": {
+   "data-center": {
     "ids": [
-     "jefferson-county/13"
+     "douglas-county/1"
     ],
     "site": false
    }
@@ -2075,16 +2195,23 @@
    "adams-county/0",
    "arapahoe-county/1",
    "adams-county/3",
-   "adams-county/9",
-   "adams-county/2",
+   "adams-county/4",
+   "arapahoe-county/0",
    "arapahoe-county/9",
-   "arapahoe-county/5",
-   "adams-county/1"
+   "adams-county/1",
+   "arapahoe-county/2"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "arapahoe-county/0"
+     "arapahoe-county/0",
+     "arapahoe-county/9"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -2112,17 +2239,24 @@
    "adams-county/0",
    "arapahoe-county/1",
    "adams-county/3",
-   "adams-county/9",
+   "arapahoe-county/0",
    "arapahoe-county/9",
-   "adams-county/2",
-   "arapahoe-county/5",
-   "arapahoe-county/0"
+   "adams-county/4",
+   "arapahoe-county/2",
+   "adams-county/1"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "arapahoe-county/0",
+     "arapahoe-county/9",
      "aurora/0"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -2148,15 +2282,22 @@
   ],
   "issues": [
    "parker/2",
-   "parker/7",
-   "parker/4",
-   "parker/5",
-   "douglas-county/0",
-   "douglas-county/7",
+   "parker/8",
+   "douglas-county/10",
    "parker/3",
-   "parker/8"
+   "parker/6",
+   "douglas-county/0",
+   "douglas-county/11",
+   "parker/4"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80202": {
   "governments": [
@@ -2167,13 +2308,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -2194,13 +2335,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -2221,13 +2362,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -2248,13 +2389,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -2275,13 +2416,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -2302,13 +2443,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -2329,13 +2470,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -2356,13 +2497,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -2383,13 +2524,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -2430,13 +2571,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -2448,7 +2589,7 @@
    },
    "guns": {
     "ids": [
-     "jefferson-county/13"
+     "adams-county/9"
     ],
     "site": false
    }
@@ -2483,25 +2624,19 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "edgewater/0",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "edgewater/7"
+   "denver/0",
+   "denver/4",
+   "edgewater/0",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "denver/1"
-    ],
-    "site": false
-   },
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
     ],
     "site": false
    }
@@ -2526,23 +2661,16 @@
    }
   ],
   "issues": [
-   "jefferson-county/2",
-   "jefferson-county/3",
-   "jefferson-county/8",
+   "jefferson-county/1",
    "lakewood/0",
    "lakewood/2",
-   "lakewood/3",
+   "lakewood/4",
    "lakewood/5",
-   "lakewood/6"
+   "lakewood/6",
+   "jefferson-county/0",
+   "jefferson-county/7"
   ],
-  "tagged": {
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
-    ],
-    "site": false
-   }
-  }
+  "tagged": {}
  },
  "80216": {
   "governments": [
@@ -2558,19 +2686,25 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "denver/1"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -2585,13 +2719,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -2612,13 +2746,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -2649,13 +2783,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -2663,6 +2797,12 @@
     "ids": [
      "aurora/0",
      "denver/1"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -2683,15 +2823,21 @@
   ],
   "issues": [
    "adams-county/0",
-   "denver/3",
-   "denver/4",
+   "denver/2",
    "adams-county/3",
-   "adams-county/9",
-   "denver/5",
-   "adams-county/2",
-   "denver/0"
+   "denver/0",
+   "denver/4",
+   "adams-county/4",
+   "denver/6",
+   "denver/3"
   ],
   "tagged": {
+   "guns": {
+    "ids": [
+     "adams-county/9"
+    ],
+    "site": false
+   },
    "data-center": {
     "ids": [
      "denver/1"
@@ -2714,19 +2860,20 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "arapahoe-county/0",
+     "arapahoe-county/9",
      "denver/1"
     ],
     "site": false
@@ -2742,13 +2889,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -2774,19 +2921,20 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "arapahoe-county/0",
+     "arapahoe-county/9",
      "denver/1"
     ],
     "site": false
@@ -2812,25 +2960,19 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "lakewood/0",
-   "lakewood/2"
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
+   "denver/13"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "denver/1"
-    ],
-    "site": false
-   },
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
     ],
     "site": false
    }
@@ -2855,25 +2997,19 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "denver/1"
-    ],
-    "site": false
-   },
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
     ],
     "site": false
    }
@@ -2893,23 +3029,16 @@
    }
   ],
   "issues": [
-   "jefferson-county/2",
-   "jefferson-county/3",
-   "jefferson-county/8",
+   "jefferson-county/1",
    "lakewood/0",
    "lakewood/2",
-   "lakewood/3",
+   "lakewood/4",
    "lakewood/5",
-   "lakewood/6"
+   "lakewood/6",
+   "jefferson-county/0",
+   "jefferson-county/7"
   ],
-  "tagged": {
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
-    ],
-    "site": false
-   }
-  }
+  "tagged": {}
  },
  "80229": {
   "governments": [
@@ -2927,17 +3056,23 @@
   "issues": [
    "adams-county/0",
    "adams-county/3",
-   "adams-county/9",
    "thornton/4",
-   "thornton/7",
-   "adams-county/2",
+   "thornton/12",
+   "adams-county/4",
    "thornton/6",
-   "thornton/10"
+   "thornton/8",
+   "adams-county/1"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "thornton/0"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -2952,13 +3087,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -2984,19 +3119,20 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
-   "arapahoe-county/1",
    "denver/2",
-   "denver/11",
-   "denver/10"
+   "denver/0",
+   "denver/4",
+   "arapahoe-county/1",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "arapahoe-county/0",
+     "arapahoe-county/9",
      "denver/1"
     ],
     "site": false
@@ -3017,23 +3153,16 @@
    }
   ],
   "issues": [
-   "jefferson-county/2",
-   "jefferson-county/3",
-   "jefferson-county/8",
-   "jefferson-county/5",
+   "jefferson-county/1",
+   "jefferson-county/0",
+   "jefferson-county/7",
    "jefferson-county/9",
    "jefferson-county/10",
+   "jefferson-county/12",
    "lakewood/0",
    "lakewood/2"
   ],
-  "tagged": {
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
-    ],
-    "site": false
-   }
-  }
+  "tagged": {}
  },
  "80233": {
   "governments": [
@@ -3055,18 +3184,24 @@
   ],
   "issues": [
    "thornton/4",
-   "thornton/7",
-   "thornton/6",
-   "thornton/10",
+   "thornton/12",
    "adams-county/0",
+   "thornton/6",
+   "thornton/8",
    "adams-county/3",
-   "adams-county/9",
-   "thornton/0"
+   "thornton/0",
+   "thornton/1"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "thornton/0"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -3087,7 +3222,7 @@
    {
     "name": "Broomfield",
     "share": 0.066,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Adams County",
@@ -3097,18 +3232,24 @@
   ],
   "issues": [
    "westminster/2",
-   "westminster/4",
-   "westminster/12",
    "westminster/3",
+   "westminster/5",
    "westminster/6",
-   "broomfield/1",
+   "adams-county/0",
+   "westminster/7",
    "westminster/8",
-   "westminster/9"
+   "westminster/1"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "westminster/0"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -3133,25 +3274,19 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "jefferson-county/2",
-   "jefferson-county/3"
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
+   "denver/13"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "denver/1"
-    ],
-    "site": false
-   },
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
     ],
     "site": false
    }
@@ -3167,7 +3302,7 @@
    {
     "name": "Sheridan",
     "share": 0.075,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Arapahoe County",
@@ -3176,19 +3311,20 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "arapahoe-county/0",
+     "arapahoe-county/9",
      "denver/1"
     ],
     "site": false
@@ -3204,13 +3340,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -3231,13 +3367,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -3258,13 +3394,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -3296,18 +3432,24 @@
   ],
   "issues": [
    "thornton/4",
-   "thornton/7",
-   "thornton/6",
-   "thornton/10",
+   "thornton/12",
    "adams-county/0",
+   "thornton/6",
+   "thornton/8",
    "thornton/0",
    "thornton/1",
-   "thornton/2"
+   "thornton/3"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "thornton/0"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -3323,7 +3465,7 @@
    {
     "name": "Glendale",
     "share": 0.349,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Arapahoe County",
@@ -3332,19 +3474,20 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "arapahoe-county/0",
+     "arapahoe-county/9",
      "denver/1"
     ],
     "site": false
@@ -3370,20 +3513,21 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
-   "arapahoe-county/1",
    "denver/2",
-   "denver/11",
-   "denver/10"
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "arapahoe-county/1",
+   "denver/3",
+   "denver/5",
+   "denver/12"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "aurora/0",
      "arapahoe-county/0",
+     "arapahoe-county/9",
+     "aurora/0",
      "denver/1"
     ],
     "site": false
@@ -3399,13 +3543,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -3427,7 +3571,7 @@
    {
     "name": "Federal Heights",
     "share": 0.392,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Northglenn",
@@ -3447,19 +3591,25 @@
   ],
   "issues": [
    "thornton/4",
-   "thornton/7",
-   "thornton/6",
-   "thornton/10",
+   "thornton/12",
    "adams-county/0",
+   "thornton/6",
+   "thornton/8",
    "westminster/2",
-   "westminster/4",
-   "westminster/12"
+   "adams-county/3",
+   "thornton/0"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "thornton/0",
      "westminster/0"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -3474,13 +3624,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -3501,13 +3651,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -3528,13 +3678,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -3555,13 +3705,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -3582,13 +3732,13 @@
    }
   ],
   "issues": [
-   "denver/3",
-   "denver/4",
-   "denver/5",
-   "denver/0",
    "denver/2",
-   "denver/11",
-   "denver/10",
+   "denver/0",
+   "denver/4",
+   "denver/6",
+   "denver/3",
+   "denver/5",
+   "denver/12",
    "denver/13"
   ],
   "tagged": {
@@ -3614,25 +3764,25 @@
    }
   ],
   "issues": [
-   "boulder-county/1",
-   "boulder-county/5",
-   "boulder-county/10",
+   "boulder-county/0",
+   "boulder-county/6",
    "boulder-county/11",
-   "boulder-county/12",
    "boulder-county/2",
+   "boulder/1",
+   "boulder/2",
    "boulder/0",
    "boulder/4"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "boulder-county/0"
+     "boulder-county/1"
     ],
     "site": false
    },
    "guns": {
     "ids": [
-     "boulder-county/4"
+     "boulder-county/3"
     ],
     "site": false
    }
@@ -3652,25 +3802,25 @@
    }
   ],
   "issues": [
-   "boulder-county/1",
-   "boulder-county/5",
-   "boulder/0",
-   "boulder/4",
-   "boulder/8",
-   "boulder-county/10",
+   "boulder-county/0",
+   "boulder-county/6",
+   "boulder/1",
+   "boulder/2",
    "boulder-county/11",
-   "boulder-county/12"
+   "boulder-county/2",
+   "boulder/0",
+   "boulder/4"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "boulder-county/0"
+     "boulder-county/1"
     ],
     "site": false
    },
    "guns": {
     "ids": [
-     "boulder-county/4"
+     "boulder-county/3"
     ],
     "site": false
    }
@@ -3690,25 +3840,25 @@
    }
   ],
   "issues": [
-   "boulder-county/1",
-   "boulder-county/5",
-   "boulder/0",
-   "boulder/4",
-   "boulder/8",
-   "boulder-county/10",
+   "boulder-county/0",
+   "boulder-county/6",
+   "boulder/1",
+   "boulder/2",
    "boulder-county/11",
-   "boulder-county/12"
+   "boulder-county/2",
+   "boulder/0",
+   "boulder/4"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "boulder-county/0"
+     "boulder-county/1"
     ],
     "site": false
    },
    "guns": {
     "ids": [
-     "boulder-county/4"
+     "boulder-county/3"
     ],
     "site": false
    }
@@ -3728,25 +3878,25 @@
    }
   ],
   "issues": [
-   "boulder-county/1",
+   "boulder-county/0",
+   "boulder/1",
+   "boulder/2",
+   "boulder-county/6",
    "boulder/0",
    "boulder/4",
-   "boulder/8",
-   "boulder-county/5",
-   "boulder/1",
-   "boulder/5",
-   "boulder/9"
+   "boulder/7",
+   "boulder/8"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "boulder-county/0"
+     "boulder-county/1"
     ],
     "site": false
    },
    "guns": {
     "ids": [
-     "boulder-county/4"
+     "boulder-county/3"
     ],
     "site": false
    }
@@ -3766,25 +3916,25 @@
    }
   ],
   "issues": [
-   "boulder-county/1",
+   "boulder-county/0",
+   "boulder/1",
+   "boulder/2",
+   "boulder-county/6",
    "boulder/0",
    "boulder/4",
-   "boulder/8",
-   "boulder-county/5",
-   "boulder/1",
-   "boulder/5",
-   "boulder/9"
+   "boulder/7",
+   "boulder/8"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "boulder-county/0"
+     "boulder-county/1"
     ],
     "site": false
    },
    "guns": {
     "ids": [
-     "boulder-county/4"
+     "boulder-county/3"
     ],
     "site": false
    }
@@ -3804,25 +3954,25 @@
    }
   ],
   "issues": [
-   "boulder-county/1",
+   "boulder-county/0",
+   "boulder/1",
+   "boulder/2",
    "boulder/0",
    "boulder/4",
+   "boulder/7",
    "boulder/8",
-   "boulder/1",
-   "boulder/5",
-   "boulder/9",
-   "boulder/10"
+   "boulder/9"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "boulder-county/0"
+     "boulder-county/1"
     ],
     "site": false
    },
    "guns": {
     "ids": [
-     "boulder-county/4"
+     "boulder-county/3"
     ],
     "site": false
    }
@@ -3847,19 +3997,19 @@
    }
   ],
   "issues": [
-   "golden/9",
-   "golden/0",
+   "golden/6",
    "golden/4",
-   "golden/3",
+   "golden/11",
+   "jefferson-county/1",
    "golden/1",
-   "jefferson-county/2",
-   "jefferson-county/3",
-   "jefferson-county/8"
+   "golden/2",
+   "golden/3",
+   "golden/9"
   ],
   "tagged": {
-   "guns": {
+   "data-center": {
     "ids": [
-     "jefferson-county/13"
+     "golden/2"
     ],
     "site": false
    }
@@ -3894,27 +4044,27 @@
    }
   ],
   "issues": [
-   "golden/9",
-   "golden/0",
+   "golden/6",
+   "jefferson-county/1",
    "golden/4",
-   "jefferson-county/2",
-   "jefferson-county/3",
-   "jefferson-county/8",
-   "golden/3",
-   "golden/1"
+   "golden/11",
+   "jefferson-county/0",
+   "jefferson-county/7",
+   "jefferson-county/9",
+   "jefferson-county/10"
   ],
   "tagged": {
    "data-center": {
     "ids": [
+     "golden/2",
      "arvada/0",
-     "boulder-county/0"
+     "boulder-county/1"
     ],
     "site": false
    },
    "guns": {
     "ids": [
-     "jefferson-county/13",
-     "boulder-county/4"
+     "boulder-county/3"
     ],
     "site": false
    }
@@ -3934,19 +4084,19 @@
    }
   ],
   "issues": [
-   "golden/9",
-   "golden/0",
+   "golden/6",
    "golden/4",
-   "golden/3",
+   "golden/11",
    "golden/1",
-   "golden/8",
    "golden/2",
-   "golden/11"
+   "golden/3",
+   "golden/9",
+   "golden/10"
   ],
   "tagged": {
-   "guns": {
+   "data-center": {
     "ids": [
-     "jefferson-county/13"
+     "golden/2"
     ],
     "site": false
    }
@@ -3957,7 +4107,7 @@
    {
     "name": "Park County",
     "share": 0.681,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Alma",
@@ -3965,16 +4115,7 @@
     "has_records": false
    }
   ],
-  "issues": [
-   "park-county/1",
-   "park-county/2",
-   "park-county/4",
-   "park-county/7",
-   "park-county/5",
-   "park-county/3",
-   "park-county/10",
-   "park-county/11"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "80421": {
@@ -3982,19 +4123,10 @@
    {
     "name": "Park County",
     "share": 0.997,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "park-county/1",
-   "park-county/2",
-   "park-county/4",
-   "park-county/7",
-   "park-county/5",
-   "park-county/3",
-   "park-county/10",
-   "park-county/11"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "80422": {
@@ -4032,19 +4164,10 @@
    {
     "name": "Grand County",
     "share": 0.153,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "grand-county/0",
-   "grand-county/1",
-   "grand-county/8",
-   "grand-county/7",
-   "grand-county/2",
-   "grand-county/3",
-   "grand-county/4",
-   "grand-county/5"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "80424": {
@@ -4066,14 +4189,14 @@
    }
   ],
   "issues": [
+   "breckenridge/2",
    "breckenridge/3",
-   "breckenridge/1",
-   "breckenridge/11",
+   "breckenridge/9",
+   "summit-county/1",
    "blue-river/0",
-   "breckenridge/0",
-   "breckenridge/8",
-   "summit-county/2",
-   "breckenridge/2"
+   "breckenridge/1",
+   "breckenridge/5",
+   "breckenridge/8"
   ],
   "tagged": {}
  },
@@ -4086,23 +4209,16 @@
    }
   ],
   "issues": [
-   "jefferson-county/2",
-   "jefferson-county/3",
-   "jefferson-county/8",
-   "jefferson-county/5",
+   "jefferson-county/1",
+   "jefferson-county/0",
+   "jefferson-county/7",
    "jefferson-county/9",
    "jefferson-county/10",
-   "jefferson-county/14",
-   "jefferson-county/0"
+   "jefferson-county/12",
+   "jefferson-county/11",
+   "jefferson-county/13"
   ],
-  "tagged": {
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
-    ],
-    "site": false
-   }
-  }
+  "tagged": {}
  },
  "80426": {
   "governments": [
@@ -4150,19 +4266,10 @@
    {
     "name": "Routt County",
     "share": 1.0,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "routt-county/1",
-   "routt-county/0",
-   "routt-county/2",
-   "routt-county/6",
-   "routt-county/10",
-   "routt-county/12",
-   "routt-county/4",
-   "routt-county/5"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "80430": {
@@ -4181,19 +4288,10 @@
    {
     "name": "Park County",
     "share": 1.0,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "park-county/1",
-   "park-county/2",
-   "park-county/4",
-   "park-county/7",
-   "park-county/5",
-   "park-county/3",
-   "park-county/10",
-   "park-county/11"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "80433": {
@@ -4205,23 +4303,16 @@
    }
   ],
   "issues": [
-   "jefferson-county/2",
-   "jefferson-county/3",
-   "jefferson-county/8",
-   "jefferson-county/5",
+   "jefferson-county/1",
+   "jefferson-county/0",
+   "jefferson-county/7",
    "jefferson-county/9",
    "jefferson-county/10",
-   "jefferson-county/14",
-   "jefferson-county/0"
+   "jefferson-county/12",
+   "jefferson-county/11",
+   "jefferson-county/13"
   ],
-  "tagged": {
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
-    ],
-    "site": false
-   }
-  }
+  "tagged": {}
  },
  "80434": {
   "governments": [
@@ -4253,14 +4344,14 @@
    }
   ],
   "issues": [
-   "summit-county/2",
-   "summit-county/9",
-   "summit-county/3",
-   "summit-county/6",
-   "summit-county/0",
    "summit-county/1",
+   "summit-county/2",
+   "summit-county/7",
+   "summit-county/0",
+   "summit-county/3",
    "summit-county/4",
-   "summit-county/5"
+   "summit-county/5",
+   "summit-county/6"
   ],
   "tagged": {}
  },
@@ -4274,12 +4365,12 @@
   ],
   "issues": [
    "clear-creek-county/1",
-   "clear-creek-county/3",
-   "clear-creek-county/4",
    "clear-creek-county/9",
+   "clear-creek-county/5",
+   "clear-creek-county/6",
    "clear-creek-county/0",
-   "clear-creek-county/2",
-   "clear-creek-county/8",
+   "clear-creek-county/4",
+   "clear-creek-county/7",
    "clear-creek-county/10"
   ],
   "tagged": {}
@@ -4299,12 +4390,12 @@
   ],
   "issues": [
    "clear-creek-county/1",
-   "clear-creek-county/3",
-   "clear-creek-county/4",
    "clear-creek-county/9",
+   "clear-creek-county/5",
+   "clear-creek-county/6",
    "clear-creek-county/0",
-   "clear-creek-county/2",
-   "clear-creek-county/8",
+   "clear-creek-county/4",
+   "clear-creek-county/7",
    "clear-creek-county/10"
   ],
   "tagged": {}
@@ -4323,30 +4414,23 @@
    }
   ],
   "issues": [
-   "jefferson-county/2",
-   "jefferson-county/3",
-   "jefferson-county/8",
-   "jefferson-county/5",
+   "jefferson-county/1",
+   "jefferson-county/0",
+   "jefferson-county/7",
    "jefferson-county/9",
    "jefferson-county/10",
-   "jefferson-county/14",
-   "jefferson-county/0"
+   "jefferson-county/12",
+   "jefferson-county/11",
+   "jefferson-county/13"
   ],
-  "tagged": {
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
-    ],
-    "site": false
-   }
-  }
+  "tagged": {}
  },
  "80440": {
   "governments": [
    {
     "name": "Park County",
     "share": 0.718,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Fairplay",
@@ -4355,14 +4439,14 @@
    }
   ],
   "issues": [
-   "park-county/1",
    "fairplay/0",
-   "park-county/2",
-   "park-county/4",
-   "park-county/7",
    "fairplay/7",
-   "park-county/5",
-   "fairplay/3"
+   "fairplay/3",
+   "fairplay/4",
+   "fairplay/5",
+   "fairplay/1",
+   "fairplay/6",
+   "fairplay/9"
   ],
   "tagged": {}
  },
@@ -4371,24 +4455,15 @@
    {
     "name": "Fraser",
     "share": 0.546,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Grand County",
     "share": 0.454,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "fraser/0",
-   "fraser/1",
-   "fraser/4",
-   "fraser/6",
-   "fraser/9",
-   "fraser/10",
-   "fraser/2",
-   "fraser/3"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "80443": {
@@ -4405,14 +4480,14 @@
    }
   ],
   "issues": [
-   "summit-county/2",
+   "summit-county/1",
    "frisco/0",
-   "frisco/1",
-   "frisco/3",
-   "summit-county/9",
-   "frisco/5",
    "frisco/2",
-   "frisco/4"
+   "frisco/1",
+   "frisco/4",
+   "frisco/5",
+   "frisco/8",
+   "frisco/9"
   ],
   "tagged": {}
  },
@@ -4431,12 +4506,12 @@
   ],
   "issues": [
    "clear-creek-county/1",
-   "clear-creek-county/3",
-   "clear-creek-county/4",
    "clear-creek-county/9",
+   "clear-creek-county/5",
+   "clear-creek-county/6",
    "clear-creek-county/0",
-   "clear-creek-county/2",
-   "clear-creek-county/8",
+   "clear-creek-county/4",
+   "clear-creek-county/7",
    "clear-creek-county/10"
   ],
   "tagged": {}
@@ -4451,7 +4526,7 @@
    {
     "name": "Grand County",
     "share": 0.483,
-    "has_records": true
+    "has_records": false
    }
   ],
   "issues": [
@@ -4478,7 +4553,7 @@
    {
     "name": "Grand County",
     "share": 0.797,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Grand Lake",
@@ -4487,14 +4562,14 @@
    }
   ],
   "issues": [
+   "grand-lake/1",
    "grand-lake/0",
-   "grand-county/0",
-   "grand-county/1",
-   "grand-county/8",
-   "grand-county/7",
-   "grand-county/2",
-   "grand-county/3",
-   "grand-county/4"
+   "grand-lake/5",
+   "grand-lake/3",
+   "grand-lake/9",
+   "grand-lake/2",
+   "grand-lake/4",
+   "grand-lake/6"
   ],
   "tagged": {}
  },
@@ -4503,19 +4578,10 @@
    {
     "name": "Park County",
     "share": 1.0,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "park-county/1",
-   "park-county/2",
-   "park-county/4",
-   "park-county/7",
-   "park-county/5",
-   "park-county/3",
-   "park-county/10",
-   "park-county/11"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "80449": {
@@ -4523,7 +4589,7 @@
    {
     "name": "Park County",
     "share": 0.989,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Chaffee County",
@@ -4532,24 +4598,16 @@
    }
   ],
   "issues": [
-   "park-county/1",
-   "park-county/2",
-   "park-county/4",
-   "park-county/7",
-   "park-county/5",
-   "park-county/3",
-   "park-county/10",
-   "park-county/11"
+   "chaffee-county/8",
+   "chaffee-county/6",
+   "chaffee-county/1",
+   "chaffee-county/2",
+   "chaffee-county/3",
+   "chaffee-county/0",
+   "chaffee-county/4",
+   "chaffee-county/5"
   ],
-  "tagged": {
-   "guns": {
-    "ids": [
-     "chaffee-county/10",
-     "chaffee-county/12"
-    ],
-    "site": false
-   }
-  }
+  "tagged": {}
  },
  "80451": {
   "governments": [
@@ -4561,19 +4619,10 @@
    {
     "name": "Grand County",
     "share": 0.09,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "grand-county/0",
-   "grand-county/1",
-   "grand-county/8",
-   "grand-county/7",
-   "grand-county/2",
-   "grand-county/3",
-   "grand-county/4",
-   "grand-county/5"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "80452": {
@@ -4590,14 +4639,14 @@
    }
   ],
   "issues": [
+   "idaho-springs/2",
+   "idaho-springs/4",
+   "idaho-springs/0",
    "idaho-springs/3",
-   "idaho-springs/6",
-   "idaho-springs/9",
-   "idaho-springs/1",
-   "idaho-springs/5",
-   "idaho-springs/7",
+   "idaho-springs/8",
    "clear-creek-county/1",
-   "idaho-springs/0"
+   "clear-creek-county/9",
+   "idaho-springs/1"
   ],
   "tagged": {}
  },
@@ -4610,23 +4659,16 @@
    }
   ],
   "issues": [
-   "jefferson-county/2",
-   "jefferson-county/3",
-   "jefferson-county/8",
-   "jefferson-county/5",
+   "jefferson-county/1",
+   "jefferson-county/0",
+   "jefferson-county/7",
    "jefferson-county/9",
    "jefferson-county/10",
-   "jefferson-county/14",
-   "jefferson-county/0"
+   "jefferson-county/12",
+   "jefferson-county/11",
+   "jefferson-county/13"
   ],
-  "tagged": {
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
-    ],
-    "site": false
-   }
-  }
+  "tagged": {}
  },
  "80454": {
   "governments": [
@@ -4637,23 +4679,16 @@
    }
   ],
   "issues": [
-   "jefferson-county/2",
-   "jefferson-county/3",
-   "jefferson-county/8",
-   "jefferson-county/5",
+   "jefferson-county/1",
+   "jefferson-county/0",
+   "jefferson-county/7",
    "jefferson-county/9",
    "jefferson-county/10",
-   "jefferson-county/14",
-   "jefferson-county/0"
+   "jefferson-county/12",
+   "jefferson-county/11",
+   "jefferson-county/13"
   ],
-  "tagged": {
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
-    ],
-    "site": false
-   }
-  }
+  "tagged": {}
  },
  "80455": {
   "governments": [
@@ -4669,25 +4704,25 @@
    }
   ],
   "issues": [
-   "boulder-county/1",
-   "boulder-county/5",
-   "boulder-county/10",
+   "boulder-county/0",
+   "boulder-county/6",
    "boulder-county/11",
-   "boulder-county/12",
    "boulder-county/2",
-   "boulder-county/3",
-   "boulder-county/6"
+   "boulder-county/4",
+   "boulder-county/5",
+   "boulder-county/7",
+   "boulder-county/12"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "boulder-county/0"
+     "boulder-county/1"
     ],
     "site": false
    },
    "guns": {
     "ids": [
-     "boulder-county/4"
+     "boulder-county/3"
     ],
     "site": false
    }
@@ -4698,19 +4733,10 @@
    {
     "name": "Park County",
     "share": 1.0,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "park-county/1",
-   "park-county/2",
-   "park-county/4",
-   "park-county/7",
-   "park-county/5",
-   "park-county/3",
-   "park-county/10",
-   "park-county/11"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "80457": {
@@ -4722,23 +4748,16 @@
    }
   ],
   "issues": [
-   "jefferson-county/2",
-   "jefferson-county/3",
-   "jefferson-county/8",
-   "jefferson-county/5",
+   "jefferson-county/1",
+   "jefferson-county/0",
+   "jefferson-county/7",
    "jefferson-county/9",
    "jefferson-county/10",
-   "jefferson-county/14",
-   "jefferson-county/0"
+   "jefferson-county/12",
+   "jefferson-county/11",
+   "jefferson-county/13"
   ],
-  "tagged": {
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
-    ],
-    "site": false
-   }
-  }
+  "tagged": {}
  },
  "80459": {
   "governments": [
@@ -4750,19 +4769,10 @@
    {
     "name": "Grand County",
     "share": 0.385,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "grand-county/0",
-   "grand-county/1",
-   "grand-county/8",
-   "grand-county/7",
-   "grand-county/2",
-   "grand-county/3",
-   "grand-county/4",
-   "grand-county/5"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "80461": {
@@ -4770,7 +4780,7 @@
    {
     "name": "Lake County",
     "share": 0.634,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Leadville",
@@ -4778,16 +4788,7 @@
     "has_records": false
    }
   ],
-  "issues": [
-   "lake-county/1",
-   "lake-county/4",
-   "lake-county/0",
-   "lake-county/3",
-   "lake-county/2",
-   "lake-county/7",
-   "lake-county/5",
-   "lake-county/9"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "80463": {
@@ -4795,7 +4796,7 @@
    {
     "name": "Routt County",
     "share": 0.541,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Eagle County",
@@ -4803,16 +4804,7 @@
     "has_records": false
    }
   ],
-  "issues": [
-   "routt-county/1",
-   "routt-county/0",
-   "routt-county/2",
-   "routt-county/6",
-   "routt-county/10",
-   "routt-county/12",
-   "routt-county/4",
-   "routt-county/5"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "80465": {
@@ -4825,27 +4817,20 @@
    {
     "name": "Morrison",
     "share": 0.024,
-    "has_records": true
+    "has_records": false
    }
   ],
   "issues": [
-   "jefferson-county/2",
-   "jefferson-county/3",
-   "jefferson-county/8",
-   "jefferson-county/5",
+   "jefferson-county/1",
+   "jefferson-county/0",
+   "jefferson-county/7",
    "jefferson-county/9",
    "jefferson-county/10",
-   "jefferson-county/14",
-   "jefferson-county/0"
+   "jefferson-county/12",
+   "jefferson-county/11",
+   "jefferson-county/13"
   ],
-  "tagged": {
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
-    ],
-    "site": false
-   }
-  }
+  "tagged": {}
  },
  "80466": {
   "governments": [
@@ -4861,25 +4846,25 @@
    }
   ],
   "issues": [
-   "boulder-county/1",
-   "boulder-county/5",
-   "boulder-county/10",
+   "boulder-county/0",
+   "boulder-county/6",
    "boulder-county/11",
-   "boulder-county/12",
    "boulder-county/2",
    "nederland/2",
-   "nederland/0"
+   "nederland/0",
+   "boulder-county/4",
+   "boulder-county/5"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "boulder-county/0"
+     "boulder-county/1"
     ],
     "site": false
    },
    "guns": {
     "ids": [
-     "boulder-county/4"
+     "boulder-county/3"
     ],
     "site": false
    }
@@ -4890,7 +4875,7 @@
    {
     "name": "Routt County",
     "share": 0.611,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Oak Creek",
@@ -4904,14 +4889,14 @@
    }
   ],
   "issues": [
-   "routt-county/1",
-   "routt-county/0",
-   "routt-county/2",
-   "routt-county/6",
-   "routt-county/10",
-   "routt-county/12",
    "oak-creek/0",
-   "oak-creek/7"
+   "oak-creek/7",
+   "oak-creek/1",
+   "oak-creek/5",
+   "oak-creek/8",
+   "oak-creek/9",
+   "oak-creek/11",
+   "oak-creek/10"
   ],
   "tagged": {}
  },
@@ -4920,19 +4905,10 @@
    {
     "name": "Grand County",
     "share": 1.0,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "grand-county/0",
-   "grand-county/1",
-   "grand-county/8",
-   "grand-county/7",
-   "grand-county/2",
-   "grand-county/3",
-   "grand-county/4",
-   "grand-county/5"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "80469": {
@@ -4940,19 +4916,10 @@
    {
     "name": "Routt County",
     "share": 1.0,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "routt-county/1",
-   "routt-county/0",
-   "routt-county/2",
-   "routt-county/6",
-   "routt-county/10",
-   "routt-county/12",
-   "routt-county/4",
-   "routt-county/5"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "80470": {
@@ -4965,27 +4932,20 @@
    {
     "name": "Park County",
     "share": 0.327,
-    "has_records": true
+    "has_records": false
    }
   ],
   "issues": [
-   "park-county/1",
-   "park-county/2",
-   "park-county/4",
-   "park-county/7",
-   "jefferson-county/2",
-   "jefferson-county/3",
-   "jefferson-county/8",
-   "park-county/5"
+   "jefferson-county/1",
+   "jefferson-county/0",
+   "jefferson-county/7",
+   "jefferson-county/9",
+   "jefferson-county/10",
+   "jefferson-county/12",
+   "jefferson-county/11",
+   "jefferson-county/13"
   ],
-  "tagged": {
-   "guns": {
-    "ids": [
-     "jefferson-county/13"
-    ],
-    "site": false
-   }
-  }
+  "tagged": {}
  },
  "80471": {
   "governments": [
@@ -4996,25 +4956,25 @@
    }
   ],
   "issues": [
-   "boulder-county/1",
-   "boulder-county/5",
-   "boulder-county/10",
+   "boulder-county/0",
+   "boulder-county/6",
    "boulder-county/11",
-   "boulder-county/12",
    "boulder-county/2",
-   "boulder-county/3",
-   "boulder-county/6"
+   "boulder-county/4",
+   "boulder-county/5",
+   "boulder-county/7",
+   "boulder-county/12"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "boulder-county/0"
+     "boulder-county/1"
     ],
     "site": false
    },
    "guns": {
     "ids": [
-     "boulder-county/4"
+     "boulder-county/3"
     ],
     "site": false
    }
@@ -5056,19 +5016,10 @@
    {
     "name": "Park County",
     "share": 1.0,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "park-county/1",
-   "park-county/2",
-   "park-county/4",
-   "park-county/7",
-   "park-county/5",
-   "park-county/3",
-   "park-county/10",
-   "park-county/11"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "80476": {
@@ -5085,14 +5036,14 @@
    }
   ],
   "issues": [
-   "silver-plume/1",
-   "silver-plume/0",
-   "clear-creek-county/1",
    "silver-plume/2",
-   "clear-creek-county/3",
-   "clear-creek-county/4",
+   "clear-creek-county/1",
    "clear-creek-county/9",
-   "silver-plume/3"
+   "silver-plume/0",
+   "clear-creek-county/5",
+   "clear-creek-county/6",
+   "clear-creek-county/0",
+   "clear-creek-county/4"
   ],
   "tagged": {}
  },
@@ -5101,7 +5052,7 @@
    {
     "name": "Grand County",
     "share": 0.992,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Granby",
@@ -5112,12 +5063,12 @@
   "issues": [
    "granby/0",
    "granby/10",
-   "grand-county/0",
-   "grand-county/1",
-   "grand-county/8",
    "granby/4",
-   "grand-county/7",
-   "granby/11"
+   "granby/11",
+   "granby/2",
+   "granby/3",
+   "granby/5",
+   "granby/6"
   ],
   "tagged": {
    "data-center": {
@@ -5133,19 +5084,10 @@
    {
     "name": "Routt County",
     "share": 1.0,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "routt-county/1",
-   "routt-county/0",
-   "routt-county/2",
-   "routt-county/6",
-   "routt-county/10",
-   "routt-county/12",
-   "routt-county/4",
-   "routt-county/5"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "80480": {
@@ -5178,25 +5120,25 @@
    }
   ],
   "issues": [
-   "boulder-county/1",
-   "boulder-county/5",
-   "boulder-county/10",
+   "boulder-county/0",
+   "boulder-county/6",
    "boulder-county/11",
-   "boulder-county/12",
    "boulder-county/2",
-   "boulder-county/3",
-   "boulder-county/6"
+   "boulder-county/4",
+   "boulder-county/5",
+   "boulder-county/7",
+   "boulder-county/12"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "boulder-county/0"
+     "boulder-county/1"
     ],
     "site": false
    },
    "guns": {
     "ids": [
-     "boulder-county/4"
+     "boulder-county/3"
     ],
     "site": false
    }
@@ -5212,23 +5154,23 @@
    {
     "name": "Grand County",
     "share": 0.402,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Fraser",
     "share": 0.009,
-    "has_records": true
+    "has_records": false
    }
   ],
   "issues": [
+   "winter-park/5",
+   "winter-park/9",
    "winter-park/7",
-   "fraser/0",
+   "winter-park/0",
+   "winter-park/1",
+   "winter-park/2",
    "winter-park/3",
-   "grand-county/0",
-   "grand-county/1",
-   "grand-county/8",
-   "grand-county/7",
-   "fraser/1"
+   "winter-park/4"
   ],
   "tagged": {}
  },
@@ -5242,19 +5184,10 @@
    {
     "name": "Routt County",
     "share": 0.307,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "routt-county/1",
-   "routt-county/0",
-   "routt-county/2",
-   "routt-county/6",
-   "routt-county/10",
-   "routt-county/12",
-   "routt-county/4",
-   "routt-county/5"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "80487": {
@@ -5267,18 +5200,18 @@
    {
     "name": "Routt County",
     "share": 0.273,
-    "has_records": true
+    "has_records": false
    }
   ],
   "issues": [
-   "routt-county/1",
    "steamboat-springs/0",
-   "routt-county/0",
-   "routt-county/2",
-   "steamboat-springs/2",
    "steamboat-springs/1",
+   "steamboat-springs/2",
+   "steamboat-springs/7",
    "steamboat-springs/3",
-   "steamboat-springs/4"
+   "steamboat-springs/4",
+   "steamboat-springs/9",
+   "steamboat-springs/6"
   ],
   "tagged": {}
  },
@@ -5297,18 +5230,18 @@
    {
     "name": "Grand County",
     "share": 0.04,
-    "has_records": true
+    "has_records": false
    }
   ],
   "issues": [
-   "summit-county/2",
-   "summit-county/9",
-   "summit-county/3",
-   "summit-county/6",
-   "summit-county/0",
    "summit-county/1",
+   "summit-county/2",
+   "summit-county/7",
+   "summit-county/0",
+   "summit-county/3",
    "summit-county/4",
-   "summit-county/5"
+   "summit-county/5",
+   "summit-county/6"
   ],
   "tagged": {}
  },
@@ -5326,25 +5259,25 @@
    }
   ],
   "issues": [
-   "longmont/1",
-   "longmont/3",
-   "longmont/2",
-   "longmont/9",
    "longmont/8",
    "longmont/0",
-   "longmont/4",
-   "longmont/7"
+   "longmont/2",
+   "longmont/3",
+   "longmont/7",
+   "longmont/5",
+   "longmont/1",
+   "longmont/4"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "boulder-county/0"
+     "boulder-county/1"
     ],
     "site": false
    },
    "guns": {
     "ids": [
-     "boulder-county/4"
+     "boulder-county/3"
     ],
     "site": false
    }
@@ -5364,25 +5297,25 @@
    }
   ],
   "issues": [
-   "longmont/1",
-   "longmont/3",
-   "boulder-county/1",
-   "longmont/2",
-   "longmont/9",
    "longmont/8",
-   "boulder-county/5",
-   "longmont/0"
+   "longmont/0",
+   "longmont/2",
+   "longmont/3",
+   "longmont/7",
+   "boulder-county/0",
+   "longmont/5",
+   "boulder-county/6"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "boulder-county/0"
+     "boulder-county/1"
     ],
     "site": false
    },
    "guns": {
     "ids": [
-     "boulder-county/4"
+     "boulder-county/3"
     ],
     "site": false
    }
@@ -5417,25 +5350,25 @@
    }
   ],
   "issues": [
-   "longmont/1",
-   "longmont/3",
-   "longmont/2",
-   "longmont/9",
    "longmont/8",
    "longmont/0",
-   "longmont/4",
-   "longmont/7"
+   "longmont/2",
+   "longmont/3",
+   "longmont/7",
+   "longmont/5",
+   "longmont/1",
+   "longmont/4"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "boulder-county/0"
+     "boulder-county/1"
     ],
     "site": false
    },
    "guns": {
     "ids": [
-     "boulder-county/4"
+     "boulder-county/3"
     ],
     "site": false
    }
@@ -5450,25 +5383,25 @@
    }
   ],
   "issues": [
-   "boulder-county/1",
-   "boulder-county/5",
-   "boulder-county/10",
+   "boulder-county/0",
+   "boulder-county/6",
    "boulder-county/11",
-   "boulder-county/12",
    "boulder-county/2",
-   "boulder-county/3",
-   "boulder-county/6"
+   "boulder-county/4",
+   "boulder-county/5",
+   "boulder-county/7",
+   "boulder-county/12"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "boulder-county/0"
+     "boulder-county/1"
     ],
     "site": false
    },
    "guns": {
     "ids": [
-     "boulder-county/4"
+     "boulder-county/3"
     ],
     "site": false
    }
@@ -5505,12 +5438,12 @@
   ],
   "issues": [
    "berthoud/0",
+   "berthoud/5",
    "berthoud/7",
-   "berthoud/8",
    "berthoud/12",
    "berthoud/1",
-   "berthoud/4",
-   "berthoud/9",
+   "berthoud/10",
+   "berthoud/11",
    "weld-county/0"
   ],
   "tagged": {
@@ -5527,7 +5460,7 @@
    {
     "name": "Dacono",
     "share": 0.988,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Weld County",
@@ -5536,23 +5469,16 @@
    }
   ],
   "issues": [
-   "dacono/1",
-   "dacono/3",
-   "dacono/10",
-   "dacono/2",
-   "dacono/4",
-   "dacono/5",
-   "dacono/9",
-   "weld-county/0"
+   "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
+   "weld-county/5",
+   "weld-county/9",
+   "weld-county/10",
+   "weld-county/1",
+   "weld-county/2"
   ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "dacono/0"
-    ],
-    "site": false
-   }
-  }
+  "tagged": {}
  },
  "80515": {
   "governments": [
@@ -5590,24 +5516,24 @@
   ],
   "issues": [
    "erie/1",
-   "erie/4",
-   "erie/6",
+   "erie/3",
+   "erie/10",
    "erie/9",
+   "boulder-county/0",
+   "erie/8",
    "weld-county/0",
-   "boulder-county/1",
-   "weld-county/5",
-   "weld-county/9"
+   "weld-county/3"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "boulder-county/0"
+     "boulder-county/1"
     ],
     "site": false
    },
    "guns": {
     "ids": [
-     "boulder-county/4"
+     "boulder-county/3"
     ],
     "site": false
    }
@@ -5653,13 +5579,13 @@
   ],
   "issues": [
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
    "weld-county/5",
    "weld-county/9",
-   "weld-county/7",
-   "weld-county/8",
+   "weld-county/10",
    "weld-county/1",
-   "weld-county/3",
-   "weld-county/12"
+   "weld-county/2"
   ],
   "tagged": {}
  },
@@ -5678,13 +5604,13 @@
   ],
   "issues": [
    "fort-collins/3",
-   "fort-collins/8",
    "fort-collins/4",
-   "fort-collins/13",
    "fort-collins/0",
-   "fort-collins/10",
-   "fort-collins/12",
-   "fort-collins/6"
+   "fort-collins/8",
+   "fort-collins/9",
+   "fort-collins/11",
+   "fort-collins/7",
+   "fort-collins/12"
   ],
   "tagged": {}
  },
@@ -5708,13 +5634,13 @@
   ],
   "issues": [
    "fort-collins/3",
-   "fort-collins/8",
    "fort-collins/4",
-   "fort-collins/13",
    "weld-county/0",
-   "weld-county/5",
-   "weld-county/9",
-   "fort-collins/0"
+   "weld-county/3",
+   "weld-county/7",
+   "fort-collins/0",
+   "fort-collins/8",
+   "fort-collins/9"
   ],
   "tagged": {}
  },
@@ -5733,13 +5659,13 @@
   ],
   "issues": [
    "fort-collins/3",
-   "fort-collins/8",
    "fort-collins/4",
-   "fort-collins/13",
    "fort-collins/0",
-   "fort-collins/10",
-   "fort-collins/12",
-   "fort-collins/6"
+   "fort-collins/8",
+   "fort-collins/9",
+   "fort-collins/11",
+   "fort-collins/7",
+   "fort-collins/12"
   ],
   "tagged": {}
  },
@@ -5758,13 +5684,13 @@
   ],
   "issues": [
    "fort-collins/3",
-   "fort-collins/8",
    "fort-collins/4",
-   "fort-collins/13",
    "fort-collins/0",
-   "fort-collins/10",
-   "fort-collins/12",
-   "fort-collins/6"
+   "fort-collins/8",
+   "fort-collins/9",
+   "fort-collins/11",
+   "fort-collins/7",
+   "fort-collins/12"
   ],
   "tagged": {}
  },
@@ -5788,18 +5714,24 @@
   ],
   "issues": [
    "fort-collins/3",
-   "fort-collins/8",
    "fort-collins/4",
-   "fort-collins/13",
+   "windsor/1",
    "fort-collins/0",
-   "fort-collins/10",
-   "fort-collins/12",
-   "windsor/1"
+   "fort-collins/8",
+   "fort-collins/9",
+   "fort-collins/11",
+   "windsor/3"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "windsor/3"
+     "windsor/4"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "windsor/9"
     ],
     "site": false
    }
@@ -5820,13 +5752,13 @@
   ],
   "issues": [
    "frederick/0",
+   "frederick/2",
    "frederick/3",
    "frederick/5",
-   "weld-county/0",
-   "frederick/2",
+   "frederick/9",
+   "frederick/4",
    "frederick/6",
-   "frederick/10",
-   "weld-county/5"
+   "weld-county/0"
   ],
   "tagged": {}
  },
@@ -5860,19 +5792,19 @@
    }
   ],
   "issues": [
-   "johnstown/3",
+   "johnstown/5",
+   "johnstown/6",
    "johnstown/0",
-   "johnstown/7",
-   "weld-county/0",
+   "johnstown/1",
    "johnstown/9",
-   "johnstown/11",
-   "weld-county/5",
-   "weld-county/9"
+   "johnstown/10",
+   "weld-county/0",
+   "weld-county/3"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "johnstown/2"
+     "johnstown/3"
     ],
     "site": false
    }
@@ -5920,13 +5852,13 @@
   ],
   "issues": [
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
    "weld-county/5",
    "weld-county/9",
-   "weld-county/7",
-   "weld-county/8",
+   "weld-county/10",
    "weld-county/1",
-   "weld-county/3",
-   "weld-county/12"
+   "weld-county/2"
   ],
   "tagged": {}
  },
@@ -5951,7 +5883,7 @@
    {
     "name": "Lyons",
     "share": 0.464,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Larimer County",
@@ -5965,25 +5897,25 @@
    }
   ],
   "issues": [
-   "lyons/0",
-   "lyons/2",
-   "lyons/6",
-   "lyons/1",
-   "lyons/7",
-   "lyons/8",
-   "boulder-county/1",
-   "lyons/3"
+   "boulder-county/0",
+   "boulder-county/6",
+   "boulder-county/11",
+   "boulder-county/2",
+   "boulder-county/4",
+   "boulder-county/5",
+   "boulder-county/7",
+   "boulder-county/12"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "boulder-county/0"
+     "boulder-county/1"
     ],
     "site": false
    },
    "guns": {
     "ids": [
-     "boulder-county/4"
+     "boulder-county/3"
     ],
     "site": false
    }
@@ -6004,18 +5936,18 @@
   ],
   "issues": [
    "mead/3",
+   "mead/0",
+   "mead/2",
+   "mead/8",
    "weld-county/0",
-   "mead/1",
-   "mead/10",
-   "weld-county/5",
-   "weld-county/9",
+   "weld-county/3",
    "weld-county/7",
-   "weld-county/8"
+   "weld-county/5"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "mead/2"
+     "mead/1"
     ],
     "site": false
    }
@@ -6037,12 +5969,12 @@
   "issues": [
    "milliken/0",
    "milliken/2",
-   "milliken/3",
-   "milliken/6",
-   "weld-county/0",
-   "milliken/9",
+   "milliken/4",
    "milliken/10",
-   "weld-county/5"
+   "milliken/1",
+   "milliken/13",
+   "weld-county/0",
+   "weld-county/3"
   ],
   "tagged": {}
  },
@@ -6055,25 +5987,25 @@
    }
   ],
   "issues": [
-   "boulder-county/1",
-   "boulder-county/5",
-   "boulder-county/10",
+   "boulder-county/0",
+   "boulder-county/6",
    "boulder-county/11",
-   "boulder-county/12",
    "boulder-county/2",
-   "boulder-county/3",
-   "boulder-county/6"
+   "boulder-county/4",
+   "boulder-county/5",
+   "boulder-county/7",
+   "boulder-county/12"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "boulder-county/0"
+     "boulder-county/1"
     ],
     "site": false
    },
    "guns": {
     "ids": [
-     "boulder-county/4"
+     "boulder-county/3"
     ],
     "site": false
    }
@@ -6104,14 +6036,14 @@
    }
   ],
   "issues": [
-   "weld-county/0",
-   "severance/1",
-   "severance/4",
+   "severance/3",
    "severance/5",
-   "weld-county/5",
-   "weld-county/9",
+   "severance/7",
+   "severance/9",
+   "weld-county/0",
+   "weld-county/3",
    "weld-county/7",
-   "weld-county/8"
+   "severance/4"
   ],
   "tagged": {}
  },
@@ -6129,14 +6061,12 @@
    }
   ],
   "issues": [
-   "timnath/1",
    "timnath/0",
+   "timnath/1",
    "timnath/2",
-   "timnath/5",
-   "timnath/3",
    "timnath/4",
-   "timnath/6",
-   "timnath/7"
+   "timnath/3",
+   "timnath/5"
   ],
   "tagged": {}
  },
@@ -6162,11 +6092,11 @@
    "wellington/1",
    "wellington/0",
    "wellington/7",
-   "weld-county/0",
    "wellington/6",
    "wellington/8",
-   "weld-county/5",
-   "weld-county/9"
+   "weld-county/0",
+   "weld-county/3",
+   "weld-county/7"
   ],
   "tagged": {}
  },
@@ -6196,17 +6126,23 @@
   "issues": [
    "windsor/1",
    "windsor/3",
+   "windsor/5",
+   "windsor/4",
+   "windsor/6",
    "weld-county/0",
-   "windsor/0",
-   "windsor/2",
-   "windsor/7",
-   "windsor/10",
-   "weld-county/5"
+   "weld-county/3",
+   "weld-county/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "windsor/3"
+     "windsor/4"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "windsor/9"
     ],
     "site": false
    }
@@ -6226,19 +6162,25 @@
    }
   ],
   "issues": [
-   "brighton/2",
-   "brighton/5",
-   "adams-county/0",
    "brighton/3",
    "brighton/4",
+   "brighton/8",
+   "adams-county/0",
+   "brighton/2",
+   "brighton/5",
    "adams-county/3",
-   "adams-county/9",
    "brighton/0"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "brighton/0"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -6260,17 +6202,23 @@
   "issues": [
    "adams-county/0",
    "thornton/4",
-   "thornton/7",
+   "thornton/12",
    "adams-county/3",
-   "adams-county/9",
-   "adams-county/2",
+   "adams-county/4",
    "thornton/6",
-   "thornton/10"
+   "thornton/8",
+   "adams-county/1"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "thornton/0"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -6305,20 +6253,26 @@
    }
   ],
   "issues": [
-   "commerce-city/4",
-   "commerce-city/2",
    "adams-county/0",
-   "weld-county/0",
-   "adams-county/3",
-   "adams-county/9",
    "commerce-city/0",
-   "weld-county/5"
+   "commerce-city/3",
+   "commerce-city/2",
+   "adams-county/3",
+   "weld-county/0",
+   "weld-county/3",
+   "weld-county/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "commerce-city/0",
      "brighton/0"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -6344,13 +6298,13 @@
   ],
   "issues": [
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
    "weld-county/5",
    "weld-county/9",
-   "weld-county/7",
-   "weld-county/8",
+   "weld-county/10",
    "weld-county/1",
-   "weld-county/3",
-   "weld-county/12"
+   "weld-county/2"
   ],
   "tagged": {}
  },
@@ -6364,13 +6318,13 @@
   ],
   "issues": [
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
    "weld-county/5",
    "weld-county/9",
-   "weld-county/7",
-   "weld-county/8",
+   "weld-county/10",
    "weld-county/1",
-   "weld-county/3",
-   "weld-county/12"
+   "weld-county/2"
   ],
   "tagged": {}
  },
@@ -6389,13 +6343,13 @@
   ],
   "issues": [
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
    "weld-county/5",
    "weld-county/9",
-   "weld-county/7",
-   "weld-county/8",
+   "weld-county/10",
    "weld-county/1",
-   "weld-county/3",
-   "weld-county/12"
+   "weld-county/2"
   ],
   "tagged": {}
  },
@@ -6419,13 +6373,13 @@
   ],
   "issues": [
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
    "weld-county/5",
    "weld-county/9",
-   "weld-county/7",
-   "weld-county/8",
+   "weld-county/10",
    "weld-county/1",
-   "weld-county/3",
-   "weld-county/12"
+   "weld-county/2"
   ],
   "tagged": {}
  },
@@ -6444,13 +6398,13 @@
   ],
   "issues": [
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
    "weld-county/5",
    "weld-county/9",
-   "weld-county/7",
-   "weld-county/8",
+   "weld-county/10",
    "weld-county/1",
-   "weld-county/3",
-   "weld-county/12"
+   "weld-county/2"
   ],
   "tagged": {}
  },
@@ -6468,19 +6422,19 @@
    }
   ],
   "issues": [
+   "fort-lupton/0",
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
    "weld-county/5",
    "weld-county/9",
-   "fort-lupton/1",
-   "fort-lupton/5",
-   "fort-lupton/10",
-   "weld-county/7",
-   "weld-county/8"
+   "weld-county/10",
+   "fort-lupton/2"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "fort-lupton/0"
+     "fort-lupton/12"
     ],
     "site": false
    }
@@ -6496,13 +6450,13 @@
   ],
   "issues": [
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
    "weld-county/5",
    "weld-county/9",
-   "weld-county/7",
-   "weld-county/8",
+   "weld-county/10",
    "weld-county/1",
-   "weld-county/3",
-   "weld-county/12"
+   "weld-county/2"
   ],
   "tagged": {}
  },
@@ -6521,13 +6475,13 @@
   ],
   "issues": [
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
    "weld-county/5",
    "weld-county/9",
-   "weld-county/7",
-   "weld-county/8",
+   "weld-county/10",
    "weld-county/1",
-   "weld-county/3",
-   "weld-county/12"
+   "weld-county/2"
   ],
   "tagged": {}
  },
@@ -6541,13 +6495,13 @@
   ],
   "issues": [
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
    "weld-county/5",
    "weld-county/9",
-   "weld-county/7",
-   "weld-county/8",
+   "weld-county/10",
    "weld-county/1",
-   "weld-county/3",
-   "weld-county/12"
+   "weld-county/2"
   ],
   "tagged": {}
  },
@@ -6565,19 +6519,18 @@
    }
   ],
   "issues": [
-   "greeley/3",
+   "greeley/1",
    "greeley/0",
    "greeley/7",
-   "greeley/1",
-   "greeley/5",
+   "greeley/8",
+   "greeley/6",
    "greeley/9",
-   "greeley/11",
-   "greeley/4"
+   "greeley/2",
+   "greeley/10"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "greeley/1",
      "greeley/2"
     ],
     "site": false
@@ -6603,19 +6556,18 @@
    }
   ],
   "issues": [
-   "greeley/3",
+   "greeley/1",
    "greeley/0",
    "greeley/7",
-   "greeley/1",
-   "greeley/5",
+   "greeley/8",
+   "greeley/6",
    "greeley/9",
-   "greeley/11",
-   "greeley/4"
+   "greeley/2",
+   "greeley/10"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "greeley/1",
      "greeley/2"
     ],
     "site": false
@@ -6641,20 +6593,26 @@
    }
   ],
   "issues": [
-   "commerce-city/4",
-   "commerce-city/2",
    "commerce-city/0",
+   "commerce-city/3",
+   "commerce-city/2",
    "adams-county/0",
-   "commerce-city/5",
-   "adams-county/3",
-   "adams-county/9",
-   "commerce-city/6"
+   "commerce-city/4",
+   "commerce-city/9",
+   "commerce-city/1",
+   "adams-county/3"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "commerce-city/0",
      "brighton/0"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -6686,14 +6644,21 @@
   "issues": [
    "hudson/0",
    "hudson/1",
-   "hudson/9",
    "adams-county/0",
-   "weld-county/0",
+   "hudson/7",
    "hudson/2",
-   "hudson/3",
-   "weld-county/5"
+   "hudson/4",
+   "weld-county/0",
+   "weld-county/3"
   ],
-  "tagged": {}
+  "tagged": {
+   "guns": {
+    "ids": [
+     "adams-county/9"
+    ],
+    "site": false
+   }
+  }
  },
  "80643": {
   "governments": [
@@ -6715,15 +6680,22 @@
   ],
   "issues": [
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
+   "adams-county/0",
    "weld-county/5",
    "weld-county/9",
-   "weld-county/7",
-   "weld-county/8",
-   "adams-county/0",
-   "weld-county/1",
-   "weld-county/3"
+   "weld-county/10",
+   "weld-county/1"
   ],
-  "tagged": {}
+  "tagged": {
+   "guns": {
+    "ids": [
+     "adams-county/9"
+    ],
+    "site": false
+   }
+  }
  },
  "80644": {
   "governments": [
@@ -6740,13 +6712,13 @@
   ],
   "issues": [
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
    "weld-county/5",
    "weld-county/9",
-   "weld-county/7",
-   "weld-county/8",
+   "weld-county/10",
    "weld-county/1",
-   "weld-county/3",
-   "weld-county/12"
+   "weld-county/2"
   ],
   "tagged": {}
  },
@@ -6765,13 +6737,13 @@
   ],
   "issues": [
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
    "weld-county/5",
    "weld-county/9",
-   "weld-county/7",
-   "weld-county/8",
+   "weld-county/10",
    "weld-county/1",
-   "weld-county/3",
-   "weld-county/12"
+   "weld-county/2"
   ],
   "tagged": {}
  },
@@ -6785,13 +6757,13 @@
   ],
   "issues": [
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
    "weld-county/5",
    "weld-county/9",
-   "weld-county/7",
-   "weld-county/8",
+   "weld-county/10",
    "weld-county/1",
-   "weld-county/3",
-   "weld-county/12"
+   "weld-county/2"
   ],
   "tagged": {}
  },
@@ -6809,14 +6781,14 @@
    }
   ],
   "issues": [
+   "nunn/5",
+   "nunn/3",
+   "nunn/7",
    "nunn/0",
-   "nunn/1",
-   "nunn/6",
+   "nunn/2",
    "nunn/4",
    "weld-county/0",
-   "weld-county/5",
-   "weld-county/9",
-   "nunn/2"
+   "weld-county/3"
   ],
   "tagged": {}
  },
@@ -6835,13 +6807,13 @@
   ],
   "issues": [
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
    "weld-county/5",
    "weld-county/9",
-   "weld-county/7",
-   "weld-county/8",
+   "weld-county/10",
    "weld-county/1",
-   "weld-county/3",
-   "weld-county/12"
+   "weld-county/2"
   ],
   "tagged": {
    "data-center": {
@@ -6867,13 +6839,13 @@
   ],
   "issues": [
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
    "weld-county/5",
    "weld-county/9",
-   "weld-county/7",
-   "weld-county/8",
+   "weld-county/10",
    "weld-county/1",
-   "weld-county/3",
-   "weld-county/12"
+   "weld-county/2"
   ],
   "tagged": {}
  },
@@ -6902,18 +6874,18 @@
   ],
   "issues": [
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
    "weld-county/5",
    "weld-county/9",
-   "weld-county/7",
-   "weld-county/8",
+   "weld-county/10",
    "weld-county/1",
-   "weld-county/3",
-   "weld-county/12"
+   "weld-county/2"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "mead/2"
+     "mead/1"
     ],
     "site": false
    }
@@ -6929,13 +6901,13 @@
   ],
   "issues": [
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
    "weld-county/5",
    "weld-county/9",
-   "weld-county/7",
-   "weld-county/8",
+   "weld-county/10",
    "weld-county/1",
-   "weld-county/3",
-   "weld-county/12"
+   "weld-county/2"
   ],
   "tagged": {}
  },
@@ -6948,14 +6920,14 @@
    }
   ],
   "issues": [
-   "morgan-county/0",
-   "morgan-county/4",
    "morgan-county/5",
-   "morgan-county/7",
-   "morgan-county/1",
+   "morgan-county/0",
    "morgan-county/2",
    "morgan-county/3",
-   "morgan-county/6"
+   "morgan-county/6",
+   "morgan-county/1",
+   "morgan-county/4",
+   "morgan-county/7"
   ],
   "tagged": {
    "data-center": {
@@ -6991,18 +6963,24 @@
   ],
   "issues": [
    "adams-county/0",
+   "morgan-county/5",
    "weld-county/0",
-   "weld-county/5",
-   "weld-county/9",
-   "adams-county/3",
-   "adams-county/9",
+   "weld-county/3",
    "weld-county/7",
-   "weld-county/8"
+   "morgan-county/0",
+   "adams-county/3",
+   "weld-county/5"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "morgan-county/0"
+    ],
+    "site": false
+   },
+   "guns": {
+    "ids": [
+     "adams-county/9"
     ],
     "site": false
    }
@@ -7013,7 +6991,7 @@
    {
     "name": "Fort Morgan",
     "share": 0.716,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Morgan County",
@@ -7027,14 +7005,14 @@
    }
   ],
   "issues": [
-   "fort-morgan/2",
-   "fort-morgan/4",
-   "fort-morgan/8",
-   "fort-morgan/0",
-   "fort-morgan/1",
-   "fort-morgan/3",
-   "fort-morgan/6",
-   "fort-morgan/9"
+   "morgan-county/5",
+   "morgan-county/0",
+   "morgan-county/2",
+   "morgan-county/3",
+   "morgan-county/6",
+   "morgan-county/1",
+   "morgan-county/4",
+   "morgan-county/7"
   ],
   "tagged": {
    "data-center": {
@@ -7059,14 +7037,14 @@
    }
   ],
   "issues": [
-   "morgan-county/0",
-   "morgan-county/4",
    "morgan-county/5",
-   "morgan-county/7",
-   "morgan-county/1",
+   "morgan-county/0",
    "morgan-county/2",
    "morgan-county/3",
-   "morgan-county/6"
+   "morgan-county/6",
+   "morgan-county/1",
+   "morgan-county/4",
+   "morgan-county/7"
   ],
   "tagged": {
    "data-center": {
@@ -7092,13 +7070,13 @@
   ],
   "issues": [
    "washington-county/2",
+   "washington-county/1",
    "washington-county/6",
-   "washington-county/3",
-   "washington-county/4",
    "akron/0",
-   "akron/3",
+   "washington-county/3",
+   "akron/1",
    "washington-county/0",
-   "washington-county/10"
+   "washington-county/5"
   ],
   "tagged": {}
  },
@@ -7117,7 +7095,7 @@
    "phillips-county/4",
    "phillips-county/5",
    "phillips-county/6",
-   "phillips-county/9",
+   "phillips-county/7",
    "phillips-county/0"
   ],
   "tagged": {
@@ -7138,14 +7116,14 @@
    }
   ],
   "issues": [
-   "logan-county/9",
-   "logan-county/0",
-   "logan-county/5",
-   "logan-county/2",
-   "logan-county/3",
+   "logan-county/7",
    "logan-county/8",
-   "logan-county/11",
-   "logan-county/1"
+   "logan-county/0",
+   "logan-county/3",
+   "logan-county/4",
+   "logan-county/5",
+   "logan-county/12",
+   "logan-county/2"
   ],
   "tagged": {}
  },
@@ -7169,13 +7147,13 @@
   ],
   "issues": [
    "washington-county/2",
+   "washington-county/1",
    "washington-county/6",
-   "washington-county/3",
-   "washington-county/4",
-   "morgan-county/0",
-   "morgan-county/4",
    "morgan-county/5",
-   "morgan-county/7"
+   "washington-county/3",
+   "morgan-county/0",
+   "morgan-county/2",
+   "morgan-county/3"
   ],
   "tagged": {
    "data-center": {
@@ -7200,14 +7178,14 @@
    }
   ],
   "issues": [
-   "logan-county/9",
-   "logan-county/0",
-   "logan-county/5",
-   "logan-county/2",
-   "logan-county/3",
+   "logan-county/7",
    "logan-county/8",
-   "logan-county/11",
-   "logan-county/1"
+   "logan-county/0",
+   "logan-county/3",
+   "logan-county/4",
+   "logan-county/5",
+   "logan-county/12",
+   "logan-county/2"
   ],
   "tagged": {}
  },
@@ -7257,14 +7235,14 @@
    }
   ],
   "issues": [
-   "logan-county/9",
-   "logan-county/0",
-   "logan-county/5",
-   "logan-county/2",
-   "logan-county/3",
+   "logan-county/7",
    "logan-county/8",
-   "logan-county/11",
-   "logan-county/1"
+   "logan-county/0",
+   "logan-county/3",
+   "logan-county/4",
+   "logan-county/5",
+   "logan-county/12",
+   "logan-county/2"
   ],
   "tagged": {}
  },
@@ -7283,13 +7261,13 @@
   ],
   "issues": [
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
    "weld-county/5",
    "weld-county/9",
-   "weld-county/7",
-   "weld-county/8",
+   "weld-county/10",
    "weld-county/1",
-   "weld-county/3",
-   "weld-county/12"
+   "weld-county/2"
   ],
   "tagged": {}
  },
@@ -7323,13 +7301,13 @@
   ],
   "issues": [
    "phillips-county/1",
+   "logan-county/7",
    "yuma-county/1",
    "yuma-county/2",
    "yuma-county/4",
-   "logan-county/9",
+   "logan-county/8",
    "yuma-county/3",
-   "logan-county/0",
-   "logan-county/5"
+   "phillips-county/2"
   ],
   "tagged": {
    "data-center": {
@@ -7351,13 +7329,13 @@
   ],
   "issues": [
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
    "weld-county/5",
    "weld-county/9",
-   "weld-county/7",
-   "weld-county/8",
+   "weld-county/10",
    "weld-county/1",
-   "weld-county/3",
-   "weld-county/12"
+   "weld-county/2"
   ],
   "tagged": {}
  },
@@ -7381,13 +7359,13 @@
   ],
   "issues": [
    "washington-county/2",
+   "washington-county/1",
    "washington-county/6",
    "washington-county/3",
-   "washington-county/4",
+   "morgan-county/5",
    "washington-county/0",
-   "washington-county/10",
-   "morgan-county/0",
-   "morgan-county/4"
+   "washington-county/5",
+   "washington-county/9"
   ],
   "tagged": {
    "data-center": {
@@ -7477,14 +7455,14 @@
    }
   ],
   "issues": [
-   "logan-county/9",
-   "logan-county/0",
-   "logan-county/5",
-   "logan-county/2",
-   "logan-county/3",
+   "logan-county/7",
    "logan-county/8",
-   "logan-county/11",
-   "logan-county/1"
+   "logan-county/0",
+   "logan-county/3",
+   "logan-county/4",
+   "logan-county/5",
+   "logan-county/12",
+   "logan-county/2"
   ],
   "tagged": {}
  },
@@ -7514,12 +7492,12 @@
   ],
   "issues": [
    "washington-county/2",
+   "washington-county/1",
    "washington-county/6",
    "washington-county/3",
-   "washington-county/4",
    "washington-county/0",
-   "washington-county/10",
    "washington-county/5",
+   "washington-county/9",
    "washington-county/7"
   ],
   "tagged": {}
@@ -7548,14 +7526,14 @@
    }
   ],
   "issues": [
-   "logan-county/9",
+   "logan-county/7",
+   "logan-county/8",
    "washington-county/2",
+   "washington-county/1",
    "washington-county/6",
-   "logan-county/0",
-   "logan-county/5",
    "washington-county/3",
-   "washington-county/4",
-   "logan-county/2"
+   "logan-county/0",
+   "logan-county/3"
   ],
   "tagged": {
    "data-center": {
@@ -7586,13 +7564,13 @@
   ],
   "issues": [
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
    "weld-county/5",
    "weld-county/9",
-   "weld-county/7",
-   "weld-county/8",
+   "weld-county/10",
    "weld-county/1",
-   "weld-county/3",
-   "weld-county/12"
+   "weld-county/2"
   ],
   "tagged": {
    "data-center": {
@@ -7618,12 +7596,12 @@
   ],
   "issues": [
    "washington-county/2",
+   "washington-county/1",
    "washington-county/6",
    "washington-county/3",
-   "washington-county/4",
    "washington-county/0",
-   "washington-county/10",
    "washington-county/5",
+   "washington-county/9",
    "washington-county/7"
   ],
   "tagged": {}
@@ -7653,14 +7631,14 @@
    }
   ],
   "issues": [
-   "logan-county/9",
-   "logan-county/0",
-   "logan-county/5",
-   "logan-county/2",
-   "logan-county/3",
+   "logan-county/7",
    "logan-county/8",
-   "logan-county/11",
-   "logan-county/1"
+   "logan-county/0",
+   "logan-county/3",
+   "logan-county/4",
+   "logan-county/5",
+   "logan-county/12",
+   "logan-county/2"
   ],
   "tagged": {}
  },
@@ -7684,7 +7662,7 @@
    "phillips-county/4",
    "phillips-county/5",
    "phillips-county/6",
-   "phillips-county/9",
+   "phillips-county/7",
    "phillips-county/0"
   ],
   "tagged": {
@@ -7710,14 +7688,14 @@
    }
   ],
   "issues": [
-   "logan-county/9",
-   "logan-county/0",
-   "logan-county/5",
-   "logan-county/2",
-   "logan-county/3",
+   "logan-county/7",
    "logan-county/8",
-   "logan-county/11",
-   "logan-county/1"
+   "logan-county/0",
+   "logan-county/3",
+   "logan-county/4",
+   "logan-county/5",
+   "logan-county/12",
+   "logan-county/2"
   ],
   "tagged": {}
  },
@@ -7746,14 +7724,14 @@
    }
   ],
   "issues": [
-   "morgan-county/0",
-   "morgan-county/4",
    "morgan-county/5",
-   "morgan-county/7",
-   "morgan-county/1",
+   "morgan-county/0",
    "morgan-county/2",
    "morgan-county/3",
-   "morgan-county/6"
+   "morgan-county/6",
+   "morgan-county/1",
+   "morgan-county/4",
+   "morgan-county/7"
   ],
   "tagged": {
    "data-center": {
@@ -7778,14 +7756,14 @@
    }
   ],
   "issues": [
-   "sterling/1",
-   "sterling/0",
+   "sterling/5",
    "sterling/4",
-   "sterling/8",
-   "sterling/7",
-   "sterling/11",
-   "logan-county/9",
-   "sterling/2"
+   "logan-county/7",
+   "sterling/1",
+   "sterling/2",
+   "logan-county/8",
+   "sterling/0",
+   "sterling/10"
   ],
   "tagged": {}
  },
@@ -7799,13 +7777,13 @@
   ],
   "issues": [
    "weld-county/0",
+   "weld-county/3",
+   "weld-county/7",
    "weld-county/5",
    "weld-county/9",
-   "weld-county/7",
-   "weld-county/8",
+   "weld-county/10",
    "weld-county/1",
-   "weld-county/3",
-   "weld-county/12"
+   "weld-county/2"
   ],
   "tagged": {}
  },
@@ -7846,12 +7824,12 @@
   ],
   "issues": [
    "washington-county/2",
+   "washington-county/1",
    "washington-county/6",
    "washington-county/3",
-   "washington-county/4",
    "washington-county/0",
-   "washington-county/10",
    "washington-county/5",
+   "washington-county/9",
    "washington-county/7"
   ],
   "tagged": {}
@@ -7861,7 +7839,7 @@
    {
     "name": "Wray",
     "share": 0.623,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Yuma County",
@@ -7873,11 +7851,11 @@
    "yuma-county/1",
    "yuma-county/2",
    "yuma-county/4",
-   "wray/4",
-   "wray/7",
    "yuma-county/3",
-   "wray/0",
-   "wray/2"
+   "yuma-county/6",
+   "yuma-county/7",
+   "yuma-county/8",
+   "yuma-county/9"
   ],
   "tagged": {
    "data-center": {
@@ -7911,10 +7889,10 @@
    "yuma-county/2",
    "yuma-county/4",
    "yuma/1",
-   "yuma-county/3",
    "washington-county/2",
-   "washington-county/6",
-   "washington-county/3"
+   "yuma-county/3",
+   "washington-county/1",
+   "washington-county/6"
   ],
   "tagged": {
    "data-center": {
@@ -7935,12 +7913,12 @@
   ],
   "issues": [
    "washington-county/2",
+   "washington-county/1",
    "washington-county/6",
    "washington-county/3",
-   "washington-county/4",
    "washington-county/0",
-   "washington-county/10",
    "washington-county/5",
+   "washington-county/9",
    "washington-county/7"
   ],
   "tagged": {}
@@ -7995,13 +7973,14 @@
    }
   ],
   "issues": [
+   "kit-carson-county/6",
+   "kit-carson-county/7",
    "kit-carson-county/0",
    "kit-carson-county/1",
    "kit-carson-county/2",
    "kit-carson-county/3",
    "kit-carson-county/4",
-   "kit-carson-county/5",
-   "kit-carson-county/6"
+   "kit-carson-county/5"
   ],
   "tagged": {}
  },
@@ -8010,7 +7989,7 @@
    {
     "name": "Burlington",
     "share": 0.75,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Kit Carson County",
@@ -8028,10 +8007,10 @@
    "yuma-county/2",
    "yuma-county/4",
    "yuma-county/3",
+   "kit-carson-county/6",
+   "kit-carson-county/7",
    "yuma-county/6",
-   "burlington/0",
-   "burlington/1",
-   "burlington/2"
+   "yuma-county/7"
   ],
   "tagged": {
    "data-center": {
@@ -8061,13 +8040,13 @@
    }
   ],
   "issues": [
-   "el-paso-county/0",
-   "el-paso-county/6",
-   "el-paso-county/1",
    "el-paso-county/2",
-   "el-paso-county/3",
    "el-paso-county/4",
+   "el-paso-county/0",
+   "el-paso-county/1",
+   "el-paso-county/3",
    "el-paso-county/5",
+   "el-paso-county/6",
    "el-paso-county/7"
   ],
   "tagged": {}
@@ -8081,13 +8060,13 @@
    }
   ],
   "issues": [
-   "el-paso-county/0",
-   "el-paso-county/6",
-   "el-paso-county/1",
    "el-paso-county/2",
-   "el-paso-county/3",
    "el-paso-county/4",
+   "el-paso-county/0",
+   "el-paso-county/1",
+   "el-paso-county/3",
    "el-paso-county/5",
+   "el-paso-county/6",
    "el-paso-county/7"
   ],
   "tagged": {}
@@ -8123,13 +8102,13 @@
   ],
   "issues": [
    "washington-county/2",
+   "washington-county/1",
    "washington-county/6",
    "washington-county/3",
-   "washington-county/4",
    "washington-county/0",
-   "washington-county/10",
-   "yuma-county/1",
-   "yuma-county/2"
+   "washington-county/5",
+   "washington-county/9",
+   "yuma-county/1"
   ],
   "tagged": {
    "data-center": {
@@ -8159,14 +8138,14 @@
    }
   ],
   "issues": [
-   "teller-county/4",
+   "teller-county/3",
    "teller-county/5",
    "teller-county/0",
    "teller-county/1",
    "teller-county/8",
    "teller-county/2",
-   "teller-county/3",
-   "teller-county/6"
+   "teller-county/7",
+   "teller-county/4"
   ],
   "tagged": {}
  },
@@ -8179,14 +8158,14 @@
    }
   ],
   "issues": [
-   "teller-county/4",
+   "teller-county/3",
    "teller-county/5",
    "teller-county/0",
    "teller-county/1",
    "teller-county/8",
    "teller-county/2",
-   "teller-county/3",
-   "teller-county/6"
+   "teller-county/7",
+   "teller-county/4"
   ],
   "tagged": {}
  },
@@ -8210,13 +8189,13 @@
   ],
   "issues": [
    "washington-county/2",
+   "washington-county/1",
    "washington-county/6",
    "washington-county/3",
-   "washington-county/4",
    "washington-county/0",
-   "washington-county/10",
    "washington-county/5",
-   "washington-county/7"
+   "washington-county/9",
+   "kit-carson-county/6"
   ],
   "tagged": {}
  },
@@ -8230,18 +8209,18 @@
    {
     "name": "Park County",
     "share": 0.07,
-    "has_records": true
+    "has_records": false
    }
   ],
   "issues": [
-   "teller-county/4",
-   "park-county/1",
+   "teller-county/3",
    "teller-county/5",
    "teller-county/0",
-   "park-county/2",
-   "park-county/4",
-   "park-county/7",
-   "park-county/5"
+   "teller-county/1",
+   "teller-county/8",
+   "teller-county/2",
+   "teller-county/7",
+   "teller-county/4"
   ],
   "tagged": {}
  },
@@ -8259,13 +8238,13 @@
    }
   ],
   "issues": [
-   "el-paso-county/0",
-   "el-paso-county/6",
-   "el-paso-county/1",
    "el-paso-county/2",
-   "el-paso-county/3",
    "el-paso-county/4",
+   "el-paso-county/0",
+   "el-paso-county/1",
+   "el-paso-county/3",
    "el-paso-county/5",
+   "el-paso-county/6",
    "el-paso-county/7"
   ],
   "tagged": {}
@@ -8290,12 +8269,12 @@
   ],
   "issues": [
    "washington-county/2",
+   "washington-county/1",
    "washington-county/6",
    "washington-county/3",
-   "washington-county/4",
    "washington-county/0",
-   "washington-county/10",
    "washington-county/5",
+   "washington-county/9",
    "washington-county/7"
   ],
   "tagged": {}
@@ -8322,10 +8301,10 @@
    "green-mountain-falls/5",
    "green-mountain-falls/3",
    "green-mountain-falls/0",
-   "green-mountain-falls/1",
-   "green-mountain-falls/7",
-   "green-mountain-falls/10",
    "green-mountain-falls/2",
+   "green-mountain-falls/7",
+   "green-mountain-falls/11",
+   "green-mountain-falls/1",
    "green-mountain-falls/6"
   ],
   "tagged": {}
@@ -8335,19 +8314,10 @@
    {
     "name": "Park County",
     "share": 1.0,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "park-county/1",
-   "park-county/2",
-   "park-county/4",
-   "park-county/7",
-   "park-county/5",
-   "park-county/3",
-   "park-county/10",
-   "park-county/11"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "80821": {
@@ -8365,13 +8335,13 @@
   ],
   "issues": [
    "hugo/0",
-   "hugo/5",
    "hugo/7",
    "hugo/1",
-   "hugo/9",
+   "hugo/8",
+   "hugo/10",
    "hugo/2",
-   "hugo/12",
-   "hugo/3"
+   "hugo/3",
+   "hugo/4"
   ],
   "tagged": {}
  },
@@ -8472,7 +8442,7 @@
    {
     "name": "Park County",
     "share": 0.628,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Teller County",
@@ -8481,14 +8451,14 @@
    }
   ],
   "issues": [
-   "park-county/1",
-   "teller-county/4",
-   "park-county/2",
-   "park-county/4",
-   "park-county/7",
-   "park-county/5",
-   "park-county/3",
-   "park-county/10"
+   "teller-county/3",
+   "teller-county/5",
+   "teller-county/0",
+   "teller-county/1",
+   "teller-county/8",
+   "teller-county/2",
+   "teller-county/7",
+   "teller-county/4"
   ],
   "tagged": {}
  },
@@ -8515,10 +8485,10 @@
    "limon/1",
    "limon/2",
    "limon/3",
+   "limon/4",
+   "limon/5",
    "limon/6",
-   "limon/7",
-   "limon/8",
-   "limon/4"
+   "limon/7"
   ],
   "tagged": {}
  },
@@ -8536,13 +8506,13 @@
    }
   ],
   "issues": [
-   "el-paso-county/0",
-   "el-paso-county/6",
-   "el-paso-county/1",
    "el-paso-county/2",
-   "el-paso-county/3",
    "el-paso-county/4",
+   "el-paso-county/0",
+   "el-paso-county/1",
+   "el-paso-county/3",
    "el-paso-county/5",
+   "el-paso-county/6",
    "el-paso-county/7"
   ],
   "tagged": {}
@@ -8567,13 +8537,13 @@
    }
   ],
   "issues": [
-   "el-paso-county/0",
-   "el-paso-county/6",
-   "el-paso-county/1",
    "el-paso-county/2",
-   "el-paso-county/3",
    "el-paso-county/4",
+   "el-paso-county/0",
+   "el-paso-county/1",
+   "el-paso-county/3",
    "el-paso-county/5",
+   "el-paso-county/6",
    "el-paso-county/7"
   ],
   "tagged": {}
@@ -8602,13 +8572,13 @@
    }
   ],
   "issues": [
-   "el-paso-county/0",
-   "el-paso-county/6",
-   "el-paso-county/1",
    "el-paso-county/2",
-   "el-paso-county/3",
    "el-paso-county/4",
+   "el-paso-county/0",
+   "el-paso-county/1",
+   "el-paso-county/3",
    "el-paso-county/5",
+   "el-paso-county/6",
    "el-paso-county/7"
   ],
   "tagged": {}
@@ -8632,13 +8602,13 @@
    }
   ],
   "issues": [
-   "el-paso-county/0",
-   "el-paso-county/6",
-   "el-paso-county/1",
    "el-paso-county/2",
-   "el-paso-county/3",
    "el-paso-county/4",
+   "el-paso-county/0",
+   "el-paso-county/1",
+   "el-paso-county/3",
    "el-paso-county/5",
+   "el-paso-county/6",
    "el-paso-county/7"
   ],
   "tagged": {}
@@ -8657,13 +8627,14 @@
    }
   ],
   "issues": [
+   "kit-carson-county/6",
+   "kit-carson-county/7",
    "kit-carson-county/0",
    "kit-carson-county/1",
    "kit-carson-county/2",
    "kit-carson-county/3",
    "kit-carson-county/4",
-   "kit-carson-county/5",
-   "kit-carson-county/6"
+   "kit-carson-county/5"
   ],
   "tagged": {}
  },
@@ -8686,13 +8657,13 @@
    }
   ],
   "issues": [
-   "el-paso-county/0",
-   "el-paso-county/6",
-   "el-paso-county/1",
    "el-paso-county/2",
-   "el-paso-county/3",
    "el-paso-county/4",
+   "el-paso-county/0",
+   "el-paso-county/1",
+   "el-paso-county/3",
    "el-paso-county/5",
+   "el-paso-county/6",
    "el-paso-county/7"
   ],
   "tagged": {}
@@ -8711,13 +8682,14 @@
    }
   ],
   "issues": [
+   "kit-carson-county/6",
+   "kit-carson-county/7",
    "kit-carson-county/0",
    "kit-carson-county/1",
    "kit-carson-county/2",
    "kit-carson-county/3",
    "kit-carson-county/4",
-   "kit-carson-county/5",
-   "kit-carson-county/6"
+   "kit-carson-county/5"
   ],
   "tagged": {}
  },
@@ -8730,13 +8702,13 @@
    }
   ],
   "issues": [
-   "el-paso-county/0",
-   "el-paso-county/6",
-   "el-paso-county/1",
    "el-paso-county/2",
-   "el-paso-county/3",
    "el-paso-county/4",
+   "el-paso-county/0",
+   "el-paso-county/1",
+   "el-paso-county/3",
    "el-paso-county/5",
+   "el-paso-county/6",
    "el-paso-county/7"
   ],
   "tagged": {}
@@ -8755,14 +8727,14 @@
    }
   ],
   "issues": [
-   "teller-county/4",
+   "teller-county/3",
    "teller-county/5",
    "teller-county/0",
    "teller-county/1",
    "teller-county/8",
    "teller-county/2",
-   "teller-county/3",
-   "teller-county/6"
+   "teller-county/7",
+   "teller-county/4"
   ],
   "tagged": {}
  },
@@ -8780,13 +8752,14 @@
    }
   ],
   "issues": [
+   "kit-carson-county/6",
+   "kit-carson-county/7",
    "kit-carson-county/0",
    "kit-carson-county/1",
    "kit-carson-county/2",
    "kit-carson-county/3",
    "kit-carson-county/4",
-   "kit-carson-county/5",
-   "kit-carson-county/6"
+   "kit-carson-county/5"
   ],
   "tagged": {}
  },
@@ -8820,14 +8793,14 @@
    }
   ],
   "issues": [
-   "teller-county/4",
+   "teller-county/3",
+   "woodland-park/4",
+   "woodland-park/7",
    "teller-county/5",
-   "woodland-park/0",
-   "teller-county/0",
-   "woodland-park/2",
-   "woodland-park/6",
    "woodland-park/1",
-   "teller-county/1"
+   "woodland-park/2",
+   "woodland-park/8",
+   "teller-county/0"
   ],
   "tagged": {}
  },
@@ -8840,13 +8813,13 @@
    }
   ],
   "issues": [
-   "el-paso-county/0",
-   "el-paso-county/6",
-   "el-paso-county/1",
    "el-paso-county/2",
-   "el-paso-county/3",
    "el-paso-county/4",
+   "el-paso-county/0",
+   "el-paso-county/1",
+   "el-paso-county/3",
    "el-paso-county/5",
+   "el-paso-county/6",
    "el-paso-county/7"
   ],
   "tagged": {}
@@ -8860,13 +8833,13 @@
    }
   ],
   "issues": [
-   "el-paso-county/0",
-   "el-paso-county/6",
-   "el-paso-county/1",
    "el-paso-county/2",
-   "el-paso-county/3",
    "el-paso-county/4",
+   "el-paso-county/0",
+   "el-paso-county/1",
+   "el-paso-county/3",
    "el-paso-county/5",
+   "el-paso-county/6",
    "el-paso-county/7"
   ],
   "tagged": {}
@@ -8885,14 +8858,14 @@
    }
   ],
   "issues": [
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "colorado-springs/6",
-   "colorado-springs/11",
    "colorado-springs/0",
    "colorado-springs/7",
-   "colorado-springs/9"
+   "colorado-springs/9",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10",
+   "colorado-springs/11",
+   "colorado-springs/2"
   ],
   "tagged": {
    "data-center": {
@@ -8917,14 +8890,14 @@
    }
   ],
   "issues": [
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "colorado-springs/6",
-   "colorado-springs/11",
    "colorado-springs/0",
    "colorado-springs/7",
-   "colorado-springs/9"
+   "colorado-springs/9",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10",
+   "colorado-springs/11",
+   "colorado-springs/2"
   ],
   "tagged": {
    "data-center": {
@@ -8949,14 +8922,14 @@
    }
   ],
   "issues": [
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "colorado-springs/6",
-   "colorado-springs/11",
    "colorado-springs/0",
    "colorado-springs/7",
-   "colorado-springs/9"
+   "colorado-springs/9",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10",
+   "colorado-springs/11",
+   "colorado-springs/2"
   ],
   "tagged": {
    "data-center": {
@@ -8981,14 +8954,14 @@
    }
   ],
   "issues": [
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "colorado-springs/6",
-   "colorado-springs/11",
    "colorado-springs/0",
    "colorado-springs/7",
-   "colorado-springs/9"
+   "colorado-springs/9",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10",
+   "colorado-springs/11",
+   "colorado-springs/2"
   ],
   "tagged": {
    "data-center": {
@@ -9013,14 +8986,14 @@
    }
   ],
   "issues": [
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "colorado-springs/6",
-   "colorado-springs/11",
    "colorado-springs/0",
    "colorado-springs/7",
-   "colorado-springs/9"
+   "colorado-springs/9",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10",
+   "colorado-springs/11",
+   "colorado-springs/2"
   ],
   "tagged": {
    "data-center": {
@@ -9045,14 +9018,14 @@
    }
   ],
   "issues": [
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "colorado-springs/6",
-   "colorado-springs/11",
    "colorado-springs/0",
-   "el-paso-county/0",
-   "el-paso-county/6"
+   "colorado-springs/7",
+   "colorado-springs/9",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10",
+   "colorado-springs/11",
+   "el-paso-county/2"
   ],
   "tagged": {
    "data-center": {
@@ -9077,14 +9050,14 @@
    }
   ],
   "issues": [
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "colorado-springs/6",
-   "colorado-springs/11",
    "colorado-springs/0",
    "colorado-springs/7",
-   "colorado-springs/9"
+   "colorado-springs/9",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10",
+   "colorado-springs/11",
+   "colorado-springs/2"
   ],
   "tagged": {
    "data-center": {
@@ -9109,14 +9082,14 @@
    }
   ],
   "issues": [
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "colorado-springs/6",
-   "colorado-springs/11",
    "colorado-springs/0",
    "colorado-springs/7",
-   "colorado-springs/9"
+   "colorado-springs/9",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10",
+   "colorado-springs/11",
+   "colorado-springs/2"
   ],
   "tagged": {
    "data-center": {
@@ -9136,13 +9109,13 @@
    }
   ],
   "issues": [
-   "el-paso-county/0",
-   "el-paso-county/6",
-   "el-paso-county/1",
    "el-paso-county/2",
-   "el-paso-county/3",
    "el-paso-county/4",
+   "el-paso-county/0",
+   "el-paso-county/1",
+   "el-paso-county/3",
    "el-paso-county/5",
+   "el-paso-county/6",
    "el-paso-county/7"
   ],
   "tagged": {}
@@ -9156,13 +9129,13 @@
    }
   ],
   "issues": [
-   "el-paso-county/0",
-   "el-paso-county/6",
-   "el-paso-county/1",
    "el-paso-county/2",
-   "el-paso-county/3",
    "el-paso-county/4",
+   "el-paso-county/0",
+   "el-paso-county/1",
+   "el-paso-county/3",
    "el-paso-county/5",
+   "el-paso-county/6",
    "el-paso-county/7"
   ],
   "tagged": {}
@@ -9181,14 +9154,14 @@
    }
   ],
   "issues": [
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "colorado-springs/6",
-   "colorado-springs/11",
    "colorado-springs/0",
    "colorado-springs/7",
-   "colorado-springs/9"
+   "colorado-springs/9",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10",
+   "colorado-springs/11",
+   "colorado-springs/2"
   ],
   "tagged": {
    "data-center": {
@@ -9213,14 +9186,14 @@
    }
   ],
   "issues": [
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "colorado-springs/6",
-   "colorado-springs/11",
    "colorado-springs/0",
-   "el-paso-county/0",
-   "el-paso-county/6"
+   "colorado-springs/7",
+   "colorado-springs/9",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10",
+   "colorado-springs/11",
+   "el-paso-county/2"
   ],
   "tagged": {
    "data-center": {
@@ -9245,14 +9218,14 @@
    }
   ],
   "issues": [
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "colorado-springs/6",
-   "colorado-springs/11",
    "colorado-springs/0",
    "colorado-springs/7",
-   "colorado-springs/9"
+   "colorado-springs/9",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10",
+   "colorado-springs/11",
+   "colorado-springs/2"
   ],
   "tagged": {
    "data-center": {
@@ -9277,14 +9250,14 @@
    }
   ],
   "issues": [
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "colorado-springs/6",
-   "colorado-springs/11",
    "colorado-springs/0",
    "colorado-springs/7",
-   "colorado-springs/9"
+   "colorado-springs/9",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10",
+   "colorado-springs/11",
+   "colorado-springs/2"
   ],
   "tagged": {
    "data-center": {
@@ -9309,14 +9282,14 @@
    }
   ],
   "issues": [
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "colorado-springs/6",
-   "colorado-springs/11",
    "colorado-springs/0",
    "colorado-springs/7",
-   "colorado-springs/9"
+   "colorado-springs/9",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10",
+   "colorado-springs/11",
+   "colorado-springs/2"
   ],
   "tagged": {
    "data-center": {
@@ -9341,14 +9314,14 @@
    }
   ],
   "issues": [
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "colorado-springs/6",
-   "colorado-springs/11",
    "colorado-springs/0",
    "colorado-springs/7",
-   "colorado-springs/9"
+   "colorado-springs/9",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10",
+   "colorado-springs/11",
+   "colorado-springs/2"
   ],
   "tagged": {
    "data-center": {
@@ -9373,14 +9346,14 @@
    }
   ],
   "issues": [
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "colorado-springs/6",
-   "colorado-springs/11",
    "colorado-springs/0",
    "colorado-springs/7",
-   "colorado-springs/9"
+   "colorado-springs/9",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10",
+   "colorado-springs/11",
+   "colorado-springs/2"
   ],
   "tagged": {
    "data-center": {
@@ -9405,14 +9378,14 @@
    }
   ],
   "issues": [
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "colorado-springs/6",
-   "colorado-springs/11",
    "colorado-springs/0",
    "colorado-springs/7",
-   "colorado-springs/9"
+   "colorado-springs/9",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10",
+   "colorado-springs/11",
+   "colorado-springs/2"
   ],
   "tagged": {
    "data-center": {
@@ -9437,14 +9410,14 @@
    }
   ],
   "issues": [
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "colorado-springs/6",
-   "colorado-springs/11",
    "colorado-springs/0",
    "colorado-springs/7",
-   "colorado-springs/9"
+   "colorado-springs/9",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10",
+   "colorado-springs/11",
+   "colorado-springs/2"
   ],
   "tagged": {
    "data-center": {
@@ -9469,14 +9442,14 @@
    }
   ],
   "issues": [
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "colorado-springs/6",
-   "colorado-springs/11",
    "colorado-springs/0",
    "colorado-springs/7",
-   "colorado-springs/9"
+   "colorado-springs/9",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10",
+   "colorado-springs/11",
+   "colorado-springs/2"
   ],
   "tagged": {
    "data-center": {
@@ -9501,14 +9474,14 @@
    }
   ],
   "issues": [
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "colorado-springs/6",
-   "colorado-springs/11",
    "colorado-springs/0",
    "colorado-springs/7",
-   "colorado-springs/9"
+   "colorado-springs/9",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10",
+   "colorado-springs/11",
+   "colorado-springs/2"
   ],
   "tagged": {
    "data-center": {
@@ -9538,14 +9511,14 @@
    }
   ],
   "issues": [
-   "el-paso-county/0",
-   "el-paso-county/6",
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "el-paso-county/1",
    "el-paso-county/2",
-   "colorado-springs/6"
+   "colorado-springs/0",
+   "colorado-springs/7",
+   "colorado-springs/9",
+   "el-paso-county/4",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10"
   ],
   "tagged": {
    "data-center": {
@@ -9570,13 +9543,13 @@
    }
   ],
   "issues": [
-   "el-paso-county/0",
-   "el-paso-county/6",
-   "el-paso-county/1",
    "el-paso-county/2",
-   "el-paso-county/3",
    "el-paso-county/4",
+   "el-paso-county/0",
+   "el-paso-county/1",
+   "el-paso-county/3",
    "el-paso-county/5",
+   "el-paso-county/6",
    "el-paso-county/7"
   ],
   "tagged": {}
@@ -9595,14 +9568,14 @@
    }
   ],
   "issues": [
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "colorado-springs/6",
-   "colorado-springs/11",
    "colorado-springs/0",
    "colorado-springs/7",
-   "colorado-springs/9"
+   "colorado-springs/9",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10",
+   "colorado-springs/11",
+   "colorado-springs/2"
   ],
   "tagged": {
    "data-center": {
@@ -9622,13 +9595,13 @@
    }
   ],
   "issues": [
-   "el-paso-county/0",
-   "el-paso-county/6",
-   "el-paso-county/1",
    "el-paso-county/2",
-   "el-paso-county/3",
    "el-paso-county/4",
+   "el-paso-county/0",
+   "el-paso-county/1",
+   "el-paso-county/3",
    "el-paso-county/5",
+   "el-paso-county/6",
    "el-paso-county/7"
   ],
   "tagged": {}
@@ -9647,14 +9620,14 @@
    }
   ],
   "issues": [
-   "el-paso-county/0",
-   "el-paso-county/6",
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "el-paso-county/1",
    "el-paso-county/2",
-   "colorado-springs/6"
+   "colorado-springs/0",
+   "colorado-springs/7",
+   "colorado-springs/9",
+   "el-paso-county/4",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10"
   ],
   "tagged": {
    "data-center": {
@@ -9674,13 +9647,13 @@
    }
   ],
   "issues": [
-   "el-paso-county/0",
-   "el-paso-county/6",
-   "el-paso-county/1",
    "el-paso-county/2",
-   "el-paso-county/3",
    "el-paso-county/4",
+   "el-paso-county/0",
+   "el-paso-county/1",
+   "el-paso-county/3",
    "el-paso-county/5",
+   "el-paso-county/6",
    "el-paso-county/7"
   ],
   "tagged": {}
@@ -9699,14 +9672,14 @@
    }
   ],
   "issues": [
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "colorado-springs/6",
-   "colorado-springs/11",
    "colorado-springs/0",
    "colorado-springs/7",
-   "colorado-springs/9"
+   "colorado-springs/9",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10",
+   "colorado-springs/11",
+   "colorado-springs/2"
   ],
   "tagged": {
    "data-center": {
@@ -9731,14 +9704,14 @@
    }
   ],
   "issues": [
-   "colorado-springs/4",
-   "el-paso-county/0",
-   "el-paso-county/6",
-   "colorado-springs/1",
-   "colorado-springs/8",
+   "el-paso-county/2",
+   "colorado-springs/0",
+   "colorado-springs/7",
+   "colorado-springs/9",
+   "colorado-springs/5",
    "colorado-springs/6",
-   "colorado-springs/11",
-   "colorado-springs/0"
+   "colorado-springs/10",
+   "colorado-springs/11"
   ],
   "tagged": {
    "data-center": {
@@ -9763,14 +9736,14 @@
    }
   ],
   "issues": [
-   "el-paso-county/0",
-   "el-paso-county/6",
-   "colorado-springs/4",
-   "colorado-springs/1",
-   "colorado-springs/8",
-   "el-paso-county/1",
    "el-paso-county/2",
-   "colorado-springs/6"
+   "colorado-springs/0",
+   "colorado-springs/7",
+   "colorado-springs/9",
+   "el-paso-county/4",
+   "colorado-springs/5",
+   "colorado-springs/6",
+   "colorado-springs/10"
   ],
   "tagged": {
    "data-center": {
@@ -9795,19 +9768,19 @@
    }
   ],
   "issues": [
+   "pueblo-county/2",
+   "pueblo/1",
    "pueblo-county/0",
-   "pueblo/3",
+   "pueblo/6",
    "pueblo/9",
    "pueblo-county/3",
-   "pueblo/2",
-   "pueblo/10",
-   "pueblo/8",
-   "pueblo/13"
+   "pueblo-county/8",
+   "pueblo-county/4"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "pueblo-county/2"
+     "pueblo-county/1"
     ],
     "site": false
    }
@@ -9827,19 +9800,19 @@
    }
   ],
   "issues": [
+   "pueblo/1",
+   "pueblo-county/2",
    "pueblo-county/0",
-   "pueblo/3",
+   "pueblo/6",
    "pueblo/9",
    "pueblo-county/3",
-   "pueblo/2",
-   "pueblo/10",
-   "pueblo/8",
-   "pueblo/13"
+   "pueblo-county/8",
+   "pueblo/8"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "pueblo-county/2"
+     "pueblo-county/1"
     ],
     "site": false
    }
@@ -9859,19 +9832,19 @@
    }
   ],
   "issues": [
+   "pueblo-county/2",
+   "pueblo/1",
    "pueblo-county/0",
-   "pueblo/3",
-   "pueblo-county/3",
+   "pueblo/6",
    "pueblo/9",
-   "pueblo/2",
-   "pueblo/10",
-   "pueblo/8",
-   "pueblo/13"
+   "pueblo-county/3",
+   "pueblo-county/8",
+   "pueblo-county/4"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "pueblo-county/2"
+     "pueblo-county/1"
     ],
     "site": false
    }
@@ -9891,19 +9864,19 @@
    }
   ],
   "issues": [
+   "pueblo-county/2",
    "pueblo-county/0",
-   "pueblo/3",
-   "pueblo-county/3",
+   "pueblo/1",
+   "pueblo/6",
    "pueblo/9",
-   "pueblo/2",
-   "pueblo/10",
-   "pueblo/8",
-   "pueblo-county/7"
+   "pueblo-county/3",
+   "pueblo-county/8",
+   "pueblo-county/4"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "pueblo-county/2"
+     "pueblo-county/1"
     ],
     "site": false
    }
@@ -9923,19 +9896,19 @@
    }
   ],
   "issues": [
+   "pueblo-county/2",
    "pueblo-county/0",
    "pueblo-county/3",
-   "pueblo-county/7",
    "pueblo-county/8",
-   "pueblo-county/10",
-   "pueblo/3",
+   "pueblo-county/4",
+   "pueblo-county/9",
    "pueblo-county/5",
    "pueblo-county/6"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "pueblo-county/2"
+     "pueblo-county/1"
     ],
     "site": false
    }
@@ -9950,19 +9923,19 @@
    }
   ],
   "issues": [
+   "pueblo-county/2",
    "pueblo-county/0",
    "pueblo-county/3",
-   "pueblo-county/7",
    "pueblo-county/8",
-   "pueblo-county/10",
+   "pueblo-county/4",
+   "pueblo-county/9",
    "pueblo-county/5",
-   "pueblo-county/6",
-   "pueblo-county/9"
+   "pueblo-county/6"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "pueblo-county/2"
+     "pueblo-county/1"
     ],
     "site": false
    }
@@ -9982,19 +9955,19 @@
    }
   ],
   "issues": [
+   "pueblo/1",
+   "pueblo-county/2",
    "pueblo-county/0",
-   "pueblo/3",
+   "pueblo/6",
    "pueblo/9",
    "pueblo-county/3",
-   "pueblo/2",
-   "pueblo/10",
-   "pueblo/8",
-   "pueblo/13"
+   "pueblo-county/8",
+   "pueblo-county/4"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "pueblo-county/2"
+     "pueblo-county/1"
     ],
     "site": false
    }
@@ -10009,19 +9982,19 @@
    }
   ],
   "issues": [
+   "pueblo-county/2",
    "pueblo-county/0",
    "pueblo-county/3",
-   "pueblo-county/7",
    "pueblo-county/8",
-   "pueblo-county/10",
+   "pueblo-county/4",
+   "pueblo-county/9",
    "pueblo-county/5",
-   "pueblo-county/6",
-   "pueblo-county/9"
+   "pueblo-county/6"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "pueblo-county/2"
+     "pueblo-county/1"
     ],
     "site": false
    }
@@ -10068,19 +10041,19 @@
    }
   ],
   "issues": [
+   "pueblo-county/2",
    "pueblo-county/0",
    "pueblo-county/3",
-   "pueblo-county/7",
    "pueblo-county/8",
-   "pueblo-county/10",
+   "pueblo-county/4",
+   "pueblo-county/9",
    "pueblo-county/5",
-   "pueblo-county/6",
-   "pueblo-county/9"
+   "pueblo-county/6"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "pueblo-county/2"
+     "pueblo-county/1"
     ],
     "site": false
    }
@@ -10095,19 +10068,19 @@
    }
   ],
   "issues": [
+   "pueblo-county/2",
    "pueblo-county/0",
    "pueblo-county/3",
-   "pueblo-county/7",
    "pueblo-county/8",
-   "pueblo-county/10",
+   "pueblo-county/4",
+   "pueblo-county/9",
    "pueblo-county/5",
-   "pueblo-county/6",
-   "pueblo-county/9"
+   "pueblo-county/6"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "pueblo-county/2"
+     "pueblo-county/1"
     ],
     "site": false
    }
@@ -10138,19 +10111,19 @@
    }
   ],
   "issues": [
+   "pueblo-county/2",
    "pueblo-county/0",
-   "pueblo-county/3",
    "boone/0",
    "boone/1",
    "boone/4",
-   "pueblo-county/7",
-   "boone/2",
-   "pueblo-county/8"
+   "pueblo-county/3",
+   "pueblo-county/8",
+   "boone/2"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "pueblo-county/2"
+     "pueblo-county/1"
     ],
     "site": false
    }
@@ -10186,14 +10159,14 @@
    }
   ],
   "issues": [
-   "campo/3",
+   "campo/2",
+   "campo/5",
    "campo/6",
+   "campo/1",
+   "campo/4",
    "campo/7",
    "campo/0",
-   "campo/4",
-   "campo/5",
-   "campo/2",
-   "campo/9"
+   "campo/3"
   ],
   "tagged": {}
  },
@@ -10269,19 +10242,19 @@
    }
   ],
   "issues": [
+   "pueblo-county/2",
    "pueblo-county/0",
    "pueblo-county/3",
-   "pueblo-county/7",
    "pueblo-county/8",
-   "pueblo-county/10",
+   "pueblo-county/4",
+   "pueblo-county/9",
    "pueblo-county/5",
-   "pueblo-county/6",
-   "pueblo-county/9"
+   "pueblo-county/6"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "pueblo-county/2"
+     "pueblo-county/1"
     ],
     "site": false
    }
@@ -10297,13 +10270,13 @@
   ],
   "issues": [
    "huerfano-county/1",
-   "huerfano-county/7",
-   "huerfano-county/13",
-   "huerfano-county/5",
-   "huerfano-county/0",
-   "huerfano-county/6",
    "huerfano-county/8",
-   "huerfano-county/2"
+   "huerfano-county/0",
+   "huerfano-county/5",
+   "huerfano-county/6",
+   "huerfano-county/9",
+   "huerfano-county/12",
+   "huerfano-county/11"
   ],
   "tagged": {}
  },
@@ -10455,12 +10428,12 @@
   "issues": [
    "la-junta/0",
    "la-junta/3",
-   "la-junta/2",
-   "la-junta/4",
    "la-junta/5",
+   "la-junta/1",
+   "la-junta/4",
    "la-junta/6",
-   "la-junta/11",
-   "la-junta/12"
+   "la-junta/7",
+   "la-junta/8"
   ],
   "tagged": {}
  },
@@ -10478,14 +10451,14 @@
    }
   ],
   "issues": [
-   "lamar/2",
-   "lamar/5",
-   "lamar/7",
-   "lamar/4",
-   "lamar/0",
    "lamar/1",
+   "lamar/10",
+   "lamar/0",
+   "lamar/6",
+   "lamar/2",
    "lamar/3",
-   "lamar/6"
+   "lamar/8",
+   "lamar/4"
   ],
   "tagged": {
    "data-center": {
@@ -10527,13 +10500,13 @@
   ],
   "issues": [
    "huerfano-county/1",
-   "huerfano-county/7",
-   "huerfano-county/13",
-   "huerfano-county/5",
-   "huerfano-county/0",
-   "huerfano-county/6",
    "huerfano-county/8",
-   "huerfano-county/2"
+   "huerfano-county/0",
+   "huerfano-county/5",
+   "huerfano-county/6",
+   "huerfano-county/9",
+   "huerfano-county/12",
+   "huerfano-county/11"
   ],
   "tagged": {}
  },
@@ -10629,11 +10602,11 @@
    }
   ],
   "issues": [
-   "ordway/3",
-   "ordway/6",
    "ordway/1",
    "ordway/4",
    "ordway/0",
+   "ordway/3",
+   "ordway/6",
    "ordway/7",
    "ordway/8",
    "ordway/9"
@@ -10701,19 +10674,19 @@
    }
   ],
   "issues": [
+   "pueblo-county/2",
    "pueblo-county/0",
    "pueblo-county/3",
-   "pueblo-county/7",
    "pueblo-county/8",
+   "pueblo-county/4",
+   "pueblo-county/9",
    "huerfano-county/1",
-   "huerfano-county/7",
-   "pueblo-county/10",
-   "huerfano-county/13"
+   "huerfano-county/8"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "pueblo-county/2"
+     "pueblo-county/1"
     ],
     "site": false
    }
@@ -10821,22 +10794,16 @@
    "starkville/3",
    "starkville/0",
    "starkville/1",
-   "starkville/2",
    "starkville/5",
-   "starkville/6",
    "starkville/7",
-   "starkville/9"
+   "starkville/9",
+   "starkville/12",
+   "starkville/4"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "starkville/0"
-    ],
-    "site": false
-   },
-   "guns": {
-    "ids": [
-     "starkville/14"
     ],
     "site": false
    }
@@ -10894,13 +10861,13 @@
   ],
   "issues": [
    "huerfano-county/1",
-   "huerfano-county/7",
-   "huerfano-county/13",
-   "huerfano-county/5",
-   "huerfano-county/0",
-   "huerfano-county/6",
    "huerfano-county/8",
-   "huerfano-county/2"
+   "huerfano-county/0",
+   "huerfano-county/5",
+   "huerfano-county/6",
+   "huerfano-county/9",
+   "huerfano-county/12",
+   "huerfano-county/11"
   ],
   "tagged": {}
  },
@@ -10967,7 +10934,7 @@
    {
     "name": "Alamosa County",
     "share": 0.364,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Conejos County",
@@ -10975,12 +10942,7 @@
     "has_records": false
    }
   ],
-  "issues": [
-   "alamosa-county/0",
-   "alamosa-county/1",
-   "alamosa-county/2",
-   "alamosa-county/3"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "81120": {
@@ -11008,13 +10970,13 @@
    }
   ],
   "issues": [
-   "archuleta-county/4",
    "archuleta-county/0",
+   "archuleta-county/5",
+   "archuleta-county/6",
    "archuleta-county/1",
    "archuleta-county/2",
    "archuleta-county/3",
-   "archuleta-county/5",
-   "archuleta-county/6",
+   "archuleta-county/4",
    "archuleta-county/7"
   ],
   "tagged": {}
@@ -11038,13 +11000,13 @@
    }
   ],
   "issues": [
-   "archuleta-county/4",
    "archuleta-county/0",
+   "archuleta-county/5",
+   "archuleta-county/6",
    "archuleta-county/1",
    "archuleta-county/2",
    "archuleta-county/3",
-   "archuleta-county/5",
-   "archuleta-county/6",
+   "archuleta-county/4",
    "archuleta-county/7"
   ],
   "tagged": {}
@@ -11096,15 +11058,10 @@
    {
     "name": "Alamosa County",
     "share": 0.009,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "alamosa-county/0",
-   "alamosa-county/1",
-   "alamosa-county/2",
-   "alamosa-county/3"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "81126": {
@@ -11127,13 +11084,13 @@
    }
   ],
   "issues": [
-   "archuleta-county/4",
    "archuleta-county/0",
+   "archuleta-county/5",
+   "archuleta-county/6",
    "archuleta-county/1",
    "archuleta-county/2",
    "archuleta-county/3",
-   "archuleta-county/5",
-   "archuleta-county/6",
+   "archuleta-county/4",
    "archuleta-county/7"
   ],
   "tagged": {}
@@ -11206,13 +11163,13 @@
   ],
   "issues": [
    "del-norte/0",
-   "del-norte/8",
+   "del-norte/10",
    "del-norte/1",
    "del-norte/2",
+   "del-norte/3",
    "del-norte/4",
    "del-norte/5",
-   "del-norte/10",
-   "del-norte/3"
+   "del-norte/7"
   ],
   "tagged": {}
  },
@@ -11232,7 +11189,7 @@
    {
     "name": "Alamosa County",
     "share": 0.484,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Hooper",
@@ -11248,10 +11205,6 @@
   "issues": [
    "hooper/1",
    "hooper/0",
-   "alamosa-county/0",
-   "alamosa-county/1",
-   "alamosa-county/2",
-   "alamosa-county/3",
    "hooper/2",
    "hooper/3"
   ],
@@ -11276,13 +11229,13 @@
    }
   ],
   "issues": [
-   "archuleta-county/4",
    "archuleta-county/0",
+   "archuleta-county/5",
+   "archuleta-county/6",
    "archuleta-county/1",
    "archuleta-county/2",
    "archuleta-county/3",
-   "archuleta-county/5",
-   "archuleta-county/6",
+   "archuleta-county/4",
    "archuleta-county/7"
   ],
   "tagged": {}
@@ -11361,15 +11314,10 @@
    {
     "name": "Alamosa County",
     "share": 0.017,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "alamosa-county/0",
-   "alamosa-county/1",
-   "alamosa-county/2",
-   "alamosa-county/3"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "81146": {
@@ -11377,15 +11325,10 @@
    {
     "name": "Alamosa County",
     "share": 1.0,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "alamosa-county/0",
-   "alamosa-county/1",
-   "alamosa-county/2",
-   "alamosa-county/3"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "81147": {
@@ -11402,14 +11345,14 @@
    }
   ],
   "issues": [
-   "pagosa-springs/1",
-   "pagosa-springs/2",
    "pagosa-springs/3",
-   "pagosa-springs/7",
-   "archuleta-county/4",
-   "pagosa-springs/4",
-   "pagosa-springs/5",
-   "pagosa-springs/9"
+   "pagosa-springs/1",
+   "archuleta-county/0",
+   "pagosa-springs/2",
+   "pagosa-springs/8",
+   "archuleta-county/5",
+   "archuleta-county/6",
+   "pagosa-springs/5"
   ],
   "tagged": {
    "data-center": {
@@ -11545,49 +11488,26 @@
    }
   ],
   "issues": [
-   "chaffee-county/5",
-   "salida/6",
-   "chaffee-county/1",
-   "salida/3",
-   "salida/9",
-   "chaffee-county/2",
    "chaffee-county/8",
-   "chaffee-county/10"
+   "salida/5",
+   "chaffee-county/6",
+   "salida/1",
+   "chaffee-county/1",
+   "chaffee-county/2",
+   "salida/6",
+   "chaffee-county/3"
   ],
-  "tagged": {
-   "guns": {
-    "ids": [
-     "chaffee-county/10",
-     "chaffee-county/12"
-    ],
-    "site": false
-   },
-   "data-center": {
-    "ids": [
-     "salida/0"
-    ],
-    "site": false
-   }
-  }
+  "tagged": {}
  },
  "81210": {
   "governments": [
    {
     "name": "Gunnison County",
     "share": 1.0,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "gunnison-county/3",
-   "gunnison-county/1",
-   "gunnison-county/2",
-   "gunnison-county/8",
-   "gunnison-county/9",
-   "gunnison-county/0",
-   "gunnison-county/4",
-   "gunnison-county/5"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "81211": {
@@ -11600,41 +11520,27 @@
    {
     "name": "Buena Vista",
     "share": 0.347,
-    "has_records": true
+    "has_records": false
    }
   ],
   "issues": [
-   "buena-vista/2",
-   "chaffee-county/5",
+   "chaffee-county/8",
+   "chaffee-county/6",
    "chaffee-county/1",
-   "buena-vista/0",
-   "buena-vista/3",
-   "buena-vista/6",
    "chaffee-county/2",
-   "chaffee-county/8"
+   "chaffee-county/3",
+   "chaffee-county/0",
+   "chaffee-county/4",
+   "chaffee-county/5"
   ],
-  "tagged": {
-   "guns": {
-    "ids": [
-     "chaffee-county/10",
-     "chaffee-county/12"
-    ],
-    "site": false
-   },
-   "data-center": {
-    "ids": [
-     "buena-vista/5"
-    ],
-    "site": false
-   }
-  }
+  "tagged": {}
  },
  "81212": {
   "governments": [
    {
     "name": "Ca\u00f1on City",
     "share": 0.542,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Fremont County",
@@ -11648,14 +11554,14 @@
    }
   ],
   "issues": [
-   "canon-city/1",
-   "canon-city/5",
-   "canon-city/6",
-   "canon-city/3",
-   "canon-city/0",
-   "canon-city/2",
-   "canon-city/10",
-   "canon-city/4"
+   "fremont-county/0",
+   "fremont-county/1",
+   "fremont-county/2",
+   "fremont-county/3",
+   "fremont-county/4",
+   "fremont-county/5",
+   "fremont-county/6",
+   "fremont-county/7"
   ],
   "tagged": {}
  },
@@ -11664,7 +11570,7 @@
    {
     "name": "Gunnison County",
     "share": 0.698,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Montrose County",
@@ -11673,14 +11579,14 @@
    }
   ],
   "issues": [
-   "montrose-county/5",
-   "gunnison-county/3",
+   "montrose-county/6",
    "montrose-county/7",
-   "montrose-county/8",
-   "gunnison-county/1",
-   "gunnison-county/2",
-   "gunnison-county/8",
-   "gunnison-county/9"
+   "montrose-county/0",
+   "montrose-county/4",
+   "montrose-county/5",
+   "montrose-county/2",
+   "montrose-county/1",
+   "montrose-county/3"
   ],
   "tagged": {}
  },
@@ -11754,7 +11660,7 @@
    {
     "name": "Gunnison County",
     "share": 0.584,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Crested Butte",
@@ -11763,14 +11669,14 @@
    }
   ],
   "issues": [
-   "crested-butte/2",
    "crested-butte/0",
    "crested-butte/1",
-   "gunnison-county/3",
-   "crested-butte/7",
+   "crested-butte/2",
    "crested-butte/9",
-   "crested-butte/10",
-   "crested-butte/5"
+   "crested-butte/6",
+   "crested-butte/8",
+   "crested-butte/5",
+   "crested-butte/3"
   ],
   "tagged": {}
  },
@@ -11784,19 +11690,10 @@
    {
     "name": "Gunnison County",
     "share": 0.124,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "gunnison-county/3",
-   "gunnison-county/1",
-   "gunnison-county/2",
-   "gunnison-county/8",
-   "gunnison-county/9",
-   "gunnison-county/0",
-   "gunnison-county/4",
-   "gunnison-county/5"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "81226": {
@@ -11809,7 +11706,7 @@
    {
     "name": "Florence",
     "share": 0.444,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Williamsburg",
@@ -11828,14 +11725,14 @@
    }
   ],
   "issues": [
-   "florence/0",
-   "florence/1",
    "fremont-county/0",
    "fremont-county/1",
    "fremont-county/2",
    "fremont-county/3",
    "fremont-county/4",
-   "fremont-county/5"
+   "fremont-county/5",
+   "fremont-county/6",
+   "fremont-county/7"
   ],
   "tagged": {}
  },
@@ -11848,24 +11745,16 @@
    }
   ],
   "issues": [
-   "chaffee-county/5",
+   "chaffee-county/8",
+   "chaffee-county/6",
    "chaffee-county/1",
    "chaffee-county/2",
-   "chaffee-county/8",
-   "chaffee-county/10",
    "chaffee-county/3",
+   "chaffee-county/0",
    "chaffee-county/4",
-   "chaffee-county/0"
+   "chaffee-county/5"
   ],
-  "tagged": {
-   "guns": {
-    "ids": [
-     "chaffee-county/10",
-     "chaffee-county/12"
-    ],
-    "site": false
-   }
-  }
+  "tagged": {}
  },
  "81228": {
   "governments": [
@@ -11876,24 +11765,16 @@
    }
   ],
   "issues": [
-   "chaffee-county/5",
+   "chaffee-county/8",
+   "chaffee-county/6",
    "chaffee-county/1",
    "chaffee-county/2",
-   "chaffee-county/8",
-   "chaffee-county/10",
    "chaffee-county/3",
+   "chaffee-county/0",
    "chaffee-county/4",
-   "chaffee-county/0"
+   "chaffee-county/5"
   ],
-  "tagged": {
-   "guns": {
-    "ids": [
-     "chaffee-county/10",
-     "chaffee-county/12"
-    ],
-    "site": false
-   }
-  }
+  "tagged": {}
  },
  "81230": {
   "governments": [
@@ -11905,7 +11786,7 @@
    {
     "name": "Gunnison County",
     "share": 0.372,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Saguache County",
@@ -11913,16 +11794,7 @@
     "has_records": false
    }
   ],
-  "issues": [
-   "gunnison-county/3",
-   "gunnison-county/1",
-   "gunnison-county/2",
-   "gunnison-county/8",
-   "gunnison-county/9",
-   "gunnison-county/0",
-   "gunnison-county/4",
-   "gunnison-county/5"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "81232": {
@@ -11979,14 +11851,14 @@
    }
   ],
   "issues": [
+   "lake-city/1",
    "lake-city/0",
+   "lake-city/3",
+   "lake-city/5",
+   "lake-city/7",
    "lake-city/2",
    "lake-city/4",
-   "lake-city/1",
-   "lake-city/9",
-   "lake-city/3",
-   "lake-city/8",
-   "lake-city/10"
+   "lake-city/6"
   ],
   "tagged": {}
  },
@@ -11999,43 +11871,26 @@
    }
   ],
   "issues": [
-   "chaffee-county/5",
+   "chaffee-county/8",
+   "chaffee-county/6",
    "chaffee-county/1",
    "chaffee-county/2",
-   "chaffee-county/8",
-   "chaffee-county/10",
    "chaffee-county/3",
+   "chaffee-county/0",
    "chaffee-county/4",
-   "chaffee-county/0"
+   "chaffee-county/5"
   ],
-  "tagged": {
-   "guns": {
-    "ids": [
-     "chaffee-county/10",
-     "chaffee-county/12"
-    ],
-    "site": false
-   }
-  }
+  "tagged": {}
  },
  "81237": {
   "governments": [
    {
     "name": "Gunnison County",
     "share": 1.0,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "gunnison-county/3",
-   "gunnison-county/1",
-   "gunnison-county/2",
-   "gunnison-county/8",
-   "gunnison-county/9",
-   "gunnison-county/0",
-   "gunnison-county/4",
-   "gunnison-county/5"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "81239": {
@@ -12043,19 +11898,10 @@
    {
     "name": "Gunnison County",
     "share": 1.0,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "gunnison-county/3",
-   "gunnison-county/1",
-   "gunnison-county/2",
-   "gunnison-county/8",
-   "gunnison-county/9",
-   "gunnison-county/0",
-   "gunnison-county/4",
-   "gunnison-county/5"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "81240": {
@@ -12088,18 +11934,18 @@
    {
     "name": "Gunnison County",
     "share": 0.455,
-    "has_records": true
+    "has_records": false
    }
   ],
   "issues": [
    "pitkin/0",
    "pitkin/2",
-   "gunnison-county/3",
    "pitkin/1",
    "pitkin/3",
    "pitkin/4",
    "pitkin/5",
-   "gunnison-county/1"
+   "pitkin/6",
+   "pitkin/7"
   ],
   "tagged": {}
  },
@@ -12117,43 +11963,26 @@
    }
   ],
   "issues": [
-   "chaffee-county/5",
+   "chaffee-county/8",
+   "chaffee-county/6",
    "chaffee-county/1",
    "chaffee-county/2",
-   "chaffee-county/8",
-   "chaffee-county/10",
    "chaffee-county/3",
+   "chaffee-county/0",
    "chaffee-county/4",
-   "chaffee-county/0"
+   "chaffee-county/5"
   ],
-  "tagged": {
-   "guns": {
-    "ids": [
-     "chaffee-county/10",
-     "chaffee-county/12"
-    ],
-    "site": false
-   }
-  }
+  "tagged": {}
  },
  "81243": {
   "governments": [
    {
     "name": "Gunnison County",
     "share": 1.0,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "gunnison-county/3",
-   "gunnison-county/1",
-   "gunnison-county/2",
-   "gunnison-county/8",
-   "gunnison-county/9",
-   "gunnison-county/0",
-   "gunnison-county/4",
-   "gunnison-county/5"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "81244": {
@@ -12191,19 +12020,10 @@
    {
     "name": "Gunnison County",
     "share": 0.179,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "gunnison-county/3",
-   "gunnison-county/1",
-   "gunnison-county/2",
-   "gunnison-county/8",
-   "gunnison-county/9",
-   "gunnison-county/0",
-   "gunnison-county/4",
-   "gunnison-county/5"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "81251": {
@@ -12211,19 +12031,10 @@
    {
     "name": "Lake County",
     "share": 1.0,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "lake-county/1",
-   "lake-county/4",
-   "lake-county/0",
-   "lake-county/3",
-   "lake-county/2",
-   "lake-county/7",
-   "lake-county/5",
-   "lake-county/9"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "81252": {
@@ -12236,7 +12047,7 @@
    {
     "name": "Silver Cliff",
     "share": 0.143,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Westcliffe",
@@ -12245,14 +12056,14 @@
    }
   ],
   "issues": [
-   "silver-cliff/1",
-   "silver-cliff/0",
    "westcliffe/1",
    "westcliffe/2",
-   "silver-cliff/3",
-   "silver-cliff/2",
    "westcliffe/0",
-   "westcliffe/5"
+   "westcliffe/5",
+   "westcliffe/9",
+   "westcliffe/3",
+   "westcliffe/4",
+   "westcliffe/8"
   ],
   "tagged": {
    "data-center": {
@@ -12282,19 +12093,19 @@
    }
   ],
   "issues": [
+   "pueblo-county/2",
    "pueblo-county/0",
    "pueblo-county/3",
-   "pueblo-county/7",
    "pueblo-county/8",
-   "pueblo-county/10",
+   "pueblo-county/4",
+   "pueblo-county/9",
    "pueblo-county/5",
-   "pueblo-county/6",
-   "pueblo-county/9"
+   "pueblo-county/6"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "pueblo-county/2"
+     "pueblo-county/1"
     ],
     "site": false
    }
@@ -12314,14 +12125,14 @@
    }
   ],
   "issues": [
+   "durango/0",
+   "durango/1",
    "durango/2",
    "durango/3",
    "durango/4",
-   "durango/8",
-   "durango/10",
-   "durango/0",
-   "durango/1",
-   "durango/5"
+   "durango/5",
+   "durango/6",
+   "durango/7"
   ],
   "tagged": {}
  },
@@ -12339,14 +12150,14 @@
    }
   ],
   "issues": [
+   "durango/0",
+   "durango/1",
    "durango/2",
    "durango/3",
    "durango/4",
-   "durango/8",
-   "durango/10",
-   "durango/0",
-   "durango/1",
-   "durango/5"
+   "durango/5",
+   "durango/6",
+   "durango/7"
   ],
   "tagged": {}
  },
@@ -12375,14 +12186,14 @@
    }
   ],
   "issues": [
-   "cortez/4",
-   "cortez/6",
    "cortez/2",
    "cortez/3",
+   "cortez/4",
+   "cortez/5",
+   "cortez/6",
    "cortez/7",
-   "cortez/8",
-   "cortez/10",
-   "cortez/0"
+   "cortez/9",
+   "cortez/10"
   ],
   "tagged": {}
  },
@@ -12406,13 +12217,13 @@
   ],
   "issues": [
    "dolores/2",
-   "dolores/1",
-   "dolores/0",
    "dolores/3",
    "dolores/5",
-   "dolores/4",
-   "dolores/7",
-   "dolores/9"
+   "dolores/1",
+   "dolores/0",
+   "dolores/8",
+   "dolores/6",
+   "dolores/4"
   ],
   "tagged": {}
  },
@@ -12455,13 +12266,13 @@
   ],
   "issues": [
    "san-miguel-county/1",
-   "san-miguel-county/5",
    "san-miguel-county/0",
-   "san-miguel-county/8",
-   "san-miguel-county/7",
-   "san-miguel-county/3",
    "san-miguel-county/6",
-   "san-miguel-county/9"
+   "san-miguel-county/7",
+   "san-miguel-county/11",
+   "san-miguel-county/5",
+   "san-miguel-county/8",
+   "san-miguel-county/2"
   ],
   "tagged": {}
  },
@@ -12584,19 +12395,19 @@
    }
   ],
   "issues": [
-   "montrose-county/5",
-   "montrose/2",
-   "montrose/0",
-   "montrose/6",
    "montrose/1",
-   "montrose/3",
+   "montrose/5",
+   "montrose/6",
+   "montrose/9",
+   "montrose-county/6",
+   "montrose/2",
    "montrose-county/7",
-   "montrose/11"
+   "montrose/0"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "montrose/4"
+     "montrose/3"
     ],
     "site": false
    }
@@ -12617,23 +12428,23 @@
    {
     "name": "Ouray County",
     "share": 0.06,
-    "has_records": true
+    "has_records": false
    }
   ],
   "issues": [
-   "montrose-county/5",
+   "montrose-county/6",
    "montrose-county/7",
-   "montrose-county/8",
-   "montrose/2",
-   "montrose/0",
+   "montrose/1",
+   "montrose/5",
    "montrose/6",
+   "montrose/9",
    "montrose-county/0",
-   "montrose-county/1"
+   "montrose-county/4"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "montrose/4"
+     "montrose/3"
     ],
     "site": false
    }
@@ -12654,13 +12465,13 @@
   ],
   "issues": [
    "delta-county/1",
-   "delta-county/4",
    "delta-county/3",
-   "delta-county/7",
    "delta-county/0",
+   "delta-county/4",
    "delta-county/6",
    "delta-county/5",
-   "delta-county/2"
+   "delta-county/2",
+   "delta-county/7"
   ],
   "tagged": {}
  },
@@ -12673,14 +12484,14 @@
    }
   ],
   "issues": [
-   "montrose-county/5",
+   "montrose-county/6",
    "montrose-county/7",
-   "montrose-county/8",
    "montrose-county/0",
-   "montrose-county/1",
+   "montrose-county/4",
+   "montrose-county/5",
    "montrose-county/2",
-   "montrose-county/3",
-   "montrose-county/6"
+   "montrose-county/1",
+   "montrose-county/3"
   ],
   "tagged": {}
  },
@@ -12699,13 +12510,13 @@
   ],
   "issues": [
    "delta-county/1",
-   "delta-county/4",
    "delta-county/3",
-   "delta-county/7",
    "delta-county/0",
+   "delta-county/4",
    "delta-county/6",
    "delta-county/5",
-   "delta-county/2"
+   "delta-county/2",
+   "delta-county/7"
   ],
   "tagged": {}
  },
@@ -12729,13 +12540,13 @@
   ],
   "issues": [
    "crawford/0",
-   "crawford/2",
    "delta-county/1",
-   "delta-county/4",
-   "montrose-county/5",
-   "crawford/8",
+   "crawford/4",
    "delta-county/3",
-   "montrose-county/7"
+   "crawford/3",
+   "crawford/8",
+   "montrose-county/6",
+   "crawford/2"
   ],
   "tagged": {}
  },
@@ -12744,7 +12555,7 @@
    {
     "name": "Delta",
     "share": 0.632,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Delta County",
@@ -12758,23 +12569,16 @@
    }
   ],
   "issues": [
-   "delta/5",
    "delta-county/1",
-   "delta/2",
-   "delta/9",
+   "delta-county/3",
+   "montrose-county/6",
+   "delta-county/0",
+   "montrose-county/7",
    "delta-county/4",
-   "delta/6",
-   "montrose-county/5",
-   "delta-county/3"
+   "delta-county/6",
+   "delta-county/5"
   ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "delta/4"
-    ],
-    "site": false
-   }
-  }
+  "tagged": {}
  },
  "81418": {
   "governments": [
@@ -12791,13 +12595,13 @@
   ],
   "issues": [
    "delta-county/1",
-   "delta-county/4",
    "delta-county/3",
-   "delta-county/7",
    "delta-county/0",
+   "delta-county/4",
    "delta-county/6",
    "delta-county/5",
-   "delta-county/2"
+   "delta-county/2",
+   "delta-county/7"
   ],
   "tagged": {}
  },
@@ -12817,12 +12621,12 @@
   "issues": [
    "hotchkiss/1",
    "delta-county/1",
-   "delta-county/4",
-   "hotchkiss/7",
    "delta-county/3",
+   "hotchkiss/7",
    "hotchkiss/0",
    "hotchkiss/2",
-   "hotchkiss/3"
+   "hotchkiss/3",
+   "delta-county/0"
   ],
   "tagged": {}
  },
@@ -12840,14 +12644,14 @@
    }
   ],
   "issues": [
-   "montrose-county/5",
+   "montrose-county/6",
    "montrose-county/7",
-   "montrose-county/8",
    "montrose-county/0",
-   "montrose-county/1",
+   "montrose-county/4",
+   "montrose-county/5",
    "montrose-county/2",
-   "montrose-county/3",
-   "montrose-county/6"
+   "montrose-county/1",
+   "montrose-county/3"
   ],
   "tagged": {}
  },
@@ -12870,14 +12674,14 @@
    }
   ],
   "issues": [
-   "norwood/3",
-   "san-miguel-county/1",
    "norwood/5",
-   "norwood/8",
-   "san-miguel-county/5",
-   "norwood/0",
+   "norwood/6",
+   "san-miguel-county/1",
    "norwood/1",
-   "norwood/11"
+   "norwood/0",
+   "norwood/9",
+   "san-miguel-county/0",
+   "san-miguel-county/6"
   ],
   "tagged": {}
  },
@@ -12895,14 +12699,14 @@
    }
   ],
   "issues": [
-   "montrose-county/5",
+   "montrose-county/6",
    "montrose-county/7",
-   "montrose-county/8",
    "montrose-county/0",
-   "montrose-county/1",
+   "montrose-county/4",
+   "montrose-county/5",
    "montrose-county/2",
-   "montrose-county/3",
-   "montrose-county/6"
+   "montrose-county/1",
+   "montrose-county/3"
   ],
   "tagged": {}
  },
@@ -12920,14 +12724,14 @@
    }
   ],
   "issues": [
-   "montrose-county/5",
+   "montrose-county/6",
    "montrose-county/7",
-   "montrose-county/8",
    "montrose-county/0",
-   "montrose-county/1",
+   "montrose-county/4",
+   "montrose-county/5",
    "montrose-county/2",
-   "montrose-county/3",
-   "montrose-county/6"
+   "montrose-county/1",
+   "montrose-county/3"
   ],
   "tagged": {}
  },
@@ -12950,9 +12754,9 @@
    "ophir/2",
    "ophir/5",
    "ophir/6",
-   "san-miguel-county/5",
    "san-miguel-county/0",
-   "ophir/0"
+   "ophir/0",
+   "ophir/3"
   ],
   "tagged": {}
  },
@@ -12966,19 +12770,10 @@
    {
     "name": "Ouray County",
     "share": 0.183,
-    "has_records": true
+    "has_records": false
    }
   ],
-  "issues": [
-   "ouray-county/0",
-   "ouray-county/1",
-   "ouray-county/2",
-   "ouray-county/3",
-   "ouray-county/4",
-   "ouray-county/5",
-   "ouray-county/6",
-   "ouray-county/7"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "81428": {
@@ -12996,13 +12791,13 @@
   ],
   "issues": [
    "paonia/0",
-   "paonia/1",
    "delta-county/1",
-   "delta-county/4",
-   "paonia/8",
-   "paonia/3",
+   "paonia/1",
+   "paonia/6",
    "delta-county/3",
-   "paonia/5"
+   "paonia/10",
+   "paonia/3",
+   "paonia/8"
   ],
   "tagged": {}
  },
@@ -13015,14 +12810,14 @@
    }
   ],
   "issues": [
-   "montrose-county/5",
+   "montrose-county/6",
    "montrose-county/7",
-   "montrose-county/8",
    "montrose-county/0",
-   "montrose-county/1",
+   "montrose-county/4",
+   "montrose-county/5",
    "montrose-county/2",
-   "montrose-county/3",
-   "montrose-county/6"
+   "montrose-county/1",
+   "montrose-county/3"
   ],
   "tagged": {}
  },
@@ -13041,13 +12836,13 @@
   ],
   "issues": [
    "san-miguel-county/1",
-   "san-miguel-county/5",
    "san-miguel-county/0",
-   "san-miguel-county/8",
-   "san-miguel-county/7",
-   "san-miguel-county/3",
    "san-miguel-county/6",
-   "san-miguel-county/9"
+   "san-miguel-county/7",
+   "san-miguel-county/11",
+   "san-miguel-county/5",
+   "san-miguel-county/8",
+   "san-miguel-county/2"
   ],
   "tagged": {}
  },
@@ -13065,14 +12860,14 @@
    }
   ],
   "issues": [
-   "montrose-county/5",
+   "montrose-county/6",
    "montrose-county/7",
-   "montrose-county/8",
    "san-miguel-county/1",
    "montrose-county/0",
-   "montrose-county/1",
-   "montrose-county/2",
-   "montrose-county/3"
+   "montrose-county/4",
+   "montrose-county/5",
+   "san-miguel-county/0",
+   "san-miguel-county/6"
   ],
   "tagged": {}
  },
@@ -13081,7 +12876,7 @@
    {
     "name": "Ouray County",
     "share": 0.612,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Ridgway",
@@ -13094,10 +12889,10 @@
    "ridgway/2",
    "ridgway/1",
    "ridgway/9",
-   "ouray-county/0",
    "ridgway/4",
    "ridgway/5",
-   "ridgway/0"
+   "ridgway/0",
+   "ridgway/10"
   ],
   "tagged": {}
  },
@@ -13124,7 +12919,7 @@
    {
     "name": "Gunnison County",
     "share": 0.898,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Delta County",
@@ -13133,14 +12928,14 @@
    }
   ],
   "issues": [
-   "gunnison-county/3",
    "delta-county/1",
+   "delta-county/3",
+   "delta-county/0",
    "delta-county/4",
-   "gunnison-county/1",
-   "gunnison-county/2",
-   "gunnison-county/8",
-   "gunnison-county/9",
-   "delta-county/3"
+   "delta-county/6",
+   "delta-county/5",
+   "delta-county/2",
+   "delta-county/7"
   ],
   "tagged": {}
  },
@@ -13163,14 +12958,14 @@
    }
   ],
   "issues": [
-   "telluride/10",
    "telluride/1",
    "san-miguel-county/1",
-   "telluride/0",
-   "telluride/2",
-   "san-miguel-county/5",
+   "telluride/3",
+   "telluride/7",
    "san-miguel-county/0",
-   "san-miguel-county/8"
+   "telluride/4",
+   "san-miguel-county/6",
+   "san-miguel-county/7"
   ],
   "tagged": {}
  },
@@ -13188,14 +12983,14 @@
    }
   ],
   "issues": [
+   "grand-junction/1",
    "grand-junction/3",
+   "grand-junction/9",
    "grand-junction/2",
    "grand-junction/6",
    "grand-junction/11",
-   "grand-junction/5",
-   "grand-junction/8",
-   "grand-junction/0",
-   "grand-junction/1"
+   "grand-junction/13",
+   "grand-junction/7"
   ],
   "tagged": {
    "data-center": {
@@ -13221,14 +13016,14 @@
    }
   ],
   "issues": [
+   "grand-junction/1",
    "grand-junction/3",
-   "grand-junction/2",
    "mesa-county/5",
+   "grand-junction/9",
+   "grand-junction/2",
    "grand-junction/6",
    "grand-junction/11",
-   "grand-junction/5",
-   "grand-junction/8",
-   "grand-junction/0"
+   "grand-junction/13"
   ],
   "tagged": {
    "data-center": {
@@ -13254,14 +13049,14 @@
    }
   ],
   "issues": [
-   "grand-junction/3",
    "mesa-county/5",
-   "grand-junction/2",
-   "grand-junction/6",
-   "grand-junction/11",
+   "grand-junction/1",
+   "grand-junction/3",
+   "grand-junction/9",
+   "mesa-county/1",
    "mesa-county/2",
-   "mesa-county/3",
-   "mesa-county/9"
+   "mesa-county/4",
+   "mesa-county/7"
   ],
   "tagged": {
    "data-center": {
@@ -13287,14 +13082,14 @@
    }
   ],
   "issues": [
+   "grand-junction/1",
    "grand-junction/3",
-   "grand-junction/2",
    "mesa-county/5",
+   "grand-junction/9",
+   "grand-junction/2",
    "grand-junction/6",
    "grand-junction/11",
-   "grand-junction/5",
-   "grand-junction/8",
-   "grand-junction/0"
+   "grand-junction/13"
   ],
   "tagged": {
    "data-center": {
@@ -13320,14 +13115,14 @@
    }
   ],
   "issues": [
+   "grand-junction/1",
    "grand-junction/3",
+   "grand-junction/9",
    "grand-junction/2",
    "grand-junction/6",
    "grand-junction/11",
-   "grand-junction/5",
-   "grand-junction/8",
-   "grand-junction/0",
-   "grand-junction/1"
+   "grand-junction/13",
+   "grand-junction/7"
   ],
   "tagged": {
    "data-center": {
@@ -13353,13 +13148,13 @@
    }
   ],
   "issues": [
+   "grand-junction/1",
    "grand-junction/3",
-   "grand-junction/2",
    "mesa-county/5",
+   "grand-junction/9",
+   "grand-junction/2",
    "grand-junction/6",
-   "grand-junction/11",
-   "grand-junction/5",
-   "grand-junction/8",
+   "mesa-county/1",
    "mesa-county/2"
   ],
   "tagged": {
@@ -13382,13 +13177,13 @@
   ],
   "issues": [
    "mesa-county/5",
+   "mesa-county/1",
    "mesa-county/2",
-   "mesa-county/3",
-   "mesa-county/9",
    "mesa-county/4",
    "mesa-county/7",
-   "mesa-county/8",
-   "mesa-county/10"
+   "mesa-county/9",
+   "mesa-county/10",
+   "mesa-county/11"
   ],
   "tagged": {
    "data-center": {
@@ -13413,13 +13208,13 @@
    }
   ],
   "issues": [
-   "mesa-county/5",
-   "fruita/1",
-   "fruita/9",
-   "mesa-county/2",
-   "mesa-county/3",
-   "mesa-county/9",
    "fruita/0",
+   "mesa-county/5",
+   "mesa-county/1",
+   "mesa-county/2",
+   "mesa-county/4",
+   "mesa-county/7",
+   "fruita/1",
    "fruita/3"
   ],
   "tagged": {
@@ -13441,13 +13236,13 @@
   ],
   "issues": [
    "mesa-county/5",
+   "mesa-county/1",
    "mesa-county/2",
-   "mesa-county/3",
-   "mesa-county/9",
    "mesa-county/4",
    "mesa-county/7",
-   "mesa-county/8",
-   "mesa-county/10"
+   "mesa-county/9",
+   "mesa-county/10",
+   "mesa-county/11"
   ],
   "tagged": {
    "data-center": {
@@ -13468,13 +13263,13 @@
   ],
   "issues": [
    "mesa-county/5",
+   "mesa-county/1",
    "mesa-county/2",
-   "mesa-county/3",
-   "mesa-county/9",
    "mesa-county/4",
    "mesa-county/7",
-   "mesa-county/8",
-   "mesa-county/10"
+   "mesa-county/9",
+   "mesa-county/10",
+   "mesa-county/11"
   ],
   "tagged": {
    "data-center": {
@@ -13495,13 +13290,13 @@
   ],
   "issues": [
    "mesa-county/5",
+   "mesa-county/1",
    "mesa-county/2",
-   "mesa-county/3",
-   "mesa-county/9",
    "mesa-county/4",
    "mesa-county/7",
-   "mesa-county/8",
-   "mesa-county/10"
+   "mesa-county/9",
+   "mesa-county/10",
+   "mesa-county/11"
   ],
   "tagged": {
    "data-center": {
@@ -13522,13 +13317,13 @@
   ],
   "issues": [
    "mesa-county/5",
+   "mesa-county/1",
    "mesa-county/2",
-   "mesa-county/3",
-   "mesa-county/9",
    "mesa-county/4",
    "mesa-county/7",
-   "mesa-county/8",
-   "mesa-county/10"
+   "mesa-county/9",
+   "mesa-county/10",
+   "mesa-county/11"
   ],
   "tagged": {
    "data-center": {
@@ -13554,13 +13349,13 @@
   ],
   "issues": [
    "mesa-county/5",
+   "mesa-county/1",
    "mesa-county/2",
-   "mesa-county/3",
-   "mesa-county/9",
    "mesa-county/4",
    "mesa-county/7",
-   "mesa-county/8",
-   "mesa-county/10"
+   "mesa-county/9",
+   "mesa-county/10",
+   "mesa-county/11"
   ],
   "tagged": {
    "data-center": {
@@ -13581,13 +13376,13 @@
   ],
   "issues": [
    "mesa-county/5",
+   "mesa-county/1",
    "mesa-county/2",
-   "mesa-county/3",
-   "mesa-county/9",
    "mesa-county/4",
    "mesa-county/7",
-   "mesa-county/8",
-   "mesa-county/10"
+   "mesa-county/9",
+   "mesa-county/10",
+   "mesa-county/11"
   ],
   "tagged": {
    "data-center": {
@@ -13612,14 +13407,14 @@
    }
   ],
   "issues": [
-   "glenwood-springs/0",
-   "glenwood-springs/5",
-   "glenwood-springs/8",
-   "garfield-county/4",
-   "glenwood-springs/1",
-   "glenwood-springs/3",
+   "garfield-county/0",
    "garfield-county/1",
-   "garfield-county/0"
+   "glenwood-springs/0",
+   "glenwood-springs/1",
+   "glenwood-springs/2",
+   "glenwood-springs/3",
+   "glenwood-springs/5",
+   "glenwood-springs/4"
   ],
   "tagged": {}
  },
@@ -13642,9 +13437,9 @@
    "moffat-county/3",
    "moffat-county/4",
    "moffat-county/7",
+   "moffat-county/9",
    "moffat-county/1",
-   "moffat-county/2",
-   "moffat-county/5"
+   "moffat-county/2"
   ],
   "tagged": {
    "data-center": {
@@ -13669,13 +13464,13 @@
    }
   ],
   "issues": [
+   "aspen/5",
    "aspen/1",
+   "aspen/4",
    "aspen/0",
    "aspen/2",
    "aspen/3",
-   "aspen/12",
-   "aspen/5",
-   "aspen/7",
+   "aspen/11",
    "aspen/9"
   ],
   "tagged": {}
@@ -13707,12 +13502,12 @@
   "issues": [
    "snowmass-village/0",
    "snowmass-village/3",
+   "snowmass-village/9",
    "snowmass-village/1",
    "snowmass-village/2",
+   "snowmass-village/4",
    "snowmass-village/6",
-   "snowmass-village/7",
-   "snowmass-village/8",
-   "snowmass-village/11"
+   "snowmass-village/8"
   ],
   "tagged": {}
  },
@@ -13745,7 +13540,7 @@
    {
     "name": "Basalt",
     "share": 0.66,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Eagle County",
@@ -13758,16 +13553,7 @@
     "has_records": false
    }
   ],
-  "issues": [
-   "basalt/0",
-   "basalt/6",
-   "basalt/3",
-   "basalt/1",
-   "basalt/9",
-   "basalt/4",
-   "basalt/5",
-   "basalt/8"
-  ],
+  "issues": [],
   "tagged": {}
  },
  "81623": {
@@ -13795,7 +13581,7 @@
    {
     "name": "Gunnison County",
     "share": 0.017,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Marble",
@@ -13804,14 +13590,14 @@
    }
   ],
   "issues": [
-   "garfield-county/4",
-   "garfield-county/1",
    "garfield-county/0",
-   "garfield-county/3",
-   "garfield-county/6",
-   "gunnison-county/3",
+   "garfield-county/1",
+   "garfield-county/8",
+   "garfield-county/4",
    "garfield-county/5",
-   "garfield-county/9"
+   "garfield-county/9",
+   "garfield-county/2",
+   "garfield-county/3"
   ],
   "tagged": {}
  },
@@ -13830,13 +13616,13 @@
   ],
   "issues": [
    "mesa-county/5",
+   "mesa-county/1",
    "mesa-county/2",
-   "mesa-county/3",
-   "mesa-county/9",
    "mesa-county/4",
    "mesa-county/7",
-   "mesa-county/8",
-   "mesa-county/10"
+   "mesa-county/9",
+   "mesa-county/10",
+   "mesa-county/11"
   ],
   "tagged": {
    "data-center": {
@@ -13899,13 +13685,13 @@
   ],
   "issues": [
    "mesa-county/5",
+   "mesa-county/1",
    "mesa-county/2",
-   "mesa-county/3",
-   "mesa-county/9",
-   "garfield-county/4",
+   "mesa-county/4",
+   "mesa-county/7",
+   "garfield-county/0",
    "garfield-county/1",
-   "de-beque/3",
-   "de-beque/9"
+   "mesa-county/9"
   ],
   "tagged": {
    "data-center": {
@@ -13933,12 +13719,12 @@
   "issues": [
    "eagle/0",
    "eagle/2",
+   "eagle/9",
    "eagle/1",
    "eagle/4",
-   "eagle/8",
-   "eagle/9",
-   "eagle/13",
-   "eagle/3"
+   "eagle/7",
+   "eagle/10",
+   "eagle/8"
   ],
   "tagged": {}
  },
@@ -13967,9 +13753,9 @@
    "moffat-county/3",
    "moffat-county/4",
    "moffat-county/7",
+   "moffat-county/9",
    "moffat-county/1",
-   "moffat-county/2",
-   "moffat-county/5"
+   "moffat-county/2"
   ],
   "tagged": {
    "data-center": {
@@ -13994,14 +13780,14 @@
    }
   ],
   "issues": [
-   "garfield-county/4",
-   "garfield-county/1",
    "garfield-county/0",
-   "garfield-county/3",
-   "garfield-county/6",
+   "garfield-county/1",
    "parachute/2",
    "parachute/3",
-   "parachute/4"
+   "garfield-county/8",
+   "parachute/4",
+   "parachute/6",
+   "parachute/10"
   ],
   "tagged": {
    "data-center": {
@@ -14033,12 +13819,12 @@
   "issues": [
    "gypsum/0",
    "gypsum/1",
-   "gypsum/8",
+   "gypsum/9",
    "gypsum/10",
    "gypsum/4",
-   "gypsum/6",
-   "gypsum/3",
-   "gypsum/7"
+   "gypsum/5",
+   "garfield-county/0",
+   "garfield-county/1"
   ],
   "tagged": {}
  },
@@ -14052,18 +13838,18 @@
    {
     "name": "Routt County",
     "share": 0.199,
-    "has_records": true
+    "has_records": false
    }
   ],
   "issues": [
    "moffat-county/0",
-   "routt-county/1",
-   "routt-county/0",
-   "routt-county/2",
    "moffat-county/6",
-   "routt-county/6",
-   "routt-county/10",
-   "routt-county/12"
+   "moffat-county/3",
+   "moffat-county/4",
+   "moffat-county/7",
+   "moffat-county/9",
+   "moffat-county/1",
+   "moffat-county/2"
   ],
   "tagged": {
    "data-center": {
@@ -14084,18 +13870,18 @@
    {
     "name": "Routt County",
     "share": 0.223,
-    "has_records": true
+    "has_records": false
    }
   ],
   "issues": [
-   "routt-county/1",
-   "routt-county/0",
-   "routt-county/2",
-   "hayden/4",
-   "hayden/7",
-   "routt-county/6",
-   "routt-county/10",
-   "routt-county/12"
+   "hayden/5",
+   "hayden/6",
+   "hayden/9",
+   "hayden/0",
+   "hayden/1",
+   "hayden/2",
+   "hayden/3",
+   "hayden/4"
   ],
   "tagged": {
    "data-center": {
@@ -14120,9 +13906,9 @@
    "moffat-county/3",
    "moffat-county/4",
    "moffat-county/7",
+   "moffat-county/9",
    "moffat-county/1",
-   "moffat-county/2",
-   "moffat-county/5"
+   "moffat-county/2"
   ],
   "tagged": {
    "data-center": {
@@ -14153,11 +13939,11 @@
   ],
   "issues": [
    "moffat-county/0",
-   "meeker/3",
    "moffat-county/6",
    "meeker/0",
    "meeker/1",
    "meeker/2",
+   "meeker/3",
    "meeker/4",
    "meeker/5"
   ],
@@ -14191,13 +13977,13 @@
   ],
   "issues": [
    "mesa-county/5",
+   "mesa-county/1",
    "mesa-county/2",
-   "mesa-county/3",
-   "mesa-county/9",
    "mesa-county/4",
    "mesa-county/7",
-   "mesa-county/8",
-   "mesa-county/10"
+   "mesa-county/9",
+   "mesa-county/10",
+   "mesa-county/11"
   ],
   "tagged": {
    "data-center": {
@@ -14222,19 +14008,19 @@
    }
   ],
   "issues": [
-   "minturn/8",
-   "minturn/0",
-   "minturn/2",
-   "minturn/1",
    "minturn/3",
+   "minturn/0",
+   "minturn/1",
+   "minturn/10",
+   "minturn/2",
    "minturn/4",
-   "minturn/5",
-   "minturn/11"
+   "minturn/7",
+   "minturn/5"
   ],
   "tagged": {
    "guns": {
     "ids": [
-     "minturn/0"
+     "minturn/1"
     ],
     "site": false
    }
@@ -14250,13 +14036,13 @@
   ],
   "issues": [
    "mesa-county/5",
+   "mesa-county/1",
    "mesa-county/2",
-   "mesa-county/3",
-   "mesa-county/9",
    "mesa-county/4",
    "mesa-county/7",
-   "mesa-county/8",
-   "mesa-county/10"
+   "mesa-county/9",
+   "mesa-county/10",
+   "mesa-county/11"
   ],
   "tagged": {
    "data-center": {
@@ -14281,16 +14067,23 @@
    }
   ],
   "issues": [
-   "garfield-county/4",
-   "garfield-county/1",
-   "new-castle/1",
-   "new-castle/3",
-   "new-castle/5",
    "garfield-county/0",
-   "garfield-county/3",
-   "garfield-county/6"
+   "garfield-county/1",
+   "garfield-county/8",
+   "garfield-county/4",
+   "garfield-county/5",
+   "garfield-county/9",
+   "new-castle/0",
+   "garfield-county/2"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "new-castle/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81648": {
   "governments": [
@@ -14343,19 +14136,19 @@
    }
   ],
   "issues": [
-   "minturn/8",
-   "minturn/0",
-   "minturn/2",
-   "minturn/1",
    "minturn/3",
+   "minturn/0",
+   "minturn/1",
+   "minturn/10",
+   "minturn/2",
    "minturn/4",
-   "minturn/5",
-   "minturn/11"
+   "minturn/7",
+   "minturn/5"
   ],
   "tagged": {
    "guns": {
     "ids": [
-     "minturn/0"
+     "minturn/1"
     ],
     "site": false
    }
@@ -14380,14 +14173,14 @@
    }
   ],
   "issues": [
-   "rifle/2",
-   "rifle/8",
-   "garfield-county/4",
    "rifle/0",
-   "rifle/6",
-   "garfield-county/1",
+   "rifle/2",
+   "rifle/3",
    "garfield-county/0",
-   "garfield-county/3"
+   "garfield-county/1",
+   "rifle/6",
+   "rifle/1",
+   "rifle/4"
   ],
   "tagged": {
    "data-center": {
@@ -14412,14 +14205,14 @@
    }
   ],
   "issues": [
-   "garfield-county/4",
-   "garfield-county/1",
    "garfield-county/0",
-   "garfield-county/3",
-   "garfield-county/6",
+   "garfield-county/1",
+   "garfield-county/8",
+   "garfield-county/4",
    "garfield-county/5",
    "garfield-county/9",
-   "garfield-county/2"
+   "garfield-county/2",
+   "garfield-county/3"
   ],
   "tagged": {}
  },
@@ -14428,7 +14221,7 @@
    {
     "name": "Routt County",
     "share": 0.835,
-    "has_records": true
+    "has_records": false
    },
    {
     "name": "Moffat County",
@@ -14437,14 +14230,14 @@
    }
   ],
   "issues": [
-   "routt-county/1",
-   "routt-county/0",
-   "routt-county/2",
    "moffat-county/0",
-   "routt-county/6",
-   "routt-county/10",
-   "routt-county/12",
-   "routt-county/4"
+   "moffat-county/6",
+   "moffat-county/3",
+   "moffat-county/4",
+   "moffat-county/7",
+   "moffat-county/9",
+   "moffat-county/1",
+   "moffat-county/2"
   ],
   "tagged": {
    "data-center": {
@@ -14471,12 +14264,12 @@
   "issues": [
    "snowmass-village/0",
    "snowmass-village/3",
+   "snowmass-village/9",
    "snowmass-village/1",
    "snowmass-village/2",
+   "snowmass-village/4",
    "snowmass-village/6",
-   "snowmass-village/7",
-   "snowmass-village/8",
-   "snowmass-village/11"
+   "snowmass-village/8"
   ],
   "tagged": {}
  },

@@ -1,133 +1,125 @@
-- title: Property tax mill levy cut of 8 mills and the FY 2027 budget
-  summary: Staff's preliminary FY 2027 budget keeps the full 23.947-mill levy, citing falling property tax revenue. Council then took up Ordinance 2026-299, which would permanently cut the levy by 8.000 mills in four annual steps of 2.000 mills, with any later increase needing voter approval. The 2027 proposed budget was on the Nov. 2 agenda, and a resident asked for trees at Clearview Park in it.
+- title: Permanent property tax mill levy cut of 8 mills (Ordinance 2026-299)
+  summary: Council considered an ordinance permanently reducing the town's property tax mill levy by 8.000 mills in four annual steps of 2.000 mills. Any future increase would need new voter approval, and staff are directed to handle general fund impacts without restoring mills. It follows the FY2027 budget work, where staff recommended keeping the 23.947-mill levy because property tax revenue has declined.
   where: Townwide
   refs:
-  - 8
-  - 9
-  - 10
-  - 14
-  - 15
-  - 20
-  - 21
+  - 7
+  - 12
+  - 13
+  - 19
   topics:
   - Budget & taxes
-  - Government operations
   public_comment: true
-- title: Stormwater rate study and master plan
-  summary: The Stormwater Utility fee has stayed at $5 per equivalent residential unit, with a $1,100/acre development charge, since the enterprise was set up in 2004. A consultant's master plan and rate study proposes rate increases to pay for a tiered list of capital projects.
+- title: FY 2027 budget
+  summary: Council held a preliminary FY2027 budget work session on Sept. 28, acknowledged receipt of the preliminary budget, and held a public hearing on the 2027 proposed budget on Nov. 2. A resident asked for trees at Clearview Park in the budget.
   where: Townwide
   refs:
-  - 0
-  - 1
+  - 6
+  - 7
+  - 8
+  - 9
+  - 18
+  - 19
   topics:
-  - Fees & rates
-  - Utilities
-- title: Repeated power outages and questions about AI data centers
-  summary: Residents in Centerra and elsewhere in Johnstown complained to Council about constant power outages. Another resident asked about plans for future AI centers.
-  where: Centerra and Townwide
+  - Budget & taxes
+  public_comment: true
+- title: Senior Center construction
+  summary: Council discussed continuing the Senior Center project in August, with a resident speaking in support. On Oct. 5 it considered awarding the construction contract to Fransen Pittman Construction Co., Inc.
+  where: Johnstown Senior Center site
   refs:
-  - 4
+  - 2
+  - 9
+  topics:
+  - Health & human services
+  - Recreation & trails
+  public_comment: true
+- title: Power outages and future AI centers
+  summary: Residents raised repeated power outages in Centerra and elsewhere in Johnstown, and one asked about plans for future AI centers and what happens with them.
+  where: Centerra and Johnstown
+  refs:
+  - 2
   topics:
   - Utilities
   - Data centers
   tags:
   - data-center
   public_comment: true
-- title: Water supply, water rates and NISP
-  summary: Council discussed the Northern Integrated Supply Project and later considered the Twenty-Second Interim Agreement for NISP participation. It also considered a Water System Master Plan update with J-U-B Engineers (up to $326,400), a Raw Water Transmission Project services agreement with Connell Resources, and the purchase of 15 CBT units. A resident commented on water usage at town facilities and on water rates.
-  where: Townwide
+- title: I-25 East Frontage Road devolution from CDOT
+  summary: Council held a public hearing on Ordinance 2026-297, accepting a portion of the I-25 East Frontage Road between mile markers 253.2 and 257.1 and approving an intergovernmental agreement with CDOT. It returned for further action on Sept. 9.
+  where: I-25 East Frontage Road, MM 253.2–257.1
+  refs:
+  - 2
+  - 5
+  topics:
+  - Roads & traffic
+- title: Downtown Development Authority plan and DDA Fund
+  summary: The Planning Commission reviewed the DDA Plan of Development and Council held a public hearing on it in August. Council later took up Ordinance 2026-298 establishing a DDA Fund, and a new DDA executive director was introduced.
+  where: Downtown Johnstown
   refs:
   - 0
   - 1
-  - 7
-  - 11
-  - 15
-  - 20
-  - 21
+  - 2
+  - 5
+  - 9
+  - 13
+  topics:
+  - Downtown & business
+  - Economic development
+  - Budget & taxes
+- title: Water supply, rates and water projects
+  summary: Council approved a $326,400 J-U-B Engineers contract to update the Water System Master Plan. It also dealt with the Raw Water Transmission Project, the Northern Integrated Supply Project agreement, CBT units and a Little Thompson Water District agreement. A resident raised water use at town facilities and water rates.
+  where: Townwide
+  refs:
+  - 5
+  - 9
+  - 13
+  - 18
+  - 19
   topics:
   - Water
   - Fees & rates
   - Utilities
   public_comment: true
-- title: Senior Center construction
-  summary: Residents spoke in support of continuing the Senior Center project. Council awarded the construction contract to Fransen Pittman Construction Co., Inc.
-  where: Johnstown
-  refs:
-  - 4
-  - 11
-  topics:
-  - Health & human services
-  - Recreation & trails
-  public_comment: true
-- title: Housing needs assessment and comprehensive plan updates
-  summary: To comply with state Senate Bill 24-174, consultant ECOnorthwest drafted a Housing Needs Assessment and new Strategic Growth and Water Supply elements for the comprehensive plan. Planning and Zoning is to consider them Nov. 18 and Council is to consider adoption Dec. 2. A Housing Action Plan follows in mid-2027.
+- title: State-required housing needs assessment and comprehensive plan updates
+  summary: Under state Senate Bill 24-174, the town is drafting a Housing Needs Assessment plus Strategic Growth and Water Supply plan elements with consultant ECOnorthwest. Planning Commission review is set for Nov. 18 and Council adoption for Dec. 2, with a Housing Action Plan in mid-2027.
   where: Townwide
   refs:
-  - 17
-  - 18
+  - 15
+  - 16
   topics:
   - Housing
   - Zoning & development
-- title: I-25 East Frontage Road transfer from CDOT
-  summary: Council held a public hearing on Ordinance 2026-297, which accepts part of the I-25 East Frontage Road between mile markers 253.2 and 257.1 and approves an intergovernmental agreement with CDOT. It passed first reading and came back on the Sept. 9 agenda.
-  where: I-25 East Frontage Road, MM 253.2–257.1
+- title: New Town Attorney selection
+  summary: Council interviewed firms for Town Attorney, including Hoffmann Parker Wilson & Carberry. On Oct. 5 it considered a legal services agreement with Wilson Williams Fellman Dittman.
   refs:
-  - 4
-  - 7
-  topics:
-  - Roads & traffic
-  - Government operations
-- title: Downtown Development Authority plan and DDA fund
-  summary: The DDA Plan of Development went to Planning and Zoning and to a Council public hearing. Ordinance 2026-298 sets up a DDA Fund, and a new DDA executive director was introduced.
-  where: Downtown Johnstown
-  refs:
-  - 2
   - 3
   - 4
-  - 7
-  - 11
-  - 15
-  topics:
-  - Downtown & business
-  - Economic development
-  - Budget & taxes
-- title: Town Attorney selection
-  summary: Council interviewed law firms for the appointed Town Attorney position, including Hoffmann Parker Wilson & Carberry. It later considered a legal services agreement with Wilson Williams Fellman Dittman.
-  where: Town Hall
-  refs:
-  - 5
-  - 6
-  - 11
+  - 9
   topics:
   - Government operations
   - Lawsuits & legal
-- title: 'Development approvals: Diamond Ridge Metro Districts, Lucky Star Monopine, Whitehall'
-  summary: Council was to consider a service plan for the Diamond Ridge Metropolitan Districts. Resolution 2026-40 covers the Lucky Star wireless Monopine, a Use by Special Review northeast of CR 42 and Colorado Blvd. Planning and Zoning also reviewed the Whitehall Filing No. 2 rezone and plat.
-  where: CR 42 and Colorado Blvd; Diamond Ridge; Whitehall
+- title: 'Development approvals: Whitehall rezone, Lucky Star Monopine, Diamond Ridge Metro District'
+  summary: The Planning Commission heard the Whitehall Filing No. 2 rezone and preliminary plat and a special review for a wireless tower (Lucky Star Monopine) northeast of County Road 42 and Colorado Blvd. Council took up Resolution 2026-40 on the tower and the Diamond Ridge Metropolitan District service plan.
+  where: County Road 42 and Colorado Blvd; Whitehall; Diamond Ridge
   refs:
-  - 3
-  - 7
-  - 20
-  - 21
+  - 1
+  - 5
+  - 18
   topics:
   - Zoning & development
   - Land & property
-- title: YMCA facility management agreement and settlement
-  summary: Council considered an amended and restated Facility Management Agreement with the YMCA of Northern Colorado, tied to a settlement and release agreement and a reimbursement by the YMCA.
-  where: Johnstown
+- title: 'Property deals: Quality Liquid Feeds and Gillam Development'
+  summary: Council considered a purchase and sale agreement with Quality Liquid Feeds, Inc. (Resolution 2026-42) and another with Gillam Development Corporation, along with executive sessions on real property.
   refs:
-  - 11
+  - 2
+  - 8
+  - 12
+  - 13
+  topics:
+  - Land & property
+- title: YMCA facility management agreement and settlement
+  summary: Council took up an amended and restated facility management agreement with the YMCA of Northern Colorado, tied to a settlement and release agreement and a reimbursement.
+  refs:
+  - 9
   topics:
   - Recreation & trails
   - Lawsuits & legal
-- title: 'Town land purchases: Quality Liquid Feeds and Gillam Development'
-  summary: Council considered a purchase and sale agreement with Quality Liquid Feeds, Inc., discussed in executive session, and a separate one with Gillam Development Corporation.
-  where: Quality Liquid Feeds property
-  refs:
-  - 4
-  - 10
-  - 11
-  - 14
-  - 15
-  topics:
-  - Land & property

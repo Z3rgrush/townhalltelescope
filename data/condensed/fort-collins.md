@@ -518,7 +518,42 @@
 - $17,638.83 of unanticipated grant revenue from the Department of Justice Office of Justice
 - Programs for the Edward Byrne Memorial Justice Assistance Grant Program. The funding will
 
-## [fort-collins#18] 2026-10-13 | City Council Work Session | agenda
+## [fort-collins#18] 2026-10-06 | City Council | agenda
+- Council minutes are the official record of the meeting and are prepared to be approved by Council generally at
+- its next meeting. Following approval, minutes are posted at this link: Council Minutes
+- PROCLAMATIONS & PRESENTATIONS
+- A) PROCLAMATIONS AND PRESENTATIONS
+- 1. Declaring the Day of October 15, 2026, as Imagine A Day Without Water Day
+- 3. Declaring the Week of October 4-10, 2026, as Fire Prevention Week
+- 4. Declaring the Month of October 2026 as Conflict Resolution Month
+- G) PUBLIC COMMENT ON ANY TOPICS OR ITEMS OR COMMUNITY EVENTS
+- H) PUBLIC COMMENT FOLLOW-UP
+- I) COUNCILMEMBER REMOVAL OF ITEMS FROM CONSENT CALENDAR FOR DISCUSSION
+- 1. Consideration and Approval of the Minutes of the September 15, 2026, Regular Meeting
+- The purpose of this item is to approve the minutes of the September 15, 2026, Regular Meeting
+- 2. Second Reading of Ordinance No. 124, 2026, Appropriating Unanticipated Philanthropic
+- This Ordinance, unanimously adopted on First Reading on September 15, 2026, requests an
+- are aligned with both the City’s strategic priorities and the respective donors’ designation
+- Ordinance Adopted on Second Reading
+- 3. Second Reading of Ordinance No. 125, 2026, Appropriating Unanticipated Grant Revenue
+- Justice Assistance Grant Program
+- This Ordinance, unanimously adopted on First Reading on September 15, 2026, appropriates
+- $17,638.83 of unanticipated grant revenue from the Department of Justice Office of Justice
+- Programs for the Edward Byrne Memorial Justice Assistance Grant Program. The funding will
+- support Fort Collins Police Services as a partner agency of the Northern Colorado Drug Task
+- Larimer County applied for and was awarded $55,357 through the Edward Byrne Memorial
+- Justice Assistance Grant (JAG) program in support of operating the Northern Colorado Drug Task
+- Force (Attachment 1). Fort Collins Police Services, as a subrecipient, will receive $17,638.83
+- A. Second Reading of Ordinance No. 126, 2026, Making Supplemental Appropriations in Various
+- B. Second Reading of Ordinance No. 127, 2026, Appropriating Prior Year Reserves in Various
+- C. Second Reading of Ordinance No. 128, 2026, Approving a Transfer of an Appropriation in the
+- These Ordinances, unanimously adopted on First Reading on September 15, 2026, combine
+- 2026 annual budget appropriation. The unanticipated revenue is primarily from fees, charges,
+- rents, contributions and grants that have been paid to City departments to offset specific
+- All Ordinances Adopted on Second Reading
+- 5. Second Reading of Ordinance No. 129, 2026, Amending the Landmark Designation of the
+
+## [fort-collins#19] 2026-10-13 | City Council Work Session | agenda
 - B) ITEMS FOR DISCUSSION
 - 1. 2027-2028 Biennial Budget – Work Session #3
 - The purpose of this item is to continue discussion of the 2027-2028 Recommended Budget, which
@@ -530,7 +565,7 @@
 - Upon request, the City of Fort Collins will provide language access services for individuals who have limited
 - Please provide advance notice. Requests for interpretation at a meeting should be made by noon the day
 
-## [fort-collins#19] 2026-10-13 | City Council Work Session | agenda
+## [fort-collins#20] 2026-10-13 | City Council Work Session | agenda
 - B) ITEMS FOR DISCUSSION
 - 1. 2027-2028 Biennial Budget – Work Session #3
 - The purpose of this item is to continue discussion of the 2027-2028 Recommended Budget, which
@@ -565,7 +600,7 @@
 - Further information on the proposed use of the Parks & Recreation 2050 tax is also available in the May
 - 13, 2026 Follow Up Memo from an April 28 Citywide Capital Projects presentation: April 28, 2026 Work
 
-## [fort-collins#20] 2026-10-20 | City Council | agenda
+## [fort-collins#21] 2026-10-20 | City Council | agenda
 - PROCLAMATIONS & PRESENTATIONS
 - A) PROCLAMATIONS AND PRESENTATIONS
 - G) PUBLIC COMMENT ON ANY TOPICS OR ITEMS OR COMMUNITY EVENTS
@@ -599,7 +634,7 @@
 - Capital Improvement Program – Pedestrian Sidewalk funds to the Project; (3) transfer $50,000 in
 - previously appropriated Transportation Services funds to the Project; (4) transfer $323,536 in
 
-## [fort-collins#21] 2026-10-20 | City Council | agenda
+## [fort-collins#22] 2026-10-20 | City Council | agenda
 - PROCLAMATIONS & PRESENTATIONS
 - A) PROCLAMATIONS AND PRESENTATIONS
 - G) PUBLIC COMMENT ON ANY TOPICS OR ITEMS OR COMMUNITY EVENTS
@@ -633,7 +668,41 @@
 - Capital Improvement Program – Pedestrian Sidewalk funds to the Project; (3) transfer $50,000 in
 - previously appropriated Transportation Services funds to the Project; (4) transfer $323,536 in
 
-## [fort-collins#22] 2026-10-20 | Utility Enterprise | agenda
+## [fort-collins#23] 2026-10-20 | City Council | agenda
+- Council minutes are the official record of the meeting and are prepared to be approved by Council generally at
+- its next meeting. Following approval, minutes are posted at this link: Council Minutes
+- PROCLAMATIONS & PRESENTATIONS
+- A) PROCLAMATIONS AND PRESENTATIONS
+- G) PUBLIC COMMENT ON ANY TOPICS OR ITEMS OR COMMUNITY EVENTS
+- H) PUBLIC COMMENT FOLLOW-UP
+- I) COUNCILMEMBER REMOVAL OF ITEMS FROM CONSENT CALENDAR FOR DISCUSSION
+- 1. Consideration and Approval of the Minutes of the October 6, 2026, Regular Meeting
+- The purpose of this item is to approve the minutes of the October 6, 2026, Regular Meeting
+- 2. Second Reading of Ordinance No. 132, 2026, Making a Supplemental Appropriation and
+- Authorizing Transfers of Appropriations for the Pedestrian Intersection Improvements
+- Project and Related Art in Public Places
+- This Ordinance, unanimously adopted on First Reading on October 6, 2026, requests a
+- supplemental appropriation for the Pedestrian Intersection Improvements project (the “Project”)
+- The funding will be used to cover construction costs for the five locations included in the Project
+- If approved, the item will: (1) transfer $579,934 in Community Capital Improvement Program
+- Bicycle Infrastructure Improvements funds to the Project; (2) transfer $50,000 in Community
+- Capital Improvement Program – Pedestrian Sidewalk funds to the Project; (3) transfer $50,000 in
+- previously appropriated Transportation Services funds to the Project; (4) transfer $323,536 in
+- Transportation Capital Expansion Fee funds to the Project; (5) appropriate $74 in Transportation
+- Services Reserve funds to the Project; and 6) transfer $3,699 (1% of new Project funding) in
+- capital project funds to the Art in Public Places (“APP”) program. This item appropriates and/or
+- transfers $1,003,544 to the Project, for an anticipated total Project funding of $2,460,856. The
+- Project will help make progress towards the City’s Vision Zero Goal and aims to improve
+- vulnerable road user safety with infrastructure improvements on the High Injury Network
+- Ordinance Adopted on Second Reading
+- 3. Second Reading of Ordinance No. 133, 2026, Making a Supplemental Appropriation and
+- Improvements Project and Related Art in Public Places
+- supplemental appropriation for the Lemay and Drake Intersection Improvements project (the
+- “Project”). The funding will be used to complete acquisition of private property adjacent to the
+- intersection right-of-way that is needed for the Project and install a replacement traffic signal. If
+- approved the item will (1) appropriate $1,549,760 in Transportation Capital Expansion Fee funds
+
+## [fort-collins#24] 2026-10-20 | Utility Enterprise | agenda
 - Water Utility
 - WATER UTILITY ENTERPRISE BOARD MEETING
 - C) ITEMS FOR DISCUSSION
@@ -664,7 +733,7 @@
 - Upon request, the City of Fort Collins will provide language access services for individuals who have limited
 - Please provide advance notice. Requests for interpretation at a meeting should be made by noon the day
 
-## [fort-collins#23] 2026-10-20 | Utility Enterprise | agenda
+## [fort-collins#25] 2026-10-20 | Utility Enterprise | agenda
 - Water Utility
 - WATER UTILITY ENTERPRISE BOARD MEETING
 - C) ITEMS FOR DISCUSSION
@@ -697,7 +766,39 @@
 - Darren Parkin, Halligan Project Manager
 - Resolution No. 012 Acting Ex-Officio as the Board of the City’s Water Utility Enterprise, Authorizing
 
-## [fort-collins#24] 2026-10-22 | Urban Renewal Authority | agenda
+## [fort-collins#26] 2026-10-20 | Utility Enterprise | agenda
+- Water Utility
+- minutes are the official record of the meeting and are prepared to be approved by Council generally at its next
+- meeting. Following approval, minutes are posted at this link: Council Minutes
+- WATER UTILITY ENTERPRISE BOARD MEETING
+- C) ITEMS FOR DISCUSSION
+- 1. Resolution No. 012 Acting Ex-Officio as the Board of the City’s Water Utility Enterprise,
+- Agreements with the Northern Integrated Supply Project Water Activity Enterprise for the
+- City to Become a Participant in the Northern Integrated Supply Project and to Store Water
+- Attributable to Some of the City’s Own Water Rights in Glade Reservoir
+- The purpose of this item is to authorize the Mayor to execute agreements with the Northern
+- Integrated Supply Project Water Activity Enterprise. The City has been working since the late
+- (“NPIC”), to meet the City’s needs for additional water supply and storage. The City began seeking
+- regulatory approval with the U.S. Army Corps of Engineers (“Corps”) in 2006 to enlarge Halligan
+- Reservoir as part of the Halligan Water Supply Project (“Halligan Project”). Throughout, City staff
+- continued to evaluate water storage alternatives on a variety of factors (cost, supply impacts,
+- water quality impacts, environmental impacts) as regulatory landscape, costs, and opportunities
+- In light of developments over the last 18 months, including the availability of allotment units in the
+- Northern Integrated Supply Project (“NISP”), updated project and operating costs, and significant
+- permitting uncertainties for the Halligan Reservoir project, the City’s participation in NISP appears
+- more certain than the enlargement of Halligan Reservoir through the Halligan Project
+- Participation in NISP is projected to result in lower overall rate increases, and, depending on the
+- climate adaptation, housing, and economic development
+- Staff has been working with the Northern Colorado Water Conservancy District (“Northern”) to
+- evaluation, and the associated benefits to the City, is the ability to bring some City water rights to
+- the project. Through this effort, agreements have been drafted that allow the City to buy into NISP
+- with the ability to store water attributable to some of the City’s own water in Glade Reservoir
+- To pursue these agreements in earnest, staff believe it is also necessary to notify the Corps of
+- the City’s intention to join NISP and subsequently withdraw the application to the Corps for a
+- permit under Section 404 of the Clean Water Act for the Halligan Project
+- Resolution adopted 6-1. Nay: Nelsen
+
+## [fort-collins#27] 2026-10-22 | Urban Renewal Authority | agenda
 - G) DISCUSSION ITEMS
 - The method of debate for discussion items is as follows:
 - Chair introduces the item number and subject; asks if formal presentation will be
@@ -730,7 +831,7 @@
 - Budgeting process in June, 2026. The first request covered the costs of performing core functions
 - of the URA plus two 1x projects approved in 2026 (Stormwater & NRP). The second offer was for
 
-## [fort-collins#25] 2026-10-22 | Urban Renewal Authority | agenda
+## [fort-collins#28] 2026-10-22 | Urban Renewal Authority | agenda
 - G) DISCUSSION ITEMS
 - The method of debate for discussion items is as follows:
 - Chair introduces the item number and subject; asks if formal presentation will be
@@ -763,7 +864,7 @@
 - Budgeting process in June, 2026. The first request covered the costs of performing core functions
 - of the URA plus two 1x projects approved in 2026 (Stormwater & NRP). The second offer was for
 
-## [fort-collins#26] 2026-10-22 | Urban Renewal Authority | agenda
+## [fort-collins#29] 2026-10-22 | Urban Renewal Authority | agenda
 - D) DISCUSSION ITEMS
 - Coalition framework for North College redevelopment, beginning with 1636 North College and
 - related superblock opportunities. The Charter describes how residents, businesses and project
@@ -776,7 +877,7 @@
 - to the termination of the Tax Increment Financing (“TIF”) collection period
 - Upon request, the City of Fort Collins will provide language access services for individuals who have
 
-## [fort-collins#27] 2026-10-22 | Urban Renewal Authority | agenda
+## [fort-collins#30] 2026-10-22 | Urban Renewal Authority | agenda
 - D) DISCUSSION ITEMS
 - Coalition framework for North College redevelopment, beginning with 1636 North College and
 - related superblock opportunities. The Charter describes how residents, businesses and project
@@ -808,7 +909,7 @@
 - through the lens of both community benefit as well as feasibility considerations, and monitor community
 - financial, property and contractual actions
 
-## [fort-collins#28] 2026-10-23 | Election Code Committee | agenda
+## [fort-collins#31] 2026-10-23 | Election Code Committee | agenda
 - E) Approval of Minutes
 - 1. Approval of Minutes
 - The purpose of this item is to approve the minutes of the September 18, 2026, Election Code
@@ -817,7 +918,7 @@
 - Upon request, the City of Fort Collins will provide language access services for individuals who have limited
 - assistance. Please provide advance notice. Requests for interpretation at a meeting should be made by
 
-## [fort-collins#29] 2026-10-23 | Election Code Committee | agenda
+## [fort-collins#32] 2026-10-23 | Election Code Committee | agenda
 - E) Approval of Minutes
 - 1. Approval of Minutes
 - The purpose of this item is to approve the minutes of the September 18, 2026, Election Code
@@ -857,7 +958,7 @@
 - Sec. 7-41. Appointment
 - The City Clerk shall may appoint workers to participate in the conduct of the election
 
-## [fort-collins#30] 2026-10-27 | City Council Work Session | minutes
+## [fort-collins#33] 2026-10-27 | City Council Work Session | minutes
 - Upon request, the City of Fort Collins will provide language access services for individuals who
 - Colorado) for assistance. Please provide advance notice. Requests for interpretation at a
 - B) Items for Discussion
@@ -868,3 +969,110 @@
 - system, including local conditions and landscape, countywide strategic plan
 - implementation, and considerations for evolving funding priorities
 - psychoactive products, and to seek Councilmember feedback
+
+## [fort-collins#34] 2026-10-27 | City Council Work Session | minutes
+- From: Chad Wright, Director, Housing and Community Vitality
+- Vanessa Fenley, Sr. Housing Manager
+- Subject: October 27, 2026 Work Session Summary: Housing Action Plan
+- The purpose of this memo is to document the summary of discussions during the October 27,
+- 2026 Work Session on the Housing Action Plan. Councilmember Hoeven was absent from the
+- discussion. All other Councilmembers attended in-person
+- Discussion Summary
+- overview of the Housing Action Plan process and requirements, along with preliminary strategy
+- recommendations. Staff clarified that, once approved, the Housing Action Plan would replace
+- the 2021 Housing Strategic Plan as the City’s guiding housing strategy document
+- Preliminary strategies were organized into five categories:
+- 1. Housing Supply (Production and Product Diversity) – Strategies to make development
+- more efficient and predictable for developers; ensure minimum housing production
+- targets are met; and encourage the development of the types of housing missing in the
+- 2. Housing Access and Affordability – Strategies to support the development of structured
+- affordable housing products, specifically those projects filling the largest affordability
+- ensure efficient and predictable access to the affordable housing available
+- 3. Housing Preservation – Strategies to maintain the existing stock of structured affordable
+- housing and, when feasible, naturally occurring affordable housing
+- 4. Housing Stabilization and Homelessness Prevention – Strategies to support residents in
+- maintaining and stabilizing in their housing
+- 5. Funding Sources and Financing Options – Strategies to sustain (and expand if/as
+- processes for housing developers and providers; and to evaluate opportunities to
+- increase revenue or engage in innovative financing options to support housing projects
+- Generally, Councilmembers were supportive of the strategies presented and provided direction
+- metric options for each strategy and creating an implementation plan that prioritizes and
+- schedules out strategy implementation over the next six years
+- Councilmembers emphasized the need to continue to focus on housing supply, highlighted
+- and product diversity and expressed a desire to better incorporate some of the activities in the
+- Affordable and Sustainable Growth Initiative (Ad Hoc Committee) to the HAP strategies
+- development of these units while acknowledging these units are dependent on limited funding
+- and financing resources outside of the City’s control. Councilmembers also discussed the
+- housing production targets, with some Councilmembers noting the 7,000 catch-up/keep-up
+
+## [fort-collins#35] 2026-11-03 | General Improvement District No. 1 | minutes
+- City of Fort Collins General Improvement District No. 1 Agenda
+- GENERAL IMPROVEMENT DISTRICT NO. 1 MEETING AGENDA
+- Upon request, the City of Fort Collins will provide language access services for individuals who have
+- assistance. Please provide advance notice. Requests for interpretation at a meeting should be made by
+- C) Items for Discussion
+- 1. First Reading of Ordinance No. 080, Acting Ex-Officio as the Board of Directors
+- of General Improvement District No. 1, Approving the Fiscal Year 2027 Budget,
+- Determining and Fixing the Mill Levy for Fiscal Year 2027, Directing the
+- Secretary of the District to Certify Such Levy to the Board of Commissioners of
+- General Improvement District No. 1
+- The purpose of this item is to set the mill levy of 4.924 and authorize the fiscal year
+- 2027 appropriation for General Improvement District No. 1 ("GID No. 1"). Revenues of
+- $310,000 are anticipated to be collected from the 4.924 mills levied for property tax
+- Additional revenue for GID No.1 is generated from automobile specific ownership
+- taxes and interest earnings in 2027, which are estimated to be $46,000 and $29,664,
+- total of $385,664 for 2027. The Ordinance appropriates funds in the amount of
+
+## [fort-collins#36] 2026-11-03 | General Improvement District No. 1 | minutes
+- City of Fort Collins Skyview South General Improvement Dist. No. 15 Agenda
+- SKYVIEW SOUTH GENERAL IMPROVEMENT DISTRICT NO. 15 MEETING
+- Upon request, the City of Fort Collins will provide language access services for individuals who
+- Colorado) for assistance. Please provide advance notice. Requests for interpretation at a
+- C) Items for Discussion
+- 1. First Reading of Ordinance No. 020, Acting Ex-Officio as the Board of Directors
+- of Skyview South General Improvement District No. 15, Approving Fiscal Year
+- 2027 Budget, Determining and Fixing the Mill Levy for Fiscal Year 2027,
+- Directing the Secretary of the District to Certify Such Levy to the Board of
+- Appropriation for Skyview South General Improvement District No. 15
+- The purpose of this item is to approve the 2027 budget and include the annual
+- Improvement District No. 15 ("GID No. 15"). The sum of $49,030 is anticipated to be
+- collected from the mill levy of 10.0 mills for fiscal year 2027. Additional miscellaneous
+- revenue for GID No. 15 of $12,961 is anticipated to be generated from interest
+- amount will be used in the future to maintain and repair roads in the Skyview
+
+## [fort-collins#37] 2026-11-03 | City Council | minutes
+- Upon request, the City of Fort Collins will provide language access services for individuals who have
+- assistance. Please provide advance notice. Requests for interpretation at a meeting should be made by
+- A) Proclamations and Presentations - 5:00 PM
+- individual discussion
+- G) Public Comment On Any Topics Or Items Or Community Events
+- agenda. Comments regarding land use projects for which a development application has
+- been filed should be submitted in the development review process** and not to Council
+- Each speaker will be allowed to speak one time during public comment. If a speaker
+- comments on a particular agenda item during general public comment, that speaker will
+- not also be entitled to speak during discussion on the same agenda item
+- speak to identify themselves by raising their hand (in person or using the Raise Hand
+- if their comments relate to a particular agenda item, to identify the agenda item number
+- [**For questions about the development review process or the status of any particular
+- development, consult the City's Development Review Center page
+- or contact the Development Review Center at 970.221.6760.]
+- H) Public Comment Follow-Up
+- I) Councilmember Removal of Items from Consent Calendar for Discussion
+- important items on a lengthy agenda. Staff recommends approval of the Consent Calendar
+- considered separately under their own Section, titled “Consideration of Items Removed from
+- Consent Calendar for Individual Discussion.” Items remaining on the Consent Calendar will be
+- approved by Council with one vote. The Consent Calendar consists of:
+- Ordinances on First Reading that are routine;
+- Ordinances on Second Reading that are routine;
+- 1. Consideration and Approval of the Minutes of the October 20, 2026, Regular
+- The purpose of this item is to approve the minutes of the October 20, 2026, regular
+- 2. Second Reading of Ordinance No. 138, 2026, Appropriating Unanticipated
+- This Ordinance, unanimously adopted on First Reading on October 20, 2026,
+- requests an appropriation of $59,388.80 in philanthropic revenue received through
+- programs and services and are aligned with both the City’s strategic priorities and the
+- 3. Second Reading of Ordinance No. 139, 2026, Making a Supplemental
+- Appropriation of Anticipated Grant Revenue and Prior Year Reserves for the
+- Northern Colorado Regional Airport Runway 15/33 Widening Project
+- Regional Airport Runway 15/33 Widening Project. The additional costs are driven
+- primarily by FAA-directed safety modifications identified through the Safety Risk
+- testing to support the project’s 24-hour Phase 2 construction schedule. This schedule

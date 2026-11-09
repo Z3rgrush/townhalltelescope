@@ -1,96 +1,6 @@
 # eagle
 
-## [eagle#0] 2026-08-04 | Town Council  | agenda
-- Town Council & Planning and Zoning
-- 200 Broadway Eagle, CO
-- work session. Work sessions of the Town Council are not meetings requiring public comment. The public is allowed to attend,
-- however, public comment will not be scheduled and will only be taken at the discretion of the Mayor. The Council shall take no final
-- PRESENTATION
-- I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
-
-## [eagle#1] 2026-08-04 | Town Council  | agenda
-- Town Council & Planning and Zoning
-- 200 Broadway Eagle, CO
-- work session. Work sessions of the Town Council are not meetings requiring public comment. The public is allowed to attend,
-- however, public comment will not be scheduled and will only be taken at the discretion of the Mayor. The Council shall take no final
-- PRESENTATION
-- I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
-- To: Mayor Woods, Town Council, and Planning & Zoning Commission
-- From: Community Development
-- To receive feedback from the Town Council and the Planning & Zoning Commission regarding whether
-- be coordinated with future Comprehensive Plan efforts
-- Eagle's planning framework consists of the Comprehensive Plan, which establishes the community's long
-- Land Use and Development Code (LUDC), which implem ents those policies through regulations and
-- development standards. This work session is intended to help inform future planning priorities within that
-- West Eagle Sub Area Plan (LINK)
-- The West Eagle Sub Area Plan was created and approved in 2011, with a minor update in 2021. The plan
-- redevelopment, enhance the Highway 6 corridor, and better integrate West Eagle with the rest of the
-- community. The plan provides policy direction for future land use, transportation connections, urban
-- design, and public improvements within the planning area. While many goals of this Sub -Area Plan are
-- still valuable, the Town has changed considerably since the Plan was adopted 14 years ago
-- Staff has identified several areas that may warrant reevaluation, including density, connectivity,
-- neighborhood integration, solar access, views, safety, and traffic considerations. Input from Council and
-- the Planning Commission will help determine whether these is sues justify a future plan update
-- Integrating the Grand Avenue Corridor Plan with an updated West Eagle Plan could also improve
-- recent discussions, staff understands Eagle County is not currently pursuing the previously proposed land
-- use application in this area
-- East Eagle Sub Area Plan (LINK)
-- Sub Area Plan was adopted in 2021
-- While this Plan is less than five years old, Council discussions following adoption of ReCode suggested
-- interest in revisiting housing opportunities contemplated within the Plan. A future update could evaluate
-- the appropriate amount, type, and location of housing within East Eagle while incorporating more recent
-- planning efforts, including the Hou sing Assessment, Economic Development Plan, and Net Zero Action
-
-## [eagle#2] 2026-08-04 | Planning & Zoning Commission | minutes
-- Approved Meeting Minutes
-- 200 Broadway Eagle, CO 81631
-- PUBLIC COMMENT (Non-Agenda Items; 3-Minute Limit Please)
-- No public comments were received
-- APPROVAL OF THE JULY MINUTES
-- The Committee approved the July minutes with a correction adding Dan Lambert to the list of
-- Bear-resistant trash cans: The Town received approximately $38,000 from Colorado Parks and
-- addressed more than 30 cans. Remaining work will focus on Broadway Street and locations
-- Volunteer program: Recent D.I.R.T. projects have drawn more than 20 volunteers. Upcoming
-- seed for future restoration projects
-- DISCUSSION / BUSINESS ITEMS
-- Staff presented prototype trail signs and continued the Committee's discussion of sign content,
-- Including permitted-use, regulatory, or land-manager information only where it is relevant
-- Coordinating fonts, colors, and other design elements with the Town's broader wayfinding
-- Carsonite posts were discussed as a lower-cost option but were not preferred as the primary
-- Open Space Fund Operating Budget Check-in
-- Staff reported that the 2026 operating budget is generally on track and presented proposed
-- amendments, and related materials
-- o Reducing the legal-services budget to reflect actual use
-- o Reducing trail repair and maintenance because Bike Park maintenance is
-- expected to be funded through the Sales Tax Fund and some work can be
-- The proposed budget continues to fund the manager and technician positions. Staff will consult
-- The Committee discussed Haymeadow real-estate-transfer revenue, the Open Space Fund
-- The Committee expressed general support for the proposed operating budget
-- Haymaker Trailhead Restroom Project
-- Staff reviewed the project's history, including the original $90,000 allocation, the increase to
-- approximately $160,000, and the single bid of approximately $380,000
-- Committee also revisited the 2020 Haymaker Trailhead Area Plan and discussed the kiosk
-- relocation, trail consolidation and restoration, Bike Park entry sign, and other long-term
-- Discussion included:
-- o The potential value of a vault toilet as a relocatable interim improvement
-- Members were generally comfortable continuing to use the existing application and interview
-- anticipate appointments in early 2027. No formal action was taken
-- Schoolhouse Rock-Kill Bill site visit: The Committee discussed meeting during the late afternoon
-- Arroyo parking lot: Resealing and restriping are included in the Streets Department's
-
-## [eagle#3] 2026-08-05 | Marketing and Events Advisory Committee | agenda
-- 200 Broadway, Eagle, CO
-- APPROVAL OF MINUTES
-- Meeting Notes Generated by AI
-- Strategic Plan – Initiative / Objective
-- a. Identify potential events and level of support required
-- c. Establish a budget for support; incorporate into 2027 budget
-- outside of budgeted support
-- Special Event Funding Application Process – DATES?
-- 8/16/26 Yoga in the Park
-- I hereby certify that the above Notice of Meeting was posted by me in the designated
-
-## [eagle#4] 2026-08-11 | Town Council  | minutes
+## [eagle#0] 2026-08-11 | Town Council  | minutes
 - 200 Broadway Eagle, CO
 - Carrie Buhlman, Police Chief
 - Jessica Johnsen, Community Development Director
@@ -123,7 +33,7 @@
 - Development Standards and Processes. The motion was seconded and passed with a vote of 6 in
 - Ordinance 14, Series 2026 - An Ordinance of the Town of Eagle, Colorado Authorizing the Purchase of Real
 
-## [eagle#5] 2026-08-12 | Open Space & Recreation Advisory Committee | agenda
+## [eagle#1] 2026-08-12 | Open Space & Recreation Advisory Committee | agenda
 - MEETING LOCATION: Horton Street Trailhead Google Maps
 - Parking is very limited. Please carpool or use alternative transportation when possible
 - conducted as work sessions are not meetings requiring public comment. The public is allowed to attend; however, public
@@ -134,7 +44,7 @@
 - Construction, maintenance, and long-term management considerations
 - I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to
 
-## [eagle#6] 2026-08-13 | Economic Vitality Committee | minutes
+## [eagle#2] 2026-08-13 | Economic Vitality Committee | minutes
 - These meeting minutes were generated with the assistance of Microsoft Teams AI technology to enhance accuracy,
 - Shaughnessy, and Patrick Sherwood. Joel Wallen, selected for re-appointment, was
 - Approval of Minutes: Minutes dated July 16, 2026
@@ -175,13 +85,13 @@
 - EDCC Webinar Sharing: Share the recording of the Economic Development
 - book to all committee members and notify them when available for pickup. (Nikki)
 
-## [eagle#7] 2026-08-18 | Planning & Zoning Commission | agenda
+## [eagle#3] 2026-08-18 | Planning & Zoning Commission | agenda
 - Planning & Zoning Commission
 - 200 Broadway, Eagle, CO 81631
 - 1. NOTICE OF CANCELLATION: There will be no Planning & Zoning Commission meeting on Tuesday, August 18,
 - I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
 
-## [eagle#8] 2026-08-18 | Downtown Development Authority | minutes
+## [eagle#4] 2026-08-18 | Downtown Development Authority | minutes
 - These meeting minutes were generated with the assistance of Microsoft Teams AI technology to enhance accuracy,
 - Greg recused from the property inclusion petition related to DDA resolution 05
 - Public Comment: None
@@ -219,7 +129,7 @@
 - o Grant Opportunities and Fund Balance: The board discussed the
 - importance of leaving budget flexibility for future grant opportunities and
 
-## [eagle#9] 2026-08-25 | Town Council  | minutes
+## [eagle#5] 2026-08-25 | Town Council  | minutes
 - 200 Broadway Eagle, CO
 - Jessica Johnsen, Community Development Director
 - MOTION: Council Member Scott Schreiner motioned to approve the agenda. The motion was seconded
@@ -251,7 +161,7 @@
 - Town Attorney Richard Peterson-Cremer presented the service plan for the Red Mountain Ranch Metro District
 - for Council's approval. Council discussed the financial risks, utility ownership and maintenance responsibilities,
 
-## [eagle#10] 2026-09-01 | Town Council  | agenda
+## [eagle#6] 2026-09-01 | Town Council  | agenda
 - 200 Broadway Eagle, CO
 - work session. Work sessions of the Town Council are not meetings requiring public comment. The public is allowed to attend,
 - however, public comment will not be scheduled and will only be taken at the discretion of the Mayor. The Council shall take no final
@@ -259,7 +169,7 @@
 - 1. Capital Improvement Plan, MEAC and Community Grand Fund Prioritization
 - I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
 
-## [eagle#11] 2026-09-01 | Town Council  | agenda
+## [eagle#7] 2026-09-01 | Town Council  | agenda
 - 200 Broadway Eagle, CO
 - work session. Work sessions of the Town Council are not meetings requiring public comment. The public is allowed to attend,
 - however, public comment will not be scheduled and will only be taken at the discretion of the Mayor. The Council shall take no final
@@ -294,7 +204,7 @@
 - Brush Creek Road Extension ROW Acquisitions
 - Grand Ave. Grill Demo / Parking Construction
 
-## [eagle#12] 2026-09-01 | Planning & Zoning Commission | agenda
+## [eagle#8] 2026-09-01 | Planning & Zoning Commission | agenda
 - Planning & Zoning Commission
 - 200 Broadway, Eagle, CO 81631
 - Please Note: All participants must remain muted until they are requested to speak. This will reduce background
@@ -313,7 +223,7 @@
 - OPEN DISCUSSION
 - I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
 
-## [eagle#13] 2026-09-01 | Planning & Zoning Commission | agenda
+## [eagle#9] 2026-09-01 | Planning & Zoning Commission | agenda
 - Planning & Zoning Commission
 - 200 Broadway, Eagle, CO 81631
 - Please Note: All participants must remain muted until they are requested to speak. This will reduce background
@@ -346,14 +256,14 @@
 - framework by eliminating financial hardship as a basis for approval, establishing a two-tiered review process consisting
 - required to satisfy all mandatory threshold criteria before a variance could be considered for approval. She stated that
 
-## [eagle#14] 2026-09-01 | Open Space & Recreation Advisory Committee | agenda
+## [eagle#10] 2026-09-01 | Open Space & Recreation Advisory Committee | agenda
 - 200 Broadway, Eagle, CO 81631
 - 9:05 a.m. PUBLIC COMMENT (Non-Agenda Items; 3-Minute Limit Please)
 - 9:13 a.m. APPROVAL OF THE AUGUST MINUTES
 - 9:30 a.m. DISCUSSION / BUSINESS ITEMS
 - 10:10 a.m. (30 min) 5-Year Open Space Fund - Capital Improvement Plan
 
-## [eagle#15] 2026-09-01 | Open Space & Recreation Advisory Committee | agenda
+## [eagle#11] 2026-09-01 | Open Space & Recreation Advisory Committee | agenda
 - 200 Broadway, Eagle, CO 81631
 - 9:05 a.m. PUBLIC COMMENT (Non-Agenda Items; 3-Minute Limit Please)
 - 9:13 a.m. APPROVAL OF THE AUGUST MINUTES
@@ -394,7 +304,7 @@
 - anticipate appointments in early 2027. No formal action was taken
 - Schoolhouse Rock-Kill Bill site visit: The Committee discussed meeting during the late afternoon
 
-## [eagle#16] 2026-09-08 | Town Council  | minutes
+## [eagle#12] 2026-09-08 | Town Council  | minutes
 - 200 Broadway Eagle, CO
 - Carrie Buhl man, Police Chief
 - Glenwood Springs, who requested Town of Eagle's support for the Resolution 56 agenda item. He will recuse himself
@@ -427,20 +337,20 @@
 - 2. Community Input Update: Pickleball Open House and Online Feedback
 - Town Manager Melissa Daruna presented feedback gathered from the August 25 open house and online survey
 
-## [eagle#17] 2026-09-10 | Economic Vitality Committee | agenda
+## [eagle#13] 2026-09-10 | Economic Vitality Committee | agenda
 - 600 Broadway, Eagle, CO
 - 1:10 - 1:20 Why Explore Greater Alignment? Shared opportunities and Strategic Plan connections
 - 1:50 - 2:15 Identify a Joint Pilot Project Select a practical project to test working together
 - 2:15 - 2:45 Roadmap Identify initial milestones, joint touchpoints, and an evaluation
 - I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
 
-## [eagle#18] 2026-09-15 | Planning & Zoning Commission | agenda
+## [eagle#14] 2026-09-15 | Planning & Zoning Commission | agenda
 - Planning & Zoning Commission
 - 200 Broadway, Eagle, CO 81631
 - 1. NOTICE OF CANCELLATION: There will be no Planning & Zoning Commission meeting on Tuesday, September 15,
 - I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
 
-## [eagle#19] 2026-09-15 | Town Council  | agenda
+## [eagle#15] 2026-09-15 | Town Council  | agenda
 - 200 Broadway Eagle, CO
 - work session. Work sessions of the Town Council are not meetings requiring public comment. The public is allowed to attend,
 - however, public comment will not be scheduled and will only be taken at the discretion of the Mayor. The Council shall take no final
@@ -448,7 +358,7 @@
 - 1. 2026/2027 Operating Budget
 - I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
 
-## [eagle#20] 2026-09-15 | Town Council  | agenda
+## [eagle#16] 2026-09-15 | Town Council  | agenda
 - 200 Broadway Eagle, CO
 - work session. Work sessions of the Town Council are not meetings requiring public comment. The public is allowed to attend,
 - however, public comment will not be scheduled and will only be taken at the discretion of the Mayor. The Council shall take no final
@@ -477,7 +387,7 @@
 - complete projects with dedicated funding. New for 2027, we are including Assumed Vacancy Savings of $350,000,
 - and we have also adjusted our insurance budget to reflect actual percentages of employees likely to utilize our
 
-## [eagle#21] 2026-09-16 | Liquor License Authority | minutes
+## [eagle#17] 2026-09-16 | Liquor License Authority | minutes
 - 200 Broadway Eagle, CO
 - PUBLIC HEARING
 - Liquor Officer Erik Johnson opened the Public Hearing and requested public comment
@@ -486,7 +396,7 @@
 - 1. Approval of Minutes - June 25, 2026
 - The minutes from the June 25, 2026 Liquor License Authority Meeting were approved
 
-## [eagle#22] 2026-09-22 | Town Council  | minutes
+## [eagle#18] 2026-09-22 | Town Council  | minutes
 - 200 Broadway Eagle, CO
 - Carrie Buhlman, Police Chief
 - Jessica Johnsen, Community Development Director (Virtual)
@@ -517,7 +427,7 @@
 - 2. Parking in the Right-of-Way: Town Code and Enforcement
 - municipal code addresses parking within the right-of-way. They reviewed the definitions of abandoned and
 
-## [eagle#23] 2026-09-28 | Town Council  | agenda
+## [eagle#19] 2026-09-28 | Town Council  | agenda
 - Nogal Park and Eagle River Park
 - work session. Work sessions of the Town Council are not meetings requiring public comment. The public is allowed to attend,
 - however, public comment will not be scheduled and will only be taken at the discretion of the Mayor. The Council shall take n o final
@@ -526,7 +436,7 @@
 - 2. Eagle River Park Site Visit: 200 Fairgrounds Rd
 - I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
 
-## [eagle#24] 2026-09-29 | Town Council  | agenda
+## [eagle#20] 2026-09-29 | Town Council  | agenda
 - 200 Broadway Eagle, CO
 - work session. Work sessions of the Town Council are not meetings requiring public comment. The public is allowed to attend,
 - however, public comment will not be scheduled and will only be taken at the discretion of the Mayor. The Council shall take no final
@@ -535,7 +445,7 @@
 - 2. 2026 / 2027 Operating and Capital Budgets
 - I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
 
-## [eagle#25] 2026-09-29 | Town Council  | agenda
+## [eagle#21] 2026-09-29 | Town Council  | agenda
 - 200 Broadway Eagle, CO
 - work session. Work sessions of the Town Council are not meetings requiring public comment. The public is allowed to attend,
 - however, public comment will not be scheduled and will only be taken at the discretion of the Mayor. The Council shall take no final
@@ -566,21 +476,21 @@
 - Construction Approx. $190,000 $35,000 direct Approx. $150,000 raised through grants/donations
 - Proposed $44,500 No specific cash contribution identified Continued volunteer, equipment, fundraising, and management support
 
-## [eagle#26] 2026-10-06 | Open Space & Recreation Advisory Committee | agenda
+## [eagle#22] 2026-10-06 | Open Space & Recreation Advisory Committee | agenda
 - 200 Broadway, Eagle, CO 81631
 - 9:05 a.m. PUBLIC COMMENT (Non-Agenda Items; 3-Minute Limit Please)
 - 9:13 a.m. APPROVAL OF THE AUGUST MINUTES
 - 9:30 a.m. DISCUSSION / BUSINESS ITEMS
 - 10:10 a.m. (30 min) 5-Year Open Space Fund - Capital Improvement Plan
 
-## [eagle#27] 2026-10-06 | Town Council  | agenda
+## [eagle#23] 2026-10-06 | Town Council  | agenda
 - 200 Broadway Eagle, CO
 - work session. Work sessions of the Town Council are not meetings requiring public comment. The public is allowed to attend,
 - however, public comment will not be scheduled and will only be taken at the discretion of the Mayor. The Council shall take no final
 - 1. Right of Way & Parking Ordinances and Opportunities
 - I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
 
-## [eagle#28] 2026-10-06 | Town Council  | agenda
+## [eagle#24] 2026-10-06 | Town Council  | agenda
 - 200 Broadway Eagle, CO
 - work session. Work sessions of the Town Council are not meetings requiring public comment. The public is allowed to attend,
 - however, public comment will not be scheduled and will only be taken at the discretion of the Mayor. The Council shall take no final
@@ -610,7 +520,7 @@
 - Overall, not everything sitting in the ROW is governed by the same ordinance. A parked car, abandoned
 - BUDGET / STAFF IMPACT: There is no anticipated budget or staffing impact associated with this informational
 
-## [eagle#29] 2026-10-06 | Open Space & Recreation Advisory Committee | agenda
+## [eagle#25] 2026-10-06 | Open Space & Recreation Advisory Committee | agenda
 - 200 Broadway, Eagle, CO 81631
 - 9:05 a.m. PUBLIC COMMENT (Non-Agenda Items; 3-Minute Limit Please)
 - 9:13 a.m. APPROVAL OF THE AUGUST MINUTES
@@ -651,7 +561,7 @@
 - anticipate appointments in early 2027. No formal action was taken
 - Schoolhouse Rock-Kill Bill site visit: The Committee discussed meeting during the late afternoon
 
-## [eagle#30] 2026-10-08 | Marketing and Events Advisory Committee | agenda
+## [eagle#26] 2026-10-08 | Marketing and Events Advisory Committee | agenda
 - 200 Broadway, Eagle, CO
 - APPROVAL OF MINUTES
 - Meeting Notes Generated by AI
@@ -661,7 +571,7 @@
 - Christmas on Broadway – collaboration celebration logo ideas
 - I hereby certify that the above Notice of Meeting was posted by me in the designated
 
-## [eagle#31] 2026-10-08 | Economic Vitality Committee | agenda
+## [eagle#27] 2026-10-08 | Economic Vitality Committee | agenda
 - 200 Broadway, Eagle, CO
 - BUSINESS & DISCUSSION ITEMS
 - a Pilot Project: Event Marketing and Business Engagement
@@ -669,7 +579,7 @@
 - I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
 - Economic Development & Housing Specialist
 
-## [eagle#32] 2026-10-08 | Economic Vitality Committee | agenda
+## [eagle#28] 2026-10-08 | Economic Vitality Committee | agenda
 - 200 Broadway, Eagle, CO
 - APPROVAL OF MINUTES
 - BUSINESS & DISCUSSION ITEMS
@@ -678,7 +588,7 @@
 - I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
 - Economic Development & Housing Specialist
 
-## [eagle#33] 2026-10-08 | Economic Vitality Committee | agenda
+## [eagle#29] 2026-10-08 | Economic Vitality Committee | agenda
 - 200 Broadway, Eagle, CO
 - APPROVAL OF MINUTES
 - BUSINESS & DISCUSSION ITEMS
@@ -721,7 +631,7 @@
 - marketing, events, and sports tourism funded by lodging tax dollars, and EVC
 - centers on business vitality and redevelopment, there are complementary
 
-## [eagle#34] 2026-10-20 | Planning & Zoning Commission | agenda
+## [eagle#30] 2026-10-20 | Planning & Zoning Commission | agenda
 - Planning & Zoning Commission
 - 200 Broadway, Eagle, CO 81631
 - Please Note: All participants must remain muted until they are requested to speak. This will reduce background
@@ -742,7 +652,7 @@
 - OPEN DISCUSSION
 - I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
 
-## [eagle#35] 2026-10-20 | Planning & Zoning Commission | agenda
+## [eagle#31] 2026-10-20 | Planning & Zoning Commission | agenda
 - Planning & Zoning Commission
 - 200 Broadway, Eagle, CO 81631
 - Please Note: All participants must remain muted until they are requested to speak. This will reduce background
@@ -776,11 +686,11 @@
 - Development Code as a priority, including revisions to the mixed-use development standards contained in Section
 - 4.10.050.C.1.b.3. The proposed amendments were intended to address the existing step-back requirements for multi
 
-## [eagle#36] 2026-10-20 | Downtown Development Authority | agenda
+## [eagle#32] 2026-10-20 | Downtown Development Authority | agenda
 - EAGLE DOWNTOWN DEVELOPMENT AUTHORITY (DDA)
 - Eagle Town Hall | 200 Broadway, Eagle, CO 81631
 
-## [eagle#37] 2026-10-20 | Downtown Development Authority | agenda
+## [eagle#33] 2026-10-20 | Downtown Development Authority | agenda
 - EAGLE DOWNTOWN DEVELOPMENT AUTHORITY (DDA)
 - Eagle Town Hall | 200 Broadway, Eagle, CO 81631
 - 3. Public Comment
@@ -793,7 +703,7 @@
 - d. Downtown Parking Assessment / Presentation
 - e. 2027 Budget Draft
 
-## [eagle#38] 2026-10-20 | Downtown Development Authority | agenda
+## [eagle#34] 2026-10-20 | Downtown Development Authority | agenda
 - EAGLE DOWNTOWN DEVELOPMENT AUTHORITY (DDA)
 - Eagle Town Hall | 200 Broadway, Eagle, CO 81631
 - 3. Public Comment
@@ -835,7 +745,7 @@
 - 2027 DDA Budget Draft and Programming: The group reviewed the draft 2027 DDA
 - budget, covering ongoing expenses, programming, and the commercial activation
 
-## [eagle#39] 2026-10-21 | Town Council  | minutes
+## [eagle#35] 2026-10-21 | Town Council  | minutes
 - 200 Broadway Eagle, CO
 - Carrie Buhlman, Police Chief (Virtual)
 - Jessica Johnsen, Community Development Director (Virtual)
@@ -867,13 +777,13 @@
 - Valerie Gross, 39 Greenhorn - She emphasized that supporting the resolution is important to families with
 - would leave educators feeling unapprec iated and diminish the commun ity's future
 
-## [eagle#40] 2026-10-26 | Liquor License Authority | agenda
+## [eagle#36] 2026-10-26 | Liquor License Authority | agenda
 - Hearing Officer, Erik Johnson
 - 200 Broadway, Eagle, CO
 - 1. Approval of Minutes- September 16.2026
 - I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
 
-## [eagle#41] 2026-10-26 | Liquor License Authority | agenda
+## [eagle#37] 2026-10-26 | Liquor License Authority | agenda
 - Hearing Officer, Erik Johnson
 - 200 Broadway, Eagle, CO
 - 1. Approval of Minutes- September 16.2026
@@ -911,7 +821,7 @@
 - separate sheet if necessary
 - Attach copies of all notes and security instruments and any written agreement or details
 
-## [eagle#42] 2026-10-27 | Town Council  | agenda
+## [eagle#38] 2026-10-27 | Town Council  | agenda
 - 200 Broadway Eagle, CO
 - using Teams. Please note: All participants must remain muted until they are requested to speak. This will reduce background noise
 - disruptions to the meeting attendees. When it’s your turn to speak, you will have three (3) minutes for public comment. PUBLIC
@@ -939,7 +849,7 @@
 - that may be subject to negotiations, develop a strategy for negotiations, and instruct negotiators relating to the
 - I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
 
-## [eagle#43] 2026-10-27 | Town Council  | agenda
+## [eagle#39] 2026-10-27 | Town Council  | agenda
 - 200 Broadway Eagle, CO
 - using Teams. Please note: All participants must remain muted until they are requested to speak. This will reduce background noise
 - disruptions to the meeting attendees. When it’s your turn to speak, you will have three (3) minutes for public comment. PUBLIC
@@ -968,3 +878,135 @@
 - I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
 - Eagle Addendum Grant
 - Red: IGA spending / coding Pale: IGA budget Gold: grant-funded mitigation
+
+## [eagle#40] 2026-11-03 | Planning & Zoning Commission | agenda
+- Planning & Zoning Commission
+- 200 Broadway, Eagle, CO 81631
+- Please Note: All participants must remain muted until they are requested to speak. This will reduce background
+- PUBLIC COMMENTS: If you are unable to attend, public comments regarding any items on this agenda can be
+- APPROVAL OF MINUTES Approval of minutes from the following meeting(s) of the Planning & Zoning Commission
+- PUBLIC COMMENT
+- Citizens are invited to comment on any item not on the agenda subject to a public hearing. Please limit your comments to three (3)
+- minutes per person. Those who are speaking are requested to state their name & address for the record
+- PUBLIC HEARINGS
+- 1. Project: Land Use File RZ26-01 - Capitol Flats Rezoning - 123 & 137 Howard Street
+- Location 123 & 137 Howard Street
+- Staff Contact: Jessica Johnsen, Community Development Director
+- Request: Consi
+- der a request to continue the Public Hearing for Land Use File RZ26-01 to November 17,
+- 2026. The project involves a rezoning of two properties located at 123 and 137 Howard Street
+- OPEN DISCUSSION
+- I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
+
+## [eagle#41] 2026-11-03 | Planning & Zoning Commission | agenda
+- Planning & Zoning Commission
+- 200 Broadway, Eagle, CO 81631
+- Please Note: All participants must remain muted until they are requested to speak. This will reduce background
+- PUBLIC COMMENTS: If you are unable to attend, public comments regarding any items on this agenda can be
+- APPROVAL OF MINUTES Approval of minutes from the following meeting(s) of the Planning & Zoning Commission
+- PUBLIC COMMENT
+- Citizens are invited to comment on any item not on the agenda subject to a public hearing. Please limit your comments to three (3)
+- minutes per person. Those who are speaking are requested to state their name & address for the record
+- PUBLIC HEARINGS
+- 1. Project: Land Use File RZ26-01 - Capitol Flats Rezoning - 123 & 137 Howard Street
+- Location 123 & 137 Howard Street
+- Staff Contact: Jessica Johnsen, Community Development Director
+- Request: Consider a request to continue the Public Hearing for Land Use File RZ26-01 to November 17,
+- 2026. The project involves a rezoning of two properties located at 123 and 137 Howard Street
+- OPEN DISCUSSION
+- I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
+- APPROVAL OF MINUTES
+- 1. Minutes approved from September 1st, 2026. Motion passed unanimously. All in favor
+- Commissioner Nutkins opened the floor for public comment on items not on the agenda, but there were none
+- municipal code. The presentation reviewed the distinctions between quasi-judicial and legislative proceedings, conflict
+- of-interest considerations, the Colorado Open Meetings Law, the Colorado Open Records Act, and confidentiality
+- Control Enabling Act, the Town Charter, Title 4 of the Town Code, and the Comprehensive Plan. He explained that the
+- served as both a recommending body and a final decision-making body, depending on the type of application
+- The Comprehensive Plan was discussed as a guiding document for legislative decisions and future code amendments
+- Quasi-judicial proceedings include development permits, subdivisions, special-use permits, and variances. These
+- matters involved applying established code criteria to the facts of a specific application or property
+- Commissioners are expected to maintain impartiality, follow due process, consider the evidence presented, and
+- Legislative proceedings include code amendments, rezonings, and annexations. These matters involve broader
+- quasi-judicial hearings
+- 3. Ex Parte Communications and Hearing Procedures
+- public hearings, particularly regarding quasi-judicial matters. Commissioners were advised to avoid discussing pending
+
+## [eagle#42] 2026-11-03 | Town Council  | agenda
+- 200 Broadway Eagle, CO
+- work session. Work sessions of the Town Council are not meetings requiring public comment. The public is allowed to attend,
+- however, public comment will not be scheduled and will only be taken at the discretion of the Mayor. The Council shall take no final
+- PRESENTATION
+- 1. Policy Discussion: Taking Positions on External Policy Matters
+- I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
+
+## [eagle#43] 2026-11-03 | Town Council  | agenda
+- 200 Broadway Eagle, CO
+- work session. Work sessions of the Town Council are not meetings requiring public comment. The public is allowed to attend,
+- however, public comment will not be scheduled and will only be taken at the discretion of the Mayor. The Council shall take no final
+- PRESENTATION
+- 1. Policy Discussion: Taking Positions on External Policy Matters
+- I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
+- Agenda Item: Work Session: Discussion on Policy Positions
+- REQUEST: Staﬀ requests Town Council discuss a policy or practice for when to consider taking
+- BACKGROUND: Town Council frequently receives requests from community groups, legislators
+- and membership organizations to formally take a position on a policy matter. These requests
+- federal agency rulemaking, or community petitions. The action requested has ranged from
+- directing staﬀ to sign letters or petitions to formal resolutions taking a position on behalf of the
+- ANALYSIS: Council’s discussions around these topics have included a desire for a more
+- formalized policy on what is placed on the agenda for Council’s consideration, where in the
+- Council requested time to discuss the practice and determine if a policy on when and how to
+- consider taking a position is warranted
+- Initial ideas discussed included:
+- Council considers taking a position on legislation or other policies
+- Always requiring the request to be a Business Item for purposes of Council discussion
+- Determining if the Council feels signing petitions or letters diﬀers from formal
+- resolutions stating a position
+- BUDGET/STAFF IMPACT: None at this time
+- STRATEGIC PLAN ALIGNMENT/STANDARDS ACHIEVED: While this discussion is not directly tied
+- to a speciﬁc Strategic Plan initiative or objective, Council’s alignment on the topic is a critical
+- RECOMMENDED ACTION OR PROPOSED MOTION: No formal action is requested at this time
+
+## [eagle#44] 2026-11-03 | Open Space & Recreation Advisory Committee | agenda
+- 200 Broadway, Eagle, CO 81631
+
+## [eagle#45] 2026-11-04 | Marketing and Events Advisory Committee | minutes
+- Meeting notes generated by AI:
+- Staff briefed the MEAC members on 45 event-funding requests totaling $246,000
+- expected to evaluate applications using community impact, sales-tax generation, and
+- sports-tourism objectives before the November 4 presentations
+- Available Funding: The committee was told that the overall budget includes
+- remains for the 45 applications requesting $246,000
+- criteria, with particular attention to events that attract visitors, generate sales-tax
+- Funding Tiers: Staff proposed moving away from awards as small as $250 and
+- Questions: A member questioned whether requests such as Brush Creek
+- broader community or visitor impact
+- Revenue Evidence: A member asked whether sales-tax data exists for events
+- that would be included in the packet, but they did not have sales-tax results available
+- Applicant-Specific Funding Considerations:
+- Staff and committee members discussed notable applications, including new events,
+- sports-tourism opportunities, prior award history, event-location concerns, and questions
+- about whether previously awarded funds were used as proposed
+- New Events: Staff discussed several new or expanded requests, including Eagle
+- Arts' $10,000 request for Second Friday events, Resort Entertainment Group's
+- proposed two-day bouncy-house festival at Town Park, Tim Zandy's sidewalk
+- Sports Tourism: Staff identified sports-oriented events as especially relevant to
+- requesting $5,000, compared with $2,500 per race previously
+- Runoff Rodeo: The Runoff Rodeo would take place at Eagle River Park in
+- by October. They said the organization is participating in the Christmas on Broadway
+- collaboration and that they would need to discuss how the awarded funds may be used,
+- because the current activity differs substantially from the original application
+- Event Location: The Vail Valley Unbound Children's Business Fair requested a
+- street closure, reportedly because many children would be moving around the event
+- area. Staff believed the event could potentially relocate to Town Park or Brush Creek
+- Park and said they would speak with Heather about the possibility; Public Works has
+- supported nonprofit operating budgets and that the former funds were redistributed
+- across community art, marketing, MEAC's ice-rink allocation, Molly's budget, and
+- operating budgets, including organizations such as Mountain Youth and Mountain Pride,
+- They also stated that $15,000 went to Molly's budget and $10,000 remained with
+- pump rebate request as an example: after its federal rebate funding was exhausted and
+- demand remained high, the organization requested additional town support
+
+## [eagle#46] 2026-11-05 | Marketing and Events Advisory Committee | agenda
+- 200 Broadway, Eagle, CO
+- 9:15 a.m. Special Event Funding – presentation by Vail Valley Foundation
+- I hereby certify that the above Notice of Meeting was posted by me in the designated

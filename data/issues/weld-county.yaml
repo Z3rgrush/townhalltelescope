@@ -1,152 +1,147 @@
-- title: Weld County Justice Center construction and financing
-  summary: 'The county approved a construction manager/general contractor bid for the Weld County Justice Center (Block 66), then signed a contract with J.E. Dunn Construction Group. It also handled stormwater responsibility, a temporary parking lot, parking garage plan review and Emergency Ordinance #264 on a ground lease and lease-purchase financing.'
-  where: Block 66, Greeley
+- title: Justice Center project (Block 66) construction and parking garage
+  summary: 'The county picked a construction manager/general contractor (Bid #B2600077) for the Weld County Justice Center and later approved a contract with J.E. Dunn Construction Group for Block 66. Related items include an interim stormwater agreement with the City, third-party plan review for the parking garage, and a temporary parking lot on Trophy Block North.'
+  where: Justice Center, Greeley (Block 66)
+  refs:
+  - 6
+  - 10
+  - 11
+  - 13
+  - 16
+  - 17
+  topics:
+  - Government operations
+  - Land & property
+  - Policing & public safety
+- title: Rule Farm Metropolitan District Nos. 1-3 service plan
+  summary: The board accepted the filing of a service plan for the proposed Rule Farm Metropolitan District Nos. 1-3, then held a hearing on September 23 and approved the service plan (MET26-0001). The district is north of County Road 2 and east of County Road 21.
+  where: North of County Road 2, east of County Road 21
+  refs:
+  - 4
+  - 11
+  - 12
+  - 13
+  topics:
+  - Zoning & development
+  - Budget & taxes
+  - Land & property
+- title: 2027 county budget and annual fee changes
+  summary: 'On November 9 the board held first reading of Ordinance #263 adopting the county budget. It also read Code Ordinance #2026-09 on annual fees, and an emergency ordinance (#264) authorizing a ground lease and lease-purchase financing. Liquor code, dance license and fee updates (#2026-19) moved through readings as well.'
+  where: Countywide
+  refs:
+  - 19
+  - 20
+  - 21
+  - 22
+  topics:
+  - Budget & taxes
+  - Fees & rates
+  - Government operations
+- title: Dissolving the Department of Oil and Gas Energy and 1041 oil and gas permits
+  summary: The board considered dissolving the Weld County Department of Oil and Gas and approved road maintenance agreements with Noble Energy for 1041 WOGLA permits. It also hired a backup hearing officer for oil and gas location assessments, and reviewed large-tract oil and gas lease auctions, leases and extensions.
+  where: Countywide
+  refs:
+  - 2
+  - 3
+  - 9
+  - 10
+  - 13
+  - 20
+  topics:
+  - Oil, gas & mining
+  - Land & property
+  - Government operations
+- title: Voluntary transfer of Housing Choice Voucher program to Greeley Housing Authority
+  summary: The board considered and approved transferring the county's Housing Choice Voucher program to the Housing Authority of the City of Greeley under PIH Notice 2018-12. Related items include a private activity bond declaration for residential facilities and bond volume cap assignments for the Prairie Rose Rehab and University Plaza projects.
+  where: Weld County / Greeley
+  refs:
+  - 3
+  - 4
+  - 6
+  - 22
+  topics:
+  - Housing
+  - Health & human services
+- title: 'Code changes: cistern permits, right-of-way use permits, and land-use code rewrite'
+  summary: 'Ordinance #2026-12 (cistern usage permit criteria) and #2026-13 (right-of-way use permit) passed first, second and final readings in late September and October. Earlier, Ordinance #2026-04 rewrote zoning, areas of state interest and administration chapters, and #2026-11 revised the administration chapter.'
+  where: Countywide
+  refs:
+  - 0
+  - 3
+  - 12
+  - 15
+  - 19
+  topics:
+  - Zoning & development
+  - Water
+  - Government operations
+- title: Solar energy permits and related land use hearings
+  summary: The board heard Use by Special Review permits for solar facilities on County Road 35 near AA Street (Chickadee Solar) and east of County Road 31 on County Road 46. It also dealt with a decommissioning plan and collateral for Dixie Water, a quit claim deed for Latham Solar Farm annexations, and show cause hearings on gravel, mineral and recreation permits.
+  where: County Roads 35, 46 and 64 areas
   refs:
   - 8
-  - 12
   - 13
   - 15
   - 18
-  - 19
-  - 22
-  topics:
-  - Government operations
-  - Budget & taxes
-  - Land & property
-- title: Rule Farm Metropolitan District Nos. 1-3 service plan
-  summary: The commissioners accepted the service plan filing for the proposed Rule Farm Metropolitan District, referred it, and held a hearing on September 23. The service plan (MET26-0001) was later approved. The district is north of County Road 2 and east of County Road 21.
-  where: North of County Road 2, east of County Road 21
-  refs:
-  - 6
-  - 13
-  - 14
-  - 15
   topics:
   - Zoning & development
-  - Land & property
-  - Budget & taxes
-- title: Code rewrite of zoning, administration and areas of state interest (Ordinance 2026-04)
-  summary: 'The board moved Code Ordinance #2026-04 through second and final reading in August. It repeals and re-enacts parts of Chapter 2 (Administration), Chapter 21 (Areas and Activities of State Interest) and Chapter 23 (Zoning) of the county code.'
-  where: Countywide
-  refs:
-  - 1
-  - 5
-  topics:
-  - Zoning & development
-  - Government operations
-- title: BURNCO gravel mining permit amendment and water enterprise
-  summary: A first major amended Use by Special Review permit tied to BURNCO Colorado and the Water Activity Enterprise of the Groundwater Management Subdistrict was heard on August 19 and approved on August 24. The site lies near County Road 58, Weld County Parkway and County Road 49.
-  where: North of County Road 58, west of County Road 49
-  refs:
-  - 0
-  - 4
-  - 5
-  - 8
-  topics:
-  - Oil, gas & mining
-  - Zoning & development
-  - Water
-- title: Solar farms and Latham Solar Farm annexation deed
-  summary: On October 21 the commissioners heard two Use by Special Review permits for solar energy facilities (USR26-0007 near County Road 35 and AA Street, and USR26-0015 near County Road 46). Earlier, in September, they approved a quit claim deed for the Latham Solar Farm annexations.
-  where: County Road 35/AA Street and County Road 46
-  refs:
-  - 10
-  - 11
-  - 20
-  topics:
   - Energy
-  - Zoning & development
   - Land & property
-- title: Oil and gas leases, 1041 permits and dissolution of the Department of Oil and Gas
-  summary: The board held oral auctions for large-tract oil and gas leases, approved a lease of 40.685 acres, and extended other leases. It approved road maintenance agreements for Noble Energy 1041 WOGLA permits and named a backup hearing officer. On September 30 it considered dissolving the county Department of Oil and Gas.
-  where: Countywide
-  refs:
-  - 4
-  - 5
-  - 11
-  - 12
-  - 15
-  - 22
-  topics:
-  - Oil, gas & mining
-  - Government operations
-  - Land & property
-- title: Housing Choice Voucher program transfer to Greeley Housing Authority
-  summary: The county Housing Authority Board considered a voluntary transfer of the Housing Choice Voucher program to the Housing Authority of the City of Greeley. The commissioners approved it on August 26.
-  where: Weld County / Greeley
-  refs:
-  - 5
-  - 6
-  topics:
-  - Housing
-  - Government operations
-- title: CDBG 2026-2030 Consolidated Plan and local agreements
-  summary: A public hearing on August 10 took input on the Community Development Block Grant five-year plan and 2026 action plan. The plan covers infrastructure, public facilities, services and housing rehabilitation, and the board approved it. Intergovernmental agreements with towns to run the program followed, including Firestone.
-  where: Countywide
-  refs:
-  - 1
-  - 2
-  - 5
-  - 7
-  topics:
-  - Housing
-  - Budget & taxes
-  - Health & human services
-  public_comment: true
-- title: Regional dispatch agreements with local police and fire agencies
-  summary: The county signed public safety communications services agreements with many fire districts and police departments (including Frederick, Hudson, Kersey, LaSalle, Lochbuie and Milliken). In September it also approved dispatch agreements with Eaton, Greeley, Johnstown, Mead and Windsor.
-  where: Countywide
+- title: 'Road and intersection projects: roundabouts, signals and bridges'
+  summary: The county moved on roundabouts at County Roads 31/74 and 13/50, a traffic signal at State Highway 52 and CR 37, improvements at SH 392 and CR 35, and bridge replacements (19/46.5A and 76.5/21A). It also approved easement purchases, utility relocations, street lights and an Xcel Energy gas pipeline agreement for High Plains Boulevard, along with many temporary road closures.
+  where: County Roads 31/74, 13/50, SH 52/CR 37, SH 392/CR 35
   refs:
   - 0
+  - 15
+  - 17
+  - 18
+  - 20
+  - 21
+  topics:
+  - Roads & traffic
+  - Land & property
+- title: Dispatch services agreements with towns and Greeley
+  summary: The board approved public safety communications dispatch agreements with Eaton, Greeley, Johnstown, Mead and Windsor, after pulling them from one agenda and reconsidering on September 14. Similar agreements were made with Ault police and the Briggsdale and Fort Lupton fire districts.
+  where: Countywide
+  refs:
+  - 5
   - 7
+  - 8
   - 9
-  - 10
-  - 11
   topics:
   - Policing & public safety
   - Fire & emergencies
-- title: 'Road projects: High Plains Boulevard, roundabout, and bridge replacements'
-  summary: The board approved gas pipeline agreements with Xcel for the High Plains Boulevard (CR 9.5) project and the SH 392/CR 37 intersection. It approved street lights for a County Road 31 and 74 roundabout and a traffic signal at SH 52 and CR 37. It also awarded bridge replacement construction, including Bridge 19/46.5A.
-  where: CR 9.5, CR 31/74, SH 392/CR 37, SH 52/CR 37
+- title: Weld County Jail renovations and contracts
+  summary: The county awarded bids for jail work including shower replacements in Jail 1 West, pod renovations, North Jail lighting, makeup air units, inmate commissary and food services. It also signed on to state opioid response grants for jail-based behavioral services.
+  where: Weld County Jail, Greeley
   refs:
-  - 1
-  - 2
-  - 17
-  - 19
-  - 20
-  - 22
-  topics:
-  - Roads & traffic
-  - Utilities
-- title: Tax incentive agreements and urban renewal revenue sharing
-  summary: The board considered tax incentive agreements, an amendment to tax increment revenue sharing for the Colliers Hill Urban Renewal Plan, and the county incentives program. It also considered a proposed area for state economic development designation and private activity bonds for residential facilities.
-  where: Countywide
-  refs:
-  - 8
+  - 5
+  - 10
   - 11
-  - 18
-  topics:
-  - Economic development
-  - Budget & taxes
-- title: Cistern usage and right-of-way permit ordinances (2026-12 and 2026-13)
-  summary: 'Code Ordinances #2026-12 (cistern usage permit criteria) and #2026-13 (right-of-way use permit) went through first reading on September 28, second reading on October 12, and final reading on October 26. A further ordinance (#2026-19) on liquor code updates, dance licenses and fees had first reading October 26.'
-  where: Countywide
-  refs:
   - 14
   - 17
-  - 21
   topics:
+  - Policing & public safety
   - Government operations
-  - Water
-  - Fees & rates
-- title: Mineral resource and gravel permit enforcement hearings
-  summary: The board held show cause or probable cause hearings on compliance with special review permits, including a mineral resource site (PCSC26-0007), a water-skiing lake facility (PCSC23-0011) and PCSC21-0008. It also considered a major amended permit to expand a mineral extraction site near County Road 22.5.
-  where: Various sites incl. County Road 22.5 and County Road 64
+  - Health & human services
+- title: November 2026 election arrangements and Amendment 83 resolution
+  summary: The board approved coordinated election agreements such as with the Town of Firestone, facility usage agreements for the November 3 election, and a voting system equipment amendment. It also considered a resolution to support Amendment 83 and a fiscal agent for state election grant funds.
+  where: Countywide
   refs:
+  - 7
   - 8
+  - 9
+  - 14
   - 15
-  - 17
-  - 20
   topics:
-  - Oil, gas & mining
-  - Zoning & development
+  - Elections
+- title: Latham/West Lowell annexation deeds and Pawnee Grasslands grant
+  summary: The county approved quit claim deeds tied to Latham Solar Farm annexations and a portion of Poudre River Trail resulting from the West Lowell Annexation. It also considered an annexation petition covering portions of County Roads 18 and a FLAP grant for Pawnee Grasslands.
+  where: Latham area, West Lowell, Pawnee Grasslands
+  refs:
+  - 4
+  - 8
+  - 17
+  topics:
+  - Annexation
+  - Land & property
+  - Recreation & trails

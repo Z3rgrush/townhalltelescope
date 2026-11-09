@@ -1,5 +1,5 @@
 - title: E-bike and e-scooter ordinance
-  summary: Trustees raised concerns about electric bikes in January, and in April the police chief described the current approach to e-bikes and e-scooters. The Board directed staff to draft an ordinance. A resident spoke in support in June, and the mayor later reported positive support for it.
+  summary: Trustees raised concerns about electric bikes in January, and in April the police chief described the department's approach to e-bikes and e-scooters. Trustees then directed staff to draft an ordinance. A resident spoke in support in June, and trustees later reported positive support.
   where: Townwide
   refs:
   - 2
@@ -12,7 +12,7 @@
   - Policing & public safety
   public_comment: true
 - title: Platte Canyon Road sidewalk project
-  summary: The Board approved extra spending on the sidewalk in June. In August a required design change was discussed and the Trustees directed staff to proceed. In September staff said the sidewalk would not proceed because the design had changed too much.
+  summary: Trustees approved additional spending on the sidewalk in June. In August a required design change was discussed and trustees directed staff to proceed. In September staff said the sidewalk would not go ahead because the design had changed too much.
   where: Platte Canyon Road
   refs:
   - 7
@@ -21,28 +21,8 @@
   topics:
   - Roads & traffic
   - Recreation & trails
-- title: 2027 Town Budget
-  summary: Staff presented a first draft of the 2027 budget in September, including several special projects and initiatives. A second draft and a required public hearing were scheduled for the October and November meetings. A long-range financial forecast was also presented in August.
-  where: Townwide
-  refs:
-  - 9
-  - 10
-  - 11
-  - 12
-  topics:
-  - Budget & taxes
-- title: Housing Needs Assessment
-  summary: The town is conducting a Housing Needs Assessment. A community survey is underway and staff expects the response to exceed the 20% target. A first draft was scheduled for the October 20 meeting.
-  where: Townwide
-  refs:
-  - 9
-  - 10
-  - 11
-  topics:
-  - Housing
-  - Zoning & development
 - title: Annexation of 8 Hunter Run
-  summary: 'The Board approved Resolution #14 in August concerning the annexation of 8 Hunter Run. Trustee Bill #11 on the annexation was set for a public hearing on October 20. Earlier, the town had also discussed an HOA about annexing into the town.'
+  summary: 'Trustees approved Resolution #14 on the annexation of 8 Hunter Run in August. The October agenda lists Trustee Bill #11 on the annexation with a public hearing. In May the town also discussed an HOA''s interest in annexing.'
   where: 8 Hunter Run
   refs:
   - 6
@@ -51,44 +31,50 @@
   topics:
   - Annexation
   - Land & property
-- title: Pickleball noise and Columbine Country Club development
-  summary: A resident at 7 Fairway raised concerns about pickleball noise and asked the Trustees to act before future development of the Columbine Country Club Villas. Pickleball discussions came up again in May.
+- title: 2026 and 2027 town budgets
+  summary: Trustees held a public hearing on the 2026 budget in November 2025 and adopted it in December along with the property valuation resolution. A first draft of the 2027 budget with special projects was presented in September, and a second draft and a November public hearing were scheduled. A long-range financial forecast was also presented in August.
+  where: Townwide
+  refs:
+  - 0
+  - 1
+  - 9
+  - 10
+  - 11
+  - 12
+  topics:
+  - Budget & taxes
+- title: Housing Needs Assessment
+  summary: The town is preparing a Housing Needs Assessment. A community survey is underway, and staff expect the response rate to exceed the 20% target. A first draft was scheduled for the October 20 meeting.
+  where: Townwide
+  refs:
+  - 9
+  - 10
+  - 11
+  topics:
+  - Housing
+  - Zoning & development
+- title: Pickleball noise and recreational lighting
+  summary: A resident at 7 Fairway raised pickleball noise in February and asked for proactive action before the Columbine Country Villas development. Pickleball came up again in May. A November study session was set on recreational lighting.
   where: Columbine Country Club area, Fairway
   refs:
   - 3
   - 4
   - 6
+  - 13
   topics:
   - Recreation & trails
   - Zoning & development
   public_comment: true
-- title: Fee schedule and permit fees
-  summary: 'The Board approved Resolution #13 in August adopting a town-wide fee schedule. Trustee Bill #9 on permit fees was on the October 20 agenda.'
-  where: Townwide
-  refs:
-  - 9
-  - 11
-  topics:
-  - Fees & rates
 - title: Jake brake ordinance
-  summary: 'Trustee Bill #8 on engine compression (Jake) brakes passed first reading in July and second reading in August.'
+  summary: 'Trustee Bill #8 on engine compression brakes (jake brakes) passed first reading in July and second reading in August.'
   where: Townwide
   refs:
   - 8
   - 9
   topics:
   - Roads & traffic
-- title: Smoking and vaping ban in Town Park
-  summary: 'Trustee Bill #4 prohibiting smoking and vaping in the Town Park passed first reading in March and second reading in April.'
-  where: Town Park
-  refs:
-  - 4
-  - 5
-  topics:
-  - Parks & open space
-  - Health & human services
-- title: Building and fire code updates
-  summary: 'The Board adopted updated building codes in November 2025 and the 2024 Fire Code in June 2026 after a public hearing. A Building Commissioner ordinance was tabled indefinitely in March. Land use and zoning updates (Trustee Bill #10) were set for a November hearing.'
+- title: Building, fire and traffic code updates
+  summary: 'Trustees adopted updated building codes in November 2025 and amended the Model Traffic Code. They adopted the 2024 Fire Code in June. An ordinance on the Building Commissioner was tabled indefinitely in March. A land use and zoning update (Trustee Bill #10) was on the October agenda.'
   where: Townwide
   refs:
   - 0
@@ -98,13 +84,23 @@
   - 7
   - 11
   topics:
-  - Zoning & development
+  - Government operations
   - Fire & emergencies
-- title: Graffiti in Platte Canyon Road culvert
-  summary: The Town took steps to mitigate graffiti in a culvert under Platte Canyon Road, and updates continued into April.
-  where: Platte Canyon Road culvert
+  - Zoning & development
+- title: Smoking and vaping ban in Town Park
+  summary: 'Trustee Bill #4 prohibiting smoking and vaping in the Town Park passed first reading in March and second reading in April.'
+  where: Town Park
   refs:
   - 4
   - 5
   topics:
-  - Policing & public safety
+  - Parks & open space
+  - Health & human services
+- title: Town fee schedule and permit fees
+  summary: 'Trustees approved Resolution #13 setting a town-wide fee schedule in August. Trustee Bill #9 on permit fees was on the October agenda.'
+  where: Townwide
+  refs:
+  - 9
+  - 11
+  topics:
+  - Fees & rates

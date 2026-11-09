@@ -1,37 +1,6 @@
 # castle-pines
 
-## [castle-pines#0] 2026-08-04 | City Council Study Session | agenda
-- 2027 Budget Policy and Strategic Projects Discussion
-- 2026-07-30 City Council Strategic Projects 2027 to 2029.pdf
-- 2027 CITY COUNCIL STRATEGIC
-- 2027 PROJECTS
-- UNIFIED LAND DEVELOPMENT CODE
-- DRIVE (COMMERCIAL STREET ACQUISITION)
-- EAST SIDE COMMERCIAL/MIXED-USE (PA2) PLATTING
-- PARKWAY TRIBUTARY
-- TRAILS MASTER PLAN UPDATE
-- HAPPY CANYON TRIBUTARY STORM
-- WATER RESTORATION
-- MUNICIPAL USE WATERWISE POLICY
-- PROPERTY DEVELOPMENT PLAN
-- IMPROVEMENTS (URA)
-- LODGING/ADMISSIONS TAX
-- EXISTING PARKS UPGRADES/ADA
-- CONNECTIONS/IMPROVEMENTS
-- PARKWAY TO SHOREHAM
-- AND CASTLE PINES PARKWAY
-- PRESERVE PARK – PUBLIC
-- 2028 PROJECTS
-- DEVELOPMENT CONTINUED
-- SOARING HAWK PARK CAPITAL
-- CASTLE PINES PARKWAY – VILLAGE
-- CASTLE PINES PARKWAY TO SHOREHAM
-- PRESERVE PARK FINAL DESIGN &
-- 2029 PROJECTS
-- SPRING TRIBUTARY STORMWATER
-- I-25/CASTLE PINES PARKWAY
-
-## [castle-pines#1] 2026-08-11 | City Council Meeting | minutes
+## [castle-pines#0] 2026-08-11 | City Council Meeting | minutes
 - Donna Ferguson, Community Development Director
 - APPROVAL OF AGENDA
 - The agenda was approved as presented
@@ -59,7 +28,7 @@
 - MINUTES SUBMITTED: APPROVED:
 - Agreement completed
 
-## [castle-pines#2] 2026-08-20 | Parks and Recreation Advisory Board Meeting | minutes
+## [castle-pines#1] 2026-08-20 | Parks and Recreation Advisory Board Meeting | minutes
 - Parks and Recreation Advisory Board
 - REGULAR MEETING OF THE PARKS AND RECREATION
 - The meeting of the Parks and Recreation Advisory Board of the City of
@@ -82,7 +51,7 @@
 - "2026-08-20 Parks and Recreation Advisory Board Minutes" Hist
 - Agreement completed
 
-## [castle-pines#3] 2026-08-25 | City Council Study Session and Regular Meeting | minutes
+## [castle-pines#2] 2026-08-25 | City Council Study Session and Regular Meeting | minutes
 - Donna Ferguson, Community Development Director
 - APPROVAL OF AGENDA
 - The agenda was approved as presented
@@ -126,7 +95,7 @@
 - the City Charter to Require Voter Approval for Certain Annexations in Excess
 - Motion: Council Member Eubanks moved to approve Resolution 26-53, A
 
-## [castle-pines#4] 2026-09-17 | Parks and Recreation Advisory Board Meeting | agenda
+## [castle-pines#3] 2026-09-17 | Parks and Recreation Advisory Board Meeting | agenda
 - PUBLIC COMMENT
 - PRESENTATION OF MINUTES
 - Minutes from the August 20, 2026 Parks and Recreation Advisory Board Meeting
@@ -171,7 +140,7 @@
 - Options 1 or 2, Option 3 keeps the trail system closer to its current look and feel rather
 - improvement in location identification over the trail network’s current signage, even
 
-## [castle-pines#5] 2026-09-22 | City Council Study Session and Regular Meeting | minutes
+## [castle-pines#4] 2026-09-22 | City Council Study Session and Regular Meeting | minutes
 - APPROVAL OF AGENDA
 - The agenda was approved as presented
 - PUBLIC COMMENT
@@ -213,48 +182,77 @@
 - Intergovernmental Agreement Between the City of Castle Pines and the Board of
 - Construction, Maintenance and Operations for the Happy Canyon Road/I-25
 
-## [castle-pines#6] 2026-10-13 | City Council Study Session and Regular Meeting | agenda
-- Approval of Agenda
-- Public Comment
-- Presentation of Minutes
-- Ordinance 26-10, An Ordinance of the City Council of the City of Castle Pines,
-- Colorado, Amending the Boundaries of the Three Districts of the City in Accordance
-- City Council Staff Report Ordinance 26-10.pdf
-- A - 2026-10-13 Ordinance No 26-10 Castle Pines Redistricting_2026.docx
-- 2026-10-13 - Ordinance No.pdf
-- Resolution 26-60, A Resolution of the City Council of the City of Castle Pines,
-- Colorado, Approving a Professional Services Agreement Between the City of Castle
-- City Council Staff Report Resolution 26-60.pdf
-- Resolution 26-60, PSA with Alfred Benesch for Happy Canyon CM - Phase 1 (1).docx
-- Happy Canyon - Package 1 - CM Agreement with Benesch (1).pdf
-- Resolution 26-61, A Resolution of the City Council of the City of Castle Pines,
-- Colorado, Approving the First Amendment to Agreement for Professional Services
-- Interchange Project
-- City Council Staff Report Resolution 26-61.pdf
-- Resolution 26-61, Approving First Amendment Stanton Constructability_final.docx
-- 2026 First Amendment - Stanton Constructability Services - Cost Estimating - fin (1).docx
-- PUBLIC HEARING: Ordinance 26-08, An Ordinance of the City Council of the City of
-- Castle Pines, Colorado, Approving the Conveyance of Certain Recreation Properties
-- to the Intergovernmental Agreement Between the City of Castle Pines and the Castle
-- City Council Staff Report Ordinance 26-08.pdf
-- Ordinance 26-08, Transfer of CPNMD Properties to City on Second Reading.docx
-- PUBLIC HEARING: Ordinance 26-09, An Ordinance of the City Council of the City of
-- Castle Pines, Colorado, Approving The Conveyance of Certain Tracts of Land to the
-- Agreement Between the City of Castle Pines and the Castle Pines North Metropolitan
-- City Council Staff Report Ordinance 26-09.pdf
-- Ordinance 26-09, Authorizing Conveyance of Tracts to CPNMD on Second Reading.docx
-- PUBLIC HEARING: Resolution 26-62, A Resolution of the City Council of the City of
-- Castle Pines, Colorado, Approving the Canyonside Preliminary Plan No. 1, 2nd
-- Amendment, City Caste No. PFP-2026-001
-- Staff Report Resolution 26-62.pdf
-- Attachment A - Preliminary Plan (3).pdf
-- Resolution 26-62, Approving Canyonside Preliminary Plan No.docx
-- Staff Presentation - CC Pres Canyonside Prelim Plan No.pdf
-- Applicant Presentation - CC PFP-2026-001.pdf
-- Resolution 26-63, A Resolution of the City Council of the City of Castle Pines,
-- Colorado, Adopting an Expedited Review Process for Qualified Affordable Housing
-- Development as Part of a Commitment to Proposition 123, as Adopted by Colorado
-- Staff Report Resolution 26-63.pdf
+## [castle-pines#5] 2026-09-24 | Planning Commission Meeting | minutes
+- Donna Ferguson, Community Development Director
+- 4. APPROVAL OF AGENDA
+- The agenda was approved as presented
+- 5. PUBLIC COMMENT
+- No public comment was presented
+- 6. PRESENTATION OF MINUTES
+- approved as presented
+- STUDY SESSION: Affordable Housing Expedited Review and Overlay Project
+- PUBLIC HEARING: Canyonside Preliminary Plan No. 1, 2nd Amendment, Case
+- Chair Rants opened the Public Hearing at 6:14 p.m
+- Skylar Hager of North Canyons Development presented the item on behalf of
+- Chair Rants opened the Public Comment at 6:50 p.m
+- Chair Rants closed the Public Comment at 6:51 p.m
+- Motion: Commissioner Wiley moved to recommend approval of the Canyonside
+- Preliminary Plan No. 1, 2nd Amendment, Case No. PFP-2026-001, based upon the
+- conditions of approval:
+- 1. The Applicant shall pay all fees and costs incurred by the City and its
+- consultants in the review and processing of the application;
+- by staff before filing the Preliminary Plan with the City
+- Chair Rants closed the Public Hearing at 6:54 p.m
+- 2026 Comprehensive Plan Kickoff and Feedback
+- Donna Ferguson, Community Development Director, and Miriam McGilvray of
+- 8. PLANNING COMMISSION DISCUSSION ITEMS
+- Community Development Director Update
+- Donna Ferguson, Community Development Director, presented the item
+- RESPECTFULLY SUBMITTED: APPROVED:
+- Agreement completed
+
+## [castle-pines#6] 2026-10-13 | City Council Study Session and Regular Meeting | minutes
+- Donna Ferguson, Community Development Director
+- APPROVAL OF AGENDA
+- The agenda was approved as presented
+- PUBLIC COMMENT
+- No public comment was presented
+- PRESENTATION OF MINUTES
+- The September 22, 2026 City Council Meeting Minutes were approved as
+- Ordinance 26-10, An Ordinance of the City Council of the City of Castle
+- Pines, Colorado, Amending the Boundaries of the Three Districts of the
+- Resolution 26-60, A Resolution of the City Council of the City of Castle
+- Pines, Colorado, Approving a Professional Services Agreement Between
+- Resolution 26-61, A Resolution of the City Council of the City of Castle
+- Pines, Colorado, Approving the First Amendment to Agreement for
+- Estimating Services for the Happy Canyon Interchange Project
+- Motion: Council Member Salazar moved to approve all items on the Consent
+- PUBLIC HEARING: Ordinance 26-08, An Ordinance of the City Council of
+- the City of Castle Pines, Colorado, Approving the Conveyance of Certain
+- the City of Castle Pines Pursuant to the Intergovernmental Agreement
+- PUBLIC HEARING: Ordinance 26-09, An Ordinance of the City Council of
+- the Intergovernmental Agreement Between the City of Castle Pines and the
+- Mayor Engerman opened the Combined Public Hearing at 6:35 p.m
+- Lisa Roemhildt, Senior Planner, gave the staff presentation
+- Mayor Engerman opened the Public Comment for Ordinances 26-08
+- Mayor Engerman closed the Public Comment for Ordinances 26-08 and
+- Motion: Council Member Eubanks moved to adopt Ordinance 26-08, An
+- Ordinance of the City Council of the City of Castle Pines, Colorado, Approving the
+- Agreement Between the City of Castle Pines and the Castle Pines North
+- Motion: Council Member Eubanks moved to adopt Ordinance 26-09, An
+- District Pursuant to the Intergovernmental Agreement Between the City of Castle
+- Mayor Engerman closed the Combined Public Hearing at 6:52 p.m
+- PUBLIC HEARING: Resolution 26-62, A Resolution of the City Council of the
+- City of Castle Pines, Colorado, Approving the Canyonside Preliminary Plan
+- No. 1, 2nd Amendment, City Case No. PFP-2026-001
+- Mayor Engerman opened the Public Hearing at 6:52 p.m
+- Skyler Hager, of North Canyons Development, gave presentation on
+- Mayor Engerman opened the Public Comment at 8:11 p.m
+- Mayor Engerman closed the Public Comment at 8:12 p.m
+- Motion: Mayor Engerman moved to approve Resolution 26-62, A Resolution of the
+- City Council of the City of Castle Pines, Colorado, Approving the Canyonside
+- Preliminary Plan No. 1, 2nd Amendment, City Case No. PFP-2026-001, with the
+- following condition of approval, the Subdivision Improvement Agreement shall
 
 ## [castle-pines#7] 2026-10-15 | Parks and Recreation Advisory Board Meeting | agenda
 - PUBLIC COMMENT

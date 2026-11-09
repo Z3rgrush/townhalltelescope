@@ -1,98 +1,111 @@
-- title: Lodging tax increase ballot question (R-26-55)
-  summary: The commissioners considered Resolution R-26-55 to put a question to voters in unincorporated Clear Creek County and its municipalities, except Georgetown, on raising the county's lodging tax. Proceeds would go toward road maintenance or improvements, public safety, childcare and housing tied to tourism. Lodging tax was also on an August intergovernmental agenda, and a tourism bureau website and messaging presentation was scheduled.
-  where: Countywide (excluding Georgetown)
-  refs:
-  - 1
-  - 8
-  topics:
-  - Budget & taxes
-  - Tourism & events
-  - Elections
-- title: 2026 budget check-in and 2027 proposed budget
-  summary: 'The board held work sessions on the 2026 budget and the 2027 budget process in August, then took up 2027 budget requests in September. A 2027 proposed budget workshop was set for October 20. Also on the agenda: restoring a Deputy Clerk position as permanent full-time, and a Sheriff''s Office staffing and compensation matter.'
-  where: Countywide
+- title: Lodging tax increase ballot question (Resolution R-26-55)
+  summary: Commissioners considered Resolution R-26-55 to send voters in unincorporated Clear Creek County and its towns (except Georgetown) a question to increase the county lodging tax. Proceeds would go to tourism-related road maintenance, public safety, childcare and housing. A tourism bureau website and messaging presentation was also on the agenda.
+  where: Countywide (except Georgetown)
   refs:
   - 0
-  - 2
-  - 10
+  - 7
+  topics:
+  - Fees & rates
+  - Elections
+  - Tourism & events
+- title: 2027 county budget and 2026 budget check-in
+  summary: The board held a 2026 budget check-in and 2027 budget process work session, followed by a 2027 proposed budget workshop on Oct. 20. A public hearing on the 2027 budget for the county, Emergency Services GID and Housing Authority was set for Nov. 3, along with a 2026 supplemental budget appropriation (R-26-61).
+  where: Countywide
+  refs:
+  - 1
+  - 9
+  - 17
   - 18
   topics:
   - Budget & taxes
-  - Government operations
+- title: Short-term rental ordinance (Ordinance No. 21)
+  summary: Commissioners took up first reading of Ordinance No. 21, which would replace Ordinance 19 on short-term rentals. Community feedback was gathered in October 2026, and written public comments and a summary of changes were in the packet.
+  where: Unincorporated Clear Creek County
+  refs:
+  - 18
+  topics:
+  - Short-term rentals
+  - Zoning & development
+  public_comment: true
 - title: Open fire ban ordinance (Ordinance No. 20) and wildfire preparedness
-  summary: The board held a second reading and public hearing on Ordinance No. 20, which repeals and replaces Ordinance No. 16 and sets regulations for banning open fires. It also heard a Public Safety Power Shutoff presentation, and reviewed the county's 2026 wildfire mitigation plan. A Wildfire Preparedness Workshop was announced for August 26 at Dumont Fire Station.
-  where: Countywide
-  refs:
-  - 0
-  - 4
-  topics:
-  - Fire & emergencies
-  - Environment & climate
-- title: 'Housing: Prop 123 credits and regional housing action plan'
-  summary: The county committed to join the Clear Creek Regional Housing Authority's Housing Action Plan and considered an intergovernmental agreement on sharing Proposition 123 affordable housing credits. It also amended an agreement in support of childcare in the county.
-  where: Countywide
-  refs:
-  - 0
-  - 8
-  - 15
-  topics:
-  - Housing
-  - Health & human services
-- title: Alvarado Open Space Park, Glass Memorial and open space rules
-  summary: The Open Space Commission followed up on the Glass Memorial at Alvarado Open Space Park and reviewed a concept for it. It also began a discussion of updating its rules and regulations using Jefferson County's park rules as a model. Other items included a legal question on adding a gate to an access road, grant projects, and parking on county roads to reach open space.
-  where: Alvarado Open Space Park
+  summary: The board held a public hearing on second reading of Ordinance No. 20, which repeals and replaces Ordinance 16 on regulations for banning open fires. It also heard a Public Safety Power Shutoff presentation and reviewed the 2026 wildfire mitigation plan. A resolution rescinding R-01-83 had a hearing the same day.
+  where: Unincorporated Clear Creek County
   refs:
   - 3
-  - 10
-  - 17
+  topics:
+  - Fire & emergencies
+  - Utilities
+  - Environment & climate
+- title: Waldorf inholding purchase by Georgetown and open space funds
+  summary: The Open Space Commission discussed the Town of Georgetown buying Parcel 2091-034-00-645 (Waldorf inholding). The commissioners took up Resolution R-26-60 to contribute Open Space Trust Fund money toward the purchase.
+  where: Waldorf area near Georgetown
+  refs:
+  - 16
+  - 18
+  topics:
+  - Parks & open space
+  - Land & property
+- title: Alvarado Open Space Park project and Glass Memorial
+  summary: The Open Space Commission and commissioners reviewed a concept for Alvarado Open Space Park and next steps on a Glass Memorial there. Parking on county roads to reach open space was also discussed.
+  where: Alvarado Open Space Park
+  refs:
+  - 2
+  - 9
+  - 16
   topics:
   - Parks & open space
   - Recreation & trails
-- title: Georgetown purchase of Waldorf inholding parcel
-  summary: The Open Space Commission and commissioners discussed a possible purchase, lease or sale involving Parcel No. 2091-034-00-645 in unincorporated Clear Creek County, with the Town of Georgetown seeking to buy. The matter was handled partly in executive session.
-  where: Parcel 2091-034-00-645, Waldorf area
-  refs:
-  - 17
-  topics:
-  - Land & property
-  - Parks & open space
-- title: Sale of county real property (Resolution R-26-54)
-  summary: The board considered Resolution R-26-54 authorizing the sale of real property and granting signature authority to sign the real estate documents.
+- title: Open Space Commission rules and gate on Sheep Mountain access road
+  summary: The commission started discussing an update of its rules and regulations, using Jeffco open space regulations as a model. It also sought legal advice on adding a gate to an access road for the Sheep area and on a public lands manager position.
+  where: Open space lands
   refs:
   - 2
+  - 6
+  - 16
   topics:
-  - Land & property
-- title: CDOT I-70 Floyd Hill reporting and Condition 9 requirements
-  summary: The board held work sessions on CDOT reporting on the I-70 Floyd Hill project and on CDOT requirements for Condition 9. It also accepted Forest Service public road easements for several county roads, including Little Bear Creek Road and Sinton Road.
+  - Parks & open space
+  - Government operations
+- title: Proposition 123 shared affordable housing credits and childcare support
+  summary: Commissioners considered an intergovernmental agreement on sharing Proposition 123 affordable housing credits. They also took up an amendment to an agreement supporting childcare in the county.
+  where: Countywide
+  refs:
+  - 7
+  - 14
+  topics:
+  - Housing
+  - Health & human services
+- title: CDOT I-70 Floyd Hill and Condition 9 requirements
+  summary: The board held work sessions on CDOT reporting about the I-70 Floyd Hill project and CDOT requirements for Condition 9.
   where: I-70 Floyd Hill
   refs:
-  - 8
+  - 7
   topics:
   - Roads & traffic
-- title: Public health agreements and Jefferson County partnerships
-  summary: The board rescinded and replaced earlier agreements with Jefferson County Public Health for referral clinical services and with Arapahoe County Public Health for clinician preceptor services. It also approved state public health contract amendments for emergency preparedness and Vaccines for Children.
+- title: Emergency services, Fire Authority and ambulance
+  summary: The county considered a letter of support for an ambulance nomination and nominated Bruce Hohne to the Clear Creek Fire Authority board. Negotiations over amending the Fire Authority's 2024 intergovernmental agreement were also on the agenda.
   where: Countywide
   refs:
-  - 0
-  - 4
-  topics:
-  - Health & human services
-- title: Clear Creek Fire Authority and emergency services district appointments
-  summary: The board considered nominating Bruce Hohne to the Clear Creek Fire Authority board, along with a letter of support for ambulance nomination and USFS grant support. Items also included wildfire watershed and forest health grant support.
-  where: Countywide
-  refs:
-  - 8
-  - 15
+  - 7
+  - 14
+  - 17
   - 18
   topics:
   - Fire & emergencies
   - Government operations
-- title: Strong Start Scholarship administrative rate
-  summary: The Clear Creek Schools Foundation asked to adjust the administrative cost rate for the Strong Start Scholarship Program. The board asked for full financials in a few weeks before amending the agreement. The board also considered support for a school district ballot measure in October.
-  where: Countywide
+- title: County Annex building and courthouse basement restoration
+  summary: Commissioners held a work session on the County Annex building. They also considered final payment and a contract amendment for the courthouse basement restoration project (CP 26-01).
+  where: Idaho Springs county buildings
   refs:
-  - 0
-  - 15
+  - 17
+  - 18
   topics:
-  - Schools & youth
-  - Budget & taxes
+  - Government operations
+  - Land & property
+- title: Road easements, drainage and striping projects
+  summary: The county considered accepting US Forest Service public road easements for several county roads, including Little Bear Creek, Raven Ridge and Sinton roads. It also considered a pavement marking contract and drainage improvements contract (RC 26-02D).
+  where: County roads
+  refs:
+  - 7
+  - 11
+  topics:
+  - Roads & traffic

@@ -1,16 +1,78 @@
-- title: 'Ballot Issue 2G: half-cent sales tax for public and traffic safety'
-  summary: Council adopted Resolution 2026-58 on August 24 to put Ballot Issue 2G before voters on November 3, 2026. It would raise the sales and use tax rate by one-half of one percent, with all revenue dedicated to public safety and traffic safety improvements. On October 12 council considered a resolution formally supporting the measure.
+- title: 'Ballot Issue 2G: 0.5% sales tax increase for public safety'
+  summary: Council referred Ballot Issue 2G to the November 3, 2026 ballot (Resolution 2026-58, Aug. 24) and then passed a resolution of support on Oct. 12. It would raise the sales and use tax rate by one-half percent, with revenue dedicated to public safety and traffic safety improvements, including crime prevention and homelessness response.
   where: Citywide
   refs:
-  - 2
-  - 10
-  - 11
+  - 0
+  - 8
+  - 9
   topics:
   - Budget & taxes
   - Policing & public safety
   - Elections
-- title: Automated license plate readers and proposed AVIS cameras
-  summary: Police presented Lakewood's use of 17 fixed Flock Safety license plate cameras, in use in various forms since 2010. Council was asked to consider added safeguards and how the proposed Automated Vehicle Identification System relates to the existing readers. Policy PP-9126 bars a traffic stop based solely on an ALPR alert.
+- title: Automated license plate readers and proposed AVIS
+  summary: Police presented Lakewood's use of 17 fixed Flock Safety license plate cameras, in use in various forms since 2010 and originally funded by a federal JAG grant. Council is reviewing whether more safeguards are needed and how the city's proposed Automated Vehicle Identification System relates to the existing cameras.
+  where: Citywide
+  refs:
+  - 4
+  - 5
+  topics:
+  - Policing & public safety
+  - Government operations
+- title: Rezonings on S. Kipling, W. Mansfield and W. Duquesne
+  summary: 'Council took up a series of rezoning ordinances: 2555 S. Kipling St. and 7201 W. Mansfield Ave. (first reading Oct. 26, second reading Nov. 9), and 7801 W. Duquesne and 2501 S. Kipling St. (first reading Nov. 9).'
+  where: 2555 and 2501 S. Kipling St.; 7201 W. Mansfield Ave.; 7801 W. Duquesne
+  refs:
+  - 10
+  - 11
+  - 12
+  - 13
+  topics:
+  - Zoning & development
+  - Land & property
+- title: Natural Grocers headquarters public benefit agreement
+  summary: Council considered a performance-based incentive agreement to keep Natural Grocers' national headquarters in Lakewood, tied to a building remodel, 50 new jobs and average wages at or above the Jefferson County average. The company must repay the incentive if it moves its headquarters out during the retention period. A 2023 agreement for a larger project at 12612 W. Alameda Parkway never moved forward.
+  where: 12612 W. Alameda Parkway
+  refs:
+  - 12
+  - 13
+  topics:
+  - Economic development
+  - Fees & rates
+- title: Purchase of 1081 Vance Street for open space and park
+  summary: Council considered an ordinance authorizing the city to buy the property at 1081 Vance Street for municipal open space and park purposes. It was on first reading Sept. 28 and second reading with a public hearing Oct. 12.
+  where: 1081 Vance Street
+  refs:
+  - 6
+  - 7
+  - 8
+  - 9
+  topics:
+  - Parks & open space
+  - Land & property
+- title: 2025 Colorado Wildfire Resiliency Code adoption
+  summary: Council adopted the 2025 Colorado Wildfire Resiliency Code with local deletions and amendments, with first reading Aug. 24 and second reading with a public hearing Sept. 28.
+  where: Citywide
+  refs:
+  - 0
+  - 6
+  - 7
+  topics:
+  - Fire & emergencies
+  - Zoning & development
+- title: Revised 2026 and proposed 2027 city and LRA budgets
+  summary: Council and the Lakewood Reinvestment Authority heard presentations of the revised 2026 and proposed 2027 budgets on Sept. 14. Staff plans to seek approval of the LRA budget at the Oct. 19 meeting. Council also approved 2027 budgets for the Alameda Corridor and West Colfax business improvement districts.
+  where: Citywide
+  refs:
+  - 1
+  - 2
+  - 3
+  - 6
+  - 7
+  topics:
+  - Budget & taxes
+  - Downtown & business
+- title: Permanent police committee
+  summary: Council amended its earlier resolution (R-2026-6) on establishing a permanent police committee and appointed a member to the ad-hoc committee working toward it.
   where: Citywide
   refs:
   - 6
@@ -18,82 +80,20 @@
   topics:
   - Policing & public safety
   - Government operations
-- title: Waste hauler licensing rewrite (Chapter 5.29)
-  summary: Ordinance O-2026-30 would repeal and replace the hauler licensing chapter, adding definitions, a license review and approval process, and an enforcement framework that includes a hearing. License fees would move into rules and regulations. It aims to track tonnage and bring unlicensed haulers in, supporting the city's Zero Waste goal. It was on first reading August 10 and second reading August 24.
+- title: City Manager contract
+  summary: Council had a city manager contract item on its Aug. 24 agenda. The documents give no details of terms or outcome.
   where: Citywide
   refs:
   - 0
-  - 1
-  - 2
   topics:
-  - Utilities
-  - Environment & climate
-  - Fees & rates
-- title: Purchase of 1081 Vance Street for open space and park
-  summary: Ordinance O-2026-32 authorizes the city to buy the property at 1081 Vance Street for municipal open space and park purposes. It had first reading September 28 and second reading with public hearing October 12.
-  where: 1081 Vance Street
+  - Government operations
+- title: Neighborhood Participation Program and capital project funding
+  summary: Council considered setting 2026 capital improvement project funding levels, including projects recommended under the Neighborhood Participation Program, which funds small neighborhood-proposed projects such as playgrounds, public art and community gardens. A related item concerned increasing the city's affordable housing stock by 3%.
+  where: Citywide
   refs:
-  - 8
-  - 9
   - 10
   - 11
   topics:
   - Parks & open space
-  - Land & property
-- title: Rezonings at 2555 S. Kipling St. and 7201 W. Mansfield
-  summary: Council took up first reading of two rezoning ordinances, O-2026-33 for 2555 S. Kipling St. and O-2026-34 for 7201 W. Mansfield.
-  where: 2555 S. Kipling St. and 7201 W. Mansfield
-  refs:
-  - 12
-  - 13
-  topics:
-  - Zoning & development
-  - Land & property
-- title: 2025 Colorado Wildfire Resiliency Code adoption
-  summary: Council considered adopting the 2025 Colorado Wildfire Resiliency Code with local deletions and amendments, on first reading August 24 and second reading September 28.
-  where: Citywide
-  refs:
-  - 2
-  - 8
-  - 9
-  topics:
-  - Fire & emergencies
-  - Zoning & development
-  - Environment & climate
-- title: Revised 2026 and proposed 2027 city and LRA budgets
-  summary: Council held a study session September 14 on the revised 2026 and proposed 2027 city budget. The Lakewood Reinvestment Authority also reviewed its revised 2026 and proposed 2027 budget, with approval sought October 19. Council also approved 2027 budgets for the Alameda Corridor and West Colfax business improvement districts.
-  where: Citywide
-  refs:
-  - 3
-  - 4
-  - 5
-  - 8
-  - 9
-  topics:
-  - Budget & taxes
-  - Downtown & business
-- title: Permanent police committee
-  summary: Council considered amending Resolution R-2026-6 on establishing a permanent police committee and appointing a member to the ad-hoc committee working toward it.
-  where: Citywide
-  refs:
-  - 8
-  - 9
-  topics:
-  - Policing & public safety
-  - Government operations
-- title: Neighborhood Participation Program funding and affordable housing
-  summary: Council was asked to approve 2026 Neighborhood Participation Program projects for funding, which are small neighborhood-proposed improvements. A related resolution concerned the city's affordable housing stock by three percent.
-  where: Citywide
-  refs:
-  - 12
-  - 13
-  topics:
   - Housing
   - Budget & taxes
-- title: City manager contract
-  summary: Council's August 24 agenda included a resolution on the city manager's contract.
-  where: Citywide
-  refs:
-  - 2
-  topics:
-  - Government operations

@@ -1,111 +1,95 @@
-- title: Short-term rental caps, zones and moratorium exceptions
-  summary: 'The Board has been working through a new short-term rental policy: a six-zone framework with license caps by zone, a draft ordinance effective Jan. 1, 2027, and licensing set to begin May 1, 2027. Ordinances 2026-10, 2026-11 and 2026-12 would let some owners hurt by the moratorium (Ordinance 2026-03) apply, with a Nov. 1, 2026 application deadline, and change renewal and enforcement processes. Residents urged enforcement against unlicensed operators and fair treatment for recent buyers.'
+- title: Short-term rental caps, zones and new licensing rules
+  summary: The Board held repeated work sessions on a revised short-term rental program. Direction covered a six-zone framework, cap percentages by zone, a possible nightly rental limit (about 150 nights per year), enforcement and a hearing officer, with a new ordinance planned for Jan. 1, 2027. Residents urged enforcement against unlicensed operators and consideration for owners hurt by the moratorium.
   where: Townwide
   refs:
-  - 1
+  - 0
+  - 3
   - 4
-  - 5
+  - 7
   - 8
   - 9
-  - 10
-  - 12
-  - 13
   - 14
-  - 15
-  public_comment: true
   topics:
   - Short-term rentals
   - Zoning & development
-- title: Transition Zone District lot size and setback rules (Ordinance 2026-06 and 2026-07)
-  summary: The Board held a hearing on Ordinance 2026-06, which sets minimum lot size, lot width and setbacks in the Transition Zone District. Ordinance 2026-07 would put a Development Code in effect Oct. 1, 2026, on the condition that 2026-06 is in effect. Discussion covered consistency with R-1 standards and wetland and topography limits.
-  where: Transition Zone District, Townwide
-  refs:
-  - 2
-  - 3
-  - 7
+  - Government operations
   public_comment: true
-  topics:
-  - Zoning & development
-  - Land & property
-- title: Proposed 2027 budget and town finances
-  summary: The Board was scheduled to hear a presentation and discuss the proposed 2027 budget on Oct. 20. Financial reports show a 10.459 mill levy after a temporary credit, and 2026 general property tax is projected at about $930,583.
+- title: Exceptions to the STR moratorium and 2027 license processing (Ordinances 2026-10, 2026-11, 2026-12)
+  summary: Ordinance 2026-10 would let a limited group of owners, including recent buyers who submitted nearly complete applications, apply for a short-term rental license despite the moratorium, with an application deadline of Nov. 1, 2026. Ordinance 2026-11 sets up processing of renewal applications and licenses effective May 1, 2027, and Ordinance 2026-12 amends the STR code processes. At the Oct. 20 meeting a resident asked for reinstatement of an expired license.
   where: Townwide
   refs:
-  - 3
+  - 11
+  - 12
+  - 13
   - 14
-  - 15
+  topics:
+  - Short-term rentals
+  - Lawsuits & legal
+  public_comment: true
+- title: Transition Zone District lot size and setback changes (Ordinances 2026-06 and 2026-07)
+  summary: Ordinance 2026-06 sets minimum lot size, lot width and setbacks in the Transition Zone District. Ordinance 2026-07 would make the Development Code effective Oct. 1, 2026, conditioned on 2026-06 being in force. A resident commented on setbacks at the Sept. 15 hearing.
+  where: Transition Zone District
+  refs:
+  - 1
+  - 2
+  - 6
+  topics:
+  - Zoning & development
+  public_comment: true
+- title: Proposed 2027 budget
+  summary: The Board was scheduled to receive a presentation and discuss the proposed 2027 budget on Oct. 20. The August financial packet shows a mill levy of 10.459 after a temporary credit and about $930,583 in projected property tax revenue.
+  where: Townwide
+  refs:
+  - 2
+  - 13
+  - 14
   topics:
   - Budget & taxes
-- title: Porch, deck and roof project at 6871 Highway 9 and wildfire code review
-  summary: The Planning Commission found the application incomplete in August because it lacked wildfire-code measurements, a current survey and parking and second-access information on Highway 9. In September it found the revised materials adequate and approved the application. The Town Attorney advised on how far the Highway 9 Access Control Plan applies to minor projects.
-  where: 6871 Highway 9
-  refs:
-  - 0
-  - 6
-  topics:
-  - Zoning & development
-  - Fire & emergencies
-  - Roads & traffic
-- title: '1253 Indiana Creek Road residence: height, garages and carriage house'
-  summary: The Commission held a pre-application session on a proposed home. Topics were the 35-foot height limit, whether recessed garage entrances count as basement entries, the 25% garage area limit, two separate living areas and a carriage house. The applicant was asked for revised exhibits showing existing and proposed grades.
-  where: 1253 Indiana Creek Road
+- title: Sewer, septic and traffic concerns raised by residents
+  summary: Residents raised aging septic systems and environmental concerns along Blue River Road and asked the Town to explore grants, financing and partnerships for future sewer infrastructure. Others raised neighboring construction and easements, and speeding on Indiana Creek Road with requests for traffic calming.
+  where: Blue River Road and Indiana Creek Road
   refs:
   - 6
-  - 11
-  topics:
-  - Zoning & development
-  - Housing
-- title: Sewer and septic concerns along Blue River Road
-  summary: Residents raised aging septic systems and environmental concerns on Blue River Road. They asked the Town to explore grants, financing and partnerships for future sewer infrastructure.
-  where: Blue River Road
-  refs:
-  - 7
-  public_comment: true
   topics:
   - Utilities
   - Environment & climate
-  - Water
+  - Roads & traffic
+  public_comment: true
+- title: Planning Commission review of 1253 Indiana Creek Road residence and other projects
+  summary: The Commission held a work session on a proposed residence at 1253 Indiana Creek Road. It discussed the 35-foot height limit, recessed garage entrances, garage area limits, two separate living areas and possible restrictive covenants. A detached garage and variance at 0809 Blue River Rd, shed provisions in the land use code and wetland protection items are also on the agenda.
+  where: 1253 Indiana Creek Road; 0809 Blue River Rd
+  refs:
+  - 5
+  - 10
+  - 15
+  topics:
+  - Zoning & development
+  - Environment & climate
 - title: Goose Pasture Tarn boat dock rules repealed
-  summary: The Board considered Resolution 2026-10, repealing Resolution 13-05, which set rules and permits for private boat docks at Goose Pasture Tarn. The Town Attorney gave background and the Board moved to adopt it.
+  summary: The Board considered Resolution 2026-10, repealing Resolution 13-05 on rules and permits for private boat docks at Goose Pasture Tarn. The Town Attorney gave background and the Board moved to adopt it.
   where: Goose Pasture Tarn
   refs:
+  - 1
   - 2
-  - 7
+  - 6
   topics:
   - Recreation & trails
   - Government operations
-- title: Speeding and traffic calming on Indiana Creek Road
-  summary: Residents raised speeding on Indiana Creek Road and asked for traffic-calming measures.
-  where: Indiana Creek Road
-  refs:
-  - 7
-  public_comment: true
-  topics:
-  - Roads & traffic
-  - Policing & public safety
-- title: Summit School District mill levy override presentation (Measure 4A)
-  summary: District representatives presented Ballot Measure 4A, a local mill levy override raising up to $5.9 million a year, and the statewide Proposition NN. About 76% of the 4A money would go to staff pay, and the district cited turnover and cost of living.
+- title: Summit School District mill levy override (Ballot Measure 4A)
+  summary: Summit School District presented Ballot Measure 4A, a mill levy override that would raise up to $5.9 million a year, and the statewide Proposition NN. Funds would mainly support staff pay and retention amid turnover and cost of living.
   where: Summit School District
   refs:
-  - 15
+  - 14
   topics:
   - Schools & youth
   - Budget & taxes
-- title: Summit County Hazard Mitigation Plan 2026 adoption
-  summary: The Board was to consider Resolution 2026-13 adopting the Summit County Hazard Mitigation Plan 2026.
+  - Elections
+- title: Summit County Hazard Mitigation Plan 2026
+  summary: The Board was asked to adopt Resolution 2026-13 adopting the Summit County Hazard Mitigation Plan 2026.
   where: Countywide
   refs:
+  - 13
   - 14
-  - 15
   topics:
   - Fire & emergencies
-  - Environment & climate
-  - Government operations
-- title: Board policy on agenda item placement
-  summary: Trustees discussed a draft bylaw policy setting a clear process for bringing items before the Board and supported moving it forward for formal consideration.
-  where: Town Hall
-  refs:
-  - 2
-  - 7
-  topics:
   - Government operations

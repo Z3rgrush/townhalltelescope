@@ -1,50 +1,6 @@
 # erie
 
-## [erie#0] 2026-08-05 | Sustainability Advisory Board | agenda
-- 645 Holbrook Street
-- 3. Approval of the Agenda
-- 4. Approval of Previous Meeting Minutes
-- Approval of Minutes
-- a. Approval of Sustainability Advisory Board July 1, 2026, Meeting Minutes
-- 5. Public Comment
-- c. Virtual Meeting Policy and Advisory Board Appointment Discussion
-- e. 2026 Budget Update and 2027 Budget Reduction
-- ii. SAP Presentation
-- Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
-
-## [erie#1] 2026-08-10 | Open Space and Trails Advisory Board | agenda
-- 645 Holbrook Street
-- 3. Approval of the Agenda
-- a. Approval of Open Space and Trails Advisory Board July 13, 2026, Meeting Minutes
-- 4. Public Comment
-- b. Quarterly Development Update
-- d. Trail Connection Discussion and Group Trail Ride Dates
-- Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
-- 3. Approval of the Agenda: Approved with modification of the order of business items to be discussed
-- 4. Approval of Previous Meeting Minutes: June 8, 2026, Meeting Minutes: Approved
-- 5. Public Comment: None
-- a. Discussion of Open Space Designations: The definitions of Agricultural/Open Space (AG/OS) and
-- Reserved Open Space (RO) were overviewed by Town staff and discussed by OSTAB
-- b. Page Property Update: OSTAB discussed a draft rezoning exhibit of the site with Town staff. OSTAB
-- recommended rezoning all land west of the Cottonwood Extension Irrigation Ditch as Reserve Open
-- OSTAB acknowledged that the narrow, separated parcel on the north side of the Lower Boulder
-- Irrigation Ditch across CR 1.5 from Reliance Park could be excepted from the RO designation to
-- c. Property Acquisition Strategy Update: Luke Bollinger discussed the Land Acquisition and Protection
-- Strategy (LAPS) approach that OSTAB can utilize to evaluate private land around Erie for its value as
-- d. Feedback from Arbor/Earth Day and Town Fair (25 April 2026) Sign-Ups: Feedback received included
-- a trail connection recommendation on the Page Property, more trail signage, and a request for more
-- benches along the Town’s trails. OSTAB also discussed the idea of a town-hosted trail awareness and
-
-## [erie#2] 2026-08-10 | Open Space and Trails Advisory Board | agenda
-- 645 Holbrook Street
-- 3. Approval of the Agenda
-- a. Approval of Open Space and Trails Advisory Board July 13, 2026, Meeting Minutes
-- 4. Public Comment
-- b. Quarterly Development Update
-- d. Trail Connection Discussion and Group Trail Ride Dates
-- Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
-
-## [erie#3] 2026-08-12 | Tree Advisory Board | minutes
+## [erie#0] 2026-08-12 | Tree Advisory Board | minutes
 - 645 Holbrook Street
 - 3. Approval of the Agenda
 - A. Approve agenda
@@ -78,7 +34,7 @@
 - winter break and putting info in January newsletter. (Add to “Work Plan”)
 - projects that have dead trees. How can that be addressed? Town Building
 
-## [erie#4] 2026-08-17 | Open Space and Trails Advisory Board | minutes
+## [erie#1] 2026-08-17 | Open Space and Trails Advisory Board | minutes
 - Kathy Kron (Division Manager, Parks Planning and Development)
 - Shane Greenburg (Senior Parks Planner)
 - 3. Approval of the Agenda: Approved
@@ -103,14 +59,14 @@
 - 5. Tim Payne is leading a Trail Awareness Day initiative. Plan is to lead an organized rides
 - coordinate with town staff as part of the 2027 work plan
 
-## [erie#5] 2026-08-18 | General | agenda
+## [erie#2] 2026-08-18 | General | agenda
 - 645 Holbrook Street
 - Tuesday, August 18, 2026 6:00 PM 645 Holbrook Street
 - I. Discussion Items
 - B. 2027 Budget Study Session - Forecast and Assumptions
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#6] 2026-08-18 | General | agenda
+## [erie#3] 2026-08-18 | General | agenda
 - 645 Holbrook Street
 - Tuesday, August 18, 2026 6:00 PM 645 Holbrook Street
 - I. Discussion Items
@@ -151,7 +107,7 @@
 - Department Directors are asked to review the plan for upcoming years, modify the plan
 - as changes arise, and consider if the planned needs still align with current needs. After
 
-## [erie#7] 2026-08-19 | Planning Commission | agenda
+## [erie#4] 2026-08-19 | Planning Commission | agenda
 - 645 Holbrook Street
 - Sign Up for Public Comment
 - III. Approval of the Agenda
@@ -168,7 +124,7 @@
 - Commission discussion items, not listed on the agenda
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#8] 2026-08-20 | Airport Economic Development Advisory Board | minutes
+## [erie#5] 2026-08-20 | Airport Economic Development Advisory Board | minutes
 - Airport Economic Development Advisory Board
 - 645 Holbrook Street
 - 3. APPROVAL OF AGENDA
@@ -187,7 +143,7 @@
 - C. 2027 AEDAB Annual Work Plan
 - See meeting recording for more detail of discussions
 
-## [erie#9] 2026-08-24 | Historic Preservation Advisory Board | minutes
+## [erie#6] 2026-08-24 | Historic Preservation Advisory Board | minutes
 - 645 Holbrook Street
 - 3. Approval of the Agenda
 - 4. Approval of Previous Meeting Minutes
@@ -199,7 +155,7 @@
 - f. Tax Credits
 - g. Railroad History Grant
 
-## [erie#10] 2026-08-25 | Urban Renewal Authority | agenda
+## [erie#7] 2026-08-25 | Urban Renewal Authority | agenda
 - 645 Holbrook Street
 - III. Approval of the Agenda
 - A. Approval of the June 23, 2026 Urban Renewal Authority Meeting Minutes
@@ -212,7 +168,7 @@
 - for the Colliers Hill Urban Renewal Plan Area
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#11] 2026-08-25 | Urban Renewal Authority | agenda
+## [erie#8] 2026-08-25 | Urban Renewal Authority | agenda
 - 645 Holbrook Street
 - III. Approval of the Agenda
 - A. Approval of the June 23, 2026 Urban Renewal Authority Meeting Minutes
@@ -253,7 +209,7 @@
 - Whereas, the Board approved a reimbursement agreement with the Town of Erie
 - Services Agreement with Felsburg Holt & Ullevig for design services for this project; and
 
-## [erie#12] 2026-08-25 | Town Council | agenda
+## [erie#9] 2026-08-25 | Town Council | agenda
 - 645 Holbrook Street
 - III. Approval of the Agenda
 - A. Approval of the August 11, 2026 Town Council Meeting Minutes
@@ -290,7 +246,7 @@
 - B. Presentation of the 2025 Annual Comprehensive Financial Report and Audit
 - C. Northern Integrated Supply Project Presentation by Northern Colorado Water
 
-## [erie#13] 2026-08-25 | Town Council | agenda
+## [erie#10] 2026-08-25 | Town Council | agenda
 - 645 Holbrook Street
 - III. Approval of the Agenda
 - A. Approval of the August 11, 2026 Town Council Meeting Minutes
@@ -327,7 +283,7 @@
 - B. Presentation of the 2025 Annual Comprehensive Financial Report and Audit
 - C. Northern Integrated Supply Project Presentation by Northern Colorado Water
 
-## [erie#14] 2026-09-01 | General | agenda
+## [erie#11] 2026-09-01 | General | agenda
 - 645 Holbrook Street
 - Tuesday, September 1, 2026 6:00 PM 645 Holbrook Street
 - III. Approval of the Agenda
@@ -336,7 +292,7 @@
 - VIII. Discussion Items
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#15] 2026-09-01 | General | agenda
+## [erie#12] 2026-09-01 | General | agenda
 - 645 Holbrook Street
 - Tuesday, September 1, 2026 6:00 PM 645 Holbrook Street
 - III. Approval of the Agenda
@@ -383,7 +339,7 @@
 - Each party shall pay its own fees and expenses incident to the negotiation and preparation of this Offer and
 - consummation of the transactions contemplated hereby
 
-## [erie#16] 2026-09-02 | Planning Commission | agenda
+## [erie#13] 2026-09-02 | Planning Commission | agenda
 - 645 Holbrook Street
 - Sign Up for Public Comment
 - III. Approval of the Agenda
@@ -396,7 +352,7 @@
 - Commission discussion items, not listed on the agenda
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#17] 2026-09-02 | Sustainability Advisory Board | minutes
+## [erie#14] 2026-09-02 | Sustainability Advisory Board | minutes
 - 645 Holbrook Street
 - 3. Approval of the Agenda
 - 4. Approval of Previous Meeting Minutes
@@ -420,7 +376,7 @@
 - i. Already discussed
 - a. None to discuss
 
-## [erie#18] 2026-09-08 | Town Council | minutes
+## [erie#15] 2026-09-08 | Town Council | minutes
 - 645 Holbrook Street
 - III. Approval of the Agenda
 - Mayor Pro Tem Brandon Bell made a motion to approve the Agenda. Council Member John
@@ -455,7 +411,7 @@
 - 9. Christine Welker spoke about the Town digging up trees to provide for new water meters in
 - with water shortage, traffic on Alpine and Primrose is horrific, doesn't want to pay to update the
 
-## [erie#19] 2026-09-09 | Tree Advisory Board | minutes
+## [erie#16] 2026-09-09 | Tree Advisory Board | minutes
 - 645 Holbrook Street
 - 3. Approval of the Agenda
 - A. Approve agenda
@@ -477,7 +433,7 @@
 - c) Potential opportunity for fruit trees at Linear Park. Could use some of our
 - future budget for those trees
 
-## [erie#20] 2026-09-14 | Open Space and Trails Advisory Board | agenda
+## [erie#17] 2026-09-14 | Open Space and Trails Advisory Board | agenda
 - 645 Holbrook Street
 - 3. Approval of the Agenda
 - 4. Approval of Minutes
@@ -486,7 +442,7 @@
 - c. Rezoning Application: ZON2026-0000; 1025 Weld County Road 1 1/2 Review
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#21] 2026-09-15 | Town Council | agenda
+## [erie#18] 2026-09-15 | Town Council | agenda
 - 645 Holbrook Street
 - Tuesday, September 15, 2026 6:00 PM 645 Holbrook Street
 - III. Approval of the Agenda
@@ -498,7 +454,7 @@
 - mitigation strategies, as well as Flock Safety technology, pursuant to C.R.S. § 24-6
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#22] 2026-09-15 | Town Council | agenda
+## [erie#19] 2026-09-15 | Town Council | agenda
 - 645 Holbrook Street
 - Tuesday, September 15, 2026 6:00 PM 645 Holbrook Street
 - III. Approval of the Agenda
@@ -510,7 +466,7 @@
 - mitigation strategies, as well as Flock Safety technology, pursuant to C.R.S. § 24-6
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#23] 2026-09-16 | Planning Commission | agenda
+## [erie#20] 2026-09-16 | Planning Commission | agenda
 - 645 Holbrook Street
 - Sign Up for Public Comment
 - III. Approval of the Agenda
@@ -523,7 +479,7 @@
 - Commission discussion items, not listed on the agenda
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#24] 2026-09-16 | Planning Commission | agenda
+## [erie#21] 2026-09-16 | Planning Commission | agenda
 - 645 Holbrook Street
 - Sign Up for Public Comment
 - III. Approval of the Agenda
@@ -562,7 +518,7 @@
 - that there are constitutional restrictions that the Town must abide by
 - A: We can consider leaving it in. There aren’t a lot of areas where they could feasibly
 
-## [erie#25] 2026-09-17 | Airport Economic Development Advisory Board | agenda
+## [erie#22] 2026-09-17 | Airport Economic Development Advisory Board | agenda
 - Airport Economic Development
 - 645 Holbrook Street
 - 3. Approval of the Agenda
@@ -571,7 +527,7 @@
 - 5. Public Comment
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#26] 2026-09-22 | General | agenda
+## [erie#23] 2026-09-22 | General | agenda
 - 645 Holbrook Street
 - Tuesday, September 22, 2026 4:30 PM 645 Holbrook Street
 - III. Approval of the Agenda
@@ -581,7 +537,7 @@
 - 1. Planning location for 2027: ECP (could pivot to Coal Creek Park)
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#27] 2026-09-22 | Urban Renewal Authority | agenda
+## [erie#24] 2026-09-22 | Urban Renewal Authority | agenda
 - 645 Holbrook Street
 - III. Approval of the Agenda
 - A. A Resolution of the Board of Commissioners of the Town of Erie Urban Renewal Authority
@@ -592,7 +548,7 @@
 - Approving the Disposition, Development, and Reimbursement Agreement for 150 Briggs
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#28] 2026-09-22 | Urban Renewal Authority | agenda
+## [erie#25] 2026-09-22 | Urban Renewal Authority | agenda
 - 645 Holbrook Street
 - III. Approval of the Agenda
 - A. A Resolution of the Board of Commissioners of the Town of Erie Urban Renewal Authority
@@ -636,7 +592,7 @@
 - Colliers Hill Urban Renewal Plan)
 - This First Amendment to Intergovernmental Agreement for Tax Increment
 
-## [erie#29] 2026-09-22 | Town Council | minutes
+## [erie#26] 2026-09-22 | Town Council | minutes
 - 645 Holbrook Street
 - III. Approval of the Agenda
 - General Business to before Public Comment
@@ -672,7 +628,7 @@
 - V. Public Comment on Non-Agenda and Consent Items Only
 - Mayor Moore read the Public Comment rules and opened Public Comment at 7:14 p.m
 
-## [erie#30] 2026-09-28 | Historic Preservation Advisory Board | agenda
+## [erie#27] 2026-09-28 | Historic Preservation Advisory Board | agenda
 - 645 Holbrook Street
 - 3. Approval of the Agenda
 - 4. Approval of Minutes
@@ -684,7 +640,7 @@
 - h. Railroad History Grant
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#31] 2026-09-29 | General | minutes
+## [erie#28] 2026-09-29 | General | minutes
 - 645 Holbrook Street
 - III. Approval of the Agenda
 - Brian O'Connor made a motion to approve the agenda. John Mortellaro seconded the motion
@@ -694,7 +650,7 @@
 - relative to a potential employment agreement negotiation, including developing strategy
 - Approved ________________________
 
-## [erie#32] 2026-10-06 | Town Council | minutes
+## [erie#29] 2026-10-06 | Town Council | minutes
 - 645 Holbrook Street
 - III. Approval of the Agenda
 - IV. Public Comment on Non-Agenda and Consent Items Only
@@ -709,7 +665,7 @@
 - Department Directors joined the meeting to present their specific budget numbers for
 - Approved ________________________
 
-## [erie#33] 2026-10-07 | Planning Commission | agenda
+## [erie#30] 2026-10-07 | Planning Commission | agenda
 - 645 Holbrook Street
 - Sign Up for Public Comment
 - III. Approval of the Agenda
@@ -728,7 +684,7 @@
 - Commission discussion items, not listed on the agenda
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#34] 2026-10-07 | Planning Commission | agenda
+## [erie#31] 2026-10-07 | Planning Commission | agenda
 - 645 Holbrook Street
 - Sign Up for Public Comment
 - III. Approval of the Agenda
@@ -769,7 +725,7 @@
 - additional discussion about modifying it was needed at this time
 - Planning Commissions to make recommendations on Comprehensive Plan amendments,
 
-## [erie#35] 2026-10-13 | Town Council | minutes
+## [erie#32] 2026-10-13 | Town Council | minutes
 - 645 Holbrook Street
 - III. Approval of the Agenda
 - Mayor Pro Tem Brandon Bell made a motion to approve the Agenda. Council Member Brian
@@ -805,7 +761,7 @@
 - Heidi Majerik, President - Gauge Land Development, and Matt Shock, General Manager
 - of the Golf Course, presented their presentation at 7:01 PM
 
-## [erie#36] 2026-10-14 | Tree Advisory Board | agenda
+## [erie#33] 2026-10-14 | Tree Advisory Board | agenda
 - 645 Holbrook Street
 - 3. Approval of the Agenda
 - 4. Approval of Minutes
@@ -813,7 +769,7 @@
 - 5. Public Comment
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#37] 2026-10-15 | Airport Economic Development Advisory Board | agenda
+## [erie#34] 2026-10-15 | Airport Economic Development Advisory Board | agenda
 - Airport Economic Development
 - 645 Holbrook Street
 - III. Approval of the Agenda
@@ -822,7 +778,7 @@
 - D. Discussion to Modernize Municipal Code § 2-7-2 (Airport Fund)
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#38] 2026-10-20 | Town Council | agenda
+## [erie#35] 2026-10-20 | Town Council | agenda
 - 645 Holbrook Street
 - Tuesday, October 20, 2026 6:30 PM 645 Holbrook Street
 - III. Approval of the Agenda
@@ -834,7 +790,7 @@
 - D. Discussion/Direction - Revisions to Economic Incentives Policy
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#39] 2026-10-20 | Town Council | agenda
+## [erie#36] 2026-10-20 | Town Council | agenda
 - 645 Holbrook Street
 - Tuesday, October 20, 2026 6:30 PM 645 Holbrook Street
 - III. Approval of the Agenda
@@ -876,7 +832,7 @@
 - Council, performed on Johnson's time off with prior written approval of the Town Council
 - d. Johnson is permitted to exercise a flexible work schedule. However,
 
-## [erie#40] 2026-10-21 | Planning Commission | agenda
+## [erie#37] 2026-10-21 | Planning Commission | agenda
 - 645 Holbrook Street
 - Sign Up for Public Comment
 - III. Approval of the Agenda
@@ -887,7 +843,7 @@
 - Commission discussion items, not listed on the agenda
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#41] 2026-10-21 | Planning Commission | agenda
+## [erie#38] 2026-10-21 | Planning Commission | agenda
 - 645 Holbrook Street
 - Sign Up for Public Comment
 - III. Approval of the Agenda
@@ -936,7 +892,7 @@
 - Each zoning district allows for different uses, design standards,
 - Open Space Properties – Current Zoning
 
-## [erie#42] 2026-10-26 | Historic Preservation Advisory Board | agenda
+## [erie#39] 2026-10-26 | Historic Preservation Advisory Board | agenda
 - 645 Holbrook Street
 - 3. Approval of the Agenda
 - 4. Approval of Minutes
@@ -947,7 +903,7 @@
 - g. Railroad History Grant
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#43] 2026-10-27 | Town Council | agenda
+## [erie#40] 2026-10-27 | Town Council | agenda
 - 645 Holbrook Street
 - III. Approval of the Agenda
 - A. Approval of the September 8, 2026 Town Council Meeting Minutes
@@ -974,3 +930,99 @@
 - D. Discussion/Direction - Property & Liability Insurance Changes for 2027
 - 402(4)(b) and (e) related to the Global Settlement Intergovernmental Agreement
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
+
+## [erie#41] 2026-11-03 | Liquor License Authority | agenda
+- 645 Holbrook Street
+- Tuesday, November 3, 2026 1:00 PM 645 Holbrook Street
+- a. Approval of the July 21, 2026 Meeting Minutes
+- 3. General Business and Public Hearings
+- a. New Hotel & Restuarant Liquor License Application for Johnny Bechamel's LLC dba
+- 4. Public Comment
+- Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
+
+## [erie#42] 2026-11-03 | Liquor License Authority | agenda
+- 645 Holbrook Street
+- Tuesday, November 3, 2026 1:00 PM 645 Holbrook Street
+- a. Approval of the July 21, 2026 Meeting Minutes
+- 3. General Business and Public Hearings
+- a. New Hotel & Restuarant Liquor License Application for Johnny Bechamel's LLC dba
+- 4. Public Comment
+- Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
+- a. Approval of the May 1, 2026, Meeting Minutes
+- The consent agenda was approved by Judge Bailhache at 2:11 p.m
+- III. GENERAL BUSINESS/PUBLIC HEARING
+- Action: Judge Bailhache opened the public hearing at 2:12 p.m. regarding the New
+- Concurrent Fermented Malt Beverage and Wine (City) Liquor License application submitted
+- Cory Tipton, local QuikTrip Attorney, Brittany Sikorski, real estate project manager, and
+- Lydia Hernandez, operations manager, appeared at the hearing today to answer any questions
+- related to the application for a new-concurrent Fermented Malt Beverage and Wine Liquor
+- Sikorski stated that the businesses are privately owned and operated by the Corporation. The
+- sales of alcohol are not permitted. Ms. Tipton closed out her testimony stating that the
+- No one from the public was there to speak for or against the application. Judge Bailhache
+- stated the application does meet the needs and desires of the neighborhood and that QuikTrip
+- Corporation appears to be of good moral character and therefore approved the application at
+
+## [erie#43] 2026-11-04 | Sustainability Advisory Board | agenda
+- 645 Holbrook Street
+- 3. Approval of the Agenda
+- 4. Approval of Minutes
+- a. Approval of Sustainability Advisory Board September 2, 2026, Meeting Minutes
+- 5. Public Comment
+- a. Resilience Action Plan Presentation - Tanya Masynyk and Anna Stofft, University of
+- f. Annual SAB Work Plan Development
+- g. Proposed Revisions to Advisory Board Application Form
+- i. SAB Application and 2027 Appointments
+- Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
+
+## [erie#44] 2026-11-09 | Open Space and Trails Advisory Board | agenda
+- 645 Holbrook Street
+- 3. Approval of the Agenda
+- 4. Approval of Minutes
+- a. Approval of Open Space and Trails Advisory Board September 14, 2026 Meeting Minutes
+- 5. Public Comment
+- a. Trail Connection Discussion and Group Trail Ride Dates
+- b. Annual Work Plan Discussion
+- d. 2027 OSTAB Application Questions
+- Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
+
+## [erie#45] 2026-11-09 | Open Space and Trails Advisory Board | agenda
+- 645 Holbrook Street
+- 3. Approval of the Agenda
+- 4. Approval of Minutes
+- a. Approval of Open Space and Trails Advisory Board September 14, 2026 Meeting Minutes
+- 5. Public Comment
+- a. Trail Connection Discussion and Group Trail Ride Dates
+- b. Annual Work Plan Discussion
+- d. 2027 OSTAB Application Questions
+- Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
+- a. Amended to add new item 6a under General Business: LOA request from Dave Tazik
+- Approved without comment
+- a. Leave of Absence request from Dave Tazik, OSTAB Secretary
+- i. The board approved a 2-3 month LOA for Dave Tazik
+- ii. The board approved Tim Payne as acting Secretary for the duration of Dave’ s
+- i. Amendment to the comp plan approved last week, creating a med-low density
+- Arapahoe as well as a downtown property on Anderson Street
+- ii. Budget season is upon us - study sessions are ongoing; public hearing first
+- ii. The only discussion was the possible addition of attendance requirements in
+- d. Rezoning Application: ZON2026-0000; 1025 Weld County Road 1 1/2 Review
+- i. No comments, OSTAB supports the rezoning as presented
+- links – Luke Bolinger shared that he will provide the latest master plan maps
+- to enable a thorough discussion at that time
+- Trail Connection Discussion and Group Trail Ride Dates
+- Department: Parks & Recreation,
+- Vice Chair Felz has requested an opportunity to discuss the Town’s efforts to address
+- group trail ride. The Connecting YOU to Fun Playbook identifies trail connectivity as a
+- systemwide priority, with the goal of linking Erie’s neighborhoods, parks, schools,
+- commercial areas, and regional trails. Section 3.2.5 identifies specific barriers, including
+- Weld County Road 10, gaps near school sites, and planned connections across land
+- trail gaps, coordinate connections through new development, and ensure new trails
+- way, conservation easements, and roadway projects as opportunities to complete future
+- Annual Work Plan Discussion
+- Presenter(s): Luke Bolinger, Director of Parks & Recreation
+- This item is to discuss the draft annual work plan for the Open Space & Trails Advisory
+- Board (OSTAB) and solicit feedback from Board members on its structure, priorities,
+- and implementation. Establishing an annual work plan creates a predictable framework
+- for Board activities, aligns discussions with key Town processes, and provides an
+- opportunity to identify topics that warrant regular consideration throughout the year
+- Staff has developed a preliminary annual work plan that identifies recurring topics and
+- anticipated discussion items for each month. The proposed schedule incorporates

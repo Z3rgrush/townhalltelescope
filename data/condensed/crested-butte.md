@@ -1,42 +1,6 @@
 # crested-butte
 
-## [crested-butte#0] 2025-11-03 | City Council | minutes
-- Public comments may be submitted at any time to the entire Council via email at
-- 1) Plastic Pollution Reduction Act (PPRA) Survey Results and Ordinance Discussion
-- 7:02 APPROVAL OF AGENDA
-- 2) Resolution No. 35, Series 2025 - A Resolution of the Crested Butte Town Council
-- Amending the Fund Balance Reserve Policy, Effective November 3, 2025
-- 3) Resolution No. 36, Series 2025 - A Resolution of the Town Council of the Town of
-- Crested Butte, Colorado Approving the Amended and Restated Gunnison Valley
-- Transportation Authority Intergovernmental Agreement
-- members may request that an item be removed from Consent Agenda prior to the
-- Council’s vote. Items removed from the Consent Agenda will be considered under
-- 7:05 PUBLIC COMMENT
-- The public has the opportunity to comment during the public comment period at the
-- a similar topic. The public comment period is a time for the Council to listen to the
-- nor should the Council feel compelled to respond to the comments. If Council chooses
-- to discuss, discussion will be at the end of the Council meeting under “Other Business
-- 7:20 PUBLIC HEARING
-- 1) Resolution No. 32, Series 2025 - A Resolution of the Crested Butte Town Council
-- Adopting the Budget and Appropriating Sums of Money for the Town of Crested
-- 1) Appointment of Two Town Council Members to Design Standards Update
-- 7:50 2) Resolution No. 33, Series 2025 - A Resolution of the Crested Butte Town Council Adopting
-- the Mill Levy for the Town of Crested Butte, Colorado for the Fiscal Year 2026, Beginning the
-- 8:00 3) Resolution No. 34, Series 2025 - A Resolution of the Crested Butte Town Council Adopting
-- Certain Fees and Charges for the Fiscal Year 2026
-- positions relative to matters that may be subject to negotiations; developing strategy for
-- advice on specific legal questions both regarding Mt. Crested Butte Water and Sanitation District
-- 1) Mt. Crested Butte Water and Sanitation’s Failure to Pay for Biosolids
-- 9:05 DISCUSSION OF SCHEDULING FUTURE WORK SESSION TOPICS AND COUNCIL
-- 1) For discussion of a personnel matter under C.R.S. Section 24 -6-402(4)(f) and not involving:
-- any specific employees who have requested discussion of the matter in open session; any member
-- of this body or any elected official; the appointment of any person to fill an office of this body or
-- of an elected official; or personnel policies that do not require the discussion of matters personal
-- ubject: Discussion on single use plastic reduction in Crested Butte
-- mary: Staff seeks feedback on how to move forward with a single-use plastics reduction
-- sustainability grants
-
-## [crested-butte#1] 2025-11-17 | City Council | minutes
+## [crested-butte#0] 2025-11-17 | City Council | minutes
 - Public comments may be submitted at any time to the entire Council via email at
 - 1) Parks, Recreation, Open Space, and Trails (PROST) Plan Update
 - Staff Contact: Parks, Recreation, Open Space and Trails Director Janna Hansen
@@ -75,7 +39,7 @@
 - The Town held two public outreach events for the PROST plan to date, at Alpenglow in June and a
 - 3. Identify success measures (CURRENT STEP)
 
-## [crested-butte#2] 2025-11-17 | City Council | minutes
+## [crested-butte#1] 2025-11-17 | City Council | minutes
 - Public comments may be submitted at any time to the entire Council via email at
 - 1) Parks, Recreation, Open Space, and Trails (PROST) Plan Update
 - Staff Contact: Parks, Recreation, Open Space and Trails Director Janna Hansen
@@ -114,7 +78,7 @@
 - The Town held two public outreach events for the PROST plan to date, at Alpenglow in June and a
 - 3. Identify success measures (CURRENT STEP)
 
-## [crested-butte#3] 2025-12-15 | City Council | minutes
+## [crested-butte#2] 2025-12-15 | City Council | minutes
 - 1) Community Spaces Strategy Check In
 - Staff Contact: Community Development Director Mel Yemma
 - 7:02 APPROVAL OF AGENDA
@@ -152,7 +116,7 @@
 - Communities” grant. EPS is analyzing the financial and market implications of proposed
 - zoning incentives to help structure tools that attract private investment while delivering
 
-## [crested-butte#4] 2026-01-05 | City Council | minutes
+## [crested-butte#3] 2026-01-05 | City Council | minutes
 - Public comments may be submitted at any time to the entire Council via email at
 - Staff Contact: Public Works Director Shea Earley and Community Development
 - 6:40 2) Wildfire Ready Action Plan (WRAP) Draft Update
@@ -189,7 +153,7 @@
 - identified the Red Lady Avenue intersection as a critical concern due to congestion, delays, and
 - streets. The intersection currently operates at LOS E during peak hours, below CDOT standards,
 
-## [crested-butte#5] 2026-01-20 | City Council | minutes
+## [crested-butte#4] 2026-01-20 | City Council | minutes
 - 1) 5 -Year Housing Strategy Check In - Portfolio Overview
 - Staff Contact: Housing Director Erin Ganser
 - 7:02 APPROVAL OF AGENDA
@@ -228,7 +192,7 @@
 - comprehensive zoning code update, which includes a holistic review to ensure the code
 - incorporates the CP’s recommendations, incorporates state model standards, and aligns
 
-## [crested-butte#6] 2026-02-02 | City Council | minutes
+## [crested-butte#5] 2026-02-02 | City Council | minutes
 - Public comments may be submitted at any time to the entire Council via email at
 - 5:00 JOINT WORK SESSION WITH THE BOARD OF ZONING AND
 - 1) Zoning Code Update – Residential Districts
@@ -268,7 +232,7 @@
 - Is the Council comfortable with the proposed changes to the baseline, by-right zoning?
 - Does the Council support the recommended incentives and/or support further steps that could
 
-## [crested-butte#7] 2026-02-17 | City Council | minutes
+## [crested-butte#6] 2026-02-17 | City Council | minutes
 - Public comments may be submitted at any time to the entire Council via email at
 - 1) Parks, Recreation, Open Space and Trails (PROST) Draft Plan
 - Staff Contact: Parks, Recreation, Open Space and Trails Director Janna Hansen
@@ -311,7 +275,7 @@
 - Park Concept Designs
 - Open Space Definition, Values, and Strategies
 
-## [crested-butte#8] 2026-03-02 | City Council | minutes
+## [crested-butte#7] 2026-03-02 | City Council | minutes
 - Public comments may be submitted at any time to the entire Council via email at
 - 5:00 JOINT WORK SESSION WITH THE BOARD OF ZONING AND
 - Staff Contact: Community Development Director
@@ -348,7 +312,7 @@
 - changes, proposed incentives, and ROAH requirements for residential districts
 - ground: The Town of Crested Butte is updating its zoning code to align with the Community
 
-## [crested-butte#9] 2026-03-16 | City Council | minutes
+## [crested-butte#8] 2026-03-16 | City Council | minutes
 - Public comments may be submitted at any time to the entire Council via email at
 - 8:02 APPROVAL OF AGENDA
 - 2) Approval from the Town Council for a Revised Grant Application to History
@@ -385,7 +349,7 @@
 - property tax rebates), balancing staff capacity and consultant use, and improving how planning
 - whether to pursue a sales tax equalization measure for the 2026 ballot and establishing a clear
 
-## [crested-butte#10] 2026-04-06 | City Council | minutes
+## [crested-butte#9] 2026-04-06 | City Council | minutes
 - Public comments may be submitted at any time to the entire Council via email at
 - 5:00 JOINT WORK SESSION WITH THE BOARD OF ZONING AND
 - 1) Zoning Code Update: Development Reviews Processes, Planned Unit
@@ -426,7 +390,7 @@
 - Development Review Process: Are BOZAR and Council comfortable with the proposed
 - refinements to development review authorities from a zoning perspective? (Design review
 
-## [crested-butte#11] 2026-05-04 | City Council | minutes
+## [crested-butte#10] 2026-05-04 | City Council | minutes
 - Public comments may be submitted at any time to the entire Council via email at
 - 8:02 APPROVAL OF AGENDA
 - 2) Spring 2026 Community Grant Recommendations
@@ -461,7 +425,7 @@
 - Reallocated Specific Ownership Tax revenues from the General fund to Street & Alley fund
 - These incremental moves helped, but projections show they are not sufficient to meet broader
 
-## [crested-butte#12] 2026-05-18 | City Council | minutes
+## [crested-butte#11] 2026-05-18 | City Council | minutes
 - Public comments may be submitted at any time to the entire Council via email at
 - 1) Zoning Code Update Check In
 - Staff Contact: Community Development Director Mel Yemma
@@ -500,6 +464,45 @@
 - Height incentive in the Residential Small Lot (formerly Mobile Home) District tied to a
 - discussion of a proposed effective date of September 1, 2026
 - Previous Council Action: Council and BOZAR most recently reviewed the zoning update during
+
+## [crested-butte#12] 2026-06-01 | City Council | minutes
+- Public comments may be submitted at any time to the entire Council via email at
+- 1) Long-Range Financial Planning Work Session #3 - Revenue Generation Strategy &
+- 8:02 APPROVAL OF AGENDA
+- 2) Crested Butte Bazaar Special Event Application Closing a Portion of the Four Way
+- Parking Lot on Saturday, June 6, 2026
+- 3) Resolution No. 10, Series 2026 - A Resolution of the Town of Crested Butte Town
+- Council Authorizing the Purchase of 818 Gothic Avenue, Crested Butte, Colorado
+- Staff Contact: Housing Director Erin Ganser
+- 4) (First Reading) Ordinance No. 08, Series 2026 - An Ordinance of the Crested Butte
+- Town Council Authorizing the Sale of 16 Ninth Street, #3A, Crested Butte
+- 5) Contract Award for 2026 Mill and Overlay Project
+- 6) Resolution No. 12, Series 2026 - A Resolution of the Crested Butte Town Council
+- Amending the Paradise Park Workforce Rental Tenant Selection Plan
+- Staff Contact: Housing Director Erin Ganser and Property Manager RaeMarie Barry
+- members may request that an item be removed from Consent Agenda prior to the
+- Council’s vote. Items removed from the Consent Agenda will be considered under
+- 8:05 PUBLIC COMMENT
+- The public has the opportunity to comment during the public comment period at the
+- a similar topic. The public comment period is a time for the Council to listen to the
+- nor should the Council feel compelled to respond to the comments. If Council chooses
+- to discuss, discussion will be at the end of the Council meeting under “Other Business
+- 8:20 PRESENTATION
+- 2025 BOZAR Project of the Year Awards
+- 8:30 PUBLIC HEARING
+- 1) Discussion on the Station One Challenge
+- Staff Contact: Community Development Director Mel Yemma
+- 9:05 2) Red Lady Roundabout Cost Sharing Request from GWSD
+- 9:25 3) Consideration of Appointments for the Housing Stewardship Advisory Committee
+- 9:50 DISCUSSION OF SCHEDULING FUTURE WORK SESSION TOPICS AND COUNCIL
+- Monday, June 29, 2026 - 6:00PM – Intergovernmental Meeting at the Fire Station
+- Strategy & Longevity Rebate Framework
+- directly on the Budget History Analysis distributed to Council last week, which provides the full
+- be deployed once voters approve it. We present modeled revenue options at the $1.0M and $1.5M
+- want to know not just what they are being taxed, but what it will build and protect. This report
+- One framing note for Council: the Budget History Analysis’s Sections 10.4 and 10.5 present the
+- analytical and values-based case for a longevity-based property tax rebate in some depth. Council
+- scope of the rebate, and whether it applies to the excise tax exemption, the General Fund property
 
 ## [crested-butte#13] 2026-06-01 | City Council | minutes
 - Public comments may be submitted at any time to the entire Council via email at
@@ -540,46 +543,7 @@
 - analytical and values-based case for a longevity-based property tax rebate in some depth. Council
 - scope of the rebate, and whether it applies to the excise tax exemption, the General Fund property
 
-## [crested-butte#14] 2026-06-01 | City Council | minutes
-- Public comments may be submitted at any time to the entire Council via email at
-- 1) Long-Range Financial Planning Work Session #3 - Revenue Generation Strategy &
-- 8:02 APPROVAL OF AGENDA
-- 2) Crested Butte Bazaar Special Event Application Closing a Portion of the Four Way
-- Parking Lot on Saturday, June 6, 2026
-- 3) Resolution No. 10, Series 2026 - A Resolution of the Town of Crested Butte Town
-- Council Authorizing the Purchase of 818 Gothic Avenue, Crested Butte, Colorado
-- Staff Contact: Housing Director Erin Ganser
-- 4) (First Reading) Ordinance No. 08, Series 2026 - An Ordinance of the Crested Butte
-- Town Council Authorizing the Sale of 16 Ninth Street, #3A, Crested Butte
-- 5) Contract Award for 2026 Mill and Overlay Project
-- 6) Resolution No. 12, Series 2026 - A Resolution of the Crested Butte Town Council
-- Amending the Paradise Park Workforce Rental Tenant Selection Plan
-- Staff Contact: Housing Director Erin Ganser and Property Manager RaeMarie Barry
-- members may request that an item be removed from Consent Agenda prior to the
-- Council’s vote. Items removed from the Consent Agenda will be considered under
-- 8:05 PUBLIC COMMENT
-- The public has the opportunity to comment during the public comment period at the
-- a similar topic. The public comment period is a time for the Council to listen to the
-- nor should the Council feel compelled to respond to the comments. If Council chooses
-- to discuss, discussion will be at the end of the Council meeting under “Other Business
-- 8:20 PRESENTATION
-- 2025 BOZAR Project of the Year Awards
-- 8:30 PUBLIC HEARING
-- 1) Discussion on the Station One Challenge
-- Staff Contact: Community Development Director Mel Yemma
-- 9:05 2) Red Lady Roundabout Cost Sharing Request from GWSD
-- 9:25 3) Consideration of Appointments for the Housing Stewardship Advisory Committee
-- 9:50 DISCUSSION OF SCHEDULING FUTURE WORK SESSION TOPICS AND COUNCIL
-- Monday, June 29, 2026 - 6:00PM – Intergovernmental Meeting at the Fire Station
-- Strategy & Longevity Rebate Framework
-- directly on the Budget History Analysis distributed to Council last week, which provides the full
-- be deployed once voters approve it. We present modeled revenue options at the $1.0M and $1.5M
-- want to know not just what they are being taxed, but what it will build and protect. This report
-- One framing note for Council: the Budget History Analysis’s Sections 10.4 and 10.5 present the
-- analytical and values-based case for a longevity-based property tax rebate in some depth. Council
-- scope of the rebate, and whether it applies to the excise tax exemption, the General Fund property
-
-## [crested-butte#15] 2026-06-15 | City Council | minutes
+## [crested-butte#14] 2026-06-15 | City Council | minutes
 - Amended June 12, 2026
 - Public comments may be submitted at any time to the entire Council via email at
 - 1) Final Draft Zoning & Subdivision Code (Chapter 16) Review and Discussion
@@ -618,7 +582,7 @@
 - Summary: This work session brings together the direction from prior zoning code work sessions
 - into a full draft Chapter 16 Land Development Code of the Municipal Code that combines Zoning
 
-## [crested-butte#16] 2026-06-15 | City Council | minutes
+## [crested-butte#15] 2026-06-15 | City Council | minutes
 - Public comments may be submitted at any time to the entire Council via email at
 - 1) Final Draft Zoning & Subdivision Code (Chapter 16) Review and Discussion
 - Staff Contact: Community Development Director Mel Yemma
@@ -656,7 +620,7 @@
 - into a full draft Chapter 16 Land Development Code of the Municipal Code that combines Zoning
 - now in Phase 1 (zoning) vs. Phase 2 later this year (incorporating updated Design
 
-## [crested-butte#17] 2026-07-06 | City Council | minutes
+## [crested-butte#16] 2026-07-06 | City Council | minutes
 - Public comments may be submitted at any time to the entire Council via email at
 - 6:02 APPROVAL OF AGENDA
 - 3) Resolution No. 14, Series 2026 - A Resolution of the Crested Butte Town Council
@@ -695,7 +659,7 @@
 - 4) Resolution No. 11, Series 2026 - A Resolution of the Crested Butte Town Council
 - Authorizing the Adoption of the Gunnison County Hazard Mitigation Plan
 
-## [crested-butte#18] 2026-07-06 | City Council | minutes
+## [crested-butte#17] 2026-07-06 | City Council | minutes
 - Public comments may be submitted at any time to the entire Council via email at
 - 6:02 APPROVAL OF AGENDA
 - 3) Resolution No. 14, Series 2026 - A Resolution of the Crested Butte Town Council
@@ -734,7 +698,7 @@
 - 4) Resolution No. 11, Series 2026 - A Resolution of the Crested Butte Town Council
 - Authorizing the Adoption of the Gunnison County Hazard Mitigation Plan
 
-## [crested-butte#19] 2026-07-20 | City Council | minutes
+## [crested-butte#18] 2026-07-20 | City Council | minutes
 - 6:02 APPROVAL OF AGENDA
 - 2) Crested Butte Arts Festival Special Event Application Closing Elk Avenue from 2nd
 - treet to 5th Street, Extending to the Next Half Block Towards 6th Street, 5th Street
@@ -774,7 +738,7 @@
 - 3) Resolution No. 14, Series 2026 - A Resolution of the Crested Butte Town Council
 - Authorizing the Town Manager to Sign An Intergovernmental Agreement with the
 
-## [crested-butte#20] 2026-08-04 | City Council | minutes
+## [crested-butte#19] 2026-08-04 | City Council | minutes
 - Public comments may be submitted at any time to the entire Council via email at
 - Corridor Plan Listening Session with Gunnison County
 - 7:02 APPROVAL OF AGENDA
@@ -813,7 +777,7 @@
 - values and priorities for the Corridor Plan
 - July 20, 2026: Town Council initiated discussion on key values and hopeful outcomes for
 
-## [crested-butte#21] 2026-08-17 | City Council | minutes
+## [crested-butte#20] 2026-08-17 | City Council | minutes
 - Public comments may be submitted at any time to the entire Council via email at
 - 6:00 JOINT WORK SESSION WITH THE BOARD OF ZONING AND
 - 7:02 APPROVAL OF AGENDA

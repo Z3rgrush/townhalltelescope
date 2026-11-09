@@ -1,189 +1,188 @@
-- title: Fire Department incident, City Manager separation and interim appointment
-  summary: After an incident at the Fire Department, residents spoke at several meetings and Council began an outside investigation. Council created a temporary subcommittee (Resolution 3344), appointed Carly Lorenz as Interim City Manager on Aug 11, and approved a City Manager Separation Agreement and an Acting City Manager Agreement on Aug 25. On Sept 15 Council approved a contract (Resolution 3357) after striking some clauses, and the REDI Task Force discussed racial profiling concerns and how to move forward.
+- title: City Manager separation and interim appointment
+  summary: After an executive session on Charter, Code and the City Manager's contract, Council moved to negotiate a separation agreement and appointed Carly Lorenz as Interim City Manager on Aug. 11. Resolutions on an Acting City Manager agreement and a City Manager Separation Agreement were on the Aug. 25 agenda, and an outside investigation was mentioned. Residents submitted public comment.
   where: Citywide
   refs:
   - 0
-  - 4
-  - 17
-  - 20
-  - 29
-  - 34
+  - 13
+  - 25
   topics:
   - Government operations
   - Ethics & transparency
-  - Policing & public safety
   public_comment: true
-- title: The Junction urban renewal plan and TIF request (Highway 93)
-  summary: GURA is reviewing a new urban renewal area for The Junction, a 51.28-acre light industrial business park on the west side of Highway 93. A conditions survey found five blight factors. The developer (Evergreen) is asking for 100% of tax increment financing to cover about $59 million in public improvements, including a Highway 93 roundabout and a pedestrian bridge to the North Table Mountain trailhead. The board considered Resolution 172 recommending the plan, and the Planning Commission was to review the boundary.
-  where: West side of State Highway 93, near North Table Mountain Park
+- title: Fire Department incident and community response
+  summary: Council, the REDI Task Force and the public have been dealing with an incident at the Golden Fire Department. Community members raised concerns about racial profiling, and Council noted an outside investigation and an active legal case. The REDI group discussed how to move forward and hold space for staff and residents.
+  where: Golden Fire Department / Citywide
   refs:
-  - 3
-  - 7
-  - 15
-  - 28
+  - 0
+  - 16
   - 30
-  - 43
+  - 38
+  topics:
+  - Fire & emergencies
+  - Lawsuits & legal
+  - Government operations
+  public_comment: true
+- title: The Junction urban renewal area and tax increment financing
+  summary: GURA is weighing a new urban renewal plan for The Junction, a 51-acre light industrial business park west of Highway 93. The developer seeks 100% tax increment financing to cover about $59 million in public improvements, including a Highway 93 roundabout and a pedestrian bridge to North Table Mountain Park. Staff is negotiating revenue sharing with the county (an 88% proposal) and other taxing entities, and the subcommittee recommended explicitly excluding data centers from the plan.
+  where: West side of State Highway 93 near North Table Mountain Park
+  refs:
+  - 11
+  - 24
+  - 26
+  - 39
+  - 52
   topics:
   - Economic development
-  - Budget & taxes
   - Zoning & development
-- title: Nazarene urban renewal area at 17455 West 16th Avenue
-  summary: City Council adopted the Nazarene Plan Area on July 14. The developer has secured key grant financing and staff are ready to negotiate tax increment financing. GURA reviewed a project update and a draft TIF agreement.
+  - Budget & taxes
+  tags:
+  - data-center
+- title: Nazarene affordable housing project and TIF agreement at 17455 West 16th Avenue
+  summary: The Nazarene Plan Area was adopted by Council on July 14, and the developer secured key grant financing. GURA is reviewing a draft TIF agreement, with a focus on making the affordable housing commitments survive any sale and raising the income cap from 30% to 35% of area median income.
   where: 17455 West 16th Avenue
   refs:
-  - 7
-  - 27
-  - 28
-  - 43
+  - 3
+  - 23
+  - 24
+  - 39
+  - 52
   topics:
-  - Economic development
   - Housing
-  - Budget & taxes
-- title: 'Clayworks development: natural gas amendment, mobility and parking'
-  summary: Clayworks developers asked to amend their Official Development Plan to allow limited natural gas for pool and spa heating, fireplaces and communal grills. The Sustainability Board heard residents urge the project to keep its original all-electric commitments. The amendment must go through Planning Commission and City Council. The Mobility Board has also followed its transportation demand plan, traffic memo and parking.
-  where: Clayworks development, Golden
+  - Economic development
+- title: 'Clayworks development: gas amendment, parking and mobility'
+  summary: Clayworks developers asked to amend their Official Development Plan to allow limited natural gas for pool and spa heating, fireplaces and grills. Sustainability advisers and a Sustainable Golden member urged keeping the original all-electric commitments. The Mobility board has repeatedly discussed Clayworks parking, its travel demand plan and a traffic memo. The amendment must still go to Planning Commission and Council.
+  where: Clayworks site, Golden
   refs:
-  - 19
-  - 21
-  - 36
-  - 37
-  - 47
+  - 15
+  - 17
+  - 32
+  - 33
+  - 43
   topics:
   - Zoning & development
   - Environment & climate
   - Roads & traffic
   public_comment: true
-- title: 2027-2028 city budget and revenue outlook
-  summary: The Citizens Budget Advisory Committee, Council and advisory boards are reviewing the proposed 2027-2028 biennial budget under a more conservative revenue outlook. CBAC recommended more marijuana tax money for rent assistance and food insecurity. Council heard a financial report and revenue trends presentation, and the Sustainability Board sought a larger rebate budget.
-  where: Citywide
-  refs:
-  - 10
-  - 19
-  - 31
-  - 34
-  - 36
-  - 41
-  - 45
-  topics:
-  - Budget & taxes
-  - Health & human services
-  - Homelessness
 - title: Flock license plate camera contract
-  summary: Council's Oct 13 study session had the Police Chief explain how Golden Police use Flock technology. Councilors Knecht and Kurzinski proposed reconsidering the Flock contract, which would go to a vote if three or more Councilors supported it.
+  summary: Council held a study session on Flock technology and how Golden Police use it. Councilors Knecht and Kurzinski proposed reconsidering the Flock contract, and it would go to a vote if three or more councilors support it.
   where: Citywide
   refs:
-  - 41
+  - 37
   topics:
   - Policing & public safety
   - Ethics & transparency
-- title: 2122 Jackson Street cottage development and alley spur
-  summary: Council called up approval of site plans at 2122 Jackson Street for Planning Commission review, focusing on the narrow alley spur. Neighbors raised concerns about the narrow alley, trash, parking and lighting. Staff said the site is overparked, with one space per cottage required.
+- title: 2027-2028 biennial budget and revenue outlook
+  summary: The city is drafting its first two-year budget for 2027-28 under revenue constraints. Council reviewed the proposed 2027 budget in October, and a budget appropriation ordinance was set for hearing Nov. 10. The citizens' budget committee also reviewed the proposed budget and discussed shifting marijuana tax money toward rent assistance and food insecurity. Sales tax is up 2.87% year to date but use tax is down.
+  where: Citywide
+  refs:
+  - 6
+  - 23
+  - 27
+  - 30
+  - 37
+  - 41
+  - 45
+  - 48
+  topics:
+  - Budget & taxes
+  - Fees & rates
+- title: Alley spur and historic home at 2122 Jackson Street
+  summary: Council called up Planning Commission review of three Form Zone site plans at 2122 Jackson Street, mainly to examine how an alley spur is defined. Neighbors, including Natalie Palmer, said the alley is narrow and raised concerns about trash, parking, lights and green space, and the plan would keep a historic home as a feature.
   where: 2122 Jackson Street
   refs:
-  - 11
+  - 7
   topics:
   - Zoning & development
   - Housing
+  - Historic preservation
   public_comment: true
-- title: 'Historic preservation cases: 2024 Ford St, 612 10th St, 403 18th St'
-  summary: The Historic Preservation Board approved a new rear cottage and garage at 2024 Ford Street in the East Street Historic District. It also reviewed demolition requests, including 612 10th Street (the Schall Residence), where a developer weighed relocation or integrating the structure. On 403 18th Street the board must place a demolition stay of up to 190 days.
-  where: 2024 Ford St; 612 10th St; 403 18th St; 1735
+- title: 'Historic preservation cases: demolitions and new construction in East Street district'
+  summary: The Historic Preservation Board approved a rear cottage at 2024 Ford Street, and considered demolition requests for 612 10th Street (Schall Residence) and 1735 and 622 Water Street (Barnes-Peery Residence). It also considered additions at 403 18th Street and a revised facade at 2211B Ford Street, with Resolution HPB 26-06 for 403 18th Street approved with conditions.
+  where: 2024 Ford St, 612 10th St, 403 18th St, 2211B Ford St, 622 Water St
   refs:
-  - 5
-  - 25
+  - 1
+  - 21
+  - 51
   topics:
   - Historic preservation
   - Zoning & development
-- title: Lions Park playground, GOCO grant and public art
-  summary: Council supported a Great Outdoors Colorado grant application for the Lions Park nature play and outdoor area (Resolution 3340), and the Parks Board reviewed the playground redesign. The Arts and Culture Commission's jury narrowed 29 art entries to three finalists for more detailed renderings.
-  where: Lions Park
+- title: Special events impacts and grants
+  summary: A resident asked the events committee to review the cumulative parking and traffic impact of events on the west end of 10th Street. The committee also handled a new Golden Skull Marathon application, shuttle and parking plans, and the special events grant program, with about $33,657 of the $40,000 budget approved for 2026.
+  where: West 10th Street and event venues
+  refs:
+  - 14
+  - 29
+  - 31
+  - 46
+  topics:
+  - Tourism & events
+  - Roads & traffic
+  - Fees & rates
+  public_comment: true
+- title: Visit Golden marketing contract and vendor fee funding
+  summary: The Community Marketing Board reviewed its 2027 strategic plan, a 17 million visitor figure it may revise or remove, and the 2027-28 budget. Council considered a contract with DVA Advertising. The board also discussed the sales tax vendor fee credit that funds the program.
+  where: Citywide
   refs:
   - 12
-  - 14
-  - 17
-  - 26
+  - 13
+  - 19
+  - 29
+  - 40
+  - 44
+  topics:
+  - Tourism & events
+  - Budget & taxes
+  - Government operations
+- title: Lions Park playground redesign, GOCO grant and public art
+  summary: Council backed a Great Outdoors Colorado grant for the Lions Park Nature Play and outdoor project. The Arts and Culture Commission selected 'Pollinators at Play' by Alexander Bond for the playground after reviewing 29 entries.
+  where: Lions Park
+  refs:
+  - 8
+  - 10
+  - 13
+  - 22
+  - 34
   - 38
-  - 42
+  - 50
   topics:
   - Parks & open space
   - Libraries & culture
   - Recreation & trails
-- title: Special events impacts, grants and Visit Golden marketing contract
-  summary: A west 10th Street resident asked for a review of how events strain parking and street access. The Special Events Review Committee handles event grants, with a $40,000 program and revisions under discussion. Council considered a marketing contract with DVA Advertising (Resolution 3345), while the Community Marketing Board reviewed its 2027 strategic plan and 2027-2028 budget and a holiday sponsorship with KOSI.
-  where: West end of 10th Street and Citywide
-  refs:
-  - 16
-  - 17
-  - 18
-  - 23
-  - 33
-  - 35
-  - 44
-  - 50
-  topics:
-  - Tourism & events
-  - Budget & taxes
-  - Roads & traffic
-  public_comment: true
-- title: Water conservation, drought response and wildfire planning
-  summary: Staff gave a year-end report on 2026 drought response and water conservation, with a new weather-normalization model. Council's Oct 27 study session included a drought after-action review and a wildfire management update. Council also considered ordinances on water and wastewater regulations and wastewater pretreatment (Ordinances 2297 and 2298).
+- title: Drought response and water conservation
+  summary: Staff reported on 2026 water conservation and drought response, including a new weather-normalization model, increased June use and turf damage in parks. Council scheduled an after-action review of the drought response, and an ordinance amending water and wastewater regulations and administrative citations was set for a Nov. 10 hearing.
   where: Citywide
   refs:
-  - 41
-  - 49
-  - 51
+  - 45
+  - 47
   topics:
   - Water
   - Environment & climate
-  - Fire & emergencies
 - title: Commercial energy benchmarking and universal recycling ordinance
-  summary: The Sustainability Board discussed a proposed Commercial Energy Benchmarking Program and heard comments urging clear goals and a voluntary pilot with incentives. Staff are also developing a universal recycling ordinance, possibly starting with hauler licensing, and the board discussed EV charging overnight fees.
+  summary: The sustainability board discussed a proposed commercial energy benchmarking program, with public comment urging clear goals and a voluntary pilot. Staff is developing a universal recycling ordinance, possibly starting with hauler licensing, and the board backed raising the 2027 rebate request to $200,000.
   where: Citywide
   refs:
-  - 19
-  - 36
-  - 51
+  - 15
+  - 32
+  - 47
   topics:
   - Environment & climate
   - Utilities
-  - Energy
+  - Fees & rates
   public_comment: true
-- title: Downtown DDA projects and 807 13th Street grant
-  summary: The DDA confirmed new priorities including 11th Street sidewalk and streetscape, legacy shade trees and 14 street trees on Arapahoe Street. It also considered a $7,500 holiday sponsorship, a holiday light contract extension, an emergency repair grant for 807 13th Street and Ford Street undergrounding. Police were to join a September meeting about downtown issues.
-  where: Downtown Golden
-  refs:
-  - 9
-  - 32
-  - 44
-  topics:
-  - Downtown & business
-  - Economic development
-- title: Affordable housing and Prosper project
-  summary: Demolition and site work are underway for the Prosper affordable housing project at 817 14th Street. Council approved agreements tied to Proposition 123 and regional housing, including assigning private activity bond allocation to Foothills Regional Housing.
-  where: 817 14th Street and Citywide
-  refs:
-  - 9
-  - 24
-  - 34
-  topics:
-  - Housing
-  - Homelessness
-- title: Makerspace study and economic indicator dashboard
-  summary: The city contracted Artspace Consultants for a preliminary makerspace study. The Economic Development Commission also recommended the mySidewalk platform for an economic dashboard, and a 2027-2028 budget includes $20,000 a year for makerspace support and $15,000 for dashboard tools.
-  where: Citywide
-  refs:
-  - 7
-  - 27
-  - 40
-  topics:
-  - Economic development
-  - Budget & taxes
-- title: Municipal Building and Heart of Golden public art
-  summary: The Arts subcommittee planned artwork funded by the 1% for art, including a mural on the parking garage at 10th and Vasquez ($38,000 earmarked) and sculpture sites near Tucker Gulch and the Farmers Highline Canal. A call for artists is expected in fall 2026.
-  where: Municipal Building, 10th and Vasquez; Heart of Golden
+- title: Heritage Road and Kimball Avenue roundabout landscaping
+  summary: Neighbors asked Parks and Recreation to add the roundabout statue landscaping to its watering rotation after the volunteer who watered it died. The city has no maintenance agreement for the landscaping, and options included a watering truck or extending the sprinkler line.
+  where: Heritage Road and Kimball Avenue roundabout
   refs:
   - 8
-  - 22
   topics:
-  - Libraries & culture
   - Parks & open space
+  - Water
+  public_comment: true
+- title: 2027 recreation service fees
+  summary: Parks staff proposed 2027 fee changes for athletic fields, the Community Center, Splash, Fossil Trace Golf Club, the RV park and pavilions. In early 2027 users paying by card would be charged a processing fee of up to 3%, and the full city fee schedule goes to Council in early December.
+  where: Citywide recreation facilities
+  refs:
+  - 49
+  topics:
+  - Fees & rates
+  - Recreation & trails

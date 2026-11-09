@@ -1,11 +1,10 @@
-- title: Outdoor Entertainment Overlay District and Ordinance 789
-  summary: The town set a public hearing for an Outdoor Entertainment Overlay District that defines district boundaries and amends the Use Chart (Table 16-4A). The hearing was scheduled for Sept. 9, then Ordinance 789 appeared again on the Oct. 14 agenda with another hearing.
-  where: Townwide
+- title: Outdoor Entertainment Overlay District (Ordinance 789)
+  summary: The Town set a public hearing and considered Ordinance No. 789, which would create an Outdoor Entertainment Overlay District, define its boundaries and amend the Use Chart (Table 16-4A) of the municipal code. Hearings were noticed for Sept. 9 and Oct. 14, 2026, and the ordinance came back on the Oct. 14 agenda.
+  where: Del Norte (overlay district boundaries)
   refs:
   - 0
   - 1
   - 2
-  - 3
   - 5
   - 6
   topics:
@@ -13,16 +12,7 @@
   - Downtown & business
   - Tourism & events
 - title: Moratorium on Flock Safety cameras
-  summary: Council discussed a temporary moratorium on Flock Safety license-plate cameras on Sept. 9. Resolution 13-2026 for a moratorium on Flock cameras was on the Oct. 14 agenda.
-  where: Townwide
-  refs:
-  - 2
-  - 5
-  topics:
-  - Policing & public safety
-  - Ethics & transparency
-- title: Police Department policy manual
-  summary: Council discussed adopting Police Department policies and procedures in September. Resolution 12-2026 to adopt the Police Department Manual as a stand-alone policy was on the Oct. 14 agenda.
+  summary: Council discussed a temporary moratorium on Flock Safety license-plate cameras on Sept. 9, and Resolution 13-2026 for a moratorium on Flock cameras was on the Oct. 14 agenda.
   where: Townwide
   refs:
   - 2
@@ -30,25 +20,34 @@
   topics:
   - Policing & public safety
   - Government operations
-- title: 2027 town budget
-  summary: Council was to accept the proposed 2027 town budget, set a public hearing for Nov. 11, 2026, and schedule a work session.
+- title: Police Department policy manual
+  summary: Council discussed adopting Police Department policy and procedure, and Resolution 12-2026 to adopt the Police Department Manual as a stand-alone policy was on the Oct. 14 agenda.
+  where: Townwide
+  refs:
+  - 2
+  - 5
+  topics:
+  - Policing & public safety
+- title: 2027 Town budget
+  summary: The proposed 2027 budget was to be accepted on Oct. 14 and a work session set. A public hearing on the budget was scheduled for Nov. 5 (a Nov. 11 date was also floated), with a budget work session set for Nov. 18, 2026.
   where: Townwide
   refs:
   - 5
+  - 7
+  - 8
   topics:
   - Budget & taxes
 - title: Lookout Mountain annexation and GOCO grant
-  summary: Gary Blakley addressed council on annexing the Lookout Mountain property and on GOCO grant funding.
+  summary: Gary Blakley addressed council on Sept. 9 about annexing the Lookout Mountain property and about GOCO grant funding.
   where: Lookout Mountain
   refs:
   - 2
   topics:
   - Annexation
   - Parks & open space
-  - Recreation & trails
   public_comment: true
-- title: Water fund allocation for South Water Well and water plant property
-  summary: Council was to consider allocating water fund balance to approve the South Water Well expense. Aaron Woodke also raised the town's Water Treatment Plant property on County Road 14.
+- title: South Water Well expense and water treatment plant property
+  summary: Council was to consider allocating Water Fund balance for the South Water Well expense. Aaron Woodke also raised use of the town's water treatment plant property on County Road 14.
   where: County Road 14
   refs:
   - 0
@@ -57,46 +56,45 @@
   - Utilities
   - Land & property
   public_comment: true
-- title: Master Print web and print contract
-  summary: Council weighed signing a contract with Master Print with specific monthly price and deliverable expectations, or starting an RFP to find another firm.
+- title: Master Print web design contract
+  summary: Council weighed signing a contract with Master Print with defined expectations on price and deliverables, or issuing an RFP to find another firm for print and web design work.
   where: Townwide
   refs:
   - 0
   topics:
   - Government operations
-  - Budget & taxes
-- title: Nuisance violations and civil abatement process
-  summary: Council discussed how the town handles nuisance violations and civil abatement.
-  where: Townwide
-  refs:
-  - 2
-  topics:
-  - Government operations
-  - Land & property
-- title: Council rules of order and virtual meeting policy
-  summary: Council considered amending regular meeting provisions in the Town Code, the rules of order (Resolution 11-2026), and the virtual meeting procedures policy (Resolution 9-2026).
-  where: Townwide
-  refs:
-  - 0
-  - 4
-  - 5
-  topics:
-  - Government operations
-  - Ethics & transparency
-- title: Rio Grande County comprehensive plan meetings
-  summary: The town and Rio Grande County planned an open house on Oct. 27 and a town board stakeholder meeting on Nov. 4 on the county comprehensive plan.
-  where: Countywide
-  refs:
-  - 5
-  topics:
-  - Zoning & development
-  - Land & property
 - title: River Park changing stall request
-  summary: Patti Kelly of D Mountain Recreation presented to council about a changing stall at River Park.
+  summary: Patti Kelly of D Mountain Recreation presented to council on Sept. 9 about a changing stall at River Park.
   where: River Park
   refs:
   - 2
   topics:
   - Recreation & trails
   - Parks & open space
+  public_comment: true
+- title: Nuisance violations and civil abatement process
+  summary: Council discussed the town's handling of nuisance violations and the civil abatement process on Sept. 9.
+  where: Townwide
+  refs:
+  - 2
+  topics:
+  - Government operations
+  - Land & property
+- title: Rio Grande County Comprehensive Plan outreach
+  summary: The town and county planned an open house on the county comprehensive plan on Oct. 27 and a town board stakeholder meeting on Nov. 4, 2026.
+  where: Countywide
+  refs:
+  - 5
+  topics:
+  - Zoning & development
+  - Government operations
+- title: 'Funding requests: library computers and Rio Grande Museum'
+  summary: The Del Norte Library asked for funding for computers, and the Rio Grande Museum requested a donation from the town.
+  where: Del Norte
+  refs:
+  - 0
+  - 7
+  topics:
+  - Libraries & culture
+  - Budget & taxes
   public_comment: true

@@ -1,53 +1,6 @@
 # johnstown
 
-## [johnstown#0] 2026-08-10 | Town Council | agenda
-- 1. Stormwater Master Plan Rate Study Presentation
-- 2. Discussion: Northern Integrated Supply Project (NISP)
-- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
-
-## [johnstown#1] 2026-08-10 | Town Council | agenda
-- 1. Stormwater Master Plan Rate Study Presentation
-- 2. Discussion: Northern Integrated Supply Project (NISP)
-- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
-- Subject: Stormwater Master Plan Rate Study Presentation
-- Attachments: 1. Stormwater Rate Study Presentation
-- 2. Stormwater Master Plan Rate Study Report
-- The Stormwater Utility Enterprise was formally established in 2004. Since the establishment of the
-- enterprise, the rates have not been adjusted as the town continues to grow and maintenance and
-- replacement costs rise. This has limited the capability of the Town to manage the stormwater
-- system in a more proactive manner for both maintenance and capital projects, to ensure the
-- protection of public and private property during storm events
-- In 2024, facilitated by a grant award, the Town hired a consultant to evaluate and update the
-- Stormwater Master Plan. As part of that contract, the consultant also evaluated the current rates
-- and provided a proposal for rate adjustments needed to adequately finance the enterprise based on
-- The consultant put together a list of needed capital improvement projects that are highlighted in the
-- Stormwater Master Plan. The list of projects was ordered based on several key factors such as,
-- annexation status, impact, existing level of service, and resiliency. Town Staff then separated them
-- based on annexation status, impact, and development status to narrow the list down to only projects
-- that would most likely not be built by future development. These remaining projects were reordered
-- into a tiered plan, with timelines for when each would be needed
-- The rate adjustments proposed in this evenings presentation, provide the Town with the ability to
-- Reviewed and Approved for Presentation,
-- STORMWATER MASTER PLAN RATE STUDY
-- Stormwater Enterprise
-- Established with Ordinance No. 2004-718
-- Establishing and outlining the Storm Water Utility
-- Updates were made with Ordinance No. 2020-189
-- Current Rates
-- System Development Charge $1,100/acre
-- A one-time development fee paid when a private development plats their property
-- Stormwater Management Utility fee $5/Equivalent Residential Unit (ERU)
-- A monthly fee charged to individual property owners
-- Current Rates – A Perspective
-- *Based on US Census and US Department of Housing and
-- Development Price Index Rates for New Single-Family Housing of
-- Johnstown Monthly Stormwater Rate
-- Current Annual Stormwater Fund Revenue and Expenses
-- Storm Water Fund Amount
-- Contractual Services (cleaning, repairs, camera
-- Improvement Projects (CIP)
-
-## [johnstown#2] 2026-08-12 | Planning and Zoning Commission | agenda
+## [johnstown#0] 2026-08-12 | Planning and Zoning Commission | agenda
 - Planning and Zoning Commission
 - Agenda Approval
 - Approval of Minutes
@@ -62,7 +15,7 @@
 - Presentation Plan of Development Services
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#3] 2026-08-12 | Planning and Zoning Commission | agenda
+## [johnstown#1] 2026-08-12 | Planning and Zoning Commission | agenda
 - Planning and Zoning Commission
 - Agenda Approval
 - Approval of Minutes
@@ -106,7 +59,7 @@
 - Podtburg Subdivision Filing No. 1. The approved Final Plat created Tract C, where the proposed
 - Wireless Communications Facility is located, while the approved FDP serves as the governing
 
-## [johnstown#4] 2026-08-17 | Town Council | minutes
+## [johnstown#2] 2026-08-17 | Town Council | minutes
 - AGENDA APPROVAL
 - PUBLIC COMMENT
 - Karla Humphrey. 611 Charlotte Street. asked about plans for future AI centers and what happens
@@ -140,11 +93,11 @@
 - Propert ' and to discuss the matters subject to negotiations and to instruct negotiators pursuant to C. R. S
 - Approved by Town Council:
 
-## [johnstown#5] 2026-08-24 | Town Council | agenda
+## [johnstown#3] 2026-08-24 | Town Council | agenda
 - Hoffmann Parker Wilson & Carberry - 5:00 - 6:15 pm
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#6] 2026-08-24 | Town Council | agenda
+## [johnstown#4] 2026-08-24 | Town Council | agenda
 - Hoffmann Parker Wilson & Carberry - 5:00 - 6:15 pm
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 - Attachments: 1. Hoffmann Parker Wilson & Carberry
@@ -177,7 +130,7 @@
 - transactions, contracts and land use agreements. What is new to one client may be commonplace
 - Hilary would be the point of contact , and all three named attorneys would collaborate to deliver
 
-## [johnstown#7] 2026-09-09 | Town Council | agenda
+## [johnstown#5] 2026-09-09 | Town Council | agenda
 - Agenda Approval
 - Special Presentations
 - Public Comment
@@ -202,11 +155,11 @@
 - 15. An executive session to discuss matters subject to negotiations and to instruct
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#8] 2026-09-28 | Town Council | agenda
+## [johnstown#6] 2026-09-28 | Town Council | agenda
 - 1. Preliminary FY 2027 Budget Work Session
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#9] 2026-09-28 | Town Council | agenda
+## [johnstown#7] 2026-09-28 | Town Council | agenda
 - 1. Preliminary FY 2027 Budget Work Session
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 - SUBJECT: FY 2027 – Proposed Preliminary Budget
@@ -240,7 +193,7 @@
 - Water Revenue Bonds
 - In 2024, the Town issued Water Revenue Bonds to fund capital projects related to the water
 
-## [johnstown#10] 2026-10-05 | Town Council | agenda
+## [johnstown#8] 2026-10-05 | Town Council | agenda
 - Agenda Approval
 - Special Presentations
 - Public Comment
@@ -258,7 +211,7 @@
 - 10. An Executive Session to Discuss the Sale of Real Property Pursuant to C.R.S. Section
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#11] 2026-10-05 | Town Council | agenda
+## [johnstown#9] 2026-10-05 | Town Council | agenda
 - Agenda Approval
 - Special Presentations
 - Public Comment
@@ -294,14 +247,14 @@
 - Parties enter into a Settlement & Release Agreement and YMCA of Northern Colorado reimburse the
 - Appointing Ian McCargar as Administrative Hearing Officer for Election Related Matters
 
-## [johnstown#12] 2026-10-08 | General | agenda
+## [johnstown#10] 2026-10-08 | General | agenda
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#13] 2026-10-16 | Public Meeting Notice | agenda
+## [johnstown#11] 2026-10-16 | Public Meeting Notice | agenda
 - Where: N 6th Street Johnstown, CO 80534
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#14] 2026-10-19 | Town Council | agenda
+## [johnstown#12] 2026-10-19 | Town Council | agenda
 - Agenda Approval
 - Special Presentations
 - Public Comment
@@ -328,7 +281,7 @@
 - C.R.S. Section 24-6-402(4)(b) regarding public safety and police department matter(s)
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#15] 2026-10-19 | Town Council | agenda
+## [johnstown#13] 2026-10-19 | Town Council | agenda
 - Agenda Approval
 - Special Presentations
 - Public Comment
@@ -365,15 +318,15 @@
 - Quality Liquid Fees, Inc
 - Economic Development Director Sarah Crosthwaite presented
 
-## [johnstown#16] 2026-10-21 | Public Meeting Notice | agenda
+## [johnstown#14] 2026-10-21 | Public Meeting Notice | agenda
 - Where: 4781 Thompson Parkway Johnstown, CO 80534
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#17] 2026-10-26 | Town Council | agenda
+## [johnstown#15] 2026-10-26 | Town Council | agenda
 - 1. Johnstown Housing Needs Assessment and Comprehensive Plan Elements
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#18] 2026-10-26 | Town Council | agenda
+## [johnstown#16] 2026-10-26 | Town Council | agenda
 - 1. Johnstown Housing Needs Assessment and Comprehensive Plan Elements
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 - Subject: Johnstown Housing Needs Assessment and Comprehensive Plan
@@ -410,11 +363,11 @@
 - 5. Housing Inventory .......................................................................... 24
 - 6. Housing Market Trends ................................................................. 33
 
-## [johnstown#19] 2026-10-30 | Public Meeting Notice | agenda
+## [johnstown#17] 2026-10-30 | Public Meeting Notice | agenda
 - What: Texas Roadhouse Groundbreaking
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#20] 2026-11-02 | Town Council | agenda
+## [johnstown#18] 2026-11-02 | Town Council | agenda
 - Agenda Approval
 - Special Presentations
 - Public Comment
@@ -438,7 +391,7 @@
 - 13. A Resolution Approving the Service Plan for Diamond Ridge Metropolitan District Nos. 1
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#21] 2026-11-02 | Town Council | agenda
+## [johnstown#19] 2026-11-02 | Town Council | agenda
 - Agenda Approval
 - Special Presentations
 - Public Comment

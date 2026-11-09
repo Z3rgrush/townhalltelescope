@@ -1,5 +1,5 @@
-- title: Fast-track affordable housing review (Prop 123) – Ordinance 26-18
-  summary: The Planning Commission held a hearing on August 20, 2026 on a fast-tracked review process for affordable housing to meet Proposition 123 state requirements. Council took up Ordinance 26-18, adding Section 180-2.8 to the Unified Development Code, on first reading September 8 and second reading September 22.
+- title: Fast-track affordable housing review (Proposition 123) and Unified Development Code changes
+  summary: The Planning Commission held public hearings on Aug 20 on code amendments, including a fast-tracked review process for affordable housing to meet Proposition 123 state requirements. Council took up Ordinances 26-17 and 26-18 on first reading Sept 8 and second reading Sept 22.
   where: Townwide
   refs:
   - 2
@@ -11,20 +11,8 @@
   topics:
   - Housing
   - Zoning & development
-- title: Unified Development Code changes to allowed uses, accessory structures and parking – Ordinance 26-17
-  summary: Amendments to the Unified Development Code would change the table of allowed uses, accessory uses and structures, and parking and loading rules. The Planning Commission heard it August 20, and Council considered it on first reading September 8 and second reading September 22.
-  where: Townwide
-  refs:
-  - 2
-  - 3
-  - 6
-  - 7
-  - 9
-  - 10
-  topics:
-  - Zoning & development
-- title: Short-term rental cap and income-restricted housing
-  summary: Staff asked Council at the October 13 work session whether to change how the short-term rental license cap is calculated. Currently all residential units, including deed-restricted ones like The Scout, count toward the total. An ordinance amending the STR licensing code (Ordinance 26-14) was on the October 27 agenda for first reading.
+- title: Short-term rental cap and licensing changes
+  summary: Staff asked Council on Oct 13 whether to draft an ordinance changing how the short-term rental cap is calculated, including whether income-restricted units like the Scout rental development count toward the total of residential units. Ordinance 26-14 amending STR licensing was on the Oct 27 agenda for first reading.
   where: Townwide
   refs:
   - 14
@@ -32,8 +20,8 @@
   topics:
   - Short-term rentals
   - Housing
-- title: 2027 budget, mill levy and appropriations
-  summary: Council discussed the 2027 budget September 8. It then took up Ordinance 26-22 (appropriations) and Ordinance 26-23 (setting the town mill levy) on first reading October 13 and second reading October 27, along with Resolution 26-24 adopting the 2027 budget and 2027-2031 plan. A 2026 investment review showed a portfolio market value of $21.2 million and a 3.96% weighted average yield.
+- title: 2027 budget, mill levy and investment review
+  summary: Council held a 2027 budget discussion Sept 8, with a review of the town's investment portfolio (about $21.2 million market value). In October it considered the budget appropriation and mill levy ordinances (26-22, 26-23) and a resolution adopting the 2027 budget and 2027-2031 plan.
   where: Townwide
   refs:
   - 6
@@ -43,18 +31,17 @@
   - 15
   topics:
   - Budget & taxes
-- title: Council strategic planning retreat
-  summary: On August 25 Council held a retreat at the Summit Fire & EMS building to set strategic direction. It reviewed the current plan, which covers infrastructure, public safety, finances, water rates, housing (90–100 more income-restricted units since 2023), the Arts and Culture plan and recreation. A strategic plan briefing followed on October 27.
-  where: Summit Fire & EMS Building, 0035 County Shops Road
+- title: Residential uses in Light Industrial district and ADU incentives
+  summary: The Planning Commission scheduled hearings on Nov 5 on code amendments to permit residential uses in the Light Industrial District and one and two dwelling units in mixed-use. It also heard amendments to allow incentives for accessory dwelling units.
+  where: Townwide
   refs:
-  - 4
-  - 5
-  - 15
+  - 16
+  - 17
   topics:
-  - Government operations
   - Housing
-- title: 'Ballot measure support: Summit County Strong Future mill levy and school district 4A'
-  summary: Council considered Resolution 26-19 supporting Summit County's referred question to continue the Strong Future mill levy in perpetuity; it is not a new or increased tax. On October 13 it considered Resolution 26-26 supporting Summit School District RE-1 Ballot Measure 4A, a mill levy override for teacher and staff pay, and heard a school district and teachers' association presentation.
+  - Zoning & development
+- title: 'Ballot measures: Summit County Strong Future mill levy and school district 4A'
+  summary: Council considered resolutions of support for Summit County's referred Strong Future mill levy reauthorization (a continuation, not an increase) and for Summit School District ballot measure 4A, a mill levy override for teacher and staff pay. The Summit County Education Association and school district presented to Council.
   where: Countywide
   refs:
   - 9
@@ -65,35 +52,44 @@
   - Budget & taxes
   - Schools & youth
   - Elections
-  public_comment: true
-- title: Sixth Degree Town Homes at 121 E Main Street
-  summary: The Planning Commission conducted final review of a major site plan for a mixed-use building with six residential and two commercial units at 121 E Main Street. Commissioners asked about parking lifts, lighting compliance, and an unlocated water line and easement responsibility.
-  where: 121 E Main Street
-  refs:
-  - 3
-  topics:
-  - Zoning & development
-  - Housing
-- title: Eight townhomes proposed at 207 Granite Street
-  summary: A sketch plan review for eight townhomes at 207 Granite Street. Staff urged a sidewalk on Granite Street, and the project needs waivers for dumpster access and access from 2nd Avenue, a collector street. Commissioners noted the CC zoning allows residential by right, limiting the town's leverage, and that the site should blend with the historic park across the street.
+- title: 207 Granite Street eight-townhome project
+  summary: The Planning Commission reviewed a sketch plan for eight new townhomes at 207 Granite Street. Issues included stepbacks along 2nd Avenue, a single access needing a waiver, a dumpster access waiver, a possible Granite Street sidewalk, and compatibility with the historic park across the street.
   where: 207 Granite Street
   refs:
   - 8
   - 12
   topics:
-  - Housing
   - Zoning & development
+  - Housing
+- title: Sixth Degree Townhomes mixed-use at 121 E Main Street
+  summary: The Planning Commission conducted a final major site plan review of six residential and two commercial units. Discussion centered on parking lifts without a covenant, an unlocated water line and easement, and compliance with the town's new lighting rules.
+  where: 121 E Main Street
+  refs:
+  - 3
+  topics:
+  - Zoning & development
+  - Downtown & business
 - title: Telecommunication facility at 101 W Main Street
-  summary: The Planning Commission was to consider a special use permit for a new freestanding telecommunication facility at 101 W Main Street, applicant BMF Development LLC.
+  summary: The Planning Commission was to consider a special use permit for a new freestanding telecommunication facility, applicant BMF Development LLC.
   where: 101 W Main Street
   refs:
   - 11
   - 12
   topics:
-  - Utilities
   - Zoning & development
-- title: Thermal energy network test bore at Town Hall
-  summary: Council considered Resolution 26-23, a revocable license and right of entry for a utility thermal energy network test bore on the Town Hall property at 1 Main Street. This ties to the town's geothermal partnership with Xcel.
+  - Broadband
+- title: Right-of-way vacation near Pioneer Park
+  summary: The Planning Commission was to consider a request to vacate a portion of town right-of-way adjacent to Pioneer Park, north of 99 N. Council also had a closed session on right-of-way vacation and a potential property purchase.
+  where: Pioneer Park, north of 99 N
+  refs:
+  - 15
+  - 16
+  - 17
+  topics:
+  - Land & property
+  - Parks & open space
+- title: Geothermal thermal energy network test bore at Town Hall
+  summary: Council considered Resolution 26-23, a revocable license and right of entry for a utility thermal energy network test bore on the Town Hall property, tied to the town's geothermal partnership with Xcel.
   where: 1 Main Street (Town Hall)
   refs:
   - 0
@@ -101,23 +97,27 @@
   - 5
   topics:
   - Energy
+  - Utilities
   - Environment & climate
-- title: Landscaping and revegetation code discussion
-  summary: Council held a code discussion on landscaping and revegetation requirements on August 11.
+- title: Council strategic plan retreat and water system update
+  summary: Council held a retreat Aug 25 to review the strategic plan, covering infrastructure, water rates set for five years, housing, wildfire trail work, and Dark Skies certification. A water systems update and strategic plan briefing followed Oct 27.
   where: Townwide
   refs:
-  - 0
-  - 1
+  - 4
+  - 5
+  - 15
   topics:
-  - Zoning & development
-  - Environment & climate
-- title: Downtown winter parking and grants
-  summary: On September 22 Council received a downtown winter parking update and 2027 Grant Award Committee recommendations.
+  - Government operations
+  - Water
+  - Housing
+- title: Downtown winter parking and Unsheltered in Summit license
+  summary: Council received a downtown winter parking update Sept 22 and considered a revocable license agreement with Unsheltered in Summit on Oct 13.
   where: Downtown Frisco
   refs:
   - 9
   - 10
+  - 13
+  - 14
   topics:
-  - Downtown & business
   - Roads & traffic
-  - Budget & taxes
+  - Homelessness

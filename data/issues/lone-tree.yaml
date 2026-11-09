@@ -1,98 +1,70 @@
-- title: Brick wall construction management contract with Alfred Benesch
-  summary: Council reviewed an update and communications plan for the city's brick wall project. It also took up a professional services agreement with Alfred Benesch & Company for construction management. The documents do not state the outcome.
+- title: Fidelity Office Building site improvement plan (SP26-0017)
+  summary: The Planning Commission held a public hearing on Oct. 27 on the Fidelity Office Building site improvement plan. The City Council opened its Nov. 3 hearing only to continue it to Nov. 17, with no discussion or testimony that night.
+  where: Lone Tree
+  refs:
+  - 12
+  - 14
+  topics:
+  - Zoning & development
+- title: Colorado Transportation and Housing Investment Zone application
+  summary: Council considered an engagement letter with Beck Rivera LLP for legal and advocacy services on the city's 2027 Colorado Transportation and Housing Zone application. A program update was also on the Nov. 3 study session.
   where: Citywide
   refs:
-  - 7
-  - 8
-  topics:
-  - Roads & traffic
-  - Government operations
-- title: City Administration building renovation contractor
-  summary: Council considered awarding a general contracting services contract for the City Admin renovation project at the October 6 study session and regular meeting.
-  where: Lone Tree Civic Center, 8527 Lone Tree Parkway
-  refs:
-  - 7
-  - 8
-  topics:
-  - Government operations
-  - Budget & taxes
-- title: Douglas County School District mill levy override and Ballot Issue 5A
-  summary: Council heard a presentation on the Douglas County School District mill levy override. It also considered Resolution 26-46 supporting a yes vote on the district's 2026 Ballot Issue 5A.
-  where: Citywide
-  refs:
-  - 7
-  - 8
-  topics:
-  - Schools & youth
-  - Elections
-  - Budget & taxes
-- title: Off-highway and low-speed electric vehicle rules (Ordinance 26-08)
-  summary: Council held a public hearing on second reading of Ordinance 26-08. It would amend Chapter 8 of the municipal code to regulate off-highway vehicles and low-speed electric vehicles.
-  where: Citywide
-  refs:
-  - 8
-  topics:
-  - Roads & traffic
-  - Policing & public safety
-- title: Proposition 123 implementation
-  summary: Council considered Resolution 26-43 on how the city will implement Proposition 123, the state affordable housing program.
-  where: Citywide
-  refs:
-  - 7
-  - 8
+  - 14
+  - 15
   topics:
   - Housing
-- title: Happy Canyon Trail connection deed from Schweiger Ranch Foundation
-  summary: Council considered Resolution 26-45 to accept a special warranty deed from Schweiger Ranch Foundation for the Happy Canyon Trail connection project.
-  where: Happy Canyon Trail
-  refs:
-  - 7
-  - 8
-  topics:
-  - Recreation & trails
-  - Land & property
-- title: Snow removal agreement with Douglas County
-  summary: Council considered Resolution 26-42, an intergovernmental agreement with Douglas County for 2026-2027 snow removal on certain city streets.
-  where: Certain city streets
-  refs:
-  - 7
-  - 8
-  topics:
   - Roads & traffic
   - Government operations
-- title: Southwest Village plan and parks master plan amendments; Fidelity office site plan
-  summary: The Planning Commission scheduled public hearings on the Southwest Village Preliminary Plan Amendment and Parks Master Plan Amendment. It also scheduled a hearing on the Fidelity Office Building site improvement plan.
-  where: Southwest Village; Fidelity Office Building site
+- title: Hillcamp Drive/Cabela Drive extension and water booster pump station
+  summary: Council scheduled public hearings on the Hillcamp Trail Filing No. 1 final plat for the Hillcamp Drive/Cabela Drive extension and on the Hillcamp Water Pump Booster Station permits. Both were continued, with testimony set for the Nov. 17 hearing.
+  where: Hillcamp Drive / Cabela Drive
   refs:
-  - 15
+  - 14
+  topics:
+  - Roads & traffic
+  - Water
+  - Zoning & development
+- title: Southwest Village plan and parks master plan amendments
+  summary: The Planning Commission held a public hearing on Oct. 27 on amendments to the Southwest Village Preliminary Plan (RG26-0003) and the Southwest Village Parks Master Plan (RG26-0002).
+  where: Southwest Village
+  refs:
+  - 12
   topics:
   - Zoning & development
   - Parks & open space
 - title: Unified Development Code overview
-  summary: Council held a strategy session on October 26 for an overview and preliminary discussion of a Unified Development Code.
+  summary: City Council had a strategy session on Oct. 26 for an overview and preliminary discussion of a Unified Development Code. No votes or public comment were taken at the session.
   where: Citywide
   refs:
-  - 14
+  - 11
   topics:
   - Zoning & development
-- title: Parks master plan, Entertainment District Park and High Note Park
-  summary: The Recreation Advisory Committee discussed the Parks, Open Space, and Trails Master Plan, the South Suburban strategic plan, Entertainment District Park and a High Note Park update.
-  where: Entertainment District; High Note Park
+- title: 2027 business improvement district budgets
+  summary: Council took up resolutions 26-47 and 26-48 approving the 2027 operating plans and budgets for the Park Meadows and Lone Tree Business Improvement Districts.
+  where: Park Meadows and Lone Tree business districts
   refs:
-  - 3
-  - 6
-  - 10
-  - 16
+  - 14
+  - 15
   topics:
-  - Parks & open space
-  - Recreation & trails
-- title: Council strategy sessions on staffing, police, capital projects and community development
-  summary: Council's October 5 strategy session covered compensation and a 5-year staffing plan, the Police Department, the 5-year capital projects plan and community development. An earlier session continued discussion of topics from an August 19 retreat.
+  - Budget & taxes
+  - Downtown & business
+- title: Council strategy session on staffing, police and capital plans
+  summary: On Oct. 5 council discussed compensation and a five-year staffing plan, the police department, the five-year capital projects plan and community development. No votes or public comment were taken at the session.
   where: Citywide
   refs:
-  - 1
-  - 5
+  - 4
   topics:
   - Budget & taxes
   - Policing & public safety
   - Government operations
+- title: Parks, Open Space and Trails Master Plan and park projects
+  summary: The Recreation Advisory Committee worked on the Parks, Open Space, and Trails Master Plan, the Entertainment District Park, High Note Park and the South Suburban strategic plan.
+  where: Citywide
+  refs:
+  - 2
+  - 5
+  - 13
+  topics:
+  - Parks & open space
+  - Recreation & trails

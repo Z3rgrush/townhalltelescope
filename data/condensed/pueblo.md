@@ -1,56 +1,6 @@
 # pueblo
 
-## [pueblo#0] 2026-08-10 | City Council Regular Meeting | minutes
-- I. APPROVAL OF AGENDA
-- approving the amended agenda as distributed
-- J. READING AND APPROVAL OF MINUTES
-- and approve the Minutes of the Regular Meeting dated July 27, 2026 as distributed
-- M. RESOLUTIONS
-- M1 A RESOLUTION RATIFYING AN EMERGENCY CONSTRUCTION CONTRACT
-- IN THE AMOUNT OF $210,648.29 WITH PARKER EXCAVATING, INC., FOR
-- EMERGENCY SANITARY SEWER POINT REPAIR AT 109 VERNON PL,
-- PROJECT NO. 24-033 (WWAN03) AND APPROVING THE PURCHASING
-- A staff report and detailed review of the Resolution was given by Andra Ahren, Director of
-- This Resolution was assigned as 16397
-- M2 A RESOLUTION SETTING FORTH $70,000 FOR CONTINGENCIES FOR
-- PROJECT 25-020, PUB TAXILANE REHAB AND NEW HANGAR
-- A staff report and detailed review of the Resolution was given by Greg Pedroza, Director of
-- This Resolution was assigned as 16398
-- M3 A RESOLUTION AUTHORIZING THE ISSUANCE OF A REVOCABLE PERMIT
-- HAMEL AVENUE BETWEEN N. UNION AVENUE AND MAIN STREET ON
-- MAIN STREET SOUTHBOUND LANES FROM CITY CENTER DRIVE TO ALAN
-- PARKING LOT AT ALAN HAMEL AVENUE AND MAIN STREET FROM
-- This Resolution was assigned as 16389
-- M4 A RESOLUTION AUTHORIZING THE ISSUANCE OF A REVOCABLE PERMIT
-- This Resolution was assigned as 16390
-- M5 A RESOLUTION AUTHORIZING THE ISSUANCE OF A REVOCABLE PERMIT
-- STREET AND MARILYN PLACE TO HOST ITS ANNUAL WELCOME BACK TO
-- This Resolution was assigned as 16391
-- M6 A RESOLUTION AUTHORIZING THE ISSUANCE OF A REVOCABLE PERMIT
-- MAIN STREET TO SOUTH SANTA FE AVENUE AND MAIN STREET BETWEEN
-- "D" STREET AND CITY CENTER DRIVE TO FACILITATE THEIR ANNUAL
-- This Resolution was assigned as 16392
-- M7 A RESOLUTION AUTHORIZING THE ISSUANCE OF A REVOCABLE PERMIT
-- STREET AND MARILYN PLACE TO HOST A HISPANIC HERITAGE MONTH
-- This Resolution was assigned as 16393
-- M8 A RESOLUTION CONFIRMING THE REAPPOINTMENT BY THE MAYOR OF
-- TIFFANY GARCIA, TURA COWAN, AND LAURA LEYBA TO SERVE A FOUR
-- This Resolution was assigned as 16394
-- M9 A RESOLUTION RATIFYING THE JOINT PUEBLO-BOONE APPOINTMENT OF
-- This Resolution was assigned as 16395
-- M10 A RESOLUTION ESTABLISHING A SCHEDULE OF FEES FOR THE
-- A staff report and detailed review of the Resolution was given by Andrew Hayes, Director
-- M11 A RESOLUTION SETTING THE DATE, TIME AND PLACE FOR THE HEARING
-- THE MAYOR TO APPOINT A HEARINGS OFFICER
-- This Resolution was assigned as 16396
-- N. ORDINANCES – FIRST PRESENTATION
-- N1 AN ORDINANCE APPROVING AND ACCEPTING A GRANT FUNDING
-- AGREEMENT AND ALL APPLICABLE CONDITIONS PERTAINING THERETO
-- ("BATTLE") TEAM, ESTABLISHING PROJECT NUMBER PS2605, BUDGETING
-- AND APPROPRIATING FUNDS TO PROJECT NUMBER PS2605, AND
-- A staff report and detailed review of the Ordinance was given by Chris Noeller, Chief of
-
-## [pueblo#1] 2026-08-14 | Liquor & Marijuana Authority | agenda
+## [pueblo#0] 2026-08-14 | Liquor & Marijuana Authority | agenda
 - C. APPROVAL OF AGENDA
 - D. READING AND APPROVAL OF MINUTES
 - D1 Reading and Approval of the Minuets from the Pueblo Liquor and Marijuana
@@ -67,7 +17,7 @@
 - Street Station LLC,DBA: 7th Street Station, 112 W. 7th Street, New Member:
 - F5 Modification of Premises - Change of Corporate Structure - Retail Marijuana
 
-## [pueblo#2] 2026-08-14 | Liquor & Marijuana Authority | agenda
+## [pueblo#1] 2026-08-14 | Liquor & Marijuana Authority | agenda
 - C. APPROVAL OF AGENDA
 - D. READING AND APPROVAL OF MINUTES
 - D1 Reading and Approval of the Minuets from the Pueblo Liquor and Marijuana
@@ -104,7 +54,7 @@
 - Liquor License - Dillon Companies LLC, dba: King Soopers #43, 102 W. 29th Street
 - Judge Dunford approved the Modification of Premises - FMB&WR Liquor License
 
-## [pueblo#3] 2026-08-17 | City Council Work Session | agenda
+## [pueblo#2] 2026-08-17 | City Council Work Session | agenda
 - discussion among Council Members; no official action is taken at such meetings
 - The public is invited to attend, but public comment is generally not received
 - PRESENTATIONS
@@ -120,7 +70,7 @@
 - IDENTIFICATION PURPOSES: ECONOMIC DEVELOPMENT
 - AGREEMENT WITH THE LEONARDO DA VINCI MUSEUM
 
-## [pueblo#4] 2026-08-17 | City Council Work Session | agenda
+## [pueblo#3] 2026-08-17 | City Council Work Session | agenda
 - discussion among Council Members; no official action is taken at such meetings
 - The public is invited to attend, but public comment is generally not received
 - PRESENTATIONS
@@ -168,12 +118,12 @@
 - C.R.S. § 42-4-110.5 As amended — the controlling statute
 - Ordinance establishing the automated enforcement program
 
-## [pueblo#5] 2026-08-19 | Pueblo Commission on Energy | agenda
+## [pueblo#4] 2026-08-19 | Pueblo Commission on Energy | agenda
 - PUBLIC WORKS DEPARTMENT CONFERENCE ROOM - 211 E. D STREET,
 - 3. Approval of Agenda
 - 6. Public Comment
 
-## [pueblo#6] 2026-08-24 | City Council Regular Meeting | minutes
+## [pueblo#5] 2026-08-24 | City Council Regular Meeting | minutes
 - E1 MAYORAL PROCLAMATION PRESENTATION: "ANDREW HAYES DAY
 - E2 MAYORAL PROCLAMATION PRESENTATION: "KIM BOWMAN DAY
 - E3 PROCLAMATION PRESENTATION: "MENTAL HEALTH & SUICIDE
@@ -222,7 +172,7 @@
 - ESTABLISHING PROJECT NO. PS2609 FOR EMERGENCY AND TRAUMA
 - EDUCATION GRANT, AND BUDGETING AND APPROPRIATING GRANT
 
-## [pueblo#7] 2026-08-28 | Liquor & Marijuana Authority | minutes
+## [pueblo#6] 2026-08-28 | Liquor & Marijuana Authority | minutes
 - C. APPROVAL OF AGENDA
 - Judge Dunford approved the agenda as distributed
 - D. READING AND APPROVAL OF MINUTES
@@ -231,7 +181,7 @@
 - E3 Reading and Approval of the Consent Agenda
 - Judge Dunford approved the Consent agenda as read
 
-## [pueblo#8] 2026-08-31 | City Council Work Session | agenda
+## [pueblo#7] 2026-08-31 | City Council Work Session | agenda
 - discussion among Council Members; no official action is taken at such meetings
 - The public is invited to attend, but public comment is generally not received
 - PRESENTATIONS
@@ -246,7 +196,7 @@
 - F. PUEBLO MOUNTAIN PARK NEXT STEPS 8:05 PM
 - G. ECONOMIC DEVELOPMENT PARTNER RFP FOLLOW UP 8:45 PM Andrew Hayes, Public Works Director
 
-## [pueblo#9] 2026-08-31 | City Council Work Session | agenda
+## [pueblo#8] 2026-08-31 | City Council Work Session | agenda
 - discussion among Council Members; no official action is taken at such meetings
 - The public is invited to attend, but public comment is generally not received
 - PRESENTATIONS
@@ -297,7 +247,7 @@
 - Sr. Tax Auditor
 - Economic Development Fund)
 
-## [pueblo#10] 2026-09-08 | City Council Work Session | agenda
+## [pueblo#9] 2026-09-08 | City Council Work Session | agenda
 - discussion among Council Members; no official action is taken at such meetings
 - The public is invited to attend, but public comment is generally not received
 - PRESENTATIONS
@@ -321,7 +271,7 @@
 - CONTRACT, AND THE PUEBLO ZOOLOGICAL SOCIETY
 - 60 minute presentation
 
-## [pueblo#11] 2026-09-08 | City Council Work Session | agenda
+## [pueblo#10] 2026-09-08 | City Council Work Session | agenda
 - discussion among Council Members; no official action is taken at such meetings
 - The public is invited to attend, but public comment is generally not received
 - PRESENTATIONS
@@ -363,7 +313,7 @@
 - approved funding up to Three Million Dollars ($3,000,000) from the ½ cent sales tax fund for the
 - eligible project as part of the 2012 Resolution of the Colorado Economic Development
 
-## [pueblo#12] 2026-09-10 | Liquor & Marijuana Authority | minutes
+## [pueblo#11] 2026-09-10 | Liquor & Marijuana Authority | minutes
 - C. APPROVAL OF AGENDA
 - Judge Dunford approved withdrawing G1 and approving the agenda as amended
 - D. READING AND APPROVAL OF MINUTES
@@ -373,7 +323,7 @@
 - G1 Special Event Application - Beer, Wine & Spiritious Liquor - Pueblo
 - Judge Dunford approved the temporary modification of premises for The Senate,
 
-## [pueblo#13] 2026-09-14 | City Council Regular Meeting | minutes
+## [pueblo#12] 2026-09-14 | City Council Regular Meeting | minutes
 - E1 PROCLAMATION PRESENTATION: "CREEK WEEK - SEPTEMBER 26
 - to the beginning of the regular meeting and approving the agenda as amended
 - I. READING AND APPROVAL OF MINUTES
@@ -421,7 +371,7 @@
 - OF THE JACKSON RANCH ANNEXATION AREA TO AN AGRICULTURAL
 - N5 AN ORDINANCE AMENDING ZONING RESTRICTIONS TO ZONE 225.66
 
-## [pueblo#14] 2026-09-21 | City Council Work Session | agenda
+## [pueblo#13] 2026-09-21 | City Council Work Session | agenda
 - discussion among Council Members; no official action is taken at such meetings
 - The public is invited to attend, but public comment is generally not received
 - PRESENTATIONS
@@ -437,7 +387,7 @@
 - IDENTIFICATION PURPOSES: PEDCO V. CITY OF PUEBLO, PUEBLO
 - 30 minute presentation
 
-## [pueblo#15] 2026-09-21 | City Council Work Session | agenda
+## [pueblo#14] 2026-09-21 | City Council Work Session | agenda
 - discussion among Council Members; no official action is taken at such meetings
 - The public is invited to attend, but public comment is generally not received
 - PRESENTATIONS
@@ -481,7 +431,7 @@
 - 20 At-Large County Resident Unincorporated Metro District Rep Citizen Member
 - Recommendation: keep these as voting seats so the project list is viewed as regionally developed, not imposed after the fact
 
-## [pueblo#16] 2026-09-25 | Liquor & Marijuana Authority | agenda
+## [pueblo#15] 2026-09-25 | Liquor & Marijuana Authority | agenda
 - C. APPROVAL OF AGENDA
 - D. READING AND APPROVAL OF MINUTES
 - D1 Reading and Approval of the Minutes from the Pueblo Liquor & Marijuana
@@ -497,7 +447,7 @@
 - Museum of North America, 310 Central Main Street, Event Date: October 16, 206
 - G2 Special Event Application - Beer, Wine and Spirituous Liquor - Pueblo Community
 
-## [pueblo#17] 2026-09-25 | Liquor & Marijuana Authority | agenda
+## [pueblo#16] 2026-09-25 | Liquor & Marijuana Authority | agenda
 - C. APPROVAL OF AGENDA
 - D. READING AND APPROVAL OF MINUTES
 - D1 Reading and Approval of the Minutes from the Pueblo Liquor & Marijuana
@@ -518,7 +468,7 @@
 - G1 Special Event Application - Beer, Wine & Spiritious Liquor - Pueblo
 - Judge Dunford approved the temporary modification of premises for The Senate,
 
-## [pueblo#18] 2026-09-28 | City Council Regular Meeting | minutes
+## [pueblo#17] 2026-09-28 | City Council Regular Meeting | minutes
 - E1 PROCLAMATION PRESENTATION: "JOEYLIN KENLEY MCDONALD DAY —
 - E2 PROCLAMATION PRESENTATION: "HISPANIC HERITAGE MONTH —
 - E3 PROCLAMATION PRESENTATION: "KEVIN THE FIRE PUP DAY — OCTOBER
@@ -567,7 +517,7 @@
 - CIAN18 – GRANT MATCHES AIRPORT
 - A staff report and detailed review of the Resolution was given by Carla Sikes, City
 
-## [pueblo#19] 2026-10-05 | City Council Work Session | agenda
+## [pueblo#18] 2026-10-05 | City Council Work Session | agenda
 - discussion among Council Members; no official action is taken at such meetings
 - The public is invited to attend, but public comment is generally not received
 - PRESENTATIONS
@@ -586,7 +536,7 @@
 - IDENTIFICATION PURPOSES: CITY OF PUEBLO V. AIRPORT
 - 60 minute presentation
 
-## [pueblo#20] 2026-10-05 | City Council Work Session | agenda
+## [pueblo#19] 2026-10-05 | City Council Work Session | agenda
 - discussion among Council Members; no official action is taken at such meetings
 - The public is invited to attend, but public comment is generally not received
 - PRESENTATIONS
@@ -624,10 +574,10 @@
 - approved funding, not creating new
 - trust through delivered projects
 
-## [pueblo#21] 2026-10-07 | General | agenda
+## [pueblo#20] 2026-10-07 | General | agenda
 - II. Review Rates & Fees Redline
 
-## [pueblo#22] 2026-10-09 | Liquor & Marijuana Authority | agenda
+## [pueblo#21] 2026-10-09 | Liquor & Marijuana Authority | agenda
 - C. APPROVAL OF AGENDA
 - D. READING AND APPROVAL OF MINUTES
 - D1 Reading and Approval of the Minutes from the September 25, 2026, meeting of the
@@ -653,7 +603,7 @@
 - Street, Event Date: October 16, 206 6p.m. - 9 p.m., Event Manager: Jeanne Arrigo
 - G2 Special Event Application - Beer, Wine and Spirituous Liquor - Pueblo
 
-## [pueblo#23] 2026-10-09 | Liquor & Marijuana Authority | agenda
+## [pueblo#22] 2026-10-09 | Liquor & Marijuana Authority | agenda
 - C. APPROVAL OF AGENDA
 - D. READING AND APPROVAL OF MINUTES
 - D1 Reading and Approval of the Minutes from the September 25, 2026, meeting of the
@@ -668,7 +618,7 @@
 - G3 Special Event Application - Beer, Wine and Spirituous Liquor - Pueblo City
 - G4 Order to Show cause and Notice Hearing - The Capitol Downtown Bar LLC, dba:
 
-## [pueblo#24] 2026-10-13 | City Council Regular Meeting | minutes
+## [pueblo#23] 2026-10-13 | City Council Regular Meeting | minutes
 - E1 PROCLAMATION PRESENTATION: "SHILOH HOUSE — PUEBLO DAY
 - Herbert Conboy appeared in person and spoke about Pueblo City Parks
 - Mountain Park
@@ -717,11 +667,11 @@
 - N5 AN ORDINANCE AMENDING SECTION 4-1-24 OF CHAPTER 1 OF TITLE IV OF
 - THE PUEBLO MUNICIPAL CODE RELATING TO MECHANICAL CONTRACTOR
 
-## [pueblo#25] 2026-10-15 | General | agenda
+## [pueblo#24] 2026-10-15 | General | agenda
 - II. Fire Dept / Hangar Maintenance
 - IV. Review Rates & Fees Redline
 
-## [pueblo#26] 2026-10-19 | City Council Work Session | agenda
+## [pueblo#25] 2026-10-19 | City Council Work Session | agenda
 - discussion among Council Members; no official action is taken at such meetings
 - The public is invited to attend, but public comment is generally not received
 - PRESENTATIONS
@@ -742,7 +692,7 @@
 - PARK AND PROJECT MANTA
 - 60 minute presentation
 
-## [pueblo#27] 2026-10-19 | City Council Work Session | agenda
+## [pueblo#26] 2026-10-19 | City Council Work Session | agenda
 - discussion among Council Members; no official action is taken at such meetings
 - The public is invited to attend, but public comment is generally not received
 - PRESENTATIONS
@@ -833,14 +783,50 @@
 - Police $576,378 $104,785,131
 - All Non-Departmental flat funded requested. Except HSPPR
 
-## [pueblo#28] 2026-10-20 | General | agenda
+## [pueblo#27] 2026-10-20 | General | agenda
 - eview Rates & Fees Redline
 
-## [pueblo#29] 2026-10-23 | Liquor & Marijuana Authority | agenda
+## [pueblo#28] 2026-10-23 | Liquor & Marijuana Authority | agenda
 - C1 The hearing for October 23, 2026, has been canceled
 
-## [pueblo#30] 2026-10-26 | General | agenda
+## [pueblo#29] 2026-10-26 | General | agenda
 - III. Review Rates & Fees Redline
+
+## [pueblo#30] 2026-10-26 | City Council Regular Meeting | agenda
+- E1 Proclamation Presentation: "Praise Assembly of God's 70th Anniversary Day - November
+- E2 Proclamation Presentation: "First Responders Day — October 28, 2026" — Barbara
+- Huber, Fire Chief and Zach Ballas, Deputy Police Chief & Kim Jeffries, Dispatch Manager
+- E3 Proclamation Presentation: "Steve Nawrocki Day — November 6, 2026" — Steve
+- Nawrocki, Executive Director - Senior Resource Development Agency
+- H. REVIEW AND APPROVAL OF AGENDA
+- Motion to Amend the Agenda or Motion to Approve the Agenda as distributed
+- I. READING AND APPROVAL OF MINUTES
+- Motion to dispense with the reading and approve the Minutes of the Regular Meeting dated
+- J. PUBLIC HEARINGS
+- J1 Proposed 2027 Annual Budget
+- This Public Hearing is held for the purpose of receiving public testimony as it pertains to
+- the 2027 Proposed Annual Budget per the requirements of Section 7-9 of the Charter for
+- the City of Pueblo. Required Council Action: Open the Hearing, Receive Public
+- Testimony, and Close the Hearing. Council discussion is not required and there is no
+- All items listed in this portion of the agenda are considered to be routine by the City Council
+- and will be enacted by one motion. There will be no separate discussion of these items unless
+- a Councilperson so requests; in which event, the item will be removed from the Consent
+- Agenda and considered under the Regular Agenda. Unless otherwise indicated, titles are self
+- M. RESOLUTIONS
+- M1 A Resolution adopting a fee schedule for the Southern Colorado Building Department for
+- M2 A Resolution authorizing the issuance of a Revocable Permit (REV-26-32) to the
+- M3 A Resolution confirming the appointment by the Mayor of Lasondra Arredondo to complete
+- M4 A Resolution opposing the proposed electric rate increase of Black Hills Colorado Electric,
+- additional ratepayer cost impacts of its 2026 Electric Resource Plan and Clean Energy
+- Plan in Proceeding No. 26A-0333E, and directing the City Clerk to transmit certified copies
+- of this Resolution to the Colorado Public Utilities Commission
+- M5 A Resolution authorizing the issuance of a Revocable Permit (REV-26-38) to the Pueblo
+- Chamber of Commerce for the use of C Street to B Street on Union Avenue to host the
+- N. ORDINANCES – FIRST PRESENTATION
+- N1 An Ordinance approving, accepting, and budgeting a multimodal transportation and
+- mitigation option funds grant, award, and applicable conditions pertaining thereto, between
+- Governments, and Colorado Department of Transportation establishing project no
+- BC2605, budgeting and appropriating $108,392.00, and authorizing the Mayor to execute
 
 ## [pueblo#31] 2026-10-26 | City Council Regular Meeting | agenda
 - E1 Proclamation Presentation: "Praise Assembly of God's 70th Anniversary Day - November
@@ -878,43 +864,7 @@
 - Governments, and Colorado Department of Transportation establishing project no
 - BC2605, budgeting and appropriating $108,392.00, and authorizing the Mayor to execute
 
-## [pueblo#32] 2026-10-26 | City Council Regular Meeting | agenda
-- E1 Proclamation Presentation: "Praise Assembly of God's 70th Anniversary Day - November
-- E2 Proclamation Presentation: "First Responders Day — October 28, 2026" — Barbara
-- Huber, Fire Chief and Zach Ballas, Deputy Police Chief & Kim Jeffries, Dispatch Manager
-- E3 Proclamation Presentation: "Steve Nawrocki Day — November 6, 2026" — Steve
-- Nawrocki, Executive Director - Senior Resource Development Agency
-- H. REVIEW AND APPROVAL OF AGENDA
-- Motion to Amend the Agenda or Motion to Approve the Agenda as distributed
-- I. READING AND APPROVAL OF MINUTES
-- Motion to dispense with the reading and approve the Minutes of the Regular Meeting dated
-- J. PUBLIC HEARINGS
-- J1 Proposed 2027 Annual Budget
-- This Public Hearing is held for the purpose of receiving public testimony as it pertains to
-- the 2027 Proposed Annual Budget per the requirements of Section 7-9 of the Charter for
-- the City of Pueblo. Required Council Action: Open the Hearing, Receive Public
-- Testimony, and Close the Hearing. Council discussion is not required and there is no
-- All items listed in this portion of the agenda are considered to be routine by the City Council
-- and will be enacted by one motion. There will be no separate discussion of these items unless
-- a Councilperson so requests; in which event, the item will be removed from the Consent
-- Agenda and considered under the Regular Agenda. Unless otherwise indicated, titles are self
-- M. RESOLUTIONS
-- M1 A Resolution adopting a fee schedule for the Southern Colorado Building Department for
-- M2 A Resolution authorizing the issuance of a Revocable Permit (REV-26-32) to the
-- M3 A Resolution confirming the appointment by the Mayor of Lasondra Arredondo to complete
-- M4 A Resolution opposing the proposed electric rate increase of Black Hills Colorado Electric,
-- additional ratepayer cost impacts of its 2026 Electric Resource Plan and Clean Energy
-- Plan in Proceeding No. 26A-0333E, and directing the City Clerk to transmit certified copies
-- of this Resolution to the Colorado Public Utilities Commission
-- M5 A Resolution authorizing the issuance of a Revocable Permit (REV-26-38) to the Pueblo
-- Chamber of Commerce for the use of C Street to B Street on Union Avenue to host the
-- N. ORDINANCES – FIRST PRESENTATION
-- N1 An Ordinance approving, accepting, and budgeting a multimodal transportation and
-- mitigation option funds grant, award, and applicable conditions pertaining thereto, between
-- Governments, and Colorado Department of Transportation establishing project no
-- BC2605, budgeting and appropriating $108,392.00, and authorizing the Mayor to execute
-
-## [pueblo#33] 2026-11-02 | City Council Work Session | agenda
+## [pueblo#32] 2026-11-02 | City Council Work Session | agenda
 - discussion among Council Members; no official action is taken at such meetings
 - The public is invited to attend, but public comment is generally not received
 - PRESENTATIONS
@@ -929,7 +879,7 @@
 - ECONOMIC DEVELOPMENT PROJECT IN THE ST. CHARLES
 - INDUSTRIAL PARK
 
-## [pueblo#34] 2026-11-02 | City Council Work Session | agenda
+## [pueblo#33] 2026-11-02 | City Council Work Session | agenda
 - discussion among Council Members; no official action is taken at such meetings
 - The public is invited to attend, but public comment is generally not received
 - PRESENTATIONS
@@ -973,3 +923,88 @@
 - ROM cost for asphalt road - $5M
 - Traffic study is required to incorporate future development
 - Safety improvements needed
+
+## [pueblo#34] 2026-11-03 | General | agenda
+- III. Review Rates & Fees Redline
+
+## [pueblo#35] 2026-11-05 | General | agenda
+- III. Review Rates & Fees Redline
+
+## [pueblo#36] 2026-11-09 | City Council Regular Meeting | agenda
+- E1 Recognition Presentation: "Colorado Lottery Starburst Award" — Michael Sexton,
+- Assistant Parks and Recreation Director
+- E2 Recognition Presentation: "Colorado Association of Recreational Athletics - 2026
+- I. APPROVAL OF AGENDA
+- Motion to Amend the Agenda or Motion to Approve the Agenda as distributed
+- J. READING AND APPROVAL OF MINUTES
+- Motion to dispense with the reading and approve the Minutes of the Regular Meeting dated
+- All items listed in this portion of the agenda are considered to be routine by the City Council
+- and will be enacted by one motion. There will be no separate discussion of these items unless
+- a Councilperson so requests; in which event, the item will be removed from the Consent
+- Agenda and considered under the Regular Agenda. Unless otherwise indicated, titles are self
+- L1 Minutes of Planning and Zoning Commission Meeting for 9/9/2026
+- M. RESOLUTIONS
+- M1 A Resolution ratifying an emergency construction contract in the amount of $61,740.26
+- with Parker Excavating, Inc. for Emergency Sanitary Sewer Point Repair at 1125
+- Greenwood St, Project No. 24-033 (WWAN03) and approving the Purchasing Agent’s
+- M2 A Resolution ratifying the joint Pueblo-Boone Appointment of Michael Kohnert to complete
+- M3 A Resolution ratifying the joint Pueblo-Boone Appointment of John McDonald to complete
+- (SCBC) in the general contractor position
+- M4 A Resolution confirming the reappointment of David Roscover to serve a three-year term
+- on the Pueblo Streetscape Advisory Committee
+- M5 A Resolution amending Resolution No. 11711, as amended by Resolution No. 15828, and
+- establishing permit, inspection and plan review fees required under Chapter 2 of Title III of
+- the Pueblo Municipal Code and the adopted 2021 International Fire Code
+- N. ORDINANCES – FIRST PRESENTATION
+- N1 An Ordinance levying and certifying the City of Pueblo property tax mill levy made in 2026
+- for the 2027 budget year
+- N2 An Ordinance levying and certifying the Bandera Boulevard Special Improvement
+- Maintenance District property tax mill levy made in 2026 for the 2027 budget year
+- N3 An Ordinance levying and certifying the Southpointe Special Improvement Maintenance
+- District property tax mill levy made in 2026 for the 2027 budget year
+- N4 An Ordinance making appropriation for the general fund, special revenue funds, enterprise
+- funds, internal service funds, debt service funds, and capital project funds for the fiscal
+- year 2027 and adopting the budget for the year 2027
+- N5 An Ordinance approving an Intergovernmental Agreement for inmate housing services
+- County Sheriff, relating to the housing of municipal inmates at the Pueblo County
+
+## [pueblo#37] 2026-11-09 | City Council Regular Meeting | agenda
+- E1 Recognition Presentation: "Colorado Lottery Starburst Award" — Michael Sexton,
+- Assistant Parks and Recreation Director
+- E2 Recognition Presentation: "Colorado Association of Recreational Athletics - 2026
+- I. APPROVAL OF AGENDA
+- Motion to Amend the Agenda or Motion to Approve the Agenda as distributed
+- J. READING AND APPROVAL OF MINUTES
+- Motion to dispense with the reading and approve the Minutes of the Regular Meeting dated
+- All items listed in this portion of the agenda are considered to be routine by the City Council
+- and will be enacted by one motion. There will be no separate discussion of these items unless
+- a Councilperson so requests; in which event, the item will be removed from the Consent
+- Agenda and considered under the Regular Agenda. Unless otherwise indicated, titles are self
+- L1 Minutes of Planning and Zoning Commission Meeting for 9/9/2026
+- M. RESOLUTIONS
+- M1 A Resolution ratifying an emergency construction contract in the amount of $61,740.26
+- with Parker Excavating, Inc. for Emergency Sanitary Sewer Point Repair at 1125
+- Greenwood St, Project No. 24-033 (WWAN03) and approving the Purchasing Agent’s
+- M2 A Resolution ratifying the joint Pueblo-Boone Appointment of Michael Kohnert to complete
+- M3 A Resolution ratifying the joint Pueblo-Boone Appointment of John McDonald to complete
+- (SCBC) in the general contractor position
+- M4 A Resolution confirming the reappointment of David Roscover to serve a three-year term
+- on the Pueblo Streetscape Advisory Committee
+- M5 A Resolution amending Resolution No. 11711, as amended by Resolution No. 15828, and
+- establishing permit, inspection and plan review fees required under Chapter 2 of Title III of
+- the Pueblo Municipal Code and the adopted 2021 International Fire Code
+- N. ORDINANCES – FIRST PRESENTATION
+- N1 An Ordinance levying and certifying the City of Pueblo property tax mill levy made in 2026
+- for the 2027 budget year
+- N2 An Ordinance levying and certifying the Bandera Boulevard Special Improvement
+- Maintenance District property tax mill levy made in 2026 for the 2027 budget year
+- N3 An Ordinance levying and certifying the Southpointe Special Improvement Maintenance
+- District property tax mill levy made in 2026 for the 2027 budget year
+- N4 An Ordinance making appropriation for the general fund, special revenue funds, enterprise
+- funds, internal service funds, debt service funds, and capital project funds for the fiscal
+- year 2027 and adopting the budget for the year 2027
+- N5 An Ordinance approving an Intergovernmental Agreement for inmate housing services
+- County Sheriff, relating to the housing of municipal inmates at the Pueblo County
+
+## [pueblo#38] 2026-11-09 | General | agenda
+- III. Review Rates & Fees Redline

@@ -309,69 +309,52 @@
 - E. A Resolution Recommending to City Council the Adoption of the 2027 Proposed
 - Budget for the Electric Fund, Water Fund, Wastewater Fund and Sanitation Fund
 
-## [la-junta#10] 2026-10-19 | City Council | agenda
-- Envision a safe, flourishing downtown that provides a strong commercial tax base
-- Ensure its electorate is well informed of on-going successes and future plans
-- Promote redevelopment of existing businesses and neighborhoods and increase quality of life for all its
+## [la-junta#10] 2026-10-19 | City Council | minutes
 - EMPLOYEE SERVICE AWARDS
+- 3/1998–12/1998 - Laborer, Parks Seasonal
+- 5/1/1999–9/23/2003 Park Maintenance Full-time
+- 3/3/2004 12/31/2004 Park Laborer Part-time
+- 1/1/2005 Park Maintenance Full Time
+- 1/7/2008–12/24/2010 Park Laborer Part-time
+- 1/3/2011 Park Maintenance Full-time
+- CPR efforts preserved his father's life for an additional week, allowing the family to plan for his
+- Street, Ryan’s vehicle was struck by large rocks thrown by local individuals. After driving to
+- the face with a metal baseball bat by Virgil Eden, a resident of 13 West 3rd Street. The assault
+- Attorney Bullock without notifying the family. The dismissal was reportedly blamed on the lead
+- investigator leaving the police department and an unrelated medical plea agreement involving
+- Mr. Eden. Ms. Remick highlighted an operational disconnect, noting that 22nd Street is within
+- city limits while 13 West 3rd Street falls under county jurisdiction, causing critical cases to be
+- evacuation due to gunfire. Though relocating in a year, she urged the city and county to unite
+- investigation. He noted that his daily requests for updates went unanswered, forcing him to turn
+- Mr. Mondragon alleged internal unprofessionalism and a double standard within the police
+- department. He noted that while officers freely discussed the open case in public, his family
+- that when a hired private investigator questioned the Chief of Police, the Chief claimed to have
+- collaborated with the Mayor and police department on an e-bike event, Mr. Mondragon noted a
+- only a few months of road experience, coinciding with Lovato announcing his candidacy for
+- redacted public records requests. Mayor Joe Ayala publicly endorsed Lovato for sheriff. The
 - B. Application for a Special Events Permit by Otero College Foundation, Bethany
-- A. Second Reading/AN ORDINANCE MAKING SUPPLEMENTAL
-- A. Approval of the 2027 Proposed Budget (City Attorney) (Action)
-- 1. A Resolution Approving the 2027 Proposed Budget
-- 2. First Reading/AN ORDINANCE FIXING THE MILL LEVY FOR ASSESSMENT
-- 3. First Reading/THE ANNUAL APPROPRIATION ORDINANCE:
-- B. Third Amendment to the Consolidation Agreement (Ron Hogan) (Possible Action)
-
-## [la-junta#11] 2026-10-19 | City Council | agenda
-- Envision a safe, flourishing downtown that provides a strong commercial tax base
-- Ensure its electorate is well informed of on-going successes and future plans
-- Promote redevelopment of existing businesses and neighborhoods and increase quality of life for all its
-- EMPLOYEE SERVICE AWARDS
-- B. Application for a Special Events Permit by Otero College Foundation, Bethany
-- A. Second Reading/AN ORDINANCE MAKING SUPPLEMENTAL
-- A. Approval of the 2027 Proposed Budget (City Attorney) (Action)
-- 1. A Resolution Approving the 2027 Proposed Budget
-- 2. First Reading/AN ORDINANCE FIXING THE MILL LEVY FOR ASSESSMENT
-- 3. First Reading/THE ANNUAL APPROPRIATION ORDINANCE:
-- B. Third Amendment to the Consolidation Agreement (Ron Hogan) (Possible Action)
-- Development), Kasey Miehlke (La Junta), Elaine Wittman (La Junta),
-- B. Application for a Special Events Permit by American Legion Auxiliary Unit 9, Elaine
-- MOTION TO APPROVE THE OCTOBER 5, 2026 CONSENT AGENDA: Rikhof
+- MOTION TO APPROVE THE OCTOBER 19, 2026 CONSENT AGENDA: Ramirez
 - DISCUSSION: There was no discussion
-- A. Second Reading/AN ORDINANCE OF THE CITY OF LA JUNTA ESTABLISHING
-- AN ECONOMIC DEVELOPMENT BOARD (City Attorney) (Action)
+- Last month, the balance sheet and liabilities were discussed. This month, the focus was
+- on the budget to actual
+- A. Second Reading/AN ORDINANCE MAKING SUPPLEMENTAL
 - MOTION TO PASS THE ORDINANCE ON SECOND READING: Rikhof
-- DISCUSSION: The City Clerk will call for Letters of Interest for board vacancies in the
-- A. First Reading/AN ORDINANCE MAKING SUPPLEMENTAL APPROPRIATIONS
+- A. Approval of the 2027 Proposed Budget (City Attorney) (Action)
+- 1. A Resolution Approving the 2027 Proposed Budget
+- MOTION TO ADOPT RESOLUTION NO. R-14-2026: Velasquez
+- 2. First Reading/AN ORDINANCE FIXING THE MILL LEVY FOR ASSESSMENT
+- MOTION TO PASS THE ORDINANCE ON FIRST READING: Ramirez
+- 3. First Reading/THE ANNUAL APPROPRIATION ORDINANCE:
 - MOTION TO PASS THE ORDINANCE ON FIRST READING: Rikhof
-- DISCUSSION: The miscellaneous grant is this year's portion of the Third Street grant
-- Planning Commission (Council Member Ochoa): Had a work session discussing
-- to conditional from not permitted. The next planning commission meeting has been
-- public hearing
-- Utilities Board (Mayor Ayala): Also had a work session on the 2027 budget
-- Police Department: For the month of September, 1,710 calls, 34 warrant arrests,
-- Fire Department: A total of 177 calls, 117 EMS calls, 16 motor vehicle collisions,
-- two structure fires, two mutual aids, two search and rescues and then 38 other
-- This is Fire Prevention Week. They will see over 700 kids. Schools included will
-- The City has received a grant up to about $30 million. It's from the Emergency
-- The airport runway is complete. They'll be doing chip sealing on the taxiway
-- Street Department: Ongoing street repairs on 9th Street between San Juan and
-- Parks: Still waiting on scheduling for a plumber to get the toilets installed
-- The Art Project, celebrating its fifth anniversary
-- Grants Receivable
-- BUDGET TO ACTUAL
-- REVENUE BUDGET ACTUAL BALANCE %
-- TAXES 8,595,600 5,997,320 2,598,280 69.77%
-- LICENSES & PERMITS 59,500 28,269 31,231 47.51%
-- EXPENSES BUDGET ACTUAL BALANCE %
+- B. Third Amendment to the Consolidation Agreement (Ron Hogan) (Action)
 
-## [la-junta#12] 2026-10-22 | Urban Renewal Authority | agenda
+## [la-junta#11] 2026-10-22 | Urban Renewal Authority | agenda
 - FUNDING APPLICATION
 - A. Blight, Life Safety & Accessibility Application — La Junta Associated Charities
 - A. Chestnut Apartments (Rikhof)
 - A. Approve the 2027 Budget (Action)
 
-## [la-junta#13] 2026-11-02 | City Council | agenda
+## [la-junta#12] 2026-11-02 | City Council | agenda
 - Envision a safe, flourishing downtown that provides a strong commercial tax base
 - Ensure its electorate is well informed of on-going successes and future plans
 - Promote redevelopment of existing businesses and neighborhoods and increase quality of life for all its
@@ -389,3 +372,6 @@
 - CERTAIN WATER DISTRIBUTION SYSTEM IMPROVEMENTS; AUTHORIZING
 - THE FORM AND EXECUTION OF THE LOAN AGREEMENT AND A
 - GOVERNMENTAL AGENCY BOND TO EVIDENCE SUCH LOAN; DELEGATING
+
+## [la-junta#13] 2026-11-09 | Historic Preservation Board | agenda
+- A. October Public Outreach Event (Discussion)

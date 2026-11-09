@@ -1,115 +1,99 @@
 - title: 180-day data center moratorium
-  summary: Council took up an ordinance pausing acceptance, processing or approval of permits, licenses, zoning or other land use applications where a data center is a proposed use. It was introduced Oct. 6 for 180 days and came back in amended form for final consideration on Oct. 20.
+  summary: Council took up an ordinance pausing acceptance, processing or approval of permits, licenses, zoning or other land use applications where a data center is a proposed use. It had initial consideration on Oct. 6 and an amended version came up for final consideration on Oct. 20.
   where: Citywide
   refs:
-  - 8
-  - 10
+  - 7
+  - 9
   topics:
   - Data centers
   - Zoning & development
   tags:
   - data-center
-- title: Case Farms zoning map amendment (232 acres)
-  summary: Council held a public hearing on a zoning change for about 232 acres of the Case Farms PUD, to R-2 and open space and parks zoning. The ordinance came back for further consideration on Sept. 1.
-  where: Case Farms PUD
+- title: Case Farms PUD rezoning (232 acres)
+  summary: Council held a public hearing and first reading on a zoning map amendment moving about 232 acres from Case Farms PUD to R-2 and open space and parks zoning. The Planning Commission had already acted on it (Resolution 26-09), and it returned on Sept. 1.
+  where: Case Farms, Brighton
   refs:
-  - 2
-  - 5
+  - 1
+  - 4
   topics:
   - Zoning & development
   - Housing
   - Parks & open space
-- title: 2027-2028 budget, mill levy, fees and 2026 budget amendments
-  summary: Council reviewed the proposed 2027 and 2028 budgets and a Q2 2026 financial update in August. A 2027 rate and fee proposal followed on Sept. 8, and a third amendment to the 2026 budget was heard Oct. 6. The Oct. 20 agenda lists the 2027 budget, mill levy and fees.
-  where: Citywide
-  refs:
-  - 4
-  - 6
-  - 8
-  - 10
-  topics:
-  - Budget & taxes
-  - Fees & rates
-- title: Water revenue refunding bonds and 2016 bond refunding
-  summary: Council reviewed refunding the 2016 revenue bonds, then considered the Water Activity Enterprise Revenue Refunding Bonds, Series 2026. The bond ordinance had initial consideration Sept. 15 and final consideration Oct. 6.
-  where: Citywide
+- title: Bromley Park PUD 38th and 39th amendments
+  summary: Council heard the Bromley Park PUD 38th Amendment near the I-76 frontage road and North 60th Avenue on Sept. 15 and Oct. 6, with an ordinance on Oct. 20. A 39th Amendment covering about 5.92 acres on Bromley Business Parkway near the BNSF railroad also came up Oct. 20.
+  where: I-76 Frontage Road and North 60th Avenue; Bromley Business Parkway
   refs:
   - 6
   - 7
-  - 8
-  topics:
-  - Budget & taxes
-  - Water
-  - Utilities
-- title: Bromley Park PUD amendments (38th and 39th)
-  summary: Council considered the Bromley Park PUD 38th Amendment for land near the I-76 frontage road and North 60th Avenue, hearing it Sept. 15 and Oct. 6 before an ordinance on Oct. 20. A 39th amendment for about 5.92 acres near Bromley Business Parkway and the BNSF railroad also had a hearing Oct. 20.
-  where: I-76 frontage road and North 60th Avenue; Bromley Business Parkway
-  refs:
-  - 7
-  - 8
-  - 10
+  - 9
   topics:
   - Zoning & development
   - Economic development
-- title: Land Use and Development Code changes, floodplain rules and Bridge Street land
-  summary: 'Council worked on Land Use and Development Code amendments: Articles 1 and 11 on administration (hearing Sept. 15, then Oct. 6) and Article 10 floodplain rules (Oct. 20). It also discussed a Comprehensive Plan 80% draft and land use scenarios for city-owned property on Bridge Street.'
+- title: 2027-2028 budget, mill levy and 2027 fees
+  summary: Council reviewed the proposed 2027 and 2028 budgets and a Q2 2026 financial update in August. A 2027 rate and fee proposal followed in September, and the 2027 budget, mill levy and fees were on the Oct. 20 agenda. A third 2026 budget amendment was heard Oct. 6.
+  where: Citywide
+  refs:
+  - 3
+  - 5
+  - 7
+  - 9
+  topics:
+  - Budget & taxes
+  - Fees & rates
+- title: Comprehensive Plan and land use code rewrite
+  summary: Council reviewed the 80% draft of the Comprehensive Plan, land use scenarios for city-owned property on Bridge Street, and amendments to Land Use and Development Code Articles 1, 10 and 11. Articles 1 and 11 went to public hearing Sept. 15 and Oct. 6. Floodplain amendments to Section 10.02 followed Oct. 20.
   where: Citywide; Bridge Street
   refs:
-  - 1
+  - 0
+  - 6
   - 7
-  - 8
-  - 10
+  - 9
   topics:
   - Zoning & development
   - Land & property
-  - Environment & climate
-- title: North 40th Avenue construction and 27J agreement
-  summary: Council considered a roughly $2.7 million contract for building the North 40th Avenue roadway segment. It also considered an intergovernmental agreement with School District 27J covering a regional detention pond, easements and maintenance.
-  where: North 40th Avenue
-  refs:
-  - 0
-  topics:
-  - Roads & traffic
-  - Schools & youth
-- title: Lawsuit over contaminated city drinking water well
-  summary: Council approved filing an amended complaint to add defendants in litigation over contamination of a city drinking water well. The resolution also covers filings in opioid litigation.
+- title: 'Water system: bond refunding, chemicals and well contamination lawsuit'
+  summary: Council considered refunding the 2016 water revenue bonds with Series 2026 refunding bonds. It also awarded master price agreements for water treatment chemicals to Univar and PVS DX. On Oct. 6 it approved filing an amended complaint adding defendants in a case over contamination of a city drinking water well.
   where: Citywide
   refs:
-  - 8
+  - 5
+  - 6
+  - 7
   topics:
+  - Water
   - Lawsuits & legal
-  - Water
-- title: Police JAG grant and Flock cameras
-  summary: Council reviewed accepting an Edward Byrne Memorial JAG grant and authorizing the police chief to sign it and other public safety grants. Attached presentations reference Flock.
-  where: Citywide
-  refs:
-  - 6
-  - 7
-  topics:
-  - Policing & public safety
-- title: Water treatment chemical supply contracts
-  summary: Council reviewed and then approved master price agreements for water treatment plant chemicals, with awards to Univar Solutions USA and PVS DX.
-  where: Water treatment plant
-  refs:
-  - 6
-  - 7
-  topics:
-  - Water
-  - Utilities
-- title: Lupton Meadows reservoir and Cherry Meadows pond maintenance
-  summary: Council reviewed Cherry Meadows pond maintenance and the Lupton Meadows reservoir design project. It considered Change Order No. 3 with Engineering Analytics for the reservoir design.
+  - Budget & taxes
+- title: Lupton Meadows reservoir and Cherry Meadows pond work
+  summary: Council reviewed Cherry Meadows pond maintenance and the Lupton Meadows reservoir design in study session. It then considered Change Order No. 3 with Engineering Analytics for the Lupton Meadow Reservoir design project.
   where: Lupton Meadows; Cherry Meadows
   refs:
+  - 8
   - 9
-  - 10
   topics:
   - Water
   - Parks & open space
-- title: Prairie Center Metropolitan District No. 7 service plan amendment
-  summary: Council held a public hearing on a second amendment to the service plan for Prairie Center Metropolitan District No. 7.
-  where: Prairie Center Metropolitan District No. 7
+- title: Police JAG grant and Flock
+  summary: Council considered accepting an Edward Byrne Memorial JAG grant and authorizing the police chief to sign it and other public safety grant agreements. Attached materials refer to Flock.
+  where: Citywide
   refs:
-  - 0
+  - 5
+  - 6
   topics:
-  - Zoning & development
+  - Policing & public safety
+- title: Board and commission appointment policy and Sustainability Board changes
+  summary: Council revised its policy on interviewing and appointing members of city boards and commissions. An ordinance amending Sustainability Board membership also moved forward in August and September.
+  where: Citywide
+  refs:
+  - 1
+  - 4
+  - 5
+  - 6
+  topics:
+  - Government operations
+- title: South Brighton GID ballot content
+  summary: The South Brighton General Improvement District considered a resolution to certify ballot content for an election.
+  where: South Brighton
+  refs:
+  - 2
+  topics:
+  - Elections
   - Budget & taxes

@@ -1,16 +1,6 @@
 # hugo
 
-## [hugo#0] 2025-11-03 | City Council | agenda
-- PUBLIC COMMENT: Citizens may address the board on items that are not on the agenda. Items of a
-- personal nature may not be discussed; personnel-related matters shall be directed through the
-- staff should be expected to engage in discussions or debate with any speaker. The board may direct staff
-- 1. Greg Etl with DOLA and Dannah Koeniger, P.E. with GMS to discuss optimizing funding
-- opportunities and strategic planning for infrastructure repairs
-- 2. Anthem Health Insurance update with Lincon Health and 2026 Rates
-- a. Review Possible Trench Box Purchase
-- c. Discussion of Open Public Works Director Position
-
-## [hugo#1] 2025-11-10 | City Council | minutes
+## [hugo#0] 2025-11-10 | City Council | minutes
 - A motion was made by Trustee Messer and a second was made by Trustee Mohan to approve the agenda. THE
 - 2024 AUDIT PRESENTATION:
 - Troy McCue with Lincoln County Economic Development presented the monthly report highlighting Rural
@@ -31,18 +21,18 @@
 - We have a community meeting tomorrow night to possibly add a 1% sales tax for the pool and Culture and
 - Trustee Piper discussed that we need to discuss a dog catcher during the next budget meeting
 
-## [hugo#2] 2025-11-12 | City Council | agenda
+## [hugo#1] 2025-11-12 | City Council | agenda
 - PUBLIC COMMENT: Citizens may address the board on items that are not on the agenda. Items of a
 - personal nature may not be discussed; personnel-related matters shall be directed through the
 - staff should be expected to engage in discussions or debate with any speaker. The board may direct staff
 - 1. Discussion with the community on possible sales tax initiatives and opportunities for the pool,
 - culture and recreation and capital improvements for the Town of Hugo
 
-## [hugo#3] 2025-11-17 | City Council | minutes
+## [hugo#2] 2025-11-17 | City Council | minutes
 - A motion was made by Trustee Messer and a second was made by Trustee Ehlers to deny adding the Hugo Fire
 - Department driveway back into the CDOT Sidewalk Project. THE MOTION CARRIED UNANIMOUSLY
 
-## [hugo#4] 2025-12-08 | City Council | minutes
+## [hugo#3] 2025-12-08 | City Council | minutes
 - A motion was made by Trustee Messer and a second was made by Trustee Mohan to approve the agenda. THE
 - Troy McCue with Lincoln County Economic Development presented the monthly report highlighting Rural
 - Philanthropy Dyas July 8-10, 2026, Opportunity Zone 2.0, affordable housing with a possible “mini-center” for
@@ -70,14 +60,14 @@
 - of Hugo, Colorado Summarizing Expenditures and Revenues for each Fund and Adopting an Amended Budget
 - for the Town of Hugo, Colorado for the 2025 Budget Year and Appropriating Sums of Money to the Various
 
-## [hugo#5] 2026-01-06 | City Council | agenda
+## [hugo#4] 2026-01-06 | City Council | agenda
 - PUBLIC COMMENT: Individuals may address the board on items that are not on the agenda. Items
 - of a personal nature may not be discussed; personnel-related matters shall be directed through the
 - staff should be expected to engage in discussions or debate with any speaker. The board may direct staff
 - 1. Ballot Issue #2 – Additional 1% sales tax for culture, recreation and pool
 - 2. Ordinance Updates – Discussion on existing ordinances, proposed revisions and the process of
 
-## [hugo#6] 2026-01-12 | City Council | minutes
+## [hugo#5] 2026-01-12 | City Council | minutes
 - A motion was made by Trustee Messer and a second was made by Trustee Emmerling to approve the agenda
 - Audrey Sayles with Some Girls and a Mural discussed possibilities for a mural on Town Hall
 - Troy McCue with Lincoln County Economic Development presented the monthly report highlighting Rural
@@ -106,7 +96,7 @@
 - the lift station at the Roundhouse estates had been ordered and reviewed the GMS memo with project updates
 - Mayor Emmerling discussed nomination petitions, stated that the guard rails on 7 th look very nice, we need to
 
-## [hugo#7] 2026-02-09 | City Council | minutes
+## [hugo#6] 2026-02-09 | City Council | minutes
 - A motion was made by Trustee Piper and a second was made by Trustee Messer to approve the agenda with the
 - A motion was made by Trustee Messer and a second was made by Trustee Mohan to approve the Korinek
 - Audrey Sayles with Some Girls and a Mural reviewed the mural options for Town Hall and gave possible grant
@@ -122,7 +112,7 @@
 - Trustee Emmerling was unaware the Wildfire Resiliency Code would affect us until right before it needed to be
 - Trustee Thelen commented that the activity at Farrel-Hines park is picking up. There were even people playing
 
-## [hugo#8] 2026-03-09 | City Council | minutes
+## [hugo#7] 2026-03-09 | City Council | minutes
 - A motion was made by Trustee Piper and a second was made by Trustee Messer to approve the agenda . THE
 - Scott Poss and Mark Allis presented the proposed plan for the new firehouse . They reviewed the current and
 - Troy McCue with Lincoln County Economic Development presented the monthly report highlighting Rural
@@ -151,7 +141,7 @@
 - Regarding the Maximum Penalty for Ordinance and Code Violations . THE MOTION CARRIED
 - A motion was made by Trustee Mohan and a second was made by Trustee Ehlers to approve the February 9, 2026
 
-## [hugo#9] 2026-04-13 | City Council | minutes
+## [hugo#8] 2026-04-13 | City Council | minutes
 - Zwick, Phil Howerton, Krista Jacobson, Randy Hendrix, Grant Hall, and Roy Cue
 - A motion was made by Trustee Piper and a second was made by Trustee Emmerling to approve the agenda. THE
 - Manager Roy Cue and Engineer Randy Hendrix with Lower Arkansas Water Management Association
@@ -183,7 +173,7 @@
 - A motion was made by Trustee Messer and a second was made by Trustee Ehlers to approve Resolution 2026
 - 05, a Resolution of the Board of Trustees of the Town of Hugo, Colorado Approving Declaring an Emergency
 
-## [hugo#10] 2026-05-11 | City Council | minutes
+## [hugo#9] 2026-05-11 | City Council | minutes
 - A motion was made by Trustee Mohan and a second was made by Trustee Piper to approve the agenda. THE
 - PUBLIC COMMENT:
 - Hospital Week, Lincoln Health is hosting “The Thank You Project” this month, the Rural Hospital Revitalization
@@ -205,20 +195,20 @@
 - radar that we are still reviewing the tire, trash and junk ordinances. Thank you to the Town staff for the water
 - Trustee Emmerling asked how the water tower repair went and it was reported it was the best case scenario
 
-## [hugo#11] 2026-05-26 | City Council | minutes
+## [hugo#10] 2026-05-26 | City Council | minutes
 - A motion was made by Trustee Emmerling and a second was made by Trustee Mohan to approve the agenda with
 - the amendment of removing item 6.3. THE MOTION CARRIED UNANIMOUSLY
 - A motion was made by Trustee Mohan and a second was made by Trustee Boyd to approve Ordinance 300, An
 - Ordinance of the Board of Trustees of the Town of Hugo, Colorado Repealing and Replacing Ordinance 298
 - Authorizing Restrictions on Water Usage. THE MOTION CARRIED UNANIMOUSLY
 
-## [hugo#12] 2026-06-01 | City Council | agenda
+## [hugo#11] 2026-06-01 | City Council | agenda
 - PUBLIC COMMENT: Individuals may address the board on items that are not on the agenda. Items
 - of a personal nature may not be discussed; personnel-related matters shall be directed through the
 - staff should be expected to engage in discussions or debate with any speaker. The board may direct staff
 - 1. Discussion and Board Training Presentation by . Nik Cotton-Baez with CIRSA regarding
 
-## [hugo#13] 2026-06-08 | City Council | minutes
+## [hugo#12] 2026-06-08 | City Council | minutes
 - A motion was made by Trustee Piper and a second was made by Trustee Mohan to approve the agenda. THE
 - Troy McCue with Lincoln County Economic Development presented the monthly report highlighting Rural
 - new housing, he heard good feedback from Sam White from highlighting The Main Boutique on the LCEDC
@@ -245,7 +235,7 @@
 - someone is violating water restrictions she calls them to inform them of the restrictions, water usage has not
 - decreased by much and we will calculate a projected average at the end of June , with the projected average staff
 
-## [hugo#14] 2026-07-09 | City Council | minutes
+## [hugo#13] 2026-07-09 | City Council | minutes
 - A motion was made by Trustee Emmerling and a second was made by Trustee Mohan to approve the agenda
 - A motion was made by Trustee Thelen and a second was made by Trustee Mohan to approve Ordinance 301, an
 - Ordinance of the Board of Trustees of the Town of Hugo, Colorado Approving the Disconnection of Certain
@@ -275,7 +265,7 @@
 - A motion was made by Trustee Piper and a second was made by Trustee Mohan to approve the June 8, 2026,
 - We have a Board Retreat with Colorado Main Street on August 17 from 4pm-6pm. This meeting will determine
 
-## [hugo#15] 2026-07-20 | City Council | minutes
+## [hugo#14] 2026-07-20 | City Council | minutes
 - A motion was made by Trustee Mohan and a second was made by Trustee Emmerling to approve the agenda
 - PUBLIC COMMENT:
 - Tom Lee spoke about not changing the water restrictions to water three days in a row. The soil here packs and we
@@ -284,7 +274,7 @@
 - Hours and Days for Watering During a Level One Restricted Water Usage Period . Those voting in favor were
 - Trustee Emmerling believes we should post the water usage after we have July’s reading
 
-## [hugo#16] 2026-08-11 | City Council | minutes
+## [hugo#15] 2026-08-11 | City Council | minutes
 - A motion was made by Trustee Emmerling and a second was made by Trustee Mohan to approve the agenda with
 - Scott Thomas and Peter Huisman with Colorado Rural Water Association (CRWA) reviewed the state Backflow
 - identified many businesses were not inventoried. They stated that the program has been in effect since 2016 and
@@ -312,7 +302,7 @@
 - A motion was made by Trustee Thelen and a second was made by Trustee Mohan to approve the GMS sewer
 - A motion was made by Trustee Emmerling and a second was made by Trustee Ehlers to approve the GMS CDBG
 
-## [hugo#17] 2026-09-16 | City Council | minutes
+## [hugo#16] 2026-09-16 | City Council | minutes
 - A motion was made by Trustee Emmerling and a second was made by Trustee Piper to approve the agenda. THE
 - Troy McCue with Lincoln County Economic Development presented the monthly report highlighting Hugo Main
 - Street meeting on September 21, Opportunity Zone 2.0 of which part of Lincoln County is in the map, waiting on
@@ -341,7 +331,7 @@
 - abandoned and dilapidated building ordinances. We will work with Willdan on other ordinance updates
 - The Strategic Plan draft will be reviewed more at the first budget workshop
 
-## [hugo#19] 2026-10-13 | City Council | agenda
+## [hugo#18] 2026-10-13 | City Council | agenda
 - 5. PUBLIC COMMENT: Individuals may address the board during Public Comment. Items of a
 - personal nature may not be discussed; personnel-related matters shall be directed through the
 - town staff should be expected to engage in discussions or debate with any speaker. The board may
@@ -371,8 +361,41 @@
 - 8.5 Main Street Live – The Geotech and survey are in progress
 - 8.7 Water Restrictions – Water restrictions lifted October 1
 
-## [hugo#20] 2026-10-19 | City Council | agenda
+## [hugo#19] 2026-10-19 | City Council | agenda
 - PUBLIC COMMENT: Individuals may address the board during Public Comment. Items of a personal
 - nature may not be discussed; personnel-related matters shall be directed through the appropriate chain of
 - to engage in discussions or debate with any speaker. The board may direct staff to follow up with certain
 - 1. 2027 Budget Review and Workshop
+
+## [hugo#20] 2026-11-09 | City Council | agenda
+- 5. PUBLIC COMMENT: Individuals may address the board during Public Comment. Items of a
+- personal nature may not be discussed; personnel-related matters shall be directed through the
+- town staff should be expected to engage in discussions or debate with any speaker. The board may
+- 6.2 Lincoln County Economic Development Report
+- 7.1 DacraTech Photo Radar Presentation
+- 7.2 Resolution 2026-16: PHOTO RADAR A Resolution of the Board of Trustees of the Town of
+- Hugo, Colorado Repealing Resolution 2026-04 and Approving an Agreement with DacraTech LLC
+- 7.3 Resolution 2026-17: A Resolution of the Board of Trustees of the Town of Hugo, Colorado
+- Acting by and Through the Town of Hugo Sewer Enterprise, Approving a Principal Forgiveness
+- Loan from the Colorado Water Resources and Power Development Authority; Authorizing the form
+- and Execution of the Loan Agreement and a Governmental Agency Bond to Evidence Such Loan;
+- 7.4 Resolution 2026-18: A Resolution of the Board of Trustees of the Town of Hugo, Colorado
+- Acting by and Through the Town of Hugo Sewer Enterprise, Approving a loan Between the
+- Colorado Water and Power Development Authority and the Town of Hugo Sewer Enterprise in the
+- Principal Amount of not to Exceed $1,559,900.00 for Purpose of Financing Improvements to the
+- Town of Hugo Sewer Facilities; Authorizing the form and Execution of a Loan Agreement and a
+- Governmental Agency Bond Evidencing the Loan; Providing that the Governmental Agency Bond
+- Shall be Payable Only from Revenues of the Sewer System; and Prescribing Other Details in
+- 7.5 VFW Liquor License Renewal Application: Review of RFP with presentation and possible
+- 7.6 Mature CD’s. List out CD renewals – do spreadsheet with interest rates like before
+- Motion to reopen the matured Sewer Fund 6 Month CD at _________ for __ months
+- Motion to reopen the matured Sewer Debt Reserve 6 Month CD at ________ for __months
+- Motion to reopen the matured Water Fund 6 Month CD at _________ for __ months
+- Motion to reopen the matured Sales & Use Tax Fund 24 Month CD at ____ for __ months
+- 7.7 Approval of Minutes: Possible approval/denial of the October 13, 2026, minutes
+- 8.1 Hugo Main Street – At the October 21 meeting five members of the steering committee were
+- painting the wood carvings in the Railroad Park November 14. Colorado Main Street is setting a
+- 8.2 Ordinance Review – Staff submitted the Local Planning Capacity Grant for the Hugo
+- Abandoned and Deteriorated Property Ordinance Update. We will work with Willdan on possible
+- updates to other ordinances
+- 8.4 Strategic Plan – We will review the draft during the November 30 budget workshop

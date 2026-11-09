@@ -205,16 +205,16 @@
 - new ordinance is needed to re-authorize given the extended timeframe
 -  District voters previously approved the issuance of debt and imposition of taxes
 
-## [timnath#6] 2026-10-24 | Timnath Town Council Quorum Notice | agenda
+## [timnath#5] 2026-10-24 | Timnath Town Council Quorum Notice | agenda
 - 4500 Weitzel Street, Timnath, Colorado
 
-## [timnath#7] 2026-10-24 | Timnath Planning Commission | agenda
+## [timnath#6] 2026-10-24 | Timnath Planning Commission | agenda
 - 4500 Weitzel Street, Timnath, Colorado
 
-## [timnath#8] 2026-10-27 | Timnath Town Council Work Session | agenda
+## [timnath#7] 2026-10-27 | Timnath Town Council Work Session | agenda
 - 2.a. 2027 Budget Work Session
 
-## [timnath#9] 2026-10-27 | Timnath Landing General Improvement District Board | agenda
+## [timnath#8] 2026-10-27 | Timnath Landing General Improvement District Board | agenda
 - Timnath Landing General Improvement
 - 2. AMENDMENTS TO THE AGENDA
 - 3. PUBLIC COMMENT
@@ -261,63 +261,56 @@
 -  The ordinance authorizes two series of bonds (2026A and 2026B) to fund public
 - improvements, reimburse the developer, and cover issuance costs. This
 
-## [timnath#10] 2026-10-27 | Timnath Town Council | agenda
+## [timnath#9] 2026-10-30 | Timnath Town Council Quorum Notice | agenda
+- 3909 Main Street, Timnath, Colorado
+
+## [timnath#10] 2026-10-30 | Timnath Planning Commission | agenda
+- 3909 Main Street, Timnath, Colorado
+
+## [timnath#11] 2026-11-03 | Timnath Planning Commission | agenda
 - 2. AMENDMENTS TO THE AGENDA
-- 3. PUBLIC COMMENT
--  Each speaker will be allowed to speak one time during public comment for general and
-- non-public hearing agenda items. General public comment should not be used to
-- speak on an item that has a public hearing
-- two items scheduled for a public hearing, they should sign up for both items
-- discussion or for public hearings
--  The consent agenda is used to approve several action items as a group with one vote
--  Any council member may request that an item be removed from the consent agenda
-- for further discussion
-- 4.a. Approval of the October 13, 2026, Town Council Meeting Minutes
-- Public Comments
-- 4.b. RESOLUTION NO. 62, SERIES 2026, A Resolution Approving the
-- Construction Contract with Noraa Concrete Construction Corporation for
-- Purchase Authorization
-- Draft Contract
-- 4.c. RESOLUNTION NO. 63, SERIES 2026, A Resolution Approving the 72 - 132
-- Agreement with Gerald H. Phipps, Inc. DBA GH Phipps Construction
-- Company for the Timnath Town Center Expansion Project
-- Agreement Draft
-- 4.d. RESOLUTION NO. 64, SERIES 2026, A Resolution Approving the
-- Ladera Business Improvement District’s Amendment to 2026 Budget
-- 2026 Amended Budget for Ladera BID General Fund
-- 4.e. RESOLUTION NO. 65, SERIES 2026, A Resolution Approving the
-- Ladera Business Improvement District’s 2027 Operating Plan and
-- 2027 Ladera BID Operating Plan and Budget
-- 5.d. Parks and Recreation Report
-- 5.e. Police Department Report
-- Timnath Parkway Project Update - October 2026
-- October 2026 Safety Action Plan
-- 6. PUBLIC HEARINGS
-- The method of discussion for the items below are as follows:
--  Mayor introduced the item and calls for a public hearing
--  Staff presentation (optional)
--  Applicant presentation (if applicable)
--  Mayor requests public comment on the item (three minute limit for each person,
--  Council discussion
-- 6.a. ORDINANCE NO. 16, SERIES 2026, An Ordinance Amending
-- Municipal Code to Add Prohibition on New On-Site Wastewater
-- Treatment Systems and Graywater Treatment Works
-- 6.b. ORDINANCE NO. 17, SERIES 2026, An Ordinance Adopting
-- Amendment 25 to the Timnath Land Use Code, which has been
-- Larimer County Flood Insurance Rate Maps and Flood Insurance Study
-- 6.c. ORDINANCE NO. 18, SERIES 2026, An Ordinance Adopting
-- Amendment 26 to the Timnath Land Use Code, which has been
-- STAFF: Town Manager Aaron Adams, Contracted Town Attorney Carolyn Steffl,
-- Finance Director Lisa Gagliardi, Accounting Manager Abbey Irvine, Police
-- Development Director Scott Robinson, Senior Planner Chad Kemper,
-- Parks and Rec Director Tom Casal, Callie Hoppe Special Events
+- 4. PUBLIC COMMENT
+- Public Comment is a time for the Public to address the Planning Commission
+- Approval of the October 6, 2026 Meeting Minutes
+- 6.a.  Council disposition of prohibition on wastewater and graywater
+-  Council disposition on Land Use Code amendment regarding
+- Larimer County Flood Insurance Rate Maps and Flood Insurance
+-  Council disposition on Land Use Code amendments regarding
+- neighborhood meeting notifications, subdivision procedures,
+- administrative plat provisions and permitted fencing materials
+- 7.a. Draft Comprehensive Plan
+- Timnath Comprehensive Plan Working Draft
+- 8. PUBLIC HEARINGS
+- Mr. Scott Robinson, Community Development Director
+- 2 AMENDMENTS TO THE AGENDA
+- a) Chairperson Goldstein amended the agenda to insert an Updates section as
+- Item 6, renumbering the subsequent Business and Public Hearing items to 7
+- 4 PUBLIC COMMENT
+- Public Comment is a time for the Public to address the Planning Commission on any
+- a) No public comments were received
+- Approval of the September 15, 2026 Meeting Minutes
+- a) A motion to approve the May 5, 2026 Meeting Minutes was made by
+- a) Chairperson Goldstein led a review of items previously considered by the
+- Noxious Weed Advisory Board: Town Council formally approved the Planning
+- Willis Farm Light Industrial Development: The project is dormant. A
+- preliminary plat had been submitted and is under review, though conversations
+- have stalled. Staff noted the sketch plan approval may have a timing
+- Harmony Car Wash (Secondary Building): The previously approved site plan
+- has expired. Staff has notified the applicant that a resubmittal is required for the
+- minor items required prior to pulling a building permit. A pool construction
+- contract has been issued
+- Timnath Ranch South Housing/Commercial: Staff is coordinating with the
+- developer to advance the project to the platting stage
+- a) Costco Fuel Facility Expansion Site Plan
+- Ms. Lindsey Jones presented a site plan application for the expansion of the
+- existing Costco fuel facility at 4665 Weitzel Street. The proposal expands the
+- fuel canopy from approximately 3,884 to 10,216 square feet, adds four new
+- positions from 16 to 32. The project also includes a new electrical transformer,
+- Council previously approved a waiver increasing the maximum impervious
+- replaced, and bluegrass turf will be converted to water-wise landscaping. No
+- Commission discussion focused on traffic circulation changes, specifically the
+- Weitzel Street and the extension of the median to eliminate unsafe southbound
+- Staff recommended approval with the standard condition allowing minor, non
 
-## [timnath#11] 2026-10-30 | Timnath Town Council Quorum Notice | agenda
-- 3909 Main Street, Timnath, Colorado
-
-## [timnath#12] 2026-10-30 | Timnath Planning Commission | agenda
-- 3909 Main Street, Timnath, Colorado
-
-## [timnath#13] 2026-10-30 | Timnath Town Council | agenda
-- subject to negotiations, developing strategy for negotiations, and
-- 3.a. If needed, discussion of Timnath Elementary and School Funding
+## [timnath#12] 2026-11-04 | Timnath Town Council | agenda
+- discussion of personnel matters related to the Town Manager, including
