@@ -468,3 +468,39 @@
 - 11.1 Rescheduling Trustee Interviews and Appointment: The Board decided to
 - reschedule the trustee candidate interviews and appointment to the November 23, 2026
 - 12. FUTURE AGENDA ITEMS / BOARD PARKING LOT
+
+## [dolores#17] 2026-11-09 | City Council | minutes
+- 4. APPROVAL OF THE AGENDA
+- Mayor Pro Tem Chris Curry moved to approve the agenda. Trustee Marie Roan seconded
+- Trustee Josh Maule moved to approve the Consent Agenda, including the October 26, 2026
+- 8. PUBLIC COMMENT
+- Rachel Ashmore and her neighbor Jay described excess water affecting their properties
+- during the rain event and identified areas they believed could be improved. Photographs
+- meeting packet under public comment
+- Rachel Vass separately thanked the maintenance team and asked the Board to
+- consider community priorities regarding the Community Center
+- Claire Martini recommended developing an after-action plan concerning the rain event
+- had reviewed the Sheriff’s contract and was working on the Atmos contract
+- event cleanup. He also reported that Mancos remained under a boil-water order and
+- that one road remained closed
+- 9.8 Planning and Zoning Report: A written report was included in the agenda packet
+- 10.2 Mayor Pro Tem Curry encouraged residents to follow Planning and Zoning and the
+- Comprehensive Plan process
+- 10.6 Trustee Roan asked about Montezuma Search and Rescue’s request to use Town
+- 11. QUASI-JUDICIAL / ORDINANCES
+- 11.1 Ordinance No. 594, Series 2026 — Second Reading and Public Hearing: The public
+- hearing opened at 6:38 p.m. Building Official Ryan Greene reviewed the ordinance
+- public comment, Val Truelson asked whether the new code would require triple-pane
+- windows; the answer was no. The public hearing closed at 6:43 p.m
+- Mayor Pro Tem Chris Curry moved to approve Ordinance No. 594, Series 2026, on
+- 12. DISCUSSION / POSSIBLE ACTION ITEMS
+- 12.1 Resolution No. 727, Series 2026 — Allocation to Montezuma County Senior
+- Services: Trustee Marie Roan moved to approve Resolution No. 727. Trustee Derek
+- 12.2 Resolution No. 728, Series 2026 — 2027 Montezuma County Sheriff’s Contract:
+- Trustee Josh Maule moved to approve Resolution No. 728. Trustee Marie Roan
+- 12.3 Resolution No. 729, Series 2026 — Appointment of Leigh Reeves to Region 9:
+- Trustee Derek Beckman moved to approve Resolution No. 729. Mayor Pro Tem Chris
+- 13.1 Budget Update: The Board had no questions regarding the budget update
+- 14. FUTURE AGENDA ITEMS / BOARD PARKING LOT
+- list. Flock cameras and the Search and Rescue property request were removed. Town Manager
+- Reeves stated that the Fast Track Resolution would be on the November 23, 2026 agenda

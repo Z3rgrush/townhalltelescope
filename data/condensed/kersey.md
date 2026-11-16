@@ -1,20 +1,6 @@
 # kersey
 
-## [kersey#0] 2026-08-11 | City Council | minutes
-- The Kersey Board of Trustees met in a regular meeting on Tuesday, August 11, 2026, at Kersey Town Hall, 446 1st Street. Mayor Nathan Roth at approximately 6:05 p.m. called the meeting to order. Trustees present were Cody Meeker, Gary Lagrimanta, Karen Dusin and Brad Joens
-- Town Staff present: Stacy Brown, Town Manager; Haley Curtis, Town Clerk; Danna Ortiz, Town Planner; and Rick Zier, Town Attorney. In the gallery the following staff were present: Jonathan Lange, Police Chief; and Brandon Unruh, Community Development Director
-- Rick Zier, Town Attorney, requested an addition after Item No. 9, if approved, to consider a motion confirming that the item would take effect immediately rather than after 30 days
-- Consideration of Ordinance 2026-0010 An Ordinance Adopting the 2024 International Fire Code and Providing for its Enforcement - First Reading
-- Mayor Roth read the Ordinance aloud
-- Rick Zier, Town Attorney, explained that the ordinance was being introduced on first reading and that, if approved, a public hearing and second reading would be scheduled for the regular Board meeting in September. Final adoption of the ordinance would occur following the second reading, if approved
-- Platte Valley Fire Protection District Fire Chief, Greg Becker, provided a physical copy of the proposed fire code and advised that an electronic version could also be made available for public review. Chief Becker stated that he was available to answer questions from the public regarding the provis
-- Chief Becker explained that adoption would bring the Fire District into alignment with the Town’s previously adopted 2024 International Codes, including the building code, and would provide consistency for new development and construction within the Town. He noted that the
-- Fire District currently operates under the 2018 International Fire Code and generally updates its adopted code approximately every six years. He further explained that newer code provisions address emerging development and safety considerations, including energy storage systems and facilities utiliz
-- ** Per C.R.S requirements, this ordinance will not take effect until after the public hearing and second reading on September 8, 2026, providing that it is approved at that time. **
-- Consideration of Resolution 2026-0015 A Resolution Setting a Public Hearing for Consideration of an Ordinance Adopting the 2024 International Fire Code
-- Town Planner, Danna Ortiz, explained that because the ordinance is being adopted by reference, state law requires both a first and second reading. She stated that the resolution formally schedules the required public hearing and second reading for the Board’s September 8, 2026 meeting
-
-## [kersey#1] 2026-08-25 | City Council | agenda
+## [kersey#0] 2026-08-25 | City Council | agenda
 - Location: Kersey Town Hall 446 First Street, Kersey, Colorado 80644
 - facilitate open discussion, exchange of ideas, and thoughtful consideration of these topics. No formal
 - current topic. Work sessions do not include an official public comment period
@@ -47,7 +33,7 @@
 - Staff are asking for Town Board feedback regarding changes to the Kersey Holiday
 - feedback referenced above
 
-## [kersey#2] 2026-09-08 | City Council | minutes
+## [kersey#1] 2026-09-08 | City Council | minutes
 - Approved – 10/13/2026
 - Town Hall, 446 1st Street. Mayor Nathan Roth at approximately 6:01 p.m. called the meeting to order
 - Town Manager Stacy Brown stated that there was an addition to the agenda, Item C4, Resolution No
@@ -82,7 +68,7 @@
 - Town Manager, Stacy Brown, explained that the resolution updates the Town’s authorized
 - 4. Addition to the Agenda, Consideration of Resolution 2026-0025 A Resolution Concerning
 
-## [kersey#3] 2026-09-22 | City Council | agenda
+## [kersey#2] 2026-09-22 | City Council | agenda
 - Location: Kersey Town Hall 446 First Street, Kersey, Colorado 80644
 - facilitate open discussion, exchange of ideas, and thoughtful consideration of these topics. No formal
 - current topic. Work sessions do not include an official public comment period
@@ -124,7 +110,7 @@
 - infrastructure — water-efficient
 - landscaping, raw water for park
 
-## [kersey#4] 2026-10-13 | City Council | agenda
+## [kersey#3] 2026-10-13 | City Council | agenda
 - Location: Kersey Town Hall 446 First Street, Kersey, Colorado 80644
 - i. Approval of minutes of the September 8, 2026 regular meeting
 - ii. Approval of the paid bills
@@ -161,3 +147,41 @@
 - Mayor Roth read the ordinance aloud
 - 0010 An Ordinance Adopting the 2024 International Fire Code and Providing for its
 - 1. Consideration of Resolution 2026-0022 Awarding the Contract for the Kersey Clark Street
+
+## [kersey#4] 2026-11-10 | City Council | agenda
+- Location: Kersey Town Hall 446 First Street, Kersey, Colorado 80644
+- i. Approval of minutes of the October 13, 2026 regular meeting
+- ii. Approval of the paid bills
+- iii. Approval of the bills to be paid
+- B. PUBLIC HEARING
+- 1. Consideration of Ordinance No. 2026-0013: Kohler Farm P.U.D. Zoning Amendment
+- (P.U.D. Overlay with Industrial (I) Zoning), Lots 1–20 and Outlots N and O
+- 1. Water Rate Increase Options and Potential General Fund Subsidization
+- D. PUBLIC HEARING
+- 1. Consideration of Resolution 2026-0027 A Resolution Summarizing Revenues and
+- Expenditures for Each Fund and Adopting a Budget for the Town of Kersey, Colorado for
+- G. CONSIDERATION
+- Consideration of a motion authorizing the Town Attorney to prepare any required resolutions,
+- agreements, ordinances, policies, letters, and memoranda to reflect action taken by the Town
+- sign all such resolutions, agreements, ordinances, policies, letters, and memoranda
+- Unapproved – 10/22/2026
+- Town Hall, 446 1st Street. Mayor Nathan Roth at approximately 6:01 p.m. called the meeting to order
+- Town Staff present: Stacy Brown, Town Manager; Haley Curtis, Town Clerk; Jonathan Lange, Police
+- Chief; Christopher Cantin, Police Officer; and Rick Zier, Town Attorney
+- Present in the gallery were Fernando Pina, Director of Operations – Streets,
+- Parks, Facilities and Fleet; Kurt Smith, Director of Water and Waste Water; Susie
+- Thielbert, Finance; Brandon Unruh, Director of Community Development; Kaylee
+- Damrell, Interim Recreation Director; and Scott Holmen, Police Officer
+- Julie Piper for her 20 years of dedicated service to the Town of Kersey and celebrate her
+- Bill Cannon – 718 3rd Street Court
+- from the Centennial area. He stated that signs had historically been permitted in that location despite
+- an existing Town ordinance and questioned the consistency of its enforcement. He expressed his
+- belief that the removal of the signs was discriminatory and stated that the ordinance should be
+- Mr. Cannon also addressed the public comment submitted in opposition to Ballot Issue 2B, clarifying
+- rather than accurately reflecting the original submission. He questioned the Town Clerk's handling of
+- Approval of minutes of the September 8, 2026, regular meeting, approval of the paid bills, and
+- approve the consent agenda. Motion carried with a 3-0 vote
+- 1. Preliminary Budget Presentation
+- Town Manager, Stacy Brown, presented the proposed 2027 Budget, noting that the
+- presentation reflected discussions and direction provided by the Board during the September
+- 22, 2026, work session. She explained that the budget was preliminary and would return to the

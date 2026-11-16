@@ -1,68 +1,12 @@
 # broomfield
 
-## [broomfield#0] 2026-08-06 | Fiscal Leadership on Water (FLOW) Advisory Committee | minutes
-- Presentation:
-- Presentation
-
-## [broomfield#1] 2026-08-06 | Library Advisory Board | minutes
-- 2. Public Comment:
-- 3. Approval of Minutes
-- a. David motioned to approve the minutes as presented from the May 2026 meeting
-- i. Memorandums of Understanding and/or Intergovernmental Agreements exist
-- ii. Broomfield operates and supports, with staff funded between CSU and the
-- approved by council and an operational agreement can be updated each
-- rate with 41% being the first time they had heard of it
-- e. Rocky Mountain Naturalist Field Guide development - there is
-- development for in person volunteer training. This is piloted in
-- j. Blake asked if in the future we can have a presentation on Al. A: Yes confirmed
-- v. Our bylaws and our public facing calendar are two separate documents - our bylaws
-- b. Dave Article 1 (B) - We haven't done a master plan to the council
-- i. Kathryn has gone twice with a master plan
-- iii. Kathryn pointed out that the council side asks that officers be appointed at the first
-- a. Updating the comprehensive plan and the transportation mobility plan
-- stakeholder feedback
-- d. The comprehensive plan is the north star - translates the feedback into goals for the
-- e. The mobility plan is the community's movement guide. The plan for transport within the
-- hoping for more notice when servers migrate
-- f. Dana moved to approve the closure calendar
-- h. All approved
-- ii. Demographics discussion - apartments mean younger people, there's also a lot of
-- Current comp plan focuses on affordability of housing
-- Members discussed what they recently read or are currently reading
-- Approved by Blake Unis, Chair
-
-## [broomfield#2] 2026-08-10 | Advisory Committee on Environmental Sustainability (ACES) | minutes
-- Presentation
-
-## [broomfield#3] 2026-08-11 | Regular City Council Meeting | agenda
-- 1B. Review and Approval of Agenda
-- 2C. Presentation and Invitation to the 2026 NatureFest
-- 4. Public Comment
-- 5A. Master Services Agreement Quarterly Report - June 2026
-- 6B. Markel Wottge Open Space Plan Implementation? Agreement (Resolution 2026-39)
-- 6C. Agreement Regarding City Park Channel & Main St Improvements (Resolution No. 2026-84)
-- 6D. Establishing an Electric Vehicle (EV) Charging Stations Fee Structure for Stations on Broomfield Property (Resolution No. 2026-98)
-- 6A. Minutes for Approval
-- 7A. Approving Changes to the Broomfield Code Related to Expired Registrations (Public Hearing and Second Reading for Ordinance No. 2300)
-- 7B. District Attorney's Proposed Resolution for a Potential Ballot Question Regarding the 17th Judicial District DA Term Limits (Resolution No. 2026-85)
-- 7C. Considering a Rail District Station Narrative for Joint Service and Front Range Passenger Rail (Resolutions 2026-86 and 2026-101)
-- 7D. Referring a Lodging Tax Ballot Question to the November 3, 2026 Election (Resolution No. 2026-105)
-- 8. Mayor and Councilmember Requests for Future Action
-
-## [broomfield#4] 2026-08-14 | Broomfield County Transportation Forum | agenda
-- Improvements
-
-## [broomfield#5] 2026-08-18 | City Council Study Session | agenda
-- 3A. Update - Economic and Fiscal Update and Draft Operating and Capital Budgets
-- 3B. Long Range Financial Plan Update
-
-## [broomfield#6] 2026-08-19 | Parks, Recreation and Senior Services Advisory Committee (PRSSAC) | minutes
+## [broomfield#0] 2026-08-19 | Parks, Recreation and Senior Services Advisory Committee (PRSSAC) | minutes
 - Development:
 - Contracting:
 - applications
 - Developments
 
-## [broomfield#7] 2026-08-19 | Neighborhood Board of Adjustment | minutes
+## [broomfield#1] 2026-08-19 | Neighborhood Board of Adjustment | minutes
 - Public Hearing -NBOA Resolution No. Resolution No. 2026-11 Red Leaf Filing No. 1, Lot: 62, Block: 1,
 - Consideration of a variance to reduce the rear yard setback from twenty feet (20') to fourteen feet (14') to
 - accommodate a patio cover was approved by a vote of 6 to 0
@@ -89,7 +33,7 @@
 - feet (25') to eleven feet (11') to accommodate a deck
 - Approved by: 1 /
 
-## [broomfield#8] 2026-08-25 | Regular City Council Meeting | agenda
+## [broomfield#2] 2026-08-25 | Regular City Council Meeting | agenda
 - 1B. Review and Approval of Agenda
 - 2B. Workforce Development Month Proclamation
 - 2C. Scientific and Cultural Facilities District Reauthorization Update
@@ -103,7 +47,7 @@
 - 7C. Code Change Regarding Review Criteria for Site Development Plan Administrative Amendments to Require Public Hearing for Changes that would Reduce or Eliminate Outdoor Recreation Facilities (Ordinance No. 2305 - First Reading)
 - 8. Mayor and Councilmember Requests for Future Action
 
-## [broomfield#9] 2026-08-26 | Pension Committee | agenda
+## [broomfield#3] 2026-08-26 | Pension Committee | agenda
 - TOPICS FOR DISCUSSION
 -  DB Plan Assets
 - Review Action Items & Approve Prior Meeting Minutes
@@ -111,18 +55,15 @@
 - Fee Benchmark
 -  Plan Demographics
 
-## [broomfield#10] 2026-08-31 | Arts, History and Cultural Council | agenda
+## [broomfield#4] 2026-08-31 | Arts, History and Cultural Council | agenda
 - Presentation
 
-## [broomfield#12] 2026-09-03 | Board of Health | agenda
-- Presentation
-
-## [broomfield#13] 2026-09-03 | Fiscal Leadership on Water (FLOW) Advisory Committee | minutes
+## [broomfield#6] 2026-09-03 | Fiscal Leadership on Water (FLOW) Advisory Committee | minutes
 - deteriorated
 - Concentrated
 - Presentation
 
-## [broomfield#14] 2026-09-03 | Library Advisory Board | minutes
+## [broomfield#7] 2026-09-03 | Library Advisory Board | minutes
 - 2. Public Comments - None
 - 3. Approval of Minutes
 - i. Kendra motioned to approve the August 6, 2026 minutes
@@ -153,7 +94,11 @@
 - longer term concern. 2027 Budget is flat
 - / • cL, Approved by David Feineman, Vic( Chair /7~ 1.,.:>--"J ~ ,.,t,.,._ a.__
 
-## [broomfield#15] 2026-09-08 | Regular City Council Meeting | agenda
+## [broomfield#8] 2026-09-03 | Board of Health | minutes
+- Presentation
+- Proposed agenda from Public Health was shared with additional presentation to be determined and full agenda
+
+## [broomfield#9] 2026-09-08 | Regular City Council Meeting | agenda
 - 1B. Review and Approval of Agenda
 - 2A. Update - 2026R and 2027 Proposed Budget
 - 2D. Presentation - Broomfield Days
@@ -170,7 +115,7 @@
 - 7D. Council Appointments to Boards, External Organizations, and Committees - September 2026
 - 8. Mayor and Councilmember Requests for Future Action
 
-## [broomfield#17] 2026-09-14 | Land Use Review Commission | minutes
+## [broomfield#11] 2026-09-14 | Land Use Review Commission | minutes
 - Public Hearing - LURC 2026-13 North Park Filing No. 8 Replat A Final Plat was approved by a vote of 6 to 0
 - Public Hearing - LURC 2026-14 North Park Filing No. 8 Replat A Site Development Plan (Infrastructure) was
 - approved by a vote of 6 to 0
@@ -204,23 +149,23 @@
 - Dong seconded the amended motion
 - Minutes Prepare Approved by:
 
-## [broomfield#18] 2026-09-15 | City Council Study Session | agenda
+## [broomfield#12] 2026-09-15 | City Council Study Session | agenda
 - 3A. Police Department Updates - Specializing in Victim Services
 - 3B. Housing Needs Assessment Update 2026 and Inclusionary Housing Ordinance Status
 
-## [broomfield#19] 2026-09-16 | Neighborhood Board of Adjustment | agenda
+## [broomfield#13] 2026-09-16 | Neighborhood Board of Adjustment | agenda
 - Consideration
 
-## [broomfield#20] 2026-09-16 | Parks, Recreation and Senior Services Advisory Committee (PRSSAC) | agenda
+## [broomfield#14] 2026-09-16 | Parks, Recreation and Senior Services Advisory Committee (PRSSAC) | agenda
 - Developments
 
-## [broomfield#21] 2026-09-17 | Flatiron Improvement District Board | agenda
+## [broomfield#15] 2026-09-17 | Flatiron Improvement District Board | agenda
 - Consideration
 
-## [broomfield#22] 2026-09-17 | City Council Study Session | agenda
+## [broomfield#16] 2026-09-17 | City Council Study Session | agenda
 - 1A. Department Budget Presentations - 1
 
-## [broomfield#23] 2026-09-22 | Regular City Council Meeting | agenda
+## [broomfield#17] 2026-09-22 | Regular City Council Meeting | agenda
 - 1B. Review and Approval of Agenda
 - 2A. Housing Solutions - Youth Presentation
 - 4. Public Comment
@@ -236,13 +181,18 @@
 - 8B. Councilmember Ward’s Request for Future Action regarding Council bringing forward a resolution expressing support for the passage of H.R. 5356, National Infrastructure Bank Act of 2025
 - 8C. Councilmember Ward’s Request for Future Action regarding holding a study session to be presented by Councilmember Ward on Regional Transportation Authorities
 
-## [broomfield#24] 2026-09-24 | City Council Study Session | agenda
+## [broomfield#18] 2026-09-24 | City Council Study Session | agenda
 - 1A. Department Budget Presentations - 2
 
-## [broomfield#25] 2026-09-30 | Local Licensing Authority | agenda
+## [broomfield#19] 2026-09-30 | Local Licensing Authority | agenda
 - Presentation
 
-## [broomfield#29] 2026-10-13 | Regular City Council Meeting | agenda
+## [broomfield#21] 2026-10-01 | Fiscal Leadership on Water (FLOW) Advisory Committee | minutes
+- presentations
+- presentation
+- developments
+
+## [broomfield#23] 2026-10-13 | Regular City Council Meeting | agenda
 - 1B. Review and Approval of Agenda
 - 4. Public Comment
 - 7A. Public Hearing - 2027 Operating and Capital Budgets
@@ -251,11 +201,28 @@
 - 7D. Resolution Supporting H.R. 5356 (Resolution No. 2026-99) and Update on 2026 Ballot Measures
 - 8. Mayor and Councilmember Requests for Future Action
 
-## [broomfield#31] 2026-10-20 | Medical Care Expense Plan Trustees Board | agenda
+## [broomfield#25] 2026-10-20 | Medical Care Expense Plan Trustees Board | agenda
 - Medical Care Expense Plan Trustees Meeting
 - 3 Finalize MCEP benefits, rates and Stop Loss renewal for 2027 15 min
 
-## [broomfield#35] 2026-10-27 | Regular City Council Meeting | agenda
+## [broomfield#28] 2026-10-26 | Land Use Review Commission | minutes
+- October 26, 2026 Public Hearing
+- Public Hearing - Recommendation Regarding Whether the Broomfield Town Square Site Development Plan
+- Should be Revoked was approved by a vote of 5 to 2
+- The minutes and resolutions of the September 14, 2026 Land Use Review Commission meeting were
+- approved by a vote of 7 to 0
+- 5.a Public Hearing -LURC 2026-18 Recommendation Regarding Whether the
+- Broomfield Town Square Site Development Plan Should or Should Not be Revoked
+- Chair Mickelsen opened the public hearing at 6:03 p.m
+- Members of the public requested to speak: Kristin Dunlaevy and Jason S
+- Commissioners' comments, questions and discussion followed
+- Chair Mickelsen closed the public hearing at 8:48 p.m
+- Commissioner Franz moved to recommend no revocation of the Broomfield Town Square Site Development
+- Plan. Commissioner Peterman seconded the motion
+- Town Square Site Development Plan. Commissioner Weiss seconded the motion
+- Minutes Prepared by: Approved by:
+
+## [broomfield#29] 2026-10-27 | Regular City Council Meeting | agenda
 - 1C. Review and Approval of Agenda
 - 4. Public Comment
 - 5B. Master Services Agreement Quarterly Report - Third Quarter 2026
@@ -268,11 +235,28 @@
 - 7G. Proposition 123 Fast Track Review Process (Ordinance No. 2315 First Reading)
 - 8. Mayor and Councilmember Requests for Future Action
 
-## [broomfield#36] 2026-10-28 | Local Licensing Authority | agenda
+## [broomfield#30] 2026-10-28 | Local Licensing Authority | agenda
 - Presentation
 
-## [broomfield#38] 2026-10-29 | Open Space and Trails Advisory Committee (OSTAC) | agenda
+## [broomfield#32] 2026-10-29 | Open Space and Trails Advisory Committee (OSTAC) | agenda
 - Presentation
 
-## [broomfield#39] 2026-10-29 | Parks, Recreation and Senior Services Advisory Committee (PRSSAC) | agenda
+## [broomfield#33] 2026-10-29 | Parks, Recreation and Senior Services Advisory Committee (PRSSAC) | agenda
 - Developments
+
+## [broomfield#39] 2026-11-10 | Regular City Council Meeting | agenda
+- 7D. Electronic Bike Enforcement (Ordinance No. 2311 First Reading)
+- 8A. Councilmember Cohen's Request for Future Action to direct the implementation of 311 as a non-emergency number in Broomfield
+- 1C. Review and Approval of Agenda
+- 4. Public Comment
+- 7B. UCHealth Hospital Development Proposal Final Plat and Site Development Plan (Resolution No. 2026-119)
+- 7C. BURA - UCHealth Hospital Development Proposal Final Plat and Site Development Plan/Urban Renewal Site Plan (Resolution No. 2026-151-UR)
+- 7A. AdventHealth Site Development Plan and Related Infrastructure and Final Plat (Resolution Nos. 2026-116, 2026-117, and 2026-118)
+- 7E. Increasing Broomfield's Lodging Tax (Ordinance No. 2317 First Reading)
+
+## [broomfield#42] 2026-11-16 | Pension Committee | agenda
+- TOPICS FOR DISCUSSION
+- Approve Prior Meeting Minute
+- Plan Allocation by Investment Type
+- Plan Demographics
+- Legislative Amendments

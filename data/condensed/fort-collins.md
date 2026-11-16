@@ -1,23 +1,6 @@
 # fort-collins
 
-## [fort-collins#0] 2026-08-11 | City Council | minutes
-- Eric Keselburg, Sr. Manager, Parking Services
-- Subject: August 11, 2026 Work Session Summary: Downtown Parking Optimization
-- The purpose of this memo is to document the summary of Downtown Parking Optimization
-- Update discussions during the August 11, 2026 Work Session. All Councilmembers were
-- Discussion Summary
-- Council were presented with information about the future of parking and how to continue to
-- that the delay with the College Avenue Waterline gives the City more time to consider
-- alternatives. A paid-parking pilot at the Oak & Remington surface lot was presented as an
-- use of Oak & Remington lot as a “lab” space to pilot paid parking. Other varied pilot options
-- were suggested, including a pilot that would include on-street paid parking. Downtown
-- employee parking solutions continue to be a priority, with more ideas and options desired by
-- Council requested that staff return with revised options for piloting paid parking and employee
-- ideas. Staff will also monitor the operational and fee changes over time and compare them
-- against projections
-- A Code update will be presented to Council, in preparation for a paid on-street pilot
-
-## [fort-collins#1] 2026-08-18 | City Council | minutes
+## [fort-collins#0] 2026-08-18 | City Council | minutes
 - PROCLAMATIONS AND PRESENTATIONS
 - A) PROCLAMATIONS AND PRESENTATIONS
 - Staff report on the Rental Housing Program
@@ -51,7 +34,7 @@
 - This Ordinance, unanimously adopted on First Reading on July 21, 2026, enables the City to
 - matching funds for the North Mason Stormwater project (the “Project”). The funds will be used to
 
-## [fort-collins#2] 2026-08-25 | City Council | minutes
+## [fort-collins#1] 2026-08-25 | City Council | minutes
 - From: Nicole Poncelet-Johnson, One Water Executive Director
 - Subject: August 25, 2026 Work Session Summary: Wholesale Water Agreement with
 - ELCO to Serve the Montava Development
@@ -86,7 +69,7 @@
 - The IWRP will reflect a shift from the past approach of planning for future water supply needs
 - realistic potential futures beyond 2065. This approach to water supply planning will enable more
 
-## [fort-collins#3] 2026-08-27 | Urban Renewal Authority | agenda
+## [fort-collins#2] 2026-08-27 | Urban Renewal Authority | agenda
 - H) DISCUSSION ITEMS
 - The method of debate for discussion items is as follows:
 - Chair introduces the item number and subject; asks if formal presentation will be
@@ -103,7 +86,7 @@
 - Strategy for Negotiations and Instruct Negotiators, and
 - Upon request, the City of Fort Collins will provide language access services for individuals who have
 
-## [fort-collins#4] 2026-08-27 | Urban Renewal Authority | agenda
+## [fort-collins#3] 2026-08-27 | Urban Renewal Authority | agenda
 - H) DISCUSSION ITEMS
 - The method of debate for discussion items is as follows:
 - Chair introduces the item number and subject; asks if formal presentation will be
@@ -139,7 +122,7 @@
 - to the nuisance of the Budget Host Motel and associated trespassing, vandalism, and theft
 - Smith outlined the financial aspects of the project noting it is slated to be right around $1 million
 
-## [fort-collins#5] 2026-09-01 | City Council | minutes
+## [fort-collins#4] 2026-09-01 | City Council | minutes
 - PROCLAMATIONS AND PRESENTATIONS
 - A) PROCLAMATIONS AND PRESENTATIONS
 - Minor amendment to Item No. 26 to correct a scrivener’s error
@@ -174,7 +157,7 @@
 - This Ordinance, unanimously adopted on First Reading on August 18, 2026, transfers previously
 - appropriated Federal American Rescue Plan Act Funding (“ARPA”) funds for the expansion of
 
-## [fort-collins#6] 2026-09-08 | City Council | minutes
+## [fort-collins#5] 2026-09-08 | City Council | minutes
 - Josh Birks, Deputy Director, Community Development and Housing Services
 - From: SeonAh Kendall, Economic Development Director
 - Subject: September 8, 2026 Work Session Summary: Economic Development Investment
@@ -211,7 +194,7 @@
 - Docusign Envelope ID: 488C5D68-FEE6-8A7C-80F1-D58F891B4269
 - nonprofits on this project, with encouragement to host shared dinners to build community
 
-## [fort-collins#7] 2026-09-15 | City Council | minutes
+## [fort-collins#6] 2026-09-15 | City Council | minutes
 - PROCLAMATIONS AND PRESENTATIONS
 - A) PROCLAMATIONS AND PRESENTATIONS
 - One Discussion Agenda item
@@ -246,7 +229,7 @@
 - Grant and HOME Investment Partnership Program Funds
 - A. Second Reading of Ordinance No. liz 2026, Making Supplemental Appropriations of
 
-## [fort-collins#8] 2026-09-15 | City Council Work Session | agenda
+## [fort-collins#7] 2026-09-15 | City Council Work Session | agenda
 - B) ITEMS FOR DISCUSSION
 - 1. 2027-2028 Biennial Budget – Work Session #1
 - The purpose of this item is to review the 2027-2028 Recommended Budget, which was delivered
@@ -255,7 +238,7 @@
 - Upon request, the City of Fort Collins will provide language access services for individuals who have limited
 - Please provide advance notice. Requests for interpretation at a meeting should be made by noon the day
 
-## [fort-collins#9] 2026-09-15 | City Council Work Session | agenda
+## [fort-collins#8] 2026-09-15 | City Council Work Session | agenda
 - B) ITEMS FOR DISCUSSION
 - 1. 2027-2028 Biennial Budget – Work Session #1
 - The purpose of this item is to review the 2027-2028 Recommended Budget, which was delivered
@@ -290,7 +273,7 @@
 - strategic priorities, and input from the community and City Council. As part of the transition away from
 - and needs, and on making deliberate choices about how limited resources should be allocated
 
-## [fort-collins#10] 2026-09-18 | Election Code Committee | agenda
+## [fort-collins#9] 2026-09-18 | Election Code Committee | agenda
 - E) Approval of Minutes
 - 1. Approval of Minutes
 - The purpose of this item is to approve the minutes of the May 15, 2026, Election Code Committee
@@ -302,7 +285,7 @@
 - Upon request, the City of Fort Collins will provide language access services for individuals who have limited
 - assistance. Please provide advance notice. Requests for interpretation at a meeting should be made by
 
-## [fort-collins#11] 2026-09-18 | Election Code Committee | agenda
+## [fort-collins#10] 2026-09-18 | Election Code Committee | agenda
 - E) Approval of Minutes
 - 1. Approval of Minutes
 - The purpose of this item is to approve the minutes of the May 15, 2026, Election Code Committee
@@ -342,7 +325,7 @@
 - establishment of bank accounts for candidates, whether a separate bank account is
 - needed for independent expenditure committees, consideration of raising the independent
 
-## [fort-collins#12] 2026-09-22 | City Council Work Session | agenda
+## [fort-collins#11] 2026-09-22 | City Council Work Session | agenda
 - B) ITEMS FOR DISCUSSION
 - 1. 2027-2028 Biennial Budget – Work Session #2
 - The purpose of this work session is to review the 2027-2028 Recommended Budget, which was
@@ -352,7 +335,7 @@
 - Upon request, the City of Fort Collins will provide language access services for individuals who have limited
 - Please provide advance notice. Requests for interpretation at a meeting should be made by noon the day
 
-## [fort-collins#13] 2026-09-22 | City Council Work Session | agenda
+## [fort-collins#12] 2026-09-22 | City Council Work Session | agenda
 - B) ITEMS FOR DISCUSSION
 - 1. 2027-2028 Biennial Budget – Work Session #2
 - The purpose of this work session is to review the 2027-2028 Recommended Budget, which was
@@ -387,7 +370,7 @@
 - strategic priorities, and input from the community and City Council. As part of the transition away from
 - and needs, and on making deliberate choices about how limited resources should be allocated
 
-## [fort-collins#14] 2026-09-24 | Urban Renewal Authority | agenda
+## [fort-collins#13] 2026-09-24 | Urban Renewal Authority | agenda
 - H) DISCUSSION ITEMS
 - The method of debate for discussion items is as follows:
 - Chair introduces the item number and subject; asks if formal presentation will be
@@ -410,7 +393,7 @@
 - thereby enabling the Authority to secure possession of the property for redevelopment purposes
 - Upon request, the City of Fort Collins will provide language access services for individuals who have
 
-## [fort-collins#15] 2026-09-24 | Urban Renewal Authority | agenda
+## [fort-collins#14] 2026-09-24 | Urban Renewal Authority | agenda
 - H) DISCUSSION ITEMS
 - The method of debate for discussion items is as follows:
 - Chair introduces the item number and subject; asks if formal presentation will be
@@ -446,7 +429,7 @@
 -  Potential Purchase or Acquisition of Real Property Interests, including Eminent Domain,
 - Strategy for Negotiations and Instruct Negotiators, and
 
-## [fort-collins#16] 2026-10-06 | City Council | agenda
+## [fort-collins#15] 2026-10-06 | City Council | agenda
 - PROCLAMATIONS & PRESENTATIONS
 - A) PROCLAMATIONS AND PRESENTATIONS
 - 1. Declaring the Day of October 15, 2026, as Imagine A Day Without Water Day
@@ -482,7 +465,7 @@
 - $17,638.83 of unanticipated grant revenue from the Department of Justice Office of Justice
 - Programs for the Edward Byrne Memorial Justice Assistance Grant Program. The funding will
 
-## [fort-collins#17] 2026-10-06 | City Council | agenda
+## [fort-collins#16] 2026-10-06 | City Council | agenda
 - PROCLAMATIONS & PRESENTATIONS
 - A) PROCLAMATIONS AND PRESENTATIONS
 - 1. Declaring the Day of October 15, 2026, as Imagine A Day Without Water Day
@@ -518,7 +501,7 @@
 - $17,638.83 of unanticipated grant revenue from the Department of Justice Office of Justice
 - Programs for the Edward Byrne Memorial Justice Assistance Grant Program. The funding will
 
-## [fort-collins#18] 2026-10-06 | City Council | agenda
+## [fort-collins#17] 2026-10-06 | City Council | agenda
 - Council minutes are the official record of the meeting and are prepared to be approved by Council generally at
 - its next meeting. Following approval, minutes are posted at this link: Council Minutes
 - PROCLAMATIONS & PRESENTATIONS
@@ -553,7 +536,7 @@
 - All Ordinances Adopted on Second Reading
 - 5. Second Reading of Ordinance No. 129, 2026, Amending the Landmark Designation of the
 
-## [fort-collins#19] 2026-10-13 | City Council Work Session | agenda
+## [fort-collins#18] 2026-10-13 | City Council Work Session | agenda
 - B) ITEMS FOR DISCUSSION
 - 1. 2027-2028 Biennial Budget – Work Session #3
 - The purpose of this item is to continue discussion of the 2027-2028 Recommended Budget, which
@@ -565,7 +548,7 @@
 - Upon request, the City of Fort Collins will provide language access services for individuals who have limited
 - Please provide advance notice. Requests for interpretation at a meeting should be made by noon the day
 
-## [fort-collins#20] 2026-10-13 | City Council Work Session | agenda
+## [fort-collins#19] 2026-10-13 | City Council Work Session | agenda
 - B) ITEMS FOR DISCUSSION
 - 1. 2027-2028 Biennial Budget – Work Session #3
 - The purpose of this item is to continue discussion of the 2027-2028 Recommended Budget, which
@@ -600,7 +583,7 @@
 - Further information on the proposed use of the Parks & Recreation 2050 tax is also available in the May
 - 13, 2026 Follow Up Memo from an April 28 Citywide Capital Projects presentation: April 28, 2026 Work
 
-## [fort-collins#21] 2026-10-20 | City Council | agenda
+## [fort-collins#20] 2026-10-20 | City Council | agenda
 - PROCLAMATIONS & PRESENTATIONS
 - A) PROCLAMATIONS AND PRESENTATIONS
 - G) PUBLIC COMMENT ON ANY TOPICS OR ITEMS OR COMMUNITY EVENTS
@@ -634,7 +617,7 @@
 - Capital Improvement Program – Pedestrian Sidewalk funds to the Project; (3) transfer $50,000 in
 - previously appropriated Transportation Services funds to the Project; (4) transfer $323,536 in
 
-## [fort-collins#22] 2026-10-20 | City Council | agenda
+## [fort-collins#21] 2026-10-20 | City Council | agenda
 - PROCLAMATIONS & PRESENTATIONS
 - A) PROCLAMATIONS AND PRESENTATIONS
 - G) PUBLIC COMMENT ON ANY TOPICS OR ITEMS OR COMMUNITY EVENTS
@@ -668,7 +651,7 @@
 - Capital Improvement Program – Pedestrian Sidewalk funds to the Project; (3) transfer $50,000 in
 - previously appropriated Transportation Services funds to the Project; (4) transfer $323,536 in
 
-## [fort-collins#23] 2026-10-20 | City Council | agenda
+## [fort-collins#22] 2026-10-20 | City Council | agenda
 - Council minutes are the official record of the meeting and are prepared to be approved by Council generally at
 - its next meeting. Following approval, minutes are posted at this link: Council Minutes
 - PROCLAMATIONS & PRESENTATIONS
@@ -702,7 +685,7 @@
 - intersection right-of-way that is needed for the Project and install a replacement traffic signal. If
 - approved the item will (1) appropriate $1,549,760 in Transportation Capital Expansion Fee funds
 
-## [fort-collins#24] 2026-10-20 | Utility Enterprise | agenda
+## [fort-collins#23] 2026-10-20 | Utility Enterprise | agenda
 - Water Utility
 - WATER UTILITY ENTERPRISE BOARD MEETING
 - C) ITEMS FOR DISCUSSION
@@ -733,7 +716,7 @@
 - Upon request, the City of Fort Collins will provide language access services for individuals who have limited
 - Please provide advance notice. Requests for interpretation at a meeting should be made by noon the day
 
-## [fort-collins#25] 2026-10-20 | Utility Enterprise | agenda
+## [fort-collins#24] 2026-10-20 | Utility Enterprise | agenda
 - Water Utility
 - WATER UTILITY ENTERPRISE BOARD MEETING
 - C) ITEMS FOR DISCUSSION
@@ -766,7 +749,7 @@
 - Darren Parkin, Halligan Project Manager
 - Resolution No. 012 Acting Ex-Officio as the Board of the City’s Water Utility Enterprise, Authorizing
 
-## [fort-collins#26] 2026-10-20 | Utility Enterprise | agenda
+## [fort-collins#25] 2026-10-20 | Utility Enterprise | agenda
 - Water Utility
 - minutes are the official record of the meeting and are prepared to be approved by Council generally at its next
 - meeting. Following approval, minutes are posted at this link: Council Minutes
@@ -798,7 +781,7 @@
 - permit under Section 404 of the Clean Water Act for the Halligan Project
 - Resolution adopted 6-1. Nay: Nelsen
 
-## [fort-collins#27] 2026-10-22 | Urban Renewal Authority | agenda
+## [fort-collins#26] 2026-10-22 | Urban Renewal Authority | agenda
 - G) DISCUSSION ITEMS
 - The method of debate for discussion items is as follows:
 - Chair introduces the item number and subject; asks if formal presentation will be
@@ -831,7 +814,7 @@
 - Budgeting process in June, 2026. The first request covered the costs of performing core functions
 - of the URA plus two 1x projects approved in 2026 (Stormwater & NRP). The second offer was for
 
-## [fort-collins#28] 2026-10-22 | Urban Renewal Authority | agenda
+## [fort-collins#27] 2026-10-22 | Urban Renewal Authority | agenda
 - G) DISCUSSION ITEMS
 - The method of debate for discussion items is as follows:
 - Chair introduces the item number and subject; asks if formal presentation will be
@@ -864,7 +847,7 @@
 - Budgeting process in June, 2026. The first request covered the costs of performing core functions
 - of the URA plus two 1x projects approved in 2026 (Stormwater & NRP). The second offer was for
 
-## [fort-collins#29] 2026-10-22 | Urban Renewal Authority | agenda
+## [fort-collins#28] 2026-10-22 | Urban Renewal Authority | agenda
 - D) DISCUSSION ITEMS
 - Coalition framework for North College redevelopment, beginning with 1636 North College and
 - related superblock opportunities. The Charter describes how residents, businesses and project
@@ -877,7 +860,7 @@
 - to the termination of the Tax Increment Financing (“TIF”) collection period
 - Upon request, the City of Fort Collins will provide language access services for individuals who have
 
-## [fort-collins#30] 2026-10-22 | Urban Renewal Authority | agenda
+## [fort-collins#29] 2026-10-22 | Urban Renewal Authority | agenda
 - D) DISCUSSION ITEMS
 - Coalition framework for North College redevelopment, beginning with 1636 North College and
 - related superblock opportunities. The Charter describes how residents, businesses and project
@@ -909,7 +892,7 @@
 - through the lens of both community benefit as well as feasibility considerations, and monitor community
 - financial, property and contractual actions
 
-## [fort-collins#31] 2026-10-23 | Election Code Committee | agenda
+## [fort-collins#30] 2026-10-23 | Election Code Committee | agenda
 - E) Approval of Minutes
 - 1. Approval of Minutes
 - The purpose of this item is to approve the minutes of the September 18, 2026, Election Code
@@ -918,7 +901,7 @@
 - Upon request, the City of Fort Collins will provide language access services for individuals who have limited
 - assistance. Please provide advance notice. Requests for interpretation at a meeting should be made by
 
-## [fort-collins#32] 2026-10-23 | Election Code Committee | agenda
+## [fort-collins#31] 2026-10-23 | Election Code Committee | agenda
 - E) Approval of Minutes
 - 1. Approval of Minutes
 - The purpose of this item is to approve the minutes of the September 18, 2026, Election Code
@@ -958,7 +941,7 @@
 - Sec. 7-41. Appointment
 - The City Clerk shall may appoint workers to participate in the conduct of the election
 
-## [fort-collins#33] 2026-10-27 | City Council Work Session | minutes
+## [fort-collins#32] 2026-10-27 | City Council Work Session | minutes
 - Upon request, the City of Fort Collins will provide language access services for individuals who
 - Colorado) for assistance. Please provide advance notice. Requests for interpretation at a
 - B) Items for Discussion
@@ -970,7 +953,7 @@
 - implementation, and considerations for evolving funding priorities
 - psychoactive products, and to seek Councilmember feedback
 
-## [fort-collins#34] 2026-10-27 | City Council Work Session | minutes
+## [fort-collins#33] 2026-10-27 | City Council Work Session | minutes
 - From: Chad Wright, Director, Housing and Community Vitality
 - Vanessa Fenley, Sr. Housing Manager
 - Subject: October 27, 2026 Work Session Summary: Housing Action Plan
@@ -1005,7 +988,7 @@
 - and financing resources outside of the City’s control. Councilmembers also discussed the
 - housing production targets, with some Councilmembers noting the 7,000 catch-up/keep-up
 
-## [fort-collins#35] 2026-11-03 | General Improvement District No. 1 | minutes
+## [fort-collins#34] 2026-11-03 | General Improvement District No. 1 | minutes
 - City of Fort Collins General Improvement District No. 1 Agenda
 - GENERAL IMPROVEMENT DISTRICT NO. 1 MEETING AGENDA
 - Upon request, the City of Fort Collins will provide language access services for individuals who have
@@ -1023,7 +1006,7 @@
 - taxes and interest earnings in 2027, which are estimated to be $46,000 and $29,664,
 - total of $385,664 for 2027. The Ordinance appropriates funds in the amount of
 
-## [fort-collins#36] 2026-11-03 | General Improvement District No. 1 | minutes
+## [fort-collins#35] 2026-11-03 | General Improvement District No. 1 | minutes
 - City of Fort Collins Skyview South General Improvement Dist. No. 15 Agenda
 - SKYVIEW SOUTH GENERAL IMPROVEMENT DISTRICT NO. 15 MEETING
 - Upon request, the City of Fort Collins will provide language access services for individuals who
@@ -1040,7 +1023,7 @@
 - revenue for GID No. 15 of $12,961 is anticipated to be generated from interest
 - amount will be used in the future to maintain and repair roads in the Skyview
 
-## [fort-collins#37] 2026-11-03 | City Council | minutes
+## [fort-collins#36] 2026-11-03 | City Council | minutes
 - Upon request, the City of Fort Collins will provide language access services for individuals who have
 - assistance. Please provide advance notice. Requests for interpretation at a meeting should be made by
 - A) Proclamations and Presentations - 5:00 PM
@@ -1076,3 +1059,21 @@
 - Regional Airport Runway 15/33 Widening Project. The additional costs are driven
 - primarily by FAA-directed safety modifications identified through the Safety Risk
 - testing to support the project’s 24-hour Phase 2 construction schedule. This schedule
+
+## [fort-collins#37] 2026-11-10 | City Council Work Session | minutes
+- Upon request, the City of Fort Collins will provide language access services for individuals who
+- Colorado) for assistance. Please provide advance notice. Requests for interpretation at a
+- B) Items for Discussion
+- Vehicle Identification System (AVIS) corridors adopted under Ordinance No. 098,
+- Code amendments to align local practices with Colorado law. The analysis considers
+- The purpose of this item is to seek feedback from Council on the draft Surveillance
+- The presentation will highlight examples of work completed in 2025 and 2026
+- across three areas: the 2025 Community diversion rate; past, current, and emerging
+
+## [fort-collins#38] 2026-11-13 | Election Code Committee | minutes
+- Upon request, the City of Fort Collins will provide language access services for individuals who
+- Colorado) for assistance. Please provide advance notice. Requests for interpretation at a
+- E) Discussion / Informational Items
+- 1. Consideration of Approval of the Minutes for Election Code Committee held on
+- The purpose of this item is to consider approval of the minutes for Election Code
+- Committee’s consideration

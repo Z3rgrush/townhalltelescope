@@ -1,88 +1,12 @@
 # steamboat-springs
 
-## [steamboat-springs#0] 2026-09-09 | Golf Management Committee | agenda
-- 1. Public comment
-- a.Approve Minutes
-
-## [steamboat-springs#1] 2026-09-09 | Parks and Recreation Commission | agenda
-- Parks & Recreation Commission
-- 124 10th Street, Steamboat Springs, CO
-- B. APPROVAL OF MINUTES
-- C. PARKS AND RECREATION COMMISSION MISSION AND VISION
-- Mission Statement: The Parks & Recreation Commission serves as an
-- offering a broad range of safe and accessible resources including
-- parks, open space, trails, recreational services, and facilities which
-- Vision: Parks & Recreation Commission is committed to identify,
-- E. PUBLIC COMMENT
-- Parks and Recreation Commission will make no decision, nor take
-- action, except to advise the appropriate party. Those addressing Parks
-- and Recreation Commission are requested to identify themselves by
-- F. DISCUSSION ITEMS
-- 3. 2026 Parks and Recreation Development Update (30 minutes)
-- I. PARKS AND RECREATION DIRECTOR UPDATES
-
-## [steamboat-springs#2] 2026-09-15 | City Council Regular Meeting | agenda
-- 124 10th Street, Steamboat Springs, CO
-- Reports, City Council Reports, City Manager Report will be heard under Public Comment;
-- following the presentation by Staff or the Petitioner. Please wait until you are recognized
-- PUBLIC COMMENT: Public Comment will be provided after Staff Reports, or at
-- direct the city manager. Those addressing city council are requested to identify themselves by
-- Scan Code to leave a Public Comment:
-- Redevelopment Authority Meeting and follow the Authority agenda. 1.25 hours
-- E. GENERAL PUBLIC COMMENT: Public Comment will be provided after
-- THE CITY MANAGER. THOSE ADDRESSING CITY COUNCIL ARE REQUESTED TO
-- IDENTIFY THEMSELVES BY NAME AND ADDRESS. ALL COMMENTS SHALL NOT
-- F. COMMUNITY REPORTS/CITY COUNCIL DISCUSSION TOPIC:
-- ITEMS ON THE COMMUNITY REPORTS/CITY COUNCIL DISCUSSION CALENDAR MAY
-- HEARING ITEMS. WRITTEN COMMUNITY COMMENTS ARE ENCOURAGED AND
-- G. CONSENT CALENDAR: MOTIONS, RESOLUTIONS, AND ORDINANCES
-- MAY REQUEST WITHDRAWAL OF ANY ITEM FROM THE CONSENT CALENDAR FOR FURTHER
-- DISCUSSION AT ANY TIME PRIOR TO APPROVAL. IF ITEMS ARE NOT REMOVED, THEY MAY
-- BE APPROVED WITH A SINGLE MOTION
-- 7. FIRST READING OF ORDINANCE: An ordinance vacating a portion of
-- PETITION: Easement Vacation
-- 8. RESOLUTION: A resolution approving the Steamboat Springs Local
-- Marketing District Operating Plan and budget for the year 2027
-- 9. RESOLUTION: A resolution confirming appointments to the Downtown
-- Steamboat Springs Business Improvement District Board of Directors
-- H. PUBLIC HEARING: MOTIONS, RESOLUTIONS AND ORDINANCES 15
-- THE RECORD. PUBLIC COMMENT WILL BE PROVIDED FOR EVERY ITEM
-- PUBLIC HEARING FORMAT:
-- Presentation by the Petitioner (estimated at 15 minutes). Petitioner
-- Presentation by the Opposition. Same guidelines as above
-- Public Comments by individuals (not to exceed 3 minutes)
-- 10. SECOND READING OF ORDINANCE: An ordinance vacating a 10
-- CITY COUNCIL VOTE: Approved 7/0 on September 1, 2026
-- 11. SECOND READING OF ORDINANCE: An ordinance rezoning Lots 1
-- PETITION: Zone Map Amendment
-- 12. SECOND READING OF ORDINANCE: An ordinance vacating a water
-- and sewer line easement and a fire hydrant easement located on Lots
-- 13. SECOND READING OF ORDINANCE: Seventh supplemental budget
-- appropriation ordinance of 2026. (Weber)
-- 14. Parks and Recreation Commission Report
-
-## [steamboat-springs#3] 2026-09-15 | Steamboat Springs Redevelopment Authority | agenda
-- REDEVELOPMENT AUTHORITY
-- 124 10th Street, Steamboat Springs, CO
-- B. BASE AREA REDEVELOPMENT Total Meeting Time: 1.25 hours
-- 1. Update on the 2026 Project Activity Plan for the
-- Steamboat Springs Redevelopment Authority. (Gooding) 20
-- 2. Preliminary 2027 Budget Recommendation. (Gooding) 15
-- C. APPROVAL OF MINUTES
-- 4. Executive Session: To discuss the topic set forth below
-- are set out below. The description of the topics are intended to identify the
-- particular matter to be discussed in as much detail as possible without
-- subject to negotiations; developing strategy for negotiations; and instructing
-- These items pertain to the Gondola Transit Center and public improvements
-- agreement with Steamboat Ski & Resort Corporation
-
-## [steamboat-springs#4] 2026-09-23 | Golf Management Committee | agenda
+## [steamboat-springs#0] 2026-09-23 | Golf Management Committee | agenda
 - 1. Public comment
 - a.Approve Minutes
 - a.Allocated Overhead Discussion
 - b.2027 Rates
 
-## [steamboat-springs#5] 2026-10-01 | URAAC | agenda
+## [steamboat-springs#1] 2026-10-01 | URAAC | agenda
 - Urban Redevelopment Authority Advisory Committee (URAAC)
 - b. Approve Minutes from Last Meeting (9/3/26)
 - 2. Public Comment.....................................................................................................................1:33pm
@@ -92,7 +16,7 @@
 - 4. SSRA Recap and 2027 Budget Finalization.............................................................................2:00pm
 - 5. Remaining Project Activities Review......................................................................................2:30pm
 
-## [steamboat-springs#6] 2026-10-02 | Slate Creek Steering Committee | agenda
+## [steamboat-springs#2] 2026-10-02 | Slate Creek Steering Committee | agenda
 - B. DISCUSSION ITEMS
 - understand the phases of the development process, explore
 - C. PUBLIC COMMENT
@@ -105,7 +29,7 @@
 - be considered
 - Three or more City Council members may attend this event and may discuss
 
-## [steamboat-springs#7] 2026-10-06 | City Council Budget Retreat | agenda
+## [steamboat-springs#3] 2026-10-06 | City Council Budget Retreat | agenda
 - BUDGET MEETING
 - 124 10th Street, Steamboat Springs, CO
 - PUBLIC COMMENT: Public Comment will be provided as close to 2:00 p.m. as
@@ -119,7 +43,7 @@
 - 8. Public Comment
 - 9. Review & Budget Wrap Up. 60 minutes
 
-## [steamboat-springs#8] 2026-10-08 | Planning Commission | agenda
+## [steamboat-springs#4] 2026-10-08 | Planning Commission | agenda
 - 124 10th Street, Steamboat Springs, CO
 - B. PUBLIC COMMENT: For any item not on the agenda
 - C. PUBLIC HEARINGS FOR DECISION:
@@ -147,7 +71,7 @@
 - Planning & Community Development. (115 10th Street, City Hall, Steamboat Springs, CO)
 - Three or more City Council members may attend this event and may discuss public business, to
 
-## [steamboat-springs#9] 2026-10-09 | Slate Creek Steering Committee | agenda
+## [steamboat-springs#5] 2026-10-09 | Slate Creek Steering Committee | agenda
 - B. DISCUSSION ITEMS
 - 1. Slate Creek Development Roadmap update, Development
 - C. PUBLIC COMMENT
@@ -160,7 +84,7 @@
 - be considered
 - Three or more City Council members may attend this event and may discuss
 
-## [steamboat-springs#10] 2026-10-12 | Historic Preservation Commission | agenda
+## [steamboat-springs#6] 2026-10-12 | Historic Preservation Commission | agenda
 - CITIZENS' MEETING ROOM, CENTENNIAL HALL, 124 10TH STREET
 - B. Public Comment - For any item not on the agenda
 - C. Public Hearings for Recommendation
@@ -174,7 +98,7 @@
 - Department of Planning & Community Development (124 10th Street, Centennial Hall,
 - Three or more City Council members may attend this event and may discuss public
 
-## [steamboat-springs#11] 2026-10-13 | City Council Regular Meeting | agenda
+## [steamboat-springs#7] 2026-10-13 | City Council Regular Meeting | agenda
 - 124 10th Street, Steamboat Springs, CO
 - Reports, City Council Reports, City Manager Report will be heard under Public Comment;
 - following the presentation by Staff or the Petitioner. Please wait until you are recognized
@@ -201,7 +125,7 @@
 - the session has requested an open meeting
 - Municipal Judge contract
 
-## [steamboat-springs#12] 2026-10-14 | Canceled - Parks and Recreation Commission | agenda
+## [steamboat-springs#8] 2026-10-14 | Canceled - Parks and Recreation Commission | agenda
 - Parks & Recreation Commission
 - 124 10th Street, Steamboat Springs, CO
 - B. APPROVAL OF MINUTES
@@ -217,11 +141,11 @@
 - F. DISCUSSION ITEMS
 - I. PARKS AND RECREATION DIRECTOR UPDATES
 
-## [steamboat-springs#13] 2026-10-14 | Golf Management Committee | agenda
+## [steamboat-springs#9] 2026-10-14 | Golf Management Committee | agenda
 - 1. Public comment
 - a.Approve Minutes
 
-## [steamboat-springs#14] 2026-10-20 | City Council Regular Meeting | agenda
+## [steamboat-springs#10] 2026-10-20 | City Council Regular Meeting | agenda
 - 124 10th Street, Steamboat Springs, CO
 - Reports, City Council Reports, City Manager Report will be heard under Public Comment;
 - following the presentation by Staff or the Petitioner. Please wait until you are recognized
@@ -264,7 +188,7 @@
 - appropriation ordinance of 2026. (Briones)
 - 14. FIRST READING OF ORDINANCE: An ordinance approving the grant
 
-## [steamboat-springs#15] 2026-10-20 | Steamboat Springs Redevelopment Authority | agenda
+## [steamboat-springs#11] 2026-10-20 | Steamboat Springs Redevelopment Authority | agenda
 - REDEVELOPMENT AUTHORITY
 - 124 10th Street, Steamboat Springs, CO
 - B. BASE AREA REDEVELOPMENT Total Meeting Time: 50 minutes
@@ -273,18 +197,18 @@
 - 2. RESOLUTION: A resolution adopting the budget and setting
 - appropriations for the Steamboat Springs Redevelopment
 
-## [steamboat-springs#16] 2026-10-26 | Planning Commission Policy Work Session | agenda
+## [steamboat-springs#12] 2026-10-26 | Planning Commission Policy Work Session | agenda
 - Carver Conference Room, CENTENNIAL HALL, 124 10TH STREET
 - 1. Presentation of Water Supply Element (Stauffer)
 - 2. Downtown Plan Implementation: Text Amendment (Stauffer)
 - Three or more City Council members may attend this event and may discuss public business, including
 
-## [steamboat-springs#17] 2026-10-28 | Golf Management Committee | agenda
+## [steamboat-springs#13] 2026-10-28 | Golf Management Committee | agenda
 - 1.Public comment
 - a. Approve Minutes
 - Next Meeting - November 11th, 8:30 am, at Parks & Recreation Conference Room
 
-## [steamboat-springs#18] 2026-11-06 | Slate Creek Steering Committee | agenda
+## [steamboat-springs#14] 2026-11-06 | Slate Creek Steering Committee | agenda
 - B. DISCUSSION ITEMS
 - 1. Opening and Framing, Scope, Budget and Roadmap Update,
 - C. PUBLIC COMMENT
@@ -298,7 +222,7 @@
 - be considered
 - Three or more City Council members may attend this event and may discuss
 
-## [steamboat-springs#19] 2026-11-09 | Historic Preservation Commission | agenda
+## [steamboat-springs#15] 2026-11-09 | Historic Preservation Commission | agenda
 - CITIZENS' MEETING ROOM, CENTENNIAL HALL, 124 10TH STREET
 - B. Public Comment - For any item not on the agenda
 - C. Public Hearings for Recommendation
@@ -309,3 +233,89 @@
 - This application is available for review during regular business hours at the
 - Department of Planning & Community Development (124 10th Street, Centennial Hall,
 - Three or more City Council members may attend this event and may discuss public
+
+## [steamboat-springs#16] 2026-11-10 | City Council Regular Meeting | agenda
+- 124 10th Street, Steamboat Springs, CO
+- Reports, City Council Reports, City Manager Report will be heard under Public Comment;
+- following the presentation by Staff or the Petitioner. Please wait until you are recognized
+- PUBLIC COMMENT: Public Comment will be provided after the Consent Calendar,
+- except to direct the city manager. Those addressing city council are requested to identify
+- Scan Code to leave a Public Comment:
+- 1.a. Housing Sub Committee Meeting Summary
+- E. GENERAL PUBLIC COMMENT: Public Comment will be provided after
+- THE CITY MANAGER. THOSE ADDRESSING CITY COUNCIL ARE REQUESTED TO
+- IDENTIFY THEMSELVES BY NAME AND ADDRESS. ALL COMMENTS SHALL NOT
+- F. COMMUNITY REPORTS/CITY COUNCIL DISCUSSION TOPIC:
+- Items on the Community Reports/City Council Discussion Calendar may be commented on
+- in the same manner as Consent Calendar and Public Hearing items. Written community
+- 4. Routt County Communications Intergovernmental Agreement
+- G. CONSENT CALENDAR: MOTIONS, RESOLUTIONS, AND ORDINANCES
+- MAY REQUEST WITHDRAWAL OF ANY ITEM FROM THE CONSENT CALENDAR FOR FURTHER
+- DISCUSSION AT ANY TIME PRIOR TO APPROVAL. IF ITEMS ARE NOT REMOVED, THEY MAY
+- BE APPROVED WITH A SINGLE MOTION
+- 5. RESOLUTION: A resolution amending the administrative regulation
+- (Resolution 2000-22, as amended by Resolutions 2004-42, 2007-39,
+- 2016-11) regarding research and retrieval fees for public records in the
+- 6. FIRST READING OF ORDINANCE: An ordinance levying a property
+- tax at a rate of two mills. (Foote/Weber)
+- H. PUBLIC HEARING: MOTIONS, RESOLUTIONS AND ORDINANCES
+- THE RECORD. PUBLIC COMMENT WILL BE PROVIDED FOR EVERY ITEM
+- PUBLIC HEARING FORMAT:
+- Presentation by the Petitioner (estimated at 15 minutes). Petitioner
+- Presentation by the Opposition. Same guidelines as above
+- Public Comments by individuals (not to exceed 3 minutes)
+- 7. SECOND READING OF ORDINANCE: An ordinance amending
+- amending Article 3 to allow Child Care Centers as a By-Right Use in
+- PETITION: CDC Text Amendment
+- CITY COUNCIL VOTE: Approved 7/0 on October 20, 2026
+- 8. RESOLUTION: A resolution upholding the Planning Director’s decision
+- 9. SECOND READING OF ORDINANCE: An ordinance adopting the
+- 2027 Budget and setting appropriations for the City of Steamboat
+- CITY COUNCIL VOTE: Approved 5/1 on October 20, 2026. Swintek
+- 10. SECOND READING OF ORDINANCE: An ordinance approving a
+- Yampa River riprap easement agreement between the City of
+- 11. SECOND READING OF ORDINANCE: An ordinance amending the
+- CITY COUNCIL VOTE: Approved 5/1 on October 20, 2026. Barnes
+- 12. SECOND READING OF ORDINANCE: An ordinance amending the
+
+## [steamboat-springs#17] 2026-11-12 | Planning Commission | agenda
+- 124 10th Street, Steamboat Springs, CO
+- B. PUBLIC COMMENT: For any item not on the agenda
+- C. PUBLIC HEARINGS FOR DECISION:
+- for public comment will be provided for every item
+- PUBLIC HEARING FORMAT:
+- Presentation by the Applicant (approximately 15 minutes)
+- Applicant to state name, title, project location and provide project
+- Presentation by staff
+- Public Comment by individuals (not to exceed 3 minutes): individuals
+- The Planning Commission will make the final decision on applications for Conditional
+- Use, Conceptual Development Plan, Development Plan, or Preliminary Plat without
+- D. PUBLIC HEARINGS FOR RECOMMENDATION:
+- 1. Project: Downtown Plan Implementation: Goals LUZ 6.3,
+- Type of Application: CDC Text Amendment
+- General Description: This text amendment will change Articles 2 and 8 of the
+- Community Development Code to implement Downtown
+- Plan goals LUZ 6.3: Modify the CDC to allow the same
+- grade structured parking from Floor Area Ratio (FAR) when
+- 2. Project: PL20260222, Terrain at Walton Creek STR Overlay
+- Zone Map Amendment. (Brown)
+- Location: 2075 Walton Creek Road
+- Type of Application: Zone Map Amendment
+- General Description: A zone map amendment to change the overlaying zoning
+- 4. Public Hearing Minutes- October 8, 2026
+- This application is available for review during regular business hours at the Department of
+- Planning & Community Development. (115 10th Street, City Hall, Steamboat Springs, CO)
+- Three or more City Council members may attend this event and may discuss public business, to
+
+## [steamboat-springs#18] 2026-11-13 | Slate Creek Steering Committee | agenda
+- B. DISCUSSION ITEMS
+- 1. Review of Roadmap, Timeline, Project Scope, and Budget
+- C. PUBLIC COMMENT
+- Public comments may be submitted through the following methods:
+- steamboatsprings.net. The next opportunity for public comment at a City Council
+- (970) 879-0108. The next opportunity for public comment at a Board of County
+- opportunity for public comment at a YVHA Board of Directors meeting will be
+- governance activities. Additional topics related to the Brown Ranch plan,
+- annexation proposal, or other matters may also be identified for consideration at
+- be considered
+- Three or more City Council members may attend this event and may discuss

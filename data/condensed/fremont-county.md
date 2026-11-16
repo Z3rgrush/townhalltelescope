@@ -1,40 +1,6 @@
 # fremont-county
 
-## [fremont-county#0] 2026-08-11 | City Council | minutes
-- Kevin Grantham Commissioner Present
-- Justin Grantham Clerk and Recorder Absent
-- Dan Victoria Planning & Zoning Director Present
-- APPROVAL OF AGENDA
-- Commissioner Grantham moved to approve the agenda, including the addition of Resolution Number
-- Upon vote: Commissioner Grantham, aye; Commissioner McFall, aye; Commissioner Bell, aye. The
-- 1. Approval of Minutes / July 28, 2026
-- 2. Approval of Bills for $1,335,233.38
-- 3. Resolution Approving SRU for Diana’s Pumpkin Patch from 2/19/2026
-- 4. Ratification of Chairman's Signature on Fremont County Public Health Agency
-- 5. Schedule Public Hearing: None
-- Commissioner McFall moved to approve the consent agenda. Commissione r Grantham seconded the
-- motion. Upon Vote: Commissioner McFall, aye; Commissioner Grantham, aye; Commissioner Bell, aye
-- a. Sales & Use Tax Report, Shawn Sutton, Budget & Finance Officer
-- Shawn Sutton gave the Sales & Use Tax Report, which can be found in its entirety at
-- totaling $188,192.00. On the other hand, fire danger in our county remains extreme; the county is so dry
-- that DOT has stopped mowing for fear of throwing sparks if the mower hits a rock
-- Charolette Burrous approached the podium to present an award to the commissioners on behalf of the
-- America’s Parade Committee for the Community Spirit Award
-- speak with the Sheriff and Chief of Police to hopefully reach an MOA and to notify officers to better
-- the Wright Brothers Master Pilot Award, the highest honor for certified pilots, for achieving 50 years of
-- safe flight operations. He also received the Charles Taylor Master Mechanic Award for 50 years of
-- received both awards. The proclamation can be viewed at the bottom of these minutes
-- Colorado. Commissioner Grantham seconded the motion. Upon Vote: Commissioner McFall, aye;
-- Commissioner Grantham, aye; Commissioner Bell, aye. The motion carried by unanimous consent
-- Public Health Director Gutierrez explained that before firefighters gained control of the north side of
-- the Aspen Acres Fire, the Bruce McCandless Veterans Community Living Center was in a very
-- plan, recognizing how quickly conditions can change. He said that, as someone with a background in
-- working together to plan and practice for a potential evacuation ever since the 24 Fire. Public Health
-- comment that it was very scary to have a fire so close, but she was very grateful for the tremendous help
-- Commissioner Grantham moved to approve the proclamation, proclaiming August 11th of 2026 as
-- Commissioner McFall seconded the motion. Upon Vote: Commissioner Grantham, aye; Commissioner
-
-## [fremont-county#1] 2026-08-25 | City Council | minutes
+## [fremont-county#0] 2026-08-25 | City Council | minutes
 - Kevin Grantham Commissioner Present
 - Justin Grantham Clerk and Recorder Absent
 - Dan Victoria Planning & Zoning Director Present
@@ -68,7 +34,7 @@
 - for personal use, and they plan to add a full bathroom to the unit. Since this will be for personal use only,
 - the owner is requesting that the lot be rezoned from commercial to residential
 
-## [fremont-county#2] 2026-09-08 | City Council | minutes
+## [fremont-county#1] 2026-09-08 | City Council | minutes
 - Kevin Grantham Commissioner Absent
 - Justin Grantham Clerk and Recorder Present
 - Dan Victoria Planning & Zoning Director Present
@@ -103,7 +69,7 @@
 - recent surge in sales at this quarry. The quarry operates only a day or two each month. They are not
 - proposing to operate more days, but to accommodate random surges during those days of operation so
 
-## [fremont-county#3] 2026-09-22 | City Council | minutes
+## [fremont-county#2] 2026-09-22 | City Council | minutes
 - Kevin Grantham Commissioner Present
 - Justin Grantham Clerk and Recorder Absent
 - Dan Victoria Planning & Zoning Director Present
@@ -138,7 +104,7 @@
 - board through a separate resolution, the board may, at its discretion, assess additional fees and amounts
 - deemed appropriate by the board to cover the actual costs of evaluating the application, including, but
 
-## [fremont-county#4] 2026-09-28 | City Council | minutes
+## [fremont-county#3] 2026-09-28 | City Council | minutes
 - Kevin Grantham Commissioner Present
 - Justin D Grantham Clerk and Recorder Present
 - APPROVAL OF AGENDA
@@ -169,7 +135,7 @@
 - access permit or whether this would prevent them from opening completely anyway
 - Commissioner Grantham moved to approve the request for the issuance of a new malt, vinous, and
 
-## [fremont-county#5] 2026-10-13 | City Council | agenda
+## [fremont-county#4] 2026-10-13 | City Council | agenda
 - V) Approval of Agenda
 - 1. Approval of Minutes / September 22, 2026 and September 28, 2026 Special
 - 2. Approval of Bills for $2,630,707.51
@@ -187,7 +153,7 @@
 - 6. Reappointment of Lu Toxvard to the Fremont County Airport Advisory Board with a
 - X) Public Hearings Scheduled for 9:30 a.m.: None
 
-## [fremont-county#6] 2026-10-27 | City Council | agenda
+## [fremont-county#5] 2026-10-27 | City Council | agenda
 - V) Approval of Agenda
 - 1. Approval of Bills for $3,680,934.71
 - 2. Ratification of Commissioner McFall’s Signature on 2027 MotivHealth Final Proposal
@@ -197,3 +163,21 @@
 - 2. Bid Award Recommendation for DHS Building Roof Replacement
 - X) Public Hearings Scheduled for 9:30 a.m.:
 - Requesting approval of a Commercial Development Plan by Stanley Yoder, for the
+
+## [fremont-county#6] 2026-11-10 | City Council | agenda
+- V) Approval of Agenda
+- 1. Approval of Minutes / October 13, 2026 and October 27, 2026
+- 2. Ratification of Commissioner McFall’s Signature on Cigna Cancellation Letter
+- 3. Approval of Bills for $1,663,248.13
+- 4. Schedule Public Hearing: None
+- Needle” Award
+- 2. Resolution No.____, Series of 2026 Operation Green Light to Support Veterans
+- 4. Approval of Airport Consultant Services Award
+- 5. Wildfire Engagement Survey Results
+- 7. Reappointment of Mike Madone to the Fremont County Heritage Commission with a
+- 8. Reappointment of Mildred Wintz to the Fremont County Heritage Commission with a
+- 9. Reappointment of Cinde McPhail to the Fremont County Heritage Commission with a
+- 10. Reappointment of Kathy Trogden to the Fremont County Tourism Council with a term
+- 11. New appointment to Fremont County Tourism Council with a term expiring December
+- X) Public Hearings Scheduled for 9:30 a.m.:
+- 1. Proposed 2027 Fremont County Budget

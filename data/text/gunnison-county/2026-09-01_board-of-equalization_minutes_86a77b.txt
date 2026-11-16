@@ -20,7 +20,7 @@ GUNNISON COUNTY BOARD OF EQUALIZATION MEETING:
  
 CALL TO ORDER:  Commissioner Puckett Daniels called the meeting to order at 8:30 am. 
  
-APPEAL HEARING; SENIOR PROPERTY TAX EXEMPTION; CBOE# SR01; R042452; T. HAACK : 
+APPEAL HEARING; SENIOR PROPERTY TAX EXEMPTION; CBOE# SR01; R042452; T. HAACK: 
 Petitioner Teresa Haack and Deputy Assessor Vicki Hildreth were present for discussion. 
  
 1. Open Appeal Hearing.  Commissioner Puckett Daniels opened the Appeal Hearing at 8:31 am.   
@@ -95,7 +95,7 @@ GUNNISON COUNTY HOUSING AUTHORITY MEETING:
 CALL TO ORDER:  Commissioner Puckett Daniels called the meeting to order at 9:03 am. 
  
 CONSENT AGENDA:  Moved by Commissioner Houck, seconded by Commissioner Smith to approve the 
-consent agenda for the Gunnison County Housing Authority  as presented  this morning. Motion carried 
+consent agenda for the Gunnison County Housing Authority  as presented this morning . Motion carried 
 unanimously.  
 1. Contract Amendment Agreement; PY26 Mountain View Apartments; Energy Outreach Colorado 
 Efficiency LLC; 9/15/2026 
@@ -135,7 +135,7 @@ Peters Family Trust
 Pre-Application Request for Proposals; Health and Human Services; $150,000 
  
 PULLED FOR FURTHER DISCUSSION: 
-8. Boundary Line Adjustment; LUC -25-00036; Rosenwald -Peters Family Trust : Assistant 
+8. Boundary Line Adjustment; LUC -25-00036; Rosenwald-Peters Family Trust : Assistant 
 County Manager for Community and Economic Development April Kroner relayed that staff has 
 authority to approve and the BOCC just needs to sign the plat. CA Hoyt explained that it is not in 
 the Board’s  jurisdiction to decide  unless it is appealed . However, ACM Kroner confirmed staff 
@@ -154,7 +154,7 @@ COUNTY MANAGER’S REPORTS:
 of the Gunnison Arts Center Board and has brought to his attention a home that was left to seven 
 entities including Gunnison Valley Health (GVH)  and the Senior Living Center . Since the County 
 owns GVH’s real property, the County’s share is 30%. He declared the other nonprofit entities that 
-are included indicated they would like to sell the property.  CM Birnie recommended adding a light 
+are included indicated they would like to sell the property. CM Birnie recommended adding a light 
 deed restriction to the property but  commented that discussions are still underway. Lastly, he 
 confirmed it was not a good fit to buy out the other partners to manage as a rental and that the 
 Gunnison Home Association, who also owns 30% of the home, offered to make any repairs needed 
@@ -237,14 +237,14 @@ Commissioner Puckett Daniels:
 1. Initiative 309 – Commissioner Puckett Daniels explained that was renamed to Proposition 137 
 and attended a p resentation at Sustainable Tourism and Outdoor Recreation Committee 
 (STOR), Counties & Commissioners Acting Together (CCAT) , and Colorado Counties, Inc. 
-Steering Committees (CCI). The Board agreed with their endorsement of th e proposition with 
+Steering Committees (CCI). The Board agreed with their endorsement of the proposition with 
 a formal letter of support.  
 2. Legislative Priorities Discussion – Commissioner Puckett Daniels recommended having a formal 
 legislative priorities discussion before October 2nd.  
 3. Mayors and Managers – Commissioner Puckett Daniels will be attending the meeting. 
 4. Crested Butte South POA President – Commissioner Puckett Daniels will be meeting with him 
 to discuss the intersections of their work and Gunnison County’s.  
-5. Colorado Communities for Climate Action (CC4CA)  – Commissioner Puckett Daniels desires to 
+5. Colorado Communities for Climate Action (CC4CA) – Commissioner Puckett Daniels desires to 
 have designation of CC4CA’s committees between the Board.  
 6. Community Outreach  – Commissioner Puckett Daniels has had conversations regarding 
 Immigration and Customs Enforcement (ICE) presence in the community. 
@@ -265,7 +265,7 @@ evening in Denver.
  
 EXECUTIVE SESSION PURSUANT TO C.R.S. § 24 -6-402(4), PERSONNEL MATTERS, AND 
 PURSUANT TO C.R.S. 24 -6-402(4)(E)(I), FOR DETERMINING NEGOTIATION POSITIONS 
-RELATIVE TO PERSONNEL MATTERS REGARDING COUNTY ATTORNEY : Moved by Commissioner 
+RELATIVE TO PERSONNEL MATTERS REGARDING COUNTY ATTORNEY: Moved by Commissioner 
 Puckett Daniels, seconded by Commissioner Smith to go into executive session pursuant to C.R.S. § 24-6-
 402(4), personnel matters, and pursuant to C.R.S. 24-6-402(4)(e)(I), for determining negotiation positions 
 relative to personnel matters regarding County Attorney . The subject employee is not requesting this be 
@@ -309,7 +309,7 @@ Date: __________________ ______________________________________________
 Moved by Commissioner Puckett Daniels, seconded by Commissioner Smith  to come out of executive 
 session, and the folks that participated were those that were read into the record and only those and we 
 stayed on topic as read into the record in the motion. Motion carried unanimously.  The Board came out of 
-executive session at 11:59 am. There were no formal direction to staff , but the Board did ask the County 
+executive session at 11:59 am. There were no formal direction to staff, but the Board did ask the County 
 Attorney’s office to continue to gather information for a future discussion and to continue their conversation.  
  
 ADJOURN: Commissioner Puckett Daniels adjourned the meeting at 12:00 pm. 
@@ -338,12 +338,12 @@ Kathy Simillion, County Clerk
  
  
 GUNNISON COUNTY BOARD OF COMMISSIONERS TEXT INCLUSION INTO MINUTES 
-Note: For all the details of each resolution including any exhibits, please refer to gunnisoncounty.org  
+Note: For all the details of each resolution including any exhibits, please refer to gunnisoncounty.org 
  
 BOARD OF COUNTY COMMISSIONERS OF GUNNISON COUNTY, COLORADO 
 RESOLUTION NO. 2026-30 
  
-A RESOLUTION ADOPTING POLICY 1.2.7.1, ARTIFICIAL INTELLIGENCE (AI)  
+A RESOLUTION ADOPTING POLICY 1.2.7.1, ARTIFICIAL INTELLIGENCE (AI) 
  
 WHEREAS, Gunnison County has established a uniform policy format and an adoption and periodic review 
 process to promote consistency and uniformity throughout the organization; and  
@@ -407,7 +407,7 @@ incentives; and
  
 WHEREAS, the Application was referred for comment to the Gunnison County Public Works Department, 
 Colorado Parks and Wildlife (“CPW”), the Crested Butte Fire Protection District (“CBFPD”), the Colorado 
-State Forest Service, the Colorado Department of Trans portation (“CDOT”), the Gunnison Valley Regional 
+State Forest Service, the Colorado Department of Transportation (“CDOT”), the Gunnison Valley Regional 
 Transportation Authority (“GVRTA”), the Colorado Division of Water Resources, the East River Regional 
 Sanitation District (“ERRSD”), Gunnison County Housing Authority (GCHA), GCEA, RE1 -J School District, 
 MetRec and the Town of Crested Butte; and 
@@ -446,7 +446,7 @@ Minutes of September 1, 2026 Regular Meeting
 Approved by BOCC September 15, 2026 
 conceptual presentation.  This also includes standards as identified within LUR Article 10, 
 Locational Standards; Article 11, Resource Protection Standards; Article 12, Development 
-Infrastructure Standards; and Article 13, Project Design Standards, which a re analyzed in 
+Infrastructure Standards; and Article 13, Project Design Standards, which are analyzed in 
 Exhibit A, Planning Department Staff Report, Sketch Plan for Lower Verzuh Ranch 
 Subdivision.   
  

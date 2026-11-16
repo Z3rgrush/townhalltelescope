@@ -70,7 +70,7 @@ Absent: Mayor Pro Tem Jake Shy
 Slater-online. 
             
               
-3. Attendee Introductions : Sheriff Smith , Larry Weber online,  Elliott Jackson online , Wanda  Holte, 
+3. Attendee Introductions: Sheriff Smith, Larry Weber online, Elliott Jackson online, Wanda Holte, 
 Collene Searight 
  
 4. Amendments To Agenda and Agenda Approval – Adding New Business Item e. 
@@ -613,7 +613,7 @@ ORDINANCE NO. 02-2026
 AN ORDINANCE AMENDING SEC. 2-2-90 OF THE SILVER CLIFF MUNICIPAL 
 CODE TO ALLOW FOR VIRTUAL ATTENDANCE TO COUNT IN CALCULATION OF 
 QUORUM 
-WHEREAS, the Municipal Code for the Town of Silver Cliff  allows for remote 
+WHEREAS, the Municipal Code for the Town of Silver Cliff allows for remote 
 participation of members of Town boards and committees, including the Board of Trustees; and, 
 WHEREAS, the Code further provides limitations on virtual attendance as it applies to the 
 calculation of quorum; and, 
@@ -624,19 +624,19 @@ WHEREAS, the Board of Trustees wishes to amend the Municipal Code to allow for
 remote participants in such board or committee meetings to count in the calculation of quorum. 
 NOW, THEREFORE, BE IT ORDAINED BY THE BOARD OF TRUSTEES OF 
 THE TOWN OF SILVER CLIFF AS FOLLOWS: 
-Section 1: Sec. 2 -2-90 (d) of The Silver Cliff Municipal Code is hereby amended , as 
+Section 1: Sec. 2-2-90 (d) of The Silver Cliff Municipal Code is hereby amended, as 
 follows (double underline indicates addition; strikethrough indicates deletion): 
 Sec. 2-2-90. Conduct of meetings; voting. 
 (d) Members of the Board of Trustees, Planning and Zoning Commission and other 
-Town boards and committees may attend meetings of such bodies  by telephone or other 
-electronic means  under the terms and conditions contained in this Section. Members 
+Town boards and committees may attend meetings of such bodies by telephone or other 
+electronic means under the terms and conditions contained in this Section. Members 
 wishing to attend virtually must advise the Town Clerk of such intention, and such virtual 
 attendance must not cause less than a quorum to remain in physical attendance at such a 
-meeting. Virtual attendance shall constitute “presence” for the purposes of determining  a 
-quorum under this Section.  Further, the Town Clerk shall take reasonable and practical 
+meeting. Virtual attendance shall constitute “presence” for the purposes of determining a 
+quorum under this Section. Further, the Town Clerk shall take reasonable and practical 
 measures to ensure that each such meeting is open to the public at all times (except during 
 executive sessions), and information is provided to enable the public to participate in such 
-meetings by telephone or other electronic means  to the extent that such members of the 
+meetings by telephone or other electronic means to the extent that such members of the 
 public would otherwise be allowed to participate in such a meeting in person. In the event 
 of an emergency appropriately declared in writing beforehand by the Mayor (or appropriate 
 official acting in the Mayor’s absence), any such meeting may be conducted by telephone 
@@ -674,7 +674,7 @@ WHEREAS, the Municipal Code for the Town of Silver Cliff allows for remote
 participation of members of Town boards and committees, including the Board of Trustees; and,  
 WHEREAS, the Code further provides limitations on virtual attendance as it applies to the  
 calculation of quorum; and,  
-WHEREAS, the Board of Trustees for the Town of Silver Cliff affirms that  in-person 
+WHEREAS, the Board of Trustees for the Town of Silver Cliff affirms that in-person 
 attendance at Board meetings is a critical  duty and responsibility of each Trustee, yet recognizes 
 the need to relax the current stringent limitations governing the calculation of quorum, as such 
 limitations have proven to be  detrimental to the effective participation of certain members of such 
@@ -696,7 +696,7 @@ physical attendance at such a  meeting. Virtual attendance shall constitute “p
 the purposes of determining a  quorum under this Section. Further, the Town Clerk shall 
 take reasonable and practical  measures to ensure that each such meeting is open to the 
 public at all times (except during  executive sessions), and information is provided to enable 
-the public to participate in such  meetings  by telephone or other electronic means to the 
+the public to participate in such  meetings by telephone or other electronic means to the 
 extent that such members of the  public would otherwise be allowed to participate in such 
 a meeting in person. In the event  of an emergency appropriately declared in writing 
 beforehand by the Mayor (or appropriate  official acting in the Mayor’s absence), any such 
@@ -1754,10 +1754,10 @@ Corporation Foundation for assistance with such project; and
 grant of $25,0.00 from the Black Hills Corporation Foundation; and 
  
  WHEREAS, the Board of Trustees wishes to accept such grant funds under the 
-terms and conditions outlined by the Black Hills Corporation Foundation  for receipt of 
+terms and conditions outlined by the Black Hills Corporation Foundation for receipt of 
 such grant. 
  
- NOW, THEREFORE, BE IT RESOLVED by the Town Board of Trustees  of the 
+ NOW, THEREFORE, BE IT RESOLVED by the Town Board of Trustees of the 
 Town of Silver Cliff, Colorado that: 
  
  SECTION 1:  The Board of Trustees hereby authorizes the acceptance of grant 

@@ -500,7 +500,7 @@ The meeting was adjourned at approximately 9:00 PM.
 TOWN OF BASALT 
 PLANNING AND ZONING COMMISSION 
  
-By_______________________________       Attest___________________________________  
+By_______________________________       Attest___________________________________ 
       Eric Vozick, Chair                                                                         James Lindt, Planning Director 
  
  
@@ -1330,9 +1330,9 @@ ORDINANCE.
 F.
 G.
 PROJECT DIRECTORY
-VARIANCE APPLICATION - 7/1 4/26
+VARIANCE APPLICATION - 7/14/26
 MCMANUS RESIDENCE-ADDITION
-BASALT , CO
+BASALT, CO
 DRAWING INDEXSYMBOL LEGEND
 GRID LINE
 EXTERIOR ELEVATION
@@ -1650,7 +1650,7 @@ PO
 RCH SE
 TBACK
 BLG
- SETBACKPROPERTY BO
+ SETBACK PRO PERTY BO
 UN
 DARY
 DRIVEWAY EASEMENT (SEE SURVEY)
@@ -1783,9 +1783,9 @@ steel awning over front door
 1/4"/12"
 PRIMARY BED
 200
-P . CLOSET
+P. CLOSET
 201
-P . BATH
+P. BATH
 202
 DECK
 220
@@ -2056,10 +2056,10 @@ for the property known as _____135 Homestead Drive______________________________
 agrees that in consideration of the Town of Basalt processing and reviewing Applicant’s request 
 for a development permit, Applicant shall make the following payments to the Town and agrees as 
 follows. 
- 1. NON-REFUNDABLE Application Fee.   Simultaneous with execution hereof, 
+ 1. NON-REFUNDABLE Application Fee.  Simultaneous with execution hereof, 
 Applicant has paid a non-refundable Application Fee pursuant to Sections 16-292(a) and 
 17-61(a), Town Code, in the amount of $________. 
- 2. Review Deposit .  Simultaneous with execution hereof, Applicant has paid a 
+ 2. Review Deposit.  Simultaneous with execution hereof, Applicant has paid a 
 review deposit as required by Sections 16-292(c) and 17-61(c), Town Code, in the amount of 
 $_____________ against and to secure payment of a portion of the Town’s review expense in 
 accordance with Sections 16-292(b) and 17-61(b), Town Code.  Any amount by which the 
@@ -2086,7 +2086,7 @@ Consultant Fees.
 follows:  All accounts are due net in 15 days from the date of the bill.  Interest on any overdue 
 amounts shall be accessed and paid by Applicant at the rate of 2% per month (24% APR) from 
 the date due until paid. 
- 5. Binding Obligation .  Applicant agrees and acknowledges that this 
+ 5. Binding Obligation.  Applicant agrees and acknowledges that this 
 Reimbursement Agreement shall be a continuing obligation which will run with the land and be 
 binding on Applicant and any future owners of the land, and will include the obligation to 
 reimburse the Town for any and all costs associated with the Property incurred by the Town for 
@@ -2113,7 +2113,7 @@ demand or draw for payment on any performance guarantee for completion of public
 improvements by any owner of the Property; refusal to allow further development review for the 
 Property or any other Property then owned by or owned in part by the owner of the Property; and 
 any other remedy available in equity or at law including claims for damages or injunction. 
- 7. No Representation Concerning Development Permits . Applicant 
+ 7. No Representation Concerning Development Permits. Applicant 
 acknowledges and agrees that the Town in no way guarantees, assures or otherwise represents 
 to Applicant that the Development Application filed by Applicant will be granted and makes no 
 representations concerning the timing of the review of the Application.   
@@ -2374,18 +2374,18 @@ I. Purpose
  
 The Town Council made a decision on an appeal of a code interpretation in May 
 regarding the Town’s Renewable Energy Mitigation Program (REMP) fees for spas.  The 
-appeal that was considered by the Town Council challenged the Town Staf f’s 
+appeal that was considered by the Town Council challenged the Town Staff’s 
 interpretation that REMP fees apply to spas that are not pre-packaged spas and that the 
-only spas that are exempt from REMP fees are pre -packaged/self-contained spas that 
-are 64 square feet or less  as is discussed in Town Code Section 18 -23, Sustainable 
-Building Regulations .  The Appellant made the argument that pre -packaged/self-
+only spas that are exempt from REMP fees are pre-packaged/self-contained spas that 
+are 64 square feet or less as is discussed in Town Code Section 18-23, Sustainable 
+Building Regulations.  The Appellant made the argument that pre-packaged/self-
 contained spas are not defined in the Town Code and that the Town’s fee schedule in 
-Appendix C of the Town Code does not discuss the criteria for a  spa to be exempt from 
-REMP f ees that are set forth in Town Code Section 18 -23, Sustainable Building 
+Appendix C of the Town Code does not discuss the criteria for a spa to be exempt from 
+REMP fees that are set forth in Town Code Section 18-23, Sustainable Building 
 Regulations. 
  
 The Council agreed with the Appellant and directed Staff to amend the Town Code to 
-correct the issue that the Town Code does not define what constitutes a pre -
+correct the issue that the Town Code does not define what constitutes a pre-
 packaged/self-contained spa and that Appendix C does not reference the criteria for a 
 spa to be exempt from REMP fees.  Therefore, Staff has proposed language attached as 
 Exhibit A to correct this issue.  The proposed code amendments add language to define 
@@ -2404,7 +2404,7 @@ III. Staff Recommendation
  
 Staff recommends that P&Z hear discussion from Staff on the proposed 
 amendments and provide P&Z comments.  If P&Z is comfortable with the 
-proposed amendments, S taff recommends P&Z making a motion to recommend 
+proposed amendments, Staff recommends P&Z making a motion to recommend 
 approval to the Town Council. 
  
 Attachments: 

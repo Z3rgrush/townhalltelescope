@@ -1,78 +1,6 @@
 # aurora
 
-## [aurora#0] 2026-08-24 | City Council | agenda
-- 15151 E. Alameda Parkway
-- 2.a Intergovernmental Agreement (IGA) for Automatic and Mutual Aid between
-- Aurora Fire Rescue and Sable-Altura Fire Protection District (Resolution)
-- Alec Oughton, Fire Chief, Fire / Angela Garcia, Senior Assistant City Attorney
-- 2.b Authorizing the Assignment of the City’s Private Activity Bond Allocation for
-- 2026 to the Aurora Housing Authority (Resolution)
-- Sarah Pulliam, Manager of Housing and Community Development, Housing and
-- 3.a Consideration for a Text Amendment to the Food Truck Standards and
-- Definition (Ordinance)
-- Erik Gates, Planner III, Planning and Business Development / Lena McClelland,
-- Miscellaneous Provisions (Ordinance)
-- 4. ITEMS FROM THE COUNCIL APPOINTEES
-- (Resolution)
-- 5.b Evaporative Cooling (Ordinance) 105
-- Marshall Brown, General Manager, Aurora Water / Ian Best, Senior Assistant
-- 5.c Text Amendment to Update the Permitted Use Table Regarding Data Centers
-- Brandon Cammarata, Planning Manager, Planning and Business Development /
-- 5.d Data Center Standards Discussion 120
-
-## [aurora#1] 2026-08-24 | City Council | agenda
-- 15151 E Alameda Parkway
-- 6. APPROVAL OF MINUTES
-- Any member of Council may request an item be removed from Consent Calendar and
-- considered separately. Removed items are considered immediately following the
-- 10.a.1 2027-2028 Collective Bargaining Agreement between the City of
-- Aurora and International Association of Fire Fighters (IAFF) Local
-- 10.a.2 2027-2028 Collective Bargaining Agreement between the City of
-- Aurora and Fraternal Order of Police, Lodge #49
-- 10.c Appointments to Boards and Commissions
-- 10.c.1 Consideration to Appoint One (1) Member to the Oil and Gas
-- 11. CONSENT CALENDAR - RESOLUTIONS AND ORDINANCES
-- 11.a Resolutions
-- R2026-99 A RESOLUTION OF THE CITY COUNCIL OF THE
-- CITY OF AURORA, COLORADO, APPROVING AN
-- INTERGOVERNMENTAL AGREEMENT BY AND AMONG THE
-- COMMUNITY DEVELOPMENT BLOCK GRANT FUNDS
-- Housing and Community Services / Andrea Wood, Assistant City
-- R2026-100 A RESOLUTION OF THE CITY COUNCIL OF THE
-- CITY COUNCIL’S APPROVAL AND DELEGATION OF
-- WATER TO ADMINISTRATIVELY APPROVE CERTAIN,
-- LIMITED, INTERGOVERNMENTAL AGREEMENTS RELATED
-- Engineering, Aurora Water / Ian Best, Senior Assistant City Attorney
-- 11.a.3 Request for Support of Proposition 308 123
-- R2026-101 A RESOLUTION OF THE CITY COUNCIL OF THE
-- Aurora Water / Ian Best, Senior Assistant City Attorney
-- 11.a.4 Rules of Order and Procedure: Amendments to Various Sections 135
-- R2026-102 A RESOLUTION OF THE CITY COUNCIL OF THE
-- CITY OF AURORA, COLORADO, TO AMEND VARIOUS
-- 11.b Finalizing of Ordinances
-- Ordinances approved unanimously at first reading
-- 12. PUBLIC HEARINGS
-- Public hearings with or without related ordinances
-- 12.a Amendment to the Comprehensive Plan Placetype Map - Regis Jesuit High 151
-- 2026-44 A PUBLIC HEARING AND INTRODUCTION OF AN
-- ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AURORA,
-- COLORADO, AMENDING THE 2018 COMPREHENSIVE PLAN TO
-- NORTH OF EAST ARAPAHOE ROAD, AND WEST OF S OLATHE
-- STREET (REGIS JESUIT HIGH COMPREHENSIVE PLAN AMENDMENT)
-- Development / Lena McClelland, Senior Assistant City Attorney
-- 13. INTRODUCTION OF ORDINANCES
-- 13.a Socioeconomic Sales and Services Impact Permit 158
-- 2026-45 AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF
-- AURORA, COLORADO, AMENDING THE AURORA CITY CODE BY
-- AMENDING DIVISION 4 OF ARTICLE VI OF CHAPTER 86
-- 13.b Authorizing 2026 Lease-Purchase Financing for Heavy Fleet Vehicles 221
-- 2026-46 AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF
-- PURCHASE FINANCING TO ACQUIRE CERTAIN EQUIPMENT
-- PURSUANT TO THE TERMS OF AN EQUIPMENT LEASE-PURCHASE
-- AGREEMENT BY AND BETWEEN THE AURORA CAPITAL LEASING
-- TRANSACTIONS CONTEMPLATED HEREBY; AND OTHER RELATED
-
-## [aurora#2] 2026-09-14 | City Council | agenda
+## [aurora#0] 2026-09-14 | City Council | agenda
 - 15151 E Alameda Parkway
 - 4. RECONSIDERATION AND CALL UPS
 - 5.a Data Center Moratorium 2026 2
@@ -122,7 +50,7 @@
 - 6. APPROVAL OF MINUTES
 - Any member of Council may request an item be removed from Consent Calendar and
 
-## [aurora#3] 2026-09-28 | City Council | agenda
+## [aurora#1] 2026-09-28 | City Council | agenda
 - 15151 E. Alameda Parkway
 - 2.a Consideration to Appoint Six (6) Members to the Citizens’ Advisory Committee
 - on Housing and Community Development
@@ -142,7 +70,7 @@
 - Agendas (Resolution)
 - 7.a Proposed Interview and Appointment Schedule for the Planning and Zoning
 
-## [aurora#4] 2026-09-28 | City Council | agenda
+## [aurora#2] 2026-09-28 | City Council | agenda
 - 15151 E Alameda Parkway
 - 6. APPROVAL OF MINUTES
 - Any member of Council may request an item be removed from Consent Calendar and
@@ -194,7 +122,7 @@
 - 15. FINALIZING OF ORDINANCES
 - Ordinances, including annexation ordinances, not approved unanimously at first reading
 
-## [aurora#5] 2026-10-03 | City Council | agenda
+## [aurora#3] 2026-10-03 | City Council | agenda
 - 15151 E. Alameda Parkway
 - 1. DISCUSSION OF BUDGET RULES FOR THE DAY
 - 2. BUDGET DELIBERATIONS
@@ -223,7 +151,7 @@
 - 4.g General Improvement District 2-2009 (Pier Point 7) 2027 Operating Budget (Ordinance)
 - 4.h 2026 – 2027 City Pay Table and Classification (Resolution)
 
-## [aurora#6] 2026-10-12 | City Council | agenda
+## [aurora#4] 2026-10-12 | City Council | agenda
 - 15151 E. Alameda Parkway
 - 2.a Consideration to Appoint Three (3) Members to the Library Board 4
 - 2.b Akron Storm Sewer and Outfall to Westerly Creek Intergovernmental
@@ -255,7 +183,7 @@
 - Districts (Ordinance)
 - Kelly Bish, Senior Planner III, Planning and Business Development / Lena
 
-## [aurora#7] 2026-10-12 | City Council | agenda
+## [aurora#5] 2026-10-12 | City Council | agenda
 - 15151 E Alameda Parkway
 - 6. APPROVAL OF MINUTES
 - Any member of Council may request an item be removed from Consent Calendar and
@@ -307,7 +235,7 @@
 - 16. ANNEXATIONS
 - Public Hearings and Introduction of Annexation Ordinances
 
-## [aurora#8] 2026-10-26 | City Council | agenda
+## [aurora#6] 2026-10-26 | City Council | agenda
 - 15151 E. Alameda Parkway
 - 2.a Consideration to Reappoint Two (2) Members to the Public Defender
 - 2.b Consideration to Appoint Two (2) Members to the Arts and Culture Commission 33
@@ -324,7 +252,7 @@
 - 5.a Data Center Standards Discussion 3 225
 - Brandon Cammarata, Planning Manager, Planning and Business Development /
 
-## [aurora#9] 2026-10-26 | City Council | agenda
+## [aurora#7] 2026-10-26 | City Council | agenda
 - 15151 E Alameda Parkway
 - 6. APPROVAL OF MINUTES
 - Any member of Council may request an item be removed from Consent Calendar and
@@ -372,3 +300,98 @@
 - 12.b Finalizing of Ordinances
 - Ordinances, including annexation ordinances, approved unanimously at first
 - 12.b.1 Text Amendment to Update the Permitted Use Table Regarding Data
+
+## [aurora#8] 2026-11-09 | City Council | agenda
+- 15151 E Alameda Parkway
+- 6. APPROVAL OF MINUTES
+- Any member of Council may request an item be removed from Consent Calendar and
+- considered separately. Removed items are considered immediately following the
+- 11.c Appointments to Boards and Commissions
+- 11.c.1 Consideration to Reappoint Two (2) Members to the Public Defender
+- 11.c.2 Consideration to Appoint Two (2) Members to the Arts and Culture
+- 12. CONSENT CALENDAR - RESOLUTIONS AND ORDINANCES
+- 12.a Resolutions
+- R2026-116 A RESOLUTION OF THE CITY COUNCIL OF THE
+- CITY OF AURORA, COLORADO, APPROVING THE 2027 CITY
+- 12.a.2 Comprehensive Safety Action Plan 107
+- R2026-117 A RESOLUTION OF THE CITY COUNCIL OF THE
+- COMPREHENSIVE SAFETY ACTION PLAN
+- 12.a.3 First Amendment to 38th Avenue Interchange Maintenance and
+- Operation Intergovernmental Agreement (IGA)
+- R2026-118 A RESOLUTION BY THE CITY COUNCIL OF THE
+- AMENDMENT TO INTERGOVERNMENTAL AGREEMENT
+- Haley Johansen, City Engineer, Development Services / Michelle
+- 12.a.4 First Amendment to Aurora Fire Rescue and South Metro Fire Rescue
+- Mutual Aid Agreement
+- R2026-119 A RESOLUTION OF THE CITY COUNCIL OF THE
+- CITY OF AURORA, COLORADO, APPROVING THE FIRST
+- AMENDMENT TO THE INTERGOVERNMENTAL AGREEMENT
+- BETWEEN THE CITY OF AURORA AND SOUTH METRO FIRE
+- RESCUE FIRE PROTECTION DISTRICT F/K/A SOUTH
+- METRO/CUNNINGHAM FIRE RESCUE AUTHORITY
+- Hunter Hackbarth, Assistant Fire Chief, Fire / Angela Garcia, Senior
+- 12.a.5 Third Amendment to an Intergovernmental Agreement (IGA)
+- R2026-120 A RESOLUTION OF THE CITY COUNCIL OF THE
+- CITY OF AURORA, COLORADO, APPROVING THE THIRD
+- AMENDMENT TO AN INTERGOVERNMENTAL AGREEMENT
+- BETWEEN AURORA WATER AND URBAN DRAINAGE AND
+- CONSTRUCTION OF FLOOD CONTROL IMPROVEMENTS FOR
+- Andrea Long, Principal Engineer, Aurora Water / Ian Best, Senior
+- 12.a.6 Coal Creek at Picadilly Road Intergovernmental Agreement (IGA) 308
+- R2026-121 A RESOLUTION OF THE CITY COUNCIL OF THE
+- DRAINAGE AND FLOOD CONTROL IMPROVEMENTS FOR
+- COAL CREEK AT PICADILLY ROAD
+- 12.b Finalizing of Ordinances
+- Ordinances, including annexation ordinances, approved unanimously at first
+- 2026-53 AN ORDINANCE OF THE CITY COUNCIL OF THE
+- 13. PUBLIC HEARINGS
+- Public hearings with or without related ordinances
+- 14. INTRODUCTION OF ORDINANCES
+- 14.a 2027 Tax Levy Ordinance 345
+- 2026-54 AN ORDINANCE ESTABLISHING THE TAX LEVY ON ALL
+- TAXABLE PROPERTY WITHIN THE CORPORATE LIMITS OF THE
+- CITY OF AURORA, COLORADO, FOR THE TAX COLLECTION YEAR
+- AND AUTHORIZING A TEMPORARY PROPERTY TAX CREDIT FOR
+- Greg Hays, Budget Officer, Finance / Hanosky Hernandez, Senior Assistant
+- 14.b 2027 Budget Appropriations Ordinance 350
+
+## [aurora#9] 2026-11-09 | City Council | agenda
+- 15151 E. Alameda Parkway
+- 2.a Consideration to Appoint One (1) Member to the Commission for Older Adults 8
+- 2.b Consideration to Reappoint One (1) Member to the Homestake Steering
+- Marshall Brown, General Manager, Aurora Water / Ian Best, Senior Assistant
+- 2.c Consideration to Reappoint One (1) Member to the Joint Water Authority 23
+- 2.d Piney Lake Trails Storm Intergovernmental Agreement (IGA) (Resolution) 30
+- Chong Woo, Deputy Director of Planning and Engineering, Aurora Water / Ian
+- 2.e South Adams Water Rights Trade (Resolution) 50
+- Dawn Jewell, Water Resources Manager, Aurora Water / Ian Best, Senior
+- Assistance Grant (JAG) Memorandum of Understanding (MOU) (Resolution)
+- John Schneebeck, Deputy Director of Police Business Services, Police / Mandy
+- 2.g Nine Mile Intergovernmental Agreement (IGA) (Resolution) 163
+- Marc Sears, Lieutenant, Police / Mandy MacDonald, Assistant City Attorney
+- 2.h Green Valley Ranch East Metropolitan District No. 6 Service Plan Amendment
+- (Resolution)
+- Michael Kerrigan, Special District Administrator, Development Services / Brian
+- 2.i Green Valley Ranch East Metropolitan District No. 7 Service Plan Amendment
+- 2.j Green Valley Ranch East Metropolitan District No. 8 Service Plan Amendment
+- 2.k Green Valley Ranch East Metropolitan District No. 9 Service Plan Amendment
+- 2.l Green Valley Ranch East Metropolitan District No. 10 Service Plan Amendment
+- 2.m Green Valley Ranch East Metropolitan District No. 11 Service Plan Amendment
+- 2.n Green Valley Ranch East Metropolitan District No. 12 Service Plan Amendment
+- 2.o Green Valley Ranch East Metropolitan District No. 13 Service Plan Amendment
+- 2.p Green Valley Ranch East Metropolitan District No. 14 Service Plan Amendment
+- 2.q 2027 Board of Directors Appointment - Citadel on Colfax Business
+- Improvement District (BID) (Resolution)
+- 2.r 2027 Operating Plan and Budget - Citadel on Colfax Business Improvement
+- District (BID) (Resolution)
+- 2.s 2027 Operating Plan and Budget - Fitzsimons Business Improvement District
+- (BID) (Resolution)
+- 2.t 2027 Operating Plan and Budget - Havana Business Improvement District (BID)
+- 2.u 2027 Operating Plan and Budget - Painted Prairie Business Improvement
+- District (BID) No. 1 (Resolution)
+- 2.v 2027 Operating Plan and Budget - Painted Prairie Business Improvement
+- District (BID) No. 2 (Resolution)
+- 2.w 2027 Operating Plan and Budget - Parkside at City Centre Business
+- 2.x 2027 Operating Plan and Budget - Porteos Business Improvement District (BID)
+- 2.y 2027 Operating Plan and Budget - Tower Business Improvement District (BID)
+- 2.z 2027 Operating Plan and Budget - Windler Business Improvement District

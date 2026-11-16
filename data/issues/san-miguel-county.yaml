@@ -1,136 +1,134 @@
-- title: 'Natural Resources code rewrite: forestry, oil & gas, and deep geothermal'
-  summary: The county is adding a new Article 6 on Natural Resources to the Land Use Code, covering forestry practices (including streamlined review of wildfire mitigation logging), oil and gas operations, and deep geothermal. The Planning Commission took these up in September and October, and the Commissioners scheduled public hearings on Resolutions 2026-40 through 2026-43 for October 21.
-  where: Countywide
+- title: 'Natural resources Land Use Code rewrite: forestry, oil & gas, geothermal'
+  summary: The Planning Commission reviewed new Land Use Code sections on forestry practices (including streamlining wildfire mitigation), oil and gas operations, and deep geothermal operations, with Sheep Mountain Alliance commenting on forestry. The commissioners then scheduled Resolutions 2026-40 through 2026-43 for public hearings on Oct. 21 to adopt the amendments.
+  where: Countywide (unincorporated San Miguel County)
+  refs:
+  - 7
+  - 8
+  - 21
+  - 23
+  - 24
+  topics:
+  - Zoning & development
+  - Oil, gas & mining
+  - Energy
+  public_comment: true
+- title: Affordable housing code update and employee housing impact fee
+  summary: The county is rewriting its Land Use Code to make affordable and workforce housing easier to build, funded by a Prop 123 grant, with stakeholder roundtables on density bonuses, ADUs and a Community Housing Zone. Planning Commission work sessions also looked at the Employee Housing Impact Mitigation Fee, which applies to new construction in the Telluride R-1 school district area.
+  where: Unincorporated San Miguel County
   refs:
   - 9
-  - 10
-  - 22
-  - 23
+  - 15
+  - 16
+  - 20
+  - 21
+  - 33
+  - 37
+  - 38
+  topics:
+  - Housing
+  - Fees & rates
+  - Zoning & development
+- title: Mountain Village affordable housing setback variance on County Road 63L
+  summary: The Board of Adjustment considered a request from the Town of Mountain Village to cut the setback from the County Road 63L right-of-way from 20 feet to 7 feet on a 56.34-acre Community Housing zoned parcel. The town says this keeps housing farther from the riparian corridor and wetlands, and staff recommended a five-year approval.
+  where: 'Parcel #456536200023, County Road 63L (Ilium)'
+  refs:
   - 25
   - 26
   topics:
-  - Oil, gas & mining
+  - Housing
+  - Zoning & development
   - Environment & climate
-  - Zoning & development
-  public_comment: true
-- title: Housing Code Update and affordable housing code changes
-  summary: Funded by a Proposition 123 planning grant, the county is reworking its Land Use Code to make affordable and workforce housing easier to build in unincorporated areas. Stakeholder roundtables have discussed a community housing zone, density bonuses tied to deed-restricted workforce housing, ADU barriers and streamlined review, and the Planning Commission held a work session on October 8. A shared inter-jurisdictional Prop 123 housing presentation was set for November 9.
-  where: Unincorporated San Miguel County
+- title: Placerville Park rezoning around the fire station
+  summary: San Miguel County asked the Planning Commission to recommend rezoning part of Placerville Park around the fire station from Forestry, Agriculture and Open to a Public zone. Telluride Fire Protection District is also giving a project update on Placerville Station 3.
+  where: Placerville Park and fire station
   refs:
-  - 1
-  - 11
-  - 22
-  - 23
-  - 31
-  - 35
-  - 36
-  topics:
-  - Housing
-  - Zoning & development
-- title: 'Land Use Code amendments: affordable housing qualified developer, nonconforming lots, natural medicine'
-  summary: The Planning Commission reviewed amendments to let the county define a qualified affordable housing developer, to allow uses and special use permits on nonconforming lots, and to set rules (including a 1,000-foot buffer from daycares) for where natural medicine businesses can operate. Attorneys and consultants spoke on the nonconforming lots item; no one commented on natural medicine.
-  where: Unincorporated San Miguel County
-  refs:
-  - 1
-  topics:
-  - Zoning & development
-  - Housing
-  - Health & human services
-  public_comment: true
-- title: Employee Housing Impact Mitigation Fee review
-  summary: Commissioners discussed the county's Employee Housing Impact Mitigation Fee, adopted in 2022 and amended in 2023, which applies to new construction and additions in the unincorporated Telluride R-1 school district area. The county uses the payments to buy housing units, partner on community housing like Sunnyside, and purchase land. Staff compared it with Telluride's and Mountain Village's fees.
-  where: Unincorporated county in the Telluride R-1 school district
-  refs:
-  - 17
-  - 18
-  topics:
-  - Fees & rates
-  - Housing
-- title: Mountain Village Ilium affordable housing setback variance
-  summary: The Town of Mountain Village asked the Board of Adjustment to cut the setback from County Road 63L from 20 feet to 7 feet on a 56.34-acre Community Housing parcel. The town says this keeps homes farther from the riparian corridor and wetlands, and staff recommended a five-year approval.
-  where: 'Parcel #456536200023, County Road 63L (Ilium)'
-  refs:
-  - 27
   - 28
-  topics:
-  - Housing
-  - Zoning & development
-  - Environment & climate
-- title: Bridal Veil Falls water flow and nesting black swifts
-  summary: Residents raised concern that diversion by the town dropped flow at Bridal Veil Falls to about 1 cfs versus the 6.5 cfs required, threatening nesting black swifts. The Open Space Commission noted no management prescriptions exist for minimum water, that the Forest Service and US Fish & Wildlife are the appropriate leads, and considered the matter resolved for now as the birds migrate.
-  where: Bridal Veil Falls
-  refs:
-  - 3
-  - 16
-  topics:
-  - Water
-  - Agriculture & wildlife
-  - Environment & climate
-  public_comment: true
-- title: Open Space Commission work plan, new Parks and Open Space manager, and park projects
-  summary: J.D. Wise was introduced as the new Parks and Open Space Manager, and commissioners are choosing 3-5 priority projects and cuts ahead of the November 9 budget deadline. Galloping Goose Park is targeted for completion by October 29, and the commission wants Gunnison sage-grouse work kept on the plan, plus a short management plan and fire mitigation for an under-used property.
-  where: Galloping Goose Park, Mill Creek Park and county open space
-  refs:
-  - 3
-  - 15
-  - 16
-  - 31
-  topics:
-  - Parks & open space
-  - Recreation & trails
-  - Budget & taxes
-- title: Noxious weed program, grants and enforcement
-  summary: The Noxious Weed Advisory Board is weighing how to allocate a $5,800 state Noxious Weed Fund grant and whether to enforce weed rules on landowners. The county also set the 2027 Vegetation Control and Management fee schedule (Resolution 2026-44), and a tamarisk removal project in Dry Creek Basin covered about 3 miles.
-  where: Countywide
-  refs:
-  - 5
-  - 6
-  - 32
-  - 33
-  topics:
-  - Agriculture & wildlife
-  - Fees & rates
-  - Environment & climate
-- title: San Miguel Basin Fair Board budget shortfall and possible separation from the county
-  summary: The Fair Board reported a $13,000 unfavorable budget position, pursued grants, and deferred equipment purchases until the budget is balanced. The county manager floated separating the Fair Board from the county as a nonprofit, with updated bylaws and a dissolution agreement, and the board discussed 2027 livestock sale rule changes.
-  where: San Miguel Basin Fairgrounds, Norwood
-  refs:
   - 29
   - 37
   - 38
   topics:
-  - Budget & taxes
-  - Agriculture & wildlife
-  - Government operations
-  public_comment: true
-- title: Telluride Pines water system CDBG grant
-  summary: Commissioners considered co-sponsoring a Colorado Community Development Block Grant application for Telluride Pines HOA to restore safe and reliable water.
-  where: Telluride Pines
+  - Zoning & development
+  - Fire & emergencies
+  - Parks & open space
+- title: Bridal Veil Falls low water flow and black swifts
+  summary: Citizens raised concern that Town diversions dropped flow at Bridal Veil Falls to about 1 CFS versus the 6.5 CFS required, threatening nesting black swifts. The Open Space Commission noted no management prescriptions for minimum flows exist, pointed to the Forest Service and US Fish & Wildlife, and considered it resolved for now as the birds migrate.
+  where: Bridal Veil Falls
   refs:
-  - 25
-  - 26
+  - 1
+  - 14
   topics:
   - Water
-  - Utilities
-- title: Placerville and Sawpit transportation and fire station updates
-  summary: Down-valley residents asked for multimodal improvements with CDOT in Sawpit and Placerville, signage for Juniper Village Road, and planning for Highway 145 work around the 2027 Norwood Hill rockfall project. The Telluride Fire Protection District gave an update on the Placerville Station 3 project, and the county planned an RFP for the Down Valley Master Plan.
-  where: Placerville and Sawpit
+  - Agriculture & wildlife
+  - Environment & climate
+  public_comment: true
+- title: County parks and open space projects and new manager
+  summary: The Open Space Commission followed Galloping Goose Park (target completion around Oct. 29), Mill Creek Park, Placerville schoolhouse masonry work and the Down Valley park properties, where fire mitigation and a management plan are priorities. New Parks and Open Space Manager J.D. Wise was introduced, and the commission is preparing 2027 priorities and budget cuts.
+  where: Galloping Goose Park, Mill Creek Park, Down Valley Park
   refs:
+  - 1
+  - 13
+  - 14
+  - 28
+  - 29
+  - 39
+  - 40
+  topics:
+  - Parks & open space
+  - Budget & taxes
+  - Recreation & trails
+- title: Noxious weed grant funds and enforcement
+  summary: The Noxious Weed Advisory Board discussed how to allocate a $5,800 Colorado Department of Agriculture Noxious Weed Fund grant, with Julie Kolb to draft allocation options. It also discussed enforcement against landowners and 2027 grant outlook, while commissioners set the 2027 Vegetation Control and Management fee schedule.
+  where: Countywide
+  refs:
+  - 3
+  - 4
   - 30
   - 31
   topics:
-  - Roads & traffic
-  - Fire & emergencies
-  - Transit
-- title: 2027 community support funding and gondola agreement
-  summary: Commissioners considered 2027 Community Support Funding requests (including the Telluride Historical Museum, West End Family Link at $12,000 and the Norwood Community Garden) and approved the 2027 Gondola IGA supplement, which shares the gondola replacement planning budget among five entities.
-  where: Countywide
+  - Agriculture & wildlife
+  - Fees & rates
+  - Environment & climate
+- title: San Miguel Basin Fair Board budget shortfall and possible separation from county
+  summary: The Fair Board reported a $13,000 budget shortfall due to low livestock sale revenue and deferred equipment purchases until the budget balances. County Manager Mike Bordogna raised separating the Fair Board as a nonprofit, and the board discussed 2027 junior livestock sale rule changes.
+  where: San Miguel Basin Fairgrounds, Norwood
   refs:
-  - 17
-  - 25
-  - 26
-  - 33
+  - 27
+  - 35
+  - 36
   topics:
   - Budget & taxes
+  - Tourism & events
+  - Government operations
+  public_comment: true
+- title: Highway 145 multimodal improvements and Down Valley planning
+  summary: Commissioners followed up on requests to CDOT for multimodal improvements in Sawpit and Placerville, signage at Juniper Village Road, and Norwood Hill rockfall project timing. They also tracked the Down Valley Master Plan RFP and fire mitigation on county-owned Down Valley property.
+  where: Sawpit, Placerville and Down Valley
+  refs:
+  - 28
+  - 29
+  - 38
+  topics:
+  - Roads & traffic
   - Transit
+  - Zoning & development
+- title: Telluride Pines water system CDBG application and community funding
+  summary: Commissioners considered co-sponsoring a Colorado CDBG Public Facilities application for Telluride Pines HOA to restore safe and reliable water. They also took up 2027 Community Support Funding, including West End Family Link ($12,000) and the Norwood Community Garden.
+  where: Telluride Pines; Countywide
+  refs:
+  - 15
+  - 23
+  - 24
+  - 31
+  topics:
+  - Water
+  - Budget & taxes
   - Health & human services
+- title: Gondola replacement cost-sharing agreement for 2027
+  summary: The board considered the chair's signature on the fourth supplement to the five-entity intergovernmental agreement sharing the 2027 planning and development budget for the gondola replacement project.
+  where: Telluride / Mountain Village gondola
+  refs:
+  - 23
+  - 24
+  topics:
+  - Transit
+  - Budget & taxes

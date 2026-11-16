@@ -1,134 +1,6 @@
 # superior
 
-## [superior#0] 2026-08-12 | Open Space Advisory Committee (OSAC) | minutes
-- b. Agenda Approval - motion to approve by Rita, 2nd by Mike - unanimous OSAC
-- c. Public Comment (limit 5 minutes/person) - none
-- 3. OSAC Discussion Items
-- 3.a.1. Open Space Master plan will be reviewed in Oct for Approval
-- The budget process has started including funding for a Full time Open
-- project implementation costs
-- conditions etc. (scheduled for Fall), developing a plan for disposal of
-- 3.a.3. BOCO Youth Corps completed several projects over the summer
-- Conor Curtis managed the team. Projects included: Weeding across 6
-- parks, removing 200 30 gal bags of weeds, 4,200 ft of barbed wire fence
-- removed off Coyote Ridge, repaired 2,400 feet of trail in Autry Park, Stained
-- fencing near Autry Park, removed 200 lbs. of trash near Coal Creek
-- 3.a.5. BOCO fire mitigation - 1st week of Oct 5-8 planned weed removal
-- 3.a.6. Council is starting the preliminary budget review process
-- b. Coyote Ridge consultant presentation (6:40) - Pointe Strategies reviewed draft
-- recommendations for Coyote Ridge trail projects. The recommendations will need
-- to be reviewed and approved by TOS staff. Once approved by staff, Pointe
-- Strategies will develop cost estimates and schedules. The next update is planned
-- hold for now. Efforts for the ranking focused on projects with potential funding
-- planned projects will be for Coyote Ridge based upon Pointe Solutions
-- d. Prairie Dog (PD) Management Plan outline review (7:10)
-- Superior. Amber is updating the plan and playbook to proactively address
-- private and public considerations, relocation strategies, conflict management,
-- Motion to approve as documented by Mike, 2nd by Gordon, Approved
-- g. Wildfire Mitigation (7:40)
-- Fund. The OS Fund is used for spending on recommended town funded projects
-- purchases of properties prioritized by OSAC and approved by Town Council
-- August. This number is likely low considering several entry/exits do not currently
-- d. Town Wildlife Management Plan
-- bike speed management, Fire Mitigation-habitat conversation balance, Ash Tree
-
-## [superior#1] 2026-08-13 | Advisory Committee for Environmental Sustainability (ACES) | minutes
-- b. Approval of Agenda
-- ● Approved Unanimously
-- c. Public Comment (limit 5 minutes/person)
-- spraying event in the park, ref: email to ACES
-- ● Water/pond near the spraying of
-- ● Vargas met with Parks - sprayed from Indiana to Pitkin to
-- ● Jamie was told spraying was limited to 20 feet away from
-- ● Should be competitive bidding for environmental town
-- ● Discussions are happening at council level at the
-- ● Attended the Consortium of Cities, where they discussed long
-- term climate trends, water and drought, etc. for preparedness
-- talking about wildfire smoke and the community sharing
-- experiences of how residents respond to fire trauma. What
-- ● Finance committee meeting next week to get the budget
-- ● 4 open seats for council. Consider running
-- update. Recommendation to amend agenda permanently
-- ● Aug 31st work session talking about water conservation
-- Includes turf plan, prioritization tool, areas that have been turned
-- ● Water Conservation draft live with survey on Shape Superior
-- ● Budget update - all internal discussions held. Next steps
-- ● Hazardous Waste bill moving to utility budget (moving out
-- ● Capital budget - solar, O&M, Building decarb cut back to
-- Rock Creek potentially rolls into the Town waste contract
-- 4. Discussion Items
-- a. Presentation on Apartment Complex Recycling and Composting
-- Assessment Project from IDG
-- ● Partnered with C3 on this project
-- ● Recycling in all new developments per statute
-- ● Discussion around recommendations for Town and Property
-- b. Proposed Business Microgrant Presentation
-- ● Comp plan - businesses would be interested in learning
-- ● Trying to incentivize - $5k in the budget
-- ● Max award $2,500 - launch in February 2027
-- i. Window visibility – grant awardee, not
-- i. Green Business Microgrant
-- c. ACES events discussion
-- from adults - inform microgrant project
-- in a sustainability capacity, discuss potential partnerships. Aim
-- ● Brainstorm on discussion items to bring to the next
-- d. ACES Water Conservation and Council
-- watering restrictions
-- ● Plan to have regional water experts to present each year to
-- ● Are regional discussions happening?
-- Council based on ACES discussion
-- ● Standing update on water and climate
-- 2) Brainstorm on discussion items to bring to the next meeting for collaboration
-
-## [superior#2] 2026-08-14 | General | agenda
-- 2) Budget Process and Calendar Discussion
-
-## [superior#3] 2026-08-14 | General | agenda
-- 2) Budget Process and Calendar Discussion
-- Sales tax revenues are up (0.2%) through May (compared to 2025). The 2026 budget has
-- sales tax at flat when compared to 2025. Vehicle use tax is down (17.1%) when
-- compared to 2025 and is down about 20% from budget. Staff will continue to watch
-- Other Town revenues and expenses are generally at budgeted projections
-- budgeted levels). Most of the increase coming from grant revenue from
-- Boulder County for the Kite Route Project. Slower property tax revenue
-- o Total Water Fund revenues up 2.8% from 2025 (at 2026 budgeted levels)
-- Water usage higher in 2026 by 17.4% (includes 9.5% rate increase)
-- System development fees paid in 2026 down 10.6% when compared to
-- Other 2026 revenues are in-line with budgets
-- o GF up 36.2% from 2025. System development fee rebates and Kite Route
-- grant expense paid in 2026 make up the majority of the increase. Clerk
-- o Water up 9.5% from 2025. The result of higher Windy Gap allotment
-- contract and Windy Gap carriage and power expenses in 2026. Expenses
-- still within budget
-- Revenue. General Fund revenues are slightly below budget expectations. Staff
-- Superior’s sales and use tax receipts as well as total General Fund revenues:
-- Sales Tax Revenues - Through May 2026
-- 2026 YTD Change in Sales Tax Revenues
-- (2026 budgeted increase at 0% from 2025)
-- Sales & Use Tax 7,105,586$ 7,180,418$ 74,833$ 1.1%
-- Property Tax 3,062,274 3,020,985 (41,289) -1.3%
-- Other Tax 470,534 483,549 13,015 2.8%
-- Licenses and Permits 789,984 545,894 (244,090) -30.9%
-- Miscellaneous $1M grant received from Boulder County for Affordable and Attainable
-- Housing Tax (AAHT)
-- Permit and Plan Check revenues down in 2026 with less building activity
-- Property tax collections slightly lower in 2026
-- Charges for Services higher in 2026 with higher development review fees, facility use and
-- recreation program fees in 2026
-- Building use tax up in 2026 when compared to 2025 with permit for affordable housing pulled
-- in 2026. Vehicle Use Tax down 17.1% in 2026. Sales Tax up (0.2%) through May
-- 2025 Actual 2026 Actual 2026 Budget
-- Parks & Recreation 1,870,601 2,071,801 201,201 10.8%
-- Fire - Building Rebates 34,424 10,374 (24,051) -69.9%
-- CIP Revenue. At expectations. Revenue is generated from an on -going 0.3%
-- dedicated sales and use tax, plus transfers from the General Fund and Marshall Fire
-- Capital Improvement Program (CIP) Fund:
-- Project Additional Description Budget Cost Final Cost
-- Fence Maintenance Yearly contract for fence
-- Reception desk project 120,000 In progress - $157,537 spent
-- budget due to project and
-
-## [superior#4] 2026-08-19 | Parks and Recreation Advisory Committee (PARC) | agenda
+## [superior#0] 2026-08-19 | Parks and Recreation Advisory Committee (PARC) | agenda
 - Parks and Recreation Advisory Committee (PARC)
 - b. Approval of Agenda
 - c. Public Comment (limit 5 minutes/person)
@@ -138,7 +10,7 @@
 - d. Future park walk, schedule
 - e. Annual Parks and Rec Conference, Breckenridge, 10/21-10/23 (PARC
 
-## [superior#5] 2026-08-21 | Superior Historical Commission (SHC) | minutes
+## [superior#1] 2026-08-21 | Superior Historical Commission (SHC) | minutes
 - c. Public Comment (limit 5 minutes/person) - none
 - Folsom for participation in the ANFRM presentation last
 - ii. Marshall Fire Remembrance subcommittee
@@ -177,7 +49,7 @@
 - some discussion related to the miner’s hat, the positioning of
 - All in all, feedback from the group was generally positive
 
-## [superior#6] 2026-08-24 | Town Council | minutes
+## [superior#2] 2026-08-24 | Town Council | minutes
 - c. Approval of Agenda
 - Motion: Council Member Cracraft moved to approve the agenda with no
 - Motion: Mayor Lacis moved to appoint Council Member Kaaoush as Mayor
@@ -205,7 +77,7 @@
 - the Colorado Department of Transportation for the 88th Street Bicycle and
 - Pedestrian Improvements Project,
 
-## [superior#7] 2026-08-27 | Cultural Arts and Public Spaces Advisory Committee (CAPS) | minutes
+## [superior#3] 2026-08-27 | Cultural Arts and Public Spaces Advisory Committee (CAPS) | minutes
 - b. Approval of Agenda
 - No changes proposed. Motion to approve the agenda as printed; seconded
 - Agenda approved
@@ -246,14 +118,14 @@
 - 5. Work Plan Check-In
 - The proposed route follows the community trail through Circle Park rather than
 
-## [superior#8] 2026-08-31 | Town Council | agenda
+## [superior#4] 2026-08-31 | Town Council | agenda
 - 1. Work Session Discussion Items 6:00pm
 - a. Update on Marshall Fire Memorial Project
 - b. Discussion of Advisory Committee Term Limits
 - d. Discussion of Boulder County Child Care Investment Initiative
 - Public comments regarding general Town Council agenda items that are not a public hearing
 
-## [superior#9] 2026-08-31 | Town Council | agenda
+## [superior#5] 2026-08-31 | Town Council | agenda
 - 1. Work Session Discussion Items 6:00pm
 - a. Update on Marshall Fire Memorial Project
 - b. Discussion of Advisory Committee Term Limits
@@ -287,13 +159,13 @@
 - the kickoff fundraising for the MFRP. Five years after the Marshall Fire, our community gathers
 - not only to remember, but to celebrate how far we've come. Together we'll honor the resilience
 
-## [superior#10] 2026-08-31 | Town Council | agenda
+## [superior#6] 2026-08-31 | Town Council | agenda
 - Reports/2027-Budget
 - 1. Overview of 2027 Budget and 2027 - 2031 Financial Plan
 - 2. Operating/Capital Budget Review
 - 3. Date for next Budget Review Session – Tuesday, September 8, 2026 (3 p.m.)
 
-## [superior#11] 2026-09-01 | Planning Commission | minutes
+## [superior#7] 2026-09-01 | Planning Commission | minutes
 - b. Public comment on Consent Agenda, Presentations, and Non-Agenda Items
 - Persons making public comment are asked to state your name and the city
 - Approval of Minutes of Planning Commission
@@ -310,7 +182,7 @@
 - Motion: Ryan Mojo moved to recommend approval of a Twenty-Fifth
 - Amendment to the Planned Development Plan for the Zaharias Property, Case
 
-## [superior#12] 2026-09-02 | Superior Youth Leadership Council (SYLC) | agenda
+## [superior#8] 2026-09-02 | Superior Youth Leadership Council (SYLC) | agenda
 - 2250 Main Street
 - b. Approval of Agenda
 - c. Public Comment (limit 5 minutes/person)
@@ -318,7 +190,7 @@
 - 6. Discussion Items
 - 1. Planning discussion
 
-## [superior#13] 2026-09-09 | Open Space Advisory Committee (OSAC) | minutes
+## [superior#9] 2026-09-09 | Open Space Advisory Committee (OSAC) | minutes
 - b. Agenda Approval, Todd Gleeson amended to include a presentation from Peter
 - c. Public Comment (limit 5 minutes/person) no public comment
 - 3. OSAC Discussion Items
@@ -343,7 +215,7 @@
 - fundraising for the Marshall Fire Remembrance Memorial
 - a. Fire Mitigation-Habitat Conservation Work Session September 15, 3PM
 
-## [superior#14] 2026-09-10 | Advisory Committee for Environmental Sustainability (ACES) | agenda
+## [superior#10] 2026-09-10 | Advisory Committee for Environmental Sustainability (ACES) | agenda
 - b. Approval of Agenda
 - c. Public Comment (limit 5 minutes/person)
 - 4. Discussion Items
@@ -351,11 +223,11 @@
 - b. ACES events discussion
 - ii. ACES purchases
 
-## [superior#15] 2026-09-14 | General | agenda
+## [superior#11] 2026-09-14 | General | agenda
 - Budget Review Meeting Agenda
 - 1. Continue Operating/Capital Budget Review
 
-## [superior#16] 2026-09-14 | Town Council | minutes
+## [superior#12] 2026-09-14 | Town Council | minutes
 - c. Approval of Agenda
 - Motion: Council Member Cracraft moved to approve the agenda with item 3g
 - e. Public comment on Consent Agenda, Presentations, and Non-Agenda Items
@@ -382,7 +254,7 @@
 - Approving a Twenty-Fifth Amendment to the Planned Development Plan for the
 - Presentation given by: Geoffrey Weathers, Planner II and Representatives
 
-## [superior#17] 2026-09-16 | Parks and Recreation Advisory Committee (PARC) | agenda
+## [superior#13] 2026-09-16 | Parks and Recreation Advisory Committee (PARC) | agenda
 - Parks and Recreation Advisory Committee (PARC)
 - b. Approval of Agenda
 - c. Public Comment (limit 5 minutes/person)
@@ -393,7 +265,7 @@
 - d. Future park walk at Fire Station Park, schedule
 - e. Annual Parks and Rec Conference, Breckenridge, 10/21-10/23, confirm
 
-## [superior#18] 2026-09-18 | Superior Historical Commission (SHC) | agenda
+## [superior#14] 2026-09-18 | Superior Historical Commission (SHC) | agenda
 - b. Approval of Agenda
 - c. Public Comment (limit 5 minutes/person)
 - ii. Marshall Fire Remembrance subcommittee
@@ -403,11 +275,11 @@
 - i. Q3 2026 Budget report
 - ii. Grasso grant status
 
-## [superior#19] 2026-09-21 | General | agenda
+## [superior#15] 2026-09-21 | General | agenda
 - Budget Review Meeting Agenda
 - 1. Continue Operating/Capital Budget Review
 
-## [superior#20] 2026-09-24 | Cultural Arts and Public Spaces Advisory Committee (CAPS) | minutes
+## [superior#16] 2026-09-24 | Cultural Arts and Public Spaces Advisory Committee (CAPS) | minutes
 - b. Approval of Agenda
 - c. Public Comment (limit 5 minutes/person)
 - a. Q3 2026 budget report
@@ -440,7 +312,7 @@
 - a. 2027 Work Plan, tabled until next month
 - b. CAPS Resolution, tabled until next month
 
-## [superior#21] 2026-09-28 | Town Council | minutes
+## [superior#17] 2026-09-28 | Town Council | minutes
 - c. Approval of Agenda
 - Motion: Council Member Stephanie Miller moved to approve the agenda with
 - from the Marshall Fire
@@ -469,7 +341,7 @@
 - Motion: Councill Member Mike Foster moved to Approve Ordinance 80
 - Adopting by Reference the 2024 Edition of the International Fire Code,
 
-## [superior#22] 2026-10-07 | Superior Youth Leadership Council (SYLC) | agenda
+## [superior#18] 2026-10-07 | Superior Youth Leadership Council (SYLC) | agenda
 - 2250 Main Street
 - b. Approval of Agenda
 - c. Public Comment (limit 5 minutes/person)
@@ -478,13 +350,13 @@
 - 7. SYLC Feedback/Ideas on Marshall Fire Remembrance
 - c. Marshall Fire Remembrance (Friday, 12/18 from 6pm-8pm)
 
-## [superior#23] 2026-10-08 | Advisory Committee for Environmental Sustainability (ACES) | agenda
+## [superior#19] 2026-10-08 | Advisory Committee for Environmental Sustainability (ACES) | agenda
 - b. Approval of Agenda
 - c. Public Comment (limit 5 minutes/person)
 - 4. Discussion Items
 - d. ACES 2027 Workplan
 
-## [superior#24] 2026-10-12 | Town Council | minutes
+## [superior#20] 2026-10-12 | Town Council | minutes
 - c. Approval of Agenda
 - Motion: Council Member Cracraft moved to approve the agenda as written,
 - e. Public comment on Consent Agenda, Presentations, and Non-Agenda Items
@@ -530,53 +402,149 @@
 - a. Executive Session for the purposes of discussion of a personnel matter not
 - involving any specific employees who have requested discussion of the matter
 
-## [superior#25] 2026-10-14 | Open Space Advisory Committee (OSAC) | agenda
-- b. Agenda Approval
-- c. Public Comment (limit 5 minutes/person)
+## [superior#21] 2026-10-14 | Open Space Advisory Committee (OSAC) | minutes
+- b. Agenda Approval: Todd Gleeson moved to approve the agenda, Rita Trainor
+- c. Public Comment (limit 5 minutes/person) No public comment
 - 3. OSAC Discussion Items
-- a. Pointe Strategies Coyote Ridge Recommendations (6:10)
-- d. Prairie Dog Management Plan (6:55)
-- e. Wildfire Mitigation-Habitat Conservation Update (7:05)
-- h. Raptor Monitor Program Summary Discussion (7:35)
-- i. 2027 Work Plan Discussion (7:40)
-- d. Town Wildlife Management Plan
-- Q1: Emailed Leslie asking about watering on Vista Corridor (HOA board meeting issue)
-- Q2: Have there been complaints about debris in recycled water clogging up irrigation heads?
-- Q3: When will the irrigation recycled water be turned off?
+- a. Pointe Strategies Coyote Ridge Recommendations (6:10) Presenters (Annie &
+- considerable resident input. They also met with the Trails Subcommittee on
+- September 30th where they reviewed the Final Trail Condition Report, incorporated
+- designations and names were identified. Pointe Strategies emphasized their
+- completion of Phase 1 of this project and that they will send Town Staff a final
+- report and list of projects and priorities. Moving forward into Phase 2 of this project,
+- provided an update from the recent Town Council meeting, confirming the approval
+- of the 2027 Budget. Included in this budget approval is the addition of a full time
+- Park Ranger. Leslie Clark provided Town Staff updates. The town is moving to
+- make improvements along the fenceline and gate of the 299 South 3rd Avenue
+- 12th at the Superior Civic Space at 6pm. Additionally, the town will commemorate
+- the 5th Anniversary of the Marshall Fire on December 18th at the Superior
+- Gleeson made a motion to approve the proposed Coyote Ridge Trail Names, Rita
+- Trainor seconded the motion and it was approved unanimously by OSAC members
+- d. Prairie Dog Management Plan (6:55) Town staff is working with ERO to update
+- the 2005 Prairie Dog Management Plan, with input from OSAC. The intent is to
+- e. Wildfire Mitigation-Habitat Conservation Update (7:05) Leslie Clark informed
+- OSAC of the ongoing work to update the Wildfire Mitigation Plan, developed by
+- Bindel. The Plan currently exhibits the following significant shortcomings: Mowing to
+- areas and the recognition that some mitigation strategies require reseeding efforts
+- closing out, but the Town received funding through the BOCO Strategic Fuels
+- Mitigation Grant for 3-years of goat grazing. In 2027, efforts will take place at
+- Autrey Park Open Space, Harney Lastoka and Vista Corridor. In 2029 efforts will be
+- on Community Park Open Space, Fire Station Open Space and Castle Peak Open
+- The Town is applying for a grant through Colorado Park and Wildlife to fund the
+- McCaslin. This CPW Non-Motorized Trail Grant is specifically for planning the
+- segment of trail from the driveway of the Water Treatment Plant south to High
+- this important trail project. OSAC members discussed, and Todd Gleeson, (the
+- g. 2027 Trail Counter Recommendations (7:20) Committee members discussed
+- purchase three additional counters from the 2027 Budget, Rita Trainor
+- h. Raptor Monitor Program Summary Discussion (7:35) Kara Neuse made a
 
-## [superior#26] 2026-10-16 | Superior Historical Commission (SHC) | agenda
-- b. Approval of Agenda
-- c. Public Comment (limit 5 minutes/person)
+## [superior#22] 2026-10-16 | Superior Historical Commission (SHC) | minutes
+- c. Public Comment (limit 5 minutes/person) - none
+- iii. Brandi discussed their Oral History project and in particular the
+- elements related to the Marshall Fire
+- included a tug of war between firemen and farmers; maybe we could
+- do something in the future between firefighters of both towns
+- Rosie the Riveter presentation and to Lola Lauricello, the
 - ii. Marshall Fire Remembrance subcommittee
+- November, there is a plan to have on the October 26 Town
+- donation to the Marshall Fire Remembrance later this month
+- discuss this a bit later.”
+- Marshall Fire Remembrance Committee to go to the Lions
+- Per JG, the 5-year fire anniversary event will be on Friday,
+- involved in the presentation that night about the Marshall Fire
+- Per Maureen, she is following up on a request we received
+- and Scroll plan
+- Regarding the table for the typewriters, the group discussed
+- Marshall Fire anniversary.”
+- Heritage Center; per Mary, discussion will likely be about the
 - 4. Work Plan Check-in
 - a. Discussion Items
+- Per Dalton’s note: “Still in favor of last month's discussion
+- Per Jill, if we are in agreement about the overall topic she
+- historically accurate costumes to be worn for Halloween related
+- Scott will also be available; Larry and Jill will also plan to
 - i. Q4 2026 Budget report
-- ii. Grasso grant status
+- Per JG, she emailed the budget report; we have money left
+- ii. Grasso grant status: per JG, the grant was submitted by the 10/4
+- work is mostly done; parking lot to be done next week; staff may start
+- presentation
 
-## [superior#27] 2026-10-21 | Parks and Recreation Advisory Committee (PARC) | agenda
+## [superior#23] 2026-10-21 | Parks and Recreation Advisory Committee (PARC) | minutes
 - Parks and Recreation Advisory Committee (PARC)
+- Staff Present: Leslie Clark, Parks and Recreation Director; Kate,
 - b. Approval of Agenda
-- c. Public Comment (limit 5 minutes/person)
 - 3. Discussion Item(s)
+- Kat and Sean were welcomed as new committee members. Members discussed the
+- discussed membership transitions as an opportunity to bring in new perspectives while
 - c. PARC Support for Non-Motorized Trail Grant Program - McCaslin Multi-use
+- The committee discussed whether PARC should support the Town's non-motorized trail
+- grant program for a proposed multi-use trail along McCaslin Boulevard to close a gap
 - d. PROS Programs Survey presentation - Staff
+- resident feedback from a recent recreation programming survey. The survey received
+- identified as important. A tennis contractor has been secured for summer 2027. Nine
+- often had registrations but no-shows; Debra suggested considering a nominal fee to
+- encourage attendance. The Communications Department received an award for
 - e. 2027 Town Budget – PROS highlights
+- Pirate Park construction is anticipated to begin in spring 2027. The final design
+- park renovation to be identified. Justin encouraged PARC to identify the improvements
+- it considers most important for the Town to prioritize. The Town acknowledged PARC's
+- continued attention to Pirate Park and its role in helping prioritize park renovations
+- Budget priorities and next steps are to be revisited in November
 - f. Review PARC 2026 Work Plan; finalize PARC 2027 Work Plan at November
+- The committee reviewed its work plan. Finalization was deferred to the November
 - g. PARC discretionary budget update, end of year PARC swag order?
-- Projects: Pirate Park, North Pool, South Pool, SCC; Volunteer Open House
+- recurred, the committee discussed whether repeated repairs should be considered as a
+- broader maintenance concern
+- Kat raised concerns about trash accumulation at Community Park and the baseball
+- cans. Leslie Clark explained that restroom cleaning and trash collection are contracted
+- Community Center/Civic Space: concrete work is complete, an ADA parking space was
+- in the first or second week of November, weather permitting. North Pool and South Pool
+- renovations are underway. Pirate Park's final design milestone was noted as October
+- PARC members discussed membership transitions, resident recreation survey findings,
+- potential trail grant support, budget priorities, park maintenance, and upcoming Town
+- projects. Key follow-up items include finalizing the 2027 PARC Work Plan, identifying
+- park improvement priorities, developing ideas for year-end promotional items, and
+- monitoring recurring maintenance and trash collection concerns at Community Park
 
-## [superior#28] 2026-10-22 | Cultural Arts and Public Spaces Advisory Committee (CAPS) | agenda
+## [superior#24] 2026-10-22 | Cultural Arts and Public Spaces Advisory Committee (CAPS) | minutes
 - b. Approval of Agenda
+- Andrew motioned to approve the agenda as is, Stephanie seconded. Motion approved
 - c. Public Comment (limit 5 minutes/person)
 - a. Q4 2026 budget report
+- JG stated that the remaining balance in the Programing budget can be used for the CAPS
+- general fund. The balance in the Public Art Acquisition budget is $2,300 which might be needed
+- for contingency purposes per the Noblewins purchase or shipping costs. Per BFFs remaining
+- this report is mostly up to date. “Pending items” in the Public Art budget go before Council for
+- approval next week
+- JG and Mikaela had a post-festival meeting with Street Wise to discuss what worked and what
+- didn’t, including the heavy ask of staff time and the lengthy jurying process. JG suggested to Street
+- amazing event and working with Street Wise was a positive experience. The planning for 2028
+- Mural Festival will start as early as February 2027. All feedback from the community has been
 - i. Marshall Fire Remembrance Project
+- approval, they will immediately begin building the fundraising plan. Also pending
+- Council approval, Colorado Gives will be the Town’s fiscal partner and fundraising
+- repository. Louisville will be contributing $25,000 towards the Project, and the final
+- The 5-year Marshall Fire Remembrance will be on Friday December 18th. A
+- presentation of the project will be done and information about the fundraising will be
+- seem to be best attended. He feels that the BFFs has been a community building
+- It was a lovely event led by Street Wise. Attendance was lower than expected and
 - i. Monday, October 26, CAPS purchase recommendation at Council meeting
-- 5. Work Plan Check-In
-- 6. Discussion Items
+- The ARTery plan will be presented at the Council meeting; Andrew will introduce and
+- 4. Work Plan Check-In
+- The proposed use of the 2026 budget for ARTery purchases will be presented to the Council on
+- Monday, October 26th. Claire reported the need to update the plan because most of the utility
+- boxes are not Town owned so instead an additional Noblewins swing-bench will be purchased
+- One bench will be installed at Circle Park. The locations of the other benches have yet to be
+- possibility that Greeley was granted permission
+- 5. Discussion Items
 - a. 2027 Work Plan
-- b. CAPS Resolution
+- Ideas discussed:
+- tunnels near Autrey Park. The idea included inviting graffiti artists to create art in the
+- murals go in but Leslie said the there’s actually a lighting improvement plan scheduled for
+- Sherry mentioned that ceramic totem workshops could be added to the 2027 plan in order
+- to complete the totem pole project from prior years. It would be a community involved
 
-## [superior#29] 2026-10-26 | Town Council | minutes
+## [superior#25] 2026-10-26 | Town Council | minutes
 - c. Approval of Agenda
 - Mayor Lacis asked for motion to approve the agenda. Council Member asked
 - Volunteer and Commission Reception, Marshall Fire 5 Year Resiliance Event
@@ -618,17 +586,7 @@
 - appointed to PARC
 - b. A Resolution of the Town Council of the Town of Superior Approving CAPS Art
 
-## [superior#30] 2026-11-04 | Open Space Advisory Committee (OSAC) | agenda
-- Superior Civic Space 2250 Main Street, Suite 1001
-- b. Agenda Approval
-- c. Public Comment (limit 5 minutes/person)
-- 3. OSAC Discussion Items
-- b. Recommendation for Town Acceptance of Pointe Strategies Coyote Ridge
-- c. Wildfire Mitigation-Habitat Conservation Update (6:40)
-- d. 2027 Work Plan Adoption (7:00)
-- d. Town Wildlife Management Plan
-
-## [superior#31] 2026-11-04 | Superior Youth Leadership Council (SYLC) | minutes
+## [superior#26] 2026-11-04 | Superior Youth Leadership Council (SYLC) | minutes
 - 2250 Main Street
 - b. Approval of Agenda
 - c. Public Comment (limit 5 minutes/person)
@@ -638,7 +596,18 @@
 - a. Comments made directly in the work plan doc
 - b. Marshall Fire Remembrance (Friday, 12/18 from 6pm-8pm)
 
-## [superior#32] 2026-11-05 | Advisory Committee for Environmental Sustainability (ACES) | agenda
+## [superior#27] 2026-11-04 | Open Space Advisory Committee (OSAC) | minutes
+- b. Approval of Agenda
+- c. Public Comment (limit 5 minutes/person) students from Monarch High
+- 3. OSAC Discussion Items
+- mitigation; Pointe Strategies to begin trail work at Coyote Ridge in
+- b. Recommendation for Town Acceptance of Pointe Strategies Coyote
+- c. Wildfire Mitigation and Habitat Conservation
+- d. 2027 Work Plan Adoption
+-  Walk scheduled for Nov 7 (10am-12pm) at Community Park
+- d. Town Wildlife Management Plan: monthly meeting for November 16 to
+
+## [superior#28] 2026-11-05 | Advisory Committee for Environmental Sustainability (ACES) | agenda
 - b. Approval of Agenda
 - c. Public Comment (limit 5 minutes/person)
 - 4. Discussion Items

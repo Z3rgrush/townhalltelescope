@@ -1,96 +1,83 @@
-- title: Electric rate increase (Ordinance No. 1338)
-  summary: Utilities Director Doug Linton presented a rate study and an ordinance raising electric rates. Notices went out July 31 and the first reading was approved Aug. 18. After a Sept. 1 public hearing where resident Cynthia Ruppel opposed the increase, council approved the second reading. The city said it buys power and passes the cost on to customers.
+- title: Police Chief Loren Sharp's departure and interim chief
+  summary: Residents packed public comment on Oct. 6 and Oct. 20 to criticize how former Chief Loren Sharp left and to ask that he be rehired or a new chief be hired promptly. Council unanimously appointed Deputy Chief Steve Brown as Interim Chief on Oct. 20. One speaker urged revisiting the 2019 2E initiative on police oversight.
   where: Citywide
   refs:
-  - 3
-  - 6
-  topics:
-  - Fees & rates
-  - Utilities
-  - Energy
-  public_comment: true
-- title: Police chief departure and interim chief appointment
-  summary: At the Oct. 6 meeting, many residents criticized how the former police chief left and the council's handling of it. Some praised the police department and urged hiring a new chief. The Oct. 20 agenda includes appointing Steve Brown as Interim Police Chief and an executive session personnel check-in with him.
-  where: Citywide
-  refs:
-  - 12
-  - 16
+  - 9
+  - 13
   topics:
   - Policing & public safety
   - Government operations
+  - Ethics & transparency
   public_comment: true
-- title: 2027 city budget and labor contract adjustments
-  summary: Council has been reviewing 2027 department budgets since August. After Cargill and the Teamsters agreed on a labor contract, the city changed its budget timeline to give departments time to adjust. Police are seeking a records technician, and the Oct. 20 agenda covers the capital improvement, conservation trust and perpetual care funds plus the schedule of fees.
+- title: Electric rate increase (Ordinance No. 1338)
+  summary: Following a rate study presented in May, council passed first reading on Aug. 18 and held a public hearing Sept. 1. Resident Cynthia Ruppel opposed the increase, and council approved second reading of Ordinance No. 1338, saying the city passes on its power purchase costs.
+  where: Citywide
+  refs:
+  - 0
+  - 3
+  topics:
+  - Utilities
+  - Fees & rates
+  - Energy
+  public_comment: true
+- title: 2027 budget, mill levy and fee schedule
+  summary: Council reviewed department expense budgets in August and September, with the City Manager adjusting direction after Cargill and Teamsters agreed on a labor contract. The Nov. 3 agenda includes the 2027 fee schedule and first reading of the budget and mill levy ordinance, with a public hearing set for Nov. 17.
   where: Citywide
   refs:
   - 0
   - 3
   - 6
-  - 9
-  - 16
+  - 15
   topics:
   - Budget & taxes
   - Fees & rates
-  public_comment: true
-- title: Aquatic facility design and certificates of participation financing
-  summary: Council received an update on the aquatic facility design, with budget and timeline unchanged and excavation set to begin this fall. An ordinance authorizing certificates of participation to fund it had its first reading Oct. 6. The second reading and public hearing on Ordinance 1339 are set for Oct. 20.
+- title: New aquatic facility and certificates of participation financing
+  summary: The aquatic facility design was updated Oct. 6, with budget and timeline unchanged and excavation set to begin this fall. Council also took first reading of an ordinance authorizing certificates of participation to obtain funding.
   where: Fort Morgan aquatic facility
   refs:
-  - 12
-  - 16
+  - 9
   topics:
   - Recreation & trails
   - Budget & taxes
-- title: Historic landmark designations on Main Street
-  summary: Council approved local historic landmark designations for 325, 327 and 329 Main Street, the 329 building being the 33rd local landmark. The former Fort Morgan Times building was among those designated. The Historic Preservation Board also filled seats and is tracking changes to federal Section 106 rules and the state residential tax credit program.
-  where: 325, 327 and 329 Main Street
-  refs:
-  - 0
-  - 2
-  - 6
-  - 13
-  topics:
-  - Historic preservation
-  - Downtown & business
-- title: Sale of Pointe Village Commercial Park lots for grocery store
-  summary: Council approved selling three lots totaling 1.5 acres in Pointe Village Commercial Park subdivision to K&M LLC and approved the development agreement. The lots are intended for a grocery store.
+- title: Pointe Village Commercial Park lot sale for grocery store
+  summary: Council approved selling three lots (1.5 acres) in Pointe Village Commercial Park and a development agreement with K&M LLC on Sept. 1. The sale resolution appears again on the Nov. 3 agenda.
   where: Pointe Village Commercial Park
   refs:
-  - 6
+  - 3
+  - 15
   topics:
-  - Land & property
   - Economic development
-- title: Special use permit for upstairs apartment at 305-307 Main Street
-  summary: Council approved a special use permit for a new residential living space above a tattoo shop in the downtown overlay district. State health rules require a separate outdoor entrance. No public comments were received.
+  - Land & property
+- title: 'Water supply: Riverside Irrigation lease and Southern Water Supply Project pipeline'
+  summary: On Oct. 20 council extended the Riverside Irrigation and Quality Water lease, which gives the city water during drought years. It also took up amending the allotment contract for the Southern Water Supply Project pipeline that carries CBT water to the treatment plant.
+  where: Citywide
+  refs:
+  - 13
+  topics:
+  - Water
+  - Utilities
+- title: Special use permit for apartment above 305-307 Main St.
+  summary: Council approved a special use permit for new upstairs living space above a tattoo shop at 305-307 Main St. in the downtown corridor. The state health department requires a separate outdoor entry. No public comments were received.
   where: 305-307 Main Street
   refs:
-  - 4
-  - 9
+  - 1
+  - 6
   topics:
   - Zoning & development
   - Housing
   - Downtown & business
-- title: Water leases, pipeline contract and NCHD agreement
-  summary: The Oct. 20 agenda includes resolutions to extend the riverside irrigation and quality water lease, amend the Southern Water Supply Project pipeline allotment contract, and amend and extend the development agreement with NCHD.
-  where: Citywide
+- title: Northeast Colorado Health Department development agreement extension
+  summary: Council extended the development agreement with the Northeast Colorado Health Department for two more years to help secure funding, which has been slow to come through grants.
   refs:
-  - 16
+  - 13
   topics:
-  - Water
+  - Health & human services
   - Land & property
-- title: Airport apron expansion naming and obstruction light project
-  summary: The Airport Advisory Board repeatedly discussed naming the aircraft parking apron expansion in honor of a person named Kyle. It also has an obstruction light project update.
+- title: Airport apron expansion naming
+  summary: The Airport Advisory Board continued discussing naming the aircraft parking apron expansion in honor of a person, and an obstruction light project update was on the October agenda.
   where: Fort Morgan airport
   refs:
-  - 1
-  - 7
-  - 14
+  - 4
+  - 11
   topics:
   - Airports
-- title: Economic incentive negotiations in executive session
-  summary: Council twice met in executive session with the economic development specialist and outside parties to discuss economic incentives. No details or decisions were stated.
-  refs:
-  - 0
-  - 3
-  topics:
-  - Economic development

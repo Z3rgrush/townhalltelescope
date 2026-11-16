@@ -1,112 +1,117 @@
-- title: 2027 city budget, mill levy and utility rates
-  summary: Finance Director Aliza Libby presented the 2027 budget on Sept. 8, and a public budget hearing was set. On Oct. 19 council adopted Resolution R-14-2026 approving the proposed budget and passed the mill levy and annual appropriation ordinances on first reading, with second readings on the Nov. 2 agenda. The Board of Utilities was also set to consider 2027 electric, water, wastewater and sanitation rate resolutions on Oct. 13. The mayor noted that people say La Junta has the highest utility rates in Colorado.
-  where: Citywide
-  refs:
-  - 0
-  - 1
-  - 4
-  - 5
-  - 8
-  - 9
-  - 10
-  - 12
-  topics:
-  - Budget & taxes
-  - Fees & rates
-  - Utilities
-- title: Residents' complaints over police handling of a assault case
-  summary: On Oct. 19 family members spoke at council about an assault case that was reportedly dismissed without notifying the family. They described a city/county jurisdiction disconnect, unanswered requests for updates, and alleged unprofessionalism and a double standard in the police department. They also raised the mayor's endorsement of a sheriff candidate. Earlier council notes referenced transparency and accountability with the police department.
-  where: 13 West 3rd Street / 22nd Street
-  refs:
-  - 1
-  - 10
-  topics:
-  - Policing & public safety
-  - Ethics & transparency
-  - Lawsuits & legal
-  public_comment: true
 - title: Pueblo sewage spill and Arkansas River safety
-  summary: Water Utilities Director Tom Seaba briefed council and the Utilities Board on a major raw sewage spill in Pueblo that reached the river. Residents were told not to use river water or untreated shallow well water for cooking or bathing. Local drinking water was stated to be safe, and reservoir releases were increased to help flush the river.
-  where: Arkansas River
+  summary: After a major raw sewage spill in Pueblo reached the river near Confluence Park, the Water Director told Council not to use untreated river water for food preparation or cooking. Local drinking water was reported safe and the treatment plant working properly, with reservoir releases raised to 60 cfs to help flush the river.
+  where: Arkansas River / Citywide
   refs:
-  - 4
-  - 5
+  - 2
+  - 3
+  - 7
   topics:
   - Water
-  - Health & human services
   - Environment & climate
-- title: Urban Renewal Authority grants and Chestnut Apartments
-  summary: The URA tabled the Sangre de Cristo Community Care Spark Grant for a sign at 207 Colorado Ave. because the work was done before approval, and later said it would not be awarded. It approved a roof grant for Arkansas Valley CASA, and La Junta Associated Charities has an application on the Oct. 22 agenda. The Chestnut Apartments project is behind its 180-day contract, and the board tabled the 2027 URA budget for a work session. A resident asked whether the TIF district would expand.
-  where: 207 Colorado Ave. and Chestnut Apartments
+  - Health & human services
+- title: 2027 city budget and mill levy
+  summary: Finance Director Aliza Libby presented the 2027 budget in September. Council adopted the proposed budget by resolution on Oct. 19 and passed the mill levy and annual appropriation ordinances on first reading, with second readings on the Nov. 2 agenda.
+  where: Citywide
+  refs:
+  - 3
+  - 6
+  - 8
+  - 10
+  topics:
+  - Budget & taxes
+- title: 2027 electric, water, wastewater and sanitation rate increases
+  summary: The Board of Utilities adopted resolutions changing 2027 prices for electric, water, wastewater and sanitation and recommended the utility fund budgets to Council. Staff noted rate increases are not done lightly but costs keep rising.
+  where: Citywide
   refs:
   - 2
   - 7
-  - 11
   topics:
-  - Economic development
-  - Downtown & business
+  - Fees & rates
+  - Utilities
   - Budget & taxes
-  public_comment: true
-- title: New Economic Development Board ordinance
-  summary: Council passed an ordinance on first reading on Sept. 21 and second reading on Oct. 5 creating a city Economic Development Board. It would be an arm of the city rather than a nonprofit, partly because of an IRS issue. The clerk will call for letters of interest for board vacancies.
-  where: Citywide
+- title: Water system loan from the Colorado Water Resources and Power Development Authority
+  summary: Council took up an ordinance authorizing a loan from the state water authority to pay for water distribution system improvements, along with a supplemental appropriation to the Water Fund. First reading was Nov. 2 and second reading on Nov. 16. Utility crews are also continuing a system expansion on 24th Street.
+  where: Citywide; 24th Street
   refs:
-  - 6
-  - 8
-  topics:
-  - Economic development
-  - Government operations
-- title: Water system improvements and state loan
-  summary: The utilities department is extending the water system on 24th Street between Carson and Belleview to improve flow and fire protection. A Nov. 2 first-reading ordinance would authorize a loan from the Colorado Water Resources and Power Development Authority for distribution system improvements. Water grant applications for new meters and storage tank rehabilitation are also underway.
-  where: 24th Street between Carson and Belleview
-  refs:
-  - 0
-  - 4
-  - 12
+  - 7
+  - 10
+  - 13
   topics:
   - Water
   - Utilities
   - Budget & taxes
-- title: Low-speed vehicles allowed during temporary events
-  summary: Council passed on first and second reading a temporary event ordinance allowing side-by-sides and other low-speed vehicles during events. It grew out of a tour with Main Street and Urban Renewal and the electric department, with Tarantula Fest and Early Settlers Day mentioned.
-  where: Downtown La Junta
+- title: Urban Renewal Authority grants and Chestnut Apartments
+  summary: The URA tabled a Spark Grant request from Sangre de Cristo Community Care for a storefront sign at 207 Colorado Ave because the work was done before approval; it was later denied for that reason. It approved a roof-repair application from Arkansas Valley CASA and has another application from La Junta Associated Charities pending. The Chestnut Apartments project by Rikhof ran about 52 days past its 180-day contract.
+  where: Downtown La Junta; 207 Colorado Ave
+  refs:
+  - 0
+  - 5
+  - 9
+  topics:
+  - Downtown & business
+  - Economic development
+  - Housing
+  public_comment: true
+- title: Urban Renewal 2027 budget and TIF district question
+  summary: The URA tabled its 2027 budget for a work session, with the budget approval on the Oct. 22 agenda. A resident asked whether the TIF district will expand and what it covers.
+  where: Urban renewal / TIF district
   refs:
   - 5
+  - 9
+  topics:
+  - Budget & taxes
+  - Economic development
+  public_comment: true
+- title: New Economic Development Board
+  summary: Council passed an ordinance creating an Economic Development Board as an arm of the city, rather than a nonprofit, after IRS-related problems with the earlier structure. The ordinance passed on first and second readings, and the City Clerk will call for letters of interest for board vacancies.
+  where: Citywide
+  refs:
+  - 4
   - 6
+  topics:
+  - Economic development
+  - Government operations
+- title: Residents' complaints over handling of an assault case
+  summary: Residents told Council that an assault case was dismissed without notifying the family, and cited confusion over city versus county jurisdiction. A family member alleged unprofessionalism within the police department and questioned the Mayor's endorsement of a sheriff candidate.
+  where: 22nd Street and 13 West 3rd Street
+  refs:
+  - 8
+  topics:
+  - Policing & public safety
+  - Ethics & transparency
+  public_comment: true
+- title: Street flooding and drainage at Lewis Avenue and 2nd Street
+  summary: A Ward 1 resident said only two drains serve the area, causing road flooding and water in business basements after recent rainstorms, and asked the city to address it.
+  where: Lewis Avenue and 2nd Street
+  refs:
+  - 4
+  topics:
+  - Roads & traffic
+  - Utilities
+  public_comment: true
+- title: Temporary event ordinance for side-by-sides and low-speed vehicles
+  summary: Council passed on first and second readings a temporary ordinance allowing side-by-sides and other low-speed vehicles during an event, with concerns about the ordinance discussed. Such vehicles are used by committee members for events like Tarantula Fest and Early Settlers Day.
+  where: Citywide
+  refs:
+  - 3
+  - 4
   topics:
   - Tourism & events
   - Roads & traffic
-- title: Street flooding and drainage at Lewis Avenue and 2nd Street
-  summary: A resident said recent rainstorms flood the road and send water into basements and businesses at Lewis Avenue and 2nd Street, where there are only two drains.
-  where: Lewis Avenue and 2nd Street
-  refs:
-  - 6
-  topics:
-  - Roads & traffic
-  - Environment & climate
-  public_comment: true
-- title: Naming field for Jim Sullivan at Potter Park
-  summary: Residents asked to name the field Jim Sullivan Field at Potter Park, without renaming the park, under the city's naming procedure.
+- title: Naming Potter Park field for Jim Sullivan
+  summary: A request asked Council to name the field Jim Sullivan Field at Potter Park, honoring a long-time school district figure, without renaming the park. It follows the city's community naming procedure.
   where: Potter Park
   refs:
-  - 6
+  - 4
   topics:
   - Parks & open space
   - Recreation & trails
   public_comment: true
-- title: Arkansas Valley Emergency communications authority agreement
-  summary: Council approved an intergovernmental agreement establishing the Arkansas Valley Emergency authority among area towns and agencies, tied to the phone fee used for emergency services.
+- title: Arkansas Valley Emergency Communications intergovernmental agreement
+  summary: Council approved an intergovernmental agreement establishing an authority for towns and agencies in the Arkansas Valley, funded by a fee on cell phones statewide.
   where: Arkansas Valley
   refs:
-  - 6
+  - 4
   topics:
   - Fire & emergencies
-  - Government operations
-- title: City-owned junk property cleanup under Copper Grant
-  summary: Council discussed a resolution on a city-owned blighted property that is part of a larger brownfield-type 'Copper Grant', and asked about plans for four properties and abatement costs.
-  where: La Junta
-  refs:
-  - 3
-  topics:
-  - Land & property
-  - Environment & climate
+  - Policing & public safety

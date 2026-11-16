@@ -160,15 +160,7 @@
 ## [nederland#8] 2026-10-22 | SAB - Nederland Sustainability Advisory Board | agenda
 - Presentation
 
-## [nederland#9] 2026-10-29 | BOARD OF TRUSTEES | agenda
-- Executive Session pursuant to C.R.S. section 24-6-402(4)(a), (4)(b), and (4)(e)(I) for consideration of
-- and discussion of the Town’s purchase of property and operations for recreational activities and other
-- assistance with an interpreter or hearing devices, please contact the Town
-- regardless of the heading under which such item appears. Discussion items
-- Trustee members, eliminating lengthy discussions to gain basic
-- understanding. Short discussion on agenda items does not reflect lack of
-
-## [nederland#10] 2026-11-09 | BOARD OF TRUSTEES | agenda
+## [nederland#9] 2026-11-09 | BOARD OF TRUSTEES | agenda
 - 3.1. Approval of November 9, 2026 Warrants
 - 3.2. Approval of October 20, 2026 BOT Special Meeting Minutes
 - 3.3. Approval of October 20, 2026 BOT Meeting Minutes
@@ -188,8 +180,11 @@
 - 5.1 Public Comment - Karen Blakemore 3
 - 6. DISCUSSION ITEMS
 - Public comment may be given for each "Discussion Item" when called for by the Mayor. Public
+- 6.1 Public Comment - Tania Corvalan
 - 6.2. Fiscal Year 2027 Budget
 - 6.2 AIM - FY27 Budget
+- 6.2 Public Comment - Dallas Masters
+- 6.2 Public Comment - Kathleen Chippi
 - 7. PUBLIC COMMENT ON NON-AGENDA ITEMS
 - Public comment is limited to 3 minutes per person. Prior to providing comment, the speaker must state
 - assistance with the Town an interpreter or hearing devices, please contact
@@ -210,4 +205,3 @@
 - 1024 POWDR Corp, 1526 West Ute Blvd, Suite 101, Park City, UT, 84098
 - 783 Patricia Graves, dba Bright Heart Catering, 3065 Golden Gate Canyon Road, Black Hawk, CO, 80422
 - 794 Alarm Detection Systems, Inc, dba Safe Systems, Inc, 1111 Church Road, Aurora, IL, 60505
-- 1064 Push Pedal Pull, Inc., 2306 W 41st Street, Sioux Falls, SD, 57105

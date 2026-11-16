@@ -1,10 +1,10 @@
 # lone-tree
 
-## [lone-tree#1] 2026-09-09 | Arts Commission  | agenda
+## [lone-tree#0] 2026-09-09 | Arts Commission  | agenda
 - Approval of the July Meeting Minutes
 - Traffic Cabinet Wraps - Application Review and Selection
 
-## [lone-tree#2] 2026-09-14 | Recreation Advisory Committee  | agenda
+## [lone-tree#1] 2026-09-14 | Recreation Advisory Committee  | agenda
 - Public Comment
 - Amendments and Adoption of the Agenda
 - Approval of the June 1, 2026 Meeting Minutes
@@ -12,12 +12,12 @@
 - Entertainment District Park
 - October 5- Parks, Open Space, and Trails Master Plan
 
-## [lone-tree#3] 2026-09-24 | Youth Commission | agenda
+## [lone-tree#2] 2026-09-24 | Youth Commission | agenda
 - Public Comment
 - Tuesday October 6: New Youth Commission Members will be officially appointed by the City Council
 - Plan for the Retreat
 
-## [lone-tree#4] 2026-10-05 | City Council Strategy Session | agenda
+## [lone-tree#3] 2026-10-05 | City Council Strategy Session | agenda
 - City Council Strategy Session - Oct 05 2026 - Agenda - Html
 - City Council Strategy Session Agenda
 - The Lone Tree City Council Strategy Session will be held in person at the
@@ -28,17 +28,17 @@
 - 1:15 PM – 1:45 PM - CAPITAL PROJECTS 5-YEAR PLAN
 - 200 PM – 2:45 PM - COMMUNITY DEVELOPMENT
 
-## [lone-tree#5] 2026-10-05 | Recreation Advisory Committee  | agenda
+## [lone-tree#4] 2026-10-05 | Recreation Advisory Committee  | agenda
 - Public Comment
 - Amendments and Adoption of the Agenda
 - Approval of the September 14, 2026 Meeting Minutes
 - Parks, Open Space, and Trails Master Plan
 
-## [lone-tree#6] 2026-10-08 | Youth Commission | agenda
+## [lone-tree#5] 2026-10-08 | Youth Commission | agenda
 - Public Comment
 - New Youth Commission Members Officially Appointed!
 
-## [lone-tree#7] 2026-10-12 | Living and Aging Well Commission  | agenda
+## [lone-tree#6] 2026-10-12 | Living and Aging Well Commission  | agenda
 - Approval of the September 14, 2026 Meeting Minutes
 - Public Comment
 - South Suburban Parks and Recreation District Update
@@ -47,12 +47,12 @@
 - LAW Bringing: chicken (some baked and fried) from King Soopers, LAW will provide dessert, water, tableware supplies. Cheryl, Diana, Sharon to help shop
 - Virtual Capitol Hill Walking Tour – Molly Brown House (free presentation)
 
-## [lone-tree#8] 2026-10-14 | Arts Commission  | agenda
+## [lone-tree#7] 2026-10-14 | Arts Commission  | agenda
 - Approval of the September Meeting Minutes
 - Project Updates
 - 2026 Interactive Installation - Alex Bond
 
-## [lone-tree#11] 2026-10-26 | City Council Strategy Session | agenda
+## [lone-tree#10] 2026-10-26 | City Council Strategy Session | agenda
 - City Council Strategy Session - Oct 26 2026 - Agenda - Html
 - City Council Strategy Session Agenda
 - The Lone Tree City Council Strategy Session will be held in person at the
@@ -60,7 +60,7 @@
 - City Council will hold a Strategy Session from time to time to discuss high level city matters and long-term planning. The public is welcome to attend Strategy Sessions. However, there is no public comment, and no official votes or action will be taken on City business
 - Unified Development Code Overview and Preliminary Discussion
 
-## [lone-tree#12] 2026-10-27 | Planning Commission Regular Meeting | agenda
+## [lone-tree#11] 2026-10-27 | Planning Commission Regular Meeting | agenda
 - Lone Tree Civic Center, 8527 Lone Tree Parkway, Lone Tree, CO 80124
 - Community Development Analyst
 - GENERAL Comments from the public are welcome during the Public Comment portion of the REGULAR meeting. Those persons requesting to comment on an agenda item will be called upon by the Chair at the appropriate time. All persons wishing to speak at the meeting should sign in with staff before the star
@@ -73,14 +73,14 @@
 - Public Hearing for Southwest Village Preliminary Plan Amendment, Project No. RG26-0003, And Southwest Village Parks Master Plan Amendment, Project No. RG26-0002
 - Project No. RG26-0003 AND Project No. RG26-0002 Supplemental Documents
 
-## [lone-tree#13] 2026-11-02 | Recreation Advisory Committee  | agenda
+## [lone-tree#12] 2026-11-02 | Recreation Advisory Committee  | agenda
 - Public Comment
 - Amendments and Adoption of the Agenda
 - Approval of the October 5, 2026 Meeting Minutes
 - Entertainment District Park
 - High Note Park Update
 
-## [lone-tree#14] 2026-11-03 | City Council Regular Meeting Agenda  | agenda
+## [lone-tree#13] 2026-11-03 | City Council Regular Meeting Agenda  | agenda
 - City Council Chambers, Lone Tree Civic Center, 8527 Lone Tree Parkway, Lone Tree, CO 80124
 - Submitting Public Comment in Advance
 - AMENDMENTS TO THE AGENDA AND ADOPTION OF THE AGENDA
@@ -103,7 +103,7 @@
 - Hillcamp Water Booster Pump Station SIP.pdf
 - All Referral Comments - Hillcamp Water Pump Booster Station.pdf
 
-## [lone-tree#15] 2026-11-03 | City Council Study Session | agenda
+## [lone-tree#14] 2026-11-03 | City Council Study Session | agenda
 - Lone Tree Civic Center, 8527 Lone Tree Parkway
 - Public Comment at Study Sessions
 - Study Sessions are intended for informational presentations and discussion only. The City Council does not take formal action or vote during these meetings. As a result, public comment is not included in Study Sessions
@@ -115,16 +115,19 @@
 - Colorado Transportation and Housing Investment Zone Program Update
 - Engagement Letter with Beck Rivera LLP for Legal and Advocacy Services Relative to the 2027 Colorado Transportation and Housing Zone Application
 
-## [lone-tree#16] 2026-11-09 | City Council Strategy Session | agenda
+## [lone-tree#15] 2026-11-09 | City Council Strategy Session | agenda
 - City Council Strategy Session - Nov 09 2026 - Agenda - Html
 - City Council Strategy Session Agenda
 - The Lone Tree City Council Strategy Session will be held in person at the
 - Public Comment at Strategy Sessions
 - City Council will hold a Strategy Session from time to time to discuss high level city matters and long-term planning. The public is welcome to attend Strategy Sessions. However, there is no public comment, and no official votes or action will be taken on City business
 
-## [lone-tree#17] 2026-11-09 | Living and Aging Well Commission  | agenda
+## [lone-tree#16] 2026-11-09 | Living and Aging Well Commission  | agenda
 - Approval of the October 12, 2026 Meeting Minutes
 - Public Comment
 - South Suburban Parks and Recreation District Update
 - Sales Tax from LAW Purchases
 - Virtual Capitol Hill Walking Tour – Molly Brown House (free presentation)
+
+## [lone-tree#18] 2026-11-12 | Youth Commission | agenda
+- Public Comment

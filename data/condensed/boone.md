@@ -182,3 +182,7 @@
 - Discuss Sewer Tap for Kevin Garcia - Resident to responsible for issues up to Tap
 - SM Mtn to Approve; SB 2nd; All in favor
 - Angie - Proposed Resolution Establishing Regulations for Sewage Disposal May not need - council to review
+
+## [boone#13] 2026-11-12 | City Council | minutes
+- Angie Parks, Mayor Pro Temp Charlotte Buchanan, Trustee Kelly Levar, Town Clerk
+- 2024 Audit - approve or disapprove

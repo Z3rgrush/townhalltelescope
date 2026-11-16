@@ -1,72 +1,52 @@
-- title: 'Land Use Code rewrite: definitions, ADUs and special use permits'
-  summary: The Planning Commission is working through a multi-section rewrite of the county Land Use Code under Resolution 2024-029. Drafts address accessory dwelling unit size and distance limits (including a 'bonus ADU' concept), agricultural structures needing building permits, and new or revised Special Use Permits for guest lodges, guest ranches, event venues, campgrounds and commercial outdoor recreation. Staff plan to finish Section 2, move to Section 3 (Zoning), and hold a public hearing after revised drafts of Sections 3 and 13.
+- title: 'Land Use Code rewrite: zoning section and definitions'
+  summary: The Planning Commission is working through a revised county Land Use Code under Resolution 2024-029, with Section 2 drafts followed by Section 3 (Zoning) and Section 13, and a public hearing planned once drafts are done. Proposed changes include new definitions and limits for accessory dwelling units, yurts, campgrounds, commercial outdoor recreation, short-term rentals and agricultural structures, and a possible 'Commercial Storefront' use in the Colona Zone.
   where: Countywide
   refs:
-  - 0
   - 2
-  - 3
-  - 5
+  - 4
   topics:
   - Zoning & development
   - Housing
-  - Tourism & events
-- title: Fire flow and water supply definitions for subdivisions and PUDs
-  summary: Staff proposed a broader definition of 'water supply' for PUDs and subdivisions, with minimum fire flow as a narrower requirement. Tri-County Water has said its existing hydrants may not meet minimum fire flow pressure and flow recommendations.
-  where: Countywide (Tri-County Water service area)
-  refs:
-  - 0
-  topics:
-  - Water
-  - Fire & emergencies
-  - Zoning & development
-- title: Water-wise landscaping and artificial turf rules in Zoning Section 3.11
-  summary: Draft Section 3.11 adds state-driven 'water-wise' landscaping requirements for new development, including a broad invasive plant species definition and limits on artificial turf with an exception for athletic fields of play. Staff say the field-of-play wording needs further clarification.
+  - Short-term rentals
+- title: Water-wise landscaping requirements in the Land Use Code
+  summary: Draft Section 3.11 would add state-driven water-wise landscaping rules for new development, with a broad definition of invasive plants and exceptions such as artificial turf on athletic fields of play that still need clarification.
   where: Countywide
   refs:
-  - 5
+  - 4
   topics:
   - Water
   - Zoning & development
   - Environment & climate
-- title: Yurt limits and Colona zone changes in the zoning draft
-  summary: Staff suggested the Planning Commission and county commissioners consider limiting yurts to one per parcel in the Alpine zone or all zones, to prevent multiple yurts claiming building code exemptions. The draft also adds a 'Commercial Storefront' special use to the Colona Zone.
-  where: Alpine zone and Colona zone
+- title: Tribal consultation for renewable energy projects in zoning code
+  summary: Staff say they reached out to Tribes about state-law consultation requirements for renewable energy projects and will discuss scope and proposed code language if the Tribes reply.
+  where: Countywide
   refs:
-  - 5
+  - 4
   topics:
+  - Energy
   - Zoning & development
-  - Housing
 - title: Curry subdivision at 1615 County Road 1
-  summary: The Planning Commission holds a public hearing on Kilpin and Sandra Curry's combined preliminary and final development plan to subdivide the parcel into 2 lots. The commission is to make a recommendation to the county commissioners.
+  summary: The Planning Commission held a public hearing on a combined Preliminary and Final Development Plan from Kilpin and Sandra Curry to divide a parcel into 2 lots.
   where: 1615 County Road 1
   refs:
-  - 2
+  - 1
   topics:
   - Zoning & development
   - Land & property
 - title: Pastor subdivision exemption at 6549 County Road 24
-  summary: The Planning Commission hears Clifford Pastor's request for an exemption to divide a parcel into 2 lots and will make a recommendation to the county commissioners.
+  summary: The Planning Commission held a public hearing to recommend to the county commissioners on Clifford Pastor's request for an exemption to split a parcel into 2 lots.
   where: 6549 County Road 24
   refs:
-  - 2
+  - 1
   topics:
   - Zoning & development
   - Land & property
-- title: Joint planning agreement with the City and zoning map updates
-  summary: Staff say 2022 changes to the Joint Planning IGA on annexation authority raised legal and planning concerns that Section 3 may need amending quickly. Staff also proposed keeping overlay district designations off the official zoning map because amending it is a lengthy hearing process.
+- title: Joint Planning agreement with the City and annexation authority
+  summary: Staff noted that 2022 changes to the Joint Planning IGA requested by the City, related to annexation authority, created legal and planning concerns that could force zoning section changes on the fly.
   where: Countywide
   refs:
-  - 5
+  - 4
   topics:
   - Annexation
   - Zoning & development
-  - Government operations
-- title: Tribal consultation for renewable energy projects
-  summary: Code changes respond to state law on Tribal consultation for renewable energy projects. Staff have contacted the Tribes and will shape the proposed language depending on their replies.
-  where: Countywide
-  refs:
-  - 5
-  topics:
-  - Energy
-  - Environment & climate
   - Government operations

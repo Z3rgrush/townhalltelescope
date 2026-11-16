@@ -1,14 +1,9 @@
 # dove-creek
 
-## [dove-creek#0] 2026-08-11 | City Council | agenda
-- 1. Kendra Cook – Discussion of weekly publication/record of publication – Changes as of 8/12/26
-- 3. Town Manager Application Review
-- 4. Discussion – Check Signing and Agenda Preparation – Lana Hancock
-
-## [dove-creek#1] 2026-08-18 | City Council | agenda
+## [dove-creek#0] 2026-08-18 | City Council | agenda
 - Reviewing Applications for the Town Manager Position
 
-## [dove-creek#2] 2026-08-25 | City Council | agenda
+## [dove-creek#1] 2026-08-25 | City Council | agenda
 - 4. ACTION/APPROVAL OF THE AGENDA
 - during a Public Hearing. Each person will have 5 minutes
 - 6. ACTION/APPROVAL OF THE CONSENT AGENDA:
@@ -19,10 +14,10 @@
 - Contract and offer
 - 11. CONSIDERATION AND POSSIBLE ACTION REGARDING TOWN MANAGER CONTRACT/OFFER
 
-## [dove-creek#3] 2026-09-08 | City Council | agenda
+## [dove-creek#2] 2026-09-08 | City Council | agenda
 - b. Appoint Trustee – Oath
 
-## [dove-creek#4] 2026-09-22 | City Council | agenda
+## [dove-creek#3] 2026-09-22 | City Council | agenda
 - 4. ACTION/APPROVAL OF THE AGENDA
 - during a Public Hearing. Each person will have 5 minutes
 - 7. ACTION/APPROVAL OF THE CONSENT AGENDA:
@@ -32,22 +27,22 @@
 - B. Safety Equipment Purchase – Trench Box
 - 12. POSSIBLE ACTION ITEMS PER DISCUSSIONS FROM EXECUTIVE SESSION
 
-## [dove-creek#5] 2026-09-29 | City Council | agenda
+## [dove-creek#4] 2026-09-29 | City Council | agenda
 - 4. Approval of the Agenda
 - b. Contract for Treasurer
 
-## [dove-creek#6] 2026-10-13 | City Council | agenda
+## [dove-creek#5] 2026-10-13 | City Council | agenda
 - 1. Preliminary Budget
 - 5. Approval of the Agenda
 - a. Review applications Town Clerk/Treasurer
 
-## [dove-creek#7] 2026-10-15 | City Council | agenda
+## [dove-creek#6] 2026-10-15 | City Council | agenda
 - 2. Proposed Ordinance Overview
 - 3. Formal Presentations
 - 5. Discussion
 - 6. Proposed Changes to Ordinance
 
-## [dove-creek#8] 2026-10-27 | City Council | agenda
+## [dove-creek#7] 2026-10-27 | City Council | agenda
 - 2. APPROVAL OF AGENDA
 - a) Approval of Prior Special Meeting Minutes October 13, 2026
 - b) Approval of Prior Meeting Minutes September 15, 2026
@@ -80,3 +75,11 @@
 - person to fill an office of this body or of an elected official; or personnel policies that do not require the discussion of
 - b) Discussion and Possible Action Regarding Town Clerk/Treasurer Selection
 - c) Discussion and possible action concerning Town Attorney Invite for Interviews and scheduling interviews
+
+## [dove-creek#8] 2026-11-10 | City Council | agenda
+- 2. APPROVAL OF AGENDA
+- 3. SECOND READING OF PROPOSED ORDINANCE REPLACING SECTION 24-85, SEWER USAGE FEES
+- a) Second Reading of Proposed Ordinance Replacing Section 24-85, Sewer Usage Fees, of the Dove Creek Code of
+- b) Town Board Discussion and Consideration of Proposed Ordinance
+- c) Possible Adoption of Proposed Ordinance
+- 4. PUBLIC COMMENT (5-MINUTE LIMIT)

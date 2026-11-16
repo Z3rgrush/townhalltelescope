@@ -1,43 +1,6 @@
 # westminster
 
-## [westminster#0] 2026-08-17 | City Council Study Session | agenda
-- 2. CITY COUNCIL REQUESTS FOR FUTURE AGENDA TITLES
-- 4. PRESENTATIONS
-- Modernize Business Tax Administration
-- Amendments to the Westminster Municipal Code Regarding Unlawful
-- C. Follow-up on 2027 and 2028 Single-Family Residential Water Rates and
-- A. An Executive Session to Discuss Strategy and Progress on a Proposed
-- Economic Development Agreement Involving a Restaurant Prospect in
-- Incentives Would, if Made Public, Seriously Jeopardize the City’s Ability
-- Clerk. Requests must be submitted no later than noon on the Thursday prior to the
-- Strategic Priority 2: Connected and Inclusive Community
-- Strategic Priority 5: Resilient Infrastructure
-- Business Tax Administration
-- Mark Harrelson, Sales Tax Manager
-- Receive a presentation on proposed updates to the business tax administration provisions of the
-- Westminster Municipal Code and direct Staff to return with an ordinance amending Chapters 1 and 2
-- Director to specify the manner and form for the filing and payment of tax returns
-- The proposed updates to the City’s tax administration apply only to business tax filings, which
-- are typically monthly filings, and do not affect resident taxpayers
-- The Westminster Municipal Code (W.M.C.) currently prescribes methods for business tax
-- return filing and taxpayer communication that are rooted in paper processes and are outdated,
-- inflexible, and inefficient considering advances in communications technology and the ways
-- that modern business taxpayers engage with the world
-- In 2025, Westminster businesses filed 77,424 City tax returns, and an estimated 94 percent
-- were filed online through the Westminster tax system or the Colorado Department of Revenue
-- Sales and Use Tax System
-- The proposed Ordinance would authorize the Finance Director to specify the manner and form
-- for filing business tax returns, modernizing the system for taxpayers and allowing the City to
-- the City would require online filing and payment of all City tax returns effective January 1, 2027
-- through published tax compliance guidance
-- exception, preserving access for taxpayers without internet connectivity
-- W.M.C., future changes in technology or best practice would not require additional Ordinance
-- The proposed Ordinance would also permit electronic delivery of taxpayer notices, remove the
-- medical items without any change in tax policy and without any change in tax revenue
-- already require online filing of sales and use tax returns, and 10 of the 12 also require
-- filing of state retail sales tax returns, with all returns required to be filed electronically beginning
-
-## [westminster#1] 2026-08-24 | City Council Meeting | agenda
+## [westminster#0] 2026-08-24 | City Council Meeting | agenda
 - reviewed the materials and may have discussed them previously at a Study Session
 - Members of the public are invited to speak during Public Comment on any matter related
 - to City business, except for items scheduled for a formal public hearing. For public
@@ -80,13 +43,13 @@
 - Products from the City Sales and Use Tax
 - B First Reading of Councillor's Bill No 35 Amending Westminster Municipal
 
-## [westminster#2] 2026-08-24 | City Council Post-Meeting Study Session | agenda
+## [westminster#1] 2026-08-24 | City Council Post-Meeting Study Session | agenda
 - 1. PRESENTATIONS
 - A. Executive Session Discussion of a Personnel Matter (Annual Review for
 - Clerk. Requests must be submitted no later than noon on the Thursday prior to the
 - Subject: Executive Session Discussion of a Personnel Matter (Annual Review for the
 
-## [westminster#3] 2026-09-14 | City Council Post-Meeting Study Session | agenda
+## [westminster#2] 2026-09-14 | City Council Post-Meeting Study Session | agenda
 - 1. PRESENTATIONS
 - B. Homelessness Prevention, Response, and Resolution Update
 - Clerk. Requests must be submitted no later than noon on the Thursday prior to the
@@ -118,7 +81,7 @@
 - opportunity, Staff has advanced several housing initiatives, including development of a DPA. On
 - February 23, 2026, Staff presented a housing update and recommendations to City Council, including
 
-## [westminster#4] 2026-09-14 | City Council Meeting | agenda
+## [westminster#3] 2026-09-14 | City Council Meeting | agenda
 - reviewed the materials and may have discussed them previously at a Study Session
 - Members of the public are invited to speak during Public Comment on any matter related
 - to City business, except for items scheduled for a formal public hearing. For public
@@ -161,7 +124,7 @@
 - 3. CONSIDERATION OF MINUTES
 - A. Presentation of the Government Finance Officers Association Triple Crown Award
 
-## [westminster#5] 2026-09-21 | City Council Study Session | agenda
+## [westminster#4] 2026-09-21 | City Council Study Session | agenda
 - 2. CITY COUNCIL REQUESTS FOR FUTURE AGENDA TITLES
 - 4. PRESENTATIONS
 - B. Review of the Proposed 2027 Budget
@@ -205,7 +168,7 @@
 - City Council questions and direction are welcomed to refine the 2027 Budget in preparation for
 - Does City Council wish to provide feedback and direction regarding the Proposed 2027 Budget?
 
-## [westminster#6] 2026-09-28 | City Council Post-Meeting Study Session | agenda
+## [westminster#5] 2026-09-28 | City Council Post-Meeting Study Session | agenda
 - 1. PRESENTATIONS
 - A. Executive Session Discussion of a Personnel Matter (Annual Review for
 - Clerk. Requests must be submitted no later than noon on the Thursday prior to the
@@ -239,7 +202,7 @@
 - topsoil, which is reducing agricultural productivity, degrading water quality and the soil’s ability
 - to hold and filter water, which increases erosion and damages ecosystems. High-quality
 
-## [westminster#7] 2026-09-28 | City Council Meeting | agenda
+## [westminster#6] 2026-09-28 | City Council Meeting | agenda
 - reviewed the materials and may have discussed them previously at a Study Session
 - Members of the public are invited to speak during Public Comment on any matter related
 - to City business, except for items scheduled for a formal public hearing. For public
@@ -282,7 +245,7 @@
 - to Amend the Definition of Affordable Housing and Establish a Parking
 - B. Second Reading of Councillor’s Bill No. 40 Re: Amending Chapters 7, 8, and
 
-## [westminster#8] 2026-10-05 | City Council Study Session | agenda
+## [westminster#7] 2026-10-05 | City Council Study Session | agenda
 - 2. CITY COUNCIL REQUESTS FOR FUTURE AGENDA TITLES
 - 4. PRESENTATIONS
 - A. Review of Revised Recommendation for Event Center Ordinance
@@ -317,7 +280,7 @@
 - building permits, or business licenses for new event centers in multi-tenant commercial
 - developments, or where located within 300 feet of a residential district, residential dwelling unit, or
 
-## [westminster#9] 2026-10-12 | City Council Meeting | agenda
+## [westminster#8] 2026-10-12 | City Council Meeting | agenda
 - reviewed the materials and may have discussed them previously at a Study Session
 - Members of the public are invited to speak during Public Comment on any matter related
 - to City business, except for items scheduled for a formal public hearing. For public
@@ -360,7 +323,7 @@
 - Tamera Kramer, representing the Westminster Hills Dog Park Guardians, announced the
 - from 8 a.m. to 11 a.m. at both entrances to Westminster Hills Dog Park. She highlighted the
 
-## [westminster#10] 2026-10-12 | Westminster Economic Development Authority Meeting | agenda
+## [westminster#9] 2026-10-12 | Westminster Economic Development Authority Meeting | agenda
 - WESTMINSTER ECONOMIC DEVELOPMENT AUTHORITY MEETING
 - 2. CONSIDERATION OF MINUTES OF THE PRECEDING MEETINGS
 - A. Minutes of June 22, 2026, Westminster Economic Development
@@ -399,7 +362,7 @@
 - fees, debt service, transfers, and capital projects are estimated at $14,390,871
 - Proposed expenditures are non-discretionary in nature. Failure to budget for these payments
 
-## [westminster#11] 2026-10-12 | General Improvement District Board Meeting | agenda
+## [westminster#10] 2026-10-12 | General Improvement District Board Meeting | agenda
 - GENERAL IMPROVEMENT DISTRICT BOARD MEETING AGENDA
 - A. Minutes of November 24, 2025, General Improvement District Board Meeting
 - 3. PUBLIC HEARINGS
@@ -443,11 +406,11 @@
 - Orchard Park Place North
 - The public may participate in this Public Hearing in one of three ways:
 
-## [westminster#12] 2026-10-12 | Post-Meeting Study Session | agenda
+## [westminster#11] 2026-10-12 | Post-Meeting Study Session | agenda
 - 1. PRESENTATIONS
 - Clerk. Requests must be submitted no later than noon on the Thursday prior to the
 
-## [westminster#13] 2026-10-19 | City Council Study Session | agenda
+## [westminster#12] 2026-10-19 | City Council Study Session | agenda
 - 2. CITY COUNCIL REQUESTS FOR FUTURE AGENDA TITLES
 - 4. PRESENTATIONS
 - A. Presentation on Data Center Land Use
@@ -482,7 +445,7 @@
 - of private development proposals, utility projects, and other capital improvement projects so
 - Most referrals received by Westminster City staff are minor routine projects such as additions to
 
-## [westminster#14] 2026-10-26 | City Council Meeting | agenda
+## [westminster#13] 2026-10-26 | City Council Meeting | agenda
 - reviewed the materials and may have discussed them previously at a Study Session
 - Members of the public are invited to speak during Public Comment on any matter related
 - to City business, except for items scheduled for a formal public hearing. For public
@@ -526,7 +489,7 @@
 - license plate readers, particularly related to data retention, cybersecurity, privacy, and potential
 - Jessica Johnson expressed opposition to the use of Flock cameras and automatic license plate
 
-## [westminster#15] 2026-10-26 | City Council Post-Meeting Study Session | agenda
+## [westminster#14] 2026-10-26 | City Council Post-Meeting Study Session | agenda
 - 1. PRESENTATIONS
 - A. Presentation on the Westminster Childcare Market Study Finding
 - Clerk. Requests must be submitted no later than noon on the Thursday prior to the
@@ -556,3 +519,89 @@
 - tuition costs, and implementing dedicated funding sources like lodging taxes or special districts
 - These approaches demonstrate the types of policy options to consider addressing both current gaps
 - The City’s Strategic Plan priority of Opportunity to Thrive is met by advancing the City’s goal of
+
+## [westminster#15] 2026-11-09 | City Council Post-Meeting Study Session | agenda
+- 1. PRESENTATIONS
+- A. Presentation by Butterfly Pavilion Staff on the Forward Together
+- Possible Purchase of Land for a Future Fire Station and Fire
+- Clerk. Requests must be submitted no later than noon on the Thursday prior to the
+- Strategic Priority 2: Connected and Inclusive Community
+- Subject: Presentation by Butterfly Pavilion Staff on the Forward Together Facilities
+- Receive a presentation from Butterfly Pavilion staff on the proposed expansion and renovation of its
+-  The Butterfly Pavilion (BP) is proposing a four-phase expansion and renovation project to
+- circulation, and site amenities, and increasing the facility size from 27,000 square feet (sq
+- ft) to approximately 38,796 sq ft (Project)
+- scope, phasing, fundraising plan, cost estimates, feasibility analysis, rebranding needs, and
+- requested support for BP’s expansion and renovation
+-  Staff received direction to develop an agreement to provide $250,000 in City support to pre
+- development activities, continue negotiations on Phase I financing and incentives, return to
+- City Council with an agreement for Phase I support, and coordinate a presentation by BP
+- staff to City Council on the Project
+-  The presentation will include information on the Project vision, marketing and branding
+- efforts, and a structured fundraising plan
+- Does City Council wish to receive a presentation from BP staff and provide comments?
+- City Council could choose not to receive a presentation from BP staff and withhold comment. This is
+- not recommended because this presentation is provided at City Council’s direction and will provide
+- BP is the world’s only Association of Zoos and Aquariums (AZA)-accredited invertebrate zoo, a
+- Project Overview
+- The proposed Project is a four-phase expansion and renovation that grows the campus from 27,000
+- to approximately 38,796 square feet and modernizes all exhibits, classrooms, research labs,
+-  Phase 2: Exterior landscape, Pollinator Park elements, event plaza, iconic play structure,
+- and expanded parking ($10.9 million)
+-  Phase 4: Interior renovation, office expansion, guest-flow improvements ($4.8 million+)
+- The total estimated Project cost is approximately $44 million, with construction beginning as early as
+- BP leadership expressed an immediate need for City financial support of needed pre-development
+- activities to advance the Project, including architectural plans through schematic designs, pre
+- development Activities). BP estimates that the Pre-development Activities will cost approximately
+- $635,000 and requests $250,000 in City support for this
+
+## [westminster#16] 2026-11-09 | City Council Meeting | agenda
+- reviewed the materials and may have discussed them previously at a Study Session
+- Members of the public are invited to speak during Public Comment on any matter related
+- to City business, except for items scheduled for a formal public hearing. For public
+- hearing items, the Mayor will call for public testimony at the appropriate time. Please
+- 3. CONSIDERATION OF MINUTES OF PRECEDING MEETING
+- 4. PRESENTATIONS
+- A. Presentation of Employee Service Awards
+- 5. PUBLIC COMMENT
+- To submit a public comment, call 303-706-3111 to leave a recorded message,
+- A. Public Comment for November 9, 2026
+- 8. CITY COUNCIL REQUESTS FOR FUTURE AGENDA TITLES
+- an item for separate discussion. Items removed from the consent agenda will
+- be considered immediately following adoption of the amended Consent
+- A. Resolution No. 47 Authorizing the City Attorney to Execute Settlement
+- B. Authorize the City Manager to Execute a Sole Source Contract with Stantec
+- Consulting Services, Inc. for the RoadMatrix for the Citywide Concrete and
+- C. Authorization to Execute a Contract Amendment with Anderson Hallas
+- Architects, P.C. for Design Services for the Municipal Courthouse Project
+- E. Authorization of 2027 Computer Replacement and Peripheral Purchases
+- F. Ratification of a Contract Amendment with Hanavan Pools and Spas Inc. for
+- Pool Replastering at the Swim and Fitness Center and City Park Recreation
+- Center and Authorization of Project Contingency for 2027 and 2028
+- the Cities of Arvada, Edgewater, Golden, Lakewood, Westminster, and
+- a First Contract Amendment with HDR Engineering, Inc. for Owner’s
+- Representative, Resident Project Representative, and Quality Assurance
+- Services for the Westminster Boulevard Raw Water Pipeline Extension
+- 10. APPOINTMENTS AND RESIGNATIONS
+- 11. PUBLIC HEARINGS
+- A. Public Hearing and First Reading of Councillor's Bill No. 52 Re: Approving
+- Petitions for Inclusion in the Foster Farm Business Improvement District
+- Enter into Three One-Year Lease Agreements, Each Renewable for Four
+- Councillor’s Bill No. 54 Amending Title 5, Chapter 7; Title 8, Chapter 1; and
+- C First Reading of Councillor’s Bill No. 55 Re: Approving an Economic
+- Development Agreement with Cooper’s Hawk Winery and Restaurants,
+- Delaware Street
+- D First Reading of Councillor's Bill No. 56 Re: Approving an Economic
+- Development Agreement with the Butterfly Pavilion Concerning Pre
+- Development Activities Associated with the Proposed Expansion and
+- 13. OLD BUSINESS AND PASSAGE OF ORDINANCE ON SECOND READING
+- Relay. Requests must be received no later than noon on the Thursday prior to the meeting to
+
+## [westminster#17] 2026-11-09 | Westminster Economic Development Authority Post Meeting Study Session | agenda
+- WESTMINSTER ECONOMIC DEVELOPMENT AUTHORITY POST
+- 1. PRESENTATIONS
+- Economic Development Authority Board Regarding the Possible Sale of
+- Westminster Economic Development Authority-Owned Property Located
+- Westminster Economic Development Authority Post-Meeting Study Session
+- Subject: An Executive Session to Obtain Direction from the Westminster Economic Development Authority Board Regarding the Possible Sale of Westminster
+- Economic Development Authority-Owned Property Located on Block B-6 in

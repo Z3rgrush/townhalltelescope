@@ -1,85 +1,65 @@
-- title: 2027 Town of Winter Park budget
-  summary: Town Council holds a public hearing on Resolution 2355 to adopt the 2027 budget and make appropriations. It is on the Nov. 3 agenda; the documents do not state the outcome.
+- title: Town of Winter Park 2027 budget
+  summary: Town Council is scheduled to hold a public hearing on Resolution 2355, which would adopt the 2027 budget and make appropriations for the calendar year beginning January 1, 2027. The Transit Advisory Committee is also reviewing the 2027 transit operating budget.
   where: Townwide
   refs:
-  - 14
+  - 6
+  - 13
   topics:
   - Budget & taxes
-- title: Urban Renewal Authority tax increment deals with Fire District and Cooper Creek Village
-  summary: The URA board considered a tax increment revenue agreement with the East Grand County Fire Protection District No. 4 (Resolution 25) and a financial services agreement with Northland Securities (Resolution 26). It also planned a closed session on negotiating tax increment sharing with the Cooper Creek Village Metro Districts.
-  where: Winter Park downtown
-  refs:
-  - 1
-  topics:
-  - Budget & taxes
-  - Economic development
-  - Fire & emergencies
-- title: Wheeler Road housing purchases by Housing Authority
-  summary: Council, acting as the Winter Park Housing Authority, considered resolutions authorizing purchase and sale agreements for 34 Wheeler Road and 56 Wheeler Road. A closed session on buying, selling or leasing Town-owned property was also scheduled.
+  - Transit
+- title: Housing Authority purchases on Wheeler Road
+  summary: Council, acting as the Winter Park Housing Authority, is to consider Resolution 37 authorizing a purchase and sale agreement for 34 Wheeler Road. The packet also lists Resolution 38 and a purchase agreement for 56 Wheeler Road. A closed session on buying or selling Town-owned property is also scheduled.
   where: 34 and 56 Wheeler Road
   refs:
-  - 14
+  - 13
   topics:
   - Housing
   - Land & property
 - title: Sojourn development agreement amendment and ADU deed restrictions
-  summary: Council considered Resolution 2356, a second amendment to the Development Improvement Agreement for Sojourn that would also release accessory dwelling unit deed restrictions.
+  summary: Council is to consider Resolution 2356, a second amendment to the Development Improvement Agreement for the Sojourn development. It would also authorize release of accessory dwelling unit deed restrictions.
   where: Sojourn development
   refs:
-  - 14
+  - 13
   topics:
   - Housing
   - Zoning & development
+- title: Urban Renewal Authority tax increment deals (fire district and Cooper Creek Village)
+  summary: The Urban Renewal Authority is to consider Resolution 25, a tax increment revenue agreement with the East Grand County Fire Protection District No. 4. It also plans a closed session to set negotiating strategy on a tax increment sharing agreement with the Cooper Creek Village Metro Districts. A separate Resolution 26 would hire Northland Securities for professional services.
+  where: Winter Park Urban Renewal Authority area
+  refs:
+  - 0
+  topics:
+  - Budget & taxes
+  - Fire & emergencies
+  - Economic development
 - title: Thermal energy network design contract
-  summary: Council considered Resolution 2354 to award GreyEdge Group a contract for 10 percent design of a Town thermal energy network.
+  summary: Council is to consider Resolution 2354, accepting a proposal from GreyEdge Group for 10 percent design services for a Town thermal energy network and awarding the contract.
   where: Townwide
   refs:
-  - 14
+  - 13
   topics:
   - Energy
   - Utilities
-- title: Downtown ATS aerial transit portal and transit budget
-  summary: The URA saw a design presentation on the downtown portal for the Aerial Transit System (ATS). The Transit Advisory Committee reviewed the 2027 transit operating budget.
+  - Environment & climate
+- title: Downtown aerial transit system portal and design guidelines
+  summary: The Urban Renewal Authority is scheduled to hear a presentation on the Downtown Aerial Transit System (ATS) portal design. The Planning Commission is reviewing a 75% draft of the Winter Park Downtown Design Guidelines.
   where: Downtown Winter Park
   refs:
-  - 1
-  - 7
-  - 10
+  - 0
+  - 8
   topics:
   - Transit
-  - Budget & taxes
-- title: Downtown Design Guidelines draft
-  summary: The Planning Commission reviewed the 75% draft of the Winter Park Downtown Design Guidelines and its 2026 priorities list. It also discussed the Arrow at Winter Park master sign program.
-  where: Downtown Winter Park; 78746 US Hwy 40
-  refs:
-  - 9
-  topics:
-  - Zoning & development
   - Downtown & business
-- title: 47 Village Drive preliminary plat and Rendezvous Filing 2C final plat
-  summary: The Planning Commission held public hearings on the preliminary plat for 47 Village Drive and the final plat for Rendezvous at Winter Park Filing No. 2C.
-  where: 47 Village Drive; Rendezvous at Winter Park
-  refs:
-  - 0
-  - 13
-  topics:
   - Zoning & development
-  - Land & property
-- title: ROAM Neighborhood Park
-  summary: The Planning Commission put the ROAM Neighborhood Park on its Aug. 25 agenda.
-  where: ROAM neighborhood
+- title: Planning Commission development reviews
+  summary: 'The Planning Commission has several projects on its agendas: a preliminary plat at 47 Village Drive, a master sign program for Arrow at Winter Park on US Highway 40, and site plans at 40 Ski Idlewild Road and 100 Trademark Drive. It will also review a plat exemption at 215 Dreamcatcher South and discuss the ROAM Neighborhood Park. The Board of Adjustment will hear a setback variance request at 23 Maple Road.'
+  where: 47 Village Drive; 40 Ski Idlewild Road; 100 Trademark Drive; 78746 US Hwy 40; 23 Maple Road
   refs:
-  - 3
-  topics:
-  - Parks & open space
-- title: Site plan and variance reviews
-  summary: Planning bodies reviewed minor site plans at 373 Bear Trail, 405 Lupine Lane, 40 Ski Idlewild Road and 100 Trademark Drive, and a setback variance at 23 Maple Road. They also reviewed a subdivision exemption plat at 215 Dreamcatcher South.
-  where: Various Winter Park addresses
-  refs:
-  - 0
+  - 2
+  - 4
   - 5
-  - 6
-  - 13
+  - 8
+  - 12
   topics:
   - Zoning & development
-  - Land & property
+  - Parks & open space

@@ -1,67 +1,87 @@
 - title: Flock license plate reader cameras
-  summary: Residents repeatedly urged Council to end the Town's Flock Safety automated license plate reader program, citing privacy concerns and petitions with 1,544 to over 1,900 signatures. Town Manager Eric Heil said the Town has not renewed its Flock agreement and is reviewing contract terms and data security. Council is scheduled to discuss the program on October 6, 2026.
+  summary: Residents repeatedly urged Council to end the Town's Flock Safety license plate reader contract, citing privacy concerns and petitions of 1,544 to 1,900 signatures. The Town Manager said the agreement had not been renewed and was under review, a discussion was set for October 6, and by October 27 Council voted to retain the cameras while asking Public Works to remove them if Flock's removal was delayed.
   where: Townwide
   refs:
   - 0
   - 1
   - 2
-  - 3
+  - 4
   topics:
   - Policing & public safety
   - Ethics & transparency
+  - Lawsuits & legal
   public_comment: true
+- title: 2027 budget review
+  summary: Council held a work session on the 2027 budget for all funds, with a balanced General Fund and about $64.1 million in projected revenues. Topics included reserves, capital projects, recreation fees, staffing, wildfire mitigation, composting and housing, and Council gave direction to staff.
+  where: Townwide
+  refs:
+  - 4
+  topics:
+  - Budget & taxes
+  - Fees & rates
 - title: Avon Whitewater Park and Bob the Bridge improvements
-  summary: Residents asked Council to consider improving the Bob the Bridge area and redeveloping the Avon Whitewater Park, including a standing river wave. Speakers also asked for better river access amid low water this year and for skate park funding.
+  summary: Residents asked Council to consider improvements near Bob the Bridge and the Avon Whitewater Park, including a standing river wave feature, better river access in low water, and a skate park that was approved but not funded.
   where: Avon Whitewater Park / Bob the Bridge
   refs:
+  - 0
   - 1
-  - 2
   topics:
   - Recreation & trails
   - Parks & open space
   public_comment: true
-- title: Piedmont Apartments trash and wildlife concerns
-  summary: Residents raised property management and code enforcement concerns at the Piedmont Apartments, including trash drawing wildlife. Deputy Chief Cosper reported that police had received 27 calls about the trash.
-  where: Piedmont Apartments
+- title: Pedestrian crosswalk safety on Avon Road and Post Boulevard
+  summary: A resident asked for flashing pedestrian beacons at the Avon Road crosswalks near Highway 6 after a near miss. Council also approved a CDOT Highway Safety Improvement Program grant agreement for Post Boulevard pedestrian improvements.
+  where: Avon Road at Highway 6; Post Boulevard
   refs:
   - 2
-  topics:
-  - Environment & climate
-  - Agriculture & wildlife
-  - Housing
-  public_comment: true
-- title: Community housing outreach
-  summary: A resident asked for more opportunities for neighborhood participation and input on a recent community housing project. Town Manager Heil said the referenced meeting was not the final step and that further public comment would be available at future Town Council public hearings.
-  where: Avon
-  refs:
-  - 0
-  topics:
-  - Housing
-  - Zoning & development
-  public_comment: true
-- title: Pedestrian crosswalk safety at Avon Road and Highway 6
-  summary: A resident asked for flashing pedestrian beacons on both sides of Avon Road near Highway 6, after a near-miss involving his father in the crosswalk. He noted beacons exist on Highway 6 near Avon Road. Earlier, another resident said the Town had quickly made requested crosswalk improvements.
-  where: Avon Road at Highway 6
-  refs:
-  - 1
   - 3
   topics:
   - Roads & traffic
+  - Government operations
+  public_comment: true
+- title: Piedmont Apartments trash and wildlife concerns
+  summary: Residents raised trash, management and code enforcement problems at the Piedmont Apartments. Police reported receiving 27 calls about trash-related wildlife issues.
+  where: Piedmont Apartments
+  refs:
+  - 1
+  topics:
+  - Agriculture & wildlife
+  - Housing
   - Policing & public safety
   public_comment: true
-- title: Lot B (The Summit) redevelopment and tree removal
-  summary: A resident asked about trees that could be removed during future redevelopment and site excavation of Lot B (The Summit). Town Manager Heil responded that trees would likely be removed as part of that work.
-  where: Lot B (The Summit)
+- title: Eagle County School District Ballot Issue 5B support resolution
+  summary: Council considered Resolution 26-15 supporting a school district mill levy override for additional funding. Speakers opposed the tax increase while supporting higher teacher pay, and Council voted on the resolution.
+  where: Eagle County School District
   refs:
   - 3
   topics:
-  - Zoning & development
-  - Downtown & business
+  - Schools & youth
+  - Elections
+  - Budget & taxes
   public_comment: true
-- title: Third 2026 budget amendment
-  summary: Council's consent agenda on September 22 included a resolution for the Town's third budget amendment of 2026, renumbered as Resolution No. 26-14.
+- title: 'Community housing: Avondale Apartments and fast-track scheduling'
+  summary: Council approved a Construction Manager/General Contractor agreement for the Avondale Apartments and adopted Resolution 26-18, a fast-track priority scheduling policy for community housing projects.
+  where: Avondale Apartments
+  refs:
+  - 3
+  - 4
+  topics:
+  - Housing
+  - Zoning & development
+- title: Lot B (The Summit) redevelopment and tree removal
+  summary: A resident asked whether trees on Lot B could be affected by future development. Staff noted that trees may be removed as part of redevelopment and site excavation.
+  where: Lot B (The Summit)
+  refs:
+  - 2
+  topics:
+  - Zoning & development
+  - Environment & climate
+  public_comment: true
+- title: Comprehensive Plan amendments for Senate Bill 24-174
+  summary: Council approved on consent amendments to the Comprehensive Plan to comply with Colorado Senate Bill 24-174.
   where: Townwide
   refs:
   - 3
   topics:
-  - Budget & taxes
+  - Zoning & development
+  - Housing

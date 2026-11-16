@@ -1,67 +1,6 @@
 # rifle
 
-## [rifle#0] 2026-08-11 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
-- GREATER RIFLE IMPROVEMENT
-- 202 Railroad Avenue, Rifle, CO 81650
-- 4.a. Consider Approval of July 14, 2026, Meeting Minutes
-- 5. Presentation
-- 5.a. Presentation and Discussion regarding Participatory Budgeting Pilot
-- 6.a. Discussion and possible action regarding the recommendation for appointment of Tara
-- 6.b. Discussion regarding proposed 2027 GRIT Budget
-- 6.c. Discussion and possible action regarding GRIT Façade Improvement Grant Application
-- — Hays Genera PC/LYHOTP LLC (126 W. 4th Street)
-- 6.d. Discussion and possible action regarding Flora Materials Letter of Support
-- Greater Rifle Improvement Team (GRIT) Advisory Board
-- The GRIT Advisory Board has two grant cycles. The grant cycle and deadlines to submit an application are:
-- January Cycle – Application Deadline: December 31st = Funding: February
-- June Cycle – Application Deadline: May 31st = Funding: July
-- allow 48 hours for your requests to be met
-- auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
-
-## [rifle#1] 2026-08-11 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
-- GREATER RIFLE IMPROVEMENT
-- 202 Railroad Avenue, Rifle, CO 81650
-- 4.a. Consider Approval of July 14, 2026, Meeting Minutes
-- 5. Presentation
-- 5.a. Presentation and Discussion regarding Participatory Budgeting Pilot
-- 6.a. Discussion and possible action regarding the recommendation for appointment of Tara
-- 6.b. Discussion regarding proposed 2027 GRIT Budget
-- 6.c. Discussion and possible action regarding GRIT Façade Improvement Grant Application
-- — Hays Genera PC/LYHOTP LLC (126 W. 4th Street)
-- 6.d. Discussion and possible action regarding Flora Materials Letter of Support
-- Greater Rifle Improvement Team (GRIT) Advisory Board
-- The GRIT Advisory Board has two grant cycles. The grant cycle and deadlines to submit an application are:
-- January Cycle – Application Deadline: December 31st = Funding: February
-- June Cycle – Application Deadline: May 31st = Funding: July
-- allow 48 hours for your requests to be met
-- auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
-- Consider Approval of July 14, 2026, Meeting Minutes
-- Approval of July 14, 2026, Meeting Minutes
-- Notification Requirements:
-- Rifle City Hall, 202 Railroad Avenue, Rifle, CO
-- Introduction of Karah Brubaker, City of Rifle’s new Economic Opportunity Specialist II & Main Street
-- The Board considered approval of June 9, 2026, minutes
-- Motion To approve June 9, 2026, GRIT Advisory
-- Presentation
-- Presentation from GRIT Grant Applicant
-- Request: $5,000 toward their Grand Hogback Extravaganza
-- Prizes are purchased from local area businesses
-- The Board discussed the election of Lydia Allen as the Chair of the GRIT Board
-- GRIT Grant Budget Overview
-- The Board reviewed the 2026 GRIT Grant Budget Summary worksheet, including the total program
-- budget, grant funds awarded to date, remaining balance, and current grant applications under
-- consideration
-- Discussion and possible action regarding GRIT Grant Applications
-- The Board reviewed and discussed the four (4) GRIT grant applications. During discussion, members
-- expressed concern about increasing event costs and the amount requested by the Symphony in the
-- Valley. The Board would like to encourage the organization to consider ways to keep ticket prices
-- discussed applicants acknowledging GRIT’s financial support in event marketing and promotional
-- Following discussion, the Board approved funding for the four (4) GRIT grant applications totaling
-- Motion To approve the four (4) GRIT Grant
-- applications totaling $22,200.00
-- Karah Brubaker, Economic Opportunity Specialist II / Main Street Manager Update
-
-## [rifle#2] 2026-08-25 | Planning and Zoning Commission | agenda
+## [rifle#0] 2026-08-25 | Planning and Zoning Commission | agenda
 - PLANNING & ZONING COMMISSION
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
@@ -78,7 +17,7 @@
 - allow 48 hours for your requests to be met
 - auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
 
-## [rifle#3] 2026-08-25 | Planning and Zoning Commission | agenda
+## [rifle#1] 2026-08-25 | Planning and Zoning Commission | agenda
 - PLANNING & ZONING COMMISSION
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
@@ -121,7 +60,7 @@
 - a CUP-based data center standard
 - Requires proof of water, electricity-provider “will serve”
 
-## [rifle#4] 2026-09-08 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+## [rifle#2] 2026-09-08 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
 - GREATER RIFLE IMPROVEMENT
 - 202 Railroad Avenue, Rifle, CO 81650
 - 4.a. Consider Meeting Minutes of the regularly scheduled August 11th, 2026 GRIT Board
@@ -135,7 +74,7 @@
 - allow 48 hours for your requests to be met
 - auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
 
-## [rifle#5] 2026-09-08 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+## [rifle#3] 2026-09-08 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
 - GREATER RIFLE IMPROVEMENT
 - 202 Railroad Avenue, Rifle, CO 81650
 - 4.a. Consider Meeting Minutes of the regularly scheduled August 11th, 2026 GRIT Board
@@ -174,7 +113,7 @@
 - Discussion and possible action regarding proposed 2027 GRIT budget
 - Staff presented the proposed 2027 GRIT budget for Board review and feedback. Discussion focused on
 
-## [rifle#6] 2026-09-14 | Parks & Recreation Advisory Board (PRAB) | agenda
+## [rifle#4] 2026-09-14 | Parks & Recreation Advisory Board (PRAB) | agenda
 - Rifle Parks & Recreation
 - 202 Railroad Avenue, Rifle, CO 81650
 - 3. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
@@ -187,7 +126,7 @@
 - Rifle Parks & Recreation Advisory Board
 - special assistance, call Parks & Recreation Director Austin Rickstrew at 970-665-6578 or email our ADA Team at
 
-## [rifle#7] 2026-09-29 | Planning and Zoning Commission | agenda
+## [rifle#5] 2026-09-29 | Planning and Zoning Commission | agenda
 - PLANNING & ZONING COMMISSION
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
@@ -204,7 +143,7 @@
 - allow 48 hours for your requests to be met
 - auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
 
-## [rifle#8] 2026-09-29 | Planning and Zoning Commission | agenda
+## [rifle#6] 2026-09-29 | Planning and Zoning Commission | agenda
 - PLANNING & ZONING COMMISSION
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
@@ -247,7 +186,7 @@
 - Physical Warehouse Sizes (Square Footage)
 - Line Dissolution plat. The current code requirements state that if a lot is split, Sec 16-1
 
-## [rifle#9] 2026-10-12 | Parks & Recreation Advisory Board (PRAB) | agenda
+## [rifle#7] 2026-10-12 | Parks & Recreation Advisory Board (PRAB) | agenda
 - Rifle Parks & Recreation
 - 202 Railroad Avenue, Rifle, CO 81650
 - a. Discussion Regarding Recognition Plaque Request — Rifle Mountain Park
@@ -263,7 +202,7 @@
 - Rifle Parks & Recreation Advisory Board
 - special assistance, call Parks & Recreation Director Austin Rickstrew at 970-665-6578 or email our ADA Team at
 
-## [rifle#10] 2026-10-12 | Parks & Recreation Advisory Board (PRAB) | agenda
+## [rifle#8] 2026-10-12 | Parks & Recreation Advisory Board (PRAB) | agenda
 - Rifle Parks & Recreation
 - 202 Railroad Avenue, Rifle, CO 81650
 - a. Discussion Regarding Recognition Plaque Request — Rifle Mountain Park
@@ -302,7 +241,7 @@
 - 4. City Council Approval: The City Council will make the final decision and approve
 - the name via resolution
 
-## [rifle#11] 2026-10-12 | Rifle Community Foundation | agenda
+## [rifle#9] 2026-10-12 | Rifle Community Foundation | agenda
 - 202 Railroad Avenue Rifle, CO 81650
 - 3.a. Consider Minutes of the September 3, 2026 Rifle Community Foundation Regular
 - 4.a. Discuss Board Meeting Dates for 2027
@@ -326,7 +265,7 @@
 - 4.d. Consider Recommendation to Rifle City Council to Restructure the Rifle Community
 - allow 48 hours for your requests to be met
 
-## [rifle#12] 2026-10-12 | Rifle Community Foundation | agenda
+## [rifle#10] 2026-10-12 | Rifle Community Foundation | agenda
 - 202 Railroad Avenue Rifle, CO 81650
 - 3.a. Consider Minutes of the September 3, 2026 Rifle Community Foundation Regular
 - 4.a. Discuss Board Meeting Dates for 2027
@@ -362,7 +301,7 @@
 - foundation transitions under City administration, future appointments will go before City Council for
 - Finance Director Scott Rust requested authorization to communicate directly with the foundation’s
 
-## [rifle#13] 2026-10-13 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+## [rifle#11] 2026-10-13 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
 - GREATER RIFLE IMPROVEMENT
 - 202 Railroad Avenue, Rifle, CO 81650
 - 4.a. Consider Meeting Minutes of the regularly scheduled September 8th, 2026 GRIT Board
@@ -378,7 +317,7 @@
 - allow 48 hours for your requests to be met
 - auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
 
-## [rifle#14] 2026-10-13 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+## [rifle#12] 2026-10-13 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
 - GREATER RIFLE IMPROVEMENT
 - 202 Railroad Avenue, Rifle, CO 81650
 - 4.a. Consider Meeting Minutes of the regularly scheduled September 8th, 2026 GRIT Board
@@ -413,14 +352,14 @@
 - Staff provided updates on the proposed Third Street shade structure/pergola. Preliminary estimates for
 - approximately 400 square feet of shade range from roughly $20,000 for a canvas-style structure to $30,000
 
-## [rifle#15] 2026-10-14 | City Council | agenda
+## [rifle#13] 2026-10-14 | City Council | agenda
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
 - a. Bulk Resource Consumer Conditional Use Permit Requirements Discussion
 - b. Water Rights Report
 - allow 48 hours for your requests to be met
 
-## [rifle#16] 2026-10-14 | City Council | agenda
+## [rifle#14] 2026-10-14 | City Council | agenda
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
 - a. Bulk Resource Consumer Conditional Use Permit Requirements Discussion
@@ -466,7 +405,7 @@
 - be helpful because future high-resource uses may not call themselves data centers but may create similar
 - “Bulk Resource Consumer” means a commercial, industrial, or institutional use that, based on projected or
 
-## [rifle#17] 2026-10-27 | Planning and Zoning Commission | agenda
+## [rifle#15] 2026-10-27 | Planning and Zoning Commission | agenda
 - PLANNING & ZONING COMMISSION
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
@@ -483,7 +422,7 @@
 - allow 48 hours for your requests to be met
 - auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
 
-## [rifle#18] 2026-10-27 | Planning and Zoning Commission | agenda
+## [rifle#16] 2026-10-27 | Planning and Zoning Commission | agenda
 - PLANNING & ZONING COMMISSION
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
@@ -528,7 +467,7 @@
 - context on how the plan has been used and where it has fallen short
 - recommendations and key analyses from those plans, so the comprehensive plan reflects work
 
-## [rifle#19] 2026-11-04 | City Council | agenda
+## [rifle#17] 2026-11-04 | City Council | agenda
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
 - a. Discussion on 2026 Comprehensive Plan Draft
@@ -551,7 +490,7 @@
 - Resources and Environment (RESTORE) Colorado for Centennial Park Improvements
 - allow 48 hours for your requests to be met
 
-## [rifle#20] 2026-11-04 | City Council | agenda
+## [rifle#18] 2026-11-04 | City Council | agenda
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
 - a. Discussion on 2026 Comprehensive Plan Draft
@@ -591,7 +530,7 @@
 - projected need ranging from approximately 1,800 to 2,200 additional housing units depending
 - makes it difficult to predict the pace of growth. Regardless of growth rates, the Comprehensive
 
-## [rifle#21] 2026-11-09 | Parks & Recreation Advisory Board (PRAB) | agenda
+## [rifle#19] 2026-11-09 | Parks & Recreation Advisory Board (PRAB) | agenda
 - Rifle Parks & Recreation
 - 202 Railroad Avenue, Rifle, CO 81650
 - 3. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
@@ -607,7 +546,7 @@
 - Rifle Parks & Recreation Advisory Board
 - special assistance, call Parks & Recreation Director Austin Rickstrew at 970-665-6578 or email our ADA Team at
 
-## [rifle#22] 2026-11-09 | Parks & Recreation Advisory Board (PRAB) | agenda
+## [rifle#20] 2026-11-09 | Parks & Recreation Advisory Board (PRAB) | agenda
 - Rifle Parks & Recreation
 - 202 Railroad Avenue, Rifle, CO 81650
 - 3. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
@@ -647,3 +586,50 @@
 - Rifle Mountain Park – Bike Rack Installation
 - Parks & Recreation Director Austin Rickstrew gave a recap on a series of bike racks purchased
 - by the Rifle Climbing Coalition that were installed in Rifle Mountain Park over the past few
+
+## [rifle#21] 2026-11-10 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+- GREATER RIFLE IMPROVEMENT
+- 202 Railroad Avenue, Rifle, CO 81650
+- 4.a. Consider Meeting Minutes of the Regularly Scheduled October 13th, 2026 GRIT Board
+- 5.a. Discussion and Possible Action Regarding City of Rifle Letter of Support
+- 5.b. Discussion and Possible Action Regarding the Recommendation for Appointment of
+- 5.c. Discussion and Possible Action Regarding Amendments to the 2027 GRIT Budget
+- Greater Rifle Improvement Team (GRIT) Advisory Board
+- The GRIT Advisory Board has two grant cycles. The grant cycle and deadlines to submit an application are:
+- January Cycle – Application Deadline: December 31st = Funding: February
+- June Cycle – Application Deadline: May 31st = Funding: July
+- allow 48 hours for your requests to be met
+- auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
+
+## [rifle#22] 2026-11-10 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+- GREATER RIFLE IMPROVEMENT
+- 202 Railroad Avenue, Rifle, CO 81650
+- 4.a. Consider Meeting Minutes of the Regularly Scheduled October 13th, 2026 GRIT Board
+- 5.a. Discussion and Possible Action Regarding City of Rifle Letter of Support
+- 5.b. Discussion and Possible Action Regarding the Recommendation for Appointment of
+- 5.c. Discussion and Possible Action Regarding Amendments to the 2027 GRIT Budget
+- Greater Rifle Improvement Team (GRIT) Advisory Board
+- The GRIT Advisory Board has two grant cycles. The grant cycle and deadlines to submit an application are:
+- January Cycle – Application Deadline: December 31st = Funding: February
+- June Cycle – Application Deadline: May 31st = Funding: July
+- allow 48 hours for your requests to be met
+- auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
+- has submitted a letter of interest to be considered for appointment to the GRIT Advisory Board. Her
+- appointment request will be presented separately under the regular agenda
+- Maria has expressed interest in becoming involved with GRIT and submitted a letter of interest for appointment
+- involvement could support GRIT’s community improvement efforts
+- fill the vacancy. This introduction is informational only, and no board action is requested until the regular
+- Notification Requirements:
+- Consider Meeting Minutes of the Regularly Scheduled October 13th, 2026 GRIT Board Meeting
+- Approve Meeting Minutes of the regularly scheduled October 13th, 2026 GRIT Board Meeting
+- The Board considered approval of the September 8, 2026, GRIT Advisory Board action minutes
+- Motion Approve the September 8, 2026, GRIT Advisory Board action minutes as presented
+- Façade Grant Funding
+- Staff reported that the façade grant program began with a $40,000 allocation and that $21,956.25 had
+- previously been awarded, leaving $18,043.75. The two pending applications, from Pro Max and The CoWork
+- would exceed the remaining balance by $1,329.88. Members discussed using savings in the City
+- Beautification line, including funds left after the misters came in under budget, to cover the shortfall. The
+- Design for a $40,000 contract. City approval and a kickoff are pending; Board members will be key
+- stakeholders. Discussion covered the sign family, digital wayfinding, durable and phased installation,
+- construction bid documents, and public outreach. Members asked staff to consider bilingual signage and
+- community input at local events. About $30,000 is budgeted for continued work in 2027; installation timing will

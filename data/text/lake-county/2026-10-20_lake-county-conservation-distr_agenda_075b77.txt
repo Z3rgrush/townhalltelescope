@@ -37,7 +37,7 @@ for
  
 remote
  
-attendance: bit.ly/LakeCoGov 
+attendance: bit.ly/LakeCoGov  
 Call
  
 to

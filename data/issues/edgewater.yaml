@@ -1,116 +1,99 @@
-- title: Zoning Code Update and rewrite (RLI, RMLI, RMHI districts)
-  summary: The city is rewriting its zoning code with a Technical Focus Group. The group's June 8, 2026 meeting reviewed proposed residential districts (RLI, RMLI, RMHI), rear-lot intensification, building heights and floor area limits, balancing more housing against Edgewater's cottage-scale character. The code update is also tied to HB24 state housing requirements and the Edgewater 2040 Comprehensive Plan.
+- title: Zoning code rewrite and new residential districts
+  summary: The city is rewriting its zoning code with a Technical Focus Group. Its June 8, 2026 meeting reviewed proposed RLI, RMLI and RMHI residential districts, rear-lot intensification, and duplexes and cottage clusters, aiming to add housing while keeping Edgewater's cottage-scale character. The Planning and Zoning Commission and Board of Adjustment have both had it on their agendas.
   where: Citywide
   refs:
+  - 7
+  - 8
   - 9
-  - 10
-  - 11
-  - 17
-  - 18
-  - 24
+  - 16
+  - 22
   topics:
   - Zoning & development
   - Housing
 - title: Transit-Oriented Communities housing study (HB 24-1313)
-  summary: Consultant Matrix Design Group is running a Transit-Oriented Communities planning project and presented existing conditions, housing market and economic feasibility findings to Planning and Zoning on Aug. 12, 2026. The work is meant to shape Edgewater's response to HB 24-1313 housing capacity requirements and to guide housing, land use and transportation strategies.
+  summary: A consultant, Matrix Design Group, is running a Transit-Oriented Communities planning project to shape Edgewater's response to state law HB 24-1313. In August 2026 it presented existing conditions, housing market and economic feasibility findings to the Planning and Zoning Commission as it moves toward housing, land use and transportation strategies.
   where: Citywide
   refs:
-  - 12
-  - 13
-  - 21
-  - 22
+  - 10
+  - 19
+  - 20
   topics:
   - Housing
   - Transit
   - Zoning & development
 - title: Proposition 123 affordable housing fast-track review policy
-  summary: Staff proposed a resolution adopting an expedited review policy for qualifying affordable housing, with a 90-day review period. Adopting it by June 30, 2026 makes Edgewater eligible for about $45,000 in state incentive funding, which staff would use for affordable housing tools in the zoning code update.
+  summary: Staff proposed a resolution adopting an expedited review policy for qualifying affordable housing, with a 90-day review period after a complete application. Adopting it by June 30, 2026 would make Edgewater eligible for about $45,000 in state incentive funding, to be used in the zoning code update.
   where: Citywide
   refs:
+  - 10
+  - 11
   - 12
   - 13
-  - 14
-  - 15
   topics:
   - Housing
   - Zoning & development
 - title: Sheridan Boulevard safety improvements with CDOT
-  summary: Planning and Zoning was briefed on the updated Sheridan Corridor Multimodal Plan, coordinated with CDOT, for Sheridan Boulevard between 17th and 26th Avenues, a high-injury corridor. The design adds ADA improvements and signal timing changes, and construction is expected to begin in late 2026.
+  summary: The Planning and Zoning Commission was briefed on the updated Sheridan Corridor Multimodal Plan between 17th and 26th Avenues, a high-injury corridor. The city and CDOT are working on safety and ADA improvements, and construction is expected to begin in late 2026.
   where: Sheridan Boulevard, 17th to 26th Avenues
   refs:
-  - 12
-  - 13
+  - 10
+  - 11
   topics:
   - Roads & traffic
   - Transit
-- title: 2026 budget, tax levy and audit findings
-  summary: Council reviewed department budget presentations, set the 2025 tax levy, and scheduled adoption of the annual budget in December. The City Manager called next year's budget very tight. The 2024 audit presentation prompted talk of water, sewer and trash losses, segregation of duties and rate increases.
+- title: 2026 budget, 2025 tax levy and audit findings
+  summary: Council set the 2025 tax levy and adopted the annual budget in December. The city manager called the 2026 budget very tight. The 2024 audit prompted talk of water, sewer and trash losses, possible rate increases, and segregation of duties.
   where: Citywide
   refs:
+  - 3
+  - 4
   - 5
-  - 6
-  - 7
   topics:
   - Budget & taxes
   - Fees & rates
   - Utilities
-  public_comment: true
 - title: Local minimum wage ordinance 2025-23
-  summary: Council took up an ordinance amending the local minimum wage and tip provisions of the municipal code, effective January 1. First reading was Nov. 25, 2025 and second reading was scheduled Dec. 16.
+  summary: Council took up Ordinance 2025-23 amending the local minimum wage and tip provisions of the municipal code, effective January 1, with first reading on Nov 25 and second reading on Dec 16, 2025.
   where: Citywide
   refs:
+  - 3
+  - 4
   - 5
-  - 6
-  - 7
   topics:
   - Economic development
   - Government operations
 - title: Right-of-way funding sales tax ballot measure
-  summary: A sales tax ballot measure for right-of-way funding was presented to city boards, including the HARP board and the Board of Adjustment, in August and September 2026.
+  summary: A sales tax ballot measure for right-of-way funding was scheduled for presentation to the HARP board in August and to the Board of Adjustment in September 2026.
   where: Citywide
   refs:
-  - 23
-  - 24
+  - 21
+  - 22
   topics:
   - Budget & taxes
-  - Elections
   - Roads & traffic
-- title: Rezonings at 2525 Harlan St. and 2403 Fenton St.
-  summary: Planning and Zoning held public hearings and recommended approval to City Council of a rezoning of 2525 Harlan Street to Residential 2, and of 2403 Fenton Street from R-1 and R-3.
-  where: 2525 Harlan St. and 2403 Fenton St.
+  - Elections
+- title: Rezoning of 2403 Fenton Street
+  summary: The Planning and Zoning Commission held a public hearing and recommended that Council approve rezoning 2403 Fenton Street from Residential One (R-1) and Residential Three (R-3).
+  where: 2403 Fenton Street
+  refs:
+  - 7
+  - 9
+  topics:
+  - Zoning & development
+- title: Height and parking variances at Board of Adjustment
+  summary: In November 2025 the Board approved a variance allowing rear-lot parking access closer than five feet to the side lot line. It also considered a separate variance for an accessory structure 20 feet 2 inches tall, 5 feet 2 inches over the 15-foot limit.
+  where: Edgewater (R-1 residential lot)
   refs:
   - 0
   - 1
-  - 9
-  - 11
-  topics:
-  - Zoning & development
-  - Housing
-- title: Accessory dwelling unit ordinance and home rule dispute
-  summary: Planning and Zoning recommended an ordinance amending Chapter 16 on accessory dwelling units, driven by state legislation. Resident Larry Welshon objected, citing home rule authority. Council tabled Resolution 2025-14 affirming home rule authority.
-  where: Citywide
-  refs:
-  - 1
-  - 6
-  topics:
-  - Housing
-  - Zoning & development
-  - Government operations
-  public_comment: true
-- title: Foothills Animal Shelter intergovernmental agreement
-  summary: Council considered Resolution 2026-02 approving an amended intergovernmental agreement with Jefferson County, Arvada and others on animal sheltering, licensing and funding for the Foothills Animal Shelter.
-  where: Foothills Animal Shelter
-  refs:
-  - 8
-  topics:
-  - Government operations
-  - Fees & rates
-- title: Accessory structure height variance
-  summary: The Board of Adjustment heard a variance request for a 20'2" accessory structure, over the 15-foot limit. It also approved a variance allowing rear-lot parking access closer than five feet to the side lot line.
-  where: Residential 1 (R-1) property
-  refs:
-  - 2
-  - 3
   topics:
   - Zoning & development
   - Land & property
+- title: Foothills Animal Shelter intergovernmental agreement
+  summary: Council considered an amended agreement with Jefferson County, Arvada and others on animal sheltering, licensing and funding for the Foothills Animal Shelter, including a funding calculation and a future agreement with the shelter as a party.
+  where: Foothills Animal Shelter
+  refs:
+  - 6
+  topics:
+  - Health & human services
+  - Budget & taxes

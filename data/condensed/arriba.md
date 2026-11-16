@@ -1,29 +1,6 @@
 # arriba
 
-## [arriba#0] 2025-11-11 | City Council | minutes
-- Arriba Town Hall, 711 Front Street, Arriba, CO 80804
-- Approval of Agenda Trustee Carolyn Steinsiek moved to approve the Agenda as written,
-- Approval of Minutes Trustee Carolyn Steinsiek moved to approve the minutes of the October
-- Approval of Accounts Receivable and Payable
-- Trustee Siobhan Steinsiek moved to approve the receivables and payables for October. Trustee
-- Approval of Bills
-- Trustee Carolyn Steinsiek moved to approve the November bills for payment. Trustee
-- Wastewater Permit Regulations Clerk Hart said that Mayor Lightsey needed to sign the DOLA
-- reimbursement request in the amount of $16,428.06. Trustee McCue moved to approve Mayor
-- Lightsey singing the DOLA reimbursement request. Trustee Siobhan Steinsiek seconded and the
-- Zoning – Master Plan Nothing new
-- 2026 Budget The Board reviewed the updated draft of the proposed 2026 Budget
-- Review Sewer Rates Mayor Lightsey said she’s had several people approach her about the
-- campgrounds sewer fees and how they are using the wastewater system more but paying less
-- sewer, plus $5 per each rv hookup each month, and then $49.50 for up to 5,000 gallons of water
-- Residents pay $49.50 for 5,000 gallons of water and $47.50 for sewer. The Board discussed
-- increasing the Town’s campground sewer rate and increasing the amount campgrounds are
-- charged per each rv parked. Trustee VanderWerf suggested charging $16 per each rv hookup
-- Sales Tax Question on 2026 Ballot Nothing new
-- would be appointed to the LCEDC Board
-- Approved by the Board on: 12/09/25
-
-## [arriba#1] 2025-12-09 | City Council | minutes
+## [arriba#0] 2025-12-09 | City Council | minutes
 - BOARD OF TRUSTEES PUBLIC HEARING
 - Arriba Town Hall, 711 Front Street, Arriba, CO 80804
 - 2025 Sewer Fund Supplemental Budget
@@ -37,7 +14,7 @@
 - to reduce its mill levy from 25.948 to 14.509 for the 2026 budget year
 - Approved by the Board on: 1/13/2026
 
-## [arriba#2] 2025-12-09 | City Council | minutes
+## [arriba#1] 2025-12-09 | City Council | minutes
 - Arriba Town Hall, 711 Front Street, Arriba, CO 80804
 - Approval of Agenda Trustee Carolyn Steinsiek moved to approve the Agenda as written,
 - Approval of Minutes Trustee Carolyn Steinsiek moved to approve the minutes of the November
@@ -73,7 +50,7 @@
 - Trustee Siobhan Steinsiek moved to approve the contract with ECCOG for the Senior meals and
 - Approved by the Board on: 1/13/2026
 
-## [arriba#3] 2026-01-13 | City Council | minutes
+## [arriba#2] 2026-01-13 | City Council | minutes
 - Arriba Town Hall, 711 Front Street, Arriba, CO 80804
 - Beverly Langley said she was concerned with all the water Big Ben’s rv park is using. She stated
 - that the Town’s campground water and sewer rates should be increased. She said that she
@@ -107,7 +84,7 @@
 - water which is affecting the sewer line from the Rest Area to the sewer ponds. He said he’s had
 - Approved by the Board on: 02/10/2026
 
-## [arriba#4] 2026-02-10 | City Council | minutes
+## [arriba#3] 2026-02-10 | City Council | minutes
 - Arriba Town Hall, 711 Front Street, Arriba, CO 80804
 - Approval of Agenda Clerk Hart asked that SB25-142 be added under New Business. Trustee
 - Carolyn Steinsiek moved to approve the Agenda as amended. Trustee Smithburg seconded and
@@ -140,7 +117,7 @@
 - poop at the park. There was discussion about getting pet waste cans and bags for the park
 - Approved by the Board on: 03/10/2026
 
-## [arriba#5] 2026-03-10 | City Council | minutes
+## [arriba#4] 2026-03-10 | City Council | minutes
 - BOARD OF TRUSTEES PUBLIC HEARING
 - Arriba Town Hall, 711 Front Street, Arriba, CO 80804
 - Review Trash Service Ordinance
@@ -156,7 +133,7 @@
 - other. There was discussion about how the Town will enforce the code, or if the Town chooses
 - Approved by the Board on: 4/14/2026
 
-## [arriba#6] 2026-03-10 | City Council | minutes
+## [arriba#5] 2026-03-10 | City Council | minutes
 - Arriba Town Hall, 711 Front Street, Arriba, CO 80804
 - needs a bigger drainage pipe, part of the street will need to be cut into, and flat concrete laid back
 - Erika said that Lincoln Health will be introducing a new financing plan for patients
@@ -182,7 +159,7 @@
 - Clerks Report Clerk Hart said that the Easter Egg Hunt will be held at the Arriba Park on
 - Approved by the Board on: 4/14/2026
 
-## [arriba#7] 2026-04-14 | City Council | minutes
+## [arriba#6] 2026-04-14 | City Council | minutes
 - Arriba Town Hall, 711 Front Street, Arriba, CO 80804
 - Approval of Agenda Trustee Smithburg moved to approve the Agenda as written. Trustee Rush
 - Approval of Minutes
@@ -211,7 +188,7 @@
 - Ben’s RV Park. Trustee VanderWerf said he has been chopping the railroad ties and plans to get
 - Approved by the Board on: 5/12/2026
 
-## [arriba#8] 2026-05-12 | City Council | minutes
+## [arriba#7] 2026-05-12 | City Council | minutes
 - Arriba Town Hall, 711 Front Street, Arriba, CO 80804
 - Approval of Agenda Trustee McCue moved to approve the Agenda as written. Trustee Rush
 - Approval of Minutes
@@ -238,7 +215,7 @@
 - Brian Mohr has been helping mow the park
 - Approved by the Board on: 6/09/2026
 
-## [arriba#9] 2026-06-09 | City Council | minutes
+## [arriba#8] 2026-06-09 | City Council | minutes
 - Arriba Town Hall, 711 Front Street, Arriba, CO 80804
 - Approval of Agenda Trustee McCue moved to approve the Agenda as written. Trustee Rush
 - Approval of Minutes
@@ -252,7 +229,7 @@
 - Wastewater Permit Regulations nothing new on this
 - Approved by the Board on: 7/14/2026
 
-## [arriba#10] 2026-07-14 | City Council | minutes
+## [arriba#9] 2026-07-14 | City Council | minutes
 - Arriba Town Hall, 711 Front Street, Arriba, CO 80804
 - Public Audience Brian Mohr asked if the Town could purchase more sprinklers for the park
 - Approval of Agenda Trustee Steinsiek moved to approve the Agenda as written. Trustee Rush
@@ -285,7 +262,7 @@
 - Mike thanked Brian and Sheri Mohr, Ben VanderWerf, and Marilyn for their help with the park
 - Approved by the Board on: 8/11/2026
 
-## [arriba#11] 2026-08-11 | City Council | minutes
+## [arriba#10] 2026-08-11 | City Council | minutes
 - Arriba Town Hall, 711 Front Street, Arriba, CO 80804
 - Beverly Langley asked the Board if there was anything the Town could do about the rainwater
 - draining issue she is having at her house. The water runs off Pine Street and floods on the north
@@ -318,7 +295,7 @@
 - He said that the influent meter board has been replaced and recalibrated, they were able to use a
 - capsule, she said she’s purchased protective sleeves and moisture absorption packs. She said she
 
-## [arriba#12] 2026-09-15 | City Council | minutes
+## [arriba#11] 2026-09-15 | City Council | minutes
 - Arriba Town Hall, 711 Front Street, Arriba, CO 80804
 - Beverly Langley asked the Board to review the water and sewer rates for RV’s and
 - truck route. The Board discussed putting speed bumps on College Ave and Lincoln Ave to
@@ -346,3 +323,28 @@
 - Trustee Steinsiek moved to go into Executive Session to discuss maintenance personnel
 - The Board instructed Mayor Lightsey to request Mike Becker get a doctor’s release to work
 - Approved by the Board on: 10/13/26
+
+## [arriba#12] 2026-10-13 | City Council | minutes
+- Arriba Town Hall, 711 Front Street, Arriba, CO 80804
+- Approval of Agenda Trustee VanderWerf moved to approve the Agenda as written. Trustee
+- Approval of Minutes
+- Trustee Bailey moved to approve the minutes of the September 15 regular meeting as written
+- Approval of Accounts Receivable and Payable
+- Trustee Rush moved to approve the receivables and payables for September. Trustee
+- Approval of Bills
+- Trustee Baylie moved to approve the October bills for payment with approval for paying Rob’s
+- Wastewater Permit Regulations Nothing new on this
+- There was discussion on different ideas for slowing down traffic on College Ave and Lincoln
+- Trustee VanderWerf moved to purchase 3 sets of speed bumps and 2 signs saying, ‘Speed
+- would like to be considered for the trustee position
+- Trustee Rush moved to appoint Brian Mohr to the vacant trustee position. Trustee Baylie
+- 2027 Budget The Board reviewed the proposed 2027 Budget. Clerk Hart noted that a cost-of
+- living increase for employees will be figured for 2027. There was discussion on increasing the
+- Town insurance line item for 2027. Clerk Hart noted that the water fund’s 2025 final ending
+- A budget hearing is scheduled for Tuesday, December 1, 2026 at 6:00pm
+- was discussion on purchasing new meters to replace the older meters in town. Mike Becker said
+- There was a suggestion to charge a non-refundable meter fee to new customers to pay for new
+- Clerk Hart said she had someone ask her if the trash service and fees would be re-evaluated. The
+- Board suggested sending out surveys to customers and review the feedback in December
+- Trustee Baylie moved to go into Executive Session to discuss maintenance personnel concerns
+- Approved by the Board on: 11/10/2026

@@ -1,150 +1,6 @@
 # canon-city
 
-## [canon-city#0] 2026-08-04 | Public Safety and Quality of Life Committee | agenda
-- 3. DISCUSSION:
-- B. Public Comment Related to Items Not on Agenda
-- iii. General Discussion
-- iv. City Council Presentation Discussion (Note: Amy to raise
-- ii. General Discussion
-
-## [canon-city#1] 2026-08-04 | Community Meetings | agenda
-- 3. DISCUSSION:
-- A. Coffee with the Mayor with CityGate
-
-## [canon-city#2] 2026-08-05 | City Council | agenda
-- 3. DISCUSSION:
-- A. Joint meeting with the Cañon City Area Recreation and Park District
-- i. Ballot Language and Revised Pool Project
-
-## [canon-city#3] 2026-08-06 | Finance, Budget, and Public Works Committee | agenda
-- FINANCE, BUDGET, AND PUBLIC WORKS
-- 3. DISCUSSION:
-- A. 2027 Budget Planning
-- 2A STREETS INITIATIVE
-- 40 roadway projects have been completed
-- Total Street
-- 40 ProjectsCompleted
-- Miles of Roadway
-- N 9th Street: Meadows to Washington $2.14M
-- Awarded ContractLIMITS
-- N 9th Street: Mystic to Meadows $4.83M
-- Awarded Contract *LIMITS
-- Griffin Avenue: 4th Street to 9th Street
-- FINAL DESIGN- BID OCT 2026
-- 2026 PROGRAM SUMMARY 3 Projects 9,291 LF 38,628 SYD
-- * = Total Project Cost, which includes other (non-2A) funding
-- No new tax or tax rate increase
-- Continues existing 1% sales tax
-- Dedicated funding for street improvements
-- Must follow 10-Year Pavement Management Plan per ballot
-- Funds restricted to street improvements and repairs
-- The 2025 ballot renewal extends the 2A program through 2036 and requires projects to be prioritized in accordance with the City's
-- adopted 10-Year Pavement Management Plan. If project priorities change, the plan should be updated to remain consistent with
-- voter-approved intent
-- ✓ Update the 10-Year Pavement Management Plan (2028)
-- ✓ Use the revised plan to guide future 2A projects
-- 10-Year Pavement Management Plan
-- Projects Planned
-- Planned Projects
-- Management Plan
-- (PMP) Projects
-- SHELF PROJECTS (Original 2A)
-- South 12th - Park Ave- Sherman Ave
-- College Ave- 9th Street to 15th Street
-- Harding Ave - 5th Street to 9th Street
-- 2027 SHELF PROJECT SUMMARY
-- 2027 SHELF PROJECTS
-- Drinking Water Revolving Fund
-- SHELF PROJECT DETAILS
-- 2027 SHELF PROJECT SUMMARY 4 Projects 30,446 SYD
-- Park Ave → Sherman Ave
-- 2027 PMP PROJECTS
-- TRADITIONAL PROJECT DESIGN-BUILD PROJECT
-- One Contract
-- Build (Contractor)
-- Design (Engineer/Contractor)
-- Build (Engineer / Contractor)
-- ✓ Recommendation #1 – Move forward shelf projects as traditional design, bid, build awards
-- Contract with outside engineering firms to provide staffing (Construction Management & Water Inspection)
-- for several of these as there is not sufficient city staff to cover all of these projects
-- ✓ Recommendation #2 – Move forward a traditional design-bid-build project for the
-- Chip and Crack Seal projects from the 2027 year of the Pavement Management Plan. Likely staff led
-- Management Plan projects and award that via an RFP. Offering a potential to extend the
-- STAFF REQUESTS/NEEDS
-- 2027 PROJECTS 2027 DELIVERY PMP UPDATES
-- Update plan in 2028,
-- GRAVEL ROAD PROGRAM
-- Gravel Road Maintenance &
-- Future Paving Considerations
-- GRAVEL ROAD USAGE &
-- Staff Recommendation: Continue annual magnesium chloride applications for the City's gravel road network
-- 11 gravel road segments evaluated
-- where future traffic volumes or roadway conditions
-
-## [canon-city#4] 2026-08-10 | City Council | agenda
-- 3. DISCUSSION:
-- A. Water Quality
-- B. Water Bills
-- C. Water Availability per the Drought
-
-## [canon-city#5] 2026-08-11 | Community Meetings | agenda
-- 3. DISCUSSION:
-- A. 3rd Street Connector Open House
-
-## [canon-city#6] 2026-08-12 | Community Meetings | agenda
-- 3. DISCUSSION:
-- A. Advancing Cañon City Economic & Development Summit
-
-## [canon-city#7] 2026-08-17 | City Council | agenda
-- 3. DISCUSSION:
-
-## [canon-city#8] 2026-08-17 | City Council | agenda
-- 5. CITIZENS REQUEST TO SPEAK TO THE CITY COUNCIL:
-- Resolution No. 9, Series 2018, adopted Rules of Procedures for the City Council, staff,
-- and the public. Public comments are received after the opening ceremonies under the
-- heading “Citizens Request to Speak to the City Council.” If you wish to address the
-- City Council, please complete a Request to Spea k Form available by the meeting room
-- All matters listed on the Consent Agenda are considered routine and will be approved with
-- one motion. Documents are approved substantially as drafted. There will be no separate
-- discussion of these items unless a City Council Member or citizen so requests, in which
-- case the items may be removed from the Consent Agenda and considered separately, at
-- A. Approve minutes for the Regular City Council meeting August 3,
-- Recreation District) and August 10, 2026 (Water)
-- B. Authorize the Mayor to sign an Intergovernmental Agreement with
-- C. Authorize the disposal/donation of Bicycle at the Police Department
-- D. Award Bid 71-26 1000 Block South Alley Reconstruction & New
-- Method Parking Lot to Arrowhead Excavating in an amount not to
-- E. Award Bid 88-26 Point Alta Vista Railing Replacement to High Point
-- F. Award Bid 102-26 Replacement Kawasaki Mule to Fremont
-- G. Award Bid 108-26: Dell Laptops to Dell Technologies under the State
-- NASPO contract in an amount not to exceed $38,987.52
-- H. Receive and File: Monthly Budget Summary June 2026
-- I. Receive and Ratify: Cash Disbursements 07/31/2026 - 07/31/2026
-- 10. DISCUSSION:
-- B. Introduction and Adoption, by title only, of RESOLUTION 11, SERIES
-- 2026 entitled: A RESOLUTION AUTHORIZING ASSIGNMENT TO
-- THE COLORADO HOUSING AND FINANCE AUTHORITY OF A
-- PRIVATE ACTIVITY BOND ALLOCATION OF THE CITY OF
-- ACTIVITY BOND CEILING ALLOCATION ACT
-- C. Introduction and Adoption, by title only, of RESOLUTION 12, SERIES
-- 2026 entitled: A RESOLUTION OF THE CITY OF CAÑON CITY,
-- ELECTORS OF THE CITY OF CAÑON CITY REQUESTING
-- APPROVAL TO RETAIN PREVIOUSLY COLLECED SALES AND
-- USE TAX AND TO CONTINUE COLLECTION OF THE
-- TEMPORARY 0.30% SALES AND USE TAX PREVIOUSLY
-- APPROVED BY THE VOTERS AT THE NOVEMBER 5, 2024
-- METROPOLITAN RECREATION AND PARK DISTRICT FOR THE
-- RELATED CAPITAL IMPROVEMENTS AND TO FINANCE THE
-- FACILITIES ARE OPERATED BY THE CAÑON CITY AREA
-- METROPOLITAN RECREATION AND PARK DISTRICT
-- D. Introduction and First Reading, by title only, of ORDINANCE 12,
-- SERIES 2026, entitled: AN ORDINANCE APPOINTING LARRY
-- DEAN ALLEN AS MUNICIPAL JUDGE AND APPROVING THE
-- CONTRACT FOR SERVICES
-- NVOCATION: Grant Adkison, Canyon Cowboy Church
-- CITIZENS REQUEST TO SPEAK TO THE CITY COUNCIL:
-
-## [canon-city#9] 2026-08-24 | City Council | agenda
+## [canon-city#0] 2026-08-24 | City Council | agenda
 - 3. DISCUSSION:
 - A. Pool Ballot Discussion:
 - i. Intergovernmental Agreement with the Cañon City Area
@@ -182,7 +38,7 @@
 - I. The Parties agree that the goal is to operate the Pool Facility as an extended seasonal pool,
 - built. The Parties believe that the funds represented by this Agreement will be able to fund both of
 
-## [canon-city#10] 2026-08-25 | Public Art Committee | agenda
+## [canon-city#1] 2026-08-25 | Public Art Committee | agenda
 - 3. DISCUSSION:
 - 3. Approval of Minutes
 - 4. Audience Member – Request(s) to Speak
@@ -191,11 +47,11 @@
 - 9. Legal Contracts
 - 12. Open Discussion & Comments
 
-## [canon-city#11] 2026-08-25 | Community Meetings | agenda
+## [canon-city#2] 2026-08-25 | Community Meetings | agenda
 - Street, Florence, CO, the Post Office Event Center at 505 Macon
 - County Road 123, Penrose, CO 81240. At least three City
 
-## [canon-city#12] 2026-08-26 | Water Committee | agenda
+## [canon-city#3] 2026-08-26 | Water Committee | agenda
 - 3. DISCUSSION:
 - A. Water Meeting
 - Water Committee Meeting
@@ -209,7 +65,7 @@
 - discussing any business
 - 4. Public Comment
 
-## [canon-city#13] 2026-08-26 | Historic Preservation Commission | agenda
+## [canon-city#4] 2026-08-26 | Historic Preservation Commission | agenda
 - 2. APPROVAL of MINUTES
 - A. SAVING PLACES “On the Road” COMMITTEE
 - B. HOSTING PROJECT ARCHAEOLOGY WORKSHOP
@@ -227,35 +83,35 @@
 - Grant Funded Survey Project
 - 8. PUBLIC COMMENTS : No public comments
 
-## [canon-city#14] 2026-08-31 | Royal Gorge Mountain Park Trails Committee | agenda
+## [canon-city#5] 2026-08-31 | Royal Gorge Mountain Park Trails Committee | agenda
 - 3. DISCUSSION:
 
-## [canon-city#15] 2026-08-31 | City Council | agenda
+## [canon-city#6] 2026-08-31 | City Council | agenda
 - that may be subject to negotiations; developing strategy for
 - termination of the Royal Gorge Lease Agreement with Royal
 
-## [canon-city#16] 2026-09-02 | Public Safety and Quality of Life Committee | agenda
+## [canon-city#7] 2026-09-02 | Public Safety and Quality of Life Committee | agenda
 - 3. DISCUSSION:
 - B. Public Comment on Items Not on Agenda
 - 4. Committee Discussion on Draft Ordinance (Note: Draft will
 - Plan Consideration for Adoption
 
-## [canon-city#17] 2026-09-04 | Public Safety and Quality of Life Committee | agenda
+## [canon-city#8] 2026-09-04 | Public Safety and Quality of Life Committee | agenda
 - 3. DISCUSSION:
 
-## [canon-city#18] 2026-09-08 | Economic Development Committee | agenda
+## [canon-city#9] 2026-09-08 | Economic Development Committee | agenda
 - ECONOMIC DEVELOPMENT
 - AMENDED AGENDA
 - 3. DISCUSSION:
 - Agenda Amended on Wednesday, September 2, 2026
 
-## [canon-city#19] 2026-09-08 | City Council | agenda
+## [canon-city#10] 2026-09-08 | City Council | agenda
 - ION: Grant Adkison, Canyon Cowboy Church
 - ENS REQUEST TO SPEAK TO THE CITY COUNCIL:
 - Resolution No. 9, Series 2018, adopted Rules of Procedures for the City Council, staff,
 - and the public. Public comments are received after the opening ceremonies under the
 - heading “Citizens Request to Speak to the City Council.” If you wish to address the
-- City Council, please complete a Request to Spea k Form available by the meeting room
+- City Council, please complete a Request to Speak Form available by the meeting room
 - All matters listed on the Consent Agenda are considered routine and will be approved with
 - Documents are approved substantially as drafted. There will be no separate
 - discussion of
@@ -294,7 +150,7 @@
 - Worthington, City Council adopted, by title only, RESOLUTION 11, SERIES 2026
 - Introduction and Adoption, by title only, of RESOLUTION 12, SERIES 2026
 
-## [canon-city#20] 2026-09-09 | City Council | agenda
+## [canon-city#11] 2026-09-09 | City Council | agenda
 - 3. DISCUSSION:
 - meeting scheduled for Wednesday, September 9, 2026, to discuss options and provide
 - There are two primary design options presented for consideration, with renderings of both
@@ -329,7 +185,7 @@
 - a placeholder of the same amount for inclusion in the draft 2027 Budget
 - pending discussions. These funds are 100% city dollars and could be used for
 
-## [canon-city#21] 2026-09-09 | Urban Renewal Authority | agenda
+## [canon-city#12] 2026-09-09 | Urban Renewal Authority | agenda
 - MMISIONERS DENNEHY, GRANTHAM, LUND,
 - 4. CITIZENS REQUEST TO SPEAK TO THE URBAN RENEWAL AUTHORITY
 - A. Approve the minutes from the April 8, 2026, meeting
@@ -367,14 +223,14 @@
 - Budget Actual Balance Budget Actual Balance Budget Actual Balance Budget Estimate Balance
 - Facade Grant 52,500$ 43,276$ 9,224$ 52,500$ 0$ 52,500$ 75,000$ 28,055$ 46,945$ 52,500$ 68,250$ (15,750)$
 
-## [canon-city#22] 2026-09-10 | Finance, Budget, and Public Works Committee | agenda
+## [canon-city#13] 2026-09-10 | Finance, Budget, and Public Works Committee | agenda
 - FINANCE, BUDGET, AND PUBLIC WORKS
 - 3. DISCUSSION:
 - A. 2026 Budget Underspending and Potential Use for Critical
 - B. 2027 City Budget Planning Process Update
 - D. Update on Compensation and Retention for Cañon City Police
 
-## [canon-city#24] 2026-09-16 | Historic Preservation Commission | agenda
+## [canon-city#15] 2026-09-16 | Historic Preservation Commission | agenda
 - 3. DISCUSSION: SAVING PLACES “ON THE ROAD” APPLICATION
 - 4. DISCUSSION: OTHER OUTREACH WORKSHOPS OPPORTUNITIES
 - CPI's On the Road Community Hosting
@@ -412,16 +268,16 @@
 - your application (proposed tour locations, Taste of locations etc)
 - Please upload any community letters of support for hosting On the Road
 
-## [canon-city#25] 2026-09-16 | Public Safety and Quality of Life Committee | agenda
+## [canon-city#16] 2026-09-16 | Public Safety and Quality of Life Committee | agenda
 - 3. DISCUSSION:
 - A. Welcome and Public Comment not related to items on the agenda
 - B. Mitigation initiatives by the Arkansas River Watershed Collective
 - ii. Consider ways for institutions to preserve cooperative
 
-## [canon-city#26] 2026-09-17 | Community Meetings | agenda
+## [canon-city#17] 2026-09-17 | Community Meetings | agenda
 - 2026, starting at 4 p.m. at Royal Gorge Bridge & Park, 4218 CR
 
-## [canon-city#27] 2026-09-18 | Library/Museum Advisory Board | agenda
+## [canon-city#18] 2026-09-18 | Library/Museum Advisory Board | agenda
 - III. Approval of Minutes of July 9, 2026
 - V. Building Projects
 - VI. Update on Projects
@@ -439,12 +295,12 @@
 - i. Virtual Genealogy on National Parks Sat. 9 am
 - the History of branding. A craft fair will be at Veteran's Park. There will be Historic Trolley
 
-## [canon-city#28] 2026-09-21 | City Council | agenda
+## [canon-city#19] 2026-09-21 | City Council | agenda
 - TIZENS REQUEST TO SPEAK TO THE CITY COUNCIL:
 - Resolution No. 9, Series 2018, adopted Rules of Procedures for the City Council, staff,
 - and the public. Public comments are received after the opening ceremonies under the
 - heading “Citizens Request to Speak to the City Council.” If you wish to address the
-- City Council, please complete a Request to Spea k Form available by the meeting room
+- City Council, please complete a Request to Speak Form available by the meeting room
 - All matters listed on the Consent Agenda are considered routine and will be approved with
 - one motion. Documents are approved substantially as drafted. There will be no separate
 - discussion of these items unless a City Council Member or citizen so requests, in which
@@ -461,7 +317,7 @@
 - ROYAL GORGE MOUNTAIN PARK
 - B. Discussion and Next Steps for City Attorney Resignation
 
-## [canon-city#29] 2026-09-22 | Public Art Committee | agenda
+## [canon-city#20] 2026-09-22 | Public Art Committee | agenda
 - 3. DISCUSSION:
 - 3. Approval of Minutes
 - 4. Audience Member – Request(s) to Speak
@@ -476,10 +332,10 @@
 - Brainstorming/framework for the proposed local business mural microgrant
 - 7. Open Discussion & Comments
 
-## [canon-city#30] 2026-09-23 | Community Meetings | agenda
+## [canon-city#21] 2026-09-23 | Community Meetings | agenda
 - The 3rd Street Connector Open House will be held on September
 
-## [canon-city#31] 2026-09-23 | Historic Preservation Commission | agenda
+## [canon-city#22] 2026-09-23 | Historic Preservation Commission | agenda
 - 2. APPROVAL of MINUTES
 - A. SAVING PLACES “On the Road” Application
 - B. HOSTING PROJECT ARCHAEOLOGY WORKSHOP
@@ -498,14 +354,14 @@
 - parks, and cultural landscapes that surround our community. The proposed changes to Section
 - process. Thank you for your consideration
 
-## [canon-city#32] 2026-09-29 | Royal Gorge Mountain Park Trails Committee | agenda
+## [canon-city#23] 2026-09-29 | Royal Gorge Mountain Park Trails Committee | agenda
 - 3. DISCUSSION:
 - A. Royal Gorge Mountain Park and Trails Committee
 
-## [canon-city#33] 2026-09-29 | City Council | agenda
+## [canon-city#24] 2026-09-29 | City Council | agenda
 - 3. DISCUSSION:
 
-## [canon-city#34] 2026-09-30 | Water Committee | agenda
+## [canon-city#25] 2026-09-30 | Water Committee | agenda
 - WATER COMMITTEE MEETING
 - 3. DISCUSSION:
 - A. Water Meeting
@@ -517,10 +373,10 @@
 - a. What tier do we want to be at for shortage response plan
 - 4. Public Comment
 
-## [canon-city#35] 2026-10-02 | City Attorney Relationship Study Committee | agenda
+## [canon-city#26] 2026-10-02 | City Attorney Relationship Study Committee | agenda
 - 3. DISCUSSION:
 
-## [canon-city#36] 2026-10-05 | Economic Development Committee | agenda
+## [canon-city#27] 2026-10-05 | Economic Development Committee | agenda
 - ECONOMIC DEVELOPMENT
 - 3. DISCUSSION:
 - B. Sally’s Bakery: Sales Tax on Food for Home Consumption
@@ -529,12 +385,12 @@
 - Sally's Bakery: Sales Tax on Food for Home Consumption
 - Discussion of whether City sales tax should apply to food for home consumption
 
-## [canon-city#37] 2026-10-05 | City Council | agenda
+## [canon-city#28] 2026-10-05 | City Council | agenda
 - ZENS REQUEST TO SPEAK TO THE CITY COUNCIL:
 - Resolution No. 9, Series 2018, adopted Rules of Procedures for the City Council, staff,
 - and the public. Public comments are received after the opening ceremonies under the
 - heading “Citizens Request to Speak to the City Council.” If you wish to address the
-- City Council, please complete a Request to Spea k Form available by the meeting room
+- City Council, please complete a Request to Speak Form available by the meeting room
 - All matters listed on the Consent Agenda are considered routine and will be approved with
 - Documents are approved substantially as drafted. There will be no separate
 - of these items unless a City Council Member or citizen so requests, in which
@@ -574,16 +430,16 @@
 - Agreement Date: June 1st, 2026
 - Project: 1stSt Over Arkansas River & Fourmile Lane Over Mud Gulch Engineering
 
-## [canon-city#38] 2026-10-05 | City Attorney Search Committee | agenda
+## [canon-city#29] 2026-10-05 | City Attorney Search Committee | agenda
 - 3. DISCUSSION:
 
-## [canon-city#39] 2026-10-06 | Finance, Budget, and Public Works Committee | agenda
+## [canon-city#30] 2026-10-06 | Finance, Budget, and Public Works Committee | agenda
 - FINANCE, BUDGET, AND PUBLIC WORKS
 - 3. DISCUSSION:
 - A. Budget Workshop:
 - ii. Police Department
 
-## [canon-city#40] 2026-10-06 | Board of Adjustment | agenda
+## [canon-city#31] 2026-10-06 | Board of Adjustment | agenda
 - City Council Chambers, 128 Main Street
 - 2. Special Presentations:
 - 3. Approval of Minutes:
@@ -621,7 +477,7 @@
 - outlined in Title 17 (Unified Development Code), § 17.10.020(B) of the Cañon City Municipal Code (CCMC)
 - Staff has not received any letters of public comment as of September 30, 2026
 
-## [canon-city#41] 2026-10-07 | Public Safety and Quality of Life Committee | agenda
+## [canon-city#32] 2026-10-07 | Public Safety and Quality of Life Committee | agenda
 - 3. DISCUSSION:
 - A. Welcome and Public Comment not related to items on the agenda
 - C. Public Restroom Recommendations for Consideration
@@ -631,24 +487,24 @@
 - 12.Consider having police open/close, and have deadbolts that don’t have the tail,
 - 13.Consider having skylight tubes for backup lighting
 
-## [canon-city#42] 2026-10-07 | Urban Renewal Authority | agenda
+## [canon-city#33] 2026-10-07 | Urban Renewal Authority | agenda
 - 4. CITIZENS REQUEST TO SPEAK TO THE URBAN RENEWAL AUTHORITY
 - A. Approve minutes from the September 9, 2026, meeting
 - 8. DISCUSSION:
 - A. Special Project Grant Application - 111 N. Cottonwood
 
-## [canon-city#43] 2026-10-07 | City Council | agenda
+## [canon-city#34] 2026-10-07 | City Council | agenda
 - 3. DISCUSSION:
 - A. "Culvert" means a buried pipe installed to convey drainage or irrigation water
 - edge of a road to collect surface water and direct it away
-- water runoff or convey water for a specific purpose, such as for irrigation."Ditch " means a man-made
+- water runoff or convey water for a specific purpose, such as for irrigation."Ditch" means a man-made
 - channel or trench or any part thereof within the City designed to manage surface water runoff or
 - convey water for a specific purpose, such as for irrigation. "Ditch" means any narrow channel dug in
 - the ground, typically used for drainage or irrigation alongside a road or the edge of a field
 - curb constructed at the edge of a road or crossing a road to collect surface water and direct it away
 - DE. "Obstruction" means any dam, wall embankment, levee, dike, pile, abutment, projection, excavation,
 - channel rectification, building, fence, stockpile, refuse, material, vegetation, fill, structure, or matter in,
-- along, across or projecting into any curb, gutter, or ditch which might impede , retard or change the
+- along, across or projecting into any curb, gutter, or ditch which might impede, retard or change the
 - direction of a flow of water, either by itself or by catching or collection debris carried by such water
 - GH. "Private Culvert" means a buried pipe installed to convey drainage or irrigation water under private
 - improvements such as, but not limited to, a private driveway or increased yard space
@@ -667,39 +523,39 @@
 - H. Property owners or occupants shall not cause any obstruction of the free flow of water within private
 - D. The removal of debris obstructing the flow of water through a ditch or culvert of any type shall be the
 
-## [canon-city#44] 2026-10-08 | Finance, Budget, and Public Works Committee | agenda
+## [canon-city#35] 2026-10-08 | Finance, Budget, and Public Works Committee | agenda
 - FINANCE, BUDGET, AND PUBLIC WORKS
 - 3. DISCUSSION:
 - A. Budget Workshop:
 
-## [canon-city#46] 2026-10-12 | City Council | agenda
+## [canon-city#37] 2026-10-12 | City Council | agenda
 - 3. DISCUSSION:
 - that may be subject to negotiations; developing strategy for
 - Lease Agreement with Royal Gorge Company of Colorado
 
-## [canon-city#47] 2026-10-13 | Finance, Budget, and Public Works Committee | agenda
+## [canon-city#38] 2026-10-13 | Finance, Budget, and Public Works Committee | agenda
 - FINANCE, BUDGET, AND PUBLIC WORKS
 - 3. DISCUSSION:
 - A. Budget Workshop:
 - ii. Parks Improvement Fund
 
-## [canon-city#48] 2026-10-14 | City Attorney Search Committee | agenda
+## [canon-city#39] 2026-10-14 | City Attorney Search Committee | agenda
 - 3. DISCUSSION:
 
-## [canon-city#49] 2026-10-15 | Finance, Budget, and Public Works Committee | agenda
+## [canon-city#40] 2026-10-15 | Finance, Budget, and Public Works Committee | agenda
 - FINANCE, BUDGET, AND PUBLIC WORKS
 - 3. DISCUSSION:
 - A. Budget Workshop:
 - 2. Stormwater
 - 3. Raw Water
 
-## [canon-city#50] 2026-10-19 | City Council | agenda
+## [canon-city#41] 2026-10-19 | City Council | agenda
 - N: Grant Adkisson, Canyon Cowboy Church
 - REQUEST TO SPEAK TO THE CITY COUNCIL:
 - Resolution No. 9, Series 2018, adopted Rules of Procedures for the City Council, staff,
 - and the public. Public comments are received after the opening ceremonies under the
 - heading “Citizens Request to Speak to the City Council.” If you wish to address the
-- City Council, please complete a Request to Spea k Form available by the meeting room
+- City Council, please complete a Request to Speak Form available by the meeting room
 - All matters listed on the Consent Agenda are considered routine and will be approved with
 - one motion. Documents are approved s
 - ubstantially as drafted. There will be no separate
@@ -741,14 +597,15 @@
 - CITIZENS REQUEST TO SPEAK TO THE CITY COUNCIL:
 - Approved minutes from the September 21, 2026, Regular City Council meeting
 - Authorized the reappointment of Gary Clark to the Planning Commission
+- Awarded Bid 136- 26 Ammunition to Serving Those Who Serve in an amount not
 
-## [canon-city#51] 2026-10-20 | City Attorney Relationship Study Committee | agenda
+## [canon-city#42] 2026-10-20 | City Attorney Relationship Study Committee | agenda
 - 3. DISCUSSION:
 
-## [canon-city#52] 2026-10-20 | City Attorney Search Committee | agenda
+## [canon-city#43] 2026-10-20 | City Attorney Search Committee | agenda
 - 3. DISCUSSION:
 
-## [canon-city#53] 2026-10-21 | City Council | agenda
+## [canon-city#44] 2026-10-21 | City Council | agenda
 - 1. PUBLIC HEARING:
 - A. 2027 Budget
 - 2027 Budget HearingOctober 21, 2026
@@ -836,22 +693,22 @@
 - uOther storm water projects
 - See pages 178-179 of proposed budget and 5-year Capital Improvement Plan page
 
-## [canon-city#54] 2026-10-21 | Historic Preservation Commission | agenda
+## [canon-city#45] 2026-10-21 | Historic Preservation Commission | agenda
 - 3. SAVING PLACES “ON THE ROAD” APPLICATION UPDATE
 - 4. DISCUSSION: PROJECT ARCHAEOLOGY WORKSHOP 2027
 
-## [canon-city#55] 2026-10-22 | City Attorney Relationship Study Committee | agenda
+## [canon-city#46] 2026-10-22 | City Attorney Relationship Study Committee | agenda
 - 3. DISCUSSION:
 
-## [canon-city#56] 2026-10-22 | Public Safety and Quality of Life Committee | agenda
+## [canon-city#47] 2026-10-22 | Public Safety and Quality of Life Committee | agenda
 - 3. DISCUSSION:
 
-## [canon-city#58] 2026-10-26 | City Council | agenda
+## [canon-city#49] 2026-10-26 | City Council | agenda
 - 3. DISCUSSION:
 - that may be subject to negotiations; developing strategy for
 - Lease Agreement with Royal Gorge Company of Colorado
 
-## [canon-city#59] 2026-10-27 | Public Art Committee | agenda
+## [canon-city#50] 2026-10-27 | Public Art Committee | agenda
 - 3. DISCUSSION:
 - 3. Approval of Minutes (September 22, 2026)
 - 4. Audience Member - Request(s) to Speak
@@ -866,13 +723,13 @@
 - City Budget Update: Discussion regarding the City’s $1.5 million budget
 - 7. Open Discussion & Comments:
 
-## [canon-city#60] 2026-10-27 | City Attorney Relationship Study Committee | agenda
+## [canon-city#51] 2026-10-27 | City Attorney Relationship Study Committee | agenda
 - 3. DISCUSSION:
 
-## [canon-city#61] 2026-10-27 | City Attorney Search Committee | agenda
+## [canon-city#52] 2026-10-27 | City Attorney Search Committee | agenda
 - 3. DISCUSSION:
 
-## [canon-city#63] 2026-10-28 | Water Committee | agenda
+## [canon-city#54] 2026-10-28 | Water Committee | agenda
 - WATER COMMITTEE MEETING
 - 3. DISCUSSION:
 - A. Water Meeting
@@ -904,7 +761,7 @@
 - It shall be unlawful for any person to cause obstruction of the free flow of water within
 - A. "Culvert" means a buried pipe installed to convey drainage or irrigation water
 - edge of a road to collect surface water and direct it away
-- water runoff or convey water for a specific purpose, such as for irrigation."Ditch " means a man-made
+- water runoff or convey water for a specific purpose, such as for irrigation."Ditch" means a man-made
 - channel or trench or any part thereof within the City designed to manage surface water runoff or
 - convey water for a specific purpose, such as for irrigation. "Ditch" means any narrow channel dug in
 - the ground, typically used for drainage or irrigation alongside a road or the edge of a field
@@ -912,7 +769,7 @@
 - DE. "Obstruction" means any dam, wall embankment, levee, dike, pile, abutment, projection, excavation,
 - channel rectification, building, fence, stockpile, refuse, material, vegetation, fill, structure, or matter in,
 
-## [canon-city#64] 2026-10-28 | Planning Commission | agenda
+## [canon-city#55] 2026-10-28 | Planning Commission | agenda
 - 2. Special Presentations:
 - 3. Approval of Minutes:
 - 4. Public Hearings:
@@ -944,7 +801,7 @@
 - establish a plan for the area in furtherance of such Comprehensive Plan
 - 1. The City Council hereby approves the Western Gateway Park Framework Plan as
 
-## [canon-city#65] 2026-10-28 | Historic Preservation Commission | agenda
+## [canon-city#56] 2026-10-28 | Historic Preservation Commission | agenda
 - 2. APPROVAL of MINUTES
 - A. SAVING PLACES “On the Road” Application
 - B. HOSTING PROJECT ARCHAEOLOGY WORKSHOP
@@ -966,23 +823,23 @@
 - parks, and cultural landscapes that surround our community. The proposed changes to Section
 - process. Thank you for your consideration
 
-## [canon-city#66] 2026-10-29 | City Attorney Relationship Study Committee | agenda
+## [canon-city#57] 2026-10-29 | City Attorney Relationship Study Committee | agenda
 - 3. DISCUSSION:
 
-## [canon-city#67] 2026-10-30 | Royal Gorge Mountain Park Trails Committee | agenda
+## [canon-city#58] 2026-10-30 | Royal Gorge Mountain Park Trails Committee | agenda
 - 3. DISCUSSION:
 - A. Royal Gorge Mountain Park and Trails Committee:
 - i. Walk Contemplated path of the South Rim Trail
 
-## [canon-city#68] 2026-11-02 | City Council | agenda
+## [canon-city#59] 2026-11-02 | City Council | agenda
 - 3. DISCUSSION:
 - developing strategy for negotiations; and instructing
 
-## [canon-city#69] 2026-11-02 | City Council | agenda
+## [canon-city#60] 2026-11-02 | City Council | agenda
 - Resolution No. 9, Series 2018, adopted Rules of Procedures for the City Council, staff,
 - and the public. Public comments are received after the opening ceremonies under the
 - heading “Citizens Request to Speak to the City Council.” If you wish to address the
-- City Council, please complete a Request to Spea k Form available by the meeting room
+- City Council, please complete a Request to Speak Form available by the meeting room
 - All matters listed on the Consent Agenda are considered routine and will be approved with
 - one motion. Documents are approved substantially
 - as drafted. There will be no separate
@@ -1029,3 +886,223 @@
 - Master Development Agreement for 4-Mile Ranch
 - I P.O. Box 1460 • 128 Main Street
 - SUMMARY:* Brought forth by the Police Department. Please proclaim
+
+## [canon-city#61] 2026-11-03 | City Attorney Relationship Study Committee | agenda
+- 3. DISCUSSION:
+
+## [canon-city#62] 2026-11-03 | Board of Adjustment | agenda
+- 2. SPECIAL PRESENTATIONS:
+- 3. APPROVAL OF MINUTES:
+- 4. PUBLIC HEARING:
+- A. VARIANCE REQUEST [Case No. VAR 2026-001] Continued from October 06, 2026:
+- Approval of four (4) variances from the fence standards to accommodate security fencing around the
+- expanded Cañon City Police Department impound lot in the GC, General Commercial Zone District:
+- Location: 161 Justice Center Road
+- B. VARIANCE REQUEST [Case No. VAR 2026-002]:
+- Location: 2101 N 8th Street (NW Corner, N. 8th Street and Beech Ave)
+- 5. ANNOUNCEMENTS/DISCUSSION ITEMS:
+- 3. Approval of Minutes: On motion by Board Member Bonogofsky and second by
+- Board Member Malejko, those members present unanimously approved the action
+- 4. Public Hearing: VARIANCE REQUEST [Case No. VAR 2026-001]:
+- Approval of four (4) variances from the fence standards to accommodate security
+- fencing around the expanded Cañon City Police Department impound lot in the GC,
+- 161 Justice Center Road
+- Highway 50 and Justice Center Road
+- continue public hearing until next regular meeting, November 3, 2026
+- Planning & Zoning Division
+- Regarding: Public Hearing: Variance Request: [Case No. VAR 2026-001]
+- District [§ 17.06.050, UDC], 161 Justice Center Road
+- Location: South of the intersection of US Highway 50 and Justice Center Road, addressed as 161 Justice
+- Center Road. (Refer to Figure 1: Vicinity Map, next page)
+- Current Zoning: GC, General Commercial District
+- Requests: Approval of four (4) variances from the fence standards to accommodate security fencing around
+- the expanded Cañon City Police Department impound lot in the GC, General Commercial Zone
+- Public Notice: [√] Notice was mailed to property owners within 300 feet of the subject property at least fifteen
+- (15) days prior to the Public Hearing
+- residential zone uses and these variance requests
+- 3) Barbed wire. Notwithstanding any other provision of this UDC, barbed wire shall be permitted
+- requirements in GC, General Commercial Zone District| 161 Justice Center Road
+- a. In the I District, barbed wire fences shall be permitted in interior side and rear yards. The
+- primary agricultural use, barbed wire shall be permitted up to a maximum height of five (5) feet on
+- shall be at least fifty (50) percent transparent and constructed of one (1) of approved materials
+- coated chain link without inserts, unless otherwise approved by the Zoning Administrator)
+- The subject property is a 3.99- acre parcel and serves as the headquarters for the Cañon City Police
+- Figure 2: Site Plan Illustrating Location of Proposed Fence
+- These variance requests, if approved, would allow for construction of a 6-foot-high, galvanized chain link
+
+## [canon-city#63] 2026-11-03 | City Council | agenda
+- 3. DISCUSSION:
+- that may be subject to negotiations; developing strategy for
+- the termination of the Royal Gorge Lease Agreement with Royal
+
+## [canon-city#64] 2026-11-04 | Urban Renewal Authority | agenda
+- OMMISSIONERS BRADDY, DENNEHY, GRANTHAM,
+- 4. CITIZENS REQUEST TO SPEAK TO THE URBAN RENEWAL AUTHORITY
+- A. Approve the minutes from the October 7, 2026, meeting
+- and File: September 2026 Unaudited Monthly Budget
+- 7. PUBLIC HEARING:
+- A. 2027 Budget Hearing
+- 8. DISCUSSION:
+- B. Project Feasibility Discussion
+- Commissioner Grantham X
+- ALSO PRESENT: Economic Development Manager Rick Harrmann and Secretary
+- CITIZENS REQUEST TO SPEAK TO THE URBAN RENEWAL AUTHORITY
+- No requests received
+- Approved minutes from the September 9, 2026, meeting
+- the Cañon City Area for Reinvestment Expansion approved the Agenda and Consent
+- Report received from Economic Development Manager Rick Harrmann
+- Special Project Grant Application - 111 N. Cottonwood
+- Topic discussed
+- to approve a special project grant at 111 N. Cottonwood in an amount not to exceed
+- Budget Status
+- Account Number Description Budget Amount Period Amount YTD Amount YTD Var Encumbered Amount Available % Available
+- 0.0040-460-0400- 31101 Property Tax Increment 568,665. 00 582, 119. 58 - 13, 454. 58 0.00 - 13, 454. 58 0.00
+- 0.0040-460-0400- 31301 Sales Tax Increment 200,000. 00 0.00 200,000. 00 0.00 200,000. 00 100. 00
+- E30 Purchased Services
+- 0.0040-460-0400- 53305 Contracted Services 10, 000. 00 3,450. 00 6,550. 00 0.00 6,550. 00 65. 50
+- 0.0040-460-0400- 53330 Membership Fees 500. 00 0.00 500. 00 0.00 500. 00 100. 00
+- 0.0040-460-0400- 53350 Other Fees & Charges 20, 000. 00 10, 938. 63 9,061. 37 0.00 9,061. 37 45. 31
+- 37, 756.0140-460-0400- 54001 Sales Tax TIFF Agreement 55, 000. 00 57, 729. 12 - 2,729. 12 0.00 - 2,729. 12 0.00
+- 0.0040-460-0400- 54002 Property Tax TIFF Agreement 90, 000. 00 83, 153. 30 6,846. 70 0.00 6,846. 70 7.61
+- 0.0040-460-0400- 54003 Property Tax Share Back 300,000. 00 243, 138. 75 56, 861. 25 0.00 56, 861. 25 18. 95
+- 0.0040-460-0400- 54004 Administrative Fees 45, 000. 00 10, 983. 63 34, 016. 37 0.00 34, 016. 37 75. 59
+- 0.0040-460-0400- 57001 Life Safety Grant 150,000. 00 0.00 150,000. 00 0.00 150,000. 00 100. 00
+- 0.0040-460-0400- 57002 Façade Grant 52, 500. 00 38, 250. 00 14, 250. 00 0.00 14, 250. 00 27. 14
+- 0.0040-460-0400- 57003 Building Safety Grant 75, 000. 00 34, 750. 00 40, 250. 00 0.00 40, 250. 00 53. 67
+- 0.0040-460- 0400- 57004 Special Project Grant 0.00 0.00 0.00 0.00 0.00 0.00
+- 0.0040-460-0400- 59000 Urban Renewal Projects 400,000. 00 0.00 400,000. 00 0.00 400,000. 00 100. 00
+- 0.0040-460- 0400- 59001 Water Street Sewer Main 0.00 0.00 0.00 0.00 0.00 0.00
+- 0.0040-460-0400- 59002 Main Street Fire Line Project 0.00 0.00 0.00 0.00 0.00 0.00
+- 2027 PROPOSED BUDGET
+- Re: 2027 Budget
+
+## [canon-city#65] 2026-11-04 | City Council | agenda
+- 3. PUBLIC HEARING(S):
+- A. Continuation of 2027 Budget Hearing from November 2, 2026
+- 4. DISCUSSION:
+- A. City Attorney Search Committee (CASC) Update and Discussion
+- B. Second Reading and adoption, by title only, of ORDINANCE 13,
+- entitled: AN ORDINANCE OF THE CITY OF CAÑON
+- CITY AMENDING SECTIONS 3.13.070 AND 3.13.100
+- C. Second Reading and adoption, by title only, of ORDINANCE 14,
+- SERIES 2026 entitled: AN ORDINANCE OF THE CITY OF CAÑON
+- CITY AMENDING SECTIONS 3.12.010(b) AND 3.13.010(b) OF THE
+- OF THE 2A STREET SALES AND USE TAX AS APPROVED BY
+- D. Second Reading and Adoption, by title only, of ORDINANCE 17,
+- SERIES 2026, entitled: AN ORDINANCE OF THE CITY OF CAÑON
+- CITY AMENDING SECTION 2.04.160 OF THE CAÑON CITY
+- E. First Reading and Adoption, by title only, of RESOLUTION 16,
+- SERIES 2026 entitled: A RESOLUTION OF THE CITY OF CAÑON
+- F. First Reading and Adoption, by title only, of ORDINANCE 19,
+- SERIES 2026 Water Rates
+- G. First Reading and Adoption, by title only, of ORDINANCE 20,
+- SERIES 2026 - Stormwater Rates
+- 2027 Budget Hearing
+- Compensation and Classification Plan
+- Coordinator - Stormwater 25 26
+- Crew Leader - Parks 19 22
+- Crew Leader - Streets 19 22
+- Maintenance Worker - Parks 15 16
+- Maintenance Worker - Streets 15 16
+- Manager - Economic Development 30 31
+- Operator “A” - Water Treatment Plant 23 24
+- Operator ''B'' - Water Treatment Plant 19 20
+- Operator “C” - Water Treatment Plant 17 18
+- Operator ''D''/Trainee - Water Treatment Plant 15 16
+- Police Commander 31 32
+- Superintendent - Parks 29 30
+- Superintendent - Streets 29 30
+- Supervisor - Water Distribution 25 27
+- Technician - Stormwater Maintenance 17 19
+- Technician I - Permit 16 18
+- Technician I - Police Records 15 16
+- Technician II - Permit 17 20
+- Technician II - Police Records 17 18
+- Coordinator - Streets 23
+- Equipment Operator I - Streets/Parks 17
+- Equipment Operator II - Streets/Parks 19
+- Equipment Operator III - Streets/Parks 21
+- Foreman - Water Distribution 25
+- 4 01/01/2029 Update compensation and classification plan
+- Parks Improvement Fund 6,144
+- Water Enterprise Fund 8,677
+- Stormwater Enterprise Fund 1,905
+-  Does City Council want to include in the 2027 budget phase 1 of the
+- mpensation and classification plan for the Police Officers?
+-  Property Acquisition funds for General Fund and Park Improvement
+- mpensation and classification plan for the entire City?
+-  Does City Council want to include in the 2027 budget the full
+- plementation of compensation and classification plan for the Police
+- e program framework for approval in 2027 to utilize the
+- 10-410-0198-47016 Increase $56,250 Grant revenue
+- 10-410-0198-57016 Increase $75,000 Housing Planning Grant
+
+## [canon-city#67] 2026-11-13 | Library/Museum Advisory Board | agenda
+- III. Approval of Minutes of September 18, 2026
+- V. Update on Projects
+- VIII. Public Comment
+- Minutes from July 9, 2026 were approved. Sherry motioned and Dan seconded
+- Building Projects
+- Library-Kendra discussed getting signage for the 1980's addition so people are more readily able to find the
+- library. She is working on this project
+- Museum-Lisa said that the cabin project is almost completed. Also she is working on applying for a State
+- Historic Funds Grant to get the chair lift fixed
+- Update on Projects
+- Kendra discussed the gift from the Foundation for $20,000 that is being used to purchase a Mammoth
+- playground. Parks will install this in the library park. It is to be delivered on 12/28/26. Rex Brady
+- Lisa discussed an outgoing loan to Penrose for Apple Day
+- She also discussed a guest curator display of Art work by Vicky Lee Krudwig
+- The CLG grant survey project is due to be completed October 1st. This research could include walking
+- tours, the Senior Mini college and other types of presentations
+- Amy talked about some museum loaned artifacts to the HS library
+- Kendra talked about the upcoming Better Birdwatching presentation on October 3rd. (Please see the
+- There will be a Fall celebration the Friday before Halloween in the library park. This will include
+
+## [canon-city#69] 2026-11-16 | City Council | agenda
+- Resolution No. 9, Series 2018, adopted Rules of Procedures for the City Council, staff,
+- and the public. Public comments are received after the opening ceremonies under the
+- heading “Citizens Request to Speak to the City Council.” If you wish to address the
+- City Council, please complete a Request to Speak Form available by the meeting room
+- All matters listed on the Consent Agenda are considered routine and will be approved with
+- approved substantially as drafted. There will be no separate
+- discussion of these items
+- unless a City Council Member or citizen so requests, in which
+- removed from the Consent Agenda and considered separately, at
+- A. Approve minutes for the Regular City Council meeting on November
+- D. Ratification of Professional Services
+- Agreement – CBIZ
+- E. Award Bid 158-26: Hard Drives to Southern Computer Warehouse in
+- F. Receive and File: September 2026 Unaudited Monthly Budget
+- H. Receive and Ratify: Cash Disbursements 10/31/2026 - 10/31/2026
+- 10. DISCUSSION:
+- A. Sales Tax Rules
+- C. Discussion on Proposed RFP for
+- D. Second Reading and Adoption, by title only, of ORDINANCE 19,
+- SERIES 2026 entitled: AN ORDINANCE
+- CITY AMENDING APPENDIX 13.08 OF THE CAÑON CITY
+- MUNICIPAL CODE REGARDING WATER RATES
+- E. Introduction and First Reading, by title only, of ORDINANCE 15,
+- SERIES 2026 entitled: AN ORDINANCE OF THE CITY OF CAÑON
+- F. 2027 City Budget:
+- i. Introduction and Adoption, by title only, of RESOLUTION 17,
+- SERIES 2026, entitled: A RESOLUTION OF THE CITY
+- EACH FUND AND ADOPTING A BUDGET F
+- ii. Introduction and First Reading, by title only, of ORDINANCE
+- entitled: AN ORDINANCE OF THE CITY
+- COLORADO, FOR THE 2027 BUDGET YEAR
+- CITIZENS REQUEST TO SPEAK TO THE CITY COUNCIL:
+- Police Chief John Schick spoke
+- Approved minutes for the Regular City Council meeting October 19, 2026,
+- 2026 ( Budget Hearing), and October 26, 2026 ( Executive Session)
+- Authorized the City Administrator to sign a Licensing Agreement with
+- Colorado Jeep and Off-Road Tours, Inc
+- Agreement with Pioneer Development Company in an amount not to
+- Awarded Bid 152- 26: Fingerprint Machine to ldemia under State of
+- Colorado Agreement RFP REAA 2025- 0334 in an amount not to exceed
+- Awarded Bid 159- 26: Dell Desktops to Dell Technologies under the State
+- NASPO contract in an amount not to exceed $ 15, 774. 90
+- Received and Ratified: Cash Disbursements 10/ 31/ 2026 - 10/ 31/ 2026
+- Economic Development Manager Rick Harrmann and Pioneer Development
+- Member Reeves, Council approved the Agenda and Consent Agenda by
+- with Colorado Jeep and Off-Road Tours, Inc
+- Compensation and Classification Study Presentation

@@ -1,50 +1,53 @@
-- title: Xcel Energy franchise agreement (Question 2B)
-  summary: On the Oct. 6 agenda, Council considers a resolution tied to Question 2B, which grants a franchise to Public Service Company of Colorado (Xcel) and approves a franchise agreement.
+- title: 2027 city budget and 2026 tax levy
+  summary: Council introduced Ordinances 6, 7 and 8 on Oct. 6 to adopt the city budget, appropriate money and levy 2026 taxes, then held public hearings on them Nov. 10. The documents do not state the final votes or amounts.
   where: Citywide
   refs:
-  - 3
+  - 2
+  - 4
+  topics:
+  - Budget & taxes
+- title: Water and sewer rate and fee increases
+  summary: On Nov. 10 council took up Ordinance 9 revising water rates and fees, and Ordinance 10 revising sewer user and connection fees. Ordinance 11 amends Chapter 13.06 of the city code. These were introduced and no outcome is recorded.
+  where: Citywide
+  refs:
+  - 4
+  topics:
+  - Fees & rates
+  - Water
+  - Utilities
+- title: Xcel Energy franchise agreement
+  summary: Council considered a resolution on the franchise granted to Public Service Company of Colorado (Xcel) under ballot Question 2B, approving a franchise agreement.
+  where: Citywide
+  refs:
+  - 2
   topics:
   - Utilities
   - Energy
-  - Elections
-- title: 2026 city budget and tax levy ordinances
-  summary: Council is slated to introduce Ordinance No. 6 adopting the city budget and appropriating money, and Ordinance No. 8 levying taxes for 2026. Introduction is set for Oct. 6.
-  where: Citywide
-  refs:
-  - 3
-  topics:
-  - Budget & taxes
 - title: Four Mile Project legal advice
-  summary: Council planned an executive session on Oct. 6 to receive legal advice about the Four Mile Project. The documents give no further detail.
-  where: Four Mile Project
+  summary: Council went into executive session for legal advice on the Four Mile Project at both its Oct. 6 and Nov. 10 meetings. The agendas give no further detail.
   refs:
-  - 3
+  - 2
+  - 4
   topics:
   - Lawsuits & legal
-  - Zoning & development
-- title: 'Entertainment Advisory Board events: car show, Music on the Plaza, Get To Know Glendale'
-  summary: The advisory board's teams are working on a car show, Music on the Plaza and a Get To Know Glendale effort. They prepared presentations to City Council on 9/1 and are reviewing the budget and proposed activities in October.
+  - Land & property
+- title: Entertainment Advisory Board activities and budget
+  summary: The Entertainment Advisory Board reviewed its Sept. 1 presentation to council, held team discussions and discussed its budget and plans for proposed activities. Infinity Park also appeared as a council discussion item.
   where: 950 S Birch Street
   refs:
   - 0
   - 1
   - 2
+  - 3
   - 4
   topics:
   - Tourism & events
-  - Downtown & business
-- title: Infinity Park discussion
-  summary: Infinity Park is a discussion item at the Oct. 6 City Council meeting, presented by Kieran Nelson. The agenda does not say what is being discussed.
-  where: Infinity Park
-  refs:
-  - 3
-  topics:
   - Recreation & trails
-  - Parks & open space
-- title: Ordinance corrections to Ordinance No. 1 references
-  summary: Council is to introduce Ordinance No. 5, which amends and corrects reference numbers from Ordinance No. 1 of 2026.
+- title: Ordinance 5 correcting reference numbers in Ordinance 1
+  summary: Council introduced an ordinance amending and correcting reference numbers from Ordinance No. 1 of 2026, with a public hearing on Nov. 10.
   where: Citywide
   refs:
-  - 3
+  - 2
+  - 4
   topics:
   - Government operations

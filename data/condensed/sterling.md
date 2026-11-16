@@ -1,57 +1,6 @@
 # sterling
 
-## [sterling#0] 2026-08-11 | City Council | minutes
-- Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
-- made to locate the requested auxiliary aid(s)
-- Regular City Council Agenda – Amended 8/10/26
-- Council Chambers, 421 N. 4th Street
-- The Council intends to consider, accept reports, accept testimony where applicable, and take action
-- A. Consideration of Regular City Council Minutes of July 28, 2026
-- 7. Unscheduled Public Comment
-- A. First Reading of Ordinance No. 9, Series of 2026, an Ordinance amending the Sterling City
-- B. Discussion and possible action regarding Resolution 8-1-26, Series of 2026, a Resolution
-- before the City of Sterling, Logan County, Colorado accepting a bid from Hard Rock Civil,
-- LLC for the 2026 Waterline Replacement Project #26-001
-- A. Executive Session to consider personnel matters, pursuant to C.R.S. 24-6-402(4)(f),
-
-## [sterling#1] 2026-08-11 | City Council | minutes
-- Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
-- made to locate the requested auxiliary aid(s)
-- Regular City Council Agenda – Amended 8/10/26
-- Council Chambers, 421 N. 4th Street
-- The Council intends to consider, accept reports, accept testimony where applicable, and take action
-- A. Consideration of Regular City Council Minutes of July 28, 2026
-- 7. Unscheduled Public Comment
-- A. First Reading of Ordinance No. 9, Series of 2026, an Ordinance amending the Sterling City
-- B. Discussion and possible action regarding Resolution 8-1-26, Series of 2026, a Resolution
-- before the City of Sterling, Logan County, Colorado accepting a bid from Hard Rock Civil,
-- LLC for the 2026 Waterline Replacement Project #26-001
-- A. Executive Session to consider personnel matters, pursuant to C.R.S. 24-6-402(4)(f),
-- City Hall Service Center Fire Police Recreation Center Library Museum
-- A. Consideration of the Regular City Council Minutes of July 14, 2026
-- B. Application for the renewal of a Retail Marijuana License – Sugarloaf Dispensary located at
-- 336 E Chestnut Street
-- C. Application for the renewal of a Hotel & Restaurant Liquor License – Hootenannies located
-- at 324 W Main Street
-- Lisa LeFevre – Resident – raised concerns regarding the chicken permitting process. She is
-- requesting that Council revisit the chicken code and to also clarify the building permit process
-- the chicken permit. He also requested that the chicken permitting process be relooked at
-- A. First Reading of Ordinance No. 8, Series of 2026, an Ordinance amending the Sterling City
-- Code, Appendix A – Zoning, Chapter VII – Special Regulations, Section 709 – Veterinary
-- Clinics and Hospitals, and Appendix A – Zoning, Chapter IV – Use Regulations, Section
-- 402 – Schedule of permitted uses, to allow veterinary clinics as a Conditional Use within
-- Ordinance No. 8 for a first reading, order the Clerk to publish the Ordinance, and set the
-- Ordinance for Public Hearing
-- B. Discussion and possible action regarding Resolution No. 7-5-26, Series of 2026, a
-- Resolution before the City of Sterling, Logan County, Colorado approving an
-- Intergovernmental Agreement between the City of Sterling and Logan County concerning a
-- execute the Agreement
-- No. 7-5-26, Series of 2026, a Resolution before the City of Sterling, Logan County, Colorado
-- approving an Intergovernmental Agreement between the City of Sterling and Logan County
-- the Mayor to execute the Agreement
-- C. Discussion and possible action regarding Resolution 7-6-26, Series of 2026, a Resolution
-
-## [sterling#2] 2026-08-25 | City Council | minutes
+## [sterling#0] 2026-08-25 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Council Chambers, 421 N. 4th Street
@@ -71,7 +20,7 @@
 - A Work Session will follow the regularly scheduled meeting to discuss the following topics:
 - 1. Court Fines and fees
 
-## [sterling#3] 2026-08-25 | City Council | minutes
+## [sterling#1] 2026-08-25 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Council Chambers, 421 N. 4th Street
@@ -107,7 +56,7 @@
 - Reminder that September 3rd is the CML District Meeting. Let Staff know if you plan on
 - Mayor Pro Tem Knowles requested an update regarding the downtown sidewalks. Due to
 
-## [sterling#4] 2026-09-02 | City Council | minutes
+## [sterling#2] 2026-09-02 | City Council | minutes
 - 2. Approval of Planning Commission minutes from meeting held August 5, 2026
 - Review a variance request from Jesse Mull to convert a garage to a home on the property
 - located at 728 McKinley Street
@@ -115,7 +64,7 @@
 - Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting Public Works Executive Assistant
 - locate the requested auxiliary aid(s)
 
-## [sterling#5] 2026-09-08 | City Council | minutes
+## [sterling#3] 2026-09-08 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Council Chambers, 421 N. 4th Street
@@ -129,7 +78,7 @@
 - certain city-owned real property located in Lot 4, Block 8, Platte Addition, third filing, Logan
 - A Work Session will follow the regularly scheduled meeting to discuss the following topics:
 
-## [sterling#6] 2026-09-08 | City Council | minutes
+## [sterling#4] 2026-09-08 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Council Chambers, 421 N. 4th Street
@@ -163,12 +112,12 @@
 - Zoning, Chapter VII – Special Regulations, Section 709 – Veterinary Clinics and Hospitals,
 - and Appendix A – Zoning, Chapter IV – Use Regulations, Section 402 – Schedule of permitted
 
-## [sterling#7] 2026-09-14 | City Council | agenda
+## [sterling#5] 2026-09-14 | City Council | agenda
 - 2. APPROVAL OF MINUTES FROM MAY 2026
 - A. Sterling Rural Fire District
 - B. Public Comment
 
-## [sterling#8] 2026-09-22 | City Council | minutes
+## [sterling#6] 2026-09-22 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Regular City Council Agenda Amended 9/21/2026
@@ -194,7 +143,7 @@
 - before the City of Sterling, Logan County, Colorado, approving the recommendation of the
 - Citizen’s Advisory Board to expend up to $10,000 from the Hotel Tax Fund to update and
 
-## [sterling#9] 2026-09-22 | City Council | minutes
+## [sterling#7] 2026-09-22 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Regular City Council Agenda Amended 9/21/2026
@@ -231,7 +180,7 @@
 - and reappoint Deanie VanBerg to the open positions on the Housing Authority of the City of
 - B. Discussion and possible action regarding Resolution 9-1-26, a Resolution approving a
 
-## [sterling#10] 2026-10-13 | City Council | minutes
+## [sterling#8] 2026-10-13 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Council Chambers, 421 N. 4th Street
@@ -268,13 +217,13 @@
 - There was no public comment
 - Mayor Fuller closed the Public Hearing and reopened the Regular Meeting at 6:25 PM
 
-## [sterling#11] 2026-10-13 | City Council | minutes
+## [sterling#9] 2026-10-13 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Council Chambers, 421 N. 4th Street
 - A. Executive Session to consider specialized details of security arrangements in the Council
 
-## [sterling#12] 2026-10-27 | City Council | minutes
+## [sterling#10] 2026-10-27 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Council Chambers, 421 N. 4th Street
@@ -300,7 +249,7 @@
 - of holiday lighted garland wraps and a protective storage container for West Main Street
 - A Work Session will follow the regularly scheduled meeting to discuss the following topics:
 
-## [sterling#13] 2026-10-27 | City Council | minutes
+## [sterling#11] 2026-10-27 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Council Chambers, 421 N. 4th Street
@@ -337,3 +286,66 @@
 - located at 202-204 Main Street
 - Rudy Owen – Resident – Lives near Pioneer Park and is unhappy with traffic traveling too fast
 - down the road. The speeding makes it difficult to cross the street and enjoy the park. She also
+
+## [sterling#12] 2026-11-10 | City Council | minutes
+- Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
+- made to locate the requested auxiliary aid(s)
+- Council Chambers, 421 N. 4th Street
+- The Council intends to consider, accept reports, accept testimony where applicable, and take action
+- A. Consideration of Regular City Council Minutes of October 27, 2026
+- 7. Unscheduled Public Comment
+- 8. Presentation
+- A. Public Hearing – Ordinance No. 11, Series of 2026, 2nd Reading – An Ordinance
+- amending Chapter 12, Section 12-23 of the City Code of Sterling, Colorado, relating to
+- A. Mayor’s recommendation for the Parks, Library, and Recreation Board appointments
+- B. Discussion and possible action regarding Resolution 10-3-26, Series of 2026, a Resolution
+- before the City of Sterling, Logan County, Colorado, adopting the budget for the fiscal year
+- C. Discussion and possible action regarding Ordinance No. 12, Series of 2026, an Ordinance
+- tax to be levied upon all taxable property within the city limits within the City of Sterling,
+- D. Discussion and possible action regarding Resolution No. 10-4-26, Series of 2026, a
+- Resolution of the City Council of the City of Sterling, Colorado, approving changes to the
+- E. Discussion and possible action regarding Resolution 10-5-26, Series of 2026, a Resolution
+- F. First reading of Ordinance No. 13, Series of 2026, an Ordinance repealing Chapter 2,
+- G. First reading of Ordinance No. 14, Series of 2026, an Ordinance repealing Chapter 2,
+- H. Discussion and possible action regarding Resolution No. 10-6-26, a Resolution before the
+- City of Sterling, Logan County, Colorado, approving an emergency utility and infrastructure
+- services on-call contract with Concrete Specialties
+- I. Discussion and possible action regarding Resolution No. 10-7-26, a Resolution of the City
+- Council of the City of Sterling, Colorado, approving Change Order No. 1 and authorizing an
+- additional contingency for the Sterling Wastewater Treatment Facility Replacement Project
+
+## [sterling#13] 2026-11-10 | City Council | minutes
+- Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
+- made to locate the requested auxiliary aid(s)
+- Council Chambers, 421 N. 4th Street
+- The Council intends to consider, accept reports, accept testimony where applicable, and take action
+- A. Consideration of Regular City Council Minutes of October 27, 2026
+- 7. Unscheduled Public Comment
+- 8. Presentation
+- A. Public Hearing – Ordinance No. 11, Series of 2026, 2nd Reading – An Ordinance
+- amending Chapter 12, Section 12-23 of the City Code of Sterling, Colorado, relating to
+- A. Mayor’s recommendation for the Parks, Library, and Recreation Board appointments
+- B. Discussion and possible action regarding Resolution 10-3-26, Series of 2026, a Resolution
+- before the City of Sterling, Logan County, Colorado, adopting the budget for the fiscal year
+- C. Discussion and possible action regarding Ordinance No. 12, Series of 2026, an Ordinance
+- tax to be levied upon all taxable property within the city limits within the City of Sterling,
+- D. Discussion and possible action regarding Resolution No. 10-4-26, Series of 2026, a
+- Resolution of the City Council of the City of Sterling, Colorado, approving changes to the
+- E. Discussion and possible action regarding Resolution 10-5-26, Series of 2026, a Resolution
+- F. First reading of Ordinance No. 13, Series of 2026, an Ordinance repealing Chapter 2,
+- G. First reading of Ordinance No. 14, Series of 2026, an Ordinance repealing Chapter 2,
+- H. Discussion and possible action regarding Resolution No. 10-6-26, a Resolution before the
+- City of Sterling, Logan County, Colorado, approving an emergency utility and infrastructure
+- services on-call contract with Concrete Specialties
+- I. Discussion and possible action regarding Resolution No. 10-7-26, a Resolution of the City
+- Council of the City of Sterling, Colorado, approving Change Order No. 1 and authorizing an
+- additional contingency for the Sterling Wastewater Treatment Facility Replacement Project
+- City Hall Service Center Fire Police Recreation Center Library Museum
+- A. Consideration of the Special City Council Minutes of October 13, 2026
+- B. Consideration of the Regular City Council Minutes of October 13, 2026
+- 9. Presentation
+- A. Colorado Small Business Development Center
+- Jaydon Rice and staff from the Colorado Small Business Development Center provided a
+- presentation to Council highlighting their services, projects they helped with this year, and
+- Mayor Fuller closed the Regular Meeting and opened the Public Hearing at 5:59 PM
+- A. Public Hearing – Proposed 2027 Budget

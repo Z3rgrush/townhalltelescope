@@ -1,121 +1,117 @@
 - title: Monument 2040 Comprehensive Plan and Downtown Master Plan
-  summary: The Planning Commission heard the draft 2040 Comprehensive Plan and Downtown Master Plan on Sept. 9 and again Oct. 14, after nearly two years of outreach. Residents worried that conceptual downtown redevelopment renderings don't fit Monument's historic small-town character. Town Council was scheduled to hold a public hearing on Resolution 78-2026 adopting the plan on Nov. 2.
-  where: Downtown Monument
+  summary: The Planning Commission heard the draft 2040 Comprehensive Plan and Downtown Master Plan, built on nearly two years of outreach. Residents worried that conceptual downtown redevelopment renderings clash with Monument's historic small-town character and asked for stronger architectural guidance. Town Council then held a public hearing on Resolution 78-2026 to adopt the plan, with the consultant (The Lakota Group) presenting.
+  where: Downtown Monument / Townwide
   refs:
-  - 3
-  - 8
-  - 9
-  - 16
-  - 17
-  - 18
+  - 4
+  - 5
+  - 12
+  - 13
+  - 14
+  - 15
   - 19
+  - 21
   topics:
   - Zoning & development
   - Downtown & business
   - Historic preservation
   public_comment: true
-- title: 2027 budget and use tax ballot proposals
-  summary: The Citizens Service Levels Advisory Committee reviewed the preliminary 2027 budget, including impact fee funds, new police positions and park funding. The committee also discussed use tax ballot measures, including a possible $2.2M construction use tax gain and raising the motor vehicle use tax to 3.5 for about $500K more. Council was to see the proposed 2027 draft budget Nov. 2.
+- title: 2027 draft budget and use tax ballot initiative
+  summary: The Citizens Service Levels Advisory Committee reviewed the preliminary 2027 budget, including stormwater impact fee needs, park security and a Monument Lake pavilion. Staff discussed use tax ballot options, including a possible $2.2M in construction use tax and about $500K more if the motor vehicle use tax rises to 3.5. Council directed staff to move ahead with the 2027 draft budget as presented.
   where: Townwide
   refs:
-  - 2
-  - 3
-  - 13
+  - 9
+  - 10
   - 14
+  - 15
   - 18
   - 19
+  - 21
   topics:
   - Budget & taxes
   - Fees & rates
-- title: Jackson Creek Parkway and traffic concerns
-  summary: Committee members asked about Jackson Creek Parkway expansion, and whether traffic impact fees could fund it, as new development like Target and apartments near Walmart arrives. Council was to get a Jackson Creek Parkway improvements update Nov. 2, and a resident raised traffic concerns on Old Denver Road.
-  where: Jackson Creek Parkway and Old Denver Road
-  refs:
-  - 3
-  - 18
-  - 19
-  topics:
-  - Roads & traffic
-  - Zoning & development
-  public_comment: true
 - title: Native Sun Construction PUD amendment at 15010 Woodcarver Road
-  summary: The Planning Commission recommended approval of a major PUD amendment for Native Sun Construction, including relocating the shop building, a deceleration lane on Wood Carver Road, and 66 new trees. Council took up Ordinance 24-2026 on Sept. 8.
+  summary: Planning Commission recommended approval of a major amendment to relocate the shop building, add a deceleration lane on Wood Carver Road, and add parking and landscaping (21 trees preserved, 66 planted). Council took up Ordinance 24-2026 on Sept 8. Commissioners asked about equipment heights, outdoor storage screening, water capacity, and stormwater from the wash bay.
   where: 15010 Woodcarver Road
   refs:
-  - 0
   - 1
+  - 2
   - 5
-  - 6
-  - 9
   topics:
   - Zoning & development
   - Roads & traffic
+- title: Falcon Commerce Center Phase 2 preliminary PUD amendment
+  summary: Council re-introduced Ordinance 15-2026, continued from Aug. 3, to approve a major amendment to the preliminary PUD for the south 43 acres of Falcon Commerce Center. Staff gave a timeline of events.
+  where: Falcon Commerce Center, south 43 acres
+  refs:
+  - 2
+  topics:
+  - Zoning & development
 - title: 7 Brew Drive Thru Coffee final PUD plan
-  summary: The final PUD plan for a 7 Brew drive-thru coffee shop went to the Planning Commission and then to Council as Ordinance 23-2026.
+  summary: Planning Commission reviewed the final PUD plan for a 7 Brew drive-thru coffee shop, and Council considered Ordinance 23-2026 approving it.
   where: 15822 Jackson Creek Parkway
   refs:
-  - 0
   - 1
+  - 2
   - 5
-  - 6
-  - 9
   topics:
   - Zoning & development
   - Downtown & business
-- title: Karl Malone Powersports and Conexus Lot 1 PUDs
-  summary: The Planning Commission recommended approval of the final PUD for a 30,000-square-foot RV sales and service facility for Karl Malone Powersports. It also took up the Conexus Lot 1 Filing 2 final PUD, which involves 312 apartment units.
-  where: Monument (Conexus Lot 1)
+- title: Jackson Creek Parkway improvements and Old Denver Road traffic
+  summary: Staff gave Council an update on Jackson Creek Parkway improvements. A resident raised traffic concerns on Old Denver Road during public comment, and Council considered a snowplow IGA with El Paso County that covers the new section of Beacon Lite Road. A Transportation Master Plan open house was also noticed.
+  where: Jackson Creek Parkway, Old Denver Road, Beacon Lite Road
   refs:
-  - 1
+  - 14
+  - 15
+  - 16
+  - 21
   topics:
-  - Zoning & development
-  - Housing
-- title: Falcon Commerce Center Phase 2 PUD amendment
-  summary: Council re-introduced Ordinance 15-2026, a preliminary PUD major amendment for the south 43 acres of Falcon Commerce Center, continued from Aug. 3, and staff gave a timeline of events.
-  where: Falcon Commerce Center, south 43 acres
+  - Roads & traffic
+  public_comment: true
+- title: Police department handgun purchase and fee schedule
+  summary: Council's consent agenda included Resolution 63-2026 to buy Shadow Systems handguns and accessories for officers' on-duty use. Resolution 72-2026 revised police service fees effective Oct. 1.
+  where: Monument Police Department
   refs:
+  - 2
   - 6
-  topics:
-  - Zoning & development
-  - Economic development
-- title: Police handgun purchase and fee schedule
-  summary: Council's consent agenda included Resolution 63-2026 to buy Shadow Systems handguns for officers' on-duty use. Council also approved revisions to the police services fee schedule effective Oct. 1 (Resolution 72-2026).
-  where: Townwide
-  refs:
-  - 6
-  - 10
   topics:
   - Policing & public safety
   - Fees & rates
   tags:
   - guns
-- title: Water attorney and water workshop
-  summary: Council appointed Nazarenus Stack & Wombacher LLC as the town's water attorney (Resolution 71-2026). A councilmember also said she would like a water workshop with outside experts. The council also considered a new tap for two properties.
+- title: Town facility contracts and OpenGov software purchase
+  summary: Council considered a series of contracts (Palomar, Mountain View Electric, Green Electric, Flintco) for a facility installation, plus Resolution 84-2026 to buy the OpenGov platform as a town-wide software system and Resolution 85-2026 to revise the fee schedule.
   where: Townwide
   refs:
-  - 5
-  - 10
+  - 20
+  - 21
+  topics:
+  - Government operations
+  - Utilities
+  - Fees & rates
+- title: Water attorney appointment and water concerns
+  summary: Council approved Resolution 71-2026 appointing Nazarenus Stack & Wombacher LLC as water attorney. A councilmember also wanted a water workshop, and a new tap for two properties came up as Resolution 68-2026.
+  where: Townwide
+  refs:
+  - 1
+  - 6
   topics:
   - Water
   - Lawsuits & legal
-- title: Silver Key funding request and Ordinance 25-2026
-  summary: Silver Key's CEO asked Council to consider a $25,000 contribution for senior services. Council also approved Ordinance 25-2026 on prohibited conduct, with educational components, and Ordinance 27-2026 amending Title 3 Section 3.09.
+- title: Silver Key funding request and prohibited-conduct ordinance
+  summary: Silver Key's CEO asked Council to consider a $25,000 contribution for services to Monument residents. Council also took up Ordinance 25-2026 regulating certain prohibited conduct, presented by police, which Council members supported for its educational components.
   where: Townwide
   refs:
-  - 19
+  - 15
   topics:
   - Health & human services
-  - Budget & taxes
   - Policing & public safety
   public_comment: true
-- title: Small Business Development Center funding proposal
-  summary: The advisory committee discussed a funding request from the Small Business Development Center Network, alongside the chamber groups. Members questioned its impact and the $250 consulting fee.
-  where: Townwide
+- title: Repeal of parking permit waiver and Heart of Monument parking lot
+  summary: Council considered Ordinance 20-2026 repealing a municipal code subsection waiving parking permit requirements, and approved a change order for the Heart of Monument parking lot.
+  where: Heart of Monument
   refs:
+  - 1
   - 2
-  - 3
-  - 13
-  - 14
   topics:
-  - Economic development
-  - Budget & taxes
+  - Roads & traffic
+  - Downtown & business

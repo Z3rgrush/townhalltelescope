@@ -55,8 +55,12 @@
 - 231 N. 7th Street Phone: 970-876-2353
 - Silt, Colorado 81652 Police: 970-876-2735
 
-## [silt#5] 2026-10-26 | City Council | agenda
+## [silt#5] 2026-10-26 | City Council | minutes
 - P & Z , Trustee and Vale Board Applications
+- The Town of Silt is seeking a qualified property management company to join our team in managing the Silt Senior Housing property
+- We invite your company to review the attached Request for Proposal (RFP) and submit your comments, proposed management services, and pricing for consideration
+- and award the contract to the selected property management company
+- Thank you for your time and consideration. We look forward to reviewing your proposal and potentially working together
 - Irrigation repairs (no water)
 - Water line repairs (no water)
 - Street Closures or Flaggers

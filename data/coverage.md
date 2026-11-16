@@ -1,209 +1,209 @@
 # Collection coverage
 
-Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each row shows its own last run)
+Window: 2026-08-18 to 2026-11-16, a year for sources marked with days: 365 (each row shows its own last run)
 
 | Source | Adapter | Meetings | Documents | Text OK | Failed | Error | Run |
 |---|---|---|---|---|---|---|---|
-| Adams County | primegov | 38 | 38 | 38 | 0 |  | 2026-11-09 |
-| Akron | agendacenter | 8 | 8 | 7 | 1 |  | 2026-11-09 |
-| Alamosa County | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: https://www.alamosacounty.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.alamosacounty.org', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.alamosacounty.org', port=443) at 0x749c1a53b170>, 'Connection to www.alamosacounty.org timed out. (connect timeout=45)')) | 2026-11-09 |
-| Alma | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-09 |
-| Arapahoe County | legistar | 39 | 39 | 34 | 5 |  | 2026-11-09 |
-| Archuleta County | linkscan | 8 | 14 | 12 | 2 |  | 2026-11-09 |
-| Arriba | linkscan | 11 | 13 | 13 | 0 |  | 2026-11-09 |
-| Arvada | civicclerk | 27 | 47 | 44 | 3 |  | 2026-11-09 |
-| Aspen | granicus | 34 | 34 | 32 | 2 |  | 2026-11-09 |
-| Aurora | linkscan | 6 | 10 | 10 | 0 |  | 2026-11-09 |
-| Avon | weblink | 4 | 4 | 4 | 0 |  | 2026-11-09 |
-| Basalt | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: https://www.basalt.net/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.basalt.net', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.basalt.net', port=443) at 0x749c1ab73c20>, 'Connection to www.basalt.net timed out. (connect timeout=45)')) | 2026-11-09 |
-| Berthoud | civicclerk | 29 | 39 | 36 | 3 |  | 2026-11-09 |
-| Black Hawk | agendacenter | 27 | 27 | 21 | 6 |  | 2026-11-09 |
-| Blue River | civicclerk | 10 | 17 | 16 | 1 |  | 2026-11-09 |
-| Boone | linkscan | 14 | 14 | 13 | 1 |  | 2026-11-09 |
-| Boulder | primegov | 13 | 13 | 13 | 0 |  | 2026-11-09 |
-| Boulder County | escribe | 37 | 37 | 37 | 0 |  | 2026-11-09 |
-| Breckenridge | civicclerk | 21 | 37 | 34 | 3 |  | 2026-11-09 |
-| Brighton | legistar | 10 | 10 | 10 | 0 |  | 2026-11-09 |
-| Broomfield | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: https://broomfield.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='broomfield.org', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='broomfield.org', port=443) at 0x749c1abd99a0>, 'Connection to broomfield.org timed out. (connect timeout=45)')) | 2026-11-09 |
-| Brush | linkscan | 9 | 9 | 0 | 9 |  | 2026-11-09 |
-| Buena Vista | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: http://www.buenavistaco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPConnectionPool(host='www.buenavistaco.gov', port=80): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPConnection(host='www.buenavistaco.gov', port=80) at 0x749c1abbfec0>, 'Connection to www.buenavistaco.gov timed out. (connect timeout=45)')) | 2026-11-09 |
-| Burlington | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: http://www.burlingtoncolo.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPConnectionPool(host='www.burlingtoncolo.com', port=80): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPConnection(host='www.burlingtoncolo.com', port=80) at 0x749c1908cbf0>, 'Connection to www.burlingtoncolo.com timed out. (connect timeout=45)')) | 2026-11-09 |
-| Calhan | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-09 |
-| Campo | legistar | 15 | 15 | 15 | 0 |  | 2026-11-09 |
-| Cañon City | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: https://www.canoncity.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.canoncity.org', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.canoncity.org', port=443) at 0x749c1a538b30>, 'Connection to www.canoncity.org timed out. (connect timeout=45)')) | 2026-11-09 |
-| Castle Pines | granicus | 11 | 11 | 10 | 1 |  | 2026-11-09 |
-| Centennial | onbase | 23 | 23 | 23 | 0 |  | 2026-11-09 |
-| Center | linkscan | 2 | 2 | 0 | 2 |  | 2026-11-09 |
-| Chaffee County | civicclerk | 31 | 56 | 56 | 0 |  | 2026-11-09 |
-| Cherry Hills Village | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: https://www.cherryhillsvillage.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.cherryhillsvillage.com', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cherryhillsvillage.com', port=443) at 0x749c181f92b0>, 'Connection to www.cherryhillsvillage.com timed out. (connect timeout=45)')) | 2026-11-09 |
-| Cheyenne County | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-09 |
-| Clear Creek County | agendacenter | 19 | 21 | 20 | 1 |  | 2026-11-09 |
-| Colorado Springs | legistar | 30 | 30 | 30 | 0 |  | 2026-11-09 |
-| Columbine Valley | linkscan | 13 | 14 | 14 | 0 |  | 2026-11-09 |
-| Commerce City | legistar | 97 | 97 | 97 | 0 |  | 2026-11-09 |
-| Cortez | destiny | 14 | 14 | 14 | 0 |  | 2026-11-09 |
-| Craig | civicclerk | 6 | 9 | 8 | 1 |  | 2026-11-09 |
-| Crawford | linkscan | 12 | 12 | 12 | 0 |  | 2026-11-09 |
-| Crested Butte | linkscan | 19 | 38 | 21 | 17 |  | 2026-11-09 |
-| Dacono | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: https://www.daconoco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.daconoco.gov', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.daconoco.gov', port=443) at 0x749c1a4164b0>, 'Connection to www.daconoco.gov timed out. (connect timeout=45)')) | 2026-11-09 |
-| De Beque | linkscan | 15 | 16 | 1 | 15 |  | 2026-11-09 |
-| Del Norte | linkscan | 6 | 9 | 9 | 0 |  | 2026-11-09 |
-| Delta | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: https://www.cityofdelta.net/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.cityofdelta.net', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cityofdelta.net', port=443) at 0x749c1907c1d0>, 'Connection to www.cityofdelta.net timed out. (connect timeout=45)')) | 2026-11-09 |
-| Delta County | civicclerk | 12 | 22 | 21 | 1 |  | 2026-11-09 |
-| Denver | legistar | 117 | 117 | 115 | 2 |  | 2026-11-09 |
-| Dolores | linkscan | 23 | 23 | 18 | 5 |  | 2026-11-09 |
-| Douglas County | legistar | 43 | 43 | 43 | 0 |  | 2026-11-09 |
-| Dove Creek | linkscan | 9 | 9 | 9 | 0 |  | 2026-11-09 |
-| Durango | onbase | 8 | 8 | 8 | 0 |  | 2026-11-09 |
-| Eagle | civicclerk | 31 | 47 | 47 | 0 |  | 2026-11-09 |
-| Eagle County | cablecast | 12 | 12 | 12 | 0 |  | 2026-11-09 |
-| Eaton | civicclerk | 0 | 0 | 0 | 0 |  | 2026-11-09 |
-| Edgewater | civicclerk | 17 | 25 | 25 | 0 |  | 2026-11-09 |
-| El Paso County | agendasuite | 9 | 9 | 9 | 0 |  | 2026-11-09 |
-| Elizabeth | civicclerk | 21 | 21 | 16 | 5 |  | 2026-11-09 |
-| Empire | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-09 |
-| Erie | civicclerk | 35 | 48 | 46 | 2 |  | 2026-11-09 |
-| Estes Park | weblink | 10 | 10 | 10 | 0 |  | 2026-11-09 |
-| Evans | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-09 |
-| Fairplay | civicclerk | 10 | 10 | 10 | 0 |  | 2026-11-09 |
-| Federal Heights | linkscan | 1 | 1 | 1 | 0 |  | 2026-11-09 |
-| Firestone | civicclerk | 14 | 20 | 20 | 0 |  | 2026-11-09 |
-| Florence | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-09 |
-| Fort Collins | civicclerk | 20 | 38 | 38 | 0 |  | 2026-11-09 |
-| Fort Lupton | civicclerk | 20 | 28 | 24 | 4 |  | 2026-11-09 |
-| Fort Morgan | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: https://www.cityoffortmorgan.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.cityoffortmorgan.com', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cityoffortmorgan.com', port=443) at 0x749c066bc260>, 'Connection to www.cityoffortmorgan.com timed out. (connect timeout=45)')) | 2026-11-09 |
-| Fountain | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-09 |
-| Foxfield | linkscan | 18 | 18 | 18 | 0 |  | 2026-11-09 |
-| Fraser | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: https://www.frasercolorado.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.frasercolorado.com', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.frasercolorado.com', port=443) at 0x749c0676c7a0>, 'Connection to www.frasercolorado.com timed out. (connect timeout=45)')) | 2026-11-09 |
-| Frederick | civicclerk | 27 | 49 | 47 | 2 |  | 2026-11-09 |
-| Fremont County | linkscan | 7 | 7 | 7 | 0 |  | 2026-11-09 |
-| Frisco | civicclerk | 10 | 20 | 18 | 2 |  | 2026-11-09 |
-| Fruita | agendacenter | 23 | 24 | 20 | 4 |  | 2026-11-09 |
-| Garden City | civicclerk | 3 | 3 | 3 | 0 |  | 2026-11-09 |
-| Garfield County | escribe | 15 | 15 | 15 | 0 |  | 2026-11-09 |
-| Gilpin County | linkscan | 9 | 10 | 10 | 0 |  | 2026-11-09 |
-| Glendale | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: https://www.glendale.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.glendale.co.us', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.glendale.co.us', port=443) at 0x749c1ad163f0>, 'Connection to www.glendale.co.us timed out. (connect timeout=45)')) | 2026-11-09 |
-| Glenwood Springs | civicclerk | 10 | 13 | 13 | 0 |  | 2026-11-09 |
-| Golden | granicus | 53 | 53 | 53 | 0 |  | 2026-11-09 |
-| Granby | destiny | 7 | 7 | 7 | 0 |  | 2026-11-09 |
-| Grand County | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: https://www.co.grand.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.co.grand.co.us', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.co.grand.co.us', port=443) at 0x749c1a53b2c0>, 'Connection to www.co.grand.co.us timed out. (connect timeout=45)')) | 2026-11-09 |
-| Grand Junction | civicclerk | 57 | 85 | 72 | 13 |  | 2026-11-09 |
-| Grand Lake | civicclerk | 13 | 19 | 16 | 3 |  | 2026-11-09 |
-| Greeley | civicclerk | 82 | 119 | 119 | 0 |  | 2026-11-09 |
-| Green Mountain Falls | linkscan | 23 | 23 | 23 | 0 |  | 2026-11-09 |
-| Greenwood Village | civicclerk | 23 | 40 | 39 | 1 |  | 2026-11-09 |
-| Grover | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: https://www.grover.org/AgendaCenter/Search/?term=&CIDs=all&startDate=11/09/2025&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.grover.org', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=11/09/2025&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.grover.org', port=443) at 0x749c19a423f0>, 'Connection to www.grover.org timed out. (connect timeout=45)')) | 2026-11-09 |
-| Gunnison County | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: https://www.gunnisoncounty.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.gunnisoncounty.org', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gunnisoncounty.org', port=443) at 0x749c1a538230>, 'Connection to www.gunnisoncounty.org timed out. (connect timeout=45)')) | 2026-11-09 |
-| Gypsum | granicus | 9 | 9 | 9 | 0 |  | 2026-11-09 |
-| Haxtun | linkscan | 1 | 1 | 1 | 0 |  | 2026-11-09 |
-| Hayden | agendacenter | 11 | 11 | 7 | 4 |  | 2026-11-09 |
-| Hillrose | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-09 |
-| Hinsdale County | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-09 |
-| Hooper | linkscan | 2 | 2 | 2 | 0 |  | 2026-11-09 |
-| Hotchkiss | linkscan | 18 | 19 | 19 | 0 |  | 2026-11-09 |
-| Hudson | legistar | 29 | 29 | 29 | 0 |  | 2026-11-09 |
-| Huerfano County | civicclerk | 29 | 53 | 53 | 0 |  | 2026-11-09 |
-| Hugo | linkscan | 21 | 21 | 21 | 0 |  | 2026-11-09 |
-| Idaho Springs | civicclerk | 16 | 32 | 32 | 0 |  | 2026-11-09 |
-| Ignacio | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-09 |
-| Jamestown | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-09 |
-| Jefferson County | escribe | 24 | 24 | 24 | 0 |  | 2026-11-09 |
-| Johnstown | civicclerk | 14 | 22 | 20 | 2 |  | 2026-11-09 |
-| Keenesburg | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-09 |
-| Kersey | linkscan | 6 | 6 | 5 | 1 |  | 2026-11-09 |
-| Kiowa | civicclerk | 29 | 29 | 3 | 26 |  | 2026-11-09 |
-| Kit Carson County | granicus | 31 | 31 | 4 | 27 |  | 2026-11-09 |
-| La Junta | civicclerk | 14 | 14 | 14 | 0 |  | 2026-11-09 |
-| Lafayette | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-09 |
-| Lake City | linkscan | 8 | 8 | 8 | 0 |  | 2026-11-09 |
-| Lake County | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: https://www.lakecountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.lakecountyco.gov', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.lakecountyco.gov', port=443) at 0x749c17fe9c10>, 'Connection to www.lakecountyco.gov timed out. (connect timeout=45)')) | 2026-11-09 |
-| Lakewood | civicclerk | 8 | 15 | 14 | 1 |  | 2026-11-09 |
-| Lamar | linkscan | 6 | 6 | 6 | 0 |  | 2026-11-09 |
-| Limon | linkscan | 14 | 14 | 11 | 3 |  | 2026-11-09 |
-| Littleton | legistar | 17 | 17 | 17 | 0 |  | 2026-11-09 |
-| Lochbuie | civicclerk | 0 | 0 | 0 | 0 |  | 2026-11-09 |
-| Logan County | agendacenter | 19 | 27 | 18 | 9 |  | 2026-11-09 |
-| Lone Tree | civicweb | 18 | 18 | 18 | 0 |  | 2026-11-09 |
-| Longmont | primegov | 85 | 85 | 77 | 8 |  | 2026-11-09 |
-| Louisville | civicclerk | 44 | 95 | 91 | 4 |  | 2026-11-09 |
-| Lyons | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: https://townoflyons.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='townoflyons.com', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='townoflyons.com', port=443) at 0x749c1a9a1040>, 'Connection to townoflyons.com timed out. (connect timeout=45)')) | 2026-11-09 |
-| Manzanola | linkscan | 13 | 13 | 13 | 0 |  | 2026-11-09 |
-| Mead | civicclerk | 17 | 28 | 25 | 3 |  | 2026-11-09 |
-| Meeker | linkscan | 29 | 34 | 9 | 25 |  | 2026-11-09 |
-| Mesa County | onbase | 25 | 25 | 25 | 0 |  | 2026-11-09 |
-| Milliken | civicclerk | 22 | 52 | 52 | 0 |  | 2026-11-09 |
-| Minturn | civicclerk | 14 | 22 | 16 | 6 |  | 2026-11-09 |
-| Moffat County | linkscan | 6 | 6 | 5 | 1 |  | 2026-11-09 |
-| Montezuma | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-09 |
-| Montezuma County | linkscan | 1 | 3 | 1 | 2 |  | 2026-11-09 |
-| Montrose | civicclerk | 21 | 28 | 28 | 0 |  | 2026-11-09 |
-| Montrose County | granicus | 21 | 21 | 21 | 0 |  | 2026-11-09 |
-| Monument | civicclerk | 16 | 23 | 20 | 3 |  | 2026-11-09 |
-| Morgan County | linkscan | 8 | 19 | 19 | 0 |  | 2026-11-09 |
-| Morrison | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: https://www.morrisonco.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.morrisonco.us', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.morrisonco.us', port=443) at 0x749c19e37b60>, 'Connection to www.morrisonco.us timed out. (connect timeout=45)')) | 2026-11-09 |
-| Mountain View | legistar | 62 | 62 | 62 | 0 |  | 2026-11-09 |
-| Nederland | civicweb | 11 | 11 | 11 | 0 |  | 2026-11-09 |
-| New Castle | civicclerk | 23 | 29 | 26 | 3 |  | 2026-11-09 |
-| Northglenn | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-09 |
-| Norwood | linkscan | 21 | 21 | 21 | 0 |  | 2026-11-09 |
-| Nunn | linkscan | 20 | 20 | 20 | 0 |  | 2026-11-09 |
-| Oak Creek | civicclerk | 6 | 12 | 10 | 2 |  | 2026-11-09 |
-| Olney Springs | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-09 |
-| Ophir | linkscan | 9 | 9 | 8 | 1 |  | 2026-11-09 |
-| Ordway | linkscan | 13 | 13 | 9 | 4 |  | 2026-11-09 |
-| Ouray County | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: https://ouraycountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='ouraycountyco.gov', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='ouraycountyco.gov', port=443) at 0x749c1a7c6a20>, 'Connection to ouraycountyco.gov timed out. (connect timeout=45)')) | 2026-11-09 |
-| Pagosa Springs | civicclerk | 36 | 45 | 45 | 0 |  | 2026-11-09 |
-| Palisade | linkscan | 1 | 2 | 2 | 0 |  | 2026-11-09 |
-| Palmer Lake | civicclerk | 24 | 36 | 31 | 5 |  | 2026-11-09 |
-| Paonia | civicclerk | 27 | 44 | 39 | 5 |  | 2026-11-09 |
-| Parachute | granicus | 13 | 13 | 12 | 1 |  | 2026-11-09 |
-| Park County | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: https://www.parkcountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.parkcountyco.gov', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.parkcountyco.gov', port=443) at 0x749c194cf710>, 'Connection to www.parkcountyco.gov timed out. (connect timeout=45)')) | 2026-11-09 |
-| Parker | civicclerk | 28 | 33 | 32 | 1 |  | 2026-11-09 |
-| Phillips County | linkscan | 9 | 9 | 9 | 0 |  | 2026-11-09 |
-| Pitkin | linkscan | 7 | 7 | 7 | 0 |  | 2026-11-09 |
-| Platteville | linkscan | 5 | 6 | 1 | 5 |  | 2026-11-09 |
-| Poncha Springs | civicclerk | 0 | 0 | 0 | 0 |  | 2026-11-09 |
-| Pueblo | civicclerk | 30 | 42 | 39 | 3 |  | 2026-11-09 |
-| Pueblo County | civicclerk | 43 | 105 | 105 | 0 |  | 2026-11-09 |
-| Rangely | linkscan | 7 | 8 | 8 | 0 |  | 2026-11-09 |
-| Red Cliff | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-09 |
-| Rico | linkscan | 3 | 4 | 2 | 2 |  | 2026-11-09 |
-| Ridgway | linkscan | 17 | 18 | 18 | 0 |  | 2026-11-09 |
-| Rifle | civicclerk | 17 | 28 | 23 | 5 |  | 2026-11-09 |
-| Rio Blanco County | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-09 |
-| Rockvale | linkscan | 7 | 7 | 0 | 7 |  | 2026-11-09 |
-| Routt County | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: https://www.co.routt.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.co.routt.co.us', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.co.routt.co.us', port=443) at 0x749c17f4e1b0>, 'Connection to www.co.routt.co.us timed out. (connect timeout=45)')) | 2026-11-09 |
-| Rye | linkscan | 2 | 2 | 2 | 0 |  | 2026-11-09 |
-| Salida | civicclerk | 12 | 18 | 18 | 0 |  | 2026-11-09 |
-| San Juan County | linkscan | 24 | 24 | 1 | 23 |  | 2026-11-09 |
-| San Miguel County | civicclerk | 26 | 39 | 39 | 0 |  | 2026-11-09 |
-| Severance | civicclerk | 15 | 23 | 21 | 2 |  | 2026-11-09 |
-| Sheridan | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: https://ci.sheridan.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='ci.sheridan.co.us', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='ci.sheridan.co.us', port=443) at 0x749c181f8200>, 'Connection to ci.sheridan.co.us timed out. (connect timeout=45)')) | 2026-11-09 |
-| Silt | linkscan | 8 | 8 | 8 | 0 |  | 2026-11-09 |
-| Silver Cliff | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: https://www.silvercliffco.com/AgendaCenter/Search/?term=&CIDs=all&startDate=11/09/2025&endDate=11/09/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.silvercliffco.com', port=443): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=11/09/2025&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.silvercliffco.com', port=443) at 0x749c194ce240>, 'Connection to www.silvercliffco.com timed out. (connect timeout=45)')) | 2026-11-09 |
-| Silver Plume | linkscan | 8 | 8 | 6 | 2 |  | 2026-11-09 |
-| Snowmass Village | civicclerk | 30 | 51 | 49 | 2 |  | 2026-11-09 |
-| Starkville | civicclerk | 16 | 21 | 21 | 0 |  | 2026-11-09 |
-| Steamboat Springs | onbase | 20 | 20 | 20 | 0 |  | 2026-11-09 |
-| Sterling | linkscan | 8 | 18 | 14 | 4 |  | 2026-11-09 |
-| Summit County | civicweb | 4 | 4 | 4 | 0 |  | 2026-11-09 |
-| Superior | civicclerk | 30 | 33 | 33 | 0 |  | 2026-11-09 |
-| Teller County | civicclerk | 17 | 29 | 28 | 1 |  | 2026-11-09 |
-| Telluride | civicweb | 36 | 37 | 35 | 2 |  | 2026-11-09 |
-| Thornton | primegov | 41 | 41 | 39 | 2 |  | 2026-11-09 |
-| Timnath | civicweb | 13 | 13 | 13 | 0 |  | 2026-11-09 |
-| Washington County | linkscan | 12 | 12 | 11 | 1 |  | 2026-11-09 |
-| Weld County | weblink | 23 | 23 | 23 | 0 |  | 2026-11-09 |
-| Wellington | civicclerk | 18 | 28 | 26 | 2 |  | 2026-11-09 |
-| Westcliffe | linkscan | 14 | 17 | 13 | 4 |  | 2026-11-09 |
-| Westminster | primegov | 16 | 16 | 16 | 0 |  | 2026-11-09 |
-| Williamsburg | linkscan | 18 | 18 | 0 | 18 |  | 2026-11-09 |
-| Windsor | civicclerk | 43 | 67 | 67 | 0 |  | 2026-11-09 |
-| Winter Park | granicus | 15 | 15 | 15 | 0 |  | 2026-11-09 |
-| Woodland Park | civicclerk | 16 | 20 | 12 | 8 |  | 2026-11-09 |
-| Wray | agendacenter | 0 | 0 | 0 | 0 | RuntimeError: http://www.cityofwray.org/AgendaCenter/Search/?term=&CIDs=all&startDate=11/09/2025&endDate=11/09/2026&dateRange=&dateSelector=: HTTPConnectionPool(host='www.cityofwray.org', port=80): Max retries exceeded with url: /AgendaCenter/Search/?term=&CIDs=all&startDate=11/09/2025&endDate=11/09/2026&dateRange=&dateSelector= (Caused by ConnectTimeoutError(<HTTPConnection(host='www.cityofwray.org', port=80) at 0x749c19a1c980>, 'Connection to www.cityofwray.org timed out. (connect timeout=45)')) | 2026-11-09 |
-| Yuma | linkscan | 16 | 17 | 15 | 2 |  | 2026-11-09 |
-| Yuma County | linkscan | 23 | 23 | 16 | 7 |  | 2026-11-09 |
+| Adams County | primegov | 38 | 38 | 38 | 0 |  | 2026-11-16 |
+| Akron | agendacenter | 8 | 8 | 7 | 1 |  | 2026-11-16 |
+| Alamosa County | agendacenter | 13 | 13 | 13 | 0 |  | 2026-11-16 |
+| Alma | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-16 |
+| Arapahoe County | legistar | 41 | 41 | 36 | 5 |  | 2026-11-16 |
+| Archuleta County | linkscan | 6 | 11 | 10 | 1 |  | 2026-11-16 |
+| Arriba | linkscan | 11 | 13 | 13 | 0 |  | 2026-11-16 |
+| Arvada | civicclerk | 29 | 48 | 45 | 3 |  | 2026-11-16 |
+| Aspen | granicus | 33 | 33 | 31 | 2 |  | 2026-11-16 |
+| Aurora | linkscan | 6 | 10 | 10 | 0 |  | 2026-11-16 |
+| Avon | weblink | 5 | 5 | 5 | 0 |  | 2026-11-16 |
+| Basalt | agendacenter | 34 | 35 | 34 | 1 |  | 2026-11-16 |
+| Berthoud | civicclerk | 28 | 37 | 35 | 2 |  | 2026-11-16 |
+| Black Hawk | agendacenter | 27 | 27 | 21 | 6 |  | 2026-11-16 |
+| Blue River | civicclerk | 10 | 18 | 17 | 1 |  | 2026-11-16 |
+| Boone | linkscan | 15 | 15 | 14 | 1 |  | 2026-11-16 |
+| Boulder | primegov | 12 | 12 | 12 | 0 |  | 2026-11-16 |
+| Boulder County | escribe | 36 | 36 | 36 | 0 |  | 2026-11-16 |
+| Breckenridge | civicclerk | 21 | 37 | 34 | 3 |  | 2026-11-16 |
+| Brighton | legistar | 10 | 10 | 10 | 0 |  | 2026-11-16 |
+| Broomfield | agendacenter | 44 | 45 | 43 | 2 |  | 2026-11-16 |
+| Brush | linkscan | 9 | 9 | 0 | 9 |  | 2026-11-16 |
+| Buena Vista | agendacenter | 43 | 43 | 35 | 8 |  | 2026-11-16 |
+| Burlington | agendacenter | 9 | 10 | 3 | 7 |  | 2026-11-16 |
+| Calhan | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-16 |
+| Campo | legistar | 15 | 15 | 15 | 0 |  | 2026-11-16 |
+| Cañon City | agendacenter | 69 | 70 | 70 | 0 |  | 2026-11-16 |
+| Castle Pines | granicus | 11 | 11 | 10 | 1 |  | 2026-11-16 |
+| Centennial | onbase | 22 | 22 | 22 | 0 |  | 2026-11-16 |
+| Center | linkscan | 1 | 1 | 0 | 1 |  | 2026-11-16 |
+| Chaffee County | civicclerk | 32 | 56 | 56 | 0 |  | 2026-11-16 |
+| Cherry Hills Village | agendacenter | 20 | 20 | 17 | 3 |  | 2026-11-16 |
+| Cheyenne County | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-16 |
+| Clear Creek County | agendacenter | 18 | 20 | 19 | 1 |  | 2026-11-16 |
+| Colorado Springs | legistar | 30 | 30 | 30 | 0 |  | 2026-11-16 |
+| Columbine Valley | linkscan | 13 | 13 | 13 | 0 |  | 2026-11-16 |
+| Commerce City | legistar | 100 | 100 | 100 | 0 |  | 2026-11-16 |
+| Cortez | destiny | 14 | 14 | 14 | 0 |  | 2026-11-16 |
+| Craig | civicclerk | 8 | 12 | 11 | 1 |  | 2026-11-16 |
+| Crawford | linkscan | 12 | 12 | 12 | 0 |  | 2026-11-16 |
+| Crested Butte | linkscan | 19 | 38 | 21 | 17 |  | 2026-11-16 |
+| Dacono | agendacenter | 21 | 21 | 13 | 8 |  | 2026-11-16 |
+| De Beque | linkscan | 15 | 16 | 1 | 15 |  | 2026-11-16 |
+| Del Norte | linkscan | 5 | 8 | 8 | 0 |  | 2026-11-16 |
+| Delta | agendacenter | 15 | 21 | 21 | 0 |  | 2026-11-16 |
+| Delta County | civicclerk | 11 | 20 | 19 | 1 |  | 2026-11-16 |
+| Denver | legistar | 116 | 116 | 114 | 2 |  | 2026-11-16 |
+| Dolores | linkscan | 22 | 22 | 18 | 4 |  | 2026-11-16 |
+| Douglas County | legistar | 43 | 43 | 43 | 0 |  | 2026-11-16 |
+| Dove Creek | linkscan | 9 | 9 | 9 | 0 |  | 2026-11-16 |
+| Durango | onbase | 8 | 8 | 8 | 0 |  | 2026-11-16 |
+| Eagle | civicclerk | 31 | 48 | 48 | 0 |  | 2026-11-16 |
+| Eagle County | cablecast | 12 | 12 | 12 | 0 |  | 2026-11-16 |
+| Eaton | civicclerk | 0 | 0 | 0 | 0 |  | 2026-11-16 |
+| Edgewater | civicclerk | 16 | 23 | 23 | 0 |  | 2026-11-16 |
+| El Paso County | agendasuite | 7 | 7 | 7 | 0 |  | 2026-11-16 |
+| Elizabeth | civicclerk | 21 | 21 | 17 | 4 |  | 2026-11-16 |
+| Empire | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-16 |
+| Erie | civicclerk | 35 | 51 | 49 | 2 |  | 2026-11-16 |
+| Estes Park | weblink | 12 | 12 | 12 | 0 |  | 2026-11-16 |
+| Evans | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-16 |
+| Fairplay | civicclerk | 10 | 10 | 10 | 0 |  | 2026-11-16 |
+| Federal Heights | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-16 |
+| Firestone | civicclerk | 14 | 20 | 20 | 0 |  | 2026-11-16 |
+| Florence | linkscan | 1 | 1 | 1 | 0 |  | 2026-11-16 |
+| Fort Collins | civicclerk | 21 | 39 | 39 | 0 |  | 2026-11-16 |
+| Fort Lupton | civicclerk | 20 | 28 | 24 | 4 |  | 2026-11-16 |
+| Fort Morgan | agendacenter | 20 | 20 | 19 | 1 |  | 2026-11-16 |
+| Fountain | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-16 |
+| Foxfield | linkscan | 18 | 18 | 18 | 0 |  | 2026-11-16 |
+| Fraser | agendacenter | 16 | 16 | 15 | 1 |  | 2026-11-16 |
+| Frederick | civicclerk | 26 | 49 | 48 | 1 |  | 2026-11-16 |
+| Fremont County | linkscan | 7 | 7 | 7 | 0 |  | 2026-11-16 |
+| Frisco | civicclerk | 10 | 20 | 18 | 2 |  | 2026-11-16 |
+| Fruita | agendacenter | 22 | 22 | 18 | 4 |  | 2026-11-16 |
+| Garden City | civicclerk | 4 | 4 | 4 | 0 |  | 2026-11-16 |
+| Garfield County | escribe | 15 | 15 | 15 | 0 |  | 2026-11-16 |
+| Gilpin County | linkscan | 9 | 10 | 10 | 0 |  | 2026-11-16 |
+| Glendale | agendacenter | 6 | 6 | 5 | 1 |  | 2026-11-16 |
+| Glenwood Springs | civicclerk | 10 | 13 | 13 | 0 |  | 2026-11-16 |
+| Golden | granicus | 49 | 49 | 49 | 0 |  | 2026-11-16 |
+| Granby | destiny | 7 | 7 | 7 | 0 |  | 2026-11-16 |
+| Grand County | agendacenter | 26 | 26 | 13 | 13 |  | 2026-11-16 |
+| Grand Junction | civicclerk | 58 | 88 | 75 | 13 |  | 2026-11-16 |
+| Grand Lake | civicclerk | 13 | 19 | 16 | 3 |  | 2026-11-16 |
+| Greeley | civicclerk | 80 | 113 | 112 | 1 |  | 2026-11-16 |
+| Green Mountain Falls | linkscan | 23 | 23 | 23 | 0 |  | 2026-11-16 |
+| Greenwood Village | civicclerk | 23 | 41 | 40 | 1 |  | 2026-11-16 |
+| Grover | agendacenter | 0 | 0 | 0 | 0 |  | 2026-11-16 |
+| Gunnison County | agendacenter | 20 | 20 | 20 | 0 |  | 2026-11-16 |
+| Gypsum | granicus | 8 | 8 | 8 | 0 |  | 2026-11-16 |
+| Haxtun | linkscan | 1 | 1 | 1 | 0 |  | 2026-11-16 |
+| Hayden | agendacenter | 11 | 11 | 7 | 4 |  | 2026-11-16 |
+| Hillrose | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-16 |
+| Hinsdale County | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-16 |
+| Hooper | linkscan | 2 | 2 | 2 | 0 |  | 2026-11-16 |
+| Hotchkiss | linkscan | 19 | 19 | 19 | 0 |  | 2026-11-16 |
+| Hudson | legistar | 28 | 28 | 28 | 0 |  | 2026-11-16 |
+| Huerfano County | civicclerk | 28 | 51 | 51 | 0 |  | 2026-11-16 |
+| Hugo | linkscan | 19 | 19 | 19 | 0 |  | 2026-11-16 |
+| Idaho Springs | civicclerk | 16 | 32 | 32 | 0 |  | 2026-11-16 |
+| Ignacio | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-16 |
+| Jamestown | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-16 |
+| Jefferson County | escribe | 21 | 21 | 21 | 0 |  | 2026-11-16 |
+| Johnstown | civicclerk | 14 | 23 | 21 | 2 |  | 2026-11-16 |
+| Keenesburg | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-16 |
+| Kersey | linkscan | 6 | 6 | 5 | 1 |  | 2026-11-16 |
+| Kiowa | civicclerk | 29 | 29 | 4 | 25 |  | 2026-11-16 |
+| Kit Carson County | granicus | 31 | 31 | 3 | 28 |  | 2026-11-16 |
+| La Junta | civicclerk | 14 | 14 | 14 | 0 |  | 2026-11-16 |
+| Lafayette | linkscan | 10 | 16 | 16 | 0 |  | 2026-11-16 |
+| Lake City | linkscan | 8 | 8 | 8 | 0 |  | 2026-11-16 |
+| Lake County | agendacenter | 42 | 44 | 42 | 2 |  | 2026-11-16 |
+| Lakewood | civicclerk | 10 | 19 | 18 | 1 |  | 2026-11-16 |
+| Lamar | linkscan | 6 | 6 | 6 | 0 |  | 2026-11-16 |
+| Limon | linkscan | 14 | 14 | 11 | 3 |  | 2026-11-16 |
+| Littleton | legistar | 17 | 17 | 17 | 0 |  | 2026-11-16 |
+| Lochbuie | civicclerk | 0 | 0 | 0 | 0 |  | 2026-11-16 |
+| Logan County | agendacenter | 20 | 27 | 17 | 10 |  | 2026-11-16 |
+| Lone Tree | civicweb | 19 | 19 | 19 | 0 |  | 2026-11-16 |
+| Longmont | primegov | 85 | 85 | 78 | 7 |  | 2026-11-16 |
+| Louisville | civicclerk | 45 | 97 | 93 | 4 |  | 2026-11-16 |
+| Lyons | agendacenter | 51 | 59 | 56 | 3 |  | 2026-11-16 |
+| Manzanola | linkscan | 13 | 13 | 13 | 0 |  | 2026-11-16 |
+| Mead | civicclerk | 18 | 29 | 26 | 3 |  | 2026-11-16 |
+| Meeker | linkscan | 28 | 32 | 8 | 24 |  | 2026-11-16 |
+| Mesa County | onbase | 25 | 25 | 25 | 0 |  | 2026-11-16 |
+| Milliken | civicclerk | 21 | 49 | 49 | 0 |  | 2026-11-16 |
+| Minturn | civicclerk | 13 | 21 | 16 | 5 |  | 2026-11-16 |
+| Moffat County | linkscan | 7 | 7 | 7 | 0 |  | 2026-11-16 |
+| Montezuma | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-16 |
+| Montezuma County | linkscan | 1 | 3 | 1 | 2 |  | 2026-11-16 |
+| Montrose | civicclerk | 20 | 28 | 28 | 0 |  | 2026-11-16 |
+| Montrose County | granicus | 21 | 21 | 21 | 0 |  | 2026-11-16 |
+| Monument | civicclerk | 17 | 24 | 22 | 2 |  | 2026-11-16 |
+| Morgan County | linkscan | 8 | 19 | 19 | 0 |  | 2026-11-16 |
+| Morrison | agendacenter | 18 | 23 | 20 | 3 |  | 2026-11-16 |
+| Mountain View | legistar | 59 | 59 | 59 | 0 |  | 2026-11-16 |
+| Nederland | civicweb | 10 | 10 | 10 | 0 |  | 2026-11-16 |
+| New Castle | civicclerk | 24 | 31 | 28 | 3 |  | 2026-11-16 |
+| Northglenn | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-16 |
+| Norwood | linkscan | 22 | 22 | 22 | 0 |  | 2026-11-16 |
+| Nunn | linkscan | 20 | 20 | 20 | 0 |  | 2026-11-16 |
+| Oak Creek | civicclerk | 6 | 12 | 10 | 2 |  | 2026-11-16 |
+| Olney Springs | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-16 |
+| Ophir | linkscan | 8 | 8 | 7 | 1 |  | 2026-11-16 |
+| Ordway | linkscan | 12 | 12 | 9 | 3 |  | 2026-11-16 |
+| Ouray County | agendacenter | 7 | 7 | 5 | 2 |  | 2026-11-16 |
+| Pagosa Springs | civicclerk | 34 | 42 | 42 | 0 |  | 2026-11-16 |
+| Palisade | linkscan | 1 | 2 | 2 | 0 |  | 2026-11-16 |
+| Palmer Lake | civicclerk | 24 | 38 | 34 | 4 |  | 2026-11-16 |
+| Paonia | civicclerk | 28 | 47 | 43 | 4 |  | 2026-11-16 |
+| Parachute | granicus | 12 | 12 | 11 | 1 |  | 2026-11-16 |
+| Park County | agendacenter | 49 | 52 | 44 | 8 |  | 2026-11-16 |
+| Parker | civicclerk | 33 | 42 | 41 | 1 |  | 2026-11-16 |
+| Phillips County | linkscan | 9 | 9 | 9 | 0 |  | 2026-11-16 |
+| Pitkin | linkscan | 6 | 6 | 6 | 0 |  | 2026-11-16 |
+| Platteville | linkscan | 5 | 6 | 1 | 5 |  | 2026-11-16 |
+| Poncha Springs | civicclerk | 0 | 0 | 0 | 0 |  | 2026-11-16 |
+| Pueblo | civicclerk | 32 | 46 | 43 | 3 |  | 2026-11-16 |
+| Pueblo County | civicclerk | 44 | 105 | 105 | 0 |  | 2026-11-16 |
+| Rangely | linkscan | 7 | 8 | 8 | 0 |  | 2026-11-16 |
+| Red Cliff | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-16 |
+| Rico | linkscan | 3 | 4 | 2 | 2 |  | 2026-11-16 |
+| Ridgway | linkscan | 16 | 17 | 17 | 0 |  | 2026-11-16 |
+| Rifle | civicclerk | 17 | 28 | 23 | 5 |  | 2026-11-16 |
+| Rio Blanco County | linkscan | 0 | 0 | 0 | 0 |  | 2026-11-16 |
+| Rockvale | linkscan | 7 | 7 | 0 | 7 |  | 2026-11-16 |
+| Routt County | agendacenter | 33 | 33 | 33 | 0 |  | 2026-11-16 |
+| Rye | linkscan | 1 | 1 | 1 | 0 |  | 2026-11-16 |
+| Salida | civicclerk | 12 | 18 | 18 | 0 |  | 2026-11-16 |
+| San Juan County | linkscan | 25 | 25 | 2 | 23 |  | 2026-11-16 |
+| San Miguel County | civicclerk | 27 | 41 | 41 | 0 |  | 2026-11-16 |
+| Severance | civicclerk | 15 | 23 | 20 | 3 |  | 2026-11-16 |
+| Sheridan | agendacenter | 21 | 21 | 21 | 0 |  | 2026-11-16 |
+| Silt | linkscan | 8 | 8 | 8 | 0 |  | 2026-11-16 |
+| Silver Cliff | agendacenter | 24 | 25 | 12 | 13 |  | 2026-11-16 |
+| Silver Plume | linkscan | 7 | 7 | 5 | 2 |  | 2026-11-16 |
+| Snowmass Village | civicclerk | 28 | 49 | 47 | 2 |  | 2026-11-16 |
+| Starkville | civicclerk | 16 | 20 | 20 | 0 |  | 2026-11-16 |
+| Steamboat Springs | onbase | 19 | 19 | 19 | 0 |  | 2026-11-16 |
+| Sterling | linkscan | 8 | 19 | 14 | 5 |  | 2026-11-16 |
+| Summit County | civicweb | 5 | 5 | 5 | 0 |  | 2026-11-16 |
+| Superior | civicclerk | 27 | 29 | 29 | 0 |  | 2026-11-16 |
+| Teller County | civicclerk | 18 | 30 | 28 | 2 |  | 2026-11-16 |
+| Telluride | civicweb | 35 | 36 | 34 | 2 |  | 2026-11-16 |
+| Thornton | primegov | 40 | 40 | 39 | 1 |  | 2026-11-16 |
+| Timnath | civicweb | 13 | 14 | 14 | 0 |  | 2026-11-16 |
+| Washington County | linkscan | 13 | 13 | 12 | 1 |  | 2026-11-16 |
+| Weld County | weblink | 21 | 21 | 21 | 0 |  | 2026-11-16 |
+| Wellington | civicclerk | 17 | 25 | 23 | 2 |  | 2026-11-16 |
+| Westcliffe | linkscan | 14 | 17 | 13 | 4 |  | 2026-11-16 |
+| Westminster | primegov | 18 | 18 | 18 | 0 |  | 2026-11-16 |
+| Williamsburg | linkscan | 18 | 18 | 0 | 18 |  | 2026-11-16 |
+| Windsor | civicclerk | 44 | 63 | 63 | 0 |  | 2026-11-16 |
+| Winter Park | granicus | 14 | 14 | 14 | 0 |  | 2026-11-16 |
+| Woodland Park | civicclerk | 17 | 21 | 13 | 8 |  | 2026-11-16 |
+| Wray | agendacenter | 6 | 6 | 6 | 0 |  | 2026-11-16 |
+| Yuma | linkscan | 16 | 17 | 15 | 2 |  | 2026-11-16 |
+| Yuma County | linkscan | 22 | 22 | 16 | 6 |  | 2026-11-16 |
 
 ## Logs
 
@@ -214,12 +214,12 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Akron
 ```
-  https://www.townofakron.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: 8 files in window
+  https://www.townofakron.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 8 files in window
 ```
 
 ### Alamosa County
 ```
-
+  https://www.alamosacounty.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 18 files in window
 ```
 
 ### Alma
@@ -229,12 +229,12 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Arapahoe County
 ```
-  72 events in window
+  74 events in window
 ```
 
 ### Archuleta County
 ```
-  https://www.archuletacounty.gov/archuleta-county-co-official-website/agenda-minutes-archive/: 45 dated links in window
+  https://www.archuletacounty.gov/archuleta-county-co-official-website/agenda-minutes-archive/: 46 dated links in window
 ```
 
 ### Arriba
@@ -244,12 +244,12 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Arvada
 ```
-  51 events in window
+  52 events in window
 ```
 
 ### Aspen
 ```
-  38 documents in window
+  36 documents in window
 ```
 
 ### Aurora
@@ -259,23 +259,23 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Avon
 ```
-  folder 69873: 17 documents, 4 in window with text
-  folder 67538: 21 documents, 0 in window with text
+  folder 69873: 19 documents, 5 in window with text
+  folder 67538: 22 documents, 0 in window with text
 ```
 
 ### Basalt
 ```
-
+  https://www.basalt.net/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 37 files in window
 ```
 
 ### Berthoud
 ```
-  36 events in window
+  35 events in window
 ```
 
 ### Black Hawk
 ```
-  https://www.cityofblackhawk.org/AgendaCenter/Search/?term=&CIDs=all&startDate=11/09/2025&endDate=11/09/2026&dateRange=&dateSelector=: 46 files in window
+  https://www.cityofblackhawk.org/AgendaCenter/Search/?term=&CIDs=all&startDate=11/16/2025&endDate=11/16/2026&dateRange=&dateSelector=: 46 files in window
 ```
 
 ### Blue River
@@ -285,49 +285,50 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Boone
 ```
-  https://boone.colorado.gov/agendas-and-minutes: 25 dated links in window
+  https://boone.colorado.gov/agendas-and-minutes: 27 dated links in window
 ```
 
 ### Boulder
 ```
-  13 meetings in window
+  12 meetings in window
 ```
 
 ### Boulder County
 ```
   document types: ['Agenda', 'AgendaCover', 'PostMinutes', 'Video']
-  26 meetings returned, 20 kept
+  25 meetings returned, 19 kept
   17 events with descriptions in window
 ```
 
 ### Breckenridge
 ```
-  30 events in window
+  31 events in window
 ```
 
 ### Brighton
 ```
-  10 events in window
+  11 events in window
 ```
 
 ### Broomfield
 ```
-
+  https://broomfield.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 45 files in window
+  10 meeting videos with chapters in window
 ```
 
 ### Brush
 ```
-  http://www.brushcolo.com/your_city/agendas_minutes.php: 14 dated links in window
+  http://www.brushcolo.com/your_city/agendas_minutes.php: 15 dated links in window
 ```
 
 ### Buena Vista
 ```
-
+  http://www.buenavistaco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 61 files in window
 ```
 
 ### Burlington
 ```
-
+  http://www.burlingtoncolo.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 16 files in window
 ```
 
 ### Calhan
@@ -342,33 +343,33 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Cañon City
 ```
-
+  https://www.canoncity.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 72 files in window
 ```
 
 ### Castle Pines
 ```
-  17 documents in window
+  16 documents in window
 ```
 
 ### Centennial
 ```
-  search: 181 links, 23 meeting pages
-  23 documents in window from 25 page(s)
+  search: 173 links, 22 meeting pages
+  22 documents in window from 24 page(s)
 ```
 
 ### Center
 ```
-  https://townofcenter.colorado.gov/town-government/agendas-minutes/2025-agendas-minutes: 2 dated links in window
+  https://townofcenter.colorado.gov/town-government/agendas-minutes/2025-agendas-minutes: 1 dated links in window
 ```
 
 ### Chaffee County
 ```
-  46 events in window
+  47 events in window
 ```
 
 ### Cherry Hills Village
 ```
-
+  https://www.cherryhillsvillage.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 27 files in window
 ```
 
 ### Cheyenne County
@@ -378,7 +379,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Clear Creek County
 ```
-  https://www.clearcreekcounty.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: 22 files in window
+  https://www.clearcreekcounty.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 21 files in window
 ```
 
 ### Colorado Springs
@@ -388,12 +389,12 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Columbine Valley
 ```
-  https://columbinevalley.org/board-trustee-agendas-minutes/: 38 dated links in window
+  https://columbinevalley.org/board-trustee-agendas-minutes/: 40 dated links in window
 ```
 
 ### Commerce City
 ```
-  105 events in window
+  107 events in window
 ```
 
 ### Cortez
@@ -403,7 +404,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Craig
 ```
-  6 events in window
+  9 events in window
 ```
 
 ### Crawford
@@ -418,7 +419,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Dacono
 ```
-
+  https://www.daconoco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 28 files in window
 ```
 
 ### De Beque
@@ -428,22 +429,22 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Del Norte
 ```
-  https://www.delnortecolorado.com/minutes-agendas/: 9 dated links in window
+  https://www.delnortecolorado.com/minutes-agendas/: 8 dated links in window
 ```
 
 ### Delta
 ```
-
+  https://www.cityofdelta.net/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 21 files in window
 ```
 
 ### Delta County
 ```
-  30 events in window
+  32 events in window
 ```
 
 ### Denver
 ```
-  139 events in window
+  140 events in window
 ```
 
 ### Dolores
@@ -453,7 +454,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Douglas County
 ```
-  63 events in window
+  65 events in window
 ```
 
 ### Dove Creek
@@ -484,12 +485,12 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Edgewater
 ```
-  40 events in window
+  38 events in window
 ```
 
 ### El Paso County
 ```
-  9 meetings in window
+  7 meetings in window
 ```
 
 ### Elizabeth
@@ -509,8 +510,8 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Estes Park
 ```
-  folder 25: 19 documents, 5 in window with text
-  folder 24: 21 documents, 5 in window with text
+  folder 25: 20 documents, 5 in window with text
+  folder 24: 24 documents, 7 in window with text
 ```
 
 ### Evans
@@ -525,7 +526,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Federal Heights
 ```
-  https://www.fedheights.org/index.asp?SEC=%7BE66D34DF-8290-4807-83DA-3AF56D110C00%7D: 1 dated links in window
+  https://www.fedheights.org/index.asp?SEC=%7BE66D34DF-8290-4807-83DA-3AF56D110C00%7D: 0 dated links in window
 ```
 
 ### Firestone
@@ -535,12 +536,12 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Florence
 ```
-  https://www.cityofflorenceco.gov/: 0 dated links in window
+  https://www.cityofflorenceco.gov/: 1 dated links in window
 ```
 
 ### Fort Collins
 ```
-  22 events in window
+  23 events in window
 ```
 
 ### Fort Lupton
@@ -550,7 +551,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Fort Morgan
 ```
-
+  https://www.cityoffortmorgan.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 25 files in window
 ```
 
 ### Fountain
@@ -565,17 +566,17 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Fraser
 ```
-
+  https://www.frasercolorado.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 22 files in window
 ```
 
 ### Frederick
 ```
-  41 events in window
+  42 events in window
 ```
 
 ### Fremont County
 ```
-  https://fremontcountyco.gov/commissioners/meeting-agendas-and-minutes: 12 dated links in window
+  https://fremontcountyco.gov/commissioners/meeting-agendas-and-minutes: 11 dated links in window
 ```
 
 ### Frisco
@@ -585,7 +586,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Fruita
 ```
-  https://www.fruita.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: 34 files in window
+  https://www.fruita.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 31 files in window
 ```
 
 ### Garden City
@@ -606,7 +607,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Glendale
 ```
-
+  https://www.glendale.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 7 files in window
 ```
 
 ### Glenwood Springs
@@ -616,7 +617,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Golden
 ```
-  76 documents in window
+  73 documents in window
 ```
 
 ### Granby
@@ -626,12 +627,12 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Grand County
 ```
-
+  https://www.co.grand.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 38 files in window
 ```
 
 ### Grand Junction
 ```
-  63 events in window
+  65 events in window
 ```
 
 ### Grand Lake
@@ -641,7 +642,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Greeley
 ```
-  93 events in window
+  91 events in window
 ```
 
 ### Green Mountain Falls
@@ -651,22 +652,23 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Greenwood Village
 ```
-  56 events in window
+  55 events in window
 ```
 
 ### Grover
 ```
-
+  https://www.grover.org/AgendaCenter/Search/?term=&CIDs=all&startDate=11/16/2025&endDate=11/16/2026&dateRange=&dateSelector=: 0 files in window
+  https://www.grover.org/AgendaCenter: 0 files in window
 ```
 
 ### Gunnison County
 ```
-
+  https://www.gunnisoncounty.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 33 files in window
 ```
 
 ### Gypsum
 ```
-  14 documents in window
+  13 documents in window
 ```
 
 ### Haxtun
@@ -676,7 +678,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Hayden
 ```
-  https://co-hayden.civicplus.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: 18 files in window
+  https://co-hayden.civicplus.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 18 files in window
 ```
 
 ### Hillrose
@@ -701,7 +703,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Hudson
 ```
-  29 events in window
+  28 events in window
 ```
 
 ### Huerfano County
@@ -711,7 +713,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Hugo
 ```
-  https://townhugo.com/government/committee-meetings/agenda/: 37 dated links in window
+  https://townhugo.com/government/committee-meetings/agenda/: 35 dated links in window
 ```
 
 ### Idaho Springs
@@ -732,7 +734,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 ### Jefferson County
 ```
   document types: ['AdditionalDocuments', 'Agenda', 'PostMinutes', 'Video']
-  61 meetings returned, 25 kept
+  56 meetings returned, 22 kept
 ```
 
 ### Johnstown
@@ -747,7 +749,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Kersey
 ```
-  https://www.kerseygov.com/government/agendas_minutes/index.php: 9 dated links in window
+  https://www.kerseygov.com/government/agendas_minutes/index.php: 7 dated links in window
 ```
 
 ### Kiowa
@@ -757,7 +759,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Kit Carson County
 ```
-  57 documents in window
+  59 documents in window
 ```
 
 ### La Junta
@@ -767,8 +769,8 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Lafayette
 ```
-  skip https://www.lafayetteco.gov/Archive.aspx?AMID=37: https://www.lafayetteco.gov/Archive.aspx?AMID=37: HTTPSConnectionPool(host='www.lafayetteco.gov', port=443): Max retries exceeded with url: /Archive.aspx?AMID=37 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.lafayetteco.gov', port=443) at 0x749c1ad457c0>, 'Connection to www.lafayetteco.gov timed out. (connect timeout=45)'))
-  skip https://www.lafayetteco.gov/Archive.aspx?AMID=38: https://www.lafayetteco.gov/Archive.aspx?AMID=38: HTTPSConnectionPool(host='www.lafayetteco.gov', port=443): Max retries exceeded with url: /Archive.aspx?AMID=38 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.lafayetteco.gov', port=443) at 0x749c1ad162a0>, 'Connection to www.lafayetteco.gov timed out. (connect timeout=45)'))
+  https://www.lafayetteco.gov/Archive.aspx?AMID=37: 10 dated links in window
+  https://www.lafayetteco.gov/Archive.aspx?AMID=38: 6 dated links in window
 ```
 
 ### Lake City
@@ -778,12 +780,12 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Lake County
 ```
-
+  https://www.lakecountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 50 files in window
 ```
 
 ### Lakewood
 ```
-  16 events in window
+  17 events in window
 ```
 
 ### Lamar
@@ -809,12 +811,12 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Logan County
 ```
-  https://www.logancountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/11/2026&endDate=11/09/2026&dateRange=&dateSelector=: 50 files in window
+  https://www.logancountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 52 files in window
 ```
 
 ### Lone Tree
 ```
-  18 recent meetings in window
+  19 recent meetings in window
 ```
 
 ### Longmont
@@ -824,12 +826,12 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Louisville
 ```
-  60 events in window
+  59 events in window
 ```
 
 ### Lyons
 ```
-
+  https://townoflyons.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 72 files in window
 ```
 
 ### Manzanola
@@ -839,23 +841,23 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Mead
 ```
-  33 events in window
+  34 events in window
 ```
 
 ### Meeker
 ```
-  https://townofmeeker.org/meeting-information/: 80 dated links in window
+  https://townofmeeker.org/meeting-information/: 75 dated links in window
 ```
 
 ### Mesa County
 ```
-  search: 249 links, 42 meeting pages
-  25 documents in window from 44 page(s)
+  search: 239 links, 41 meeting pages
+  25 documents in window from 43 page(s)
 ```
 
 ### Milliken
 ```
-  34 events in window
+  32 events in window
 ```
 
 ### Minturn
@@ -865,7 +867,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Moffat County
 ```
-  https://moffatcounty.colorado.gov/government/elected-officials/county-commissioners/county-commissioner-meetings: 0 dated links in window
+  https://moffatcounty.colorado.gov/government/elected-officials/county-commissioners/county-commissioner-meetings: 1 dated links in window
   https://moffatcounty.colorado.gov/2026-bocc-meeting-minutes: 6 dated links in window
 ```
 
@@ -876,12 +878,12 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Montezuma County
 ```
-  https://montezumacounty.gov/calendarsminutes/boccminutes/: 72 dated links in window
+  https://montezumacounty.gov/calendarsminutes/boccminutes/: 73 dated links in window
 ```
 
 ### Montrose
 ```
-  30 events in window
+  27 events in window
 ```
 
 ### Montrose County
@@ -891,7 +893,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Monument
 ```
-  16 events in window
+  17 events in window
 ```
 
 ### Morgan County
@@ -901,22 +903,22 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Morrison
 ```
-
+  https://www.morrisonco.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 27 files in window
 ```
 
 ### Mountain View
 ```
-  66 events in window
+  63 events in window
 ```
 
 ### Nederland
 ```
-  12 recent meetings in window
+  10 recent meetings in window
 ```
 
 ### New Castle
 ```
-  26 events in window
+  27 events in window
 ```
 
 ### Northglenn
@@ -926,7 +928,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Norwood
 ```
-  https://www.norwoodtown.com/board-of-trustees-meetings: 21 dated links in window
+  https://www.norwoodtown.com/board-of-trustees-meetings: 22 dated links in window
 ```
 
 ### Nunn
@@ -946,22 +948,22 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Ophir
 ```
-  https://townofophir.colorado.gov/planning-and-zoning: 9 dated links in window
+  https://townofophir.colorado.gov/planning-and-zoning: 8 dated links in window
 ```
 
 ### Ordway
 ```
-  https://townofordway.colorado.gov/minutes-and-agendas: 13 dated links in window
+  https://townofordway.colorado.gov/minutes-and-agendas: 12 dated links in window
 ```
 
 ### Ouray County
 ```
-
+  https://ouraycountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 9 files in window
 ```
 
 ### Pagosa Springs
 ```
-  38 events in window
+  37 events in window
 ```
 
 ### Palisade
@@ -971,27 +973,27 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Palmer Lake
 ```
-  31 events in window
+  30 events in window
 ```
 
 ### Paonia
 ```
-  30 events in window
+  31 events in window
 ```
 
 ### Parachute
 ```
-  24 documents in window
+  25 documents in window
 ```
 
 ### Park County
 ```
-
+  https://www.parkcountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 66 files in window
 ```
 
 ### Parker
 ```
-  37 events in window
+  41 events in window
 ```
 
 ### Phillips County
@@ -1001,7 +1003,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Pitkin
 ```
-  https://townofpitkin.colorado.gov/documents/approved-meeting-minutes: 7 dated links in window
+  https://townofpitkin.colorado.gov/documents/approved-meeting-minutes: 6 dated links in window
 ```
 
 ### Platteville
@@ -1011,17 +1013,17 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Poncha Springs
 ```
-  21 events in window
+  20 events in window
 ```
 
 ### Pueblo
 ```
-  30 events in window
+  34 events in window
 ```
 
 ### Pueblo County
 ```
-  75 events in window
+  74 events in window
 ```
 
 ### Rangely
@@ -1041,7 +1043,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Ridgway
 ```
-  https://townofridgway.colorado.gov/i-want-to/ridgway-town-council: 38 dated links in window
+  https://townofridgway.colorado.gov/i-want-to/ridgway-town-council: 36 dated links in window
 ```
 
 ### Rifle
@@ -1061,27 +1063,27 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Routt County
 ```
-
+  https://www.co.routt.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 36 files in window
 ```
 
 ### Rye
 ```
-  https://townofrye.colorado.gov/meeting-agendas/2025-meeting-agendas: 2 dated links in window
+  https://townofrye.colorado.gov/meeting-agendas/2025-meeting-agendas: 1 dated links in window
 ```
 
 ### Salida
 ```
-  22 events in window
+  21 events in window
 ```
 
 ### San Juan County
 ```
-  https://sanjuancounty.colorado.gov/meetings: 24 dated links in window
+  https://sanjuancounty.colorado.gov/meetings: 25 dated links in window
 ```
 
 ### San Miguel County
 ```
-  28 events in window
+  30 events in window
 ```
 
 ### Severance
@@ -1091,7 +1093,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Sheridan
 ```
-
+  https://ci.sheridan.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/18/2026&endDate=11/16/2026&dateRange=&dateSelector=: 28 files in window
 ```
 
 ### Silt
@@ -1101,17 +1103,17 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Silver Cliff
 ```
-
+  https://www.silvercliffco.com/AgendaCenter/Search/?term=&CIDs=all&startDate=11/16/2025&endDate=11/16/2026&dateRange=&dateSelector=: 52 files in window
 ```
 
 ### Silver Plume
 ```
-  https://silverplumetown.com/agendas-and-minutes/: 16 dated links in window
+  https://silverplumetown.com/agendas-and-minutes/: 15 dated links in window
 ```
 
 ### Snowmass Village
 ```
-  38 events in window
+  35 events in window
 ```
 
 ### Starkville
@@ -1122,57 +1124,57 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 ### Steamboat Springs
 ```
   search: 0 links, 0 meeting pages
-  20 documents in window from 2 page(s)
+  19 documents in window from 2 page(s)
 ```
 
 ### Sterling
 ```
-  http://www.sterlingcolo.com/government/council_boards_and_commissions_agendas_and_minutes.php: 19 dated links in window
+  http://www.sterlingcolo.com/government/council_boards_and_commissions_agendas_and_minutes.php: 21 dated links in window
 ```
 
 ### Summit County
 ```
-  4 recent meetings in window
+  5 recent meetings in window
 ```
 
 ### Superior
 ```
-  56 events in window
+  49 events in window
 ```
 
 ### Teller County
 ```
-  18 events in window
+  19 events in window
 ```
 
 ### Telluride
 ```
-  37 recent meetings in window
+  36 recent meetings in window
 ```
 
 ### Thornton
 ```
-  43 meetings in window
+  42 meetings in window
 ```
 
 ### Timnath
 ```
-  13 recent meetings in window
+  14 recent meetings in window
 ```
 
 ### Washington County
 ```
-  https://washingtoncounty.colorado.gov/2026-agendas: 12 dated links in window
+  https://washingtoncounty.colorado.gov/2026-agendas: 13 dated links in window
 ```
 
 ### Weld County
 ```
-  24 meeting pages in window
+  22 meeting pages in window
 ```
 
 ### Wellington
 ```
-  21 events in window
+  24 events in window
 ```
 
 ### Westcliffe
@@ -1182,7 +1184,7 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Westminster
 ```
-  16 meetings in window
+  18 meetings in window
 ```
 
 ### Williamsburg
@@ -1192,22 +1194,22 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Windsor
 ```
-  49 events in window
+  50 events in window
 ```
 
 ### Winter Park
 ```
-  25 documents in window
+  24 documents in window
 ```
 
 ### Woodland Park
 ```
-  36 events in window
+  37 events in window
 ```
 
 ### Wray
 ```
-
+  http://www.cityofwray.org/AgendaCenter/Search/?term=&CIDs=all&startDate=11/16/2025&endDate=11/16/2026&dateRange=&dateSelector=: 11 files in window
 ```
 
 ### Yuma
@@ -1217,5 +1219,5 @@ Window: 2026-08-11 to 2026-11-09, a year for sources marked with days: 365 (each
 
 ### Yuma County
 ```
-  https://yumacounty.colorado.gov/board-meetings: 23 dated links in window
+  https://yumacounty.colorado.gov/board-meetings: 22 dated links in window
 ```

@@ -1,194 +1,6 @@
 # greeley
 
-## [greeley#0] 2026-08-11 | Greeley Urban Renewal Authority | agenda
-- 3. Approval of Meeting Minutes: July 8th, 2026 Deferred to September Meeting on
-- 4. New Business: Presentation and Discussion between GURA and City Council
-- efficient operational practices and long-term strategic planning that honors the city’s
-
-## [greeley#1] 2026-08-11 | City Council | minutes
-- City Council Work Sessions Proceeding August 11, 2026 - Approved
-- Councilmember Olson alerted staff that the streetlights on 20th Avenue westward
-- requested that staff investigate and resolve the outage, given that the corridor is
-- Councilmember Roth acknowledged the tragic loss of life resulting from a fire and
-- thanked the Fire and Police Departments for their swift response and containment
-- 5. Greeley Urban Renewal Authority (GURA) Presentation and Discussion
-- Don Threewitt, Interim Director of Community Development, introduced the item at
-- Chair Heather Utrata, Mike Bond, Cindy Welsh, Tyler Mowery, Mike Silva, Nicole
-- Mr. Hoffman showed a presentation of urban renewal law and the structure of GURA
-- Council is the policymaker responsible for identifying blight, approving urban
-- is separate from the city government in Colorado and executes the Council's plans,
-- Tax Increment Financing (TIF)
-- Mr. Hoffman explained tax increment financing (TIF) as a key urban renewal tool
-- When a plan is initiated, it sets a base property value. Revenue from the base
-- continues to go to taxing entities. Redevelopment boosting property values increases
-- tax revenue above the base; this increment goes into a special fund for blight
-- Council can choose to apply a sales tax increment, not just property tax increment
-- Councilmember DeBoutez asked if the TIF revenue from one plan area can be
-- transferred to another plan area. Mr. Hoffman explained that it can with a
-- spread of blight within the originating area. So TIF can be expended outside the
-- 17th Street could potentially serve as that nexus to link the Greeley Mall TIF area to
-- expansion of the GURA Board to 13 members, including appointees from the Weld
-- County Board of Commissioners, an elected official from a special taxing district, and
-- a school board member. The City must notify all affected taxing entities and negotiate
-- project impacts before Council review. If negotiations fail after 120 days, the statute
-- considered substantial. He said the best approach is to work with taxing entities to
-- existing plan area are not modifications and do not trigger HB 1348 compliance
-- TIF Bonding Authority
-- Mr. Hoffman said that the bonding capacity of an Urban Renewal Authority was
-- determined by the amount of TIF projected to be generated over the bond term, as
-- that TIF can be collected for up to 25 years, and that any funds in the special fund not
-- pledged to an undertaking at the end of that period must be returned to taxing entities
-- on a pro-rata basis, with the exception of sales tax increment and grant-derived funds
-
-## [greeley#2] 2026-08-12 | Union Colony Civic Center Advisory Board | minutes
-- 2. Approval of the May 2026 minutes:
-- Motion to approve the May 2026 minutes as amended made by Doran Azari and
-- may be reiterated at the top of bylaws for clarity
-- ▪ Board Role Discussion:
-- ▪ Oversight and input on contracting and season planning (e.g.,
-- feedback to third-party talent agencies on local fit vs. low-cost
-- and discussion
-- Ticket Donation: Board reviewed the attached ticket donation application
-- There was a discussion about the ticket donation process
-- o Consider moving season announcements earlier (April/May) to align with
-- other arts organizations and enable earlier sales; contracted timelines may
-- impediments due to contracted stage union professionals (e.g., Rhino)
-- o Marketing Release Strategy: Single large-scale season announcement to
-- generate excitement, followed by sustained “trickle” of social posts
-- o Marketing Budget and Vendor: Uses third-party vendor through CME;
-- marketing budget is per-show. Increased online presence attributed to
-- o Example of strong interest: R&B artist announcement generated immediate
-- ticket purchases
-- o Recommendation: Invite Stephen or Jonathan to a future meeting to discuss
-- Discussion included current membership benefits, changes affecting the
-- The Board discussed using membership revenue to expand community access
-- Comments: The Board discussed a recent podcast reference to a past UCCC
-- Discussion focused on audience development and future engagement
-
-## [greeley#3] 2026-08-13 | E-470 Public Highway Authority | agenda
-- Town of Parker, State of Colorado, has determined to conduct a regular meeting on Thursday, August
-- 13, 2026 at 9:00 A.M., at 22470 E. Stephen D. Hogan Parkway, in the Board Room, Aurora,
-- 3. Public Comment............................................................................... Chair Francoise Bergan
-- b. City of Lone Tree Sponsorship IGA – Approval
-- 5. Engineering and Roadway Department .......................................................... Neil Thomson
-- a. Road Widening CM/GC Contract Amendment 1
-- b. Road Widening Construction Management Contract Task Order 2
-- a. Executive Director Delegation Resolution (Reso 26-03)
-- b. Public Code of Conduct Resolution (Reso 26-04)
-- direction to negotiators regarding the Authority’s tolling services agreements with Plenary
-- Roads Denver and HPTE d/b/a CTIO
-
-## [greeley#4] 2026-08-13 | West Greeley Project Citizen Oversight Committee | agenda
-- West Greeley Project Citizen Oversight Committee
-- 4:35 Presentation – Without a known financial partner
-- 6:45 Discussion: WG COC recommendation – Should Greeley Keep trying to Move
-- forward with the project or not
-
-## [greeley#5] 2026-08-13 | Housing for All Advisory Board | agenda
-- Housing for All Advisory Board Agenda:
-- 2026 CDBG & HOME Application Review
-- 3. Approval of Minutes
-- a. 2026 Annual Action Plan review/alternatives from City Council Meeting
-- a. 2027 Annual Action Plan process improvements
-- requests for future board discussion items
-
-## [greeley#6] 2026-08-13 | Housing for All Advisory Board | agenda
-- 1100 10th Street, Greeley, CO 80631
-- a. Revisión del Plan de Acción Anual 2026 / alternativas de la reunión del Consejo Municipal
-- b. Mejoras al proceso del Plan de Acción Anual 2027
-
-## [greeley#7] 2026-08-14 | Liquor Licensing Authority | agenda
-- Liquor License Authority Hearing
-- Liquor License Authority Hearings are fully remote. This means no physical
-- location, including the Administrative Hearing Room at City Center South, will be
-- This Hearing can be viewed via live stream. When utilizing this option, there is not the ability to
-- Once on the page, live meetings currently being broadcast can be seen on the
-- Public comment for items appearing on this agenda as Public Hearings are
-- Anyone interested in participating and sharing public comments has three
-- Street, Greeley, CO 80631
-- Written comments received by mail will be read into the record during the Hearing
-- ID: 847 5675 2476 or call into the Hearing using the same Webinar ID at: +1 719 359 4580
-- room. Virtual audience members may speak during Public Hearing items on the
-- agenda. Please login 15 minutes prior to the Hearing and type your name so
-- you can be easily identified. Using the video option during the Hearing is also
-- Liquor License Authority Hearings
-- and June 5th Hearings
-- STIPULATION AGREEMENT REACHED – VACATED PRIOR TO HEARING
-- Continued from April 10th, May 8th, and June 5th Hearings
-- Continued from July 17th Hearing
-- CONTINUED TO SEPTEMBER 11TH HEARING
-- Status Conference for Renewal Hearing
-- dba Greeley Liquor Warehouse
-- Internal Permit Number: LLR2510-0822
-- Continued from April 10th, May 8th, June 5th, and July 17th Hearings
-- Administrative Review of Previous Stipulation Agreements
-- 5415 West 11th Street Unit D
-- Public Hearing
-- When applicable, public comment is available during the “Open Hearing” portion
-- 12. Hearing to consider the Transfer of Ownership for an existing Liquor License:
-- Internal Permit Number: LLT2606-0070
-- 13. Public Hearing to consider a New Liquor License Application:
-- Internal Permit Number: LLN2607-0105
-- 14. Public Hearing to consider a New Liquor License Application:
-- Internal Permit Number: LLN2606-0264
-- 15. Approval of Minutes: July 17, 2026
-- 1000 10th Street
-- All requests are considered on a case-by-case basis and we will do our best to reply to all
-- burden may not be fulfilled as requested
-
-## [greeley#8] 2026-08-17 | Historic Preservation Commission | agenda
-- Written comments can be mailed or dropped off at the Planning office at 1100 10 th Street,
-- 3. Approval of the Agenda
-- 4. Approval of June 15, 2026 and July 20, 2026 Minutes
-- 6. Budget Update Presentation, Nathan Mosley, Budget and Policy Director
-- Historic Preservation Public Hearing Procedure
-- Public Hearing to…
-- 1. Chair introduce public hearing item
-- 3. Applicant Presentation
-- 5. Chair opens public hearing
-- 6. Chair closes public hearing
-- 8. Commission discussion and vote
-
-## [greeley#9] 2026-08-17 | Historic Preservation Commission | agenda
-- Written comments can be mailed or dropped off at the Planning office at 1100 10 th Street,
-- 3. Approval of the Agenda
-- 4. Approval of June 15, 2026 and July 20, 2026 Minutes
-- 6. Budget Update Presentation, Nathan Mosley, Budget and Policy Director
-- Historic Preservation Public Hearing Procedure
-- Public Hearing to…
-- 1. Chair introduce public hearing item
-- 3. Applicant Presentation
-- 5. Chair opens public hearing
-- 6. Chair closes public hearing
-- 8. Commission discussion and vote
-- He moved to approve the agenda
-- 4. Approval of the April 20, 2026, Meeting Minutes
-- He moved to approve the April 20, 2026, minutes as written
-- rehabilitation project for a recording studio, including efforts to maximize federal and state tax
-- credits. Mrs. Thompson urged the Commission to stay engaged in discussions about the future of
-- 6. Public Hearing to Consider a Request for Certificate of Designation for the Savig House at
-- Betsy Kellums (Planner III – Historic Preservation) began her presentation as published
-- the public portion of the meeting at 4:25pm and turned it over to the Commission for discussion
-- He moved that based on the application received and the preceding analysis, that the
-- summarized below, and therefore approve the designation and issue a Certificate of Designation
-- 1. Has character, interest and integrity and reflects the heritage and cultural development of the
-- the history or development of the City, State or Nation
-- Lindsey Flewelling (History Colorado Preservation Planner) gave her presentation as published
-- Commissioner Clough asked for clarification regarding Certified Local Governments, he asked
-- Certified Local Government was required to have a historic preservation commission, or another
-- appointed body designated to serve in that role
-- would continue in the future despite potential budget constraints
-- Mrs. Kellums noted that the Sunrise survey project was ongoing and expected to be completed
-- by year-end, while the Spanish Colony project was nearing completion, with a final project event
-- Julia Richards expressed support for the awning rehabilitation project on the Greeley History
-- would complement rather than jeopardize historic materials along the 16th Street streetscape
-- condition monitoring, finding and working with preservation contractors, and ongoing
-- 5. Public Hearing to Consider a Request for a Certificate of Approval for Major Alterations
-- at 714 8th Street, Case No. HPDR2026-0009
-- review request for the rehabilitation of the canopy/awning on the north side of the historic
-- Greeley Tribune building, currently the Greeley History Museum, located at 714 8th Street
-
-## [greeley#10] 2026-08-18 | City Council | minutes
+## [greeley#0] 2026-08-18 | City Council | minutes
 - City Council Proceedings August 18, 2026- Approved
 - 4. Approval of the Agenda
 - 1. Spencer Milne spoke about the contract with Flock Safety for Automatic License
@@ -228,7 +40,7 @@
 - regardless, supporting a dedicated sales tax over service cuts
 - Chiropractic Examiners' new assessment center, announced Weld Project Connect
 
-## [greeley#11] 2026-08-18 | Greeley Art Commission | minutes
+## [greeley#1] 2026-08-18 | Greeley Art Commission | minutes
 - 2. Approval of the May 2026 minutes
 - 3. Presentation from Weld Walls Mural Festival 2026
 - associated with Wild Walls should be characterized as “contracted for services”
@@ -250,11 +62,11 @@
 - 16th street installation
 - Other project updates were given and discussed
 
-## [greeley#12] 2026-08-19 | Rodarte Community Center Advisory Board | agenda
+## [greeley#2] 2026-08-19 | Rodarte Community Center Advisory Board | agenda
 - 920 A Street, Greeley CO 80631
 - 3. Approval of Minutes: May 2026
 
-## [greeley#13] 2026-08-19 | Water & Sewer Board | agenda
+## [greeley#3] 2026-08-19 | Water & Sewer Board | agenda
 - Water and Sewer Board
 - Regular meetings of the Water and Sewer Board are held in person on
 - Water and Sewer office located at 1001 11th Avenue, 2nd Floor,
@@ -267,7 +79,7 @@
 - aid or other assistance related to a disability, please contact the Water and
 - Sewer Department administrative staff at 970-350-9801 or
 
-## [greeley#14] 2026-08-19 | Water & Sewer Board | agenda
+## [greeley#4] 2026-08-19 | Water & Sewer Board | agenda
 - Water and Sewer Board
 - Regular meetings of the Water and Sewer Board are held in person on
 - Water and Sewer office located at 1001 11th Avenue, 2nd Floor,
@@ -305,7 +117,7 @@
 - Capital plan can be supported with a 4.5% rate increase for Water and a 3.0% rate increase
 - On average, residential water bills will increase approximately $1.86/month and residential
 
-## [greeley#15] 2026-08-20 | Museum Board | minutes
+## [greeley#5] 2026-08-20 | Museum Board | minutes
 - 2. Approval of the Agenda
 - d. CPRD requested/organizational item discussion (including org chart)
 - j. Interpretive Master Plan discussion
@@ -348,18 +160,18 @@
 - proposed budget; operational planning paused pending final council
 - approval. Spring field trips may be adapted to more hands-off stations with
 
-## [greeley#16] 2026-08-24 | Citizen Budget Advisory Sub-Committee  | agenda
+## [greeley#6] 2026-08-24 | Citizen Budget Advisory Sub-Committee  | agenda
 - PUBLIC COMMENTS
 - DISCUSSION ITEMS
 
-## [greeley#17] 2026-08-24 | Youth Commission | agenda
+## [greeley#7] 2026-08-24 | Youth Commission | agenda
 - 920 A Street
 - NSIDER APPROVAL OF MINUTES
 - ii. Duration was discussed but not decided
 - i. Shift discussion
 - b. Ed Clark National Youth Service Day Awards
 
-## [greeley#18] 2026-08-24 | Citizen Transportation Advisory Committee | minutes
+## [greeley#8] 2026-08-24 | Citizen Transportation Advisory Committee | minutes
 - Approval of the minutes
 - The minutes from July 27, 2026, were approved unanimously after an amendment
 - requested by Steve Teets to note that he had also raised E-bike and E-scooter
@@ -390,59 +202,57 @@
 - effort. Staff noted that construction is delayed pending FHWA approval and is not
 - included in the recent study, recommended projects have been identified, and several
 
-## [greeley#19] 2026-08-25 | Planning Commission | agenda
+## [greeley#9] 2026-08-25 | Planning Commission | agenda
 - Written comments can be mailed or dropped off at the Planning office at 1100 10 th Street,
 - 3. Approval of the Agenda
 - 4. Approval of the July 14, 2026, and July 28, 2026, Planning Commission Meeting Minutes
 
-## [greeley#20] 2026-08-25 | City Council | agenda
-- are intended for discussion and an overview of key topics to inform future decision-making. While no
-- person) is not part of the work session format. Public comments are made during City Council
-- a tax increase
+## [greeley#10] 2026-08-25 | City Council | minutes
+- City Council Work Sessions Proceeding August 25, 2026- Approved
+- ballot measure regarding a tax increase
+- Motion to go into an Executive Session to discuss the following matter as provided
+- authorize a tax increase
+- Councilmember Olson moved to approve the motion. Councilmember DeBoutez
 - 6. City of Greeley Audit Presentation to the City Council: Plante Moran
+- Utility operations remained financially stable, with water, sewer, and
+- stormwater funds carrying a combined unrestricted net position of $109
+- $115 million in debt for the West Greeley development project
+- Mr. St. Andrew noted that the 2025 consolidation of the sales and use tax fund into
+- the general fund affected year-over-year comparisons, with taxes increasing and
+- fund balance representing 36% of the annual budget
+- no difficulties encountered, and no disagreements with management
+- requirement of three funds: the Federal Transit Cluster, the Drinking Water State
+- Revolving Fund, and the Outdoor Recreation Acquisition Development and Planning
+- Mayor Hall thanked staff and the consultant for the presentation
+- department with input from executive leadership, the budget office, and other city
+- individual council resolutions, and administrative directives. Three drivers for the
+- the Government Finance Officers Association (GFOA) identifies formal
+- financial policy frameworks as a best practice that supports sound bond ratings
+- budgeting and financial planning,
+- grants and donations, and
+- indirect cost recovery on grants
+- Debt: Bond maturities, Balloon repayment, Debt Service, Refinancing and
+- Grants and Donations: Grants exceeding $500,000 or requiring an unbudgeted
+- match come to Council for approval
+- Improvement Plan
+- annual review timed to the budget process
+- where greater administrative policy is under development
+- being performed. Staff confirmed it is presented as part of the annual budget and
+- negative rating from the bond rating agencies. Staff confirmed that Moody's and S&P
+- separate credit rating from general city debt, though Council approves both
+- conditions, a financial overview through mid-year 2026, and grant summary
+- short-term interest rates
+- cash and investments exceed budget
+- Oil and gas revenues are projected to beat the budget
+- sales tax growth lags behind
+- Food tax revenues dropped
+- Interest earnings reached $7 million with an additional $7 million projected
+- While building use and general taxes align with or surpass the budget,
+- sales tax, auto use, and food tax fall short,
+- New construction revenues surpass the 2026 budget, which is not benefiting
+- A cross-fund variance of about $11.7 million above the budget which included
 
-## [greeley#22] 2026-08-25 | City Council | agenda
-- are intended for discussion and an overview of key topics to inform future decision-making. While no
-- person) is not part of the work session format. Public comments are made during City Council
-- a tax increase
-- 6. City of Greeley Audit Presentation to the City Council: Plante Moran
-- regarding a tax increase
-- During the executive session, Council will be able to request and receive legal advice regarding a
-- proposed ballot measure which, if approved by the voters, would authorize a tax increase for economic
-- development purposes, specifically related to the West Greeley and Civic Campus projects
-- A motion to go into an Executive Session to discuss the following matter as provided under C.R.S
-- To receive legal advice related to a proposed ballot measure which would authorize a tax increase
-- Strategic Focus Area:
-- Downtown Development Authority 3rd Thu, 7:30 a.m. Roth
-- Parks & Recreation Board 1st Friday, 7 a.m. DeBoutez
-- Police Pension Board quarterly McDonald
-- Upstate Colorado Economic Development last Wed, 7 a.m. Hall
-- Water & Sewer Board 3rd Wed, 2 p.m. Hall
-- Weld Project Connect Committee (United Way) as needed Rotation
-- City of Greeley Audit Presentation to the City Council: Plante Moran
-- This presentation reviews the outcomes of both audits and discusses the current state of the City's audit
-- 1. Item - Presentation
-- Audit Presentation to the City Council
-- Water, Sewer, and Stormwater Funds have combined
-- infrastructure projects, equipment, land, etc
-- Greeley development
-- Licenses and Permits $5,362 $3,812 $3,101 $3,018
-- Taxes* $16,978 $21,562 $26,566 $104,315
-- increase in tax revenue and decrease in transfers in
-- Community and economic development $5,790 $6,775 $7,503 $9,022
-- No disagreements with management
-- o ALN 66.468 – Drinking Water State Revolving Fund
-- o ALN 15.916 – Outdoor Recreation Acquisition, Development, and
-- Colorado Revised Statutes, the City Charter and Municipal Code, and applicable City ordinances and
-- resolutions. It is intended to safeguard the City's fiscal stability and demonstrate to citizens, the credit
-- rating industry, municipal bond investors, auditors, and the State that the City is committed to sound
-- 2. Item - Presentation
-- Revised Statutes, the City Charter and the Greeley Municipal Code, and applicable City ordinances and
-- industry, municipal bond investors, auditors, and the State of Colorado that the City is committed to sound
-- CBAC – Citizen Budget Advisory Committee, the nine-member body established under the Greeley Municipal
-- Code to provide advisory input on the City's budget and financial planning process
-
-## [greeley#23] 2026-08-26 | Greeley-Weld Housing Authority Board  | agenda
+## [greeley#11] 2026-08-26 | Greeley-Weld Housing Authority Board  | agenda
 - Housing Authority of the City of Greeley
 - Weld County Housing Authority
 - Greeley Housing Authority – 903 6th St. Greeley, CO 80631
@@ -456,7 +266,7 @@
 - c. Weld County Housing Authority July 2026 Financials
 - a. Opening of Public Housing Waiting List:
 
-## [greeley#24] 2026-08-26 | Citizen Budget Advisory Committee | minutes
+## [greeley#12] 2026-08-26 | Citizen Budget Advisory Committee | minutes
 - CITIZEN BUDGET ADVISORY COMMITTEE
 - Nathan Mosley: Budget & Policy Director
 - Kalen Myers: Budget & Policy Deputy Director
@@ -486,80 +296,47 @@
 - project costs, and asset needs
 - An additional recommendation was developed after identifying approximately $3 million of available fund balance in
 
-## [greeley#25] 2026-09-01 | City Council | agenda
-- Residents are welcome to share comments or speak on agenda items that are not part of a public hearing
-- Public Hearings
+## [greeley#13] 2026-09-01 | City Council | minutes
+- City Council Proceedings September 1, 2026 - Approved
 - 4. Approval of the Agenda
-- Councilmembers may request an item be pulled off the Consent Agenda and considered
-- separately under the next agenda item in the order they were listed
-- 9. Motion to approve the City Council Meeting Proceedings of August 4, 2026 and City
-- considering a pre-annexation agreement with GlobalAI Colorado, LLC
-- purpose of holding a budget retreat
-- 12. Resolution authorizing the city to enter into a contract for professional services
-- between the City of Greeley and Infrastructure Strategies LLC for capital project
-- 13. Introduction and first reading of an ordinance amending Title 12, Chapter 6 of the
-- 15. Consideration of a Resolution Submitting to the Registered Electors of the City of
-- Increasing the City Sales and Use Tax for the period from January 1, 2027 through
-- December 31, 2067 to fund Capital Projects
-- 16. Introduction and first reading of an ordinance of the City Council of the City of
-- Campus with associated amenities and supporting public improvements, and in
-- agreement, a lease purchase agreement, and related documents and other documents
-- related thereto; and providing other matters related thereto (2026 Certificates of
-- 17. Public Hearing and resolutions for the Metropolitan District Service Plan and
-- Intergovernmental Agreement (IGA) approval for West Greeley Commons Metropolitan
-- 18. Motion authorizing the City Attorney to prepare any required resolutions, agreements,
-- and ordinances to reflect action taken by the City Council at this meeting and any
-- resolutions, agreements, and ordinances
+- 3. Ivonne Morales spoke about proposed budget reductions to Natural Areas and
+- missing child and the Greeley Police Department’s auditing practices
+- 5. Tiffany Simmons spoke in opposition to the proposed sales tax increase and
+- concerns regarding its rate, scope, and connection to prior Catalyst/Cascadia
+- 6. Rhonda Solis spoke in opposition to the tax measure and encouraged Council to
+- consider an alternative approach
+- protect the program in the budget
+- Catalyst project and tax proposals and called for greater financial
+- 10. Rachel Burdan spoke in opposition to revisiting the sales tax measure and
+- encouraged the City to use the general fund to pay down Certificates of
+- 12. Louise Wilson spoke in opposition to the proposed AI data center, citing
+- 13. Kenneth Howell spoke about proposed cuts to the Culture, Parks, and
+- Recreation Department and encouraged a thoughtful approach to budget
+- assessment and concerns that proposed budget cuts would further reduce
+- Flock cameras, the tax measure, and cuts to cultural and natural areas
+- 17. Steve Teets spoke about concerns related to data centers, including water and
+- electricity consumption, security, annexation costs, and moratoriums
+- involvement in the effort, and the selection of a site at a new fire station
+- 20. Mary Metzger spoke in opposition to the reintroduced tax proposal and
+- large projects
+- 21. Kurt Gulder spoke in opposition to the proposed AI data center and
+- encouraged a moratorium until additional regulations and zoning standards
+- 22. Mary Monahan spoke in opposition to the tax measure, the process
+- surrounding it, and the inclusion of projects such as the Civic Campus
+- 25. Kevin Freestone spoke in opposition to bid exceptions and oversight of Flock
+- camera contracts and asked Council to review the program before further
+- regarding license plate surveillance and actions taken by other jurisdictions
+- 31. Allison Dunning spoke about supporting a reasonable tax increase for
+- concerns regarding the resource demands of an AI data center
+- and suggested increasing the review period between ordinance readings
+- completing the project while two eyewitnesses were still living
+- 35. Andy spoke in opposition to the proposed AI data center annexation, sales tax
+- operating plans and encouraged additional scrutiny as part of the budget
+- Mayor Hall requested a recess from 8:35 p.m. to 8:45 p.m. The meeting resumed at
+- invited residents to meet for discussion. He spoke about debt obligations and aimed to
+- Nottingham Field. She reminded the public that Weld Project CONNECT would offer
 
-## [greeley#26] 2026-09-01 | City Council | agenda
-- que permite al Concejo Municipal manejar varios artículos rutinarios con una sola acción
-- se considere por separado en el siguiente artículo de la agenda, en el orden en que fueron
-- considerar un acuerdo de preanexión con GlobalAI Colorado, LLC
-- de Greeley e Infrastructure Strategies LLC para servicios de asesoría sobre la ejecución de proyectos
-- Consideración de una resolución que somete a los electores registrados de la ciudad de Greeley, en la
-- dispone otros asuntos relacionados con ello (Certificados de Participación 2026)
-- Audiencia pública y resoluciones para la aprobación del Plan de Servicios del Distrito Metropolitano
-
-## [greeley#27] 2026-09-01 | City Council | agenda
-- Residents are welcome to share comments or speak on agenda items that are not part of a public hearing
-- Public Hearings
-- 4. Approval of the Agenda
-- Councilmembers may request an item be pulled off the Consent Agenda and considered
-- separately under the next agenda item in the order they were listed
-- 9. Motion to approve the City Council Meeting Proceedings of August 4, 2026 and City
-- considering a pre-annexation agreement with GlobalAI Colorado, LLC
-- purpose of holding a budget retreat
-- 12. Resolution authorizing the city to enter into a contract for professional services
-- between the City of Greeley and Infrastructure Strategies LLC for capital project
-- 13. Introduction and first reading of an ordinance amending Title 12, Chapter 6 of the
-- 15. Consideration of a Resolution Submitting to the Registered Electors of the City of
-- Increasing the City Sales and Use Tax for the period from January 1, 2027 through
-- December 31, 2067 to fund Capital Projects
-- 16. Introduction and first reading of an ordinance of the City Council of the City of
-- Campus with associated amenities and supporting public improvements, and in
-- agreement, a lease purchase agreement, and related documents and other documents
-- related thereto; and providing other matters related thereto (2026 Certificates of
-- 17. Public Hearing and resolutions for the Metropolitan District Service Plan and
-- Intergovernmental Agreement (IGA) approval for West Greeley Commons Metropolitan
-- 18. Motion authorizing the City Attorney to prepare any required resolutions, agreements,
-- and ordinances to reflect action taken by the City Council at this meeting and any
-- resolutions, agreements, and ordinances
-- Item 5 - Presentation
-- investment in training, planning, public alerting, partnerships, and continuous improvement; and
-- Coloradans losing their lives to suicide in 2025, exceeding the national rate, and 70 Weld County lives
-- Water Resiliency Project
-- $8.6 million in federal funds will support the Gold Hill Pipeline project
-- The project connects two water treatment plants supplied by five river basins
-- The project provides reliable access to treated water during emergencies
-- Prestigious Certification
-- designation of Fire Marshal
-- hearing. Each speaker will have up to 3 minutes. Council will listen closely to comments
-- Plan Your Trips
-- You can ask or pay for rides from other people. What does it feel like to rely on others?
-- doctor's appointments, or even visit family
-- e In 2023, U. S. households paid on average: SER 174 for transportation, making it Fr the second largest household expense after housing,
-
-## [greeley#28] 2026-09-02 | Commission on Disabilities | agenda
+## [greeley#14] 2026-09-02 | Commission on Disabilities | agenda
 - 2. Public Comment:
 - ii. Handicap parking on private property
 - to set the agenda, keeps discussions focused, and ensures decisions are made in
@@ -568,7 +345,7 @@
 - e. To speak on behalf of citizens with disabilities and, as requested by the city, to
 - g. To cooperate with citizens, community, business, professional, educational, and
 
-## [greeley#29] 2026-09-03 | Water & Sewer Board | minutes
+## [greeley#15] 2026-09-03 | Water & Sewer Board | minutes
 - Is this a standard contract as defined by City Code Section 2-184(a)(2) ?  Yes  No  N/A
 - If this is not a standard contract, and has not been reviewed by CAO, this document may not be routed for signatures
 - If this is not a standard contract, which attorney reviewed the document?
@@ -602,10 +379,10 @@
 - or payment of cash -in-lieu, interim outside city water service volumetric rates at the hydrant
 - bulk water rate, and other key terms and conditions precedent for service have been defined in
 
-## [greeley#30] 2026-09-07 | Historic Preservation Commission | agenda
+## [greeley#16] 2026-09-07 | Historic Preservation Commission | agenda
 - Written comments can be mailed or dropped off at the Planning office at 1100 10 th Street,
 
-## [greeley#31] 2026-09-08 | Planning Commission | agenda
+## [greeley#17] 2026-09-08 | Planning Commission | agenda
 - Written comments can be mailed or dropped off at the Planning office at 1100 10 th Street,
 - 3. Approval of the Agenda
 - 4. Approval of the July 14, 2026, and July 28, 2026, Planning Commission Meeting Minutes
@@ -615,12 +392,12 @@
 - 6. A public meeting to consider a request for a preliminary subdivision to create 4 lots, with dedication
 - Intensity (C-H) Zoning District and Downtown Overlay. Otherwise known as the Civic Campus
 
-## [greeley#32] 2026-09-08 | City Council | agenda
+## [greeley#18] 2026-09-08 | City Council | agenda
 - 4. Resolution approving a Pre-Annexation Agreement between the City of Greeley and GlobalAI (Colorado)
 - 5. Motion authorizing the City Attorney to prepare any required resolutions, agreements, and ordinances to
 - Mayor and City Clerk to sign all such resolutions, agreements, and ordinances
 
-## [greeley#33] 2026-09-08 | City Council | agenda
+## [greeley#19] 2026-09-08 | City Council | agenda
 - 4. Resolution approving a Pre-Annexation Agreement between the City of Greeley and GlobalAI (Colorado)
 - 5. Motion authorizing the City Attorney to prepare any required resolutions, agreements, and ordinances to
 - Mayor and City Clerk to sign all such resolutions, agreements, and ordinances
@@ -651,7 +428,7 @@
 - 1970s. The present contractual arrangement is the February 29, 2024 Second Amendment to Water
 - Agreement between Carestream Health, Inc. and the City. That amendment provides limited-term
 
-## [greeley#34] 2026-09-08 | Planning Commission | agenda
+## [greeley#20] 2026-09-08 | Planning Commission | agenda
 - Written comments can be mailed or dropped off at the Planning office at 1100 10 th Street,
 - 3. Approval of the Agenda
 - 4. Approval of the July 14, 2026, and July 28, 2026, Planning Commission Meeting Minutes
@@ -684,13 +461,13 @@
 - easement holder for any proposed uses, and that the master plan focused on public recreation and
 - was in place, with the overall long-term vision for the site already established. Development was
 
-## [greeley#35] 2026-09-08 | City Council | agenda
+## [greeley#21] 2026-09-08 | City Council | agenda
 - are intended for discussion and an overview of key topics to inform future decision-making. While no
 - person) is not part of the work session format. Public comments are made during City Council
 - 5. Automated License Plate Recognition (ALPR) and Drones
 - 7. Capital Improvement Program Update
 
-## [greeley#36] 2026-09-08 | City Council | agenda
+## [greeley#22] 2026-09-08 | City Council | agenda
 - are intended for discussion and an overview of key topics to inform future decision-making. While no
 - person) is not part of the work session format. Public comments are made during City Council
 - 5. Automated License Plate Recognition (ALPR) and Drones
@@ -740,14 +517,14 @@
 - ELSAG ALPR cameras, which are part of a separate network owned by individual agencies but
 - managed by the Colorado State Patrol. As of March 2026, Greeley operated two stationary and
 
-## [greeley#38] 2026-09-09 | Greeley Urban Renewal Authority | agenda
+## [greeley#24] 2026-09-09 | Greeley Urban Renewal Authority | agenda
 - 3. Approval of Meeting Minutes: July 8th, 2026 and August 11th, 2026
 - 4. New Business: Mobility Hub Presentation – Presented by Hanna Feldmann, Senior
 - 6. Budget / TIF Balance Update
 - 8. Western Sugar Multimodal Connectivity Project
 - efficient operational practices and long-term strategic planning that honors the city’s
 
-## [greeley#39] 2026-09-10 | E-470 Public Highway Authority | agenda
+## [greeley#25] 2026-09-10 | E-470 Public Highway Authority | agenda
 - Town of Parker, State of Colorado, has determined to conduct a regular meeting on Thursday,
 - September 10, 2026 at 9:00 A.M., at Heritage Eagle Bend Golf Club, 23155 E. Heritage Parkway,
 - 3. Public Comment............................................................................... Chair Francoise Bergan
@@ -761,23 +538,56 @@
 - a. Annual Toll Rate Review
 - projects, contracts, and debt
 
-## [greeley#40] 2026-09-10 | Island Grove Park Advisory Board | agenda
+## [greeley#26] 2026-09-10 | Island Grove Park Advisory Board | agenda
 - Approval of Minutes for the June Meeting
 - 2. Master Plan Update
 
-## [greeley#41] 2026-09-10 | Golf Course Advisory Board | agenda
-- 3. Approval of Minutes: July 9th, 2026
-- 4. Agenda Approval
-- a. Fee Research Committee Results
+## [greeley#27] 2026-09-10 | Golf Course Advisory Board | minutes
+- Approval of Minutes
+- e Pat asked for motion to approve the July 9"" Meeting Minutes, Patrick motioned
+- Approval of the agenda
+- e Research Fees: Mike provided a sheet with fee research findings which will be
+- discussed the difficulty of obtaining direct comparisons because many courses use
+- based on the available information, Greeley’s rates appear to be in line with, if not
+- o Mike noted that four comparable courses charge an additional fee for a
+- single-rider cart. Chris stated that staff had considered this approach, but it
+- o Kim requested clarification regarding green fees and cart fees. Chris
+- can plan for anticipated increases
+- o Mike noted that the previous Board reduced the number of fee options
+- Mike confirmed that rates are generally the same as or lower than
+- o Mike noted that Longmont, Loveland, and Brighton charge different rates
+- o Mike made a motion to increase nine-hole rates by $3 and 18-hole rates by
+- Patrick asked about the process for increasing cart fees. Chris stated that he would
+- o Chris also discussed expanding the prime-time pricing window but
+- because the stitching can retain water after washing and may reduce the
+- where golfers drive carts off the course or toward vehicles parked along
+- o The system can also provide pace-of-play notifications. Chris explained
+- o Chris reported that golf carts generate approximately $800,000 annually
+- in a corner of the cart. Chris clarified that the system being considered
+- rounds numbers are so much higher. He stated that the water restrictions next
+- year will be rough if we don’t see more water
+- e Boomerang maintenance updates: irrigation at pond project continues, the
+- contractor says end of October. The pumphouse project is Water and Sewer
+- project, and Chris does not have an end date for that, in the meantime they can
+- use the south pond to water
+- e With water, Boomerang has the #3 ditch till October. GLIC for Highland is
+- only source of water until that runs till sept but it is out as of August 31st
+- Highland will be on potable water for the rest of the season and normally are
+- use funds in their league accounts to purchase punch cards
+- purchases in the golf shop, which helps generate shop revenue
+- o Chris then explained that leagues are not required to collect fees and
+- soon as possible and reiterated that his door is always open
+- He stated that irrigation improvements at Highland Hills rank high on the
+- least one month for turf establishment before cold weather. The project
 
-## [greeley#42] 2026-09-11 | City Council | agenda
+## [greeley#28] 2026-09-11 | City Council | agenda
 - Special Work Session – Budget Retreat
 - for discussion and an overview of key topics to inform future decision-making. While no formal action
 - of the work session format. Public comments are made during City Council meetings
 - Special Work Session - Budget Retreat Agenda
 - 4. 2027 Budget Retreat
 
-## [greeley#43] 2026-09-11 | City Council | agenda
+## [greeley#29] 2026-09-11 | City Council | agenda
 - Special Work Session – Budget Retreat
 - for discussion and an overview of key topics to inform future decision-making. While no formal action
 - of the work session format. Public comments are made during City Council meetings
@@ -817,7 +627,7 @@
 - work while recognizing its responsibility to evaluate impacts and consider adjustments as
 - Trust the process and the work of staff that developed the proposed budget
 
-## [greeley#44] 2026-09-11 | Liquor Licensing Authority | agenda
+## [greeley#30] 2026-09-11 | Liquor Licensing Authority | agenda
 - Continued from July 17th Hearing
 - dba Greeley Liquor Warehouse
 - Continued to October 9, 2026 Hearing
@@ -833,7 +643,7 @@
 - All requests are considered on a case-by-case basis and we will do our best to reply to all
 - burden may not be fulfilled as requested
 
-## [greeley#45] 2026-09-11 | Parks & Recreation Advisory Board | minutes
+## [greeley#31] 2026-09-11 | Parks & Recreation Advisory Board | minutes
 - GREELEY PARKS AND RECREATION ADVISORY BOARD
 - The Greeley Parks and Recreation Advisory Board met Friday, September 11th, 2026, at 7:00am at the
 - Staff joining: Diana Frick (Director of Culture Parks and Recreation), Daniel Lawrence (Deputy Director
@@ -865,18 +675,18 @@
 - A presentation celebrating the quarterly achievements of all CPRD staff (including Island Grove, Golf,
 - Positive feedback was received from Johnny Lee regarding the Michael Lee Nine golf course. He
 
-## [greeley#46] 2026-09-14 | Human Relations Commission | agenda
+## [greeley#32] 2026-09-14 | Human Relations Commission | agenda
 - Approval of August 10, 2026, Minutes
 - New Resident Welcome Kit Project
 - culture of our native and indigenous peoples, and as a community, we celebrate the legacy of the Elders
 
-## [greeley#47] 2026-09-14 | General | agenda
+## [greeley#33] 2026-09-14 | General | agenda
 - 920 A Street
 - 2. CONSIDER APPROVAL OF MINUTES
 - a. August minutes approval
 - 2) Duration was discussed but not decided
 
-## [greeley#48] 2026-09-15 | City Council | agenda
+## [greeley#34] 2026-09-15 | City Council | agenda
 - Residents are welcome to share comments or speak on agenda items that are not part of a public hearing
 - Public Hearings
 - 4. Approval of the Agenda
@@ -908,13 +718,13 @@
 - ordinances to reflect action taken by the City Council at this meeting and any previous meetings, and
 - authorizing the Mayor and City Clerk to sign all such resolutions, agreements, and ordinances
 
-## [greeley#49] 2026-09-15 | City Council | agenda
+## [greeley#35] 2026-09-15 | City Council | agenda
 - permite al Concejo Municipal manejar varios asuntos de rutina con una sola acción
 - considere por separado en el siguiente asunto de la agenda, en el orden en que fueron enumerados
 - aproximadamente delimitado por 10th Avenue, 11th Avenue, 9th Street y 10th Street (SUB2026-0011)
 - (Certificados de Participación 2026)
 
-## [greeley#50] 2026-09-15 | City Council | agenda
+## [greeley#36] 2026-09-15 | City Council | agenda
 - Residents are welcome to share comments or speak on agenda items that are not part of a public hearing
 - Public Hearings
 - 4. Approval of the Agenda
@@ -949,7 +759,7 @@
 - 16th Street Enhancement Project
 - Receives Multiple Awards
 
-## [greeley#51] 2026-09-15 | Greeley Art Commission | minutes
+## [greeley#37] 2026-09-15 | Greeley Art Commission | minutes
 - 2. Approval of the September 2026 minutes
 - 4. Presentation of MERGE project by CDOT and Public Works
 - The commission reviewed a presentation on a major highway project
@@ -966,7 +776,7 @@
 - ▫ Budgeted for two art trees next year, possibly a third
 - ▫ Three locations identified on 8th Ave
 
-## [greeley#52] 2026-09-16 | Water & Sewer Board | minutes
+## [greeley#38] 2026-09-16 | Water & Sewer Board | minutes
 - Water and Sewer Board Board Minutes
 - Chairman Harold Evans called the Water and Sewer Board meeting to order at 2:01 p.m. on Wednesday
 - Water and Sewer Department Staff:
@@ -1001,7 +811,7 @@
 - Term Master Plan (SLTMP) project for the Wastewater Treatment and Reclamation Facility
 - Review and update projections for population growth, flow, and solids loading
 
-## [greeley#53] 2026-09-16 | General | minutes
+## [greeley#39] 2026-09-16 | General | minutes
 - 3. Presentation by City of Greeley Budget department
 - Presentation given by Nathan Mosley, Director of Budget and Policy, City of Greeley
 - o Part of the 2026 “budget roadshows” to increase transparency about budget
@@ -1042,7 +852,7 @@
 - o New bylaws will be drafted based on the revised code and approved by
 - o Outcome: The Chair tabled the bylaw discussion until the next meeting
 
-## [greeley#54] 2026-09-17 | General | minutes
+## [greeley#40] 2026-09-17 | General | minutes
 - 2. Approval of the September 2026 agenda
 - Under Old Business: "Resolution passed last month"
 - George requested adding "Dearfield Day" under New Business
@@ -1081,13 +891,13 @@
 - Approval of the Triennial Report:
 - ▫ The Triennial Review Report was presented for approval. A minor typo had been corrected
 
-## [greeley#55] 2026-09-18 | Youth Commission | agenda
+## [greeley#41] 2026-09-18 | Youth Commission | agenda
 - 920 A Street
 - 2. CONSIDER APPROVAL OF MINUTES
 - a. August minutes approval
 - 2) Duration was discussed but not decided
 
-## [greeley#56] 2026-09-21 | Historic Preservation Commission | agenda
+## [greeley#42] 2026-09-21 | Historic Preservation Commission | agenda
 - Written comments can be mailed or dropped off at the Planning office at 1100 10 th Street,
 - 3. Approval of the Agenda
 - 4. Approval of the July 27, 2026 and August 17, 2026 Minutes
@@ -1101,7 +911,7 @@
 - 6. Chair closes public hearing
 - 8. Commission discussion and vote
 
-## [greeley#57] 2026-09-21 | Historic Preservation Commission | agenda
+## [greeley#43] 2026-09-21 | Historic Preservation Commission | agenda
 - Written comments can be mailed or dropped off at the Planning office at 1100 10 th Street,
 - 3. Approval of the Agenda
 - 4. Approval of the July 27, 2026 and August 17, 2026 Minutes
@@ -1139,7 +949,7 @@
 - discussed but decided against proactively releasing the letter to local media, noting that the letter
 - Mrs. Kellums also noted that the Museum Advisory Board had passed its own resolution at its
 
-## [greeley#58] 2026-09-22 | Planning Commission | agenda
+## [greeley#44] 2026-09-22 | Planning Commission | agenda
 - Written comments can be mailed or dropped off at the Planning office at 1100 10 th Street,
 - 3. Approval of the Agenda
 - 4. Approval of the September 8, 2026, Planning Commission Meeting Minutes
@@ -1148,7 +958,7 @@
 - land within the R-H (Residential High Density) zoning district located at 1900 71st Avenue, known
 - as Cedarwoods Retail Center, 2nd Replat (SUB2025-0025)
 
-## [greeley#59] 2026-09-22 | Planning Commission | agenda
+## [greeley#45] 2026-09-22 | Planning Commission | agenda
 - ritten comments can be mailed or dropped off at the Planning office at 1100 10 th Street,
 - therefore staff summary presentations will be suspended unless requested by the Commission or
 - public hearing to consider a request for approval of a combined preliminary and final subdivision
@@ -1179,14 +989,14 @@
 - new City Hall. Development of the Juror Block West will proceed concurrently, beginning with the
 - and the Justice Center. Future phases include a multifamily project, demolition of the Centennial
 
-## [greeley#60] 2026-09-22 | City Council | agenda
+## [greeley#46] 2026-09-22 | City Council | agenda
 - are intended for discussion and an overview of key topics to inform future decision-making. While no
 - person) is not part of the work session format. Public comments are made during City Council
 - 5. Transportation Projects Council Update
 - 6. Motion to go into Executive Session to receive legal advice regarding the Great Western Industrial Park
 - Annexations 1-15 and the Motion for Reconsideration received from the Town of Windsor
 
-## [greeley#61] 2026-09-22 | City Council | agenda
+## [greeley#47] 2026-09-22 | City Council | agenda
 - are intended for discussion and an overview of key topics to inform future decision-making. While no
 - person) is not part of the work session format. Public comments are made during City Council
 - 5. Transportation Projects Council Update
@@ -1233,55 +1043,44 @@
 - Intro & 1st Rdg Ord - Fire Collective Bargaining Kimberly Southern Consent
 - PH & 2nd Rdg Ord - Judicial Center Alley ROW Vacation Doug May/Don Threewitt Regular
 
-## [greeley#62] 2026-09-22 | City Council | agenda
+## [greeley#48] 2026-09-22 | City Council | agenda
 - 1 a 15 del Great Western Industrial Park y a la moción de reconsideración recibida del municipio de
 
-## [greeley#63] 2026-09-23 | Citizen Budget Advisory Committee | agenda
-- Citizen Budget Advisory Committee
-- APPROVE MINUTES FROM AUGUST 26TH, 2026
-- DISCUSSION ITEMS
-- o Food Tax Update
-- o CBAC 2027 Budget Statement
-
-## [greeley#64] 2026-09-23 | Citizen Budget Advisory Committee | agenda
-- Citizen Budget Advisory Committee
-- APPROVE MINUTES FROM AUGUST 26TH, 2026
-- DISCUSSION ITEMS
-- o Food Tax Update
-- o CBAC 2027 Budget Statement
-- Nathan Mosley: Budget & Policy Director
+## [greeley#49] 2026-09-23 | Citizen Budget Advisory Committee | minutes
+- CITIZEN BUDGET ADVISORY COMMITTEE
 - Kalen Myers: Budget & Policy Deputy Director
-- Improvement Plan budget preview was moved to the beginning of the agenda
-- APPROVE MINUTES FROM JULY 22ND, 2026
-- The minutes from the July 22, 2026 meeting were unanimously approved with a motion by Laura Gurney and a second
-- RECOMMENDED 2027 CIP BUDGET PREVIEW
-- The proposed 2027 Capital Improvement Plan (CIP) was presented as a high- level overview of a plan previously
-- reviewed by City Council, with subsequent updates. Capital requests are submitted by departments in the spring,
-- considers community impact, quality of life, public health, master-plan alignment, asset condition, operating impacts,
-- and other factors, with a maximum score of 40. Scores guide discussion rather than automatically rank projects;
-- determine whether a project proceeds. The plan was in final review before incorporation into the recommended budget
-- revenues, grants, and the Keep Greeley Moving tax. Accordingly, the most consequential prioritization occurs within
-- a comparatively limited pool of flexible capital resources, principally food tax and quality-of-life funding. That capacity
-- revitalization and Civic Campus financing, and the MERGE transportation project. Although outside funding, federal
-- grants, and anticipated TIFIA financing support MERGE, a substantial local contribution remains necessary. The
-- The recommended CIP totals approximately $204 million across roughly 150 projects and 24 funds. More than half of
-- the investment is in water, sewer, and stormwater projects, with another substantial portion in transportation; these
-- The program continues to fund investments across City services, including downtown stormwater and utility work,
-- MERGE, playground replacement, Recreation Center pool work, parks and recreation, economic development, City
-- facility maintenance, the Greeley-Weld Airport, and the first West Greeley debt payment. The Airport project includes
-- a $7 million food-tax investment in 2027
-- To balance the five- year capital plan, the recommendation includes a temporary 25 percent reduction in annual
-- operational risks, but some HVAC replacements, facility improvements, irrigation systems, and similar projects will be
-- projects are unnecessary. Departments will continue to monitor asset condition and operational risk, while the CIP will
-- be updated annually to reflect changes in construction inflation, inter est rates, revenue performance, grant timing,
+- Vanessa Costanza: Budget Analyst II
+- APPROVE MINUTES FROM AUGUST 26th, 2026
+- The minutes from the August 26th, 2026 meeting were unanimously approved. The committee confirmed that quorum
+- was present and considered approval of the previous meeting minutes. It was moved and seconded to approve the
+- the 2025 pavement and concrete work and the proposed 2026 work plan. The 2025 contracts were completed at an
+- estimated final cost of approximately $16.74 million, which was approximately 5.8% below the combined contract
+- emphasized that the savings reflected efficient project delivery and did not represent a reduction in the planned
+- The 2025 pavement program used approximately 35,000 tons of asphalt and treated roughly 51 miles of roadway
+- installations. Roch explained that each road receives a treatment appropriate to its individual condition and role in
+- the transportation system. Selection decisions consider roadway condition, type and classification of the roadway,
+- traffic volumes and level-of-service needs, visible distress such as cracking, the projected consequences of deferred
+- maintenance, lifecycle costs, available funding, and opportunities to coordinate work with other City projects. The
+- intent is to preserve streets before deficiencies become more extensive and substantially more expensive to repair
+- For 2026, approximately $10.7 million is planned for roadway work covering an estimated 25.9 miles. The plan
+- treatment type has a different cost, purpose, and expected service life. Four bids had been received for the
+- upcoming contract, and award of the contract was still pending
+- The overall Keep Greeley Moving budget was approximately $23 million. Approximately $10.7 million was planned
+- for annual roadway work, while approximately $12.8 million was available for other high-priority infrastructure needs
+- These investments include Centerplace improvements, downtown revitalization work, road-surface treatments,
+- sidewalk projects, and missing sidewalk connections. One identified sidewalk project is planned along 4th Street
+- and 23rd Avenue between A Street and 6th Street. The program is intended to balance preventive preservation,
+- reconstruction, pedestrian improvements, and Council-established infrastructure priorities
+- funded through a 0.65% sales tax on eligible purchases, excluding food purchases, for roadway and infrastructure
+- replacement and repair. The tax is scheduled to sunset at the end of 2029, and the City anticipates seeking voter
 
-## [greeley#65] 2026-09-28 | Youth Commission | agenda
+## [greeley#50] 2026-09-28 | Youth Commission | agenda
 - 920 A Street
 - 2. CONSIDER APPROVAL OF MINUTES
 - a. August minutes approval
 - 2) Duration was discussed but not decided
 
-## [greeley#66] 2026-09-28 | Citizen Transportation Advisory Committee | minutes
+## [greeley#51] 2026-09-28 | Citizen Transportation Advisory Committee | minutes
 - items and public comment. A quorum was established after an additional member arrived
 - e Board/Commission members identified as present — Tom Donkle, James Bailey, and
 - (Excused) were identified as unavailable. Ally Johnson was absent
@@ -1304,7 +1103,7 @@
 - project direction
 - completed 2025 work against an approximately $17 million contract value. Work included approximately 35,000 tons of asphalt, 51 lane miles of asphalt improvements,
 
-## [greeley#67] 2026-09-30 | Civil Service Commission | minutes
+## [greeley#52] 2026-09-30 | Civil Service Commission | minutes
 - Sergeant Wes Doney from the Police Department was in attendance
 - 3. Approval of the Agenda
 - It was motioned, seconded, and voted to approve the agenda
@@ -1320,7 +1119,7 @@
 - It was motioned, seconded, and voted to approve the disqualification of the
 - Minutes approved
 
-## [greeley#68] 2026-10-02 | Parks & Recreation Advisory Board | minutes
+## [greeley#53] 2026-10-02 | Parks & Recreation Advisory Board | minutes
 - GREELEY PARKS AND RECREATION ADVISORY BOARD
 - The Greeley Parks and Recreation Advisory Board met Friday, October 2nd, 2026, at 7:00am at the
 - Staff joining: Diana Frick (Director of Culture Parks and Recreation), Daniel Lawrence (Deputy Director
@@ -1358,7 +1157,7 @@
 - o Department reductions: Target 3.7%; achieved 2.7% overall reduction. Culture, Parks &
 - parks/open spaces/trails service levels, museums hours)
 
-## [greeley#69] 2026-10-05 | Historic Preservation Commission | agenda
+## [greeley#54] 2026-10-05 | Historic Preservation Commission | agenda
 - Written comments can be mailed or dropped off at the Planning office at 1100 10 th Street,
 - Historic Preservation Public Hearing Procedure
 - Public Hearing to…
@@ -1368,7 +1167,7 @@
 - 6. Chair closes public hearing
 - 8. Commission discussion and vote
 
-## [greeley#70] 2026-10-06 | City Council | agenda
+## [greeley#55] 2026-10-06 | City Council | agenda
 - Residents are welcome to share comments or speak on agenda items that are not part of a public hearing
 - Public Hearings
 - 4. Approval of the Agenda
@@ -1392,12 +1191,12 @@
 - ordinances to reflect action taken by the City Council at this meeting and any previous meetings, and
 - authorizing the Mayor and City Clerk to sign all such resolutions, agreements, and ordinances
 
-## [greeley#71] 2026-10-06 | Judicial Review Board | agenda
+## [greeley#56] 2026-10-06 | Judicial Review Board | agenda
 - 3. Agenda Approval
 - a. Bylaw discussion
 - 6. Approval of Minutes: 7-23-2026 Mins
 
-## [greeley#72] 2026-10-06 | Commission on Disabilities | agenda
+## [greeley#57] 2026-10-06 | Commission on Disabilities | agenda
 - 2. Public Comment:
 - 3. Approval of Minutes of September 2, 2026 meeting
 - d. Traffic Concerns and Accessibility Issues Discussion
@@ -1407,14 +1206,14 @@
 - e. To speak on behalf of citizens with disabilities and, as requested by the city, to
 - g. To cooperate with citizens, community, business, professional, educational, and
 
-## [greeley#73] 2026-10-06 | City Council | agenda
+## [greeley#58] 2026-10-06 | City Council | agenda
 - La agenda de consentimiento es una herramienta de administración de reuniones que permite al
 - se considere por separado en el siguiente artículo de la agenda, en el orden en que fueron enumerados
 - Ley de Agua Limpia (Clean Water Act)
 - 14. Presentación y primera lectura de una ordenanza que ratifica y adopta la primera enmienda al
 - Colorado, delimitado aproximadamente por 10th Avenue, 11th Avenue, 9th Street y 10th Street
 
-## [greeley#74] 2026-10-06 | City Council | agenda
+## [greeley#59] 2026-10-06 | City Council | agenda
 - Residents are welcome to share comments or speak on agenda items that are not part of a public hearing
 - Public Hearings
 - 4. Approval of the Agenda
@@ -1447,7 +1246,7 @@
 - level of the home can significantly reduce the risk of dying in a home fire; and
 - WHEREAS, the National Fire Protection Association has designated October 4–10, 2026, as Fire Prevention
 
-## [greeley#75] 2026-10-07 | Stormwater Board | agenda
+## [greeley#60] 2026-10-07 | Stormwater Board | agenda
 - Stormwater Board Meeting Agenda
 - Key Staff Contact : Karen Reynolds, Stormwater Manager
 - 4. Review and Approve Minutes of the August 5, 2026, meeting of the Stormwater Board
@@ -1457,7 +1256,7 @@
 - 8. Stormwater Timeline Update
 - a. Update on Stormwater reporting structure and timeline for return of Stormwater to Public
 
-## [greeley#76] 2026-10-08 | Housing for All Advisory Board | agenda
+## [greeley#61] 2026-10-08 | Housing for All Advisory Board | agenda
 - Housing for All Advisory Board Agenda
 - 3. Approval of Minutes
 - i. Annual Action Plan
@@ -1465,11 +1264,11 @@
 - a. Review of 2027 Annual Calendar and Approval of dates/times
 - requests for future board discussion items
 
-## [greeley#77] 2026-10-08 | Housing for All Advisory Board | agenda
+## [greeley#62] 2026-10-08 | Housing for All Advisory Board | agenda
 - Housing for All Advisory Board Agenda
 - i. Plan de Acción Anual
 
-## [greeley#78] 2026-10-08 | Housing for All Advisory Board | agenda
+## [greeley#63] 2026-10-08 | Housing for All Advisory Board | agenda
 - Housing for All Advisory Board Agenda
 - 3. Approval of Minutes
 - i. Annual Action Plan
@@ -1509,7 +1308,7 @@
 - Housing Solutions staff should evaluate:
 - eligibility, regulatory requirements, organizational capacity, ﬁnancial capacity, project readiness, compliance
 
-## [greeley#79] 2026-10-09 | Liquor Licensing Authority | agenda
+## [greeley#64] 2026-10-09 | Liquor Licensing Authority | agenda
 - Liquor License Authority Hearing
 - Liquor License Authority Hearings are fully remote. This means no physical
 - location, including the Administrative Hearing Room at City Center South, will be
@@ -1542,11 +1341,11 @@
 - All requests are considered on a case-by-case basis and we will do our best to reply to all
 - burden may not be fulfilled as requested
 
-## [greeley#80] 2026-10-12 | Human Relations Commission | agenda
+## [greeley#65] 2026-10-12 | Human Relations Commission | agenda
 - Approval of September 12 , 2026 Minutes
 - culture of our native and indigenous peoples, and as a community, we celebrate the legacy of the Elders
 
-## [greeley#81] 2026-10-13 | Planning Commission | agenda
+## [greeley#66] 2026-10-13 | Planning Commission | agenda
 - Written comments can be mailed or dropped off at the Planning office at 1100 10 th Street,
 - 3. Approval of the Agenda
 - 4. Approval of the September 8, 2026, Planning Commission Meeting Minutes
@@ -1555,7 +1354,7 @@
 - land within the R-H (Residential High Density) zoning district located at 1900 71st Avenue, known
 - as Cedarwoods Retail Center, 2nd Replat (SUB2025-0025)
 
-## [greeley#82] 2026-10-13 | Planning Commission | agenda
+## [greeley#67] 2026-10-13 | Planning Commission | agenda
 - Written comments can be mailed or dropped off at the Planning office at 1100 10 th Street,
 - 3. Approval of the Agenda
 - 4. Approval of the September 8, 2026, Planning Commission Meeting Minutes
@@ -1587,13 +1386,13 @@
 - with the opening of a temporary juror parking lot to replace parking displaced by construction of the
 - new City Hall. Development of the Juror Block West will proceed concurrently, beginning with the
 
-## [greeley#83] 2026-10-13 | City Council | agenda
+## [greeley#68] 2026-10-13 | City Council | agenda
 - are intended for discussion and an overview of key topics to inform future decision-making. While no
 - person) is not part of the work session format. Public comments are made during City Council
 - 5. City Manager Fiscal Year 2027 Recommended Budget
 - development opportunity
 
-## [greeley#84] 2026-10-13 | City Council | agenda
+## [greeley#69] 2026-10-13 | City Council | agenda
 - are intended for discussion and an overview of key topics to inform future decision-making. While no
 - person) is not part of the work session format. Public comments are made during City Council
 - 5. City Manager Fiscal Year 2027 Recommended Budget
@@ -1637,13 +1436,13 @@
 - Council Strategic Planning
 - Department Target Development
 
-## [greeley#86] 2026-10-14 | Greeley Urban Renewal Authority | agenda
+## [greeley#71] 2026-10-14 | Greeley Urban Renewal Authority | agenda
 - 3. Approval of Meeting Minutes: September 9th, 2026
 - 2027 GURA Budget Presentation by Brandon McEldowney (Informational)
 - Connections Project Update (Informational)
 - efficient operational practices and long-term strategic planning that honors the city’s
 
-## [greeley#87] 2026-10-15 | Museum Board | agenda
+## [greeley#72] 2026-10-15 | Museum Board | agenda
 - You can provide public input/public comment for this meeting by emailing your comments to Megan
 - 1. Approval of the October 2026 Agenda
 - 2. Approval of the September 2026 Museum Advisory Board minutes
@@ -1686,7 +1485,7 @@
 - Approval of the Triennial Report:
 - ▫ The Triennial Review Report was presented for approval. A minor typo had
 
-## [greeley#88] 2026-10-19 | Historic Preservation Commission | agenda
+## [greeley#73] 2026-10-19 | Historic Preservation Commission | agenda
 - Written comments can be mailed or dropped off at the Planning office at 1100 10 th Street,
 - Historic Preservation Public Hearing Procedure
 - Public Hearing to…
@@ -1696,7 +1495,7 @@
 - 6. Chair closes public hearing
 - 8. Commission discussion and vote
 
-## [greeley#89] 2026-10-20 | City Council | agenda
+## [greeley#74] 2026-10-20 | City Council | agenda
 - Residents are welcome to share comments or speak on agenda items that are not part of a public hearing
 - Public Hearings
 - 4. Approval of the Agenda
@@ -1727,13 +1526,13 @@
 - non-potable water infrastructure in Greeley, Colorado (Lake Bluff Non-Potable Pond and Pump
 - 21. Appointments to Boards and Commissions - Greeley Art Commission and Housing for All Advisory
 
-## [greeley#90] 2026-10-20 | City Council | agenda
+## [greeley#75] 2026-10-20 | City Council | agenda
 - que permite al Concejo Municipal manejar varios asuntos de rutina con una sola acción
 - se considere por separado en el siguiente asunto de la agenda, en el orden en que fueron enumerados
 - 14. Introducción y primera lectura de una ordenanza para adoptar el plan de remuneración de los empleados
 - 18. Audiencia pública y segunda lectura de una ordenanza para ratificar y adoptar la primera enmienda al
 
-## [greeley#91] 2026-10-20 | City Council | agenda
+## [greeley#76] 2026-10-20 | City Council | agenda
 - Residents are welcome to share comments or speak on agenda items that are not part of a public hearing
 - Public Hearings
 - 4. Approval of the Agenda
@@ -1764,7 +1563,7 @@
 - non-potable water infrastructure in Greeley, Colorado (Lake Bluff Non-Potable Pond and Pump
 - 21. Appointments to Boards and Commissions - Greeley Art Commission and Housing for All Advisory
 
-## [greeley#92] 2026-10-20 | Greeley Art Commission | agenda
+## [greeley#77] 2026-10-20 | Greeley Art Commission | agenda
 - Public comments and input for this meeting can be emailed to:
 - 3. Approval of latest minutes on Tuesday, September 15, 2026
 - 5.Rodarte Basketball Court Mural at Hoshiko Parkby Felisha Bustos
@@ -1793,7 +1592,7 @@
 - ▫ Budgeted for two art trees next year, possibly a third
 - ▫ Three locations identified on 8th Ave
 
-## [greeley#93] 2026-10-21 | Water & Sewer Board | agenda
+## [greeley#78] 2026-10-21 | Water & Sewer Board | agenda
 - Water and Sewer Board
 - Regular meetings of the Water and Sewer Board are held in person on
 - Water and Sewer office located at 1001 11th Avenue, 2nd Floor,
@@ -1806,7 +1605,7 @@
 - aid or other assistance related to a disability, please contact the Water and
 - Sewer Department administrative staff at 970-350-9801 or
 
-## [greeley#94] 2026-10-21 | Water & Sewer Board | agenda
+## [greeley#79] 2026-10-21 | Water & Sewer Board | agenda
 - Water and Sewer Board
 - Regular meetings of the Water and Sewer Board are held in person on
 - Water and Sewer office located at 1001 11th Avenue, 2nd Floor,
@@ -1844,7 +1643,7 @@
 - defensible roadmap that maintains reliable day-to-day service while positioning the system for
 - the planning horizon. At Boyd WTP, future ozone and residuals improvements will support
 
-## [greeley#95] 2026-10-21 | Union Colony Civic Center Advisory Board | agenda
+## [greeley#80] 2026-10-21 | Union Colony Civic Center Advisory Board | agenda
 - The public is invited to provide input/public comment for this meeting by emailing your comments to Stephen
 - 2. Approval of the September 2026 minutes
 - Approval of Ticket Donation Requests
@@ -1887,28 +1686,28 @@
 - (Diana) agreed and stated new draft bylaws based on a city template are
 - o The board discussed its historical and current role, noting it has evolved
 
-## [greeley#96] 2026-10-21 | Rodarte Community Center Advisory Board | agenda
+## [greeley#81] 2026-10-21 | Rodarte Community Center Advisory Board | agenda
 - 920 A Street, Greeley CO 80631
 - 3. Approval of Minutes: September
 
-## [greeley#97] 2026-10-26 | Youth Commission | agenda
+## [greeley#82] 2026-10-26 | Youth Commission | agenda
 - 920 A Street
 - 2. CONSIDER APPROVAL OF MINUTES
 - a. September minutes approval
 
-## [greeley#98] 2026-10-26 | Citizen Transportation Advisory Committee | agenda
+## [greeley#83] 2026-10-26 | Citizen Transportation Advisory Committee | agenda
 - You can provide input/public comment for this meeting by emailing your
 - III. Approval of September 28, 2026, meeting minutes
 - IV. Evans board member representation update
 - VII. SS4A / Safety Action Plan Update
 - XI. Public Comment (not from board)
 
-## [greeley#99] 2026-10-27 | City Council | agenda
+## [greeley#84] 2026-10-27 | City Council | agenda
 - are intended for discussion and an overview of key topics to inform future decision-making. While no
 - person) is not part of the work session format. Public comments are made during City Council
 - 5. 2026 Triennial Review for Human Relations Commission, Judicial Review Board, Parks and Recreation
 
-## [greeley#100] 2026-10-27 | City Council | agenda
+## [greeley#85] 2026-10-27 | City Council | agenda
 - are intended for discussion and an overview of key topics to inform future decision-making. While no
 - person) is not part of the work session format. Public comments are made during City Council
 - 5. 2026 Triennial Review for Human Relations Commission, Judicial Review Board, Parks and Recreation
@@ -1945,20 +1744,20 @@
 - d. Housing for All:
 - housing choices. Through partnerships with nonprofits and local national developers we
 
-## [greeley#101] 2026-10-27 | E-470 Public Highway Authority | agenda
+## [greeley#86] 2026-10-27 | E-470 Public Highway Authority | agenda
 - Town of Parker, State of Colorado, has determined to conduct a special meeting on Tuesday, October
 - 2. Public Comment............................................................................... Chair Francoise Bergan
 - discussing personnel matters regarding Mr. Donahue’s Executive Director Contract and
 - 4. Executive Director Contract ............................................................ Chair Francoise Bergan
 
-## [greeley#103] 2026-10-28 | Citizen Budget Advisory Committee | agenda
+## [greeley#88] 2026-10-28 | Citizen Budget Advisory Committee | agenda
 - Citizen Budget Advisory Committee
 - APPROVE MINUTES FROM SEPTEMBER 23RD, 2026
 - DISCUSSION ITEMS
 - o 2027 Budget Recap/lessons learned
 - o 2027 Goals/Objectives Preliminary Discussion
 
-## [greeley#104] 2026-10-28 | Citizen Budget Advisory Committee | agenda
+## [greeley#89] 2026-10-28 | Citizen Budget Advisory Committee | agenda
 - Citizen Budget Advisory Committee
 - APPROVE MINUTES FROM SEPTEMBER 23RD, 2026
 - DISCUSSION ITEMS
@@ -1989,7 +1788,7 @@
 - reconstruction, pedestrian improvements, and Council-established infrastructure priorities
 - funded through a 0.65% sales tax on eligible purchases, excluding food purchases, for roadway and infrastructure
 
-## [greeley#105] 2026-10-28 | Greeley-Weld Housing Authority Board  | agenda
+## [greeley#90] 2026-10-28 | Greeley-Weld Housing Authority Board  | agenda
 - Housing Authority of the City of Greeley
 - Weld County Housing Authority
 - Greeley Housing Authority – 903 6th St. Greeley, CO 80631
@@ -2009,7 +1808,7 @@
 - negotiations concerning the retention and compensation of the Greeley Housing
 - compensation of the Greeley Housing Authority staff and the Executive Director
 
-## [greeley#106] 2026-11-02 | Historic Preservation Commission | agenda
+## [greeley#91] 2026-11-02 | Historic Preservation Commission | agenda
 - Written comments can be mailed or dropped off at th e Planning office at 1100 10 th Street,
 - 3. Approval of the Agenda
 - 4. Approval of the August 17, 2026 & September 21, 2026 Minutes
@@ -2024,7 +1823,7 @@
 - 6. Chair closes public hearing
 - 8. Commission discussion and vote
 
-## [greeley#107] 2026-11-02 | Historic Preservation Commission | agenda
+## [greeley#92] 2026-11-02 | Historic Preservation Commission | agenda
 - Written comments can be mailed or dropped off at th e Planning office at 1100 10 th Street,
 - 3. Approval of the Agenda
 - 4. Approval of the August 17, 2026 & September 21, 2026 Minutes
@@ -2063,7 +1862,7 @@
 - including voter-approved taxes, restricted fees, and utility enterprise revenues, are dedicated to
 - The reduction plan includes eliminating more than 30 vacant positions, voluntary separations
 
-## [greeley#108] 2026-11-03 | Commission on Disabilities | agenda
+## [greeley#93] 2026-11-03 | Commission on Disabilities | agenda
 - 3. Agenda Approval
 - d. Traffic Concerns and Accessibility Issues Discussion
 - 7. Approval of Minutes:
@@ -2071,7 +1870,7 @@
 - Vice-Chair may assume the Chair’s duties and preside over meetings. They often collaborate
 - Mission - Discuss the functions of the Commission of Disabilities to incorporate into future
 
-## [greeley#109] 2026-11-03 | Commission on Disabilities | agenda
+## [greeley#94] 2026-11-03 | Commission on Disabilities | agenda
 - 3. Agenda Approval
 - d. Traffic Concerns and Accessibility Issues Discussion
 - 7. Approval of Minutes:
@@ -2090,14 +1889,14 @@
 - initiative and transportation materials, including potential future presentations
 - o The group discussed updates to the boards and commissions handbook and the
 
-## [greeley#110] 2026-11-04 | Greeley Urban Renewal Authority | agenda
+## [greeley#95] 2026-11-04 | Greeley Urban Renewal Authority | agenda
 - ECONOMIC DEVELOPMENT y
 - 3. Approval of Meeting Minutes: September 9th, 2026
 - 2027 GURA Budget Review and Adoption
 - Connections Project Update (Informational)
 - efficient operational practices and long-term strategic planning that honors the city’s strengths,
 
-## [greeley#111] 2026-11-04 | Greeley Urban Renewal Authority | agenda
+## [greeley#96] 2026-11-04 | Greeley Urban Renewal Authority | agenda
 - ECONOMIC DEVELOPMENT y
 - 3. Approval of Meeting Minutes: September 9th, 2026
 - 2027 GURA Budget Review and Adoption
@@ -2125,20 +1924,20 @@
 - Other Purchase Services - 50,479 255,000
 - City Admin Fee 0.5% - - 151
 
-## [greeley#112] 2026-11-05 | Island Grove Park Advisory Board | agenda
+## [greeley#97] 2026-11-05 | Island Grove Park Advisory Board | agenda
 - Approval of Minutes for the June and September Meetings
 - 1. Island Grove Master Plan – Facility Improvements and Capital Planning
 - a. Review of facility needs and improvement opportunities
 - b. Discussion of capital priorities and potential funding partnerships
 
-## [greeley#113] 2026-11-05 | E-470 Public Highway Authority | agenda
+## [greeley#98] 2026-11-05 | E-470 Public Highway Authority | agenda
 - Town of Parker, State of Colorado, has determined to conduct a regular meeting on Thursday,
 - 3. Public Comment............................................................................... Chair Francoise Bergan
 - a. WSP Contract Amendment
 - b. MMC Lease Amendment
 - c. Terracare Contract Amendment
 
-## [greeley#114] 2026-11-05 | E-470 Public Highway Authority | agenda
+## [greeley#99] 2026-11-05 | E-470 Public Highway Authority | agenda
 - Englewood, CO 80112 Vice-Chair – Council Member John Diak (Parker)
 - 3. Public Comment ............................................................................................ Chair Francoise Bergan
 - a. WSP Contract Amendment
@@ -2177,13 +1976,13 @@
 - Director to execute the same, subject to review and approval of General Counsel. The
 - Commissioner Pinter moved that the Board approve (i) Adding the following vendors
 
-## [greeley#115] 2026-11-05 | Civil Service Commission | agenda
+## [greeley#100] 2026-11-05 | Civil Service Commission | agenda
 - 3. Approval of the Agenda
 - 4. Approval of Last Meeting Minutes
 - 5. Approval of the Police Officer Eligibility List
 - 6. Approval of Disqualifications
 
-## [greeley#116] 2026-11-06 | Parks & Recreation Advisory Board | agenda
+## [greeley#101] 2026-11-06 | Parks & Recreation Advisory Board | agenda
 - Parks & Recreation Advisory Board Meeting
 - 3. Agenda Approval
 - 4. Approval of Minutes
@@ -2222,7 +2021,7 @@
 - o City Manager’s recommended budget presentation to City Council: October 21, 2026 (work
 - o Following Council direction, formal adoption via resolution at subsequent administrative
 
-## [greeley#117] 2026-11-06 | Liquor Licensing Authority | agenda
+## [greeley#102] 2026-11-06 | Liquor Licensing Authority | agenda
 - Liquor License Authority Hearing
 - Liquor License Authority Hearings are fully remote. This means no physical
 - location, including the Administrative Hearing Room at City Center South, will be
@@ -2266,6 +2065,89 @@
 - All requests are considered on a case-by-case basis and we will do our best to reply to all
 - burden may not be fulfilled as requested
 
-## [greeley#118] 2026-11-09 | Human Relations Commission | agenda
+## [greeley#103] 2026-11-09 | Human Relations Commission | agenda
 - Approval of October 12, 2026, Minutes
 - culture of our native and indigenous peoples, and as a community, we celebrate the legacy of the Elders
+
+## [greeley#104] 2026-11-10 | City Council | agenda
+- are intended for discussion and an overview of key topics to inform future decision-making. While no
+- person) is not part of the work session format. Public comments are made during City Council
+- development projects, including the Catalyst project
+
+## [greeley#105] 2026-11-10 | City Council | agenda
+- are intended for discussion and an overview of key topics to inform future decision-making. While no
+- person) is not part of the work session format. Public comments are made during City Council
+- development projects, including the Catalyst project
+- Downtown Development Authority 3rd Thu, 7:30 a.m. Roth
+- Parks & Recreation Board 1st Friday, 7 a.m. DeBoutez
+- Police Pension Board quarterly McDonald
+- Upstate Colorado Economic Development last Wed, 7 a.m. Hall
+- Water & Sewer Board 3rd Wed, 2 p.m. Hall
+- Weld Project Connect Committee (United Way) as needed Rotation
+- Greeley added approximately 15 centerline miles of streets from 2018 through 2025, or approximately
+- projected to maintain PCI near the City target of 70; lower investment scenarios reduce the long-term
+- across its life cycle. Because much of Greeley's street network is newer, near-term needs may be lower
+- Strategic Focus Area:
+- 1. Item - Presentation
+- †Full 50-yr cycle per lane-mile (slide 5): crack fill, seals, one overlay, reconstruct. Concrete: 2026 KGM bid incl
+- Street Centerline Miles
+- new streets per year
+- How many street miles
+- Streets added since
+- Improvements
+- economic development projects, including the Catalyst project
+- related to the Catalyst project. The Council will also be able to request and receive legal advice
+- regarding economic development projects
+- A motion to go into an Executive Session to discuss the following matter as provided under C.R.S
+- 151(a)(5): To receive legal advice related to and determine positions, develop strategy, and instruct
+- negotiators about economic development projects including the Catalyst project
+- Veterans Day Proclamation 11 am Bittersweet Park (35th Ave & 16th St, Greeley, CO
+- Water & Sewer Board Meeting 2 p.m. City of Greeley Council Chambers (1001 11th
+- Downtown Development Authority 7:30 a.m. (802 9th Street, Greeley CO 80631)
+- Airport Authority 3:00 p.m. Greeley-Weld Airport (600 Airport Road, Greeley CO
+- Presenter/Director or Project Manager Placement/Time
+- Executive Session regarding Economic Development Projects (Hold) Stacey Aurzada
+- Resolution - Certify City of Greeley Tax Levy Nathan Mosley Consent
+- Resolution - Approve Financial Audit Contract Charlotte Kline/Kirk Jones Consent
+- Resolution - Amending Island Grove Village Apartments Project Private Activity Bond (PAB) Issuance to Include University Plaza Deb Callies Consent
+- Resolution - Ratifying Appointment to High Plains Library Board Jennifer Middleton Consent
+- Resolution - Ratifying Appointments to Clearview Library Board Jennifer Middleton Consent
+- Intro & 1st Rdg Ord - Westside Area Plan Caleb Jackson Consent
+
+## [greeley#106] 2026-11-10 | Planning Commission | agenda
+- Written comments can be mailed or dropped off at the Planning office at 1100 10 th Street,
+- 3. Approval of the Agenda
+- 4. Approval of the October 13, 2026, Planning Commission Meeting Minutes
+- therefore staff summary presentations will be suspended unless requested by the Commission or
+- 5. A public hearing to consider a Use by Special Review request for an indoor storage facility on
+- approximately 6.055 acres located east of 35th Avenue and south of F Street in the Industrial-Low (I
+- 6. A public hearing to consider a request to rezone approximately 76.5 acres from the H-A (Holding
+- Zoning Districts, on property located southeast of the intersection of 83rd Avenue (Two Rivers
+- Parkway) and 28th Street
+- 7. A public hearing regarding a recommendation on the adoption of the Westside Area Plan as a sub
+- element of the comprehensive plan
+- 8. A public hearing regarding a recommendation on an ordinance amending Title 24 of the Greeley
+- Municipal Code to adopt Chapter 15, Form-Based Code option within the Development Code
+
+## [greeley#108] 2026-11-12 | Housing for All Advisory Board | agenda
+- Housing for All Advisory Board Agenda
+- 3. Approval of Minutes
+
+## [greeley#109] 2026-11-12 | Golf Course Advisory Board | agenda
+- 3. Approval of Minutes: September 10th, 2026
+- 4. Agenda Approval
+
+## [greeley#110] 2026-11-13 | Civil Service Commission | agenda
+- 3. Approval of the Agenda
+- 4. Approval of Last Meeting Minutes
+- 5. Approval of the Battalion Chief Eligibility List
+
+## [greeley#111] 2026-11-16 | Historic Preservation Commission | agenda
+- Written comments can be mailed or dropped off at the Planning office at 1100 10 th Street,
+- Historic Preservation Public Hearing Procedure
+- Public Hearing to…
+- 1. Chair introduce public hearing item
+- 3. Applicant Presentation
+- 5. Chair opens public hearing
+- 6. Chair closes public hearing
+- 8. Commission discussion and vote

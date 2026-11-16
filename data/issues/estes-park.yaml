@@ -1,107 +1,116 @@
-- title: Housing definitions, density bonuses and parking in the draft Development Code
-  summary: The Town Board reviewed the 50% draft Development Code's housing definitions, base densities, density and height bonuses, and lower parking minimums for qualifying projects. The Estes Park Housing Authority said 1.2 to 1.4 spaces per unit would work for its properties, while some board members worried about going below two cars per unit. Related housing needs were also raised in public comment and the Housing Assessment and Action Plan.
+- title: 2027 Town budget and 2027–2031 Community Improvement Plan
+  summary: Budget study sessions in October reviewed the 2027 budget, which plans to use $1.775 million of fund balance for capital items and projects revenue 5% over 2025 actuals. The CIP holds $37.66 million in projects, including Events Center lighting, Wonderview Avenue trail extension, Children's Park remodel and stormwater work. Staff pay raises and a 15% health insurance increase were also covered.
   where: Townwide
   refs:
-  - 3
-  - 4
-  - 7
+  - 8
+  - 9
+  - 10
   topics:
-  - Housing
-  - Zoning & development
-  public_comment: true
-- title: Fall River Village II PUD and subdivision plats
-  summary: Resolutions 87-26, 88-26 and 89-26 on the Fall River Village II PUD and subdivision plats were continued from July 28, and the public hearing was re-opened on August 11. Staff noted the Development Code and state statute require action within 30 days or the application is deemed approved.
-  where: Fall River Village II
+  - Budget & taxes
+  - Government operations
+- title: Workforce housing, Housing Action Plan and 6E funding
+  summary: The Board heard public concern about housing and seasonal workforce needs, received the Housing Assessment Addendum and Housing Action Plan, and approved Resolution 105-26, the 2027 Workforce Housing and Childcare Funding Plan for 6E lodging tax funds. The Estes Park Housing Authority is also gathering data on seasonal housing and has board vacancies being filled.
+  where: Townwide
   refs:
   - 1
+  - 5
+  - 10
+  - 11
   topics:
-  - Zoning & development
   - Housing
-  public_comment: true
-- title: Annexation of Fawn Valley and Highway 7 enclaves
-  summary: Staff reported costs and benefits of annexing two enclaves, including a $50,000 consultant cost for the map and legal description, about $12,750 a year in added sales tax and $1,900 in property tax. Neighbors surveyed on Highway 7 responded four against and one in favor. Staff will research who owns an unannexed gap parcel that would first need to be annexed.
-  where: Fawn Valley and Highway 7 enclaves, including Chalet Ridge Court
-  refs:
-  - 6
-  topics:
-  - Annexation
   - Budget & taxes
   public_comment: true
-- title: Parking license plate recognition policy
-  summary: Staff presented a draft policy for license plate recognition at Town-owned paid parking, with data kept one day unless tied to a citation. Prohibited uses include enforcing federal immigration law and monitoring First Amendment activity. The Board asked for the policy to come back for consideration and discussed limiting private LPR use.
-  where: Town-owned paid parking areas
-  refs:
-  - 8
-  topics:
-  - Transit
-  - Roads & traffic
-  - Ethics & transparency
-- title: Parks and Open Space Master Plan
-  summary: The final draft plan covers 11 parks, 2 natural areas and 2 town parcels, and found 76% of households are within a 15-minute walk of a park. About 890 people gave feedback, including students. Board members asked for an urban forestry element and more dog parks, and staff said implementation depends on funding.
+- title: 'Development Code rewrite: housing density bonuses and rezoning criteria'
+  summary: The 50% draft Development Code would set housing definitions, density and height bonuses, and lower parking minimums for qualifying projects; EPHA said 1.2 to 1.4 spaces per unit suffices for its properties, while some board members worried about fewer than two per unit. The Board also reviewed new rezoning criteria tied to the Estes Forward Future Land Use Plan. The rewrite continues into 2027.
   where: Townwide
   refs:
   - 2
+  - 3
+  - 9
+  topics:
+  - Zoning & development
+  - Housing
+- title: Annexation of Fawn Valley and Highway 7 enclaves
+  summary: 'Staff reported costs and benefits of annexing two enclaves: about $50,000 for a consultant map, plus $12,750 per year in sales tax and $1,900 in property tax revenue, and $2,400 a year for 25 years to bring Chalet Ridge Court up to Town standard. Four responses opposed and one favored annexation of the Highway 7 enclave; staff will research an unowned gap parcel. Olympus Lodge annexation and water access also came up in budget talks.'
+  where: Fawn Valley and Highway 7 enclaves
+  refs:
+  - 4
+  - 9
+  topics:
+  - Annexation
+  - Land & property
+  public_comment: true
+- title: Public safety facility cost debate
+  summary: Residents questioned the cost of a proposed new public safety facility, citing population data and a cheaper alternative, and suggested raising officer pay instead so more officers live in town.
+  where: Estes Park
+  refs:
+  - 7
+  - 10
+  topics:
+  - Policing & public safety
+  - Budget & taxes
+  public_comment: true
+- title: Parking license plate recognition policy
+  summary: Staff presented a draft policy for license plate readers in paid parking, with data kept one day unless tied to a citation. It bars use for immigration enforcement, First Amendment monitoring or data sales. The Board asked for the policy to return and discussed limiting private LPR use.
+  where: Town-owned paid parking areas
+  refs:
+  - 6
+  topics:
+  - Roads & traffic
+  - Government operations
+  - Immigration
+- title: 'Water: administrative penalties, Colorado-Big Thompson subcontract and NCWCD incorporation'
+  summary: The Board reviewed an administrative fine policy to enforce repair of leaking surface water lines. It also pulled the Colorado-Big Thompson subcontract extension with YMCA of the Rockies for discussion, along with the plan to incorporate Water Division customers into the Northern Colorado Water Conservancy District. Water rate hearing dates were set and a Trout Haven water lease approved.
+  where: Town water service area
+  refs:
+  - 2
+  - 3
+  - 5
+  topics:
+  - Water
+  - Fees & rates
+- title: Fall River Trail final segment construction
+  summary: The Board approved a $3,553,992.20 construction contract with FNF Construction and $114,500 for construction management. A trustee questioned the wide range of bids, and the engineer said the Town's estimate was conservative and half the bids exceeded it.
+  where: Fall River Trail
+  refs:
+  - 10
+  topics:
+  - Recreation & trails
+  - Roads & traffic
+- title: Parks and Open Space Master Plan
+  summary: The final draft plan covers 11 parks, two natural areas and two town parcels, drew feedback from about 890 people, and found 76% of households are within a 15-minute walk of a park. Board members asked for an urban forestry element, dog parks and ongoing updates; implementation depends on funding.
+  where: Town parks and natural areas
+  refs:
+  - 0
   topics:
   - Parks & open space
   - Recreation & trails
   public_comment: true
-- title: Dark Sky lighting ordinance and certification
-  summary: Visit Estes Park presented on pursuing International DarkSky Community Certification and a draft Lighting Ordinance. Board members questioned requiring residential properties to comply with Dark Sky fixtures within ten years and how Rocky Mountain National Park's status affects certification.
+- title: Visit Estes Park 2027 operating plan
+  summary: VEP presented its 2027 operating plan with proposed revenues of $11.68 million, $6.45 million of it 6E funds passed to the Town. The Town Board and County Commissioners commended it; the Town Board is to act on November 10.
+  where: Townwide
+  refs:
+  - 5
+  - 11
+  topics:
+  - Tourism & events
+  - Budget & taxes
+- title: Micromobility, e-bike rules and youth tobacco policy
+  summary: Staff proposed four Municipal Code changes to clarify rules for micromobility devices. A resident and Larimer County representatives urged the Town to consider policies on youth tobacco and nicotine use, and e-bike accidents involving youth were discussed.
   where: Townwide
   refs:
   - 0
-  topics:
-  - Tourism & events
-  - Environment & climate
-- title: Water administrative penalties, Windy Gap units and Colorado-Big Thompson subcontract
-  summary: Water staff proposed administrative fines to enforce repair of leaking surface lines. The Board declined its right of first refusal to buy Windy Gap water units from Platte River Power Authority, which would have cost nearly $10 million for two units. A Colorado-Big Thompson subcontract extension with the YMCA of the Rockies and Northern Water was pulled for discussion of incorporating Town water customers into the district.
-  where: Townwide and water service area
-  refs:
-  - 1
-  - 4
-  - 5
   - 7
   topics:
-  - Water
-  - Fees & rates
-- title: Rezoning review criteria amendments
-  summary: Staff proposed amending Development Code Section 3.3 so rezonings must be consistent with the Future Land Use Plan of the Estes Forward Comprehensive Plan, replacing the 'change in conditions' criterion, along with a second new criterion.
-  where: Townwide
-  refs:
-  - 5
-  topics:
-  - Zoning & development
-- title: Feather flag temporary sign rules
-  summary: The Board reviewed Ordinance 15-25, which temporarily allowed feather flags without permit or fee, limited to one per lot up to 12 feet tall, and not in residential zones or downtown. Members were split on whether to charge a fee and require a permit or make the rules permanent.
-  where: Commercial areas
-  refs:
-  - 6
-  topics:
-  - Downtown & business
-  - Zoning & development
-- title: Youth tobacco and vaping policy request
-  summary: A speaker urged the Town to consider policies on tobacco and vape products to protect youth, citing Larimer County's survey results and concerns about Estes Park schools.
-  where: Townwide
-  refs:
-  - 9
-  topics:
+  - Roads & traffic
   - Schools & youth
   - Health & human services
   public_comment: true
-- title: Utility purchasing policy non-compliance
-  summary: An audit found Power and Communications and Water divisions accepted competitive quotes for inventory purchases instead of following the $30,000 bid process. Staff said this will be addressed in the ongoing revision of purchasing policies.
-  where: Townwide
+- title: Feather flag sign rules
+  summary: The Board discussed whether to extend or make permanent the temporary allowance for feather flags under Ordinance 15-25, with one flag per lot, 12-foot height limit, and a ban in residential zones and downtown. Members were split on whether to require a fee and permit.
+  where: Commercial areas
   refs:
-  - 9
+  - 4
   topics:
-  - Ethics & transparency
-  - Utilities
-  - Government operations
-- title: Events Center storage building contract
-  summary: The Board approved a $424,350 contract with Kinley Built to design and build a new storage building at the Events Center Complex, and accepted a $100,000 state DOLA grant toward design of a project.
-  where: Events Center Complex
-  refs:
-  - 1
-  topics:
-  - Recreation & trails
-  - Budget & taxes
+  - Zoning & development
+  - Downtown & business

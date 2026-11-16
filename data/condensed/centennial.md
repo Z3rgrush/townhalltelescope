@@ -1,43 +1,6 @@
 # centennial
 
-## [centennial#0] 2026-08-11 | Regular City Council Meeting | agenda
-- 13133 E. Arapahoe Road
-- 4 Public Comment
-- The Public Comment section offers an opportunity for any citizen to express opinions or ask questions
-- not a part of a scheduled public hearing. Citizens will have three minutes for comments if they are
-- Written materials for presentation to Council may be submitted to the City Clerk as the speaker
-- approaches the podium. The City’s computer presentation equipment is not available for general public
-- use, although applicants are permitted to display relevant illustrations and material useful in informing the
-- Council and public of a project. The public may, however, use the document camera for visual
-- presentation of materials, if desired
-- 5 Scheduled Presentations (None)
-- 6 Consideration of Communications, Proclamations and Appointments (None)
-- request of a Council Member for individual consideration
-- 7 Consideration of Ordinances on First Reading
-- Approval of any Ordinance on first reading by approving the consent agenda is intended only to set a
-- public hearing for the Ordinance and does not constitute a representation that the City Council, or any
-- member of the City Council, supports, approves, rejects, or denies the merits of the Ordinance
-- a ORDINANCE NO. 2026-O-13, AN ORDINANCE OF THE CITY OF
-- COUNCIL OF THE CENTENNIAL, COLORADO, AMENDING
-- THE SAME (Eddy) (This item is proposed for Public Hearing on
-- August 18, 2026, therefore no public comment will be accepted at
-- 8 Consideration of Resolutions (None)
-- 9 Consideration of Other Items
-- DISCUSSION AGENDA
-- 10 Consideration of Land Use Cases (None)
-- 11 Consideration of Ordinances (None)
-- 12 Consideration of Resolutions
-- a RESOLUTION NO. 2026-R-25, A RESOLUTION OF THE CITY
-- APPROVING AN INTERGOVERNMENTAL AGREEMENT WITH
-- AN ELECTION OFFICIAL AND APPROVING THE ELECTION
-- b RESOLUTION NO. 2026-R-26, A RESOLUTION OF THE CITY
-- AUTHORIZATION TO INCREASE THE SALES AND USE TAX RATE;
-- 13 Consideration of Other Items (None)
-
-## [centennial#1] 2026-08-11 | Study Session | agenda
-- 13133 E. Arapahoe Road
-
-## [centennial#2] 2026-08-18 | Regular City Council Meeting | agenda
+## [centennial#0] 2026-08-18 | Regular City Council Meeting | agenda
 - 13133 E. Arapahoe Road
 - 4 Public Comment
 - The Public Comment section offers an opportunity for any citizen to express opinions or ask questions
@@ -74,10 +37,10 @@
 - PRIVATE ACTIVITY BOND CEILING ALLOCATION ACT (Houlne)
 - 13 Consideration of Other Items
 
-## [centennial#3] 2026-08-18 | Study Session | agenda
+## [centennial#1] 2026-08-18 | Study Session | agenda
 - 13133 E. Arapahoe Road
 
-## [centennial#4] 2026-08-26 | Planning and Zoning Commission | agenda
+## [centennial#2] 2026-08-26 | Planning and Zoning Commission | agenda
 - Planning and Zoning Commission
 - 13133 E. Arapahoe Road
 - a Consideration of Resolutions
@@ -93,7 +56,7 @@
 - 5 LAND DEVELOPMENT CODE AMENDMENTS/RECOMMENDATIONS
 - Agenda – Planning and Zoning Commission
 
-## [centennial#5] 2026-09-01 | Regular City Council Meeting | agenda
+## [centennial#3] 2026-09-01 | Regular City Council Meeting | agenda
 - 13133 E. Arapahoe Road
 - 4 Consideration of Communications, Proclamations and Appointments
 - 5 Public Comment
@@ -130,16 +93,16 @@
 - 12 Consideration of Resolutions (None)
 - 13 Consideration of Other Items
 
-## [centennial#6] 2026-09-01 | Study Session | agenda
+## [centennial#4] 2026-09-01 | Study Session | agenda
 - 13133 E. Arapahoe Road
 
-## [centennial#7] 2026-09-08 | Work Session | agenda
+## [centennial#5] 2026-09-08 | Work Session | agenda
 - 7272 Eagle Street
 - Work Session Meetings are intended for informal discussions among members of City Council and staff
 - on issues of interest to the public without intent for the discussions to lead to an official action. Any
 - 3 2027/2028 Biennium Budget - Revenues, Fund Balance Overview, and Budget
 
-## [centennial#8] 2026-09-09 | Planning and Zoning Commission | agenda
+## [centennial#6] 2026-09-09 | Planning and Zoning Commission | agenda
 - Planning and Zoning Commission
 - 13133 E. Arapahoe Road
 - a Consideration of Resolutions
@@ -156,12 +119,12 @@
 - Agenda – Planning and Zoning Commission
 - 5 LAND DEVELOPMENT CODE AMENDMENTS/RECOMMENDATIONS
 
-## [centennial#9] 2026-09-11 | Budget Committee | agenda
+## [centennial#7] 2026-09-11 | Budget Committee | agenda
 - BUDGET COMMITTEE MEETING
 - 9:00am – 9:05am Approval of the August 6, 2026, Budget Committee Minutes
 - 9:05am – 1:00pm Review of 2027/2028 Proposed Budget
 
-## [centennial#10] 2026-09-15 | Regular City Council Meeting | agenda
+## [centennial#8] 2026-09-15 | Regular City Council Meeting | agenda
 - 13133 E. Arapahoe Road
 - 4 Public Comment
 - The Public Comment section offers an opportunity for any citizen to express opinions or ask questions
@@ -209,11 +172,11 @@
 - WORKS AND GRAYWATER USE (Gradis)
 - 12 Consideration of Resolutions
 
-## [centennial#11] 2026-09-15 | Special Meeting | agenda
+## [centennial#9] 2026-09-15 | Special Meeting | agenda
 - 13133 E. Arapahoe Road
 - Legal Advice Concerning Regulation of Industrial and Business Park
 
-## [centennial#12] 2026-10-06 | Regular City Council Meeting | agenda
+## [centennial#10] 2026-10-06 | Regular City Council Meeting | agenda
 - 13133 E. Arapahoe Road
 - 4 Public Comment
 - The Public Comment section offers an opportunity for any citizen to express opinions or ask questions
@@ -250,23 +213,23 @@
 - 12 Consideration of Resolutions (None)
 - 13 Consideration of Other Items
 
-## [centennial#13] 2026-10-06 | Study Session | agenda
+## [centennial#11] 2026-10-06 | Study Session | agenda
 - 13133 E. Arapahoe Road
 - 3 Proposed Amendments to the Land Development Code (LDC)
 
-## [centennial#14] 2026-10-12 | Budget Workshop | agenda
+## [centennial#12] 2026-10-12 | Budget Workshop | agenda
 - 7272 Eagle Street
 - Work Session Meetings are intended for informal discussions among members of City Council and staff
 - on issues of interest to the public without intent for the discussions to lead to an official action. Any
 - 3 Budget Workshop - City Manager’s Proposed Budget for 2027/2028
 
-## [centennial#15] 2026-10-13 | Budget Workshop | agenda
+## [centennial#13] 2026-10-13 | Budget Workshop | agenda
 - 7272 Eagle Street
 - Work Session Meetings are intended for informal discussions among members of City Council and staff
 - on issues of interest to the public without intent for the discussions to lead to an official action. Any
 - 3 Budget Workshop - City Manager’s Proposed Budget for 2027/2028
 
-## [centennial#16] 2026-10-14 | Planning and Zoning Commission | agenda
+## [centennial#14] 2026-10-14 | Planning and Zoning Commission | agenda
 - Planning and Zoning Commission
 - 13133 E. Arapahoe Road
 - a Consideration of Resolutions
@@ -279,11 +242,11 @@
 - Development Code (LDC) (GIENAPP)
 - b Legislative Zoning Opportunities (KING)
 
-## [centennial#17] 2026-10-19 | Investment Committee Meeting | agenda
+## [centennial#15] 2026-10-19 | Investment Committee Meeting | agenda
 - 11:00 Approval of Minutes – June 12th, 2026, Investment Committee Meeting
 - 11:35 Presentation of City’s Investment Portfolios (Chandler Asset Management) and
 
-## [centennial#18] 2026-10-20 | Regular City Council Meeting | agenda
+## [centennial#16] 2026-10-20 | Regular City Council Meeting | agenda
 - 13133 E. Arapahoe Road
 - 4 Public Comment
 - The Public Comment section offers an opportunity for any citizen to express opinions or ask questions
@@ -310,11 +273,11 @@
 - 13 Consideration of Other Items
 - b Livable Streets Residential Collectors Next Phase (Bunce)
 
-## [centennial#19] 2026-10-20 | Special Meeting | agenda
+## [centennial#17] 2026-10-20 | Special Meeting | agenda
 - 13133 E. Arapahoe Road
 - who is the subject of the personnel matter discussion
 
-## [centennial#20] 2026-11-02 | Special Meeting | agenda
+## [centennial#18] 2026-11-02 | Special Meeting | agenda
 - 13133 E. Arapahoe Road
 - 4 Public Comment
 - The Public Comment section offers an opportunity for any citizen to express opinions or ask questions
@@ -362,10 +325,10 @@
 - 13 Consideration of Other Items
 - a. Legislative Zoning Opportunities – Business Park (BP) to Employment
 
-## [centennial#21] 2026-11-02 | Study Session | agenda
+## [centennial#19] 2026-11-02 | Study Session | agenda
 - 13133 E. Arapahoe Road
 
-## [centennial#22] 2026-11-04 | Special Meeting of the Planning and Zoning Commission | agenda
+## [centennial#20] 2026-11-04 | Special Meeting of the Planning and Zoning Commission | agenda
 - Planning and Zoning Commission
 - 13133 E. Arapahoe Road
 - a Consideration of Resolutions
@@ -388,3 +351,8 @@
 - 5 LAND DEVELOPMENT CODE AMENDMENTS/RECOMMENDATIONS
 - a Presentation and Discussion on Potential Amendments to the Land
 - Development Code and Municipal Code Regarding Utility and
+
+## [centennial#21] 2026-11-10 | Work Session | agenda
+- 7272 Eagle Street
+- Work Session Meetings are intended for informal discussions among members of City Council and staff on
+- issues of interest to the public without intent for the discussions to lead to an official action. Any policy

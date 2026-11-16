@@ -1,85 +1,6 @@
 # oak-creek
 
-## [oak-creek#0] 2026-08-13 | Town Board | agenda
-- County, Colorado, will be held on Thursday, August 13, 2026 beginning at 6:00 p.m. in the Hearing
-- subject to change up to 24 hours before scheduled hearings. The public is invited to
-- 2. APPROVAL OF AGENDA
-- pertaining to two draft agreements for law enforcement services with the Routt
-- The Board of Trustees will take comments under consideration but will not make
-- A. Application for a Special Events Permit from the Oak Creek Labor Day
-- D. Renewal of a Retail Liquor License application for Spiro's Liquor located at 107
-- W Main Street
-- 7. CONSIDERATION AND POSSIBLE AUTHORIZATION TO PURCHASE A
-- SEWER JETTER IN THE AMOUNT OF $135,364
-- A. Consideration and possible approval to purchase a sewer jetter
-- 8. CONSIDERATION AND POSSIBLE AUTHORIZATION TO PROCEED WITH
-- ASPHALT PATCHING PROJECT ON SHARP AVENUE AND OAK RIDGE
-- A. Consideration and possible approval to proceed with asphalt patching project
-- 9. CONSIDERATION AND POSSIBLE APPROVAL OF A SPECIAL USE PERMIT
-- SHERIFF DAM AS APPROVED BY THE COLORADO DIVISION OF WATER
-- A. Consideration and possible approval of a Special Use Permit from the
-- enlargement and rehabilitation of Sheriff Dam as approved by the Colorado
-- Division of Water Resources State Engineer's Office
-- 10. CONSIDERATION AND POSSIBLE APPROVAL OF AN RFP FOR
-- A. Consideration and possible approfal of an RFP for professional planning
-- 11. CONSIDERATION AND POSSIBLE APPROVAL OF AN OFF-DUTY OVERTIME
-- REIMBURSEMENT AGREEMENT WITH THE ROUTT COUNTY SHERIFF’S
-- A. Consideration and possible approval of an off-duty overtime reimbursement
-- agreement with the Routt County Sheriff's Office
-- 12. CONSIDERATION AND POSSIBLE APPROVAL OF AN AGENT
-- AUTHORIZATION FORM FOR THE SHERIFF DAM RESERVOIR PROJECT
-- A. Consideration and possible approval of an agent authorization form for the
-- Sheriff Dam Reservoir Project
-- Please Note: All programs, services and activities of the Town of Oak Creek are operated in compliance
-- coordinate your needs. Please notify us of your request as soon as possible to allow us time to meet your
-- request. This institution is an equal opportunity provider and employer
-
-## [oak-creek#1] 2026-08-13 | Town Board | agenda
-- County, Colorado, will be held on Thursday, August 13, 2026 beginning at 6:00 p.m. in the Hearing
-- subject to change up to 24 hours before scheduled hearings. The public is invited to
-- 2. APPROVAL OF AGENDA
-- pertaining to two draft agreements for law enforcement services with the Routt
-- The Board of Trustees will take comments under consideration but will not make
-- A. Application for a Special Events Permit from the Oak Creek Labor Day
-- D. Renewal of a Retail Liquor License application for Spiro's Liquor located at 107
-- W Main Street
-- 7. CONSIDERATION AND POSSIBLE AUTHORIZATION TO PURCHASE A
-- SEWER JETTER IN THE AMOUNT OF $135,364
-- A. Consideration and possible approval to purchase a sewer jetter
-- 8. CONSIDERATION AND POSSIBLE AUTHORIZATION TO PROCEED WITH
-- ASPHALT PATCHING PROJECT ON SHARP AVENUE AND OAK RIDGE
-- A. Consideration and possible approval to proceed with asphalt patching project
-- 9. CONSIDERATION AND POSSIBLE APPROVAL OF A SPECIAL USE PERMIT
-- SHERIFF DAM AS APPROVED BY THE COLORADO DIVISION OF WATER
-- A. Consideration and possible approval of a Special Use Permit from the
-- enlargement and rehabilitation of Sheriff Dam as approved by the Colorado
-- Division of Water Resources State Engineer's Office
-- 10. CONSIDERATION AND POSSIBLE APPROVAL OF AN RFP FOR
-- A. Consideration and possible approfal of an RFP for professional planning
-- 11. CONSIDERATION AND POSSIBLE APPROVAL OF AN OFF-DUTY OVERTIME
-- REIMBURSEMENT AGREEMENT WITH THE ROUTT COUNTY SHERIFF’S
-- A. Consideration and possible approval of an off-duty overtime reimbursement
-- agreement with the Routt County Sheriff's Office
-- 12. CONSIDERATION AND POSSIBLE APPROVAL OF AN AGENT
-- AUTHORIZATION FORM FOR THE SHERIFF DAM RESERVOIR PROJECT
-- A. Consideration and possible approval of an agent authorization form for the
-- Sheriff Dam Reservoir Project
-- Please Note: All programs, services and activities of the Town of Oak Creek are operated in compliance
-- coordinate your needs. Please notify us of your request as soon as possible to allow us time to meet your
-- request. This institution is an equal opportunity provider and employer
-- 30 ALLOCATION TO WATER 827,323.09
-- 40 ALLOCATION TO SEWER 452,332.58
-- 60 ALLOCATION TO PARKS & RECREATION 101,909.68
-- 10-00-1510 PROPERTY TAX RECEIVABLE 191,164.71
-- 10-00-2201 DEF REV-PROPERTY TAXES 191,164.71
-- 10-00-2252 DEF REV-GRANT 14,948.26
-- 10-00-2610 PARKS AND RECREATION 100.00
-- 10-00-2720 CAPITAL RESERVE - PARKS 21.00
-- 10-00-2721 CAPITAL RESERVE - POLICE 11,055.00
-- 10-00-2723 CAPITAL RESERVE - STREETS 26,000.00
-- 10-00-2830 DESIGNATED CAPITAL PROJECTS 27,104.00
-
-## [oak-creek#2] 2026-08-19 | Planning Commission | agenda
+## [oak-creek#0] 2026-08-19 | Planning Commission | agenda
 - up to 24 hours before scheduled hearings
 - 2. PUBLIC HEARING AND POSSIBLE RECOMMENDATION ON AN
 - APPLICATION BY THE SOUTH ROUTT MEDICAL CENTER HEALTH SERVICE
@@ -89,7 +10,7 @@
 - coordinate your needs. Please notify us of your request as soon as possible to allow us time to meet your
 - request. This institution is an equal opportunity provider and employer
 
-## [oak-creek#3] 2026-08-27 | Town Board | agenda
+## [oak-creek#1] 2026-08-27 | Town Board | agenda
 - County, Colorado, will be held on Thursday, August 27, 2026 beginning at 6:00 p.m. in the Hearing
 - subject to change up to 24 hours before scheduled hearings. The public is invited to
 - 2. APPROVAL OF AGENDA
@@ -110,7 +31,7 @@
 - coordinate your needs. Please notify us of your request as soon as possible to allow us time to meet your
 - request. This institution is an equal opportunity provider and employer
 
-## [oak-creek#4] 2026-09-24 | Town Board | agenda
+## [oak-creek#2] 2026-09-24 | Town Board | agenda
 - Notice is hereby given that a Regular Meeting of the Board of Trustees, Town of Oak Creek, Routt County, Colorado, will be held on Thursday, September 24, 2026 beginning at 6:00 p.m. in the Hearing
 - 2. APPROVAL OF AGENDA
 - comments to three minutes. The Board of Trustees will take comments under consideration but will not make any decisio n or take any action
@@ -146,7 +67,7 @@
 - 10-01-3410 MANAGEMENT FEE - ELECTRIC 42792.87 32,692.50 .00 32,692.50 65,385.00 50.0
 - 10-01-3411 MANAGEMENT FEE-WATER 0 11,949.00 .00 11,949.00 23,898.00 50.0
 
-## [oak-creek#5] 2026-09-24 | Town Board | agenda
+## [oak-creek#3] 2026-09-24 | Town Board | agenda
 - Notice is hereby given that a Regular Meeting of the Board of Trustees, Town of Oak Creek, Routt County, Colorado, will be held on Thursday, September 24, 2026 beginning at 6:00 p.m. in the Hearing
 - 2. APPROVAL OF AGENDA
 - comments to three minutes. The Board of Trustees will take comments under consideration but will not make any decisio n or take any action
@@ -162,7 +83,7 @@
 - result of a disability, please call our office at (970) 736 -2422 or TDD access through RelayColorado by dialing 7 -1-1 to coordinate your needs. Please notify us of your request as soon as
 - possible to allow us time to meet your request. This institution is an equal opportunity provider and employer
 
-## [oak-creek#6] 2026-10-08 | Town Board | agenda
+## [oak-creek#4] 2026-10-08 | Town Board | agenda
 - Notice is hereby given that a Regular Meeting of the Board of Trustees, Town of Oak Creek, Routt County, Colorado, will be held on Thursday, October 8, 2026 beginning at 6:00 p.m. in the Hearing Room,
 - 2. APPROVAL OF AGENDA
 - items. Please limit comments to three minutes. The Board of Trustees will take comments under consideration but
@@ -199,7 +120,7 @@
 - 10-00-2721 CAPITAL RESERVE - POLICE 11,055.00
 - 10-00-2723 CAPITAL RESERVE - STREETS 26,000.00
 
-## [oak-creek#7] 2026-10-08 | Town Board | agenda
+## [oak-creek#5] 2026-10-08 | Town Board | agenda
 - Notice is hereby given that a Regular Meeting of the Board of Trustees, Town of Oak Creek, Routt County, Colorado, will be held on Thursday, October 8, 2026 beginning at 6:00 p.m. in the Hearing Room,
 - 2. APPROVAL OF AGENDA
 - items. Please limit comments to three minutes. The Board of Trustees will take comments under consideration but
@@ -225,7 +146,7 @@
 - result of a disability, please call our office at (970) 736 -2422 or TDD access through RelayColorado by dialing 7 -1-1 to coordinate your needs. Please notify us of your request as soon as
 - possible to allow us time to meet your request. This institution is an equal opportunity provider and employer
 
-## [oak-creek#8] 2026-10-22 | Town Board | agenda
+## [oak-creek#6] 2026-10-22 | Town Board | agenda
 - Notice is hereby given that a Regular Meeting of the Board of Trustees, Town of Oak Creek, Routt County, Colorado, will be held on Thursday, October 22, 2026 beginning at 6:00 p.m. in the Hearing
 - 2. APPROVAL OF AGENDA
 - advice on specific legal questions pertaining to a potential development agreement between the Town of Oak
@@ -241,7 +162,7 @@
 - result of a disability, please call our office at (970) 736 -2422 or TDD access through RelayColorado by dialing 7 -1-1 to coordinate your needs. Please notify us of your request as soon as
 - possible to allow us time to meet your request. This institution is an equal opportunity provider and employer
 
-## [oak-creek#9] 2026-10-22 | Town Board | agenda
+## [oak-creek#7] 2026-10-22 | Town Board | agenda
 - Notice is hereby given that a Regular Meeting of the Board of Trustees, Town of Oak Creek, Routt County, Colorado, will be held on Thursday, October 22, 2026 beginning at 6:00 p.m. in the Hearing
 - 2. APPROVAL OF AGENDA
 - advice on specific legal questions pertaining to a potential development agreement between the Town of Oak
@@ -272,3 +193,63 @@
 - b. The Parties hereby terminate the Original Agreement in its entirety, which is superseded
 - and replaced by this Agreement
 - II. Deposit and Fees. Upon execution of this Agreement, Developer will pay a $5,000 cash
+
+## [oak-creek#8] 2026-11-12 | Town Board | agenda
+- Notice is hereby given that a Regular Meeting of the Board of Trustees, Town of Oak Creek, Routt County, Colorado, will be held on Thursday, November 12, 2026 beginning at 6:00 p.m. in the Hearing
+- 2. APPROVAL OF AGENDA
+- items. Please limit comments to three minutes. The Board of Trustees will take comments under consideration but
+- 5. CONSIDERATION AND POSSIBLE APPROVAL OF TOWN OF OAK CREEK RESOLUTION NO. 2026-023, “A
+- RESOLUTION CONFIRMING THAT ALL THREE (3) TRUSTEE CANDIDATES AT THE NOVEMBER 3, 2026,
+- ELECTION ARE DEEMED DULY ELECTED UPON CERTIFICATION OF THE RESULTS OF THE REGULAR
+- 7. DISCUSSION REGARDING AN AGREEMENT WITH THE ROUTT COUNTYSHERIFF’S OFFICE FOR LAW
+- 9. CONSIDERATION AND POSSIBLE APPROVAL OF A LEASE AGREEMENT WITH L. DEAN ROSSI FOR USE
+- 10. CONSIDERATION AND POSSIBLE APPROVAL OF A PROFESSIONAL SERVICES AGREEMENT BETWEEN
+- 11. CONSIDERATION AND POSSIBLE APPROVAL OF AN AUTHORIZATION TO PARTICIPATE IN AN OPIOID
+- SETTLEMENT AGREEMENT WITH ALBERTSON’S
+- 12. CONSIDERATION AND POSSIBLE AUTHORIZATION TO OUTSOURCE PAYROLL TO CASELLE IN THE
+- 13. CONSIDERATION AND POSSIBLE APPROVAL OF TOWN OF OAK CREEK RESOLUTION NO. 2026-24, “A
+- RESOLUTION APPOINTING AN INTERIM TOWN CLERK/TREASURER FOR THE TOWN OF OAK CREEK”
+- 14. CONSIDERATION AND POSSIBLE APPROVAL OF TOWN OF OAK CREEK RESOLUTION NO. 2026-025, “A
+- RESOLUTION OF THE BOARD OF TRUSTEES OF THE TOWN OF OAK CREEK AUTHORIZING THE TOWN
+- ADMINISTRATOR TO SUBMIT A GRANT APPLICATION TO THE DEPARTMENT OF LOCAL AFFAIRS
+- ENERGY IMPACT ASSISTANCE FUND GRANT PROGRAM REQUESTING UP TO $200,000 IN FUNDING TO
+- 15. DISCUSSION REGARDING THE POSSIBLE ADOPTION OF CONSTRUCTION MANAGEMENT STANDARDS
+- 16. DISCUSSION REGARDING THE POSSIBLE SUBMISSION OF A CHARGE AHEAD COLORADO GRANT FOR
+- 17. DISCUSSION REGARDING THE 2027 CAPITAL IMPROVEMENT PLAN
+- 18. DISCUSSION REGARDING THE 2027 ANNUAL BUDGET
+- 19. DISCUSSION REGARDING THE POSSIBILITY OF HAVING A BOARD RETREAT (MORNING WORK /
+- STRATEGY SESSION) IN JANUARY 2027
+- result of a disability, please call our office at (970) 736-2422 or TDD access through RelayColorado by dialing 7-1-1 to coordinate your needs. Please notify us of your request as soon as
+- possible to allow us time to meet your request. This institution is an equal opportunity provider and employer
+
+## [oak-creek#9] 2026-11-12 | Town Board | agenda
+- Notice is hereby given that a Regular Meeting of the Board of Trustees, Town of Oak Creek, Routt County, Colorado, will be held on Thursday, November 12, 2026 beginning at 6:00 p.m. in the Hearing
+- 2. APPROVAL OF AGENDA
+- items. Please limit comments to three minutes. The Board of Trustees will take comments under consideration but
+- 5. CONSIDERATION AND POSSIBLE APPROVAL OF TOWN OF OAK CREEK RESOLUTION NO. 2026-023, “A
+- RESOLUTION CONFIRMING THAT ALL THREE (3) TRUSTEE CANDIDATES AT THE NOVEMBER 3, 2026,
+- ELECTION ARE DEEMED DULY ELECTED UPON CERTIFICATION OF THE RESULTS OF THE REGULAR
+- 7. CONSIDERATION AND POSSIBLE APPROVAL OF A LEASE AGREEMENT WITH L. DEAN ROSSI FOR USE
+- 8. CONSIDERATION AND POSSIBLE APPROVAL OF A PROFESSIONAL SERVICES AGREEMENT BETWEEN
+- 9. CONSIDERATION AND POSSIBLE APPROVAL OF AN AUTHORIZATION TO PARTICIPATE IN AN OPIOID
+- SETTLEMENT AGREEMENT WITH ALBERTSON’S
+- 10. CONSIDERATION AND POSSIBLE APPROVAL OF TOWN OF OAK CREEK RESOLUTION NO. 2026-24, “A
+- RESOLUTION APPOINTING AN INTERIM TOWN CLERK/TREASURER FOR THE TOWN OF OAK CREEK”
+- 11. CONSIDERATION AND POSSIBLE APPROVAL OF TOWN OF OAK CREEK RESOLUTION NO. 2026-025, “A
+- RESOLUTION OF THE BOARD OF TRUSTEES OF THE TOWN OF OAK CREEK AUTHORIZING THE TOWN
+- ADMINISTRATOR TO SUBMIT A GRANT APPLICATION TO THE DEPARTMENT OF LOCAL AFFAIRS
+- ENERGY IMPACT ASSISTANCE FUND GRANT PROGRAM REQUESTING UP TO $XXX,XXX IN FUNDING TO
+- 12. DISCUSSION REGARDING THE POSSIBLE ADOPTION OF CONSTRUCTION MANAGEMENT STANDARDS
+- 13. DISCUSSION REGARDING THE POSSIBLE SUBMISSION OF A CHARGE AHEAD COLORADO GRANT FOR
+- 14. DISCUSSION REGARDING THE 2027 CAPITAL IMPROVEMENT PLAN
+- 15. DISCUSSION REGARDING THE 2027 ANNUAL BUDGET
+- 16. DISCUSSION REGARDING AN AGREEMENT WITH THE ROUTT COUNTYSHERIFF’S OFFICE FOR LAW
+- result of a disability, please call our office at (970) 736-2422 or TDD access through RelayColorado by dialing 7-1-1 to coordinate your needs. Please notify us of your request as soon as
+- possible to allow us time to meet your request. This institution is an equal opportunity provider and employer
+- TOWN OF OAK CREEK RESOLUTION NO. 2026-023
+- A RESOLUTION CONFIRMING THAT ALL THREE (3) TRUSTEE
+- ELECTED UPON CERTIFICATION OF THE RESULTS OF THE REGULAR
+- electors of the Town, the Board of Trustees desires to adopt this Resolution providing that
+- been duly elected, and thus shall serve full terms of office as provided by law upon certification of
+- of office as provided by law upon certification of the election results by the Routt County Clerk
+- year terms on the Board of Trustees upon certification of the election results, and shall be thereafter

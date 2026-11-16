@@ -1,99 +1,99 @@
 - title: 180-day data center moratorium
-  summary: Council took up an ordinance pausing acceptance, processing or approval of permits, licenses, zoning or other land use applications where a data center is a proposed use. It had initial consideration on Oct. 6 and an amended version came up for final consideration on Oct. 20.
+  summary: Council took up an ordinance pausing acceptance, processing or approval of any permit, license, zoning or land use application where a data center is a proposed use, for 180 days. It was introduced Oct 6 and an amended version came up for final consideration Oct 20.
   where: Citywide
   refs:
-  - 7
-  - 9
+  - 6
+  - 8
   topics:
   - Data centers
   - Zoning & development
   tags:
   - data-center
+- title: 2027 budget, 6.650-mill levy and 2027 fees
+  summary: Council reviewed the proposed 2027-2028 budgets in August, heard a 2027 rate and fee proposal in September, then took up adoption of the 2027 budget, a 6.650-mill property tax levy and the 2027 fee schedule on Nov 10. The Q2 2026 financial update and a third 2026 budget amendment were also considered.
+  where: Citywide
+  refs:
+  - 2
+  - 4
+  - 6
+  - 8
+  - 9
+  topics:
+  - Budget & taxes
+  - Fees & rates
 - title: Case Farms PUD rezoning (232 acres)
-  summary: Council held a public hearing and first reading on a zoning map amendment moving about 232 acres from Case Farms PUD to R-2 and open space and parks zoning. The Planning Commission had already acted on it (Resolution 26-09), and it returned on Sept. 1.
+  summary: Council considered a first-reading ordinance to rezone about 232 acres from the Case Farms PUD to R-2 and open space and parks designations, following Planning Commission Resolution 26-09.
   where: Case Farms, Brighton
   refs:
-  - 1
-  - 4
+  - 0
+  - 3
   topics:
   - Zoning & development
   - Housing
   - Parks & open space
 - title: Bromley Park PUD 38th and 39th amendments
-  summary: Council heard the Bromley Park PUD 38th Amendment near the I-76 frontage road and North 60th Avenue on Sept. 15 and Oct. 6, with an ordinance on Oct. 20. A 39th Amendment covering about 5.92 acres on Bromley Business Parkway near the BNSF railroad also came up Oct. 20.
-  where: I-76 Frontage Road and North 60th Avenue; Bromley Business Parkway
-  refs:
-  - 6
-  - 7
-  - 9
-  topics:
-  - Zoning & development
-  - Economic development
-- title: 2027-2028 budget, mill levy and 2027 fees
-  summary: Council reviewed the proposed 2027 and 2028 budgets and a Q2 2026 financial update in August. A 2027 rate and fee proposal followed in September, and the 2027 budget, mill levy and fees were on the Oct. 20 agenda. A third 2026 budget amendment was heard Oct. 6.
-  where: Citywide
-  refs:
-  - 3
-  - 5
-  - 7
-  - 9
-  topics:
-  - Budget & taxes
-  - Fees & rates
-- title: Comprehensive Plan and land use code rewrite
-  summary: Council reviewed the 80% draft of the Comprehensive Plan, land use scenarios for city-owned property on Bridge Street, and amendments to Land Use and Development Code Articles 1, 10 and 11. Articles 1 and 11 went to public hearing Sept. 15 and Oct. 6. Floodplain amendments to Section 10.02 followed Oct. 20.
-  where: Citywide; Bridge Street
-  refs:
-  - 0
-  - 6
-  - 7
-  - 9
-  topics:
-  - Zoning & development
-  - Land & property
-- title: 'Water system: bond refunding, chemicals and well contamination lawsuit'
-  summary: Council considered refunding the 2016 water revenue bonds with Series 2026 refunding bonds. It also awarded master price agreements for water treatment chemicals to Univar and PVS DX. On Oct. 6 it approved filing an amended complaint adding defendants in a case over contamination of a city drinking water well.
-  where: Citywide
+  summary: Council reviewed the 38th amendment to the Bromley Park PUD near the I-76 frontage road and North 60th Avenue in September, October and again Oct 20. A 39th amendment for about 5.92 acres near Bromley Business Parkway and the BNSF railroad followed in October and November.
+  where: I-76 frontage road and North 60th Avenue; Bromley Business Parkway
   refs:
   - 5
   - 6
-  - 7
+  - 8
+  - 9
+  topics:
+  - Zoning & development
+- title: 'Water system: 2016 bond refunding, chemicals and well contamination lawsuit'
+  summary: Council considered refunding the 2016 water revenue bonds as Series 2026 refunding bonds and awarded master price agreements for water treatment chemicals to Univar Solutions and PVS DX. It also approved filing an amended complaint adding defendants in a case over contamination of a city drinking water well.
+  where: Citywide
+  refs:
+  - 4
+  - 5
+  - 6
   topics:
   - Water
   - Lawsuits & legal
-  - Budget & taxes
-- title: Lupton Meadows reservoir and Cherry Meadows pond work
-  summary: Council reviewed Cherry Meadows pond maintenance and the Lupton Meadows reservoir design in study session. It then considered Change Order No. 3 with Engineering Analytics for the Lupton Meadow Reservoir design project.
-  where: Lupton Meadows; Cherry Meadows
+  - Fees & rates
+- title: Lochbuie to Metro lift station and pipeline contract
+  summary: Council considered a contract of about $4.7 million with Garney Companies for the Lochbuie to Metro Water Recovery Northern Treatment Plant lift station and pipeline project.
+  where: Lochbuie to Metro Water Recovery Northern Treatment Plant
   refs:
   - 8
   - 9
   topics:
   - Water
+  - Utilities
+- title: Lupton Meadows reservoir and Cherry Meadows pond work
+  summary: Council discussed Cherry Meadows pond maintenance and approved Change Order No. 3 with Engineering Analytics for the Lupton Meadow Reservoir design project.
+  where: Lupton Meadows; Cherry Meadows
+  refs:
+  - 7
+  - 8
+  topics:
+  - Water
   - Parks & open space
-- title: Police JAG grant and Flock
-  summary: Council considered accepting an Edward Byrne Memorial JAG grant and authorizing the police chief to sign it and other public safety grant agreements. Attached materials refer to Flock.
+- title: 'Land use code amendments: floodplain, parks and open space, administration'
+  summary: Council took up amendments to the Land Use and Development Code covering administration (Articles 1 and 11), Article 10 floodplain rules (Section 10.02), and parks and open space provisions.
   where: Citywide
   refs:
   - 5
   - 6
+  - 8
+  - 9
   topics:
-  - Policing & public safety
-- title: Board and commission appointment policy and Sustainability Board changes
-  summary: Council revised its policy on interviewing and appointing members of city boards and commissions. An ordinance amending Sustainability Board membership also moved forward in August and September.
+  - Zoning & development
+  - Environment & climate
+  - Parks & open space
+- title: Police JAG grant and Flock cameras
+  summary: Council considered accepting an Edward Byrne Memorial Justice Assistance Grant and authorizing the police chief to sign grant agreements. Materials reference a Flock presentation.
   where: Citywide
   refs:
-  - 1
   - 4
   - 5
-  - 6
   topics:
-  - Government operations
-- title: South Brighton GID ballot content
-  summary: The South Brighton General Improvement District considered a resolution to certify ballot content for an election.
-  where: South Brighton
+  - Policing & public safety
+- title: East Ridge Addition PUD major amendment
+  summary: A public hearing was set on a major amendment to the East Ridge Addition PUD covering about 1.34 acres north of Egbert Street and south of East Bridge Street.
+  where: North of Egbert St, south of E Bridge St, east of S 22nd Ave
   refs:
-  - 2
+  - 9
   topics:
-  - Elections
-  - Budget & taxes
+  - Zoning & development

@@ -1,59 +1,78 @@
-- title: 'Property tax ballot issue 2B: ten-year extension of 17.205-mill levy'
-  summary: The October 13 agenda includes an ordinance referring a ballot issue to voters and a resolution supporting Ballot Issue 2B, which would extend the Town's existing 17.205-mill property tax levy for ten years (2028 through 2037) without raising the rate. A related ordinance (2026-0012) refers a measure fixing the rate at 12.000 mills. The documents don't state outcomes.
+- title: 'Ballot Issue 2B: ten-year extension of the 17.205-mill property tax levy'
+  summary: The Board referred Ballot Issue 2B to voters, a ten-year extension (2028 through 2037) of the Town's existing 17.205-mill property tax levy without raising the rate, and passed a resolution of support. A related ordinance (2026-0012) would fix the rate at 12.000 mills. A resident disputed how the Clerk handled a public comment submitted in opposition to 2B.
   where: Townwide
   refs:
+  - 3
   - 4
   topics:
   - Budget & taxes
   - Elections
-- title: Water Blueprint Plan and long-term water supply
-  summary: The Board began the first of three working sessions with Brendle Group on a $50,000 Water Blueprint. Kersey isn't facing an immediate water emergency, but buy-and-dry pressure and Northern Water's native-supply requirement for new development may make its Colorado-Big Thompson water insufficient for growth. The plan is funded by a $37,500 DOLA grant, $10,000 from Northern Water and a $2,500 town match. A November work session is expected to cover it again.
+  public_comment: true
+- title: 2027 Town budget
+  summary: Town Manager Stacy Brown presented a preliminary 2027 budget in October that reflected direction from the September 22 work session. A public hearing to adopt the budget (Resolution 2026-0027) was set for the November 10 meeting.
   where: Townwide
   refs:
   - 2
-  - 3
-  topics:
-  - Water
-  - Zoning & development
-- title: Clark Street Storm Sewer Project contract
-  summary: The Board awarded the Clark Street Storm Sewer construction contract to Mountain Constructors, Inc., the second-lowest of 13 bidders, after staff raised concerns about the lowest bidder. The bid came in well below the engineer's estimate, and the company agreed to hold its pricing for 180 days while the Town awaits FEMA funding. Other project costs will be incurred separately.
-  where: Clark Street
-  refs:
-  - 2
-  topics:
-  - Utilities
-  - Roads & traffic
-- title: Adopting the 2024 International Fire Code
-  summary: Ordinance 2026-0010 adopts the 2024 International Fire Code, moving the Platte Valley Fire Protection District from the 2018 code and aligning it with the Town's already adopted 2024 building codes. It had first reading August 11 and a public hearing September 8, where no public comment was recorded. The new code addresses issues like energy storage systems.
-  where: Townwide
-  refs:
-  - 0
-  - 2
-  topics:
-  - Fire & emergencies
-  - Zoning & development
-- title: Renaming duplicate street names in Berryman Farms
-  summary: Staff asked the Board to authorize renaming streets east of 1st Street in the Berryman Farms subdivision because their names duplicate or resemble other Kersey streets, which could confuse police, fire and EMS dispatch. Staff would coordinate with residents, Weld County and emergency agencies and bring formal action back to the Board. Residents would need to update their addresses.
-  where: Berryman Farms subdivision, east of 1st Street
-  refs:
-  - 1
-  topics:
-  - Roads & traffic
-  - Fire & emergencies
-  - Policing & public safety
-- title: 2027 budget review
-  summary: The Board has a 2027 budget introduction and review at a September 22 work session and a preliminary budget presentation on October 13.
-  where: Townwide
-  refs:
   - 3
   - 4
   topics:
   - Budget & taxes
-- title: Kersey holiday event changes
-  summary: Staff sought Board feedback on changes to the Kersey Holiday event, citing community feedback from the RTAP workshop that showed a high priority on it.
+- title: Water Blueprint Plan and long-term water supply
+  summary: The Board began the first of three working sessions with Brendle Group on a $50,000 Water Blueprint, funded by a $37,500 DOLA grant, $10,000 from Northern Water and a $2,500 Town match. Northern Water now requires a native water supply for new development, and buy-and-dry pressure means the Town's Colorado-Big Thompson water may not support future growth.
+  where: Townwide
+  refs:
+  - 1
+  - 2
+  topics:
+  - Water
+  - Zoning & development
+- title: Water rate increase options and General Fund subsidy
+  summary: The November 10 agenda included a discussion of options for raising water rates and of possibly subsidizing water costs from the General Fund.
+  where: Townwide
+  refs:
+  - 4
+  topics:
+  - Fees & rates
+  - Water
+- title: Clark Street Storm Sewer Project contract
+  summary: The Town got 13 bids and awarded the construction contract to Mountain Constructors, Inc., the second-lowest bidder, after staff raised concerns about the lowest bidder's references and bid items. The bid came in well below the engineer's estimate and is held for 180 days while the Town waits on FEMA funding.
+  where: Clark Street, Kersey
+  refs:
+  - 1
+  topics:
+  - Utilities
+  - Roads & traffic
+- title: Renaming duplicate streets in Berryman Farms
+  summary: Several streets east of 1st Street in Berryman Farms share names with other streets, which could slow police, fire and EMS response. Staff asked the Board for authority to start renaming them, working with residents, Weld County and emergency agencies.
+  where: Berryman Farms subdivision, east of 1st Street
+  refs:
+  - 0
+  topics:
+  - Policing & public safety
+  - Fire & emergencies
+  - Government operations
+- title: Kohler Farm P.U.D. zoning amendment
+  summary: A public hearing was set on Ordinance 2026-0013, which would amend the Kohler Farm P.U.D. to a P.U.D. overlay with Industrial (I) zoning for Lots 1-20 and Outlots N and O.
+  where: Kohler Farm P.U.D.
+  refs:
+  - 4
+  topics:
+  - Zoning & development
+- title: Adoption of the 2024 International Fire Code
+  summary: After a public hearing with no public comment, the Board considered Ordinance 2026-0010 adopting the 2024 International Fire Code. The Deputy Fire Marshal said it streamlines the Town's fire code requirements and aligns them with the previously adopted code.
   where: Townwide
   refs:
   - 1
   topics:
-  - Tourism & events
+  - Fire & emergencies
+  - Government operations
+- title: Sign removal and code enforcement complaint
+  summary: Resident Bill Cannon told the Board that signs had long been allowed in a location despite a Town ordinance. He called their removal discriminatory and questioned how consistently the ordinance is enforced. The October 13 agenda also covered a code compliance approach centered on voluntary compliance.
+  where: Kersey
+  refs:
+  - 3
+  - 4
+  topics:
+  - Government operations
+  - Ethics & transparency
   public_comment: true

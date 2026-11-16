@@ -1,48 +1,6 @@
 # ophir
 
-## [ophir#0] 2025-11-12 | City Council | agenda
-- Notice of the Regular Meeting of the Ophir Planning and Zoning Commission
-- 1. Approve the Agenda
-- 2. Adoption and Approval of October 2025 P&Z Regular meeting minutes
-- i. Draft Town of Ophir Revegetation Ordinance and OEC Revegetation
-- ii. Draft Dark Sky/Lighting Ordinance
-- Regular Meeting of the Ophir Planning and Zoning Commission
-- 2. APPROVAL OF THE AGENDA
-- 3. APPROVAL OF MINUTES FROM JULY P&Z MEETING
-- a. Items P&Z discussed:
-- siding should be fire resistant. Boulder has adopted code on allowable siding
-- ii. P&Z discussed whether neighbor permission should be required for fencing installed
-- iii. Wood stove permitting: Currently, new builds have to certify wood stoves meet
-- in existing homes need a permit. P&Z thought that replacements should also get a
-- permit, but permit application and review should be free
-- iv. Parking spaces being in location where roof doesn’t shed snow: Mark thought this
-- permits?120 square feet was a number discussed as being the minimum size of a
-- building that needs a permit
-- and boats can be parked in parking spaces or within the town’s ROWs
-- Town of Ophir Ordinance No. [Number]
-- An Ordinance for Revegetation After Soil Disturbance
-- WHEREAS, the purpose of this ordinance is to set standards for revegetation after land
-- disturbances within the Town of Ophir to sustain and regenerate native plant diversity and
-- The ordinance aims to regenerate and sustain the diversity of native plants and pollinators within
-- This ordinance applies to all types of soil disturbances including, but not limited to, new
-- construction, renovations, water and powerline installations, septic system installations, road
-- Acknowledging Ophir's unique position within intact ecosystem, this ordinance supports the
-- Section 4: Requirement for Revegetation Plan
-- Each project prior to soil disturbance must follow Ophir’s Revegetation Requirements
--  Submit a Revegetation Plan that Includes:
-- o Monitoring and maintenance strategies to ensure successful plant establishment
-- Non-compliance with this ordinance shall result in penalties, including but not limited to fines
-- If any provision of this ordinance is found to be invalid, the remaining provisions shall continue
-- This ordinance shall take effect on [effective date]
-- Approved by:
-- The town of Ophir seeks to both regenerate and sustain the diversity of
-- construction, renovations, water & powerline installation, septic system
-- installation, road work, event planning, etc. This hand out is a guide for the
-- requirements placed upon projects with the Town of Ophir
-- The Revegetation Plan
-- Each project prior to excavation that intends to disturb soil is required to submit a Revegetation Plan. This plan
-
-## [ophir#1] 2025-12-10 | City Council | agenda
+## [ophir#0] 2025-12-10 | City Council | agenda
 - Notice of the Regular Meeting of the Ophir Planning and Zoning Commission
 - 1. Approve the Agenda
 - 2. Adoption and Approval of November 2025 P&Z Regular meeting minutes
@@ -56,7 +14,7 @@
 - Approved Seed List
 - of business. Suggest case-by-case approval by Manager, OEC Chair, etc
 
-## [ophir#2] 2026-01-15 | City Council | agenda
+## [ophir#1] 2026-01-15 | City Council | agenda
 - Notice of the Regular Meeting of the Ophir Planning and Zoning Commission
 - 1. Approve the Agenda
 - 2. Adoption and Approval of December 2025 P&Z Regular meeting minutes
@@ -68,7 +26,7 @@
 - Review and Approval of wood styled cement board wildfire resistant siding
 - combustible and is therefore wildfire resistant
 
-## [ophir#3] 2026-03-11 | City Council | agenda
+## [ophir#2] 2026-03-11 | City Council | agenda
 - Notice of the Regular Meeting of the Ophir Planning and Zoning Commission
 - 1. Approve the Agenda
 - 2. Adoption and Approval of February 2026 P&Z Regular meeting minutes
@@ -108,7 +66,7 @@
 - (See attached documents, photos, and site plans)
 - (3) PROOF OF NOTIFICATION: The Applicant must provide notice in accordance with §1103.3 of the Ophir
 
-## [ophir#4] 2026-05-13 | City Council | agenda
+## [ophir#3] 2026-05-13 | City Council | agenda
 - Notice of the Regular Meeting of the Ophir Planning and Zoning Commission
 - 1. Approve the Agenda
 - 2. Adoption and Approval of April 2026 P&Z Regular meeting minutes
@@ -148,7 +106,7 @@
 - §201.2 Text. In case of any difference of meaning or implication between the text of this Zoning
 - §201.3 Computation of time. For all application submittals, appeals of administrative or
 
-## [ophir#5] 2026-06-10 | City Council | agenda
+## [ophir#4] 2026-06-10 | City Council | agenda
 - Notice of the Regular Meeting of the Ophir Planning and Zoning Commission
 - 1. Approve the Agenda
 - 2. Adoption and Approval of April 2026 P&Z Regular meeting minutes
@@ -188,7 +146,7 @@
 - c. Foundation Plan
 - a. Planning and Zoning approval. P&Z generally reviews plans on the second Tuesday of each
 
-## [ophir#6] 2026-09-09 | City Council | agenda
+## [ophir#5] 2026-09-09 | City Council | agenda
 - Notice of the Regular Meeting of the Ophir Planning and Zoning Commission
 - 1. Approve the Agenda
 - 2. Adoption and Approval of July 2026 P&Z Regular meeting minutes
@@ -224,7 +182,7 @@
 - Introduced, Read, and Referred to Public Hearing on First Reading by the General Assembly of the Town
 - Approved and Adopted on Second and Final Reading as Amended by the General Assembly of the Town of
 
-## [ophir#7] 2026-10-14 | City Council | agenda
+## [ophir#6] 2026-10-14 | City Council | agenda
 - Notice of the Regular Meeting of the Ophir Planning and Zoning Commission
 - 1. Approve the Agenda
 - 2. Adoption and Approval of September 2026 P&Z Regular meeting minutes

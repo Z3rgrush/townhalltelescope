@@ -1,62 +1,51 @@
 # grand-county
 
-## [grand-county#0] 2026-08-12 | Board of Adjustment | agenda
-- 2) Approval of June 10, 2026 Minutes
+## [grand-county#0] 2026-09-09 | Planning Commission | minutes
+- II. APPROVAL OF MINUTES
+- Chair Ryan McNertney entertained a motion for the approval of the August 12, 2026 meeting
+- Motion: Lynn Adams motioned to approve minutes with corrections
+- Agenda Item 1: Ridge Point Townhomes – Sketch Plan
+- Project Name: Ridge Point Townhomes (Amended Final Plat / Sketch Plan)
+- Staff Presenter: Hannah Mahorney Community Development, Planner I
+- Location: Lot 27, Block 1, Winter Park Ranch Second Filing Replat
+- Zoning: R – Residential District
+- Staff Recommendation: Approval with eight (8) conditions
+- Project Overview & Background
+- Hannah Mahorney presented an application for an expedited subdivision review for Ridge Point
+- Condominiums. While structured similarly to an Amended Final Plat, the submittal is being
+- processed as an expedited subdivision combining Preliminary and Final Plat reviews into a
+- during the original 8-unit approval in 2023
+- development into a 6-unit residential townhome subdivision, incorporating direct-access
+- Master Plan Compliance: The proposal aligns with Element 3 (Infill development within
+- Urban Growth Area No. 1), Element 4 (utilization of adjacent water, sewer, and electric
+- infrastructure), and Element 5 (proximity to the seasonal Winter Park Lift transit
+- Zoning Compliance: Multi-family residential use is permitted. Required setbacks (30
+- Road & Bridge / Access: Access is provided via a private 24-foot drive connecting to
+- County Road 834. A single point of ingress/egress is supported under Section 3.4.2 of
+- the Road and Bridge Standards (fewer than 9 units, length under 600 feet, and
+- turnaround provided), subject to written agreement from the East Grand Fire Protection
+- District and the Grand County Road and Bridge Department. Driveway and parking
+- Utilities & Infrastructure: The property is served by the Winter Park Ranch Water and
+- reports are required. Plat notes will mandate radon mitigation and slope protections
+- Conditions of Approval
+- Staff recommends approval of the Ridge Point Townhomes / Sketch Plan, subject to the
+- Preliminary/Final Plat submittal:
+- 1. Submittal Compliance: All Preliminary and Final Plat submittal requirements shall be
+- 2. Landscape Plan: The Applicant shall submit a comprehensive Landscape Plan with the
+- Preliminary/Final Plat, detailing planting types, sizes, watering requirements, a
+- revegetation plan, and construction cost estimates in compliance with C.R.S. § 37-99
+- 3. Radon Mitigation Plat Note: A plat note shall be added stating:
+- "A radon mitigation system shall be incorporated into the design of any occupied
+- road and parking areas shall be paved with asphalt and engineered under a formal
 
-## [grand-county#1] 2026-08-12 | Planning Commission | minutes
-- APPROVAL OF MINUTES
-- Chair Cliff Foster entertained a motion for the approval of the July 8, 2026 meeting minutes
--  Project Name: Devil’s Thumb Ranch High Lonesome Lodge Outright Exemption
--  Zoning: Forestry and Open (Outside Growth Boundary)
--  Staff Recommendation: Conditional Approval
-- Staff Presentation & Project Overview
-- Planner I Hannah Mahorney presented a request two Outright Exemptions to subdivide a
-- 44.33-acre parcel into two separate lots. Lot 1 is proposed to be 8.82 acres and is configured to
-- accommodate the existing lodge and associated improvements. Lot 2 is proposed to be 32.60
-- While this request initially resembles a Subdivision Exemption, it does not meet the eligibility
-- Conditions of approval
-- Staff recommends approval of the Devils Thumb Ranch High Lonesome Lodge Outright
-- 1. The title of the plat shall read “Devil’s Thumb Ranch High Lonesome Lodge
-- 2. Easements of not less than twenty feet (20') in width shall be provided along rear
-- 3. Easements of not less than twenty feet (20') in width shall be provided along rear
-- 4. The lots that are not part of this proposal shall have “not part of this plat” on
-- 5. A plat note shall be added that states “Lot 2 is limited to one single family
-- 6. The recycling shed shall be shown on the plat
-- Colorado Limited Liability Company” throughout the plat
-- 8. The Surveyor’s Certificate shall say "monuments required by said statute and by
-- 10. The recycling center shall be shown on the plat
-- 12. An electronic copy of the approved plat in AutoCAD.dwg or AutoCAD.dxf format
-- 14. All recording fees shall be paid by the Applicants
-- and one (Lot 2) designated for a potential future single-family home. Water
-- rights are not an issue; the division would grant a well permit for the new lot
-- Staff recommended approval with 14 conditions, including a minor condition to
-- make lot lines more visible on the plat
-- o Cliff Foster: Asked whether adjacent property owners were notified and whether
-- o Hannah Confirmed no public notice is required for this type of application, and
-- o Motion to recommend approval of the Devil's Thumb Ranch Outright Exemption
-- o Motion passed unanimously. Resolution 2026-8-1
-- Agenda Item 2: Good to Go portable toilet storage Special Use Permit
-- Project Name: Good to Go portable toilet storage Special Use Permit
-- Zoning: Forestry and Open (Outside Growth Boundary)
-- Staff Recommendation: Conditional Approval
-- current owner of the Bergquist Outright Exemption. This request is to allow for a Special Use
-- Permit (SUP) for the storage of up to two hundred (200) clean and empty portable toilets for
-
-## [grand-county#2] 2026-09-09 | Planning Commission | agenda
-- Location: Replat of Lots 27, Block 1, Replat of Winter Park Ranch Second Filing all
-- Agenda 2) Grand County Subdivision Regulation Amendments
-- Location: Unincorporated Grand County
-- Agenda 3) Grand County Planned Unit Development Regulation Amendments
-- Agenda 4) Grand County Master Plan Update
-
-## [grand-county#3] 2026-09-14 | Middle Park Fair and Rodeo | minutes
+## [grand-county#1] 2026-09-14 | Middle Park Fair and Rodeo | minutes
 - Presentation
 - no-tax-increase
 - consideration;
 - Applications
 - application,
 
-## [grand-county#4] 2026-10-05 | County Commissioners | agenda
+## [grand-county#2] 2026-10-05 | County Commissioners | agenda
 - BUDGET HEARINGS Agendas – October 5-7, and 8-9 (If Necessary), 2026
 - GRAND COUNTY BUDGET HEARING AGENDA
 - 8:30 a.m. Open the Budget Hearings
@@ -82,7 +71,7 @@
 - 10:15 Budget Deliberations
 - 1:00 p.m. Budget Deliberations
 
-## [grand-county#5] 2026-10-06 | County Commissioners | agenda
+## [grand-county#3] 2026-10-06 | County Commissioners | agenda
 -  Approval of Board Minutes
 -  Finance, Approval of Weekly Payments
 -  General Public Comments
@@ -94,11 +83,11 @@
 - Middle Park Market Café, LLC dba Middle Park Meat Company and Jon Schein
 - 9:15 a.m. BUDGET HEARINGS
 
-## [grand-county#6] 2026-10-12 | Middle Park Fair and Rodeo | minutes
+## [grand-county#4] 2026-10-12 | Middle Park Fair and Rodeo | minutes
 - representation
 - application,
 
-## [grand-county#7] 2026-10-17 | Historical Preservation Board | minutes
+## [grand-county#5] 2026-10-17 | Historical Preservation Board | minutes
 - Tuesday, September 1, 20266:30 p.m.Grand County Road and Bridge Offices467 Topaz Ave., Granby, Colorado
 - Vacant: Winter Park representative
 - Board members introduced themselves and briefly described their backgrounds, community representation, and experience related to historic preservation
@@ -117,7 +106,7 @@
 - A member of the public asked what types of properties and resources may qualify for historic designation, including whether historic sites and roads may be eligible
 - The Board discussed the designation criteria contained in its governing resolution and noted that eligible historic resources are not limited to buildings and may include landmarks, sites, districts, and cultural landscapes associated with Grand County’s history, provided the applicable designation 
 
-## [grand-county#8] 2026-10-20 | County Commissioners | agenda
+## [grand-county#6] 2026-10-20 | County Commissioners | agenda
 -  Approval of Board Minutes
 - o Approval of Weekly Payments
 - o Fifth Asset, Inc. dba DebtBook Contract Renewal
@@ -133,7 +122,7 @@
 - 10:30 a.m. Public Hearing - Grand County Departmental Fee Changes
 - 11:00 a.m. Public Hearing - Model Traffic Code Amendment, Ordinance 23, Second Reading
 
-## [grand-county#9] 2026-10-27 | County Commissioners | agenda
+## [grand-county#7] 2026-10-27 | County Commissioners | agenda
 -  Approval of Board Minutes
 -  Finance, Approval of Weekly Payments
 -  General Public Comments
@@ -151,8 +140,58 @@
 - 12:30 p.m. Public Hearing - Colorado Skijoring / dba Grand Lake Skijoring Temporary Use
 - Permit (continued from 10/13/2026)
 
-## [grand-county#10] 2026-10-27 | Board of Appeals | agenda
+## [grand-county#8] 2026-10-27 | Board of Appeals | agenda
 - Appeal 1) Stillwater Storage – 9405 U.S. HWY 34 – Building Permits No. GC-B-2026-0231 & GC-B
 - Appeal 2) Storage At The Fort/Uplift – 10393 U.S. Highway 34, Building D – Building Permit GC-B
 - concerning the application and interpretation of Grand County’s adopted building code
 - regarding the Storage at the Fort/Uplift Self Storage project at 10393 U.S. Highway 34
+
+## [grand-county#9] 2026-11-04 | County Commissioners | agenda
+-  Approval of Board Minutes
+-  Finance, Approval of Weekly Payments
+-  General Public Comments
+- o Commissioners and Staff typically do not respond during public comments
+-  Departmental Contracts and Updates
+- o Road and Bridge / Grand County Airports
+- o Grand County Housing Authority Board
+-  Coyote Creek Applications for Exemption
+-  Vyanet Contract Amendment
+- Understanding Amendment (DocuSign)
+- o Community Development
+-  Resolution 2026-11-3 Closing Cellular Tower Special Use Permit No
+-  Resolution 2026-11-2 Partial Release of Funds, Ridgeview Townhomes
+- 10:15 a.m. Budget Hearings (Continued) - Departmental Budget Rebuttals
+- 10:30 a.m. Northwest Colorado Council of Governments Programs Presentation,
+
+## [grand-county#10] 2026-11-09 | Middle Park Fair and Rodeo | agenda
+- Approve October 12th meeting minutes
+- Public Comments - limited to 3 minutes
+- 2027 Budget approval
+
+## [grand-county#11] 2026-11-10 | County Commissioners | agenda
+-  Approval of Board Minutes
+- o Approval of Weekly Payments
+-  General Public Comments
+- o Commissioners and Staff typically do not respond during public comments
+-  Departmental Contracts and Updates
+- Request for Bilingual Health Educator
+-  Plains to Peaks Rural Health Transformation (RHTP) Grant Agreement
+-  Out-of-State Travel Request
+- o Community Development, Grand County Planning Commission and Board of
+- Adjustment Appointments
+- o Road and Bridge, Plow Truck Purchase Order
+- o Resolution 2026-11-08, Certification of Blight Violation Penalties, 115 CR 6421,
+- o Grand County Surveyor Discussion
+- 10:45 a.m. Community Priorities Fund Fall Grant Cycle
+- 11:15 a.m. Budget Hearings (Continued) - Final Budget Determination / Approve Budget
+- 1:00 p.m. Public Hearing - Grand County Road Hearings (Continued from Sept. 22, 2026)
+- 1:20 p.m. Workshop - Master Plan Update, Community Development
+- 2:30 p.m. Request for Building Permit Fee Refund GC-B-2024-0598, Bryce and Patricia
+- McCallum; Community Development
+
+## [grand-county#12] 2026-11-12 | Planning Commission | agenda
+- Agenda 1) Guz’s Auto – Special Use Permit (Automotive Repair Facility)
+- Agenda 2) Wyatt’s Performance Auto and Diesel LLC – Special Use Permit (Automotive Repair
+- Agenda 3) Summit Trail Townhomes – Sketch Plan
+- Agenda 4) Zoning Regulations Amendments – Requiring a Special Use Permit for Events, Gatherings,
+- Location: Unincorporated Grand County

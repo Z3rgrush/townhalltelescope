@@ -1,49 +1,6 @@
 # san-miguel-county
 
-## [san-miguel-county#0] 2026-08-13 | Planning Commission | agenda
-- Click Raise Hand in the webinar controls. The host will be notified that you've raised your hand
-- 2. Approval of Minutes, Planning Commission and Staff Comments
-- NOTE: All times are approximate; items may begin earlier (except public hearings) or
-
-## [san-miguel-county#1] 2026-08-13 | Planning Commission | agenda
-- Click Raise Hand in the webinar controls. The host will be notified that you've raised your hand
-- 2. Approval of Minutes, Planning Commission and Staff Comments
-- NOTE: All times are approximate; items may begin earlier (except public hearings) or
-- Kris Rauscher, Community Development Permit Technician
-- processes. Another work session is scheduled for July 29th and will include the housing code
-- Motion by Josselin Lifton-Zoline to approve the May 14th, 2026 minutes
-- 3. Land Use Code Amendment Recommendation
-- a. Land Use Code Amendment: Natural Medicine
-- John Huebner, Senior Planner, gave a presentation on Land Use Code Amendment:
-- that would qualify under 53104B, but are within 1,000 feet of a daycare facility and
-- have no financial interest in this regulation. The commission asked zoning questions
-- Public Comment: None
-- amendments to San Miguel County Land Use Code to add Section 5-31 Natural
-- Medicine and related amendments in Article 7, Definitions in order to provide
-- standards that determine where and how Natural Medicine businesses will operate, as
-- presented, based on the finding that the proposed amendments complies with the
-- standards of Land Use Code Section 5-1802, Land Use Code Amendments, and is
-- 4. Land Use Code Amendment Recommendation
-- a. Land Use Code Amendment: Nonconforming Lots
-- depending on which of the two proposed amendment options the Planning
-- Public Comment: Stephanie Soloman (Watt Attorney), Chris Hawkins (Alpine
-- Commissioners to adopt amendments to San Miguel County Land Use Code Sections
-- Definitions, to permit Uses Allowed by Right and Uses Allowed subject to
-- Administrative Review on Nonconforming Lots, and allow consideration of Special
-- Use Permits as presented, based on the finding that the proposed amendment complies
-- with the standards of Land Use Code Section 5-1802, Land Use Code Amendments,
-- 5. Land Use Code Amendment Recommendation
-- a. Land Use Code Amendment: Affordable Housing Qualified Developer
-- Kaye Simonson, Planning Director, gave a presentation regarding Land Use Code
-- Amendment: Affordable Housing Qualified Developer. Staff clarified questions from
-- commissioners on how passing this amendment would impact the towns throughout
-- Commissioners to adopt amendments to San Miguel County Land Use Code to amend
-- Section 5-1305 - Guidelines, Rules and Regulations Governing Affordable Housing in
-- Owner, as presented, based on the finding that the proposed amendment complies with
-- the standards of Land Use Code Section 5-1802, Land Use Code Amendments, and is
-- 6. Land Use Code Amendment Recommendation
-
-## [san-miguel-county#3] 2026-08-24 | Open Space Commission | agenda
+## [san-miguel-county#1] 2026-08-24 | Open Space Commission | agenda
 - 2. Approval of Meeting Minutes
 - b. Parks + Open Space Manager Job Description Posted
 - c. Mill Creek Park Grass Seeded
@@ -53,14 +10,14 @@
 - a. Black Swift - Citizen Concerns of water flow-diversion, Bridal Veil CE
 - considered a San Miguel County Committee Meeting
 
-## [san-miguel-county#5] 2026-08-27 | General | agenda
+## [san-miguel-county#3] 2026-08-27 | General | agenda
 - 3. Landowner Response to Noxious Weed Fund Grant
 - 5. Approval of Minutes
 - a. Approval of the May 2026 minutes./MOTION - Julie Kolb, Director
 - 6. Enforcement considerations
 - considered a San Miguel County Committee Meeting
 
-## [san-miguel-county#6] 2026-08-27 | General | agenda
+## [san-miguel-county#4] 2026-08-27 | General | agenda
 - 3. Landowner Response to Noxious Weed Fund Grant
 - 5. Approval of Minutes
 - a. Approval of the May 2026 minutes./MOTION - Julie Kolb, Director
@@ -83,7 +40,7 @@
 - availability of grant funding for noxious weed treatments
 - Allocation scenarios and ideas for this grant will be drafted by Julie Kolb for future discussion
 
-## [san-miguel-county#9] 2026-09-10 | Planning Commission | agenda
+## [san-miguel-county#7] 2026-09-10 | Planning Commission | agenda
 - Click Raise Hand in the webinar controls. The host will be notified that you've raised your hand
 - 2. Approval of Minutes, Planning Commission and Staff Comments
 - 3. Land Use Code Amendment Recommendation
@@ -94,7 +51,7 @@
 - a. Land Use Code Amendment: Geothermal
 - NOTE: All times are approximate; items may begin earlier (except public hearings) or
 
-## [san-miguel-county#10] 2026-09-10 | Planning Commission | agenda
+## [san-miguel-county#8] 2026-09-10 | Planning Commission | agenda
 - Click Raise Hand in the webinar controls. The host will be notified that you've raised your hand
 - 2. Approval of Minutes, Planning Commission and Staff Comments
 - 3. Land Use Code Amendment Recommendation
@@ -133,7 +90,7 @@
 - Recent Projects
 - Logging activities in the County in recent years have primarily been related to wildfire mitigation
 
-## [san-miguel-county#11] 2026-09-15 | Housing Code Update SSR | agenda
+## [san-miguel-county#9] 2026-09-15 | Housing Code Update SSR | agenda
 - (In-person attendance requested)
 - During this meeting, we will review and discuss recommendations for changes to the Land
 - Use Code that will make affordable and workforce housing easier to build. The feedback
@@ -169,14 +126,14 @@
 - be waived, and sales and use tax cannot be waived
 - Provide incentives for deed-restricted ADUs: determined not to be an effective tool at this time
 
-## [san-miguel-county#14] 2026-09-24 | General | agenda
+## [san-miguel-county#12] 2026-09-24 | General | agenda
 - ARCHULETA, MONTEZUMA, DOLORES, LA PLATA, AND SAN
 - IS AN INFORMAL DISCUSSION
 - 3. Discussion Topics
 - a. Updates from the five Counties (Archuleta, San Miguel County, Montezuma, La Plata,
 - b. Discussion with the Southern Ute Indian Council — Gas Enterprise Pipeline Spill
 
-## [san-miguel-county#15] 2026-09-28 | Open Space Commission | agenda
+## [san-miguel-county#13] 2026-09-28 | Open Space Commission | agenda
 - 2. Approval of Meeting Minutes
 - b. Budget update
 - d. Priority Projects: areas to cut on work plan for 2020, discuss input and prepare for the
@@ -184,7 +141,7 @@
 - Manager and Parks Supervisor; early November
 - considered a San Miguel County Committee Meeting
 
-## [san-miguel-county#16] 2026-09-28 | Open Space Commission | agenda
+## [san-miguel-county#14] 2026-09-28 | Open Space Commission | agenda
 - 2. Approval of Meeting Minutes
 - b. Budget update
 - d. Priority Projects: areas to cut on work plan for 2020, discuss input and prepare for the
@@ -223,7 +180,7 @@
 - ○ Irrigation redesigned, retaining wall revised to preserve parking, ADA stairs re
 - ○ Governor’s visit being coordinated for sculpture unveiling; may align with park
 
-## [san-miguel-county#17] 2026-09-30 | General | agenda
+## [san-miguel-county#15] 2026-09-30 | General | agenda
 - Public comments on specific agenda items will be permitted at the Chair's discretion and as time
 - allows. Each public comment will be limited to 3 minutes. Members of the public who wish to
 - comments should the time for public comment during the meeting be limited. The Chair will not
@@ -235,7 +192,7 @@
 - Hearings, and Special Meetings are recorded, and ACTION MAY BE TAKEN ON ANY
 - San Miguel Commissioners may hold an Executive Session to discuss noticed agenda items
 
-## [san-miguel-county#18] 2026-09-30 | General | agenda
+## [san-miguel-county#16] 2026-09-30 | General | agenda
 - Public comments on specific agenda items will be permitted at the Chair's discretion and as time
 - allows. Each public comment will be limited to 3 minutes. Members of the public who wish to
 - comments should the time for public comment during the meeting be limited. The Chair will not
@@ -269,7 +226,7 @@
 - square feet. See table in Appendix B for Telluride’s EHIMF calculations at 2,001 s.f,
 - to account for construction workers only. It utilizes a 60% mitigation rate across all
 
-## [san-miguel-county#19] 2026-10-01 | Lodging Tax Panel | agenda
+## [san-miguel-county#17] 2026-10-01 | Lodging Tax Panel | agenda
 - SAN MIGUEL COUNTY LODGING TAX BOARD
 - 4. Public Comment for Items Not on the Agenda
 - a. Approval of Minutes: June 18, 2026
@@ -283,7 +240,7 @@
 - Motion by John Duncan to approve the minutes from the March 19, 2026 LTP
 - Title: Review of Lodging Tax Reports, if available
 
-## [san-miguel-county#20] 2026-10-01 | Lodging Tax Panel | agenda
+## [san-miguel-county#18] 2026-10-01 | Lodging Tax Panel | agenda
 - SAN MIGUEL COUNTY LODGING TAX BOARD
 - 4. Public Comment for Items Not on the Agenda
 - a. Approval of Minutes: June 18, 2026
@@ -291,7 +248,7 @@
 - Hearings, and Special Meetings are recorded, and ACTION MAY BE TAKEN ON ANY
 - San Miguel Commissioners may hold an Executive Session to discuss noticed agenda items
 
-## [san-miguel-county#22] 2026-10-08 | Planning Commission | agenda
+## [san-miguel-county#20] 2026-10-08 | Planning Commission | agenda
 - Click Raise Hand in the webinar controls. The host will be notified that you've raised your hand
 - 2. Approval of Minutes, Planning Commission and Staff Comments
 - a. Work Session: Affordable Housing Code Update
@@ -299,7 +256,7 @@
 - a. Land Use Code Amendment: Subdivisions and Condominium Plats
 - NOTE: All times are approximate; items may begin earlier (except public hearings) or
 
-## [san-miguel-county#23] 2026-10-08 | Planning Commission | agenda
+## [san-miguel-county#21] 2026-10-08 | Planning Commission | agenda
 - Click Raise Hand in the webinar controls. The host will be notified that you've raised your hand
 - 2. Approval of Minutes, Planning Commission and Staff Comments
 - a. Work Session: Affordable Housing Code Update
@@ -338,7 +295,7 @@
 - amendment complies with the standards of Land Use Code Section 5-1802, Land Use
 - Code Amendments, and is consistent with Land Use Code Section 1-4, Purposes of the
 
-## [san-miguel-county#25] 2026-10-21 | Board of County Commissioners | agenda
+## [san-miguel-county#23] 2026-10-21 | Board of County Commissioners | agenda
 - Public comments on specific agenda items will be permitted at the Chair's discretion and as time
 - allows. Each public comment will be limited to 3 minutes. Members of the public who wish to
 - the time for public comment during the meeting be limited. The Chair will not invite public
@@ -363,7 +320,7 @@
 - Hearings, and Special Meetings are recorded, and ACTION MAY BE TAKEN ON ANY
 - San Miguel Commissioners may hold an Executive Session to discuss noticed agenda items
 
-## [san-miguel-county#26] 2026-10-21 | Board of County Commissioners | agenda
+## [san-miguel-county#24] 2026-10-21 | Board of County Commissioners | agenda
 - Public comments on specific agenda items will be permitted at the Chair's discretion and as time
 - allows. Each public comment will be limited to 3 minutes. Members of the public who wish to
 - the time for public comment during the meeting be limited. The Chair will not invite public
@@ -400,7 +357,7 @@
 - WHEREAS, pursuant to title 29, article 1, part 2, C.R.S., as amended, and Article XIV, section 18 of
 - the Colorado Constitution, governments may contract with one another to provide any function, service,
 
-## [san-miguel-county#27] 2026-10-22 | Board of Adjustment | agenda
+## [san-miguel-county#25] 2026-10-22 | Board of Adjustment | agenda
 - 4. Consideration of Variance Application
 - a. Town of Mountain Village Parcel #456536200023, request to reduce the setback from
 - County Road 63L Right-of-Way
@@ -408,7 +365,7 @@
 - a. Approval of October 2025 Minutes
 - NOTE: All times are approximate; items may begin earlier (except public hearings) or
 
-## [san-miguel-county#28] 2026-10-22 | Board of Adjustment | agenda
+## [san-miguel-county#26] 2026-10-22 | Board of Adjustment | agenda
 - 4. Consideration of Variance Application
 - a. Town of Mountain Village Parcel #456536200023, request to reduce the setback from
 - County Road 63L Right-of-Way
@@ -445,7 +402,7 @@
 - (10) feet to adjacent buildings on the detached side
 - Public Notice was sent to all property owners within 500 feet of the subject property and the
 
-## [san-miguel-county#29] 2026-10-26 | San Miguel Basin Fair Board | agenda
+## [san-miguel-county#27] 2026-10-26 | San Miguel Basin Fair Board | agenda
 - 2. Approve Agenda
 - 3. Approve Minutes
 - 4. Guest Presentations: SMC County Manager - Mike Bordogna, Fair Board Nonprofit
@@ -457,7 +414,7 @@
 - Hearings, and Special Meetings are recorded, and ACTION MAY BE TAKEN ON ANY
 - San Miguel Commissioners may hold an Executive Session to discuss noticed agenda items
 
-## [san-miguel-county#30] 2026-10-28 | General | agenda
+## [san-miguel-county#28] 2026-10-28 | General | agenda
 - Public comments on specific agenda items will be permitted at the Chair's discretion and as time
 - allows. Each public comment will be limited to 3 minutes. Members of the public who wish to
 - the time for public comment during the meeting be limited. The Chair will not invite public
@@ -469,7 +426,7 @@
 - Hearings, and Special Meetings are recorded, and ACTION MAY BE TAKEN ON ANY
 - San Miguel Commissioners may hold an Executive Session to discuss noticed agenda items
 
-## [san-miguel-county#31] 2026-10-28 | General | agenda
+## [san-miguel-county#29] 2026-10-28 | General | agenda
 - Public comments on specific agenda items will be permitted at the Chair's discretion and as time
 - allows. Each public comment will be limited to 3 minutes. Members of the public who wish to
 - the time for public comment during the meeting be limited. The Chair will not invite public
@@ -496,7 +453,7 @@
 - ● Fire mitigation on county-owned DV property - Jeanne Stewart asked and we said we’d look into it
 - Title: Project Update - Telluride Fire Protection District for the Placerville Station 3
 
-## [san-miguel-county#32] 2026-10-29 | Noxious Weed Advisory Board | agenda
+## [san-miguel-county#30] 2026-10-29 | Noxious Weed Advisory Board | agenda
 - Location of Meeting: Sheriff's Annex 1110 Summit St., Norwood, Colorado 81423
 - 2. Approval of Meeting Minutes
 - a . Approval of Minutes 8/27/2026
@@ -535,7 +492,7 @@
 - Beautiful Grant work should be completed by 11/2025
 - hear comments from a full discussion at a properly noticed and scheduled meeting of the CWAB
 
-## [san-miguel-county#33] 2026-11-04 | Board of County Commissioners | agenda
+## [san-miguel-county#31] 2026-11-04 | Board of County Commissioners | agenda
 - Public comments on specific agenda items will be permitted at the Chair's discretion and as time
 - allows. Each public comment will be limited to 3 minutes. Members of the public who wish to
 - the time for public comment during the meeting be limited. The Chair will not invite public
@@ -560,7 +517,7 @@
 - Hearings, and Special Meetings are recorded, and ACTION MAY BE TAKEN ON ANY
 - San Miguel Commissioners may hold an Executive Session to discuss noticed agenda items
 
-## [san-miguel-county#34] 2026-11-04 | Board of County Commissioners | agenda
+## [san-miguel-county#32] 2026-11-04 | Board of County Commissioners | agenda
 - Public comments on specific agenda items will be permitted at the Chair's discretion and as time
 - allows. Each public comment will be limited to 3 minutes. Members of the public who wish to
 - the time for public comment during the meeting be limited. The Chair will not invite public
@@ -598,7 +555,7 @@
 - Districts. Hauling Gravel to projects in both the Basin and Egnar Districts. Time was spent
 - in all three Districts cleaning culverts, grading roads, repairing and cleaning cattleguards,
 
-## [san-miguel-county#35] 2026-11-09 | General | agenda
+## [san-miguel-county#33] 2026-11-09 | General | agenda
 - Public comments on specific agenda items will be permitted at the Chair's discretion and as time
 - allows. Each public comment will be limited to 3 minutes. Members of the public who wish to
 - the time for public comment during the meeting be limited. The Chair will not invite public
@@ -609,7 +566,7 @@
 - Hearings, and Special Meetings are recorded, and ACTION MAY BE TAKEN ON ANY
 - San Miguel Commissioners may hold an Executive Session to discuss noticed agenda items
 
-## [san-miguel-county#36] 2026-11-09 | General | agenda
+## [san-miguel-county#34] 2026-11-09 | General | agenda
 - Public comments on specific agenda items will be permitted at the Chair's discretion and as time
 - allows. Each public comment will be limited to 3 minutes. Members of the public who wish to
 - the time for public comment during the meeting be limited. The Chair will not invite public
@@ -624,7 +581,7 @@
 - Mitigation Plan
 - Title: 2:25 pm Presentation of the shared inter-jurisdictional housing for Prop 123
 
-## [san-miguel-county#37] 2026-11-09 | San Miguel Basin Fair Board | agenda
+## [san-miguel-county#35] 2026-11-09 | San Miguel Basin Fair Board | agenda
 - Location of Meeting: 1110 Summit Street Norwood Sheriff Annex, Norwood, CO 81423
 - 2. Approve Agenda
 - 3. Approval of Meeting Minutes
@@ -635,7 +592,7 @@
 - Hearings, and Special Meetings are recorded, and ACTION MAY BE TAKEN ON ANY
 - San Miguel Commissioners may hold an Executive Session to discuss noticed agenda items
 
-## [san-miguel-county#38] 2026-11-09 | San Miguel Basin Fair Board | agenda
+## [san-miguel-county#36] 2026-11-09 | San Miguel Basin Fair Board | agenda
 - Location of Meeting: 1110 Summit Street Norwood Sheriff Annex, Norwood, CO 81423
 - 2. Approve Agenda
 - 3. Approval of Meeting Minutes
@@ -675,3 +632,68 @@
 - Fair Board. The Board unanimously agreed to recommend her appointment to the
 - Snyder moved to approve the following 2027 weigh-in dates. B. Alexander seconded
 - Livestock Sale and noted that $3,500 had been budgeted for the event. The Board
+
+## [san-miguel-county#37] 2026-11-12 | Planning Commission | agenda
+- Click Raise Hand in the webinar controls. The host will be notified that you've raised your hand
+- 2. Approval of Minutes, Planning Commission and Staff Comments
+- a. Work Session: Discussion regarding amendments to LUC Section 5-1303 Affordable Housing
+- Impact Mitigation Fee, and Housing Incentive ideas
+- 5. 1:00 p.m. Land Use Application
+- a. Review and Recommendation of request submitted by San Miguel County to rezone a portion
+- of the Placerville Park around the fire station from Forestry, Agriculture, and Open (F) to Public
+- NOTE: All times are approximate; items may begin earlier (except public hearings) or
+
+## [san-miguel-county#38] 2026-11-12 | Planning Commission | agenda
+- Click Raise Hand in the webinar controls. The host will be notified that you've raised your hand
+- 2. Approval of Minutes, Planning Commission and Staff Comments
+- a. Work Session: Discussion regarding amendments to LUC Section 5-1303 Affordable Housing
+- Impact Mitigation Fee, and Housing Incentive ideas
+- 5. 1:00 p.m. Land Use Application
+- a. Review and Recommendation of request submitted by San Miguel County to rezone a portion
+- of the Placerville Park around the fire station from Forestry, Agriculture, and Open (F) to Public
+- NOTE: All times are approximate; items may begin earlier (except public hearings) or
+- Kris Rauscher, Community Development Permit Technician
+- on October 21st. The Down Valley Master Plan is the next big project coming up. The
+- November 12th Planning Commission meeting will have an application for the rezoning of the
+- land surrounding the Fire Station in Placerville
+- Kaye's efforts and leadership San Miguel County has redone its East End Master Plan, adopted
+- A proposed change to the September Minutes: "Commissioners had discussion about
+- a. Work Session: Affordable Housing Code Update
+- Kaye Simonson, Planning Director, provided a presentation regarding Affordable
+- Housing Code Updates to the Planning and BOCC commissioners. The commissioners
+- discussed a variety of housing topics
+- 6. Land Use Code Amendment Recommendation
+- a. Land Use Code Amendment: Subdivisions and Condominium Plats
+- John Huebner, Senior Planner, presented a PowerPoint presentation on the Land Use
+- Code Amendment: Townhouse and Condominium Plats, and Subdivisions (Major and
+- Minor). Commissioners discussed minimum standards for land divisions, application
+- Townhouse/Condominium Plats
+- Public Comments: Chris Hawkins (Alpine Planning on behalf of the Town of
+- Commissioners to adopt amendments to San Miguel County Land Use Code adding
+- new Section 5-1215 Subdivision Exemption for Condominium and Townhouse Plats,
+- and amending Section 5-14 Planned Unit Development (PUD) and Subdivisions with
+- related amendments to Article 3 Procedures, Article 4, Submission Requirements, and
+- Article 7, Definitions as presented, based on the finding that the proposed amendments
+- Amendments, and is consistent with Land Use Code Section 1-4, Purposes of the Land
+- RE: Affordable Housing, Employee Housing Impact Mitigation Fee
+- The updated Employee Housing Impact Mitigation Fee was adopted on July 6, 2022,
+- and went into effect on July 15, 2022. The Impact Fee applies to new construction of
+- residences and additions to residences in the unincorporated County within the
+
+## [san-miguel-county#39] 2026-11-16 | Open Space Commission | agenda
+- 2. Approval of Meeting Minutes
+- 3. Parks + Open Space Manager Update
+- 5. Consideration of a Request for Appointment from Daniel Alvarado for a regular seat
+- b. Parks Updates
+- i. Mill Creek Park Update
+- ii. Galloping Goose Park Update
+- considered a San Miguel County Committee Meeting
+
+## [san-miguel-county#40] 2026-11-16 | Open Space Commission | agenda
+- 2. Approval of Meeting Minutes
+- 3. Parks + Open Space Manager Update
+- 5. Consideration of a Request for Appointment from Daniel Alvarado for a regular seat
+- b. Parks Updates
+- i. Mill Creek Park Update
+- ii. Galloping Goose Park Update
+- considered a San Miguel County Committee Meeting

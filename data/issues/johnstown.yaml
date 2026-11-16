@@ -1,125 +1,110 @@
-- title: Permanent property tax mill levy cut of 8 mills (Ordinance 2026-299)
-  summary: Council considered an ordinance permanently reducing the town's property tax mill levy by 8.000 mills in four annual steps of 2.000 mills. Any future increase would need new voter approval, and staff are directed to handle general fund impacts without restoring mills. It follows the FY2027 budget work, where staff recommended keeping the 23.947-mill levy because property tax revenue has declined.
+- title: Permanent 8-mill property tax cut and FY 2027 budget
+  summary: Council reviewed the FY 2027 preliminary budget, which recommended keeping the 23.947-mill levy, and then took up Ordinance 2026-299 to permanently cut the mill levy by 8.000 mills in four annual 2-mill steps. Any later increase would need new voter approval. The 2027 proposed budget came up for public hearing in November, and a resident asked for trees at Clearview Park.
   where: Townwide
   refs:
-  - 7
+  - 3
+  - 4
+  - 5
+  - 9
+  - 10
+  - 15
+  - 16
+  - 17
+  topics:
+  - Budget & taxes
+  - Government operations
+  public_comment: true
+- title: Housing needs assessment and comprehensive plan updates (SB 24-174)
+  summary: Staff presented a draft Housing Needs Assessment by ECOnorthwest plus new Strategic Growth and Water Supply elements of the comprehensive plan, required by state law. Planning and Zoning is to consider them November 18 and Council adoption is slated for December 2. A Housing Action Plan follows in mid-2027.
+  where: Townwide
+  refs:
   - 12
   - 13
-  - 19
   topics:
-  - Budget & taxes
-  public_comment: true
-- title: FY 2027 budget
-  summary: Council held a preliminary FY2027 budget work session on Sept. 28, acknowledged receipt of the preliminary budget, and held a public hearing on the 2027 proposed budget on Nov. 2. A resident asked for trees at Clearview Park in the budget.
+  - Housing
+  - Zoning & development
+- title: Water supply projects and water rates
+  summary: Council approved a $326,400 Water System Master Plan Update with J-U-B Engineers, a $150,645 raw water transmission services agreement with Connell Resources, 15 more CBT units, and the Northern Integrated Supply Project interim agreement. A resident wrote in about water usage at town facilities and water rates.
   where: Townwide
   refs:
+  - 2
   - 6
-  - 7
-  - 8
-  - 9
+  - 10
+  - 15
+  - 16
   - 18
-  - 19
   topics:
-  - Budget & taxes
-  public_comment: true
-- title: Senior Center construction
-  summary: Council discussed continuing the Senior Center project in August, with a resident speaking in support. On Oct. 5 it considered awarding the construction contract to Fransen Pittman Construction Co., Inc.
-  where: Johnstown Senior Center site
-  refs:
-  - 2
-  - 9
-  topics:
-  - Health & human services
-  - Recreation & trails
-  public_comment: true
-- title: Power outages and future AI centers
-  summary: Residents raised repeated power outages in Centerra and elsewhere in Johnstown, and one asked about plans for future AI centers and what happens with them.
-  where: Centerra and Johnstown
-  refs:
-  - 2
-  topics:
+  - Water
   - Utilities
-  - Data centers
-  tags:
-  - data-center
+  - Fees & rates
   public_comment: true
-- title: I-25 East Frontage Road devolution from CDOT
-  summary: Council held a public hearing on Ordinance 2026-297, accepting a portion of the I-25 East Frontage Road between mile markers 253.2 and 257.1 and approving an intergovernmental agreement with CDOT. It returned for further action on Sept. 9.
-  where: I-25 East Frontage Road, MM 253.2–257.1
+- title: New Senior Center construction and YMCA agreement
+  summary: Council awarded the construction contract for the Town senior center building to Fransen Pittman Construction. It also considered an amended facility management agreement with the YMCA of Northern Colorado, tied to a settlement and release agreement.
+  where: Johnstown senior center / YMCA facility
   refs:
-  - 2
-  - 5
+  - 6
   topics:
-  - Roads & traffic
-- title: Downtown Development Authority plan and DDA Fund
-  summary: The Planning Commission reviewed the DDA Plan of Development and Council held a public hearing on it in August. Council later took up Ordinance 2026-298 establishing a DDA Fund, and a new DDA executive director was introduced.
-  where: Downtown Johnstown
+  - Recreation & trails
+  - Health & human services
+  - Government operations
+- title: Town Attorney selection
+  summary: Council interviewed law firms, including Hoffmann Parker Wilson & Carberry, for the appointed Town Attorney post, then considered a legal services agreement with Wilson Williams Fellman Dittman.
+  where: Town Hall
   refs:
   - 0
   - 1
-  - 2
-  - 5
-  - 9
-  - 13
+  - 6
   topics:
-  - Downtown & business
-  - Economic development
-  - Budget & taxes
-- title: Water supply, rates and water projects
-  summary: Council approved a $326,400 J-U-B Engineers contract to update the Water System Master Plan. It also dealt with the Raw Water Transmission Project, the Northern Integrated Supply Project agreement, CBT units and a Little Thompson Water District agreement. A resident raised water use at town facilities and water rates.
-  where: Townwide
+  - Government operations
+  - Lawsuits & legal
+- title: West Parish Alley construction contract
+  summary: Council awarded Krische Construction a $1,874,329 contract for the West Parish Alley project, with a 10% contingency the Town Manager can use for unforeseen conditions.
+  where: West Parish Alley
   refs:
-  - 5
-  - 9
-  - 13
+  - 15
+  - 16
   - 18
-  - 19
   topics:
-  - Water
-  - Fees & rates
-  - Utilities
-  public_comment: true
-- title: State-required housing needs assessment and comprehensive plan updates
-  summary: Under state Senate Bill 24-174, the town is drafting a Housing Needs Assessment plus Strategic Growth and Water Supply plan elements with consultant ECOnorthwest. Planning Commission review is set for Nov. 18 and Council adoption for Dec. 2, with a Housing Action Plan in mid-2027.
-  where: Townwide
+  - Roads & traffic
+  - Downtown & business
+- title: Vista Commons rezoning and plat
+  summary: Council considered a change of zone (Ordinance 2026-301) and a preliminary plat for the Vista Commons subdivision.
+  where: Vista Commons property
+  refs:
+  - 17
+  - 18
+  topics:
+  - Zoning & development
+  - Land & property
+- title: Diamond Ridge Metropolitan District service plan
+  summary: Council held a hearing on approving the service plan for Diamond Ridge Metropolitan District Nos. 1 and following.
+  where: Diamond Ridge
   refs:
   - 15
   - 16
   topics:
-  - Housing
   - Zoning & development
-- title: New Town Attorney selection
-  summary: Council interviewed firms for Town Attorney, including Hoffmann Parker Wilson & Carberry. On Oct. 5 it considered a legal services agreement with Wilson Williams Fellman Dittman.
+  - Budget & taxes
+- title: 'Town property deals: Quality Liquid Feeds, Gillam, old library'
+  summary: Council considered a purchase and sale agreement with Quality Liquid Feeds, one with Gillam Development Corporation, and a lease of the Old Library Building at 1011 Jay Avenue. Executive sessions covered real property sales.
+  where: 1011 Jay Avenue and other town parcels
   refs:
-  - 3
-  - 4
-  - 9
-  topics:
-  - Government operations
-  - Lawsuits & legal
-- title: 'Development approvals: Whitehall rezone, Lucky Star Monopine, Diamond Ridge Metro District'
-  summary: The Planning Commission heard the Whitehall Filing No. 2 rezone and preliminary plat and a special review for a wireless tower (Lucky Star Monopine) northeast of County Road 42 and Colorado Blvd. Council took up Resolution 2026-40 on the tower and the Diamond Ridge Metropolitan District service plan.
-  where: County Road 42 and Colorado Blvd; Whitehall; Diamond Ridge
-  refs:
-  - 1
   - 5
-  - 18
+  - 6
+  - 9
+  - 10
+  - 17
   topics:
-  - Zoning & development
   - Land & property
-- title: 'Property deals: Quality Liquid Feeds and Gillam Development'
-  summary: Council considered a purchase and sale agreement with Quality Liquid Feeds, Inc. (Resolution 2026-42) and another with Gillam Development Corporation, along with executive sessions on real property.
+  - Government operations
+- title: Downtown Development Authority fund and I-25 frontage road
+  summary: Council took up Ordinance 2026-298 establishing a DDA Fund, and an ordinance accepting a stretch of the I-25 East Frontage Road between mile markers 253.2 and 257.1 under an IGA. A new DDA executive director was introduced.
+  where: Downtown; I-25 East Frontage Road
   refs:
   - 2
-  - 8
-  - 12
-  - 13
+  - 6
+  - 10
   topics:
-  - Land & property
-- title: YMCA facility management agreement and settlement
-  summary: Council took up an amended and restated facility management agreement with the YMCA of Northern Colorado, tied to a settlement and release agreement and a reimbursement.
-  refs:
-  - 9
-  topics:
-  - Recreation & trails
-  - Lawsuits & legal
+  - Downtown & business
+  - Roads & traffic
+  - Economic development

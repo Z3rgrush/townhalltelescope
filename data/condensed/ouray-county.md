@@ -1,46 +1,13 @@
 # ouray-county
 
-## [ouray-county#0] 2026-08-05 | Planning Commission | agenda
-- The Planning Commission will conduct a work session to review and discuss possible changes to
-- During the previous work session there was discussion on the definitions that fall under
-- Staff will lead a discussion during the upcoming work session with the intent of establishing
-- baseline criteria that will be critical in arriving on overall agreement with the related definitions
-- Please see the attached matrix that will be used to guide the discussion
-- revisions may be discussed during the upcoming work session or a subsequent work session
-- public hearing
-- ‘bonus adu’ concept discussions and also changes recommended by Staff. The increase
-- requests related to this provision (ie. property owner wanting a greater distance between
-- pdu and adu). Staff inserted some questions for discussion on this topic
-- accessory structure would now trigger a building permit and necessitate 35- acres. Also,
-- lodge Special Use Permit (up to 10 rooms), Proposed Guest Ranch Special Use Permit
-- what is, and what is not, ‘commercial’ requiring a Special Use Permit
-- was too broad and muddied the water with multiple types of Special Use Permits that may
-- definition should be contemplated along with ‘Guest Ranch’, ‘Event Venue’, and
-- on the fly through a ‘temporary use’. The BOCC and PC may want to discuss appropriate
-- thresholds for required permitting, based on potential major impacts to publi c
-- new concept and the definition is intended as a discussion starter. Previous SUPs for this
-- type of permitting have been a poor fit under other types of Special Use Permits
-- and weddings through an approved SUP for a B&B and a Temporary Use SUP to host
-- structure and to address requests to restore or renovate such structures in compliance
-- Minimum Fireflow Water Supply (SP): Called out due to the fact that Tri-County Water
-- has made it very clear that their existing fire hydrants may or may not meet minimum
-- engineering recommendations if PSI and GPM requirements for firefighting purposes are
-- retained within a definition of “water supply” (see below). Recommend moving to a broader
-- definition of “water supply,” with the narrow requirement of minimum fireflow water supply
-- Water Supply (LP): This term appears throughout PUD/Subdivision procedures, in both
-- state statute and the Code. Clarified to include proper Division of Water Resources
-- “minimum fireflow water supply” does not appear anywhere else within the Code, so this
-- recommendations for G.P.M. and P.S.I. on minimum fireflow water supply, as part of
-- determining “water supply” for PUDs and Subdivisions
-
-## [ouray-county#1] 2026-09-14 | Ouray County Fair Board | agenda
+## [ouray-county#0] 2026-09-14 | Ouray County Fair Board | agenda
 - B. Meeting Minutes Review/Approval:
 - Accounts/Budget Review
 - 2. Post 2026 Fair discussion
 - G.Public Comment:
 - Formal Action during public comment cannot be taken however
 
-## [ouray-county#2] 2026-09-16 | Planning Commission | agenda
+## [ouray-county#1] 2026-09-16 | Planning Commission | agenda
 - PUBLIC HEARING/REGULAR MEETING
 - Meeting to be held at the Ouray County Courthouse, 541 4th Street
 - A. 1:00pm - Public Hearing:
@@ -53,7 +20,7 @@
 - located at 6549 Count Road 24 into 2 lots
 - a. Staff presentation of the current Section 2 Draft to Planning Commission. (note
 
-## [ouray-county#3] 2026-10-07 | Planning Commission | agenda
+## [ouray-county#2] 2026-10-07 | Planning Commission | agenda
 - Once the Section 2 draft has been finalized, we will move on to Section 3 – Zoning and then
 - sections, we will complete revised drafts for Sections 3 and 13 and then hold a public hearing on
 - ACCESSORY DWELLING UNIT (ADU) . A structure - requiring and receiving a certificate
@@ -87,16 +54,16 @@
 - breezeway may be considered by the building official to be separate dwel lings based upon
 - proper building permits and are included in the total number of rooms allowed (ie. 1 guest cabin
 
-## [ouray-county#4] 2026-10-12 | Ouray County Fair Board | agenda
+## [ouray-county#3] 2026-10-12 | Ouray County Fair Board | agenda
 - B. Meeting Minutes Review/Approval:
 - Accounts/Budget Review
 - 2. Post 2026 Fair discussion
 - G.Public Comment:
 - Formal Action during public comment cannot be taken however
 
-## [ouray-county#5] 2026-10-21 | Planning Commission | agenda
+## [ouray-county#4] 2026-10-21 | Planning Commission | agenda
 - proposed revisions to the Land Use Code as outlined in Resolution No. 2024- 029 (attached)
-- Additionally, edits to code sections were made regarding the on-going discussions on a possible
+- Additionally, edits to code sections were made regarding the on- going discussions on a possible
 - were not specifically addressed in the Board’s resolution. Those changes will be explained in this
 - SECTION 3 - ZONING:
 - Outdoor Recreation’ in certain zones, as a discussion starter

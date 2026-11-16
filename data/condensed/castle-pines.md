@@ -1,34 +1,6 @@
 # castle-pines
 
-## [castle-pines#0] 2026-08-11 | City Council Meeting | minutes
-- Donna Ferguson, Community Development Director
-- APPROVAL OF AGENDA
-- The agenda was approved as presented
-- PUBLIC COMMENT
-- the update to the Site Improvement Plan and the proposed Annexation
-- Chamber of Commerce opposes the upcoming annexation ballot
-- Annexation Policy and notes he would appreciate a timeline for public
-- meetings in the annexation process
-- PRESENTATION OF MINUTES
-- The July 28, 2026 City Council Meeting Minutes were approved as presented
-- Ordinance 26-06, An Ordinance of the City Council of the City of Castle
-- Pines, Colorado, Amending Section 27 Site Improvement Plan of the City
-- of Castle Pines Zoning Ordinance on First Reading
-- Resolution 26-48, A Resolution of the City Council of the City of Castle Pines,
-- Colorado Approving an Intergovernmental Agreement Between the Douglas
-- Motion: Council Member Eubanks moved to approve all items as presented on the
-- 2025 Audited Financial Statements Presentation
-- Mike Farina, Finance Director, gave the staff presentation
-- presentation
-- Resolution 26-49, A Resolution of the City Council of the City of Castle
-- Pines, Colorado, Adopting the City of Castle Pines Annexation Policy
-- Motion: Council Member Winegar moved to continue the presentation and
-- consideration of Resolution 26-49 A Resolution of the City Council of the City of
-- Castle Pines, Colorado, Adopting the City of Castle Pines Annexation Policy to the
-- MINUTES SUBMITTED: APPROVED:
-- Agreement completed
-
-## [castle-pines#1] 2026-08-20 | Parks and Recreation Advisory Board Meeting | minutes
+## [castle-pines#0] 2026-08-20 | Parks and Recreation Advisory Board Meeting | minutes
 - Parks and Recreation Advisory Board
 - REGULAR MEETING OF THE PARKS AND RECREATION
 - The meeting of the Parks and Recreation Advisory Board of the City of
@@ -51,7 +23,7 @@
 - "2026-08-20 Parks and Recreation Advisory Board Minutes" Hist
 - Agreement completed
 
-## [castle-pines#2] 2026-08-25 | City Council Study Session and Regular Meeting | minutes
+## [castle-pines#1] 2026-08-25 | City Council Study Session and Regular Meeting | minutes
 - Donna Ferguson, Community Development Director
 - APPROVAL OF AGENDA
 - The agenda was approved as presented
@@ -95,7 +67,7 @@
 - the City Charter to Require Voter Approval for Certain Annexations in Excess
 - Motion: Council Member Eubanks moved to approve Resolution 26-53, A
 
-## [castle-pines#3] 2026-09-17 | Parks and Recreation Advisory Board Meeting | agenda
+## [castle-pines#2] 2026-09-17 | Parks and Recreation Advisory Board Meeting | agenda
 - PUBLIC COMMENT
 - PRESENTATION OF MINUTES
 - Minutes from the August 20, 2026 Parks and Recreation Advisory Board Meeting
@@ -140,7 +112,7 @@
 - Options 1 or 2, Option 3 keeps the trail system closer to its current look and feel rather
 - improvement in location identification over the trail network’s current signage, even
 
-## [castle-pines#4] 2026-09-22 | City Council Study Session and Regular Meeting | minutes
+## [castle-pines#3] 2026-09-22 | City Council Study Session and Regular Meeting | minutes
 - APPROVAL OF AGENDA
 - The agenda was approved as presented
 - PUBLIC COMMENT
@@ -182,7 +154,7 @@
 - Intergovernmental Agreement Between the City of Castle Pines and the Board of
 - Construction, Maintenance and Operations for the Happy Canyon Road/I-25
 
-## [castle-pines#5] 2026-09-24 | Planning Commission Meeting | minutes
+## [castle-pines#4] 2026-09-24 | Planning Commission Meeting | minutes
 - Donna Ferguson, Community Development Director
 - 4. APPROVAL OF AGENDA
 - The agenda was approved as presented
@@ -211,7 +183,7 @@
 - RESPECTFULLY SUBMITTED: APPROVED:
 - Agreement completed
 
-## [castle-pines#6] 2026-10-13 | City Council Study Session and Regular Meeting | minutes
+## [castle-pines#5] 2026-10-13 | City Council Study Session and Regular Meeting | minutes
 - Donna Ferguson, Community Development Director
 - APPROVAL OF AGENDA
 - The agenda was approved as presented
@@ -254,7 +226,7 @@
 - Preliminary Plan No. 1, 2nd Amendment, City Case No. PFP-2026-001, with the
 - following condition of approval, the Subdivision Improvement Agreement shall
 
-## [castle-pines#7] 2026-10-15 | Parks and Recreation Advisory Board Meeting | agenda
+## [castle-pines#6] 2026-10-15 | Parks and Recreation Advisory Board Meeting | agenda
 - PUBLIC COMMENT
 - PRESENTATION OF MINUTES
 - Minutes from the September 17, 2026 Parks and Recreation Advisory Board Meeting
@@ -277,7 +249,7 @@
 - MINUTES SUBMITTED: APPROVED:
 - Katie Goins, Deputy City Clerk Tiffany Ball, Chair
 
-## [castle-pines#8] 2026-10-20 | City Council Study Session | agenda
+## [castle-pines#7] 2026-10-20 | City Council Study Session | agenda
 - City Manager's Proposed 2027 Annual Budget Presentation
 - 2026-10-20 Study Session - City Manager Proposed 2027 Annual Budget.pdf
 - 2027 ANNUAL BUDGET
@@ -334,7 +306,7 @@
 - Overall, a 28% decrease from 2026 year-end projections led by decreases in
 - Building Permit and Planning and Zoning revenue estimates
 
-## [castle-pines#9] 2026-10-27 | City Council Study Session and Regular Meeting | agenda
+## [castle-pines#8] 2026-10-27 | City Council Study Session and Regular Meeting | agenda
 - Axon Camera Discussion
 - Approval of Agenda
 - Public Comment
@@ -380,3 +352,56 @@
 - October 2026 City Council Grant Update .pdf
 - employee and for which the employee has consented to the discussion in
 - Donna Ferguson, Community Development Director
+
+## [castle-pines#9] 2026-11-10 | City Council Study Session and Regular Meeting | agenda
+- Building Code Updates Discussion
+- Approval of Agenda
+- Public Comment
+- Presentation of Minutes
+- Ordinance 26-12, An Ordinance of the City Council of the City of Castle Pines, Colorado,
+- Pursuant to the Public Improvements Dedication, Operation and Maintenance Agreement
+- Staff Report Ordinance 26-12, BS Deed and Easement Agreement Canyons Tracts Group 1
+- Ordinance 26-12, Accepting BS Deed and Easement Agreement for Canyons Tracts
+- Retained Improvements Easement Agreement (Group 1)(11.3.pdf
+- rdinance No. 26-13, An Ordinance of the City Council of the City of Castle Pines, Colorado,
+- City Council Staff Report Ordinance 26-13.pdf
+- Ordinance 26-13, Accepting BS Deed and Easement Agreement for Canyons Tracts
+- Retained Improvements Easement Agreement (Group 2)(11.3.pdf
+- PUBLIC HEARING:
+- Ordinance 26-07, An Ordinance of the City Council of the City of
+- Castle Pines, Colorado, Amending Article 1 of Chapter 2 of the Castle Pines
+- City Council Staff Report Ordinance 26-07 on Second Reading.pdf
+- Ordinance 26-07, Campaign Finance.docx
+- Ordinance 26-07 Campaign Finance on Second Reading.pdf
+- UBLIC HEARING: Ordinance 26-11, An Ordinance of the City Council of the City of Castle
+- Pines, Colorado, Vacating a Portion of South Havana Street Within the Final Plat Canyonside
+- City Council Staff Report Ordinance 26-11.pdf
+- A. Ordinance No 26-11
+- Exhibit A to Ordinance No. 26-11 (including Right-of-Way Vacation Exhibit)
+- Ordinance 26-11 Staff Presentation.pdf
+- Resolution 26-74, A Resolution of the City Council of the City of Castle Pines,
+- Colorado, Approving an Agreement for Professional Services Between the City of
+- Castle Pines and Goebel Partners, LLC for Unified Land Development Code Update
+- Staff Report Resolution 26-74.pdf
+- Resolution 26-74.docx
+- employee and for which the employee has consented to the discussion in
+- keeping of approvals, inspections,
+- Exterior Wall Fire
+- some confusion on measurements of fire
+- Tw o -Family Dwelling Fire Cons truction
+- fire separation of two-family dwellings
+- A notification appliance must be
+- Section R320 was added to separate
+- than 7 feet for 50% of the
+- wheel barriers, or approved means that resist
+- Water Resistive Barrier
+- deck ledgers” to reiterate the fact that the
+- manufacturers approve the spacing
+- insulation are subject to water damage with
+- Water heaters shall have a weighted average
+- Metallic water service piping cannot be
+- water, cooking, and clothes drying
+- o Fireplaces not used as the main means of
+- o Exterior fireplaces and fire pits
+- Each garage bay or parking space shall be provided with one EV
+- EV Ready Space - A designated parking space that has electric

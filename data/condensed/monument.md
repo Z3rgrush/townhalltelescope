@@ -1,97 +1,9 @@
 # monument
 
-## [monument#0] 2026-08-12 | Planning Commission | agenda
-- 645 Beacon Lite Road, Monument, Colorado 80132
-- 2. Approval of Minutes
-- 4. Hearing Items
-- a. Case No. 2025-006 - A Request for Approval of a Major Amendment to the Planned
-- Unit Development for Native Sun Construction at 15010 Woodcarver Road - [Public
-- Hearing] - Rey Medina
-- b. Case No. 2026-005. A Request for the Approval of the Final Planned Unit Development Plan for the 7 Brew Drive Thru Coffee [Public Hearing] - Rey Medina
-- c. Case No. BOA-02-2026 - A Request to Appeal the Planning Director’s Use Classification Determination, 309 Woodworth Street. [Public Hearing] - Jenna Gorney
-- 5. Public Comments For Items Not on the Agenda Individuals attending in person may raise their
-
-## [monument#1] 2026-08-12 | Planning Commission | agenda
-- 645 Beacon Lite Road, Monument, Colorado 80132
-- 2. Approval of Minutes
-- 4. Hearing Items
-- a. Case No. 2025-006 - A Request for Approval of a Major Amendment to the Planned
-- Unit Development for Native Sun Construction at 15010 Woodcarver Road - [Public
-- Hearing] - Rey Medina
-- b. Case No. 2026-005. A Request for the Approval of the Final Planned Unit Development Plan for the 7 Brew Drive Thru Coffee [Public Hearing] - Rey Medina
-- c. Case No. BOA-02-2026 - A Request to Appeal the Planning Director’s Use Classification Determination, 309 Woodworth Street. [Public Hearing] - Jenna Gorney
-- 5. Public Comments For Items Not on the Agenda Individuals attending in person may raise their
-- a. Chair Egley called the meeting/hearing of the Planning Commission of the Town of Monument,
-- 2. Approval of Minutes/Agenda Modification
-- a. Move to approve the minutes of June 10th, 2026, Planning Commission Meeting
-- Commissioner Egley motioned to approve the corrected minutes; Commissioner Hatch seconded;
-- 4. Hearing/Meeting Items
-- a. Public Hearing was open and closed with members of the public present
-- b. Staff Presentation: Request for Approval of the Karl Malone Powersports Final PUD Plan, Jenna
-- I. Applicant requested approval of a Final Planned Unit Development for Karl Malone
-- II. Proposed development consists of a 30,000-square-foot recreational vehicle sales and service
-- III. Site improvements include a showroom, offices, service bays, vehicle storage area, parking,
-- IV. The proposal complies with Preliminary PUD standards related to setbacks, parking,
-- VI. Staff concluded that the proposal is consistent with the Comprehensive Plan, approved
-- VII. Public Comments: N/A
-- Requested clarification regarding architectural design elements, branding requirements, and building
-- Discussed screening and security measures associated with the outdoor storage area
-- Requested clarification regarding customer, employee, and service-related parking arrangements
-- Discussed the proposed underground stormwater detention system and its long-term functionality
-- Applicant and staff provided additional information regarding parking operations, stormwater
-- Commissioner Hatch moved to recommend approval of the Karl Malone Powersports Final PUD Plan to Town
-- Baumer – Yes; based on consistency with approved development standards and architectural improvements
-- c) Staff Presentation: Request for Approval of the Conexus Lot 1 Filing 2 Final PUD Plan, Rey Medina,
-- i. Applicant requested approval of a Final Planned Unit Development for Conexus Lot 1
-- 312 apartment units
-
-## [monument#2] 2026-08-13 | Citizens Service Levels Advisory Committee | agenda
-- 645 Beacon Lite Road - Monument, CO 80132
-- 3. Approval of the Minutes:
-- 4. Public Comment:
-- 5. Follow-up on Use Tax Ballot Initiative:
-- 6. Review 2027 Preliminary Proposed Budget:
-- 7. Funding Proposal from Small Business Development Center Network:
-
-## [monument#3] 2026-08-13 | Citizens Service Levels Advisory Committee | agenda
-- 645 Beacon Lite Road - Monument, CO 80132
-- 3. Approval of the Minutes:
-- 4. Public Comment:
-- 5. Follow-up on Use Tax Ballot Initiative:
-- 6. Review 2027 Preliminary Proposed Budget:
-- 7. Funding Proposal from Small Business Development Center Network:
-- 3. Approved Minutes from June 11, 2026 meeting
-- Approved with 1 change: remove comment by Laura Kronick about parking at Palmer Lake
-- 4. Public Comment
-- 6. Initial Preliminary 2027 Budget Overview – Jennifer Phillips, Finance Director
-- Jennifer Phillips presented a high-level overview of the preliminary 2027 budget
-- to 2027 in the Traffic Impact Fee Fund, to which Jennifer answered new development, and second
-- about the revenue and expenditure drop in the Park Fee Fund from 2026 to 2027, to which Jennifer
-- answered the Heart of Monument park funding and build, which we hope to complete in 2026
-- Dan Deboo asked what the Traffic Impact Fee is, to which Jennifer answered that developers pay
-- for their impact on the town’s traffic. Johan asked if this fee could be used towards Jackson Creek
-- Parkway, and the answer was yes. The fee needs to be used for new Capital Spending. Dan feels it
-- is important to know the town’s fee history to carry the information back to his community and see
-- specifically street crossings and traffic signals, in addition to increased need for police protection
-- Jennifer informed the committee that 4 new police positions will be added from the Police Impact
-- Fees. To John Lewis’ question about Target completion date, Jennifer’s answer was October 2028
-- Steve King clarified that Target is in TriView therefore property and sales taxes will be split
-- apartments near Walmart, and the likelihood of a Costco, since both will have large impact on
-- Creek Parkway expansion (making JCP 4 lanes might not be enough). Steve King agreed with
-- Dan Deboo feels there is a need to keep the downtown Monument quiet yet thriving versus new
-- development. John Lewis agrees with preserving 2nd Street’s small town feel and doing more in that
-- space. Madeline explained that the Comp Plan will include a Downtown master plan, and that the
-- revenue needed for the downtown redevelopment will come from new commercial development
-- Desire Mings asked about the Traffic Plan for Old Denver Highway, and feels that is another area of
-- Following are the committee’s budget needs/desires:
-- Key and Tri-Lakes Chamber, and that the Small Business Development Center would also like to be
-- sponsored. Johan feels that the first 3 provide a key need to the community and asks what the
-- Small Business Development Center would do for the Town. Dan agreed it would be good to know
-
-## [monument#4] 2026-09-01 | Town Council | agenda
+## [monument#0] 2026-09-01 | Town Council | agenda
 - 645 Beacon Lite Road - Monument, CO 80132
 
-## [monument#5] 2026-09-08 | Town Council | agenda
+## [monument#1] 2026-09-08 | Town Council | agenda
 - 645 Beacon Lite Road - Monument, CO 80132
 - b. Vote on Excluding Council Members With Potential Conflicts of Interest From Consideration, Discussion and Voting on Identified Matters
 - 3. Approval of the Consent Agenda:
@@ -114,7 +26,7 @@
 - Program Grant Application - (Jennifer Phillips)
 - b. Resolution No. 68-2026 - A Resolution Authorizing a New Tap to Be Installed to Two (2)
 
-## [monument#6] 2026-09-08 | Town Council | agenda
+## [monument#2] 2026-09-08 | Town Council | agenda
 - 645 Beacon Lite Road - Monument, CO 80132
 - b. Vote on Excluding Council Members With Potential Conflicts of Interest From Consideration, Discussion and Voting on Identified Matters
 - 3. Approval of the Consent Agenda:
@@ -157,17 +69,17 @@
 - Amendment Located in the South 43 Acres of Falcon Commerce Center Known
 - Gorney re-introduced ordinance no. 15-2026 and provided a timeline of events
 
-## [monument#7] 2026-09-09 | Town Council | agenda
+## [monument#3] 2026-09-09 | Town Council | agenda
 - 645 Beacon Lite Road - Monument, CO 80132
 
-## [monument#8] 2026-09-09 | Planning Commission | agenda
+## [monument#4] 2026-09-09 | Planning Commission | agenda
 - 645 Beacon Lite Road, Monument, Colorado 80132
 - 2. Approval of Minutes
 - 3. Public Comments For Items Not on the Agenda Individuals attending in person may raise their
 - a. Consideration and Approval of the draft Monument 2040 Comprehensive Plan Update and the draft Downtown Master Plan [PUBLIC Hearing]
 - 5. Hearing Items
 
-## [monument#9] 2026-09-09 | Planning Commission | agenda
+## [monument#5] 2026-09-09 | Planning Commission | agenda
 - 645 Beacon Lite Road, Monument, Colorado 80132
 - 2. Approval of Minutes
 - 3. Public Comments For Items Not on the Agenda Individuals attending in person may raise their
@@ -203,7 +115,7 @@
 - for property located at 15010 Wood Carver Road to Town Council
 - c) Staff Presentation: Request for Approval of the 7 Brew Drive Thru Coffee Final PUD Plan, Rey
 
-## [monument#10] 2026-09-21 | Town Council | minutes
+## [monument#6] 2026-09-21 | Town Council | minutes
 - c. Resolution No. 71-2026 - A Resolution Authorizing Appointment of Nazarenus
 - Stack & Wombacher LLC as the Town of Monument's Water Attorney Contract
 - Water Attorney
@@ -215,13 +127,13 @@
 - Councilmember Laura Kronick made a motion to approve resolution no. 72-2026
 - she attended; she would love to see a water workshop featuring people from the
 
-## [monument#11] 2026-09-23 | Town Council | agenda
+## [monument#7] 2026-09-23 | Town Council | agenda
 - 645 Beacon Lite Road - Monument, CO 80132
 
-## [monument#12] 2026-09-28 | Town Council | agenda
+## [monument#8] 2026-09-28 | Town Council | agenda
 - 166 Second Street - Monument, CO 80132
 
-## [monument#13] 2026-10-08 | Citizens Service Levels Advisory Committee | agenda
+## [monument#9] 2026-10-08 | Citizens Service Levels Advisory Committee | agenda
 - 645 Beacon Lite Road - Monument, CO 80132
 - 3. Approval of the Minutes:
 - 4. Public Comment:
@@ -229,7 +141,7 @@
 - a. Economic Development Update – Dan Ungerleider, Planning Director
 - b. Review 2027 Draft Proposed Budget – Jennifer Phillips, Finance Director
 
-## [monument#14] 2026-10-08 | Citizens Service Levels Advisory Committee | agenda
+## [monument#10] 2026-10-08 | Citizens Service Levels Advisory Committee | agenda
 - 645 Beacon Lite Road - Monument, CO 80132
 - 3. Approval of the Minutes:
 - 4. Public Comment:
@@ -264,10 +176,10 @@
 - gap, Scott Gilson felt that roadblocks for small businesses don’t currently exist, Johan Moum felt
 - that $250 fee for consulting costs is too high, and that not enough of an impact is made directly to
 
-## [monument#15] 2026-10-13 | Town Council | agenda
+## [monument#11] 2026-10-13 | Town Council | agenda
 - 645 Beacon Lite Road - Monument, CO 80132
 
-## [monument#16] 2026-10-14 | Planning Commission | agenda
+## [monument#12] 2026-10-14 | Planning Commission | agenda
 - 645 Beacon Lite Road, Monument, Colorado 80132
 - 2. Approval of Minutes
 - a. Consideration and Approval of the draft Monument 2040 Comprehensive Plan
@@ -275,7 +187,7 @@
 - 5. Hearing Items
 - 6. Public Comments For Items Not on the Agenda Individuals attending in person may raise their
 
-## [monument#17] 2026-10-14 | Planning Commission | agenda
+## [monument#13] 2026-10-14 | Planning Commission | agenda
 - 645 Beacon Lite Road, Monument, Colorado 80132
 - 2. Approval of Minutes
 - a. Consideration and Approval of the draft Monument 2040 Comprehensive Plan
@@ -312,7 +224,7 @@
 - Ms. Styles requested additional information regarding participation levels during the public engagement process
 - online surveys generated approximately 150 to 200 responses during various project phases. Additional
 
-## [monument#18] 2026-11-02 | Town Council | agenda
+## [monument#14] 2026-11-02 | Town Council | agenda
 - 645 Beacon Lite Road - Monument, CO 80132
 - b. Vote on Excluding Council Members With Potential Conflicts of Interest From Consideration, Discussion and Voting on Identified Matters
 - 3. Approval of the Consent Agenda:
@@ -330,7 +242,7 @@
 - Security Assessment Services and Authorizing Execution of a Related Agreement - (Will
 - 11. Reconvene In Open Session: Council may act in open session on item(s) discussed in
 
-## [monument#19] 2026-11-02 | Town Council | agenda
+## [monument#15] 2026-11-02 | Town Council | agenda
 - 645 Beacon Lite Road - Monument, CO 80132
 - b. Vote on Excluding Council Members With Potential Conflicts of Interest From Consideration, Discussion and Voting on Identified Matters
 - 3. Approval of the Consent Agenda:
@@ -371,3 +283,122 @@
 - presented Resolution No. 69-2026 as included in the packet. Mayor Pro Tem King
 - asked whether the agreement accounted for the newly constructed section of
 - Beacon Lite Road. Mr. Archuleta confirmed that it does and noted that the County
+
+## [monument#16] 2026-11-10 | Town Council | agenda
+- 1. Three or More Councilmembers May Be Present at a Transportation Master Plan Open
+
+## [monument#17] 2026-11-11 | Planning Commission | agenda
+- 645 Beacon Lite Road, Monument, Colorado 80132
+- 2. Approval of Minutes
+- 4. Hearing Items
+- 5. Public Comments For Items Not on the Agenda Individuals attending in person may raise their
+
+## [monument#18] 2026-11-12 | Citizens Service Levels Advisory Committee | agenda
+- 645 Beacon Lite Road - Monument, CO 80132
+- 3. Approval of the Minutes:
+- 4. Public Comment:
+- 5. Use Tax Initiative Feedback:
+- 6. Discussion Regarding Committee Focus for 2027:
+
+## [monument#19] 2026-11-12 | Citizens Service Levels Advisory Committee | agenda
+- 645 Beacon Lite Road - Monument, CO 80132
+- 3. Approval of the Minutes:
+- 4. Public Comment:
+- 5. Use Tax Initiative Feedback:
+- 6. Discussion Regarding Committee Focus for 2027:
+- 3. Approved Minutes from August 13, 2026 meeting
+- 4. Public Comment
+- 5. Economic Development Update – Dan Ungerlieder, Planning Director
+- Dan Ungerlieder highlighted the revenue budget and listed some of the different economic
+- tools available, such as State of Colorado Economic Development tools (Enterprise Zone
+- Program, Rural Economic Development Initiative, Block grants, CDBG, etc), Pikes Peak
+- Council of Governments, Town of Monument Economic Development Committee, towards
+- Dan also spoke about the Town’s Comp Plan, which will be presented at the 11/6/2026
+- Comp Plan includes 7 chapters that will become Goals for the Town, and include details on
+- Dan DeBoo asked what roadblocks would stand in the way of the Comp Plan’s approval, to
+- need to re-educate, but Ungerleider is optimistic about the Plan’s approval. Once the Plan
+- is approved there will be a need to make sure the plan is put into use and not put on a shelf
+- Scott Gilson liked the idea of the Plan including a list of action items
+- Ungerleider added that having a plan in place, such as the Comp Plan, gives the Town a
+- greater chance of being awarded grants
+- Desiree questioned if the Plan is prioritized and phased, to which Ungerleider answered
+- Yes. He went on to explain that the Plan includes a timeline, although it will ultimately be
+- up to Town Council decisions and budget limitations
+- Ungerleider’s closing remarks about the Comp Plan is it presents the time and opportunity
+- 6. Review 2027 Draft Proposed Budget – Jennifer Phillips, Finance Director
+- Jennifer presented a high-level overview of the General Fund 2027 draft budget, which
+- assumptions, sales growth, zoning and the Triview sales tax split
+- answered yes, and listed off the examples of 2nd Street, and Conexus, and that Hwy 105 is
+- begging for improvement (which would require action by CDOT). And when Scott asked
+- about what the most important development is, roof tops vs Commercial, Dan answered
+- answered it’s ambiguous and challenging, and that the Comp Plan explains how to
+- answer was the obligation of ARPA funds in 2025 and grant revenue in 2026, regarding
+- uses for Use Tax the answer was Capital Projects
+- When Scott Gilson asked if any layoffs like in 2025 were being considered, the answer was
+- Greg Bland complimented the Finance Team, with appreciation of quick action to budget
+- changes and feels we are looking out for the Town’s best interests
+
+## [monument#20] 2026-11-16 | Town Council | agenda
+- 645 Beacon Lite Road - Monument, CO 80132
+- b. Vote on Excluding Council Members With Potential Conflicts of Interest From Consideration, Discussion and Voting on Identified Matters
+- 3. Approval of the Consent Agenda:
+- 4. Public Comments For Items Not on the Agenda: Individuals attending in person may raise their
+- 5. Resolutions:
+- a. Resolution No. 81-2026 - A Resolution Approving a Contract With Palomar to Purchase a
+- b. Resoution No. 80-2026 - A Resolution Approving a Contract With Mountain View Electric
+- c. Resolution No. 82-2026 - A Resolution Approving a Contract with Green Electric to Provide
+- d. Resolution No. 83-2026 - A Resolution Approving a Contract With Flintco to Install a
+- e. Resolution No. 84-2026 - A Resolution Authorizing the Purchase and Implementation of the
+- OpenGov Public Service Platform as a Coordinated Town-Wide Enterprise Software System
+- Through an OMNIA Cooperative Purchase Agreement - (Jenna Gorney)
+- f. Resolution No. 85-2026 - A Resolution Approving Revisions to the Town of Monument Fee
+- Pending Legal Projects
+- b. Executive Session Pursuant to C.R.S. § 24-6-402(4)(f) For the Purpose of Discussing a
+- Town Manager Has Been Notified and Has Consented and Pursuant to C.R.S. § 24-6
+- to Negotiations, Developing Strategy For Negotiations, and Instructing Negotiators
+- Concerning the Town Manager’s Employment Contract
+- 10. Reconvene In Open Session: Council may act in open session on item(s) discussed in
+
+## [monument#21] 2026-11-16 | Town Council | agenda
+- 645 Beacon Lite Road - Monument, CO 80132
+- b. Vote on Excluding Council Members With Potential Conflicts of Interest From Consideration, Discussion and Voting on Identified Matters
+- 3. Approval of the Consent Agenda:
+- 4. Public Comments For Items Not on the Agenda: Individuals attending in person may raise their
+- 5. Resolutions:
+- a. Resolution No. 81-2026 - A Resolution Approving a Contract With Palomar to Purchase a
+- b. Resoution No. 80-2026 - A Resolution Approving a Contract With Mountain View Electric
+- c. Resolution No. 82-2026 - A Resolution Approving a Contract with Green Electric to Provide
+- d. Resolution No. 83-2026 - A Resolution Approving a Contract With Flintco to Install a
+- e. Resolution No. 84-2026 - A Resolution Authorizing the Purchase and Implementation of the
+- OpenGov Public Service Platform as a Coordinated Town-Wide Enterprise Software System
+- Through an OMNIA Cooperative Purchase Agreement - (Jenna Gorney)
+- f. Resolution No. 85-2026 - A Resolution Approving Revisions to the Town of Monument Fee
+- Pending Legal Projects
+- b. Executive Session Pursuant to C.R.S. § 24-6-402(4)(f) For the Purpose of Discussing a
+- Town Manager Has Been Notified and Has Consented and Pursuant to C.R.S. § 24-6
+- to Negotiations, Developing Strategy For Negotiations, and Instructing Negotiators
+- Concerning the Town Manager’s Employment Contract
+- 10. Reconvene In Open Session: Council may act in open session on item(s) discussed in
+- Patrick Regan, Police Chief
+- Jonathan Rigaud, Water Manager
+- Consideration, Discussion and Voting on Identified Matters
+- Approval of the Consent Agenda:
+- c. Q3 Budget Report
+- d. Q3 Sales Tax Report
+- Councilmember Marco Fiorito made a motion to approve the consent agenda as
+- 4. Public Comments For Items Not on the Agenda:
+- 6. Presentations:
+- a. Proposed 2027 Draft Budget
+- Phillips gave an overview of the 2026 second amendent budget and presented
+- the proposed 2027 draft budget as included in the council packet. The council
+- gave staff direction to move forward with the draft budget as presented
+- b. Jackson Creek Parkway Improvements Update
+- a gave a presentation on the Jackson Creek Parkway improvements
+- 7. Resolutions:
+- a. PUBLIC HEARING on Resolution No. 78-2026 - A Resolution Adopting the
+- Monument 2040 Comprehensive Plan and Its Component, the Monument 2040
+- Downtown Master Plan
+- Ungerleider presented resolution 78-2026 as included in the council packet. Andy
+- Cross with The Lakota Group spoke about the development of the comprehensive
+- plan. Cross gave appreciation to the other team members assisted with the
+- development of the plan to include help from the steering committee, residents,

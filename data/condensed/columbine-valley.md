@@ -201,66 +201,33 @@
 - B. Platte Canyon Sidewalk Update: Mr. McCrumb advised the Trustees that the proposed
 - Platte Canyon sidewalk would not be proceeding as the design had changed too
 
-## [columbine-valley#11] 2026-10-20 | City Council | agenda
-- 3. PUBLIC COMMENT
-- Colorado Open Meetings Law to discuss, comment, or act at the meeting on any issue raised
-- by public comment. The Mayor may refer the matter to the Town Administrator or Town
-- Consent agenda items can be adopted by a simple motion. Ordinances must be read by title
-- a. Approval of September 15, 2026 Minutes
-- b. Set a Public Hearing on the Budget for November Meeting
-- c. Set a Public Hearing on the Budget for Housing Needs Assessment
-- e. Chief of Police
-- 6. PRESENTATIONS
-- a. First Draft – 2026 Housing Needs Assessment
-- b. Second Draft – 2027 Town Budget
-- a. Trustee Bill #9 – 2026 Concerning Permit Fees
-- b. Trustee Bill #10 - 2026 Regarding Land Use and Zoning Updates
-- i. Set a Public Hearing for November
-- c. Trustee Bill #11 - 2026 Regarding Annexation of 8 Hunter Run
-- i. PUBLIC HEARING for Trustee Bill #11 - 2026
-
-## [columbine-valley#12] 2026-10-20 | City Council | agenda
-- 3. PUBLIC COMMENT
-- Colorado Open Meetings Law to discuss, comment, or act at the meeting on any issue raised
-- by public comment. The Mayor may refer the matter to the Town Administrator or Town
-- Consent agenda items can be adopted by a simple motion. Ordinances must be read by title
-- a. Approval of September 15, 2026 Minutes
-- b. Set a Public Hearing on the Budget for November Meeting
-- c. Set a Public Hearing on the Budget for Housing Needs Assessment
-- e. Chief of Police
-- 6. PRESENTATIONS
-- a. First Draft – 2026 Housing Needs Assessment
-- b. Second Draft – 2027 Town Budget
-- a. Trustee Bill #9 – 2026 Concerning Permit Fees
-- b. Trustee Bill #10 - 2026 Regarding Land Use and Zoning Updates
-- i. Set a Public Hearing for November
-- c. Trustee Bill #11 - 2026 Regarding Annexation of 8 Hunter Run
-- i. PUBLIC HEARING for Trustee Bill #11 - 2026
-- PUBLIC COMMENT: There was no public comment
-- Board of Trustees unanimously approved the consent agenda which consisted of
-- A. Mayor Huelskamp updated the Trustees a salary survey that is underway and notified them
-- that the Town has vacancies on the Planning and Zoning Commission, he is seeking
+## [columbine-valley#11] 2026-10-20 | City Council | minutes
+- PUBLIC COMMENT: Mara Marks, 8 Driver Lane, Concern that P&Z lighting regulations on pages
+- approves moratorium on lighting;
+- lighting and requests clear process for sharing plans and input
+- the Board of Trustees unanimously approved the consent agenda which consisted
+- of the September 15, 2026, minutes, setting a public hearing for the 2027 Budget,
+- and setting a public hearing for Housing Needs Assessment feedback
+- A. Mayor Huelskamp updated the Trustees that he has identified Planning & Zoning
 - PRESENTATIONS:
-- A. First Draft – 2027 Town Budget: Mr. McCrumb presented the first draft of the 2027
-- budget, including several special projects and initiatives. Also presented was the budget
-- discussed several of the projects but did not offer any direction or changes at this time
-- B. Housing Needs Assessment: Mr. McCrumb offered the Trustees an update on the
-- Housing Needs Assessment. The Community survey is underway, and staff expects the
-- response rate to exceed the 20% target by the time it closes. A draft presentation will be
-- A. Resolution #12 – 2026: Mr. Schiller presented the resolution concerning an agreement
-- Attorney. The Trustees asked questions and discussed the resolution
-- the Board of Trustees unanimously approved Resolution #12 and authorized
-- B. Platte Canyon Sidewalk Update: Mr. McCrumb advised the Trustees that the proposed
-- Platte Canyon sidewalk would not be proceeding as the design had changed too
-- Request for Board of Trustee Action
-- Title: 2027 Town Budget Public Hearing
-- budget is not simply an internal administrative decision: it must
-- include a public hearing at which interested electors may comment or
-- object. The public hearing ensures transparency, accountability, and
-- budget. The budget must present a complete financial plan by fund
-- The statute also prohibits adopting a budget that provides for
-- balance. The budget must include a “budget message” describing the
-- After the proposed budget is prepared, the governing body must
+- A. First Draft — Housing Needs Assessment: Mr. Kaslon presented a high-level summary of
+- B. Second Draft — 2027 Town Budget: Ms. Rodriguez summarized the budget for the
+- A. Trustee Bill #9 — 2026 Concerning Permit Fees: Mr. Schiller presented the bill on first reading
+- The Trustees asked questions and discussed the ordinance
+- Board of Trustees unanimously approved Trustee Bill #9 on first reading
+- B. Trustee Bill #10: Mr. Schiller presented the amendment to the zoning code on first reading. The
+- Trustees asked questions and discussed the amendment
+- the Board of Trustees unanimously approved the recommendations of the
+- Planning and Zoning Commission concerning the amendments to the Zoning
+- Lighting section of the Zoning Code, Article II, Section 3, Country Club (CC)
+- District, of the Zoning Code and approves the provision recommended by the
+- Town attorney concerning revisions and amendments to Articles I-V of the
+- Zoning Code, and to set a public hearing and 2nd Reading for Tuesday, November
+- C. Trustee Bill #11: Mr. Schiller presented the bill regarding annexation of 8 Hunter Run Lane on
+- Board of Trustees unanimously approved Trustee Bill #11 on first reading
+- unanimously approved going into an executive session to confer with legal counsel regarding US District
 
-## [columbine-valley#13] 2026-11-09 | City Council | agenda
-- 2. STUDY SESSION – to discuss recreational lighting and a possible
+## [columbine-valley#12] 2026-11-09 | City Council | minutes
+- STUDY SESSION: The trustees conducted a study session to discuss recreational lighting and a
+- recreation, sports, and parking lighting within the town. They further directed staff to draft an
+- ordinance for consideration at their November meeting regarding a moratorium on such lighting

@@ -1,40 +1,6 @@
 # rangely
 
-## [rangely#0] 2026-08-11 | City Council | agenda
-- Public Input is a vital and important portion of every meeting and will be permitted
-- a. Public input is allowed during the Agenda identified Public Input and Public
-- Hearing portion of the meeting
-- feelings on a variety of issues
-- a. Discussion and Action to approve the Town Council minutes of July 28th, 2026
-- b. Discussion and Action to approve the Executive Meeting minutes of July 28th, 2026
-- 8. Public Hearings - 7:10pm
-- a. Discussion and action to approve the July 2026 Check Register
-- b. Discussion and action to delay the middle zone water tank re-coating project
-- c. Discussion and action to approve new Bulk water customer (H & K Trucking, LLC); approval or denial of
-- new bulk water customers is at the discretion of the council pursuant to Emergency Ordinance 707
-- d. Discussion and action to approve the Energy Campus Development & Municipal Participation Study (stage
-- 2 of the Rangely geothermal development)
-- a. PITCH Competition; Application Deadline August 17th
-- b. Planning and Zoning
-- d. Rural Fire Protection District Board meeting is scheduled for August 10th, 2026, at 7:00 pm in Rangely
-- e. WRB Park & Recreation District Board meeting is scheduled for August 10th, 2026, at 6:00 pm
-- l. RBC Water Conservancy District Board Meeting is scheduled for August 26th, 2026, at 6:30 pm
-- a. Discussion and Action to approve the Town Council minutes of July 14th, 2026 – Motion made by Tim
-- Webber to approve the Town Council minutes of July 14th, 2026, second by Robby Elam. Motion
-- 8. Public Hearings - 7:10pm - The Rangely Liquor Licensing Authority (Rangely Town Council) will consider an
-- application for new liquor license applications filed respectively as below:
-- a. Public Hearing to consider the application filed on March 25, 2026, Mi Lindo Jalisco, LLC, located at 35
-- Park Street, Rangely, Co 81648, for a Hotel and Restaurant Liquor License, to serve Malt, Vinous and
-- invited to attend and participate in the public hearing
-- 9. Town Manager Update – Jonah reported that the water level/flow has dropped into the 60’s. Jonah
-- indicated that the pond liner at the wastewater plant needs to be replaced and that the water plant is having
-- structural issues. Jonah stated that there are 2 positions open in the Police Department
-- a. Discussion and action to approve the Liquor License for Mi Lindo Jalisco, LLC. – Motion made by Tim
-- Webber to approve the Liquor License for Mi Lindo Jalisco, LLC, second by Shawn Morgan. Motion
-- b. Discussion and action to approve June 2026 Income Statement – Motion made by Tim Webber to
-- c. Discussion and action to amend the 2026 Fee Schedule for Certified VIN Inspections under Police Services
-
-## [rangely#1] 2026-08-25 | City Council | agenda
+## [rangely#0] 2026-08-25 | City Council | agenda
 - Public Input is a vital and important portion of every meeting and will be permitted
 - a. Public input is allowed during the Agenda identified Public Input and Public
 - Hearing portion of the meeting
@@ -66,7 +32,7 @@
 - a. Discussion and action to approve the July 2026 Check Register – Motion made by Jimmy Dillon to
 - approve the July 2026 Check Register, second by Shawn Morgan. Motion passed
 
-## [rangely#2] 2026-09-08 | City Council | agenda
+## [rangely#1] 2026-09-08 | City Council | agenda
 - Budget Work Session
 - Public Input is a vital and important portion of every meeting and will be permitted
 - a. Public input is allowed during the Agenda identified Public Input and Public
@@ -99,7 +65,7 @@
 - stated that he was told that noise was dependent on what type of data center it was
 - a. Discussion and action to approve the July 2026 Income Statement – Motion made by Shawn Morgan to
 
-## [rangely#4] 2026-09-22 | City Council | agenda
+## [rangely#3] 2026-09-22 | City Council | agenda
 - Budget Work Session
 - Public Input is a vital and important portion of every meeting and will be permitted
 - a. Public input is allowed during the Agenda identified Public Input and Public
@@ -131,7 +97,7 @@
 - release of water and to Betty Kracht, the water commissioner. Michael stated that the water ordinance will be
 - significant corrosion. Michael stated that a separate structural inspector came into to inspect rafters and columns
 
-## [rangely#5] 2026-10-13 | City Council | agenda
+## [rangely#4] 2026-10-13 | City Council | agenda
 - Budget Work Session
 - Public Input is a vital and important portion of every meeting and will be permitted
 - a. Public input is allowed during the Agenda identified Public Input and Public
@@ -165,7 +131,7 @@
 - measure to the municipal code barring public officials from entering into NDAs for economic development
 - NDA signed due to the company working on another project. Frank stated that he is strongly opposed to any
 
-## [rangely#6] 2026-10-27 | City Council | agenda
+## [rangely#5] 2026-10-27 | City Council | agenda
 - Public Input is a vital and important portion of every meeting and will be permitted
 - a. Public input is allowed during the Agenda identified Public Input and Public
 - Hearing portion of the meeting
@@ -197,7 +163,7 @@
 - she also takes care of the landscaping at the car museum. Chloe stated that she has been trying to water
 - the trees consistently. Chloe indicated that she is currently doing fall clean-up. Chloe discussed about
 
-## [rangely#7] 2026-10-29 | City Council | agenda
+## [rangely#6] 2026-10-29 | City Council | agenda
 - Virtual Special Meeting – Approval of Resolution 2026-08
 - Public Input is a vital and important portion of every meeting and will be permitted
 - a. Public input is allowed during the Agenda identified Public Input and Public
@@ -229,3 +195,35 @@
 - administration, human resources, or the resolution of employment disputes, is qualified to conduct
 - an impartial administrative review. The Municipal Judge may be appointed Hearing Officer, and
 - such appointment is separate from, and does not affect the term, compensation, or tenure of, the
+
+## [rangely#7] 2026-11-10 | City Council | agenda
+- Public Input is a vital and important portion of every meeting and will be permitted
+- a. Public input is allowed during the Agenda identified Public Input and Public
+- Hearing portion of the meeting
+- feelings on a variety of issues
+- a. Discussion and Action to approve the Town Council minutes of October 27th, 2026
+- b. Discussion and Action to approve the Town Council Special Meeting minutes of October 29th, 2026
+- 8. Public Hearings - 7:10pm
+- a. Discussion and action to approve October 2026 Check Register
+- b. Discussion and action to designate 826 E. Main Street as a Local Historic property
+- a. Planning and Zoning
+- d. Rural Fire Protection District Board meeting is scheduled for November 9th, 2026, at 7:00 pm in Rangely
+- e. WRB Park & Recreation District Board meeting is scheduled for November 9th, 2026, at 6:00 pm
+- j. RBC Water Conservancy District Board Meeting is scheduled for November 18th, 2026, at 6:30 pm
+- a. Discussion and Action to approve the Town Council minutes of October 13th, 2026 – Motion made by
+- Jimmy Dillon to approve the Town Council minutes of October 13th, 2026, second by Shawn Morgan
+- 9. Town Manager Update – Jonah reported to the council that wastewater had to clear some lines due to some
+- roots being found, the piping for the microclor is almost complete, and the water softener has been rebuilt
+- Jonah stated that public works are getting concrete work done on Morrison and replacing some street signs
+- Jonah indicated that the building permitting platform with iWorQ is still a work in progress and way finding
+- signs are being replaced. Jonah reported that the police department is conducting interviews for dispatcher
+- 10. Council Reports – Town Council met with Rio Blanco County in a work session before the meeting to discuss
+- a housing complex in Meeker. The county took possession in 2001 and are currently using county funds to
+- fund the facility. Tim Webber stated that he spoke with Colorado Water River District and they indicated that
+- they have grants available and the tank may qualify
+- a. Discussion and action to approve September 2026 Income Statement – Motion made by Shawn Morgan
+- to approve September 2026 Income Statement, second by Brenda Ahrens. Motion passed
+- b. Discussion and action to approve a Special Event Permit for BPOE 1907 for the Elks Charity Ball November
+- 14th-15th from 4pm-2:00am – Motion made by Jimmy Dillon to approve a Special Event Permit for BPOE
+- c. Discussion and action to approve the Liquor License Renewal for WRB Park & Rec District Cedar Ridges Golf
+- Course – Motion made by Jimmy Dillon to approve the Liquor License Renewal for WRB Park & Rec District Cedar

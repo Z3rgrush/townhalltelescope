@@ -1,95 +1,89 @@
-- title: Elk Fire local disaster emergency
-  summary: The Town Manager declared a local disaster on August 7, 2026 due to the Elk Fire on the border of Lake City, and Council ratified it on August 12 with Resolution 2026-10. Council approved an emergency agreement with the USDA Forest Service for potable water and grey water disposal at $0.03 per gallon. Backup generators were borrowed from Estes Park and Windsor, and on October 21 Council discussed Resolution 2026-13 terminating the emergency.
+- title: Phase 1 Hinsdale County & Lake City Housing Plan implementation
+  summary: In August the council approved the PC-IN-922 Phase 1 Housing Plan Implementation grant agreement and picked a consultant by RFP. The consultant name shifted across documents (Collegiate Peaks Law & Mediation, then Western Space/Spaces LLC). A professional services agreement with Western Spaces LLC was approved on Nov. 4.
+  where: Lake City and Hinsdale County
+  refs:
+  - 0
+  - 1
+  - 2
+  - 4
+  - 5
+  - 6
+  topics:
+  - Housing
+  - Government operations
+- title: Elk Fire response and emergency water agreement with USDA Forest Service
+  summary: Council discussed the Elk Fire on the Lake City border and approved an emergency facilities and land use agreement letting the Forest Service use town potable water and grey water disposal at $0.03 per gallon. On Oct. 21 it considered Resolution 2026-13 ending the local disaster emergency. Backup generators lent by Estes Park and Windsor were also thanked.
   where: Lake City and unincorporated Hinsdale County
   refs:
   - 0
   - 1
   - 2
-  - 3
-  - 6
+  - 5
   topics:
   - Fire & emergencies
   - Water
-  - Government operations
-- title: Hinsdale County & Lake City Phase 1 housing plan implementation
-  summary: Council accepted a Phase 1 Housing Plan Implementation grant agreement and sought proposals for a consultant. It first selected Collegiate Peaks Law & Mediation, but by October 21 it was discussing a notice of award to Western Space(s) LLC, and a professional services agreement with Western Spaces was on the November 4 agenda. The work supports a comprehensive county and town housing plan.
-  where: Lake City and Hinsdale County
-  refs:
-  - 1
-  - 2
-  - 3
-  - 5
-  - 6
-  - 7
-  topics:
-  - Housing
-  - Government operations
-- title: ADU grant and pre-approved ADU plans
-  summary: Council discussed DOLA ADU Supportive Jurisdiction certification and approved a grant application of $107,000 with a 13% match of $13,910. The money would fund pre-approved accessory dwelling unit designs and ADU financial assistance.
-  where: Townwide
-  refs:
-  - 1
-  - 6
-  topics:
-  - Housing
-  - Zoning & development
+  - Utilities
 - title: 2027 budget, water and sewer rates, and capital projects
-  summary: Council reviewed the 2027 draft budget, 2027 water and sewer rates, capital improvement projects, alternate health insurance plans versus the current CEBT plan, and limited funds for donations. The Town Manager was appointed budget officer. A 2026 audit RFP and an engagement letter with Green & Associates were also discussed.
+  summary: Council worked through the 2027 draft budget in October and November, including 2027 water and sewer rates, capital improvement projects, donations funding, and health insurance plan options. The town manager was appointed budget officer, and a budget workshop was set for Nov. 11.
   where: Townwide
   refs:
-  - 2
-  - 3
+  - 4
   - 5
   - 6
   - 7
   topics:
   - Budget & taxes
   - Fees & rates
-  - Water
-- title: Armory apartment rent and applicant criteria
-  summary: Council discussed rent, use and applicant criteria for the apartment at the Armory building on October 7 and again on October 21.
-  where: Armory, 230 N. Bluff Street
+  - Utilities
+- title: ADU grant and Armory apartment rules
+  summary: Council approved a DOLA ADU grant application of $107,000 with a $13,910 match for pre-approved accessory dwelling unit designs and financial assistance. It also discussed rent and applicant criteria for Armory apartments.
+  where: Lake City; Armory, 230 N. Bluff Street
   refs:
+  - 0
+  - 4
   - 5
-  - 6
   topics:
   - Housing
-  - Land & property
-- title: Dark Sky Community designation
-  summary: Council reviewed the certification requirements for becoming an International Dark Sky Community and discussed the designation application on September 16.
-  where: Townwide
+  - Zoning & development
+- title: Colorado Ride 2027 tent camping in Memorial Park
+  summary: Summit Cycle Solutions asked to use Memorial Park for tent camping Aug. 11-13, 2027 for about 70 participants. Council approved the request and then Resolution 2026-12 permitting it.
+  where: Memorial Park
   refs:
-  - 2
   - 3
   - 4
   topics:
-  - Environment & climate
-  - Tourism & events
-- title: Colorado Ride 2027 tent camping in Memorial Park
-  summary: Summit Cycle Solutions asked to use Memorial Park for tent camping for about 70 participants from August 11 to 13, 2027. Council approved Resolution 2026-12 permitting it on October 7.
-  where: Memorial Park
-  refs:
-  - 4
-  - 5
-  topics:
   - Tourism & events
   - Parks & open space
-- title: Wildfire resiliency code and stormwater concerns
-  summary: Council discussed CML and DOLA responses on adoption of the Colorado Wildfire Resiliency Code and future grant funding. A resident also raised concerns about loss of containment of stormwater and its depth and velocity.
+  public_comment: true
+- title: Dark Sky Community certification
+  summary: Council discussed requirements and the application for International Dark Sky Community designation.
   where: Townwide
   refs:
   - 1
+  - 2
+  - 3
+  topics:
+  - Environment & climate
+  - Government operations
+- title: Wildfire resiliency code and 2026 audit
+  summary: Council discussed CML and DOLA responses on the Colorado Wildfire Resiliency Code adoption and future grant funding. It also moved to draft an RFP for the 2026 audit and approved an engagement letter with Green & Associates LLC.
+  where: Townwide
+  refs:
+  - 1
+  - 2
+  - 5
   - 6
   topics:
   - Fire & emergencies
-  - Environment & climate
-  - Zoning & development
-  public_comment: true
-- title: Pickleball courts public engagement
-  summary: Council discussed holding public engagement on pickleball courts in spring or summer 2027.
-  where: Townwide
+  - Government operations
+  - Budget & taxes
+- title: Pickleball courts public engagement and Town Park dogs
+  summary: Council discussed public engagement on pickleball courts for spring/summer 2027. It approved Resolution 2026-11 permitting dogs in Town Park for the Chamber's Dog Days of Summer event on Sept. 5.
+  where: Town Park
   refs:
+  - 0
   - 1
+  - 2
   topics:
   - Recreation & trails
   - Parks & open space

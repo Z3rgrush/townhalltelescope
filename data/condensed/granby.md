@@ -1,20 +1,6 @@
 # granby
 
-## [granby#0] 2026-08-11 | Board of Trustees Regular Meeting | agenda
-- WILDFIRE RESILIENCY CODE WORKSHOP
-- UNSCHEDULED PUBLIC COMMENTS - COMMENTS ARE LIMITED TO 3 MINUTES
-- This time is reserved for members of the public to make a presentation to the Board on items or issues that are not scheduled on the agenda. The Board will not discuss/debate these items, nor will the Board make any decisions on items presented during this time, rather, the Board will refer the item
-- NSA PLANT NAMING DISCUSSION / MAYOR & PUBLIC WORKS DIRECTOR
-- REVEGETATION AND TREE PLANTING AT GRANBY TRAILS WITH CSFS GRANTS / DANIELA GOSSELOVA, TOWN RESIDENT & KAITLIN MILLER, EXECUTIVE DIRECTOR, MIDDLE PARK CONSERVATION DISTRICT
-- ORDINANCE NO. 1040 - AN ORDINANCE AMENDING CHAPTER 5.05 AND ADDING CHAPTER 5.06 TO THE GRANBY MUNICIPAL CODE REGARDING THE REGULATION OF PEDDLERS, MOBILE VENDORS, SOLICITORS, AND CANVASSERS / TOWN CLERK
-- 2 CHEVY TAHOE PURCHASES FOR POLICE DEPARTMENT
-- PERMISSION TO USE POLHAMUS PARK FOR SPECIAL EVENT LIQUOR PERMIT FOR ART IN THE PARK / TOWN CLERK
-- Community Development/ Trustee Stern
-- Economic Development / Trustee Silva
-- Housing / Trustee Michalowski
-- Police Chief
-
-## [granby#1] 2026-08-25 | Board of Trustees Regular Meeting | agenda
+## [granby#0] 2026-08-25 | Board of Trustees Regular Meeting | agenda
 - DATA CENTER WORKSHOP / TOWN MANAGER
 - UNSCHEDULED PUBLIC COMMENTS - COMMENTS ARE LIMITED TO 3 MINUTES
 - This time is reserved for members of the public to make a presentation to the Board on items or issues that are not scheduled on the agenda. The Board will not discuss/debate these items, nor will the Board make any decisions on items presented during this time, rather, the Board will refer the item
@@ -28,7 +14,7 @@
 - EXECUTIVE SESSION #1 — Move to enter executive session to conference with the Town attorney for the purpose of receiving legal advice on specific legal questions pursuant to C.R.S. § 24-6-402(4)(b), and for the purpose of determining positions relative to matters that may be subject to negotiations,
 - to enter executive session to conference with the Town attorney for the purpose of receiving legal advice on specific legal questions pursuant to C.R.S. § 24-6-402(4)(b), for the purpose of discussing a personnel matter pursuant to C.R.S. § 24-6-402(4)(f), and for the purpose of determining position
 
-## [granby#2] 2026-09-08 | Board of Trustees Regular Meeting | agenda
+## [granby#1] 2026-09-08 | Board of Trustees Regular Meeting | agenda
 - UNSCHEDULED PUBLIC COMMENTS - COMMENTS ARE LIMITED TO 3 MINUTES
 - This time is reserved for members of the public to make a presentation to the Board on items or issues that are not scheduled on the agenda. The Board will not discuss/debate these items, nor will the Board make any decisions on items presented during this time, rather, the Board will refer the item
 - ALLEY TRAFFIC CONCERNS DISCUSSION/ TOWN MANAGER
@@ -41,7 +27,7 @@
 - Housing / Trustee Michalowski
 - Police Chief
 
-## [granby#3] 2026-09-22 | Board of Trustees Regular Meeting | agenda
+## [granby#2] 2026-09-22 | Board of Trustees Regular Meeting | agenda
 - UNSCHEDULED PUBLIC COMMENTS - COMMENTS ARE LIMITED TO 3 MINUTES
 - This time is reserved for members of the public to make a presentation to the Board on items or issues that are not scheduled on the agenda. The Board will not discuss/debate these items, nor will the Board make any decisions on items presented during this time, rather, the Board will refer the item
 - PUBLIC HEARING FOR THE FOLLOWING
@@ -55,12 +41,12 @@
 - Housing / Trustee Michalowski
 - that the Board enter into executive session pursuant to C.R.S. § 24-6-402(4)(b), for the purpose of receiving legal advice on specific legal questions concerning the Town Manager’s employment and potential separation from employment; pursuant to C.R.S. § 24-6-402(4)(e), for the purpose of determinin
 
-## [granby#4] 2026-10-05 | Planning Commission | agenda
+## [granby#3] 2026-10-05 | Planning Commission | agenda
 - APPROVAL OF MINUTES FROM AUGUST 3, 2026
 - PUBLIC HEARING FOR THE FOLLOWING:
 - RESOLUTION NO. 2026-10-05 - A RESOLUTION APPROVING THE PRELIMINARY PLAT AND RECOMMENDING APPROVAL OF THE PRELIMINARY PLAN FOR THE TEN MILE CROSSING PLANNED DEVELOPMENT OVERLAY DISTRICT, SUBJECT TO CONDITIONS / TOWN MANAGER
 
-## [granby#5] 2026-10-13 | Board of Trustees Regular Meeting | agenda
+## [granby#4] 2026-10-13 | Board of Trustees Regular Meeting | agenda
 - UNSCHEDULED PUBLIC COMMENTS - COMMENTS ARE LIMITED TO 3 MINUTES
 - This time is reserved for members of the public to make a presentation to the Board on items or issues that are not scheduled on the agenda. The Board will not discuss/debate these items, nor will the Board make any decisions on items presented during this time, rather, the Board will refer the item
 - OATH OF OFFICE FOR POLICE CHIEF / TOWN CLERK
@@ -80,7 +66,7 @@
 - APPROVAL OF MINUTES FROM JUNE 9, 2026
 - 2027 GRAND ELK RANCH GENERAL IMPROVEMENT DISTRICT (GEGID) BUDGET DISCUSSION / FINANCE DIRECTOR
 
-## [granby#6] 2026-10-27 | Board of Trustees Regular Meeting | agenda
+## [granby#5] 2026-10-27 | Board of Trustees Regular Meeting | agenda
 - GRAND ELK GENERAL IMPROVEMENT DISTRICT MEETING
 - CHAIRMAN HARDY TO CALL THE GRAND ELK GENERAL IMPROVEMENT DISTRICT MEETING TO ORDER AT THE TOWN HALL, ZERO JASPER AVENUE
 - GEGID ORDINANCE NO. 81
@@ -97,3 +83,27 @@
 - Community Development/ Trustee Stern
 - Economic Development / Trustee Silva
 - Housing / Trustee Michalowski
+
+## [granby#6] 2026-11-10 | Board of Trustees Regular Meeting | agenda
+- GRAND ELK GENERAL IMPROVEMENT DISTRICT
+- CHAIRMAN HARDY TO CALL THE GRAND ELK GENERAL IMPROVEMENT DISTRICT MEETING TO ORDER AT THE TOWN HALL, ZERO JASPER AVENUE
+- APPROVAL OF GEGID MINUTES FROM OCTOBER 27, 2026
+- GEGID BUDGET ORDINANCES / FINANCE DIRECTOR
+- ORDINANCE NO. 82 (G.E.G.I.D.) GRAND ELK RANCH GENERAL IMPROVEMENT DISTRICT - AN ORDINANCE SUMMARIZING EXPENDITURES AND REVENUES FOR EACH FUND, AND ADOPTING A BUDGET FOR THE GRAND ELK RANCH GENERAL IMPROVEMENT DISTRICT, TOWN OF GRANBY, COLORADO FOR THE CALENDAR YEAR BEGINNING ON THE 1st DAY OF JANUAR
+- ORDINANCE TO APPROPRIATE SUMS OF MONEY
+- ORDINANCE NO. 83 (G.E.G.I.D.) — AN ORDINANCE APPROPRIATING SUMS OF MONEY TO THE VARIOUS FUNDS AND SPENDING AGENCIES, IN THE AMOUNTS AND FOR THE PURPOSES AS SET FORTH BELOW, FOR THE GRAND ELK RANCH GENERAL IMPROVEMENT DISTRICT, TOWN OF GRANBY, COLORADO FOR THE 2027 BUDGET YEAR
+- ORDINANCE TO SET MILL LEVY
+- ORDINANCE NO. 84 (G.E.G.I.D.) GRAND ELK RANCH GENERAL IMPROVEMENT DISTRICT — AN ORDINANCE LEVYING GENERAL PROPERTY TAXES FOR THE YEAR 2026, TO HELP DEFRAY THE COSTS OF GOVERNMENT FOR THE GRAND ELK RANCH GENERAL IMPROVEMENT DISTRICT, TOWN OF GRANBY, COLORADO, FOR THE 2027 BUDGET YEAR
+- GRAND ELK GENERAL IMPROVEMENT DISTRICT 2
+- CHAIRMAN HARDY TO CALL THE GRAND ELK GENERAL IMPROVEMENT DISTRICT 2 MEETING TO ORDER AT THE TOWN HALL, ZERO JASPER AVENUE
+- APPROVAL OF GEGID 2 MINUTES FROM NOVEMBER 18, 2025
+- GEGID 2 BUDGET ORDINANCES / FINANCE DIRECTOR
+- ORDINANCE TO ADOPT BUDGET
+- ORDINANCE NO. 50 (G.E.G.I.D. NO. 2) - AN ORDINANCE SUMMARIZING EXPENDITURES AND REVENUES FOR EACH FUND, AND ADOPTING A BUDGET FOR THE GRAND ELK RANCH NO. 2 GENERAL IMPROVEMENT DISTRICT, TOWN OF GRANBY, COLORADO FOR THE CALENDAR YEAR BEGINNING ON THE 1st DAY OF JANUARY 2027 AND ENDING ON THE LAST DAY
+- ORDINANCE NO. 51 (G.E.G.I.D. NO. 2) - AN ORDINANCE APPROPRIATING SUMS OF MONEY TO THE VARIOUS FUNDS AND SPENDING AGENCIES, IN THE AMOUNTS AND FOR THE PURPOSES AS SET FORTH BELOW FOR THE GRAND ELK RANCH NO. 2 GENERAL IMPROVEMENT DISTRICT, TOWN OF GRANBY, COLORADO FOR THE 2027 BUDGET YEAR
+- ORDINACE TO SET MILL LEVY
+- ORDINANCE NO. 52 (G.E.G.I.D. NO. 2) — AN ORDINANCE LEVYING GENERAL PROPERTY TAXES FOR THE YEAR 2026, TO HELP DEFRAY THE COSTS OF GOVERNMENT FOR THE GRAND ELK RANCH GENERAL IMPROVEMENT DISTRICT, TOWN OF GRANBY, COLORADO, FOR THE 2027 BUDGET YEAR
+- GRANBY WEST GENERAL IMPROVEMENT DISTRICT
+- APPROVAL OF GWGID MINUTES FROM NOVEMBER 18, 2025
+- GWGID BUDGET ORDINANCES / FINANCE DIRECTOR
+- ORDINANCE NO. 56 GRANBY WEST GENERAL IMPROVEMENT DISTRICT FORMERLY KNOWN AS (F.K.A.) SHOREFOX G.I.D. - AN ORDINANCE SUMMARIZING EXPENDITURES AND REVENUES FOR EACH FUND, AND ADOPTING A BUDGET FOR THE GRANBY WEST GENERAL IMPROVEMENT DISTRICT (G.I.D.) F.K.A. SHOREFOX GENERAL IMPROVEMENT DISTRICT, TOWN 

@@ -1,88 +1,6 @@
 # arvada
 
-## [arvada#0] 2026-08-11 | City Council | agenda
-- Ed Brady, Chief of Police
-- A. Update to Parks, Trails, and Open Space Master Plan
-
-## [arvada#1] 2026-08-11 | City Council | agenda
-- Ed Brady, Chief of Police
-- A. Update to Parks, Trails, and Open Space Master Plan
-- SUBJECT: Update to Parks, Trails, and Open Space Master Plan
-- This workshop will provide City Council with an overview of the Parks Master Plan update process, including a recap of the
-- existing 2016 Parks Master Plan, key findings from the initial gap analysis, and emerging trends impacting parks, recreation,
-- open space, urban forestry, golf, trails, and community amenities. Staff will also present the proposed project timeline,
-- anticipated public engagement approach, and coordination efforts with related City plans and strategicinitiatives
-- The City of Arvada maintains a Parks and Open Space Master Plan to guide the long-term planning, development,
-- maintenance, and stewardship of the City's parks, trails, open space, and recreation assets. The Master Plan serves as a policy
-- decision-making while ensuring the park system continues to meet the needs of a growing and evolving community
-- The current Parks and Open Space Master Plan was adopted by the City Council in 2016. Since its adoption, Arvada has
-- emphasis on environmental sustainability and resilience, and significant investments in the City's park system. In addition, the
-- City is currently updating several guiding documents, including the Comprehensive Plan, creating the need to ensure the Parks
-- and Open Space Master Plan remains aligned with the City's overall vision and strategic priorities
-- The proposed Master Plan update will evaluate existing parks, trails, open space, natural resources, and recreation amenities;
-- assess current and future levels of service; identify community needs and priorities; and establish a long-range implementation
-- strategy for future investments. The updated plan will provide a framework for prioritizing capital improvements, improving
-- equitable access to parks and recreation opportunities, enhancing environmental stewardship, and supporting the City's
-- Development of the Master Plan update includes a comprehensive public engagement process involving residents, community
-- and position the City's parks and open space system to serve future generations
-- City Council consideration is requested to authorize the Parks and Open Space Master Plan Update, allowing staff to proceed
-- with the planning process and develop a comprehensive, community-informed master plan that will guide future policy
-- decisions, capital investments, and park system improvements
-- Strategic Alignment
-- The Parks and Open Space Master Plan Update advances the City Council Strategic Result of Quality of Life by establishing a
-
-## [arvada#2] 2026-08-11 | City Council | agenda
-- Ed Brady, Chief of Police
-- A. City Council Discussion on Possible Data Center Moratorium
-
-## [arvada#3] 2026-08-11 | City Council | agenda
-- Ed Brady, Chief of Police
-- A. City Council Discussion on Possible Data Center Moratorium
-- SUBJECT: City Council Discussion on Possible Data Center Moratorium
-- The rapid expansion of Artificial Intelligence (AI) has prompted many jurisdictions to examine how their existing regulatory
-- frameworks guide data center development. Water availability, energy capacity, and land use are all critical considerations in
-- evaluating the potential impacts of data center development. Several neighboring jurisdictions have recently adopted temporary
-- moratoriums on new data center development while they evaluate the potential impacts on their communities and update their
-- zoning, land-use, and development regulations. The Arvada City Council would like to discuss the possibility of establishing a
-- with data center development, including projected water demand, available water supply, energy needs, and land use
-- zoning, land-use, and development regulations
-- The Arvada City Council would like to discuss the possibility of establishing a temporary moratorium in order to provide staff
-- with time to more thoroughly evaluate the resource requirements associated with data center development, including projected
-- water demand, available water supply, energy needs, and land use implications
-- The study session will provide an opportunity to discuss how the city's current Land Development Code (LDC) currently
-- defines data centers, how data centers are currently zoned and what requirements are in place for the development of a data
-- center. City Council will hear a presentation from staff and will consider options regarding a potential moratorium
-- For reference, the city's definition of data centers in the LDC is as follows: A building that is used exclusively for the
-- devices, switches, routers, and other comparable technology infrastructure) is concentrated and physically secured. Equipment
-- in a data center may be owned or operated by more than one entity (Chapter 11, Land Development Code)
-- Strategic Alignment
-- This study session aligns with the Quality of Life and Local Economy strategic priorities in the 2024-2030 City Council
-- Strategic Plan
-- The city team will follow City Council's direction on whether to consider a public vote to establish a moratorium in the future
-- Approved by:
-- Consideration of Temporary
-- Moratorium on Data Center Facilities
-- ● Data centers are expanding rapidly nationwide, as well as locally in Colorado
-- Longmont, and Larimer County — have adopted data center moratoriums
-- ● A temporary moratorium on land use applications is a valid exercise of local police power
-
-## [arvada#4] 2026-08-12 | Park Advisory Committee | minutes
-- APAC Mission To advise and make informed recommendations to the Arvada City Council on both future and immediate park related projects, land acquisition, modifications to recreational facilities, park and trail development and redevelopment, capital funding issues, and other related issues. (From Ru
-- Arvada Parks Advisory Committee (APAC) Meeting Agenda Date : , 6:30 PM Aug 12, 2026Location : In-person Meeting (Anne Campbell Room; link to Google Meet on Park Advisory Committee | Arvada, CO Minutes Recorder : Stephanie Redding Membership Attendance:
-- Approval of July Minutes (3 Min) 202607- July APAC Meeting Minutes
-- in-development
-- feedback/input
-- APAC Park Site Visit App and aggregated data: Arvada Parks Audit Data
-- need for a park ranger. 202511 - November APAC Meeting Minutes
-
-## [arvada#5] 2026-08-12 | Sustainability Advisory Committee | minutes
-- consideration
-- improvements
-- Eye-on-water
-- presentation
-- reconsidering
-
-## [arvada#6] 2026-08-18 | City Council | agenda
+## [arvada#0] 2026-08-18 | City Council | agenda
 - Ed Brady, Chief of Police
 - 4. Approval of Minutes
 - A. Recognition of Faith Leaders involved in Homeless Response - Homeless Resolution Program - Presented by Councilmember Ambrose
@@ -115,7 +33,7 @@
 - 11. Public Comment - Five Minute Limit
 - A. Review of Future Workshops and Presentations
 
-## [arvada#7] 2026-08-18 | City Council | agenda
+## [arvada#1] 2026-08-18 | City Council | agenda
 - Ed Brady, Chief of Police
 - 4. Approval of Minutes
 - A. Recognition of Faith Leaders involved in Homeless Response - Homeless Resolution Program - Presented by Councilmember Ambrose
@@ -153,7 +71,7 @@
 - The minutes stand approved
 - A. Proclamation for Park and Recreation Month
 
-## [arvada#8] 2026-08-19 | Planning Commission | agenda
+## [arvada#2] 2026-08-19 | Planning Commission | agenda
 - Jessica Garner, Dir. of Community and Econ Development
 - Don Oliphant, Manager of Development Engineering
 - Josie Suk, Dep. Dir. of Community and Econ Development
@@ -163,7 +81,7 @@
 - 8. PUBLIC HEARINGS
 - A. Land Development Code Zoning Text Amendments Related to Proposition 123
 
-## [arvada#9] 2026-08-19 | Planning Commission | agenda
+## [arvada#3] 2026-08-19 | Planning Commission | agenda
 - Jessica Garner, Dir. of Community and Econ Development
 - Don Oliphant, Manager of Development Engineering
 - Josie Suk, Dep. Dir. of Community and Econ Development
@@ -207,7 +125,7 @@
 - This motion is based on the findings of fact and approval criteria on Page(s) 8 of the Staff
 - Arvada, City WTP Hwy 93 Annexation No. 2, a 9.016-acre parcel of land approximately located
 
-## [arvada#10] 2026-08-24 | Liquor Licensing Authority | agenda
+## [arvada#4] 2026-08-24 | Liquor Licensing Authority | agenda
 - 4. PUBLIC HEARING – None
 - A. Consider Show Cause Order for Olde Town Social , LLC d/b/a Olde Town Social,
 - 5610 Yukon Street
@@ -215,12 +133,12 @@
 - C. Consider Show Cause Order for Keng Wang, LLC d/b/a Umaiya Sushi, 7450 West
 - 12. REPORT FROM POLICE DEPARTMENT
 
-## [arvada#11] 2026-08-25 | City Council | agenda
+## [arvada#5] 2026-08-25 | City Council | agenda
 - Ed Brady, Chief of Police
 - A. Comprehensive Plan Updates
 - B. 2027 Water, Wastewater and Stormwater Rates/Fees
 
-## [arvada#12] 2026-08-25 | City Council | agenda
+## [arvada#6] 2026-08-25 | City Council | agenda
 - Ed Brady, Chief of Police
 - A. Comprehensive Plan Updates
 - B. 2027 Water, Wastewater and Stormwater Rates/Fees
@@ -278,14 +196,14 @@
 - Density and the housing types it enables is a major driver of attainability. Land
 - use regulations that limit diversity of housing types and/or require more land
 
-## [arvada#13] 2026-08-26 | Transportation Committee | minutes
+## [arvada#7] 2026-08-26 | Transportation Committee | minutes
 - presentation
 
-## [arvada#14] 2026-09-01 | City Council | agenda
+## [arvada#8] 2026-09-01 | City Council | agenda
 - Ed Brady, Chief of Police
 - A. Revised 2024-2030 City Council Strategic Plan
 
-## [arvada#15] 2026-09-01 | City Council | agenda
+## [arvada#9] 2026-09-01 | City Council | agenda
 - Ed Brady, Chief of Police
 - A. Revised 2024-2030 City Council Strategic Plan
 - SUBJECT: Revised 2024-2030 City Council Strategic Plan
@@ -327,7 +245,7 @@
 - Operational Strategy 2024-2030
 - Local Economy Quality of Life Homelessness Housing
 
-## [arvada#16] 2026-09-01 | City Council | agenda
+## [arvada#10] 2026-09-01 | City Council | agenda
 - Ed Brady, Chief of Police
 - application of criteria for the Proposed Service Plan for the Scenic Heights West Metropolitan District
 - 4. Approval of Minutes
@@ -347,7 +265,7 @@
 - 11. Public Comment - Five Minute Limit
 - A. Review of Future Workshops and Presentations
 
-## [arvada#17] 2026-09-01 | City Council | agenda
+## [arvada#11] 2026-09-01 | City Council | agenda
 - Ed Brady, Chief of Police
 - application of criteria for the Proposed Service Plan for the Scenic Heights West Metropolitan District
 - 4. Approval of Minutes
@@ -384,16 +302,16 @@
 - necessary, will bring surcharges to the City Council for consideration in Spring 2027. This action
 - would align with a potential drought declaration extension, which would be considered when next
 
-## [arvada#18] 2026-09-02 | General | minutes
+## [arvada#12] 2026-09-02 | General | minutes
 - tunities-mini-grants
 - over-projected
 - presentation
 
-## [arvada#19] 2026-09-08 | City Council | agenda
+## [arvada#13] 2026-09-08 | City Council | agenda
 - Ed Brady, Chief of Police
 - A. Ordinance Regulating the Residential Location of Registered Sex Offenders
 
-## [arvada#20] 2026-09-08 | City Council | agenda
+## [arvada#14] 2026-09-08 | City Council | agenda
 - Ed Brady, Chief of Police
 - A. Ordinance Regulating the Residential Location of Registered Sex Offenders
 - SUBJECT: Ordinance Regulating the Residential Location of Registered Sex Offenders
@@ -422,7 +340,7 @@
 - Legal recommends no further than 1000 feet
 - The purpose of this workshop is for staff to provide City Council with brief updates on projects and issues that do not require a
 
-## [arvada#21] 2026-09-09 | Park Advisory Committee | minutes
+## [arvada#15] 2026-09-09 | Park Advisory Committee | minutes
 - APAC Mission To advise and make informed recommendations to the Arvada City Council on both future and immediate park related projects, land acquisition, modifications to recreational facilities, park and trail development and redevelopment, capital funding issues, and other related issues. (From Ru
 - Arvada Parks Advisory Committee (APAC) Meeting Agenda Date : , 6:30 PM Sep 9, 2026Location : In-person Meeting (Anne Campbell Room; link to Google Meet on Park Advisory Committee | Arvada, CO Minutes Recorder : Stephanie Redding Membership Attendance:
 - Approval of August Minutes (3 Min) 202608- August APAC Meeting Minutes
@@ -437,7 +355,7 @@
 - City Council requested that VCN update the 2007 parks history document: . Arvada-Parks-History.docThe existing document addresses the source of park names and information on park development. Ryan
 - parks: History of Arvada Parks Updates [In progress Feb 2025].pdf
 
-## [arvada#23] 2026-09-15 | City Council | agenda
+## [arvada#17] 2026-09-15 | City Council | agenda
 - Ed Brady, Chief of Police
 - 4. Approval of Minutes
 - 6. Presentations - None
@@ -472,11 +390,11 @@
 - 11. Public Comment - Five Minute Limit
 - A. Review of Future Workshops and Presentations
 
-## [arvada#24] 2026-09-15 | City Council | agenda
+## [arvada#18] 2026-09-15 | City Council | agenda
 - Ed Brady, Chief of Police
 - A. Parking in Olde Town
 
-## [arvada#25] 2026-09-15 | City Council | agenda
+## [arvada#19] 2026-09-15 | City Council | agenda
 - Ed Brady, Chief of Police
 - A. Parking in Olde Town
 - SUBJECT: Parking in Olde Town
@@ -503,7 +421,7 @@
 - on this project, returning to Council in the future with a more detailed look at what a paid parking program in Olde Town could
 - look like. Additionally, Council requested that staff gain more insight into how the system could work for the local interested
 
-## [arvada#26] 2026-09-16 | Planning Commission | agenda
+## [arvada#20] 2026-09-16 | Planning Commission | agenda
 - Jessica Garner, Dir. of Community and Econ Development
 - Don Oliphant, Manager of Development Engineering
 - Josie Suk, Dep. Dir. of Community and Econ Development
@@ -513,7 +431,7 @@
 - 8. PUBLIC HEARINGS
 - A. Conditional Use for Hibernia Gold Strike Apartments DA2025-0082, to allow development
 
-## [arvada#27] 2026-09-16 | Planning Commission | agenda
+## [arvada#21] 2026-09-16 | Planning Commission | agenda
 - Jessica Garner, Dir. of Community and Econ Development
 - Don Oliphant, Manager of Development Engineering
 - Josie Suk, Dep. Dir. of Community and Econ Development
@@ -549,11 +467,11 @@
 - with Norris Design, as well as the owner of Hibernia Housing, the traffic engineers and architects
 - represented the project team. The meeting lasted 2 hours. Attendees had several questions
 
-## [arvada#28] 2026-09-22 | City Council | agenda
+## [arvada#22] 2026-09-22 | City Council | agenda
 - Ed Brady, Chief of Police
 - A. 2027 - 2028 Proposed City Manager's Budget Presentation
 
-## [arvada#29] 2026-09-22 | City Council | agenda
+## [arvada#23] 2026-09-22 | City Council | agenda
 - Ed Brady, Chief of Police
 - A. 2027 - 2028 Proposed City Manager's Budget Presentation
 - SUBJECT: 2027 - 2028 Proposed City Manager's Budget Presentation
@@ -593,10 +511,10 @@
 - 2027 Budget Process
 - 2027 Proposed Pay Plan Overview
 
-## [arvada#30] 2026-09-23 | Transportation Committee | minutes
+## [arvada#24] 2026-09-23 | Transportation Committee | minutes
 - presentation
 
-## [arvada#31] 2026-09-23 | Housing Advisory Committee | minutes
+## [arvada#25] 2026-09-23 | Housing Advisory Committee | minutes
 - Housing Advisory Committee
 - City staff present: Jessica Garner, Community and Economic Development Director; Carrie
 - presentations
@@ -606,7 +524,7 @@
 - 5. Other Strategies in the Arvada Housing Strategic Plan (Discussion) ( See slide deck for Review of 9
 - 8. Housing’s Priorities (Meeting ended before discussion could take place) See slide deck for Housing’s
 
-## [arvada#32] 2026-10-06 | City Council | agenda
+## [arvada#26] 2026-10-06 | City Council | agenda
 - Ed Brady, Chief of Police
 - Personnel Issue, Pursuant to CRS 24-6-402(4)f) Relating to Council Discussion Regarding the Interim
 - 4. Approval of Minutes
@@ -640,7 +558,7 @@
 - 5. CB26-026, An Ordinance Annexing Certain Land Within the City of Arvada Concerning
 - Water Treatment Plant Parcel No. 2, a 9.016 acre parcel of land located at 6809 SH 93, in the
 
-## [arvada#33] 2026-10-06 | City Council | agenda
+## [arvada#27] 2026-10-06 | City Council | agenda
 - Ed Brady, Chief of Police
 - Personnel Issue, Pursuant to CRS 24-6-402(4)f) Relating to Council Discussion Regarding the Interim
 - 4. Approval of Minutes
@@ -674,12 +592,12 @@
 - 5. CB26-026, An Ordinance Annexing Certain Land Within the City of Arvada Concerning
 - Water Treatment Plant Parcel No. 2, a 9.016 acre parcel of land located at 6809 SH 93, in the
 
-## [arvada#34] 2026-10-12 | Liquor Licensing Authority | agenda
+## [arvada#28] 2026-10-12 | Liquor Licensing Authority | agenda
 - PUBLIC HEARING
 - Town Social, 5610 Yukon Street
 - REPORT FROM POLICE DEPARTMENT
 
-## [arvada#35] 2026-10-12 | Liquor Licensing Authority | agenda
+## [arvada#29] 2026-10-12 | Liquor Licensing Authority | agenda
 - PUBLIC HEARING
 - Town Social, 5610 Yukon Street
 - REPORT FROM POLICE DEPARTMENT
@@ -725,7 +643,7 @@
 - ArvadaPoliceDepartment
 - YOU ARE HEREBY FURTHER NOTIFIEDthat saidshow causehearingshallbe
 
-## [arvada#37] 2026-10-14 | Park Advisory Committee | minutes
+## [arvada#31] 2026-10-14 | Park Advisory Committee | minutes
 - APAC Mission To advise and make informed recommendations to the Arvada City Council on both future and immediate park related projects, land acquisition, modifications to recreational facilities, park and trail development and redevelopment, capital funding issues, and other related issues. (From Ru
 - Arvada Parks Advisory Committee (APAC) Meeting Agenda Date : , 6:30 PM Sep 9, 2026Location : In-person Meeting (Anne Campbell Room; link to Google Meet on Park Advisory Committee | Arvada, CO Minutes Recorder : Stephanie Redding Membership Attendance:
 - Approval of August Minutes (3 Min) 202608- August APAC Meeting Minutes
@@ -740,7 +658,7 @@
 - City Council requested that VCN update the 2007 parks history document: . Arvada-Parks-History.docThe existing document addresses the source of park names and information on park development. Ryan
 - parks: History of Arvada Parks Updates [In progress Feb 2025].pdf
 
-## [arvada#38] 2026-10-20 | City Council | agenda
+## [arvada#32] 2026-10-20 | City Council | agenda
 - Ed Brady, Chief of Police
 - 4. Approval of Minutes
 - A. Proclamation for National Immigrants Day - Presented by Councilmember Lovisone
@@ -774,7 +692,7 @@
 - 11. Public Comment - Five Minute Limit
 - A. Review of Future Workshops and Presentations
 
-## [arvada#39] 2026-10-20 | City Council | agenda
+## [arvada#33] 2026-10-20 | City Council | agenda
 - Ed Brady, Chief of Police
 - 4. Approval of Minutes
 - A. Proclamation for National Immigrants Day - Presented by Councilmember Lovisone
@@ -809,13 +727,13 @@
 - A. Review of Future Workshops and Presentations
 - 1. Executive Session – Personnel Issue, Pursuant to CRS 24-6-402(4)f) Relating to Council Discussion
 
-## [arvada#40] 2026-10-27 | City Council | agenda
+## [arvada#34] 2026-10-27 | City Council | agenda
 - Ed Brady, Chief of Police
 - Legal Advice, Pursuant to CRS 24-6-402(4)(b) Relating to strategy discussion and update on City of
 - A. Wildfire Early Detection System Update
 - B. Homelessness Action Plan
 
-## [arvada#41] 2026-10-27 | City Council | agenda
+## [arvada#35] 2026-10-27 | City Council | agenda
 - Ed Brady, Chief of Police
 - Legal Advice, Pursuant to CRS 24-6-402(4)(b) Relating to strategy discussion and update on City of
 - A. Wildfire Early Detection System Update
@@ -841,13 +759,109 @@
 - deploys a combination of cameras and chemical sensors to protect the Urban Renewal Area, which was identified as a risk area
 - in the CWPP process which Council has previously approved. Working with the Arvada Fire Protection District and leveraging
 
-## [arvada#42] 2026-10-28 | Transportation Committee | minutes
+## [arvada#36] 2026-10-28 | Transportation Committee | minutes
 - Adopt-A-Street
 - Presentation
 
-## [arvada#43] 2026-11-09 | Liquor Licensing Authority | agenda
+## [arvada#37] 2026-11-09 | Liquor Licensing Authority | agenda
 - A. Application for Transfer of Ownership of the Beer and Wine License of Sushi
 - 4. PUBLIC HEARING
 - A. Application for the Hotel and Restaurant Liquor License of FAMA Investment
 - B. Application for the Tavern Liquor License of Guild Café, LLC d/b/a The Olde
 - 9. REPORT FROM POLICE DEPARTMENT
+
+## [arvada#38] 2026-11-10 | City Council | agenda
+- Ed Brady, Chief of Police
+- Legal Advice, Pursuant to CRS 24-6-402(4)(b) Relating to strategy discussion and update on City of
+- A. Discussion Regarding Potential Commercial Drone Regulations
+
+## [arvada#39] 2026-11-10 | City Council | agenda
+- Ed Brady, Chief of Police
+- Legal Advice, Pursuant to CRS 24-6-402(4)(b) Relating to strategy discussion and update on City of
+- A. Discussion Regarding Potential Commercial Drone Regulations
+- SUBJECT: Discussion Regarding Potential Commercial Drone Regulations
+- government can regulate; and present possible Land Development Code regulations
+- Drone use for retail deliveries is expanding across the United States. Major retailers, such as Walmart, are requesting approvals
+- operations a local government can regulate; and present possible Land Development Code regulations
+- Strategic Alignment
+- proposed Land Development Code regulations to the Planning Commission and City Council at a future date
+- Approved by:
+- Josie Suk, Development Systems and Administrative Manager 11/05/2026
+- Jessica Garner, Director of Community and Economic Development 11/05/2026
+- To discuss potential Land Development Code
+- amendments related to commercial drone delivery
+- ● Drone cruises at about 150 feet and at speeds up to 65 mph
+- ● Drone arrives at destination and lowers to about 20 feet
+- including the operation, flight paths, altitude, and safety certification of unmanned aircraft
+- Commercial drone delivery operators are certified by the FAA under 14 CFR Part 135 and must
+- fencing, screening, ground-operation hours, parking, lighting, and security of the staging area
+- City of Thornton has regulations under consideration
+- Towns of Castle Rock and Parker have imposed moratoriums (six and nine months)
+- Require Conditional Use approval utilizing the criteria found in the LDC (8-3-5
+- ● Accessory use in the MX (S, U and T), CG, IL and IG zoning districts
+- ● Primary use in the IL and IG zoning districts
+- Questions/Feedback
+- The purpose of this workshop is for staff to provide City Council with brief updates on projects and issues that do not require a
+
+## [arvada#41] 2026-11-11 | Park Advisory Committee | agenda
+- APAC Mission To advise and make informed recommendations to the Arvada City Council on both future and immediate park related projects, land acquisition, modifications to recreational facilities, park and trail development and redevelopment, capital funding issues, and other related issues. (From Ru
+- Arvada Parks Advisory Committee (APAC) Meeting Agenda Date : , 6:30 PM Nov 11, 2026Location : In-person Meeting (Anne Campbell Room; link to Google Meet on Park Advisory Committee | Arvada, CO Minutes Recorder : Stephanie Redding Membership Attendance:
+- Approval of October Minutes (3 Min) 202610- October APAC Meeting Minutes
+
+## [arvada#42] 2026-11-11 | Transportation Committee | minutes
+- Presentation
+- consideration
+
+## [arvada#43] 2026-11-11 | Planning Commission | agenda
+- Jessica Garner, Dir. of Community and Econ Development
+- Don Oliphant, Manager of Development Engineering
+- Josie Suk, Dep. Dir. of Community and Econ Development
+- provide public comment on any agenda item or during general public comment should go
+- 4. APPROVAL OF MINUTES
+- A. Comprehensive Plan Update
+- 8. PUBLIC HEARINGS
+
+## [arvada#44] 2026-11-11 | Planning Commission | agenda
+- Jessica Garner, Dir. of Community and Econ Development
+- Don Oliphant, Manager of Development Engineering
+- Josie Suk, Dep. Dir. of Community and Econ Development
+- provide public comment on any agenda item or during general public comment should go
+- 4. APPROVAL OF MINUTES
+- A. Comprehensive Plan Update
+- 8. PUBLIC HEARINGS
+- SUBJECT: Comprehensive Plan Update
+- The project team is working through Phase 2 of the Comprehensive Plan update and will present the existing trends in Arvada
+- The project team will then open a discussion related to opportunities and challenges related to those trends that will influence
+- On March 3, 2026, the City executed a contract with Metta Urban Design to assist with the Comprehensive Plan update
+- The consultant's team has broken up the project into four phases that will build upon each other as the project progresses
+- details how we will get to our shared vision by finalizing the plan and preparing for implementation
+- It is anticipated the project will span through the next year, with a target adoption date in the 3rd Quarter of 2027
+- Strategic Alignment
+- It is anticipated that the Comprehensive Plan will address all topics contained within the City Council Strategic Plan
+- The project team will complete Phase 2 of the Comprehensive Plan update and return to the Planning Commission with an
+- Approved by:
+- Josie Suk, Development Systems and Administrative Manager 11/02/2026
+- Jessica Garner, Director of Community and Economic Development 11/10/2026
+- Arvada Comprehensive Plan
+- Plan update?
+- 06 Discussion
+- Project Timeline
+- Housing affordability
+- development patterns
+- $732M in unfunded TSP projects
+- Households are projected to grow faster than population
+- Home building has slowed; more residential units are multifamily
+- Housing prices are outpacing incomes
+- 4 Services Infrastructure needs exceed funding: $732M in unfunded TSP projects
+- Arvada is projected to continue growing households faster
+- Source: Colorado Department of Local Affairs (DOLA), Jefferson County growth rates applied to Arvada. 10
+- Sources: UrbanFootprint parcels (2010–24); City permits (2021–25); DRCOG housing needs assessment (2025)
+- 627 homes per year were permitted in 2021–25
+- Home building has slowed and more are in multifamily buildings
+- 34% multifamily
+- 32% multifamily
+- 49% multifamily
+- Multifamily rose from about a third
+- Median housing prices outpacing median incomes
+- Sources: Zillow Home Value Index, Census ACS (inﬂation-adjusted); Arvada Housing Needs Assessment, 2024. Chart: Redﬁn and U.S. Census Bureau,
+- The median home price was $606,000, as of end of 2023 (Housing Needs Assessment)

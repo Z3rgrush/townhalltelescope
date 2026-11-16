@@ -1,138 +1,140 @@
-- title: Flock license plate cameras and the automated license plate reader program
-  summary: Residents told Council on Aug. 25 they are worried about Flock cameras capturing license plates and vehicle signals, with broad data-use rights and little oversight, and asked for better communication on camera placement and the contract renewal due March 2027. Council had an automated license plate reader program presentation on its Oct. 13 agenda.
+- title: 2027 budget and 5.07-mill levy
+  summary: Council took up the 2027 mill levy ordinance (Council Bill 11), the 2027 budget (Resolution 22) and the 2026-2030 Capital Improvement Plan. The levy stays at 5.07 mills, unchanged since 2014, and is projected to generate $5.48 million.
   where: Townwide
   refs:
-  - 5
-  - 18
+  - 23
+  - 25
+  - 29
+  - 31
+  - 32
+  topics:
+  - Budget & taxes
+  - Government operations
+- title: Town-wide parking study and worker permit parking
+  summary: A consultant study concluded Breckenridge has a distribution problem rather than a parking shortage, since demand is concentrated downtown while peripheral lots have room. It proposes 13 management strategies, and Council was asked to set implementation priorities. Residents had earlier complained about limited permit parking for workers and residents and suggested gated permit lots, towing and use of the South Gondola lots.
+  where: Downtown Breckenridge
+  refs:
+  - 3
+  - 29
+  - 30
+  topics:
+  - Roads & traffic
+  - Fees & rates
+  - Downtown & business
+  public_comment: true
+- title: Flock license plate camera concerns
+  summary: Residents spoke to Council about Flock cameras, raising privacy and data-use concerns and asking for better communication on camera placement and contracts. They pointed to the contract renewal in March 2027.
+  where: Townwide
+  refs:
+  - 3
   topics:
   - Policing & public safety
   - Ethics & transparency
   public_comment: true
-- title: 2027 budget, mill levy and capital improvement plan
-  summary: Council held a budget retreat on Oct. 13 covering the 2027 budget process and strategic goals, including housing and code enforcement. On Oct. 27 it was scheduled to take up the ordinance setting the 2027 mill levy (Council Bill 11) and a resolution adopting the 2027 budget and capital improvement plan. Open Space staff also presented a preliminary budget based on flat sales tax projections.
-  where: Townwide
-  refs:
-  - 18
-  - 19
-  - 22
-  - 28
-  - 30
-  topics:
-  - Budget & taxes
 - title: Housing Helps program and workforce housing density
-  summary: Residents thanked Council for the Housing Helps program, in which the Town buys homes and keeps them for locals, and urged continued robust funding. Planning Commission reviewed staff recommendations on workforce housing density for underutilized parcels, including 30 units per acre along Park Avenue, with concerns about views from Carter Park. Council also scheduled housing and accessory dwelling unit policy discussions.
-  where: Townwide; Carter Park and Park Avenue corridor
+  summary: Residents thanked Council for the Housing Helps program, which buys units and keeps them as local housing, and urged continued robust funding. Planning Commission reviewed the Comprehensive Plan's underutilized parcels analysis and staff's recommended workforce housing densities, including 30 units per acre along Park Avenue. Commissioners worried about density near Carter Park and the Breckenridge Elementary parcel. Council also took up a Proposition 123 agreement with Silverthorne and an ADU policy discussion.
+  where: Townwide, including Carter Park and Park Avenue corridor
   refs:
-  - 5
-  - 6
-  - 7
-  - 13
-  - 19
-  - 28
+  - 3
+  - 4
+  - 11
+  - 23
+  - 29
+  - 31
   topics:
   - Housing
   - Zoning & development
   public_comment: true
-- title: City Market fuel center redesign at 430 N. Park Avenue
-  summary: Planning Commission held repeated preliminary hearings on a new City Market fuel center, with a redesigned mountain-style look using stone veneer, faux wood shingles and metal roof, plus Park Avenue screening and tree removal at Airport Road. Commissioners praised the redesign and asked for a sample board at the final hearing; future demolition and remediation of the existing fuel center is included. No public comments were made at the hearing.
-  where: 430 N. Park Avenue
+- title: Trails at Berlin Placer development and water service
+  summary: Council met in executive session on water service and legal advice for the Trails at Berlin Placer development and on buying property in the Upper Blue area. The Town Attorney was told to begin negotiating bond money for the development. A resident at 10944 Highway 9 also asked about partnering with the Town for water service to build housing.
+  where: Berlin Placer
   refs:
-  - 4
-  - 25
-  - 29
-  - 33
-  topics:
-  - Zoning & development
-  - Downtown & business
-- title: Mamba Trust retaining wall variance at 219 Glen Eagle Loop
-  summary: Planning Commission considered a variance to let part of an unpermitted retaining wall remain outside the platted disturbance envelope; staff said about 75 feet would need removal to comply. The owner's architect argued the wall's setting, and commissioners asked how disturbance envelopes are created.
-  where: 219 Glen Eagle Loop
-  refs:
-  - 4
+  - 3
   - 7
-  topics:
-  - Zoning & development
-  - Land & property
-  public_comment: true
-- title: Little Red Schoolhouse expansion
-  summary: The Town project to expand the Little Red Schoolhouse at 600 Reiling Road went through a Planning Commission work session on Sept. 15, a Commission hearing Oct. 6 and was on the Oct. 27 Council agenda for a hearing.
-  where: 600 Reiling Road
-  refs:
-  - 12
-  - 13
-  - 16
-  - 28
-  - 30
-  topics:
-  - Zoning & development
-  - Government operations
-- title: Trails at Berlin Placer water service and bond negotiations
-  summary: In executive session Sept. 8 Council received legal advice and discussed a town agreement for water service to the Trails at Berlin Placer development, and the Town Attorney was instructed to begin negotiations on bond money for it. A resident also asked on Aug. 25 about partnering with the Town for water service for housing units on Highway 9.
-  where: Trails at Berlin Placer; 10944 Highway 9
-  refs:
-  - 5
-  - 9
   topics:
   - Housing
   - Water
   - Land & property
   public_comment: true
-- title: Lawsuit against MW Golden
-  summary: Council met in executive session on Aug. 11 to discuss negotiations and receive legal advice on the Town's litigation against MW Golden.
+- title: Little Red Schoolhouse expansion and childcare leases
+  summary: The Little Red Schoolhouse expansion at 600 Reiling Rd went through a Planning Commission work session and a hearing, then to a Council hearing. Council also considered a surrender and acceptance agreement and lease ordinances for the schoolhouse, Carriage House and Timberline Learning Center. Executive session discussed possible negotiations with Summit School District over real property.
+  where: 600 Reiling Rd
   refs:
-  - 0
+  - 10
+  - 11
+  - 14
+  - 16
+  - 23
+  - 29
+  - 31
   topics:
-  - Lawsuits & legal
-- title: Support for school funding measures 4A, 1A and Proposition NN
-  summary: Council added and passed resolutions supporting Summit County's Strong Futures referred measure and the Summit School District mill levy override (Ballot Measure 4A), which would extend funding without new or increased taxes. It also scheduled a resolution backing statewide Proposition NN, which would raise public education funding 2% a year for 10 years. Council also held executive sessions on negotiations with Summit School District over real property.
+  - Schools & youth
+  - Land & property
+  - Government operations
+- title: 'City Market #430 fuel center redesign'
+  summary: Planning Commission held preliminary hearings on a new City Market fuel center at 430 N. Park Ave. The redesign uses mountain-style materials, adds Park Avenue evergreen screening and removes trees at Airport Road and Park Avenue. Existing fuel center demolition and remediation would come later, and signs will be reviewed separately. Commissioners called the redesign much better and asked for a stone sample board at the final hearing.
+  where: 430 N. Park Avenue
+  refs:
+  - 2
+  - 20
+  - 24
+  - 28
+  topics:
+  - Zoning & development
+  - Downtown & business
+- title: Mamba Trust retaining wall variance
+  summary: Planning Commission considered a variance to let part of an unpermitted retaining wall remain outside the platted disturbance envelope at 219 Glen Eagle Loop. About 75 feet would otherwise need removal, and commissioners questioned how disturbance envelopes work and whether the wall is justified.
+  where: 219 Glen Eagle Loop
+  refs:
+  - 2
+  - 5
+  topics:
+  - Zoning & development
+  - Land & property
+  public_comment: true
+- title: Quandary trailhead, Aspen Alley shuttle and open space trails
+  summary: Open Space commission reviewed the Quandary Peak trailhead design, with the Town pledging $400,000 in matching funds to a coalition grant, and the Aspen Alley seasonal parking and shuttle plan. It also covered the Peak 10 social trail inventory and new trail construction. A resident urged steeper hand-built downhill trails, and the commission recommended 2027 grants including $25,000 to Friends of the Dillon Ranger District.
+  where: Quandary Peak trailhead, Aspen Alley, Peak 10
+  refs:
+  - 12
+  - 17
+  - 33
+  topics:
+  - Recreation & trails
+  - Parks & open space
+  - Roads & traffic
+  public_comment: true
+- title: Wellington-Oro water treatment and 2029 water quality hearing
+  summary: Staff are budgeting for engineers to optimize the French Gulch treatment plant for cadmium and zinc. They are working toward a critical 2029 Water Quality Control Commission hearing, where the Town and County aim to show good-faith progress.
+  where: French Gulch / Wellington-Oro
+  refs:
+  - 17
+  topics:
+  - Water
+  - Environment & climate
+- title: School funding ballot measures and Strong Futures
+  summary: Council passed resolutions supporting Summit County's referred measure 1A and the Summit School District mill levy override 4A (Strong Futures). It also supported the statewide Proposition NN on school funding.
   where: Countywide
   refs:
-  - 15
-  - 18
-  - 20
-  - 21
-  - 31
+  - 13
+  - 16
   topics:
   - Schools & youth
   - Elections
   - Budget & taxes
-- title: Open space trails, Tiger Road Rec Path and downhill trail demand
-  summary: Open Space commission discussed a trails prioritization matrix, with Phase 1 of the Tiger Road Rec Path scoring well, and residents urged more hand-built downhill trails at Little Mountain. It approved trail names and discussed Little Daisy Open Space trail work and Quandary Trailhead improvements, with $400,000 in town matching funds pledged for a grant application.
-  where: Little Mountain, Tiger Road, Quandary Trailhead, Little Daisy Open Space
+- title: Refunding of 2016 certificates of participation
+  summary: Council passed on first and second reading an ordinance to refund the Series 2016 certificates of participation, with $4.6 million outstanding. The refunding proceeds only if savings justify the costs.
+  where: Townwide
   refs:
-  - 1
-  - 14
-  - 22
+  - 7
+  - 13
   topics:
-  - Recreation & trails
-  - Parks & open space
-  public_comment: true
-- title: Aspen Alley seasonal shuttle and parking management
-  summary: Staff presented a seasonal plan for Aspen Alley with a free shuttle funded by a transit grant, police patrols and citations against illegal parking, and later reported strong compliance and plans to seek ongoing grant funding.
-  where: Aspen Alley
+  - Budget & taxes
+  - Government operations
+- title: Breckenridge Grand Vacations Parcel 2 density transfer
+  summary: Council's October 27 agenda included a resolution on a density transfer for Breckenridge Grand Vacations Parcel 2.
+  where: Breckenridge Grand Vacations Parcel 2
   refs:
-  - 14
-  - 22
+  - 23
   topics:
-  - Transit
-  - Roads & traffic
-  - Recreation & trails
-- title: Wellington-Oro and French Gulch water treatment plant
-  summary: Staff are budgeting for engineering consultants to optimize treatment of cadmium and zinc, including pilot-testing an aeration pond, ahead of a critical 2029 Water Quality Control Commission hearing where the Town and County aim to show good-faith progress.
-  where: French Gulch
-  refs:
-  - 22
-  topics:
-  - Water
-  - Environment & climate
-- title: Worker and resident parking permits
-  summary: A resident told Council that permitted parking for workers and residents is hard to find and suggested gated permit lots, towing and expanding parking into South Gondola lots or the parking structure. Council also amended the delivery zone program on Sept. 8, updating fees and penalties.
-  where: Downtown Breckenridge
-  refs:
-  - 5
-  - 9
-  topics:
-  - Roads & traffic
-  - Downtown & business
-  - Fees & rates
-  public_comment: true
+  - Zoning & development

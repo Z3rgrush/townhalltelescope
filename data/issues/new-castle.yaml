@@ -1,10 +1,101 @@
-- title: Data center general information discussion
-  summary: Town Council scheduled a discussion of general data center information at its November 3, 2026 meeting. The documents give no detail on a specific proposal.
+- title: Community Market plastic reduction and bag fee fund
+  summary: The Climate and Environment Commission is planning compostable cups and recycling at the Community Market and a plastic pledge for the community. About $12,000 remains in the plastic bag fee fund, which the town can use for recycling and cleanup costs.
+  where: Burning Mountain Park / Community Market
+  refs:
+  - 1
+  - 2
+  - 10
+  - 11
+  - 14
+  - 15
+  topics:
+  - Environment & climate
+  - Fees & rates
+  - Tourism & events
+- title: Data center information discussion
+  summary: Town Council scheduled a discussion of general data center information at its November 3, 2026 meeting. The documents give no further detail on any proposal.
   where: Townwide
   refs:
-  - 25
+  - 23
   topics:
   - Data centers
-  - Zoning & development
   tags:
   - data-center
+- title: 2026 budget, 2027 budget and trash fees
+  summary: Council held workshops on the 2026 budget on Oct. 20 and the 2027 budget on Nov. 3. Mountain Waste is gathering landfill fee data that will drive 2027 trash and recycling fees.
+  where: Townwide
+  refs:
+  - 17
+  - 18
+  - 22
+  topics:
+  - Budget & taxes
+  - Fees & rates
+  - Utilities
+- title: Building, planning and development update
+  summary: Town Planner Paul Smith reported about 40 of 80 expected apartment units permitted, Coal Seam hotel/restaurant approved in April, and a New Castle Center (Walters Center) amended PUD expected in fall 2026. TC Midwest plans road and infrastructure work in fall/winter 2026.
+  where: New Castle Center, Lakota and Castle Valley Ranch areas
+  refs:
+  - 5
+  topics:
+  - Zoning & development
+  - Housing
+- title: EV charging in Burning Mountain PUD Phase II
+  summary: Council, sitting as the Board of Zoning, was to consider an EV charging state use designation in the Burning Mountain PUD (Phase II) zoning district.
+  where: Burning Mountain PUD Phase II
+  refs:
+  - 23
+  topics:
+  - Zoning & development
+  - Energy
+- title: Police Department training and updates
+  summary: Chief Stu Curry reported on increased officer training, largely funded by Colorado POST grants to limit town cost. Police matters were discussed in the August and September council meetings, including regional chief meetings.
+  where: Townwide
+  refs:
+  - 0
+  - 4
+  - 5
+  topics:
+  - Policing & public safety
+- title: Senior housing residents' concerns
+  summary: A resident spoke for residents of Canyon Senior Housing about concerns and asked about town ordinances. Administrator Reynolds said council can take it up at an upcoming work session.
+  where: Canyon Senior Housing
+  refs:
+  - 9
+  topics:
+  - Housing
+  public_comment: true
+- title: Historic Preservation Commission survey grants and CLG audit
+  summary: The commission is pursuing grants to survey historic properties using Sanborn fire insurance maps, a videography project, and approved its Certified Local Government audit. The chair said some projects fall outside the commission's bylaws.
+  where: New Castle historic properties
+  refs:
+  - 19
+  - 20
+  - 26
+  - 27
+  topics:
+  - Historic preservation
+- title: Glenwood Hot Springs Protection Act
+  summary: Council had a workshop discussion on the Glenwood Hot Springs Protection Act on Sept. 15.
+  refs:
+  - 8
+  topics:
+  - Government operations
+- title: 'Town events: Burning Mountain Festival parade and fall cleanup'
+  summary: Council is planning parade logistics for the Burning Mountain Festival and an Oct. 10 trash pick-up day with fall cleanup.
+  where: Burning Mountain Park
+  refs:
+  - 1
+  - 2
+  - 10
+  - 14
+  topics:
+  - Tourism & events
+  - Environment & climate
+- title: AI use policy
+  summary: Council was to discuss and consider an artificial intelligence use policy on Nov. 3, 2026.
+  where: Townwide
+  refs:
+  - 23
+  topics:
+  - Government operations

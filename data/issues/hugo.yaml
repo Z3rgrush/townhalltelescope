@@ -1,143 +1,159 @@
-- title: Water restrictions and water supply shortfall
-  summary: Hugo went under Level One water restrictions to stay within its water allocations after LAWMA explained the town owns only common shares. Council replaced the restrictions ordinance (Ordinance 300) and passed emergency Ordinance 302 changing watering days and hours after a resident objected to watering three days in a row. The town leased two preferred shares, and restrictions lifted October 1.
+- title: 'Water and sewer rate study: 40% water and 28% sewer increases proposed'
+  summary: Colorado Rural Water Association's rate study found Hugo is spending savings to service debt in both enterprises. It estimates a 40% water rate increase and 28% sewer rate increase, plus annual inflation increases, to cover operations and debt. The council also adopted a resolution amending water, wastewater and refuse rates in October and reviewed a rate study timeline in August.
   where: Townwide
   refs:
+  - 13
+  - 16
+  topics:
+  - Fees & rates
+  - Water
+  - Utilities
+- title: Water restrictions and water share limits
+  summary: With LAWMA explaining that Hugo owns only common (not preferred) shares, the town imposed Level One watering restrictions, leased two preferred shares, and replaced the restriction ordinance (Ordinance 300). In July council adopted emergency Ordinance 302 changing permitted watering days and hours after residents such as Tom Lee objected to watering three days in a row. Restrictions lift automatically October 1, and staff report the town is on track to stay under its allotment.
+  where: Townwide
+  refs:
+  - 6
+  - 7
   - 8
-  - 9
   - 10
+  - 11
   - 12
   - 13
   - 14
-  - 15
   - 16
-  - 18
   topics:
   - Water
   - Utilities
+  - Environment & climate
   public_comment: true
-- title: Water and sewer system improvements, loans and grants
-  summary: Hugo is financing water system work with a Colorado Water Resources and Power Development Authority loan of up to $5,395,767, plus a CDBG grant and WPCRF projects handled by GMS. Water tank repair and well pump replacements moved ahead. Sewer loans, including one up to $1,559,900 and a principal forgiveness loan, were on the November agenda.
-  where: Townwide
+- title: Water system improvements, CDBG and state loans for water and sewer
+  summary: The town held public hearings on a CDBG grant and a Water Pollution Control Revolving Fund project, took on a water loan of up to $5,395,767, and is moving a Water System Improvements Project toward bidding in December. Water tank repair, well pump replacement and sewer loans (including one up to $1,559,900 and a principal forgiveness loan) are also in progress.
+  where: Townwide water and sewer systems
   refs:
-  - 3
-  - 8
-  - 9
-  - 15
-  - 16
-  - 20
-  topics:
-  - Water
-  - Utilities
-  - Budget & taxes
-- title: Water and sewer rate study and 2027 fee schedule
-  summary: Colorado Rural Water Association is preparing a rate study, and the council is considering resolutions to change water, wastewater and refuse rates and the fee schedule effective January 1, 2027. A backflow prevention program review found many businesses were not inventoried.
-  where: Townwide
-  refs:
-  - 3
-  - 15
-  - 18
-  topics:
-  - Fees & rates
-  - Utilities
-  public_comment: true
-- title: Sales tax ballot question for pool, culture and recreation
-  summary: 'The town held a community meeting on a possible additional 1% sales tax for the pool, culture and recreation, and Ballot Issue #2 was on the January agenda.'
-  where: Townwide
-  refs:
-  - 0
   - 1
-  - 4
+  - 6
+  - 7
+  - 13
+  - 14
+  - 16
+  - 18
   topics:
-  - Budget & taxes
-  - Recreation & trails
-  - Elections
-- title: Roundhouse Estates infrastructure and impact fees
-  summary: GMS was approved to study Roundhouse Estates and a tap fee study. The infrastructure was reported as improperly built, mostly sewer, roads and drainage, and a lift station was ordered. Impact fees per lot were suggested for new development.
-  where: Roundhouse Estates
-  refs:
-  - 0
-  - 5
-  - 8
-  topics:
-  - Housing
-  - Fees & rates
+  - Water
   - Utilities
-- title: Photo radar and automated vehicle identification
-  summary: Council approved Ordinance 296 establishing an automated vehicle identification system and an agreement with DacraTech in March. In November it was to consider repealing that resolution and approving a new DacraTech agreement.
+  - Budget & taxes
+- title: Solomon Addition / Roundhouse Estates infrastructure problems and impact fees
+  summary: Staff and engineers reported that infrastructure in the Solomon Addition/Roundhouse Estates was improperly constructed, mostly sewer, roads and drainage, and presented repair options in October. The town also discussed charging system impact fees per lot on new development, and ordered a lift station for Roundhouse Estates.
+  where: Solomon Addition / Roundhouse Estates
+  refs:
+  - 3
+  - 6
+  - 16
+  topics:
+  - Utilities
+  - Roads & traffic
+  - Fees & rates
+- title: Photo radar (automated vehicle identification) with DacraTech
+  summary: Council approved Ordinance 296 establishing an automated vehicle identification system and an agreement with DacraTech in March. A November agenda has a DacraTech presentation and a resolution repealing the earlier agreement and approving a new one.
   where: Townwide
   refs:
-  - 7
-  - 20
+  - 5
+  - 18
   topics:
   - Policing & public safety
   - Roads & traffic
-- title: New Hugo Fire Protection District firehouse
-  summary: Fire district representatives presented plans for a new firehouse. Council denied adding the fire department driveway to the CDOT sidewalk project, disconnected district land from town via Ordinance 301, and waived one water and one sewer tap at 5th Street and 9th Avenue.
+- title: New Hugo firehouse and Fire Protection District land
+  summary: A plan for a new firehouse was presented in March. Council denied adding the fire department driveway to the CDOT sidewalk project, then approved Ordinance 301 disconnecting Fire Protection District land from the town and waived one water and one sewer tap at the district's property at 5th Street and 9th Avenue.
   where: 5th Street and 9th Avenue
   refs:
-  - 2
-  - 7
-  - 13
+  - 0
+  - 5
+  - 11
   topics:
   - Fire & emergencies
   - Land & property
-  - Fees & rates
-- title: Hugo Main Street program and Main Street Live
-  summary: The town is working toward becoming an official Colorado Main Street community, forming a board and steering committee and passing a support resolution. A geotech and survey for the Main Street Live project is underway, dependent on a Colorado Historical grant outcome.
+  - Utilities
+- title: Hugo Main Street program
+  summary: The town has been working with Colorado Main Street to form a Hugo Main Street board, including a steering committee, a board retreat on August 17 and a resolution in September supporting becoming an official Main Street Community.
   where: Downtown Hugo
   refs:
+  - 1
   - 3
-  - 5
-  - 9
-  - 12
-  - 13
+  - 4
+  - 7
+  - 10
+  - 11
+  - 14
   - 16
   - 18
-  - 20
   topics:
   - Downtown & business
-  - Historic preservation
   - Economic development
-- title: Trash, junk and abandoned property ordinance updates
-  summary: Staff are revising the trash ordinance, reviewing tire and junk rules, and applying for a DOLA Local Planning Capacity Grant to update the abandoned and deteriorated property ordinance. Council authorized code enforcement and approved a Willdan code enforcement agreement.
+- title: 'Ordinance updates: trash, wildfire code, abandoned buildings and code enforcement'
+  summary: Council tabled the 2025 Wildfire Resiliency Code (Ordinance 295), raised maximum code-violation penalties, authorized a code enforcement officer, and worked on a revised trash ordinance due in August. It approved a Willdan agreement for code enforcement services and applied for a DOLA Local Planning Capacity Grant to update the abandoned and deteriorated property ordinance.
   where: Townwide
   refs:
+  - 2
+  - 4
+  - 5
   - 7
-  - 9
-  - 13
-  - 16
+  - 10
+  - 11
+  - 14
   - 18
-  - 20
   topics:
   - Government operations
-  - Land & property
-- title: Wildfire Resiliency Code (Ordinance 295)
-  summary: Council tabled Ordinance 295, which would adopt the 2025 Wildfire Resiliency Code by reference.
-  where: Townwide
-  refs:
-  - 6
-  - 7
-  topics:
-  - Fire & emergencies
   - Zoning & development
-- title: Affordable housing and Hugo Housing Authority
-  summary: Council adopted expedited review policies for affordable housing projects. The Housing Authority reported plumbing repair needs and compliance work, and may seek a grant partnership with the town.
+  - Fire & emergencies
+- title: Affordable housing, daycare and Housing Authority
+  summary: Council adopted Resolution 2026-07 on expedited review for affordable housing projects. County economic development reported on possible new housing and a child care mini-center, and a land donation for daycare was discussed. The Hugo Housing Authority sought help with plumbing repairs and is working toward compliance before asking for a grant partnership with the town.
   where: Townwide
   refs:
-  - 3
-  - 6
-  - 12
-  - 15
+  - 1
+  - 4
+  - 10
+  - 11
+  - 13
+  - 14
   topics:
   - Housing
+  - Schools & youth
   - Zoning & development
-- title: Street maintenance and parks
-  summary: Council approved a pothole repair proposal and discussed pavement testing for a street maintenance plan. It also approved a playground equipment proposal from BYO Recreation and discussed safety of kids on a hard football field.
+- title: Culture, recreation and pool sales tax ballot issue
+  summary: 'The January 2026 agenda included discussion of Ballot Issue #2, an additional 1% sales tax for culture, recreation and the pool.'
   where: Townwide
   refs:
-  - 7
-  - 12
-  - 15
+  - 2
+  topics:
+  - Elections
+  - Budget & taxes
+  - Recreation & trails
+- title: Street maintenance, pothole repair and CDOT sidewalk project
+  summary: A street assessment is planned to determine pavement and structural conditions for a maintenance plan, and council approved a Millan Asphalt pothole proposal in June. The CDOT sidewalk project was waiting on asphalt approvals in April.
+  where: Townwide streets
+  refs:
+  - 0
+  - 6
+  - 10
   topics:
   - Roads & traffic
+- title: Parks, playground and football field safety
+  summary: The town sought quotes and grants for playground equipment, approved a BYO Recreation proposal in June, and discussed the safety of kids playing on a hard football field in August.
+  where: Farrel-Hines Park and town parks
+  refs:
+  - 4
+  - 5
+  - 10
+  - 13
+  topics:
   - Parks & open space
+  - Recreation & trails
+- title: 2027 budget workshops and strategic plan
+  summary: The council scheduled a 2027 budget review and workshop in October, with the strategic plan draft to be reviewed at the November 30 budget workshop.
+  where: Townwide
+  refs:
+  - 14
+  - 17
+  - 18
+  topics:
+  - Budget & taxes
+  - Government operations

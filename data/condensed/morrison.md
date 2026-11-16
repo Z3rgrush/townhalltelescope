@@ -1,115 +1,6 @@
 # morrison
 
-## [morrison#0] 2026-08-04 | Public Notices | agenda
-- ORDINANCE NO. ____
-- AN ORDINANCE REPEALING AND REENACTING TITLE 8 OF THE MORRISON
-- MUNICIPAL CODE REGARDING WATER AND SEWER REGULATIONS
-- a Home Rule Charter approved by the electorate pursuant to Article XX of the Colorado
-- 31-16-101, et seq. to adopt and enforce all ordinances;
-- WHEREAS, the Board recently amended Titles 8 and 10 to include water conservation
-- WHEREAS, the Board now desires to repeal and replace Title 8 to clarify all water and
-- sewer requirements
-- TITLE 8 WATER AND SEWER
-- provided water and sewer service
-- AIR GAP: A physical separation between the free-flowing discharge end of a potable water
-- BACKFLOW: The undesirable reversal of flow of water or mixtures of water and other
-- liquids, gases or other substances into the Town water system from any source other than
-- BACKFLOW CONTAMINATION EVENT: Backflow into the Town water system from
-- an uncontrolled cross connection such that the water quality no longer meets the Colorado
-- Primary Drinking Water Regulations or presents an immediate health or safety risk to the
-- BACKFLOW PREVENTION ASSEMBLY: Any mechanical assembly installed at a water
-- that the mechanical assembly is appropriate for the identified contaminant at the cross
-- a water service line or at a plumbing fixture to prevent a backflow contamination event,
-- provided that the method or non-testable device is appropriate for the identified
-- CERTIFIED CROSS-CONNECTION CONTROL TECHNICIAN: A person who
-- possesses a valid and current Backflow Prevention Assembly Tester certification in
-- accordance with Regulation No. 11 Colorado Primary Drinking Water Regulations from
-- one of the following approved organizations: American Society of Sanitary Engineering
-- Boards Certification (ABC). The process for certification must include successful
-- completion of an examination administered by one of the approved organizations
-- prevention method at any connection to the Town water system that supplies an auxiliary
-- water system, location, facility, or area such that backflow from a cross connection into
-- the Town water system is prevented
-- CONTROL MANHOLE: A manhole giving access to a building sewer at some point
-- before the building sewer discharge mixes with other discharges in the public sewer
-- CROSS CONNECTION: Any connection that could allow any water, fluid, or gas such
-- that the water quality could present an unacceptable health or safety risk to the public, to
-- flow from any pipe, plumbing fixture, or a user's water system into a public water system's
-- distribution system or any other part of the Town water system through backflow
-
-## [morrison#1] 2026-08-04 | Town Board Agendas and Minutes | minutes
-- MORRISON TOWN HALL, 110 STONE STREET
-- of receiving legal advice on specific legal questions regarding the Town’s water infrastructure
-- strategy for negotiations, and/or instruct negotiators concerning a potential agreement for
-- extraterritorial sewer service, pursuant to C.R.S. § 24-6-402(4)(e) and Town Charter Section
-- 3. Amendments to the Agenda. N/A
-- additional businesses to Town without adequate parking and believes parking requirements
-- Reza Ardehali, 215 Bear Creek Ave. Ardehali agreed with Killingsworth and stated that parking
-- Katie Gill, 231 Red Rocks Vista Dr. Gill. requested an update on the hearing for The Farm at the
-- Krista Gaasvig, 102 Market St. Gaasvig addressed the parking situation in downtown Morrison
-- and expressed that new businesses should not be permitted without adequate parking
-- a. Resolution No. __ Approving an Intergovernmental Agreement with Jefferson
-- A motion was made by Trustee Way to approve the resolution regarding the Town’s
-- Agreement with Jefferson County. Trustee Nash seconded. All present voted aye. The
-- b. Interim Town Manager Employment Agreement
-- A motion was made by Trustee Way approve the Interim Town Manager Employment
-- Agreement effective August 14, 2026. Trustee Bernhardt seconded. All present voted aye
-- c. Ordinance 565 - Repealing and Reenacting Title 8 of The Morrison Municipal Code
-- Regarding Water and Sewer Regulations
-- A motion was made by Trustee Wirtz to approve Ordinance 565 repealing and reenacting
-- Title 8 of the Morrison Municipal Code regarding water and sewer regulations. Trustee
-- d. Term Sheet for Extraterritorial Sewer Service with Green Tree Metro District
-- Trustee Bernhardt moved to approve the term sheet for Extraterritorial Sewer Service with
-- A motion was made by Trustee Bernhardt to approve the Consent Agenda for June 16,
-- 8. Future Considerations. Minute Mark 38:20
-- direction from the community on the parking issues
-- relative to matters that may be subject to negotiations, develop a strategy for negotiations,
-- to consider personnel matters, pursuant to C.R.S. § 24 -6-402(4)(f) concerning the Town
-- Manager’s exit interview and not involving: any specific employees who have requested
-- discussion of the matter in open session; any member of this body or any elected official; the
-- appointment of any person to fill an office of this body or of an elected official; or personnel
-- policies that do not require the discussion of matters personal to particular employees, with
-
-## [morrison#2] 2026-08-11 | Town Board Agendas and Minutes | agenda
-- AMENDED NOTICE OF SPECIAL BOARD OF TRUSTEES MEETING
-- 110 Stone Street
-- The meeting has been requested by the Town Manager pursuant to Charter Section 3.2. Actual
-- negotiations, develop a strategy for negotiations, and/or instruct negotiators concerning
-- an extraterritorial service agreement for the Fort, pursuant to C.R.S. § 24-6-402(4)(e) and
-- development of the East Planning Area, pursuant to C.R.S. § 24-6-402(4)(e) and Town
-- 4. Amendments to the Agenda
-- 5. Public Comment – 5:45pm or later
-- a. Extraterritorial water and sewer service agreement for the Fort
-- b. Ratification of Ordinance 564 – Ballot Questions
-- SUBJECT: The Fort Extraterritorial Water and Sewer Service
-- SUGGESTED MOTION: I move to approve the Extraterritorial Water and Sewer Service
-- Agreement with Morrison RE Development, LP for The Fort
-- The proposed agreement outlines extraterritorial water and sewer terms for Morrison RE
-- Development, LP to provide services to The Fort and the adjacent parcel. Under the agreement,
-- The agreement allows for a maximum of 75 EQRs with 50 EQRs for residential use. The
-- developer would pay one-time impact fees for both water and sewer, for a combined total of
-- $2,500,000 ($1,125,000 for water and $1,125,000 for sewer). The agreement also requires the
-- establishment of a public improvement fee on restaurant sales at the same rate as the Town’s
-- sales tax rate
-- WATER AND SEWER SERVICE AGREEMENT
-- THIS WATER AND SEWER SERVICE AGREEMENT (the " Agreement") is made and
-- Colorado 80465 (the "Town"), and Morrison RE Development, LP, a Colorado limited partnership
-- with an address of 2731 17th Street, Suite 300, Denver, Colorado 80211 ("Developer")
-- incorporated herein (the "Property");
-- WHEREAS, MRE intends to purchase Parcel 3 (as defined in Exhibit A ) from Shining
-- Times following approval of this Agreement;
-- WHEREAS, Developer has petitioned to receive extraterritorial w ater and sewer service
-- from the Town for the Property pursuant to Title 8 of the Morrison Municipal Code (as amended,
-- and incorporated herein (the "Improvements");
-- WHEREAS, the Code sets forth the terms, conditions, and limitations of extension of water
-- and sewer service to properties outside the Town boundaries, and provides that such service shall
-- be made on a case-by-case basis upon a finding by the Board of Trustees that extension of water
-- and sewer service to an area outside the Town boundaries is proper;
-- extension of sewer service to the Property is proper;
-- WHEREAS, the Parties acknowledge that Developer has submitted annexation and initial
-- zoning applications to the Town and that Developer intends to withdraw such application upon the
-
-## [morrison#3] 2026-08-18 | Public Notices | agenda
+## [morrison#0] 2026-08-18 | Public Notices | agenda
 - NOTICE OF A PUBLIC HEARING CONCERNING THE PROPOSED ANNEXATION
 - OF APPROXIMATELY 59.36 ACRES OF LAND LOCATED IN UNINCORPORATED
 - Town of Morrison will hold a public hearing on Tuesday, August 18, 2026, at 6:00 P.M. to determine
@@ -121,7 +12,7 @@
 - interested persons will be given an opportunity to be heard at the Public Hearing. The Public Hearing
 - will be held at the Morrison Town Hall, 110 Stone Street, Morrison, CO 80465, at the above date and
 
-## [morrison#4] 2026-08-18 | Public Notices | agenda
+## [morrison#1] 2026-08-18 | Public Notices | agenda
 - NOTICE OF A PUBLIC HEARING
 - of the Town of Morrison will hold a public hearing on Tuesday, August 18, 2026, at 6:00 P.M. at Morrison
 - Town Hall, 110 Stone Street, Morrison, Colorado 80465 to consider an application for initial zoning to the
@@ -132,7 +23,7 @@
 - A copy of the application is available for inspection at th e Town Clerk's office at 110 Stone St., Morrison, CO
 - attend the public hearing and provide public comment
 
-## [morrison#5] 2026-08-18 | Public Notices | agenda
+## [morrison#2] 2026-08-18 | Public Notices | agenda
 - Notice of Public Hearing
 - aka ProMo, filed an application on June 9, 2026 to the Licensing
 - Officials of the Town of Morrison to grant a Special Event Permit to
@@ -142,7 +33,7 @@
 - Morrison Town Hall, 110 Stone Street, Morrison, Colorado
 - Morrison Post office, 150 Spring Street, Town of Morrison Website
 
-## [morrison#6] 2026-08-18 | Public Notices | agenda
+## [morrison#3] 2026-08-18 | Public Notices | agenda
 - ORDINANCE NO. 566
 - AN ORDINANCE AMENDING TITLE 10 OF THE MORRISON MUNICIPAL CODE REGARDING GARDEN SHEDS, HOTELS AND MOTELS, FLOODPLAIN GRADE MEASUREMENT, AND THE DEFINITION OF SUBSTANTIAL IMPROVEMENT
 - WHEREAS, the Town of Morrison is a Colorado home rule municipality operating under a Home Rule Charter approved by the electorate pursuant to Article XX of the Colorado Constitution and governed by its elected Board of Trustees;
@@ -160,7 +51,7 @@
 - GARDEN SHED: An accessory structure no larger than 120 square feet with a maximum height of 10 feet used primarily for the storage of household or landscape materials. Garden sheds shall not be used for human habitation or as a place of employment
 - Section 7.The definitions of Motel and Substantial Improvement in Section 10-F-3 of the Morrison Municipal Code are hereby amended as follows:
 
-## [morrison#7] 2026-09-01 | Hogback Newsletter | agenda
+## [morrison#4] 2026-09-01 | Hogback Newsletter | agenda
 - feedback, ask questions, and voice concerns
 - Due to drought conditions all Morrison water service users are hereby noticed of
 - MANDATORY watering restrictions, effective APRIL 2, 2026. Restrictions shall remain in
@@ -181,11 +72,11 @@
 - Triceratops Gulch Project:
 - us in the field, and we were grateful that she could see more of what the Morrison Natural History
 
-## [morrison#8] 2026-09-04 | Public Notices | agenda
+## [morrison#5] 2026-09-04 | Public Notices | agenda
 - BALLOT ISSUE: SHALL THE TOWN OF MORRISON'S TAXES BE INCREASED BY $125,000 IN THE FIRST FULL FISCAL YEAR, COMMENCING JANUARY 1, 2027, AND BY WHATEVER AMOUNTS RAISED ANNUALLY THEREAFTER, BY ELIMINATING AN EXISTING EXEMPTION FROM THE TOWN’S LODGING TAX AND THEREBY EXPANDING THE TAX TO APPLY TO ALL LODG
 - BALLOT ISSUE: SHALL THE TOWN OF MORRISON’S TAXES BE INCREASED BY $500,000 IN THE FIRST FULL FISCAL YEAR, COMMENCING JANUARY 1, 2027, AND BY WHATEVER AMOUNTS ARE RAISED ANNUALLY THEREAFTER, BY INCREASING THE RATE OF THE TOWN’S EXISTING LODGING TAX FROM 6% TO 8%, WITH THE REVENUES THEREFROM TO BE SPEN
 
-## [morrison#9] 2026-09-15 | Public Notices | agenda
+## [morrison#6] 2026-09-15 | Public Notices | agenda
 - ORDINANCE NO. 562
 - AN ORDINANCE AMENDING SECTIONS 3-6-2 AND 3-6-4 OF THE MORRISON MUNICIPAL CODE REGARDING A LODGING TAX EXEMPTION
 - WHEREAS, the Town of Morrison is a Colorado home rule municipality operating under a Home Rule Charter approved by the electorate pursuant to Article XX of the Colorado Constitution and governed by its elected Board of Trustees;
@@ -200,7 +91,7 @@
 - Section 3.Severability. If any article, section, paragraph, sentence, clause or phrase of this Ordinance, or the standards adopted herein is held to be unconstitutional or invalid for any reason, such decision will not affect the validity or constitutionality of the remaining portions of this Ordina
 - Section 4.Effective Date. This Ordinance shall take effect on October 1, 2026
 
-## [morrison#10] 2026-09-15 | Town Board Agendas and Minutes | minutes
+## [morrison#7] 2026-09-15 | Town Board Agendas and Minutes | minutes
 - MORRISON TOWN HALL, 110 STONE STREET
 - Trustee Bernhardt moved to add public comment to 4a. All present voted aye. The motion
 - 3. Amendments to the Agenda. N/A
@@ -217,7 +108,7 @@
 - A motion was made by Trustee Way to approve the Consent Agenda for September 15,
 - 10. Future Considerations. Minute Mark 25:15
 
-## [morrison#11] 2026-10-06 | Public Notices | agenda
+## [morrison#8] 2026-10-06 | Public Notices | agenda
 - ORDINANCE NO. 567
 - AN ORDINANCE AMENDING TITLE 5 OF THE MORRISON MUNICIPAL CODE REGARDING THE ABATEMENT OF A NUISANCE
 - WHEREAS, the Town of Morrison is a Colorado home rule municipality operating under a Home Rule Charter approved by the electorate pursuant to Article XX of the Colorado Constitution and governed by its elected Board of Trustees;
@@ -230,7 +121,7 @@
 - Section 3.Severability. If any article, section, paragraph, sentence, clause or phrase of this Ordinance, or the standards adopted herein is held to be unconstitutional or invalid for any reason, such decision will not affect the validity or constitutionality of the remaining portions of this Ordina
 - Section 4.Effective Date. This Ordinance shall take effect fifteen (15) days after adoption and publication in accordance with Section 3.9 and 3.14 of the Home Rule Charter
 
-## [morrison#12] 2026-10-06 | Town Board Agendas and Minutes | minutes
+## [morrison#9] 2026-10-06 | Town Board Agendas and Minutes | minutes
 - MORRISON TOWN HALL, 110 STONE STREET
 - positions relative to matters that may be subject to negotiations, develop a strategy for
 - 4. Amendments to the Agenda. N/A
@@ -249,16 +140,16 @@
 - session; any member of this body or any elected official; the appointment of any person to
 - the discussion of matters personal to particular employees with the Town Attorney, Town
 
-## [morrison#13] 2026-10-07 | Town Board Agendas and Minutes | agenda
+## [morrison#10] 2026-10-07 | Town Board Agendas and Minutes | agenda
 - AMENDED NOTICE OF SPECIAL BOARD OF TRUSTEES MEETING
 - 110 Stone Street
 - The meeting has been requested by the Town Manager pursuant to Charter Section 3.2. Actual
 - 4. Public Comment
 
-## [morrison#14] 2026-10-15 | Public Notices | agenda
+## [morrison#11] 2026-10-15 | Public Notices | agenda
 - Street, Morrison, Colorado 80465. Two or more Board members may be
 
-## [morrison#15] 2026-10-20 | Public Notices | agenda
+## [morrison#12] 2026-10-20 | Public Notices | agenda
 - ORDINANCE NO. 568
 - AN ORDINANCE REPEALING CHAPTER 6 OF TITLE 1 OF THE MORRISON MUNICIPAL CODE RELATED TO TOWN EMPLOYEE PLANS AND ADMINISTRATION
 - WHEREAS, the Town of Morrison is a Colorado home rule municipality operating under a Home Rule Charter approved by the electorate pursuant to Article XX of the Colorado Constitution and governed by its elected Board of Trustees;
@@ -266,7 +157,7 @@
 - Section 2.Severability. If any article, section, paragraph, sentence, clause or phrase of this Ordinance, or the standards adopted herein is held to be unconstitutional or invalid for any reason, such decision will not affect the validity or constitutionality of the remaining portions of this Ordina
 - Section 3.Effective Date. This Ordinance shall take effect fifteen (15) days after adoption and publication in accordance with Section 3.9 and 3.14 of the Home Rule Charter
 
-## [morrison#16] 2026-10-20 | Town Board Agendas and Minutes | agenda
+## [morrison#13] 2026-10-20 | Town Board Agendas and Minutes | agenda
 - 110 STONE STREET
 - 5:30 PM EXECUTIVE SESSION: to consider personnel matters, pursuant to C.R.S. § 24-6
 - 402(4)(f) concerning the Town Manager employment agreement and not involving: any specific
@@ -305,7 +196,7 @@
 - as both revenue and an expenditure. I elected to put it as a separate line item and note that it is
 - revenue was coded to a different line item than in the approved budget. Red cells may also
 
-## [morrison#18] 2026-11-01 | Hogback Newsletter | agenda
+## [morrison#15] 2026-11-01 | Hogback Newsletter | agenda
 - Stacy Feehery
 - THE TOWN OF MORRISON'S TAXES BE INCREASED BY $125,000 IN THE
 - EXEMPTION FROM THE TOWN’S LODGING TAX AND THEREBY EXPANDING THE
@@ -331,11 +222,11 @@
 - West Metro Fire
 - feedback, ask questions, and voice concerns
 - Keep a supply of food, water, and essential
-- Prepare a winter emergency kit for your vehicle(blankets, water, snacks, shovel, jumper cables, etc.)
+- Prepare a winter emergency kit for your vehicle (blankets, water, snacks, shovel, jumper cables, etc.)
 - Know that roads may be icy, and conditions can change
 - The Town prioritizes main roads and emergency routes
 - Do not push or shovel snow into the roadway
-- Bring in bird feeders when bears are active (spring-fall).• Clean outdoor grills after each use
+- Bring in bird feeders when bears are active (spring-fall). • Clean outdoor grills after each use
 - Remove food sources such as pet food, livestock feed,
 - Do not approach, feed, or attempt to photograph
 - Never feed wildlife. It is illegal and can be dangerous
@@ -354,3 +245,85 @@
 - Use shut-off nozzles on hoses when not actively watering
 - Limit watering on windy days to prevent drift and evaporation
 - Consider drought-tolerant or native landscaping options
+
+## [morrison#16] 2026-11-03 | Public Notices | agenda
+- Stacy Feehery
+- SHALL THE TOWN OF MORRISON'S TAXES BE INCREASED BY $125,000 IN THE
+- EXEMPTION FROM THE TOWN’S LODGING TAX AND THEREBY EXPANDING THE
+- TAX TO APPLY TO ALL LODGING FACILITIES REGARDLESS OF THE NUMBER OF
+- SUCH TAX AND ANY EARNINGS THEREON BE COLLECTED, RETAINED AND SPENT
+- AS A VOTER-APPROVED REVENUE CHANGE NOTWITHSTANDING ANY REVENUE
+- SHALL THE TOWN OF MORRISON’S TAXES BE INCREASED BY $500,000 IN THE
+- AMOUNTS ARE RAISED ANNUALLY THEREAFTER, BY INCREASING THE RATE OF
+- THE TOWN’S EXISTING LODGING TAX FROM 6% TO 8%, WITH THE REVENUES
+- ALL REVENUES DERIVED FROM SUCH TAX AND ANY EARNINGS THEREON BE
+- COLLECTED, RETAINED, AND SPENT AS A VOTER-APPROVED REVENUE CHANGE
+- AMENDED TO READ AS FOLLOWS:
+- vote and request a ballot to be mailed is October 26, 2026. Voted ballots may be returned to a
+- 100 Jefferson County Parkway 7706 W Bowles
+
+## [morrison#17] 2026-11-04 | Public Notices | agenda
+- NOTICE OF PUBLIC HEARINGS
+- NOTICE is hereby given that a proposed budget has been
+- for the ensuing year of 2027; a copy of such proposed budget
+- proposed budget will be considered at the Regular Meeting of
+- Morrison Town Hall, 110 Stone Street
+- the proposed budget and file or register any objections
+- thereto at any time prior to the final adoption of the budget
+
+## [morrison#18] 2026-11-04 | Public Notices | agenda
+- NOTICE OF PUBLIC HEARING
+- 2027 CAPITAL IMPROVEMENT PLAN
+- Improvement Plan has been submitted to the Board of
+- 2026; a copy of such proposed Capital Improvement Plan has
+- Capital Improvement Plan will be considered at the Regular
+- pm at the Morrison Town Hall, 110 Stone Street
+- the proposed Capital Improvement Plan and file or register
+- of the Capital Improvement Plan
+
+## [morrison#19] 2026-11-04 | Town Board Agendas and Minutes | agenda
+- 110 STONE STREET
+- 3. AMENDMENTS TO THE AGENDA
+- 6. PUBLIC HEARING
+- a. 2027 Budget (Hearing #1)
+- b. 2027 Capital Improvement Plan (Hearing #1)
+- 9. FUTURE CONSIDERATIONS
+- improvements
+- contractions,
+- presentation
+- demonstrated
+- contraction,
+- application,
+- applications
+- Considerable
+- PUBLIC HEARING FORM
+- SUBJECT: 2027 Budget Public Hearing #1
+- Staff Presentation
+- Public Comment
+- Close Public Hearing
+- A second public hearing will be held on November 17, 2026. Adoption of the budget is
+- anticipated on November 17, 2026, following the close of the second public hearing
+- 2027 Budget Notes
+- this final draft of the budget and the final budget for adoption. The same applies to revenue. This is
+- simply because we want the 2026 estimates to be as accurate as possible. If expenditure estimates
+- exceed the 2026 budget, a supplemental budget (budget amendment) is required
+- Regardless of slight increases or decreases, a supplemental budget is not needed for the 2026 budget
+- Morrison operates under a fund-level budgetary control, meaning a formal budget amendment is only
+- contribute enough to receive the additional match. For budgeting purposes, I used a 3.5% employer
+- contribution rate for all eligible employees as a middle-ground estimate rather than assuming full
+- I reviewed the workers’ compensation insurance inconsistencies in the 2026 estimated budget. I
+- We should have an agreement for the Town Attorney to review for changing our Xpress Bill Way
+- structure. The change will require customers to pay the fees rather than the Town. We will send out
+- When we send out those communications, we will include the mailing fee and encourage customers
+- revenue was coded to a different line item than in the approved budget. I have started a list of
+- The wages were updated, which resulted in a large increase for the Admin budget
+- I took the bank fees from the Court budget and split $13,000 between Water and Sewer, since the
+- majority is from utility bills. The remainder was put in admin to house planning, building, permit,
+- etc. bank fees
+- CIRSA does an end of year audit to look at actual expenses vs what was budgeted for. The Town
+- I removed the bank fees, as noted in the Admin section
+- I put $50,000 in 2027. Accordingly, I removed this from the capital budget
+- expenditures and want to limit their fiscal impact. I recommend the proposed amount for bank fees
+- General Fund Capital Projects / Expenses
+- I updated the Town Hall security improvements to $5,000. This may not be a capital expense, but I
+- o Approx.. $296,213 in expenditures for the overall raw water project in the Utility Fund

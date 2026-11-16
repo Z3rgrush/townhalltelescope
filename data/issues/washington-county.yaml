@@ -1,5 +1,5 @@
-- title: Washington County landfill resolution
-  summary: The county commissioners took up a landfill resolution at a 2:30 item on Aug. 18 and again as Resolution 34-2026 on Sept. 1. The agendas give no details on what it does. A landfill capital purchase was also on the Aug. 25 agenda.
+- title: Landfill resolution (Resolution 34-2026)
+  summary: The board scheduled a 2:30 landfill resolution on Aug. 18 and took up Resolution 34-2026 on the landfill on Sept. 1. A landfill capital purchase also came up Aug. 25. The documents do not state the outcome.
   where: Countywide
   refs:
   - 0
@@ -7,9 +7,18 @@
   - 2
   topics:
   - Utilities
+  - Environment & climate
   - Government operations
-- title: RAISE grant bids and SEH presentation
-  summary: The county drafted an RFP for a RAISE grant in August and September. It opened and discussed bids on Oct. 6 and Oct. 20, and SEH presented on the RAISE grant bid on Nov. 3. The agendas do not say what project the grant would fund.
+- title: Wind moratorium extension (Resolution 49-2026)
+  summary: The board considered extending the county's moratorium on wind development through Resolution 49-2026 on Sept. 29. The documents do not state the outcome.
+  where: Countywide
+  refs:
+  - 5
+  topics:
+  - Energy
+  - Zoning & development
+- title: RAISE grant request for proposals and bids
+  summary: The county drafted an RFP for a RAISE grant and later opened and discussed bids on Oct. 6 and Oct. 20. On Nov. 3 SEH presented on the RAISE grant bid.
   where: Countywide
   refs:
   - 0
@@ -21,8 +30,8 @@
   topics:
   - Roads & traffic
   - Government operations
-- title: County comprehensive plan RFP
-  summary: The commissioners reviewed a draft request for proposals for a new county comprehensive plan from August through September. Proposals were opened and discussed on Oct. 27, with further discussion on Nov. 3.
+- title: Comprehensive Plan consultant selection
+  summary: The county drafted an RFP for a new comprehensive plan from August onward, opened bids Oct. 27, discussed the plan Nov. 3, and had a comprehensive plan contract on the Nov. 10 agenda.
   where: Countywide
   refs:
   - 0
@@ -32,11 +41,12 @@
   - 5
   - 9
   - 10
+  - 11
   topics:
   - Zoning & development
-  - Land & property
-- title: Clinic roof and clinic bids
-  summary: The commissioners approved an agreement with APEX for the clinic roof on Aug. 25. They opened and discussed clinic bids on Oct. 6 and Oct. 20, and discussed them again on Oct. 27 and Nov. 3.
+  - Government operations
+- title: County clinic roof and clinic bids
+  summary: The board approved an APEX agreement for the clinic roof on its Aug. 25 agenda, then opened clinic bids Oct. 6 and Oct. 20. Clinic bids were discussed again Oct. 27, Nov. 3 and Nov. 10.
   where: County clinic
   refs:
   - 1
@@ -44,30 +54,12 @@
   - 8
   - 9
   - 10
+  - 11
   topics:
   - Health & human services
-  - Budget & taxes
-- title: Wind moratorium extension
-  summary: The commissioners considered Resolution 49-2026 on Sept. 29 to extend the county's moratorium on wind energy development.
-  where: Countywide
-  refs:
-  - 5
-  topics:
-  - Energy
-  - Zoning & development
-- title: PILT agreement and conflict waiver
-  summary: The commissioners discussed a conflict waiver and a PILT (payment in lieu of taxes) agreement on Oct. 13. They returned to the PILT agreement on Oct. 20 and Nov. 3.
-  where: Countywide
-  refs:
-  - 7
-  - 8
-  - 10
-  topics:
-  - Budget & taxes
   - Land & property
-  - Energy
-- title: 2027 county health benefits and health pool rates
-  summary: The commissioners reviewed 2027 health pool rates on Sept. 22. Resolution 50-2026 on 2027 health benefits appeared on agendas from Sept. 29 through Oct. 27.
+- title: 2027 health benefits and health pool rates
+  summary: The board reviewed 2027 health pool rates on Sept. 22 and took up Resolution 50-2026 on 2027 health benefits repeatedly from Sept. 29 through Oct. 27.
   where: Countywide
   refs:
   - 4
@@ -79,8 +71,26 @@
   topics:
   - Budget & taxes
   - Government operations
+- title: PILT agreement and conflict waiver
+  summary: The board discussed a conflict waiver and a PILT (payment in lieu of taxes) agreement on Oct. 13, and the PILT agreement again Oct. 20 and Nov. 3.
+  where: Countywide
+  refs:
+  - 7
+  - 8
+  - 10
+  topics:
+  - Budget & taxes
+  - Land & property
+- title: Budget review sessions
+  summary: The board scheduled departmental budget review sessions on Nov. 3 and Nov. 10.
+  where: Countywide
+  refs:
+  - 10
+  - 11
+  topics:
+  - Budget & taxes
 - title: Courthouse and EMS building surveillance system
-  summary: The commissioners considered proposals for a surveillance system for the courthouse and EMS building on Aug. 18, with a decision on the agenda. A CamNet service contract followed on Sept. 8.
+  summary: The board reviewed proposals for a surveillance system for the courthouse and EMS building on Aug. 18 for discussion and decision. A CamNet service contract followed on Sept. 8.
   where: Courthouse and EMS building
   refs:
   - 0
@@ -88,33 +98,18 @@
   topics:
   - Policing & public safety
   - Government operations
-- title: Fiber and telecom utility accommodation agreements
-  summary: On Oct. 20 the commissioners took up Resolution 52-2026 for Level 3 Communications and Resolution 53-2026 for Williams Communications, both utility accommodation agreements.
+- title: Fiber/telecom agreements with Level 3 and Williams Communications
+  summary: The board took up Resolutions 52-2026 and 53-2026 for Level 3 Communications and Williams Communications on Oct. 20. A railroad letter was also on the Aug. 18 agenda.
   where: Countywide
   refs:
+  - 0
   - 8
   topics:
   - Broadband
   - Utilities
-- title: Nursing home and housing authority board vacancies
-  summary: The commissioners discussed letters of interest for the Nursing Home Board and Housing Authority Board on Oct. 13 and Oct. 20. Separately, the nursing home had several capital purchases.
-  where: County nursing home
-  refs:
-  - 6
-  - 7
-  - 8
-  topics:
-  - Health & human services
-  - Housing
-- title: 2027 budget review
-  summary: The commissioners held budget review sessions on Nov. 3, at 11:00 and 3:00.
-  where: Countywide
-  refs:
-  - 10
-  topics:
-  - Budget & taxes
-- title: Planning and zoning fee schedule
-  summary: The commissioners took up Resolution 48-2026, the Washington County fee schedule for planning and zoning, on Sept. 1.
+  - Land & property
+- title: Planning and zoning fee schedule (Resolution 48-2026)
+  summary: The board considered a new Washington County fee schedule for planning and zoning on Sept. 1.
   where: Countywide
   refs:
   - 2

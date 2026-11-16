@@ -1,0 +1,802 @@
+ 
+____________________________ ___________________________________________ 
+816 Harrison Avenue 141 County Road 10 
+Leadville, CO 80461 
+Phone (719) 486-2990    Emergency – Dial 911 
+ 
+Fire Management Board Meeting  
+AGENDA 
+11/13/2026 
+0900 at City Hall, 800 Harrison Ave  
+ 
+Google Meet Link: 
+meet.google.com/saj-fmmb-twj 
+• New Business: 
+1. Approval of Minutes: September 25th and October 15th, 2026 FMB Meeting Minutes 
+2. Chief Dailey Update: 
+3. Strategic Plan Discussion: 
+4. Spartan: Jake Brake Quote 
+5. Open Type VI RFPs 
+6. Financials: September Financials: 
+Final IGA Approved by City Council and BOCC 10/20/2026 
+ 
+ 
+Next meeting – December 11, 2026 
+ 
+Adjournment:  
+ 
+Friday, September 25, 2026- 09:00am 
+Lake County/City of Leadville 
+Fire Management Board Meeting Draft Minutes 
+City Hall, 800 Harrison Ave. 
+ 
+Attendance: LLCFR Chief Dan Dailey, Mayor Dana Greene, County Commissioner Matt Bullock, 
+County Manager Candace Bryans, Tim Swaner – Present; Admin Assistant Lori Tye and Deputy 
+Admin Assistant, Aly Furnas - Present 
+ 
+Call to Order: 09:06 am 
+ 
+New Business/Action Items 
+ 
+1. Union President Presentation: Captain Bo Knickman, Union President, a line staff captain and 
+Wildland Coordinator, briefed the Fire Management Board to provide a "boots on the ground" 
+perspective on wages and staffing, emphasizing a community-first approach. He characterizes the 
+department as highly respected at state and national conferences for its skill and tactical 
+performance, which makes it a point of pride for its members. Primary Concern: Wages are 
+insufficient to retain staff, jeopardizing the department's strong culture, operational performance, 
+and the non-monetary value built over years. Despite strong pride and positive external feedback, 
+the department risks losing experienced personnel. Pay Disparity: A major issue is the pay 
+disparity in Lake County, where firefighters earn approximately 25% less than law enforcement, a 
+gap not seen elsewhere in the state where the average is 95%. This makes employees feel 
+undervalued. Proposed Solution: A new percentage-based step-pay program is proposed, tying 
+firefighter pay to 90% of the sheriff deputy's pay. This is considered a reasonable compromise to 
+improve retention, even though it remains below the state average ratio. This 90% figure is a non-
+binding guideline and can be renegotiated in future 1-2 year union contracts. Merit-Based 
+Progression: The step program requires one year of service and an acceptable annual 
+performance review to advance; a structure the union supports to incentivize performance and 
+prevent automatic raises for underperforming staff. Implementation Options: To provide budget 
+flexibility, the union proposed two implementation options: grandfathering all staff into their 
+accrued steps or starting everyone one step back. The union finds the second option reasonable. 
+Fiscal and Operational Impacts of Poor Retention: Financial Costs: Training and Equipment: 
+It costs approximately $30,000 to train a new firefighter, and a past loss of staff led to a notable 
+increase in apparatus damage costs due to inexperience. Overtime: A lack of qualified staff to 
+“bump up” into senior roles forces costly overtime, with a 24-hour shift costing $1,500 versus a 
+few hundred for a “bump up”. Wildfire Revenue: Gross revenue from wildland deployments, 
+which helps fund apparatus, has increased from $50-150k annually to a projected $700,000 this 
+year due to better retention. Operational & Safety Impacts: Experience Timeline: It takes 2.5 
+years for a firefighter to be ready to act as an engineer and 5 years for an officer or engine boss. A 
+straw poll indicated that under current pay trends, 75% of staff would leave within 5 years, a 
+figure that significantly improves (23%) with the proposed plan. Public Safety: Inexperience can 
+impact service quality and has placed young firefighters in high-stakes situations, causing 
+significant mental health strain. There is a risk of "pencil whipping" qualifications to fill roles, 
+compromising operational integrity. Swaner wanted mention something too, in this vein. When 
+we go to a residential structure fire in Eagle County, we get three engines, a ladder truck, a 
+battalion chief, and likely another chief of some sort. So right now, we're at twelve, sixteen, 
+eighteen, twenty people. Generally speaking, is what we have. Knickman: And that's what the 
+NFPA says you should be doing. Swaner: Correct. In seven minutes. Right, it is vital that we retain 
+the experience up here because we don't have the resources. So, just to add some perspective to 
+that, it's truly vital. So great presentation, thanks, Bo. Knickman wrapped up his presentation 
+stating we as a union, really support all the elected officials and all of our bosses and leadership 
+ 
+because we have a lot of respect for what you guys do as well, and we just want to help, give 
+information, and we'll be honest and say how things are for us, but we aren't looking for 
+perfection either. So, just know you have a lot of grace from us as a union. Bullock: Thank you. 
+Yeah, it's really illuminating, and we often just get a request for an increase with no explanation. 
+I'm sure there's justification in every department, but not like this. Highway 91 Safety: Concerns 
+were raised about frequent serious accidents on Highway 91. Potential safety measures like 
+guardrails, chevron signs, and targeted speed enforcement were discussed. Chief Dailey met with 
+CDOT to discuss these issues. Bullock: this year's increase is roughly eight percent; do you have a 
+projection on the next year and the year after that? A percentage increase? Chief Dailey: I don't, 
+well I did a five year analysis three years ago but then there's been some reductions so it's tough 
+to be able to give that percentage rating because again we've taken a lot out of the operational 
+budget in order to be able to have this retention so it depends on analyzing at the Fourth quarter, 
+at the very end and saying, okay, well, where are we at as an organization when it pertains to 
+equipment, facilities, all of that, and then saying, oh, okay, well, this is going to be the need for the 
+following year because we're already working at the barebone minimal. There's no fluff, and I'm 
+not overextending or overbudgeting. I'm being visibly responsible. There's been a significant 
+increase, but that's everywhere in every organization because we've had taxation to be able to do 
+that. But we also understand, that's leveling out. So, and then the creativity portion of that of what 
+we're trying to do as an organization, we're setting all of those things in place. There's only so 
+much we can absorb out of that creativity to be able to offset the budget as well. So, I would hope 
+to say it's anywhere from five to ten. Swaner asked if Knickman had the raw numbers for the 
+budget increase from Leadville PD and the Sheriff’s Office, and then the Fire Dept. Knickman was 
+looking for those numbers. Chief Dailey wanted to emphasize as well, our culture. I love our 
+culture, absolutely love it. We are we are community first. You remember when I when I put up 
+the presentation and we had our values and our ethics and all of that. We really live by those 
+wholeheartedly. And you know, culture will only keep people for so long. You put something like 
+this (step program for raises) in there as well, and you're talking a game changer. It's going to be 
+an organization that I have been wanting for many years. Bullock: Do Breckenridge and Summit 
+really struggle for people, or are we just the training ground we're feeding people? Swaner noted, 
+not so much in the last few years, but that year Bo was talking about, I think we took four 
+firefighters from you guys that year. Which I didn't live here, but I'm like, this is a moral conflict 
+for me. Dailey: That's why the CMC program ramped up it took 2012 to 2017 roughly to build that 
+program. Setting that in place takes care of that training aspect of it. We're going to still lose some 
+firefighters, but we can we can stop the bleeding a little bit or plug the holes in the boat, if you will, 
+for a little while on the firefighter level. If we keep the engineers and the captains, the ones that 
+have been here and have that experience, then that's to me the most important thing that we can 
+do. Because if the firefighter goes, then you have that experience, the veteran teaching the young. 
+Station II Staffing & Utilization: Bullock asked Chief if he was comfortable with Station II – how 
+much it cost, how much to maintain, how to staff it. Two additional engineers were hired, but the 
+station is not fully staffed due to deployments and five injuries. The plan is to staff it ~20 days per 
+month in the fall, which is expected to reduce response times by 15-20 minutes for southern 
+residents. Station II also provides temporary housing for sheriff's employees, storage for Search & 
+Rescue, a bay for Public Works, and has served as an incident command post. Its classroom is 
+heavily used for multi-agency training. The station's existence, along with apparatus acquisitions 
+funded by wildland revenue, improved the area's ISO rating from 10 to 3. A union analysis 
+estimated this saves the community ~$3.5 million in annual insurance premiums. There is a 
+tremendous amount of value to Station II. It's been utilized twice during wildland fires for incident 
+command teams. CBI uses it quite frequently. Historical context of a former volunteer presence in 
+Twin Lakes and current use of the old garage. A two-bay garage in Twin Lakes, formerly used by a 
+volunteer organization, is now used by Public Works. The volunteer model ended around 2000 
+ 
+when the organization was professionalized with certification requirements. It was stated that a 
+volunteer station "wouldn’t work" today due to the high cost, rapid turnover, and demanding 
+training requirements of modern fire service. As the southern part of the county grows, the goal is 
+to build a heated structure housing an apparatus to meet minimum ISO requirements, although a 
+more comprehensive facility is desired. Tharp suggested her and Chief Dailey to explore, in the 
+next year, the costs of using the county to provide desired services and assess what a fire district 
+would require financially; consider engaging a consultant. If the fire department became a district, 
+a proposal to absorb ambulance services was noted, but this could be detrimental to fire 
+operations. Fiscal pressures necessitate new taxing mechanisms for the County since service costs 
+are rising faster than revenues. Based on two prior attempts to form a district, stakeholders are 
+aware of the significant overhead costs associated with creating a new bureaucracy, including 
+finance, HR, and facilities. Tharp to meet with Birch Barron (Eagle County Emergency Manager) on 
+Monday, 09-28-2026 at 9:00 AM to discuss pitfalls of fire districts, what could have been done 
+differently, and cost comparisons between municipal/county service provision versus districts. 
+The goal is to learn from Eagle County's decades-long (and unsuccessful) efforts to consolidate fire 
+districts to avoid similar trial-and-error locally. Dailey: Since 2012, the department has pursued 
+grants, raising approximately $6.2 million in external funds to cover positions and equipment 
+without drawing from the general fund. While successful, this strategy had the unintended 
+consequence of budget decreases when grants ended, creating ongoing funding challenges. 
+Speaker 5 feels this creative funding may have "shot ourselves in the foot." Dailey confirms the 
+“shot in the foot” refers to making do via alternate resources (grants) instead of steadily 
+increasing the base budget. 
+ 
+2. Minutes: August 14, 2026 and September 11, 2026 Fire Management Board Minutes. Mayor 
+Greene motioned to approve the minutes of 8/14 and 9/11, Swaner seconded, all present approve. 
+ 
+3. August Financials: Postponed to next FMB meeting 
+ 
+4. IGA Review: Postponed to next FMB meeting 
+ 
+5. Preliminary Budget Discussion: Postponed to next FMB meeting 
+Operations/Capital 
+ 
+ 
+ 
+Next FMB Meetings: October 9, 2026 at 9:00am 
+ 
+Adjourned 10:34 am 
+ 
+Next Regular Meeting: Friday, October 9, 2026 at 9:00am 
+ 
+Thursday, October 15, 2026- 09:00am 
+Lake County/City of Leadville 
+Fire Management Board Meeting Draft Minutes 
+City Hall, 800 Harrison Ave. 
+ 
+Attendance: LLCFR Chief Dan Dailey, Mayor Dana Greene, County Commissioner Matt Bullock, 
+County Manager Candace Bryans – Present; Admin Assistant Lori Tye – Present; City 
+Administrator Dan Trelka, Tim Swaner - Absent 
+ 
+Call to Order: 09:05 am 
+ 
+New Business/Action Items 
+ 
+1. Chief Dailey Update: 601 Back from Mississippi deployment with three personnel. Captain 
+Slutzky as engine boss; Alex in a training role; a reserve wildland firefighter. 601 in shop for after 
+deployment; tires will be rotated and kept on through winter. Engine 301 on board available for 
+deployment, with Fritz designated as Engine Boss if deployed. CMC: A meeting with the Division of 
+Fire Prevention and Control (DFPC) took place on October 14, 2026, to review requirements for 
+placing training containers on college grounds. It would be the first on-site container training 
+facility at a Colorado college. Requirements include NFPA 1402 for facility construction and NFPA 
+1403 for interior live-fire training safety procedures, as well as consideration of restroom 
+proximity. The proposed site is behind the old soccer field to the west, near the lower parking lot 
+and dorms. The planned facility is limited to two stories rather than three divisions. Code: – Clare 
+submitted her resignation at the end of September 2026 but remains available to assist during the 
+transition. Chaffee County Fire Protection District denied an inter-district service contract for code 
+firefighter Rachel because of liability concerns. LLCFR plans to hire Rachel directly under the 
+department’s umbrella at an estimated $45 per hour, down from the $55 contract rate because the 
+$10 district fee would no longer apply. The department is evaluating three transportation and 
+mileage-reimbursement options, including a 58-cent travel rate or assigning the former fire 
+prevention vehicle, to avoid standard hourly pay during transit. A party is scheduled for October 
+15, 2026, at 6:30 p.m. at Station 2 to honor Phyllis’s 15 years of service. A larger celebration may 
+be held in 2027. Apparatus Update: Truck 1 overheated in route to Denver, was staged overnight 
+at Summit Fire & EMS in Frisco, and was towed to Denver by heavy wrecker for suspected 
+transmission pump repairs. The Spartan is in Denver for warranty repairs and minor adjustments. 
+Although new tires have been installed, it will be held in reserve as a second-due unit for winter 
+because it lacks a Jake brake. The Pierce is currently being used for primary operations. No 
+questions. 
+ 
+2. IGA Review: The latest IGA draft was reviewed. Union-related language in Section 15 was 
+confirmed as updated. Dailey thinks we might be standing on the goal line on this! 6.2 – it stated a 
+bi-annual report, then it got changed to quarterly reports; would like for that to go back to bi-
+annual. Fire Management Board takes care of the monthly reports. If the county is OK with it, 
+change back to bi-annual. Section 6.2 reporting frequency will change from quarterly to twice 
+yearly. April and October were discussed, coordinated around budget presentations. Section 3 
+establishes a three-year initial term effective January 1, 2027, with automatic one-year renewals. 
+The group discussed adding Section 3.2 language to preserve fire protection if the agreement is 
+terminated: current agreement or service obligations would remain until replacement services or 
+an agreement are established; wording will be sent to legal for review. The group checked the 
+signature page and chart, including whether Matt was correctly identified as chair of the BOCC, 
+and compared the document with Hillary’s redline. The fire chief will draft a policy covering 
+Sections 6.1–6.8 for Fire Management Board consideration. The agreement was expected to go to 
+City Council and the BOCC for approval on October 20, 2026, pending legal review and revisions. 
+ 
+ 
+Next FMB Meetings: November 13, 2026 at 9:00am – No objections/conflicts 
+ 
+Adjourned 09:38 am 
+ 
+Next Regular Meeting: Friday, November 13 2026 at 9:00am 
+Leadville / Lake County Fire Rescue
+Strategic Plan
+
+Mission
+• Reducing community risk through excellence in 
+emergency service.
+• PRIORITIES TO ACHIEVE OUR MISSION
+• Emergency Response; To be mission ready at all costs
+• Apparatus; To have all apparatus in service and safe for response
+• Training; Train like your life depends on it, because it does
+• Workout; Stay in great physical, and mental shape
+• Projects; Stay current with your projects and have a plan
+Vision
+• We will be appropriately equipped, excellently trained, and 
+eminently capable of meeting the community’s need for fire 
+protection and emergency services.
+• We will be a national example of a fire-rescue organization 
+dedicated to providing excellent customer service
+• We will provide effective staffing patterns throughout our service 
+area by creating a fire-rescue department that draws and retains 
+high-caliber, strongly motivated members.  We will be the kind of 
+fire department to which people far and wide want to belong.
+• We will be an aggressive fire department; renown for our assertive 
+and effectual response, uncompromising in our commitment to 
+responder safety and unquestionably dedicated to our reason for 
+existing.
+• We will be known as a smart fire department; one that studies, 
+examines and learns and does not fear evolving.  People will come 
+from miles around to train with us.
+• We will be the model that other fire departments copy.
+Values
+• Excellence: In all things we will strive to achieve 
+excellence, whether in the provision of our 
+numerous services of in the working relationships 
+we have with each other.
+• Tradition: We will honor and live up to the finest 
+traditions of Fire Service, particularly those that 
+speak to faithful service to those in need brother and 
+sisterhood and the trust of the community whom we 
+serve.
+• Attitude: We will know and fulfill our jobs,  We will 
+never stop learning, improving or achieving.  We 
+will present our selves to the public and to each 
+other in the most professional of lights.
+Ethics
+The responsibility for ethical behavior rests with each individual 
+member of the Department.
+• Each member will remain accurate in their communications, never 
+misrepresenting the facts or shading the truth.
+• Each member will commit to not participating in firehouse rumors, 
+denigrating other members or stripping other members of their 
+dignity.
+• Each member will commit to continuous learning and self-
+improvement, always striving to fulfill the ideal of a “professional” 
+fire fighter.
+• Each member will commit to never violating the public trust 
+through act, word, or deed.
+• Each member will commit to the continuous development of on 
+team, one fire department, one mission.
+• Each member will look-out for the welfare of other members and 
+help other members overcome their weaknesses while learning from 
+their strengths.
+Dignity Statement
+LLCFR respects the uniqueness of all individuals and recognizes that 
+having people with divers backgrounds, creeds, points-of-view and 
+ethnicities brings strength to the organization.
+• We will ensure equal opportunity to all members
+• We will encourage all members to communicate and behave in a 
+manner which is sensitive to and acknowledges the viewpoints of 
+others.
+• We will regard diversity as a resource that enriches the 
+organizational environment through the sharing of differing 
+perspectives, experiences, and ideas.
+• We will removed barriers to teamwork through collaboration, 
+problem solving, and the constructive resolution of conflicts.
+• All members of the organizations are expected to treat each other 
+with respect at all times.  Inappropriate behavior will not be 
+tolerated and may result in disciplinary action at the discretion of 
+the Department.
+Core Ideology
+• “First in-Last out” is the core ideology of LLCFR.  In this 
+simple statement lives the standard of excellence to which we 
+measure ourselves, the fines traditions of the fire service to 
+which we commit ourselves and the altitude to which we daily 
+aspire.  We are the community’s all-risk response agency to 
+which people will turn to in time of need.  We therefore pride 
+ourselves on being the first in – never shirking our 
+responsibility to protect the public whom we serve or serving 
+the public whom we protect – and last out – never leaving 
+until the job is finished.  This is the ideology of the entire 
+organization, from management to line firefighter, which 
+drives our daily efforts, whether conducting vehicle checks, 
+helping with a community event, fighting fire or rescuing 
+people from danger.
+• It is the faith we instill in those who call 911.
+Core Purpose
+• Leadville / Lake County Fire Rescue’s core 
+purpose for existing is to save lives and protect 
+property.
+Finances and Governance
+• See LLCFR Service Plan (IGA) (Policy Manual)
+Facilities: STATION II 
+• Multi-use facility for SAR, SVH, Public Works, Law, OEM, Public
+• Have all SOP’s and operational objectives in place by August 2024  
+• Have all MOU’s in place by April of 2023 
+FUNDING 
+1. DOLA
+2. Fire Fund
+3. Local Governments
+4. In-kind-Public Works 
+5. Climax Grant
+6. Donations/Fundraisers
+7. Other Grants and Efforts
+8. Have actuals on total cost of station II by August 2024     
+
+Personnel
+• Current staffing structure:
+▫ 1 Fire Chief
+▫ 1 Fulltime Administrative Position  
+▫ 1 Deputy Chief/Fire Marshal
+▫ 1 Operational Chief 
+▫ 3 Career Captains
+▫ 4 Career Engineers
+▫ 6 Career Firefighters (3 on SAFER Grant)  
+▫ 3 Reserve Firefighters 
+▫ 6 Student Resident Firefighters  
+Personnel Continued
+• Establish new staffing structure by January 2025: 
+ 1 Fire Chief
+ 1 Division Chief/Fire Marshal/Prevention
+ 1 Full Time Administrative Assistant
+ 1 Operations Section Chief 
+ 3 Career Captains  
+ 5 Career Engineers/able to bump up to acting officer
+ 6 Career Firefighters/able to bump up to acting engineer      
+ 3 Reserve Firefighters
+ 6 Resident Firefighters 
+Personnel Benefits 
+• Resident/Reserve Program 
+• Wildland Deployment 
+• Station II Response
+• Less Reliant on Mutual Aid 
+• Greater Instructor Base 
+• Greater Program Development 
+Existing Apparatus
+MODEL 
+YEAR
+DATE 
+PURCHASED
+DESCRIPTION USE REPLACEMENT 
+COST
+REPLACEMENT 
+DATE
+1978 4/25/1978 Dodge Brush  Utility Multi-Use $             95,000.00 Unknown 
+1999 07/15/2024 Pierce Ladder Truck 1 Structure $        1,800,000.00 2034
+1988 1/5/2012 Pierce Fire Engine E-3 (Not in Service, Training) Training $           550,000.00 2016
+2016 4/1/2022 Ford Interceptor Prevention/Operations Lease Program 2026
+1996 4/9/1997 Chevrolet Brush  E-603 Wildland $             130,000.00 2024
+2013 5/1/2013 Chevrolet Command C-1 On-Scene Mgmt $             75,000.00 2025
+2002 12/16/2002 Sutphen Fire Engine E-2 Structure $           450,000.00 2023
+2024 05/27/2024 Ford F550 Wildland $             320,000.00 2034
+Trailer HAZMAT $          
+2016 7/7/2016 Pierce Fire Engine E-2 Structure $           1,200,000.00 2031
+2020 5/15/2022 Spartan Fire Engine E-1 Structure $ 1,200,000.00 2037
+2017 12/01/2017 Command 2 1500 Dodge Operations/Training $       Lease Program 2025
+2012 3/20/2012 Dodge RAM 5500 Brush2  E-602 Wildland $             260,000.00 2027
+1929 1928 FORD Model A Fire Truck PR / History Priceless 0
+2009 09/01/2018 Freightliner  6X6 Tactical Tender $             300,000.00 2028
+2022 05/01/2022 International Type III WUI $             480,000.00 2032
+Apparatus  Committee
+• Members include the current Engineers 
+• Lead Program Coordinator assigned
+Tasks to complete: 
+• Develop apparatus needs assessment based on 
+risk
+• Develop recommendations based on needs 
+assessment
+• Develop performance standards and critical 
+features based on recommendations
+Programs
+• Service Delivery
+▫ Community Outreach
+▫ EMS
+▫ Fire Investigation
+▫ Fire Prevention
+▫ Fire Protection
+▫ Haz Mat
+▫ Rescue
+▫ Wildland Fire
+• Service Support
+▫ Communications
+▫ Reserve/Resident
+▫ Training
+▫ Vehicle Maintenance
+▫ Water Supply
+Community Outreach
+EMS
+Fire Investigation
+Fire Prevention
+Fire Protection
+Hazmat
+Rescue
+Wildland Fire
+Community Outreach
+• Public Information and PIO functions will be coordinated through the Chief’s office 
+or delegated as needed.
+• Public education will be coordinated through the Prevention office
+• Facebook and other social media outlets shall be used following the media Standard 
+Operating Procedure 
+• School Functions Annually
+• HOA meetings to discuss mitigation/water sources
+EMS
+The purpose of this program is to provide the highest possible 
+quality of emergency medical services to the community through 
+progressive training, education and certification of Department 
+medical providers
+• Problem Statement: the public faces increased risk from injury and 
+illness due to a lack of seasoned veteran BLS providers
+• Goal Statement: we will increase the level of EMS provided to the 
+public by improving the frequency of on-duty BLS providers, and by 
+having a quality improvement plan set in place with the hospital 
+EMS providers
+EMS
+• Objective 1: 
+• Objective 2: By 12/31/2026 we will stock EMT-1 drugs on E-1
+• Objective 3: By 06/01/2025, at least 10 members will have IV 
+certification
+• Objective 4: Objective 5: By 3/1/17 we will acquire the following 
+equipment/supplies: (ongoing) 
+▫ Glucometer (DONE) 
+▫ Pulse Oximeter (DONE)
+▫ Mechanical Suction Unit (DONE)
+▫ Cap Nography
+▫ Kendrick Traction (DONE)
+▫ BLS Bag- Medical bag (DONE)
+Objective 6: Have an IGA (intergovernmental agreement) with 
+Saint Vincent Health for an ambulance at station II and response 
+capabilities by 10-05-2021 (DONE) 
+EMS
+• Objective 6: By 6/01/2022, develop and thereafter 
+maintain a CE record system, by which personnel CEU’s 
+are recorded and tracked, and which:
+▫ Materially contributes to the on-going education and 
+professionalism of the Department’s EMS providers
+▫ Provides sufficient opportunities for the Department’s EMS 
+providers to earn enough CEU’s to maintain current EMS 
+certifications
+▫ Limits the requirement for members to travel outside Lake 
+County to obtain required CEU’s
+• Objective 7: By 07/01/22 review and revamp EMS run 
+reporting (Done) 
+• Objective 8: By 6/01/23, develop an adjunct training 
+program whereby the Department’s EMT’s and EMT-P’s 
+work shifts at an off-site facility, practicing critical skills 
+(Train and work with Saint Vincent Health Ambulance)
+Fire Investigation
+The purpose of LLCFR’s fire investigation program is 
+to determine the origin and cause of both structure 
+and wild land fires whenever possible and within the 
+scope of the Engine Company Captain’s abilities and 
+to ensure that CBI is summoned at the earliest 
+possible time whenever needed.
+• Problem Statement: The community does not 
+receive timely initial fire origin/cause investigative 
+services, potentially jeopardizing arson 
+determination through spoliation of evidence.
+• Goal Statement: We will provide, or cause to be 
+provided, adequate initial fire origin and cause 
+determination on all fires.
+Fire Investigation
+• Objective 1: By 01/01/2016 we will hire a full 
+time Deputy Chief/ Fire Marshal for all initial 
+investigations (Done)
+• Objective 2: By 12/31/23 each Company Captain 
+will complete adequate initial fire origin and 
+cause investigation training.
+• Objective 3: By 12/31/26 one additional member 
+from each shift will complete adequate initial 
+fire origin and cause investigation training.
+Fire Prevention
+The purpose of LLCFR’s Fire Prevention Program is to 
+reduce the community’s fire risk and to increase 
+public and firefighter safety through community 
+education and effective code enforcement.
+• Problem Statement: The public and FF’s face 
+increase risk of the fire spread because LLCFR lacks 
+sufficient building intelligence and updated pre-fire 
+plans.
+• Goal Statement: We will increase public safety and 
+reduce FF risk by developing adequate building 
+intelligence and pre-fire plans, along with systems 
+that ensure in-field access to critical building 
+information.
+Fire Prevention
+• Objective 1: By 1/1/16 establish a part-time fire 
+prevention bureau (Deputy Chief / Fire 
+Marshall) including part time administrative 
+support. (still need admin)
+• Objective 2: By 7/1/24 establish a list of target 
+hazards
+• Objective 3: By 12/31/25 complete the updated 
+pre-plans for all target hazards and all buildings 
+along Harrison Ave. (FireHouse SoftWare updated in 2022 to help with this 
+process)
+Fire Prevention
+• Objective 4: By 06/01/25 complete fire safety 
+plan/public education campaign plan for all 
+downtown business and target hazards.
+• Objective 5: By 09/01/26 complete 
+implementation plan for ensuring that field 
+units have adequate access to pre-fire plans and 
+building intelligence.
+Fire Protection
+The purpose of LLCFR’s Fire Protection Program 
+is to protect life and property from fires while 
+ensuring, to the highest possible degree, 
+firefighter safety.
+• Goals and Objectives are different for Structure 
+and Wildland fires.
+Fire Protection - Structure
+• Problem Statement 1: The public and FF’s face 
+unsafe conditions when LLCFR responds to a 
+structure fire with only 1 Engine and 3 FF’s
+• Goal Statement 1: We will increase public and FF 
+safety by providing an effective response force to 
+all structure fires.
+Fire Protection - Structure
+• Objective 1: By 2/12/22 E-1 will be staffed at 4.0 
+100% of the time. 
+• Objective 2: By 06/1/24 we will provide peak 
+load staffing to the Southern end of the County 
+during 90% of all identified critical periods.
+• Objective 3: By 1/1/23 call back will provide 3 
+FF’s 90% of all requests for Priority 1 (may 
+include peak load engine. (ongoing)
+Fire Protection - Structure
+• Objective 4: By 1/1/12 we will graduate at least 5 
+Reserve/Resident FF’s from the LLCFR CMC 
+Academy and each year there after (maintained)
+• Objective 5: By 4/01/18 complete 
+implementation plan for 1582 FF physicals. 
+(Local and or through the CSU Program) (Done)
+• Additional Program Needs
+▫ PPE (we have two grants out to receive 15 sets if awarded, more is still needed. We replace 3 sets annually)
+▫ Additional pac sets (1 BK hand held, and 1 operational radio in 2018) (2 more BK and 3 ops radios in 2019) (more 
+needed until inventory is replaced) (4 more BK radios from the VFA grant added in 2021) 
+▫ Voice Coms (DONE) (More masks & Regulators needed in 2023)   
+Fire Protection - Structure
+• Problem Statement 2: Urban core is left without 
+protection whenever E-1 responds to outlying 
+areas of the County (draw-down)
+• Goal Statement 2: We will eliminate draw-down 
+through increase staffing
+Fire Protection - Structure
+• Objective 1: Peak load, or call compilation; 
+Establish policy and procedures by 04/01/23 for 
+Station II “bump up” or response capabilities
+• Objective 2: By 12/31/19- 11/15/22 develop crew 
+quarters suitable for peak load staffing in 
+Southern end of County.
+• Objective 3: By 7/1/23 all current career FF”s 
+shall be capable of “bumping” up to Engineer.
+Fire Protection - Wildland
+• Problem Statement: The public and FF’s face 
+unsafe condition during wildfires because of 
+insufficient staffing during wildfire events.
+• Goal Statement: We will increase staffing to 
+provide response by E-1, a Brush Truck and or a 
+the Tactical Tender with-out splitting the on-
+duty crew.
+Fire Protection - Wildland
+• Objective 1: See above re: staffing and severity engine.
+▫ Note: Fulfilling this goal requires LLCFR to continue 
+certifying all reserve/resident FF’s for both structural 
+(FFI) and Red Card.  
+• Objective 2: By 11/1/23, certify at least 2 more Engine 
+Boss positions. (certified 1 in 2021, and 1 in 2022)
+• Build a wildland fire program that will continue to be 
+sustainable with national response capabilities. Add at 
+minimum, a Type III Engine, and an additional Type VI 
+to the Fleet by 2024.(Type III on order 2022) 
+Hazmat
+The purpose of LLCFR’s Hazmat Program is to ensure 
+the Department’s readiness for hazmat events that 
+could reasonable affect Leadville, Lake County and 
+the South Central All Hazards Region, particularly 
+those which may be of low frequency but high 
+consequence; and to ensure the proper working 
+order of LLCFR’s hazmat and respiratory protective 
+equipment.
+• Problem Statement: FF’s have insufficient direction 
+with regard to Hazmat responses
+• Goal Statement: We will improve FF’s safety by 
+providing comprehensive plans for responding to 
+Hazmat incidents.
+Hazmat
+• Objective 1: By 12/31/12, update the set of 
+Hazmat SOP’s (Done) 
+• Objective 2: By 6/30/25, complete rewrite of 
+hazmat training program, response capabilities 
+and inventory
+Hazmat
+• Problem Statement 1: The public and FF’s face 
+unsafe conditions during Hazmat incidents due 
+to lack of trained staff.
+• Goal Statement 1: We will increase the number 
+of appropriately trained personnel (technicians) 
+who can respond to hazmat incidents.
+Hazmat
+• Objective 1: We will provide at least 2 technician per 
+shift by 12/31/25
+• Objective 2: We will provide operations level 
+training with emphasis on decontamination to at 
+least 15 members of allied agencies by 10/31/13 
+(DONE) (revisit this) 
+• Objective 3: We will complete training in use of 
+decon trailer with allied agencies by 12/30/13 
+(DONE)(revisit this) 
+• Objective 4: By 12/31/24 adequately equip mobile 
+command post. ( Hammer 1) 
+ 
+Hazmat
+• Objective 5: By 04/30/13 obtain the following 
+equipment and training: (ongoing) 
+▫ Reference material (chem watch, etc)
+▫ Computer equipment (lap tops, printer, weather 
+stations, etc)
+▫ Q-Rae training (x1 TTT) (Grant funds provided SCR)
+▫ Air Monitoring and other advanced Hazmat training 
+(x2) (SCR Grant 2021)
+▫ Haz Mat training for technicians (build out props at 
+the training facility by 2025)
+Hazmat
+• Objective 6: by 12/31/12 complete process of 
+gathering and reviewing OSHA/SCBA medical 
+evaluation forms (re-visit this)  
+• Objective 7: By 8/1/12 & ongoing; complete 
+annual SCBA Fit-Testing and assessment of 
+SCBA maintenance needs (including hydrostatic, 
+functional testing and compressor air 
+monitoring) (Replacement of SCBA in 2014) 
+(DONE)  
+Hazmat
+• Objective 8: By 3/01/16 complete development 
+of implementation plan for Hazmat physicals 
+(DONE)
+• Objective 9: By 12/31/27 all career FF’s will be 
+trained to Technician level
+• All Haz Mat equipment is the responsibility of 
+the Haz Mat coordinator,& maintenance of 
+apparatus shall be coordinated through the 
+apparatus coordinator 
+Rescue
+The purpose of LLCFR’s rescue program is to provide 
+adequate first-responder rescuers at the Engine Company 
+level, and through the Technical Rescue Team, lead the 
+effort to provide technician level rescuers who are capable of 
+responding to the various types of rescue incidents that are 
+likely to occur in Leadville and Lake County.
+• Problem Statement: The public, FF’s and members of the 
+TRT face unsafe conditions during rescue incidents because 
+LLCFR has not adequately determined the priority of needs 
+of training and preparation.
+• Goal Statement: Building on what we already know, we will 
+develop a prioritized list of training, certification 
+requirements, and capability needs for LLCFR for local 
+response & to support SAR when needed.
+Rescue
+• Objective 1: By 12/31/23 complete a capability 
+needs assessment for LLCFR 
+• Objective 2: By 12/31/23 develop a prioritized 
+list of training/certification needs for LLCFR
+• Objective 3: By 08/15/21 Complete an inventory 
+of equipment and have all other needs for 
+budget purposes. (Done) 
+Communications
+Reserve/Resident
+Training
+Vehicle Maintenance
+Water Supply
+Communications
+The purpose of this program is to produce effective and 
+efficient operation communications and promote 
+effective and efficient inter-agency operation 
+communications through comprehensive planning, 
+appropriate equipment acquisition and cooperation in 
+the development of common operation communication 
+procedures.
+• Problem Statement: FF safety is compromised by the 
+lack of hand-held radios and poor transmissions.
+• Goal Statement: We will implement procedures for 
+maximizing the use of Department hand-held radios 
+and acquire an adequate supply of appropriate hand-
+held radios.
+Communications
+• Objective 1: By 03/31/18 implement, and update SOP for 
+maximizing use of department hand-held radios (Done)
+• Objective 2: By 3/30/23 determine the type and number of hand-
+held radios/batteries/voice coms, needed by the Department  
+(Pagers purchased in 2017 budget (need additional), and 1-2 radios 
+will be purchased every year starting 2018, 4 new BK radios in 2021 
+VFA grant) 
+• Objective 3: By 6/1/25 acquire a sufficient number of appropriate 
+hand-held radios. (1-2 a year until replaced)
+• Objective 4: Have a process to condition radios, and have an 
+organized plan. ( inventory, check out, etc…) 
+Training
+The purpose of the LLCFR training program is to prepare 
+the Department to safely, effectively, and efficiently 
+meet the emergency service needs of the community.
+• Problem Statement: Department members do not 
+consistently earn certifications by the required 
+deadlines. (JPR’s Completed)
+• Goal Statement: We will implement a process by which 
+training requirements are tracked and sufficient 
+opportunities are given to ensure that certifications are 
+acquired in a timely fashion.
+Training Facility Concept
+
+Training Facility Commercial Side
+
+Training Facility Grounds Layout
+
+Training
+• Objective 1: Captains will assess certification 
+requirements for their shift. (ongoing)
+• Objective 2: Captains will complete certification 
+fulfillment plan for their shift set forth by the 
+training officer. (ongoing) 
+• Objective 3: All staff members are responsible 
+for their own recertification. They will report to 
+the Training Officer, and will follow all 
+requirements set by the State, and the training 
+officer.
+Training
+• Problem Statement: Captains do not have 
+enough resources for developing shift training
+• Goal Statement: We will develop shift training 
+standards, and a department training calendar 
+which can be accessed by each shift. We will also 
+build a training facility in 2019-2021 that will 
+support in our training efforts. Full build out of 
+the primary structure to be expected by 
+01/01/2030
+Training
+• Objective 1: By 01/31/23 the Training Captain will coordinate with 
+the other program coordinators in developing a shift training 
+calendar for the year.( I.E., Haz Mat, EMS, Wildland, Rescue, 
+Structural Firefighting)
+• Objective 2: By 4/01/23 each program coordinator, responsible for a 
+service delivery program will coordinate with the training officer to 
+come up with  shift trainings to share with other shifts
+• Objective 3: By 7/01/23, Engineers will develop initial training 
+curriculum for Truck 1,Tender 1, and set date for completion of final 
+curriculum. Working with the training officer in this process
+• Objective 4: By 6/1/23 training officer will set a program into place 
+that will allow all shifts to train on the “basics”, and then build off of 
+them. (1-3 department wide trainings annually; this will include 
+night trainings and mutual aid trainings when possible)
+Vehicle Maintenance
+The purpose of LLCFR’s vehicle maintenance program is to ensure 
+that the organizations apparatus are ready to respond to fires and 
+other emergencies and that each vehicle functions safely, efficiently 
+and effectively when operated appropriately.
+• Problem Statement: With an aging fleet there are many 
+maintenance issues that arise each budget year
+• Goal Statement: To set a replacement schedule for all apparatus on 
+a 10-15 yr. rotation. (hired a consultant 2022) 
+• Replacement plan set in place, but is not being implemented due to 
+lack of funds. It will be used as a priority list as capital items need to 
+be replaced

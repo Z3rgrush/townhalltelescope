@@ -1,171 +1,191 @@
-- title: Mayor's Proposed 2027 Budget and council amendments
-  summary: Council held the public hearing on the Mayor's Proposed 2027 Budget on Oct. 19 and took up a series of council member amendments on Nov. 2 and Nov. 9. The Finance committee also advanced the 2027 appropriation ordinance, a rescission of $16.1 million in unused capital funds, and 2027 plans for business improvement districts.
+- title: Mayor's proposed 2027 budget and council amendments
+  summary: Council received the Mayor's Proposed 2027 Budget on Oct. 19 with a public hearing, then voted on a series of amendments on Nov. 2, some carried and some failed. The 2027 annual appropriation, a $16.1 million rescission of unused capital funds, and several special-fund changes moved through Finance on Nov. 3. The budget is back on the Nov. 9 agenda with a public hearing.
   where: Citywide
   refs:
-  - 21
-  - 88
+  - 62
+  - 80
+  - 99
   - 100
   - 107
-  - 108
   - 112
-  - 115
   topics:
   - Budget & taxes
   - Government operations
   public_comment: true
 - title: Data center moratorium update
-  summary: The Community Planning and Housing committee heard an update on Denver's data center moratorium on Aug. 18. The documents give no details on its terms or next steps.
+  summary: The Community Planning and Housing Committee heard an update on Denver's data center moratorium on Aug. 18. The documents give no details on what was reported.
   where: Citywide
   refs:
-  - 9
+  - 1
   topics:
   - Data centers
   - Zoning & development
   tags:
   - data-center
-- title: Homelessness shelters and rapid rehousing contracts
-  summary: Council approved a stream of contracts for rapid resolution and rapid rehousing services, including Salvation Army, Volunteers of America, St. Francis Center, Delores Project and Colorado Coalition for the Homeless. It also approved temporary pallet and micro-community shelter licenses with Colorado Village Collaborative at 3815 N Steele St. and The Gathering Place at 1375 N. Elati St., plus an emergency shelter scope change at the Sand & Sage/Westerner Motel on East Colfax.
+- title: Council rejects Citibot and Slalom contract increases
+  summary: Contract amendments adding $3.9 million for Citibot and $5 million for Slalom were called out at full Council. On Oct. 13 both resolutions failed to carry.
   where: Citywide
   refs:
-  - 19
+  - 48
+  - 61
+  - 72
+  topics:
+  - Government operations
+  - Budget & taxes
+- title: Wheeler Trigg O'Donnell legal contract increase
+  summary: A $500,000 increase to the city's outside legal counsel contract with Wheeler Trigg O'Donnell went to committee on Aug. 25. On Sept. 15 it was postponed to a later date and then approved for filing.
+  where: Citywide
+  refs:
+  - 10
+  - 37
+  topics:
+  - Lawsuits & legal
+  - Budget & taxes
+- title: Homeless shelter, rapid rehousing and housing contracts
+  summary: Council approved many contracts for rapid rehousing and rapid resolution services (Salvation Army, Volunteers of America, St. Francis Center, Delores Project, Urban Peak and others). Other items include pallet shelters at 3815 N Steele St, a micro-community shelter at 1375 N. Elati St, emergency shelter at the Sand & Sage/Westerner Motel, and a congregate shelter presentation. The Department of Housing Stability also got a one-year 2027 continuation plan.
+  where: Citywide
+  refs:
+  - 11
+  - 20
+  - 21
   - 28
-  - 36
-  - 43
-  - 52
-  - 65
-  - 77
-  - 81
-  - 102
-  - 115
+  - 44
+  - 45
+  - 57
+  - 69
+  - 73
+  - 94
+  - 107
+  - 110
   topics:
   - Homelessness
   - Housing
   - Health & human services
-- title: Citibot and Slalom contract amendments fail
-  summary: Council called out and voted down amendments to the city's contracts with Citibot ($3.89 million added) and Slalom ($5 million added) on Oct. 13 after they had cleared committee. Council had earlier postponed other contract items, such as a $500,000 addition to the Wheeler Trigg O'Donnell legal contract.
+- title: Affordable housing loans and rezonings
+  summary: Council took up affordable housing loans, including one creating 118 income-restricted units and a loan for 3755 Tennyson St. It also took up a Loretto Heights middle-income row home contract and rezonings at 3418 W. 14th Ave and 1371 N Julian St, 3343-3351 N Mariposa St, and 76 N Hazel Ct and 4519 area. A regulatory reform and HUD PRO Housing presentation was heard.
   where: Citywide
   refs:
-  - 18
+  - 1
+  - 21
+  - 38
   - 45
-  - 56
-  - 69
+  - 57
+  - 72
+  topics:
+  - Housing
+  - Zoning & development
+- title: Denver Health sales tax and Caring for Denver spending limits
+  summary: Council reviewed spending of the .34% Denver Health sales tax passed in 2024 and amended a contract with Denver Health. Ordinances would bar Caring for Denver, Preschool Program and college affordability tax money from being spent on alcohol and other administrative costs. A Care Over Incarceration grant of $2.7 million for the STAR program was also accepted.
+  where: Citywide
+  refs:
+  - 6
+  - 37
+  - 68
   - 80
   topics:
-  - Government operations
+  - Health & human services
   - Budget & taxes
-  - Lawsuits & legal
-- title: Airport use and lease agreements and DEN projects
-  summary: Council approved a block of three-year use and lease agreements with airlines at Denver International Airport, including Air Canada, Air France, Alaska, Lufthansa, Turkish and WestJet. One item (COPA) was called out. Council also approved large DEN construction contracts and airport bond note plans.
+  - Policing & public safety
+- title: Airline use and lease agreements at Denver International Airport
+  summary: Council approved a block of three-year use and lease agreements with ten airlines, including Air Canada, Alaska, Lufthansa and WestJet. DEN also had contracts for taxiway, gate apron, and a bond anticipation note.
   where: Denver International Airport
   refs:
-  - 24
-  - 51
-  - 62
-  - 69
-  - 80
-  - 114
-  - 115
+  - 43
+  - 54
+  - 61
+  - 72
+  - 106
   topics:
   - Airports
   - Fees & rates
-- title: Affordable housing loans and DHA agreement
-  summary: Council advanced an amended agreement with the Denver Housing Authority, a loan to 1600 Pearl LLLP for housing in North Capitol Hill, and a loan for a 118-unit income-restricted building. It also approved state funding for middle-income row homes at Loretto Heights and an amended loan involving 3755 Tennyson St.
+- title: Minority and women-owned business contracting ordinance rewrite
+  summary: Council Bill 26-1216 revises Denver's contracting rules for minority-owned, women-owned and small business enterprises. It was approved for filing in committee and placed on final consideration on Sept. 21.
   where: Citywide
   refs:
-  - 2
-  - 9
-  - 16
-  - 53
-  - 65
-  topics:
-  - Housing
-  - Budget & taxes
-- title: Rezonings and landmark designation
-  summary: Committees advanced map amendments including 3418 W. 14th Ave. and 1371 N. Julian St. (G-RH-3 to G-MU-5), North Mariposa Street properties, 500 West Tennessee Ave., and a zone change near 76 North Hazel Court that had a required public hearing. A landmark designation for 740 N. Washington St. also moved ahead.
-  where: Various Denver neighborhoods
-  refs:
-  - 9
-  - 29
-  - 46
-  - 65
-  - 80
-  - 104
-  topics:
-  - Zoning & development
-  - Historic preservation
-- title: Caring for Denver, preschool and college tax spending limits
-  summary: A committee advanced ordinances barring Caring for Denver, Denver Preschool Program and college affordability tax revenue from being spent on alcohol and other administrative items, and the Caring for Denver ones also bar spending on staff wellness programs. Council also handled the Denver Health sales tax spending update and contract.
-  where: Citywide
-  refs:
-  - 14
-  - 45
-  topics:
-  - Budget & taxes
-  - Ethics & transparency
-  - Health & human services
-- title: Downtown Development Authority boundaries and funding agreements
-  summary: Council approved changes to the Denver Downtown Development Authority boundaries and advanced DDDA funding agreements for the Midland Condominiums unit at 444 17th St., the University Building at 900-918 16th St., and 101 W. Colfax Ave., where the city also approved a lease for about 64,654 square feet.
-  where: Downtown Denver
-  refs:
-  - 8
-  - 45
-  - 71
-  - 90
-  topics:
-  - Downtown & business
-  - Economic development
-- title: Broadway Station pedestrian bridge and stadium site
-  summary: Committee advanced an amended 2025 stadium site intergovernmental agreement with the Broadway Station Metropolitan District and a state grant for a pedestrian bridge over the railroad and RTD tracks. The bridge links the Broadway RTD station to the NWSL soccer stadium and Santa Fe Yards.
-  where: Broadway RTD station, Council District 7
-  refs:
-  - 5
-  topics:
-  - Transit
-  - Zoning & development
-  - Recreation & trails
-- title: Automated vehicle identification (AVIS) ordinance
-  summary: The Health and Safety committee and council advanced an ordinance amending Chapter 54 on automated vehicle identification systems. The documents do not describe the specific changes.
-  where: Citywide
-  refs:
-  - 76
-  - 86
-  - 98
-  topics:
-  - Policing & public safety
-  - Roads & traffic
-- title: Proclamations opposing Amendments 81 and 82
-  summary: Council took up a proclamation opposing Colorado Amendment 81 (law enforcement) and a measure on Amendment 82, the proposed right to purchase and sell natural gas.
-  where: Statewide ballot
-  refs:
-  - 86
-  - 88
-  - 96
-  - 98
-  topics:
-  - Elections
-  - Energy
-- title: Minority and women-owned business contracting ordinance
-  summary: Council passed a bill revising Chapter 28 of the city code to advance access to public contracting for minority-owned, women-owned and small businesses. It also advanced an amendment to the competitive selection process for certain contracts.
-  where: Citywide
-  refs:
-  - 21
-  - 43
-  - 52
-  - 96
-  - 114
+  - 13
+  - 35
+  - 44
   topics:
   - Economic development
   - Government operations
-- title: District 6 police facility and Civic Center projects
-  summary: Council approved design and construction contracts for a new Denver Police District 6 station and garage at 1566 N. Washington St., and added $1.63 million for Studio Gang on Civic Center Park. It also approved a Cuernavaca Park facility amendment of $8.1 million and an East Colfax CD8 sidewalk land acquisition ordinance.
-  where: 1566 N. Washington St.; Civic Center Park; Cuernavaca Park
+- title: Downtown Development Authority boundaries and funding agreements
+  summary: Council amended the Downtown Development Authority boundaries several times. It also approved DDDA project funding agreements for the Midland Condominiums, University Building and 101 W. Colfax Ave, plus a city lease of about 64,654 square feet at 101 W. Colfax.
+  where: Downtown Denver
   refs:
+  - 0
+  - 37
+  - 63
+  - 82
+  - 99
+  topics:
+  - Downtown & business
+  - Economic development
+  - Land & property
+- title: Business improvement district budgets and Colfax Mayfair expansion
+  summary: Council reviewed 2027 operating plans and budgets for many business and general improvement districts and set a Nov. 9 hearing on adding property to the Colfax Mayfair BID. Annual maintenance cost approvals for streetscapes and pedestrian malls went to a Board of Equalization hearing.
+  where: Citywide
+  refs:
+  - 76
+  - 81
+  - 88
+  - 92
+  - 104
+  - 114
+  - 115
+  topics:
+  - Downtown & business
+  - Fees & rates
+  - Budget & taxes
+- title: 'Public safety: ShotSpotter, automated vehicle ID and District 6 police station'
+  summary: A ShotSpotter contract was reduced by $147,421. Council advanced an ordinance changing Denver's automated vehicle identification system rules. Contracts were approved for a new District 6 police facility at 1566 N Washington St.
+  where: Citywide
+  refs:
+  - 26
   - 41
   - 43
-  - 51
-  - 52
-  - 71
+  - 78
+  - 90
   topics:
   - Policing & public safety
-  - Parks & open space
   - Roads & traffic
+- title: Amendment 81 and 82 ballot measure positions
+  summary: A proclamation opposing Colorado Amendment 81 (law enforcement) was taken up in committee and Council. Council also considered a resolution on Amendment 82 on a constitutional right to purchase and sell natural gas.
+  where: Statewide
+  refs:
+  - 78
+  - 80
+  - 88
+  - 90
+  topics:
+  - Elections
+  - Energy
+- title: Parks capital projects and fees
+  summary: Council approved Vibrant Denver bond funding for theatre and museum projects, Red Rocks improvements, Boettcher Concert Hall renovation, a new DPR NW facility at Cuernavaca Park, and on-call parks contracts worth up to $20 million each. Golf and Mountain Parks fee schedules were advanced.
+  where: Citywide
+  refs:
+  - 7
+  - 22
+  - 35
+  - 65
+  - 102
+  topics:
+  - Parks & open space
+  - Fees & rates
+  - Libraries & culture
+- title: Flood control and infrastructure projects
+  summary: Council approved agreements for the Globeville Levee project, Harvard Gulch and Valverde drainage, Tower Road sanitary interceptor, and Civic Center Park (Studio Gang). Other items include Welton Street, a Broadway Station pedestrian bridge and the East Colfax sidewalk project land acquisition.
+  where: Globeville, Civic Center, Broadway Station
+  refs:
+  - 4
+  - 5
+  - 15
+  - 33
+  - 44
+  - 52
+  - 60
+  - 69
+  - 88
+  topics:
+  - Roads & traffic
+  - Utilities
+  - Environment & climate

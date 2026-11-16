@@ -1,5 +1,5 @@
 - title: Gemenskap development sewer dispute and lawsuit
-  summary: The Board has repeatedly gone into executive session on the sewer system at the Gemenskap development in Park County, including mediation with the developer on July 27, 2026, a joint session with the Park County commissioners on Sept. 15, and by November a lawsuit the developer filed against the Town. The documents also mention settling Sallie Williard's potential claim; no outcome is stated.
+  summary: The Board has repeatedly gone into executive session, including a joint session with the Park County commissioners on Sept. 15, about the sewer system at the Gemenskap development. The agendas mention mediation with the developer on July 27, a related claim and a lawsuit the developer filed against the Town. The documents do not state any outcome.
   where: Gemenskap development, Park County
   refs:
   - 0
@@ -8,105 +8,102 @@
   - 3
   - 4
   - 5
-  - 6
-  - 9
+  - 8
   topics:
   - Lawsuits & legal
   - Utilities
-  - Zoning & development
-- title: Park County use of Fairplay water for landfill-area wells
-  summary: The Board discussed Park County's use of Town water for wells contaminated by the landfill, and in November took up fees for Park County's use of Town water on parcels outside Town limits.
-  where: Outside-of-town parcels near Park County landfill
+  - Land & property
+- title: 2026 amended and 2027 budget, fee schedule and staffing
+  summary: The Town reviewed the 2027 budget through the fall. This included preliminary staffing and salaries, a proposed police department budget, capital projects and the events budget. The amended 2026 and proposed 2027 budgets had a first hearing on Nov. 2 and a second on Nov. 16. The Board also reviewed changes to the 2027 fee schedule and year-end employee bonuses.
+  where: Townwide
   refs:
+  - 0
+  - 2
   - 3
+  - 5
+  - 8
   - 9
+  topics:
+  - Budget & taxes
+  - Fees & rates
+- title: Park County use of Town water for landfill-area wells
+  summary: The Board discussed Park County's use of Fairplay water for wells contaminated by the landfill. On Nov. 2 it discussed fees for the County's use of Town water for parcels outside Town related to the landfill.
+  where: Landfill area outside Town limits, Park County
+  refs:
+  - 2
+  - 8
   topics:
   - Water
   - Fees & rates
   - Environment & climate
-- title: Land swap with Park County (Ordinance 5)
-  summary: The Board held first reading of Ordinance No. 5, 2026, authorizing a land swap in which the Town conveys Park County Parcel No. 32670 to Park County in exchange for county property.
+- title: Fairplay Police Station construction and police matters
+  summary: The Town paid for a structural assessment of the police station and on Nov. 16 considered Resolution 38 on a spending award for construction of the Fairplay Police Station. Executive sessions also covered legal advice and personnel matters involving Chief Jeff Worley and an officer. The Town is also revising its automated vehicle identification system ordinance (Ordinance 6), which had first reading Nov. 2 and second reading Nov. 16.
+  where: Fairplay Police Department
+  refs:
+  - 2
+  - 3
+  - 8
+  - 9
+  topics:
+  - Policing & public safety
+  - Budget & taxes
+- title: Land swap with Park County
+  summary: The Board took up first reading of Ordinance 5, which would authorize a land swap in which the Town conveys Park County parcel no. 32670 to the County in exchange for County property.
   where: Park County Parcel No. 32670
   refs:
-  - 4
+  - 3
   topics:
   - Land & property
   - Government operations
-- title: 2026 amended and 2027 budget
-  summary: Staff presented preliminary 2027 staffing, salaries, police and events budgets. The proposed FY2026 amended and FY2027 budgets were submitted Oct. 19, with a first budget hearing Nov. 2.
-  where: Townwide
-  refs:
-  - 1
-  - 3
-  - 4
-  - 6
-  - 9
-  topics:
-  - Budget & taxes
-- title: 'Police Department matters: station assessment and personnel review'
-  summary: The Board reviewed the proposed 2027 police budget and paid for a structural assessment of the police station. Executive sessions covered legal advice and personnel matters involving Chief Jeff Worley and an officer in an investigation.
-  where: Fairplay Police Department
-  refs:
-  - 3
-  - 4
-  - 6
-  topics:
-  - Policing & public safety
-  - Government operations
-- title: Water conservation, source water protection and capital planning
-  summary: The Board discussed a water conservation plan, heard a Colorado Rural Water Association presentation on the Source Water Protection Plan, and held a work session on Town water rights and the utilities capital improvement plan. Wastewater lagoon liner and new lagoon projects are underway.
-  where: Townwide
+- title: Property Improvement Incentive Program (PIIP) agreements downtown
+  summary: The Town approved or considered incentive agreements for exterior and window projects. These included 711 Front Street (Andrew Schofield, with an architectural review), 305 4th Street and 402 Hathaway Street (Greg Johnson), and reimbursement for a 601 Main painting project.
+  where: 711 Front St, 305 4th St, 402 Hathaway St, 601 Main St
   refs:
   - 0
-  - 3
-  - 6
-  topics:
-  - Water
-  - Utilities
-- title: Property Improvement Incentive Program (PIIP) agreements
-  summary: The Town considered incentive agreements for exterior and window projects at 711 Front Street (Andrew Schofield, with a Certificate of Appropriateness), 305 4th Street and 402 Hathaway Street (Greg Johnson).
-  where: 711 Front St; 305 4th St; 402 Hathaway St
-  refs:
-  - 1
-  - 6
+  - 2
+  - 5
   topics:
   - Downtown & business
   - Historic preservation
-- title: Funding requests from nonprofits and community groups
-  summary: The Board weighed funding requests from the Park County Senior Coalition, Rocky Mountain Rural Health, the Boys & Girls Club of the High Rockies and others, and donated $1,000 to a South Park High School football fundraiser. It also picked a Mardi Gras fundraiser beneficiary and considered Burro Days and Halloween event requests.
-  where: Townwide
+  - Economic development
+- title: Wastewater lagoon project and water resource planning
+  summary: The Town is paying for engineering on a wastewater lagoon liner and new lagoon, plus a new pump and motor for the treatment plant. It held a work session on water rights and the utilities capital plan. Colorado Rural Water presented on the Source Water Protection Plan.
+  where: Fairplay wastewater treatment plant and water system
+  refs:
+  - 2
+  - 3
+  - 5
+  topics:
+  - Water
+  - Utilities
+- title: Funding requests from community groups and events
+  summary: The Board weighed funding for the Burro Days request from South Park School District RE-2, the Halloween Spooktacular, Rocky Mountain Rural Health and the Park County Senior Coalition. It also considered Boys & Girls Club facility needs, and chose a Mardi Gras fundraiser beneficiary. It donated $1,000 to the South Park High School football car show fundraiser after a resident's request.
+  where: Fairplay
   refs:
   - 0
-  - 1
-  - 3
-  - 6
+  - 2
+  - 5
+  - 8
   - 9
   topics:
-  - Health & human services
   - Tourism & events
   - Schools & youth
+  - Health & human services
   public_comment: true
-- title: Automated vehicle identification system ordinance
-  summary: First reading of Ordinance No. 6 to repeal and re-enact rules on the Town's automated vehicle identification system.
+- title: Records request policy and fee schedule changes
+  summary: Resolutions amend the Town's schedule of fees. The Nov. 2 version adds a policy on responding to records requests under the Colorado Open Records Act and the Criminal Justice Records Act.
   where: Townwide
   refs:
-  - 9
-  topics:
-  - Policing & public safety
-- title: Fee schedule changes and records request policy
-  summary: Resolutions amend the Town's schedule of fees; the November version adds a policy on responding to Colorado Open Records Act and criminal justice records requests.
-  where: Townwide
-  refs:
-  - 6
-  - 9
+  - 5
+  - 8
   topics:
   - Fees & rates
   - Ethics & transparency
-- title: Fireworks show and special events
-  summary: The Board discussed whether to hold a 2026 fireworks show, and staff reviewed 2027 events budget items including a tire recycling fee grant.
-  where: Townwide
+- title: Park County E-911 communications center agreement
+  summary: The Board reviewed a proposed intergovernmental agreement on operating, administering and financially supporting the Park County Communications (E-911) Center.
+  where: Park County
   refs:
-  - 0
-  - 1
+  - 9
   topics:
-  - Tourism & events
+  - Fire & emergencies
+  - Government operations

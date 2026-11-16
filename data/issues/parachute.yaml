@@ -1,119 +1,118 @@
 - title: Data center regulations (Ordinance 838-2026)
-  summary: Town Council is set to consider Ordinance No. 838-2026, which would amend Title 15 of the municipal code to regulate data centers and technology facilities. It was on the October 15, 2026 agenda with a cover memo; the documents do not state an outcome.
+  summary: The Town Council has a public hearing on Ordinance No. 838-2026 on Oct. 15, 2026. It would amend Title 15 of the municipal code to regulate data centers and technology uses. The agenda lists a cover memo but the documents give no outcome.
   where: Townwide
   refs:
-  - 11
+  - 10
   topics:
   - Data centers
   - Zoning & development
   tags:
   - data-center
-- title: Prop 123 expedited review for affordable housing (Ordinance 837-2026)
-  summary: The Council is considering a Title 15 amendment adding Section 15.02.214 to create expedited review for affordable housing under Prop 123 and updating the land use review procedures chart. The Planning Commission recommended approval. In July the council also heard a regional housing needs assessment from an Aspen analyst.
+- title: 1st Street / Highway 6 'Parachute Moves' reconstruction and grants
+  summary: The town has applied for federal funds (USDOT BUILD, HUD, congressionally directed spending) for the Highway 6 and 1st Street mobility and safety project. It did not get the $6.4 million BUILD grant in 2026 but received a $600,000 DOLA CDBG grant, and plans to try again next year.
+  where: Highway 6 and 1st Street
+  refs:
+  - 2
+  - 3
+  - 4
+  - 6
+  - 7
+  - 9
+  topics:
+  - Roads & traffic
+  - Budget & taxes
+- title: 2027 budget and new revenue ideas
+  summary: Staff presented the 2027 draft budget in a September workshop and a public hearing on the budget is set for Oct. 15. The town needs more money for transit (PATS), wages and streets and is considering options such as a lodging fee, a tobacco tax, or sales tax ballot measures, some of which would need voter approval.
   where: Townwide
   refs:
-  - 8
-  - 11
+  - 1
+  - 9
+  - 10
   topics:
-  - Housing
-  - Zoning & development
-- title: 2026 and 2027 town budget
-  summary: Council held a 2026 budget workshop in late 2025, including an employee benefits package assessment. A 2027 budget kickoff took place in September 2026, and the draft 2027 budget with a 2027-2031 capital improvement plan was presented October 15. Council also discussed sales tax ballot initiative options in February.
+  - Budget & taxes
+  - Fees & rates
+- title: Parachute Area Transit System (PATS) funding
+  summary: The town approved a service agreement with Glenwood Downtowner for transit operations, supported transit grant applications and approved a Flix Bus license agreement for a bus stop. The mayor and town manager planned to discuss PATS funding with the county commissioners on Oct. 5.
+  where: Townwide
+  refs:
+  - 3
+  - 5
+  - 6
+  - 9
+  topics:
+  - Transit
+  - Budget & taxes
+- title: 'Water system: raw water tank, loan refinance and Stage 2 restrictions'
+  summary: Council backed a DOLA grant for the raw water tank replacement and approved an ordinance amending the water enterprise loan with Alpine Bank. Stage 2 water restrictions remained in place into summer, and public works began the Revelle Springs raw water line replacement.
   where: Townwide
   refs:
   - 0
-  - 2
-  - 10
-  - 11
-  topics:
-  - Budget & taxes
-  - Government operations
-- title: Highway 6 and 1st Street "Parachute Moves" reconstruction project
-  summary: Council backed multiple grant applications for the Highway 6 and 1st Street mobility, revitalization, reconstruction and safety project, including a USDOT BUILD grant, congressionally directed spending, and HUD funding. The town was later noted as recipient of a $600,000 CDBG grant for the 1st Street project, and committed local match dollars to a federal grant in October.
-  where: Highway 6 and 1st Street
-  refs:
-  - 3
-  - 4
+  - 5
   - 7
-  - 11
-  topics:
-  - Roads & traffic
-  - Economic development
-  - Downtown & business
-- title: 'Water system: raw water tank, loan refinance and Stage 2 restrictions'
-  summary: Council supported a DOLA grant for the raw water tank replacement and approved a loan amendment on the water enterprise loan with Alpine Bank (Ordinance 833-2026). Stage 2 water restrictions remained in place in May 2026. Council also celebrated the Shoshone instream flow agreement and later considered a resolution on the Glenwood Hot Springs Protection Act with a water consultant report.
-  where: Townwide
-  refs:
-  - 1
-  - 6
-  - 11
   topics:
   - Water
   - Utilities
-  - Fees & rates
-- title: Town purchase of 147 1st Street from Qwest/Lumen
-  summary: Council considered Ordinance 834-2026 approving a contract to buy the property at 147 1st Street from Qwest Corporation. By May 2026 the town reported the purchase had closed and it was town-owned.
+  - Budget & taxes
+- title: Affordable housing expedited review and regional housing needs
+  summary: Ordinance 837-2026 would add expedited review for affordable housing under Prop 123 and update the land use review chart; it is up for a public hearing Oct. 15. Council also heard a regional housing needs assessment in July.
+  where: Townwide
+  refs:
+  - 7
+  - 10
+  topics:
+  - Housing
+  - Zoning & development
+- title: Purchase of 147 1st Street from Qwest/Lumen
+  summary: Council approved a contract to buy the property at 147 1st Street from Qwest Corporation. By May the sale had closed and the town owned it.
   where: 147 1st Street
   refs:
-  - 1
-  - 6
+  - 0
+  - 5
   topics:
   - Land & property
-  - Downtown & business
-- title: Parachute Area Transit System and bus service
-  summary: Council approved a services agreement with Glenwood Downtowner for public transit operations and a license agreement with Flix Bus for a bus stop. It also supported a state transit grant application and a regional transit planning grant in June 2026. Riders can use the ridepats.com app.
+- title: Glenwood Hot Springs Protection Act and South Bridge support
+  summary: Council considered a resolution supporting federal bills S.5101 and H.R. 9826 to protect the Glenwood Hot Springs. Glenwood Springs also asked for a letter of support for its South Bridge project.
+  where: Glenwood Springs
+  refs:
+  - 9
+  - 10
+  topics:
+  - Water
+  - Roads & traffic
+- title: Garfield County Library District ballot issue 6B
+  summary: Council considered a resolution supporting the Garfield County Library District's 6B ballot measure.
+  where: Countywide
+  refs:
+  - 9
+  - 10
+  topics:
+  - Libraries & culture
+  - Elections
+- title: Pet limits ordinance
+  summary: Council amended Ordinance 831-2025 on animal rules to remove household pet limits before approving it. It also updates the warning procedure and the fine for impounded strays.
   where: Townwide
   refs:
   - 4
-  - 6
-  - 7
   topics:
-  - Transit
-- title: Community center and Senior Center future use
-  summary: The Valley Senior Center president asked Council in February to make the Senior Center more of a community center and noted the need for funding. In July 2026 Council reviewed a draft Community Center Management Plan with a rental agreement and liability waiver.
-  where: Parachute Community Center / Valley Senior Center
+  - Government operations
+  - Agriculture & wildlife
+- title: Wildland-urban interface fire code and turf/landscaping rules
+  summary: Council adopted a revised Wildland Urban Interface Fire Code (Ordinance 836-2026). It also took up Ordinance 835-2026 limiting nonfunctional artificial turf and invasive plants in new development.
+  where: Townwide
   refs:
   - 3
-  - 8
-  topics:
-  - Recreation & trails
-  - Health & human services
-  - Government operations
-  public_comment: true
-- title: Wildland Urban Interface fire code and landscaping turf rules
-  summary: Council took up Ordinance 836-2026 revising and adopting the Wildland Urban Interface Fire Code in Title 15. Earlier, Ordinance 835-2026 added restrictions on nonfunctional artificial turf and invasive plant species in development projects.
-  where: Townwide
-  refs:
-  - 4
-  - 6
+  - 5
   topics:
   - Fire & emergencies
   - Zoning & development
   - Environment & climate
-- title: Household pet limits ordinance (831-2025)
-  summary: Council approved Ordinance 831-2025 on animal rules and impound fines, amended to remove any household pet limits.
-  where: Townwide
+- title: Community center and senior center future use
+  summary: The Valley Senior Center president asked council to make the facility more of a community center and spoke of the need for funding. In July council reviewed a draft Parachute Community Center management plan covering pricing, reservations and security.
+  where: Parachute Community Center
   refs:
-  - 5
-  topics:
-  - Policing & public safety
-  - Fees & rates
-- title: 6670 Transmission Line rebuild and Xcel easement
-  summary: Council held a special use review hearing for reconstruction of a public utility transmission line (6670 Transmission Line). In July it also considered a temporary construction easement for Xcel Energy. A solar project expansion of 50 acres at Straight Bottom Ranch was also noted.
-  where: Parachute area
-  refs:
-  - 6
+  - 2
   - 7
-  - 8
   topics:
-  - Utilities
-  - Energy
-  - Land & property
-- title: Fun House Kids special use review at 201 East 1st Street
-  summary: Council scheduled a public hearing on Resolution 2026-39, a special use review for Fun House Kids LLC at 201 East 1st Street.
-  where: 201 East 1st Street
-  refs:
-  - 10
-  topics:
-  - Zoning & development
-  - Downtown & business
+  - Recreation & trails
+  - Libraries & culture
+  public_comment: true

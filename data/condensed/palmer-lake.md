@@ -1,45 +1,10 @@
 # palmer-lake
 
-## [palmer-lake#0] 2026-08-11 | Parks and Trails Commission | minutes
-- Parks and Trails Commission
-- Approval of Minutes
-- Denaje Ferguson moved to approve the minutes. Carolyn Kincade seconded
-- 3. Parks Supervisor Report August 2026
-- 5. Discussion and Recommendation on "No Feeding Wildlife" signs
-- arrive before the next Parks Commission Meeting
-- 6. Discussion and Update on Repair of the Crawford memorial fence
-- The Commission discussed potential community service and Eagle Scout projects, ensuring proper staff
-- oversight, material sourcing, and concurrent organization approvals before work begins. Public Works
-- Glen Park, rather than repairing wooden fences
-- 7. Discussion and Action on Service in the Parks Day
-- The Commission confirmed logistics for an upcoming park service day east of Spring Street bridge, including
-- 8. Discussion and Update on Poison Hemlock Mitigation
-- across Glen Park to naturally suppress invasive hemlock growth
-- 9. Discussion and Action on American Discovery 250 Relay Event
-- 10. Discussion and Action on Parks Project List
-- 11. Discussion on Fountain Creek Watershed Workshop
-- The Commission discussed the Fountain Creek Watershed District's Watershed Discovery Night on Tuesday,
-- 12. Discussion and Recommendation on Columbine Park Plantings
-- The Commission discussed the logistics of planting and watering for any potential Columbine Park plantings
-- It was decided to hold off on plantings until next spring due to water restriction considerations
-- 13. Discussion on Possible Eagle Scout Project
-- Commission did not discuss this item
-- 14. Discussion on Pocket Park
-- The Commission took no action or discussion on this item as it is still pending review with the Board of
-- Centennial Park
-- 15. Discussion and Action on Disc Golf Service Day
-- 16. Discussion and Recommendation on Centennial Park Lake
-- The Commission reviewed a proposal to establish no fishing zones at Centennial Park Lake but concluded that
-- priority do not justify restricting access for licensed anglers. Finding no actionable issue beyond concerns
-- Public Comment
-- No public comment received
-- Commissioner Nilson gave a report on her grant application meetings
-
-## [palmer-lake#1] 2026-08-18 | Parks and Trails Commission | agenda
+## [palmer-lake#0] 2026-08-18 | Parks and Trails Commission | agenda
 - Parks and Trails Commission
 - Watershed 101 Education Session With Fountain Creek Watershed District
 
-## [palmer-lake#2] 2026-08-19 | Planning Commission | minutes
+## [palmer-lake#1] 2026-08-19 | Planning Commission | minutes
 - Approval of Minutes
 - 2. Discussion, Recommendation, and Possible Action Regarding Amendments to Chapter 8 of
 - The Planning Commission discussed introducing a mandatory, town-wide bear-proof container ordinance
@@ -51,7 +16,7 @@
 - Public Comment
 - Nancy Reed - Expressed concern over town communications regarding the recent water restrictions, stating
 
-## [palmer-lake#3] 2026-08-25 | Parks and Trails Commission | agenda
+## [palmer-lake#2] 2026-08-25 | Parks and Trails Commission | agenda
 - Parks and Trails Commission
 - Discussion Items
 - 1. Discussion on Broomball Tournament
@@ -62,7 +27,7 @@
 - 6. Discussion on American 250 Relay
 - 7. Discussion on Centennial Park Pickle Ball Court Flooding
 
-## [palmer-lake#4] 2026-09-01 | Board of Adjustment | agenda
+## [palmer-lake#3] 2026-09-01 | Board of Adjustment | agenda
 - The Board welcomes public comment on Town-related matters. Speakers must sign in, be recognized by
 - respond or take action during public comment. Written comments (one page maximum) may be
 - Approval of Minutes
@@ -72,7 +37,7 @@
 - questions of the applicant. Chair will close the hearing and members will discuss the item,
 - move a decision, and/or continue the hearing to a particular date
 
-## [palmer-lake#6] 2026-09-08 | Parks and Trails Commission | agenda
+## [palmer-lake#5] 2026-09-08 | Parks and Trails Commission | agenda
 - Parks and Trails Commission
 - The Commission welcomes public comment on Town-related matters. Speakers must sign in, be
 - Commission will listen but will not respond or take action during public comment. Written comments
@@ -97,7 +62,7 @@
 - 20. Discussion and Update on dogs in the Pickle Ball Courts
 - Public Comment For Items Not On The Agenda
 
-## [palmer-lake#7] 2026-09-10 | Board of Trustees | agenda
+## [palmer-lake#6] 2026-09-10 | Board of Trustees | agenda
 - The Board welcomes public comment on Town-related matters. Speakers must sign in, be recognized by
 - respond or take action during public comment. Written comments (one page maximum) may be
 - Presentations
@@ -109,14 +74,14 @@
 - 14. Discussion and Possible Action Regarding the Sale of a Town of Palmer Lake Police Vehicle
 - Public Comment For Items Not on the Agenda
 
-## [palmer-lake#8] 2026-09-10 | Board of Trustees | agenda
+## [palmer-lake#7] 2026-09-10 | Board of Trustees | agenda
 - The Board welcomes public comment on Town-related matters. Speakers must sign in, be recognized by
 - respond or take action during public comment. Written comments (one page maximum) may be
 - Convene to Executive Session for unfinished discussion noted above
 - discussions and negotiations with the landowner’s counsel and counsel for Buc-ee's
 - following withdrawal of the request for annexation
 
-## [palmer-lake#9] 2026-09-10 | Board of Trustees | agenda
+## [palmer-lake#8] 2026-09-10 | Board of Trustees | agenda
 - The Board welcomes public comment on Town-related matters. Speakers must sign in, be recognized by
 - respond or take action during public comment. Written comments (one page maximum) may be
 - Presentations
@@ -160,7 +125,7 @@
 - negotiating strategy, and instructing negotiators), and § 24-6-402(4)(b) (conferences with
 - advice and determine the Town's positions and strategy regarding the proposed lease with
 
-## [palmer-lake#10] 2026-09-16 | Planning Commission | agenda
+## [palmer-lake#9] 2026-09-16 | Planning Commission | agenda
 - The Commission welcomes public comment on Town-related matters. Speakers must sign in, be recognized by the Chair, and
 - directed to the Commission as a whole. The Commission will listen but will not respond or take action during public comment
 - Approval of Minutes
@@ -174,7 +139,7 @@
 - 4. Discussion, Consideration, and Possible Action Regarding the Sign Application for Calverts
 - Public Comment for Items not on the Agenda
 
-## [palmer-lake#11] 2026-09-16 | Planning Commission | agenda
+## [palmer-lake#10] 2026-09-16 | Planning Commission | agenda
 - The Commission welcomes public comment on Town-related matters. Speakers must sign in, be recognized by the Chair, and
 - directed to the Commission as a whole. The Commission will listen but will not respond or take action during public comment
 - Approval of Minutes
@@ -210,18 +175,18 @@
 - ownership under different entity names. Lots 1 and 8 are not separated by non-owned lots
 - (3) No public improvements are required
 
-## [palmer-lake#12] 2026-09-19 | Board of Trustees | agenda
+## [palmer-lake#11] 2026-09-19 | Board of Trustees | agenda
 - EcoSpa Annex – 350 Highway 105, Palmer Lake, Colorado
 - may be present and may discuss Town business. No formal action will be taken at this
 
-## [palmer-lake#13] 2026-09-22 | Parks and Trails Commission | agenda
+## [palmer-lake#12] 2026-09-22 | Parks and Trails Commission | agenda
 - Parks and Trails Commission
 - The Commission welcomes public comment on Town-related matters. Speakers must sign in, be
 - Commission will listen but will not respond or take action during public comment. Written comments
 - 1. Discussion and Possible Recommendation on Budget Rankings for Parks and Trails
 - Public Comment For Items Not on the Agenda
 
-## [palmer-lake#14] 2026-09-22 | Parks and Trails Commission | agenda
+## [palmer-lake#13] 2026-09-22 | Parks and Trails Commission | agenda
 - Parks and Trails Commission
 - Discussion on 2027 Parks Budget Requests and Ranking
 - Discussion of Parks and Trails Brochure
@@ -230,10 +195,10 @@
 - Discussion of Town's Holiday Lighting
 - Discussion of Creek Week 2026
 
-## [palmer-lake#15] 2026-09-24 | Board of Trustees | agenda
+## [palmer-lake#14] 2026-09-24 | Board of Trustees | agenda
 - Budget Workshop – Kickoff & Initial Budget Discussion
 
-## [palmer-lake#16] 2026-09-24 | Board of Trustees | agenda
+## [palmer-lake#15] 2026-09-24 | Board of Trustees | agenda
 - The Board welcomes public comment on Town-related matters. Speakers must sign in, be recognized by
 - respond or take action during public comment. Written comments (one page maximum) may be
 - Presentations
@@ -245,7 +210,7 @@
 - Public Comment For Items not on the Agenda
 - conservation easement and donation of approximately 140 platted lots in Lakeview
 
-## [palmer-lake#17] 2026-09-24 | Board of Trustees | agenda
+## [palmer-lake#16] 2026-09-24 | Board of Trustees | agenda
 - The Board welcomes public comment on Town-related matters. Speakers must sign in, be recognized by
 - respond or take action during public comment. Written comments (one page maximum) may be
 - Presentations
@@ -278,10 +243,10 @@
 - 13. Discussion, Review, and Potential Action on Resolution 31 -2026 regarding a Temporary
 - Data Center Moratorium
 
-## [palmer-lake#18] 2026-09-30 | Board of Trustees | agenda
+## [palmer-lake#17] 2026-09-30 | Board of Trustees | agenda
 - Discussion on Town Department Budgets
 
-## [palmer-lake#19] 2026-10-08 | Board of Trustees | minutes
+## [palmer-lake#18] 2026-10-08 | Board of Trustees | minutes
 - Presentations
 - A presentation on Arts Month given by Luke Harper and Angela Seals. After which, the Board of Trustees
 - Michael Beeson moved to Approve the consent agenda. Elizabeth Harris seconded
@@ -312,8 +277,26 @@
 - Trustee Moseley asked if the police department owned any drones. Police Chief Glen Smith confirmed that
 - the police department maintains a drone squad used for tasks such as locating lost children and assisting with
 
-## [palmer-lake#20] 2026-10-12 | Board of Trustees | agenda
+## [palmer-lake#19] 2026-10-12 | Board of Trustees | agenda
 - Joint Workshop with the Board of Trustees and Planning Commission: Discussion and Review
+
+## [palmer-lake#20] 2026-10-13 | Parks and Trails Commission | agenda
+- Parks and Trails Commission
+- The Commission welcomes public comment on Town-related matters. Speakers must sign in, be
+- Commission will listen but will not respond or take action during public comment. Written comments
+- Approval of Minutes
+- 1. Minutes from Parks and Trails Regular Meeting September 9, 2026 & Parks Commission
+- Presentations
+- 2. Awake the Lake Presenting on Ideas for Parks
+- 3. Discussion on Mile High Youth Core Grant Request and Target Projects
+- 4. Discussion on 2026 Playground Inspection report
+- 5. Discussion on 2026 Service in the Parks Days
+- 6. Discussion on American Discovery 250 Relay
+- 7. Discussion on Donations to Parks
+- 8. Discussion on Awake the Lake Proposals
+- Centennial Park
+- 9. Discussion on Holiday Lights Decorations
+- Public Comment for Items not on the Agenda
 
 ## [palmer-lake#21] 2026-10-13 | Parks and Trails Commission | agenda
 - Parks and Trails Commission
@@ -332,38 +315,20 @@
 - Centennial Park
 - 9. Discussion on Holiday Lights Decorations
 - Public Comment for Items not on the Agenda
-
-## [palmer-lake#22] 2026-10-13 | Parks and Trails Commission | agenda
-- Parks and Trails Commission
-- The Commission welcomes public comment on Town-related matters. Speakers must sign in, be
-- Commission will listen but will not respond or take action during public comment. Written comments
-- Approval of Minutes
-- 1. Minutes from Parks and Trails Regular Meeting September 9, 2026 & Parks Commission
-- Presentations
-- 2. Awake the Lake Presenting on Ideas for Parks
-- 3. Discussion on Mile High Youth Core Grant Request and Target Projects
-- 4. Discussion on 2026 Playground Inspection report
-- 5. Discussion on 2026 Service in the Parks Days
-- 6. Discussion on American Discovery 250 Relay
-- 7. Discussion on Donations to Parks
-- 8. Discussion on Awake the Lake Proposals
-- Centennial Park
-- 9. Discussion on Holiday Lights Decorations
-- Public Comment for Items not on the Agenda
 - Lake Parks and Trails
 
-## [palmer-lake#23] 2026-10-21 | Planning Commission | agenda
+## [palmer-lake#22] 2026-10-21 | Planning Commission | agenda
 - The Commission welcomes public comment on Town-related matters. Speakers must sign in, be
 - Commission will listen but will not respond or take action during public comment. Written comments
 
-## [palmer-lake#24] 2026-10-22 | Board of Trustees | agenda
+## [palmer-lake#23] 2026-10-22 | Board of Trustees | agenda
 - The Board welcomes public comment on Town-related matters. Speakers must sign in, be recognized by
 - respond or take action during public comment. Written comments (one page maximum) may be
 - Executive Session pursuant to C.R.S. § 24-6-402(4)(a) to discuss the lease with option of Town
 - advice on the proposed Lease with Option to Purchase; and pursuant to C.R.S. § 24-6
 - develop strategy for negotiations, and instruct negotiators on those agreements
 
-## [palmer-lake#25] 2026-10-22 | Board of Trustees | agenda
+## [palmer-lake#24] 2026-10-22 | Board of Trustees | agenda
 - The Board welcomes public comment on Town-related matters. Speakers must sign in, be recognized by
 - respond or take action during public comment. Written comments (one page maximum) may be
 - board member, a consent agenda item requires discussion, the item can be placed on the
@@ -380,7 +345,7 @@
 - Discussion and Review of the Draft 2027 Budget
 - Public Comment For Items Not on the Agenda
 
-## [palmer-lake#26] 2026-10-22 | Board of Trustees | agenda
+## [palmer-lake#25] 2026-10-22 | Board of Trustees | agenda
 - The Board welcomes public comment on Town-related matters. Speakers must sign in, be recognized by
 - respond or take action during public comment. Written comments (one page maximum) may be
 - board member, a consent agenda item requires discussion, the item can be placed on the
@@ -414,19 +379,137 @@
 - correspondence between Trustees and Town staff. Trustee Beltran requested that the matter be placed on
 - fiscal responsibility regarding legal service costs. Trustee Harris requested a copy of the existing policy
 
-## [palmer-lake#27] 2026-10-27 | Parks and Trails Commission | agenda
+## [palmer-lake#26] 2026-10-27 | Parks and Trails Commission | agenda
 - Parks and Trails Commission
 - 1. Parks & Trails Commission Workshop
 
-## [palmer-lake#28] 2026-10-28 | General | agenda
+## [palmer-lake#27] 2026-10-28 | General | agenda
 - Board of Trustee Budget Workshop
 
-## [palmer-lake#29] 2026-11-03 | Board of Adjustment | agenda
+## [palmer-lake#28] 2026-11-03 | Board of Adjustment | agenda
 - The Board welcomes public comment on Town-related matters. Speakers must sign in, be recognized by
 - respond or take action during public comment. Written comments (one page maximum) may be
 
-## [palmer-lake#30] 2026-11-05 | Board of Trustees | agenda
+## [palmer-lake#29] 2026-11-05 | Board of Trustees | agenda
 - The Board welcomes public comment on Town-related matters. Speakers must sign in, be recognized by
 - respond or take action during public comment. Written comments (one page maximum) may be
 - 1. Discussion and Direction regarding the 2027 Town Budget
 - Public Comment
+
+## [palmer-lake#30] 2026-11-10 | Parks and Trails Commission | agenda
+- Parks and Trails Commission
+- The Commission welcomes public comment on Town-related matters. Speakers must sign in, be
+- Commission will listen but will not respond or take action during public comment. Written comments
+- Approval of Minutes
+- 1. Minutes from Parks and Trails Regular Meeting September 9, 2026, Parks Commission
+- Special Meeting September 22, 2026 & Parks and Trails Regular Meeting October 13, 2026
+- 5. Update and Discussion on Strip Park Project
+- 6. Update and Discussion on Baseball Field Playground Project
+- 7. Discussion on steps installed on the north side of the west entrance to the pedestrian
+- 9. Discussion and Possible Recommendation on a year-end Parks and Trails report
+- 10. Update on online version of the Parks and Trails Commission Project List
+- 11. Update and possible recommendation on the 2027 Mile High Youth Core grant request
+- 12. Discussion and possible recommendation on the citizen proposal for a community garden
+- 13. Discussion on Holiday lights contest
+- Centennial Park
+- 14. Discussion of Centennial Park Pump Track
+- 15. Update on the Eagle Scout Project
+- 16. Update on Glen Park playground landscaping
+- Public Comment for items not on the Agenda
+
+## [palmer-lake#31] 2026-11-10 | Parks and Trails Commission | agenda
+- Parks and Trails Commission
+- The Commission welcomes public comment on Town-related matters. Speakers must sign in, be
+- Commission will listen but will not respond or take action during public comment. Written comments
+- Approval of Minutes
+- 1. Minutes from Parks and Trails Regular Meeting September 9, 2026, Parks Commission
+- Special Meeting September 22, 2026 & Parks and Trails Regular Meeting October 13, 2026
+- 5. Update and Discussion on Strip Park Project
+- 6. Update and Discussion on Baseball Field Playground Project
+- 7. Discussion on steps installed on the north side of the west entrance to the pedestrian
+- 9. Discussion and Possible Recommendation on a year-end Parks and Trails report
+- 10. Update on online version of the Parks and Trails Commission Project List
+- 11. Update and possible recommendation on the 2027 Mile High Youth Core grant request
+- 12. Discussion and possible recommendation on the citizen proposal for a community garden
+- 13. Discussion on Holiday lights contest
+- Centennial Park
+- 14. Discussion of Centennial Park Pump Track
+- 15. Update on the Eagle Scout Project
+- 16. Update on Glen Park playground landscaping
+- Public Comment for items not on the Agenda
+- Kevin Noleen moved to Approve. Mike Pietsch seconded
+- Town Administrator Patrick Davidson introduced himself and had no items to report on specific to Parks and
+- Parks Commission Chair Wiecks gave a brief overview of the Parking Kiosks for the benefit of Town
+- 4. Discussion and Update on Parks and Trails Flyer
+- No discussion beyond adding this item to a future workshop agenda
+- 5. Discussion and Update on Creek Week & Noxious Weeds
+- The Commission discussed the upcoming September 26th Creek Week event with the Fountain Creek
+- Watershed District to involving litter pickup with Master Gardener-led weed mitigation
+- 6. Discussion and Update on Parks and Trails Volunteer Shirts
+- The Commission discussed their surplus of large, XL, and XXL volunteer shirts alongside a shortage of smaller
+- 7. Discussion, Update, and Possible Recommendation on Broomball at Winterfest
+- 8. Discussion and Update on 2027 Budget Ranking
+- To assist Public Works with budget preparation, the parks and trails project list has been prioritized based on
+- funding availability, favoring stable sources like the Conservation Trust Fund over prospective grants. As part
+- of this budget consideration, the Commission proposes partnering with the Air Force Academy on a third
+- student-designed, kiosk-funded bridge to expand trail connectivity. The Parks Commission agreed to discuss
+- 9. Discussion on Elephant Rock
+
+## [palmer-lake#32] 2026-11-12 | Board of Trustees | agenda
+- The Board welcomes public comment on Town-related matters. Speakers must sign in, be recognized by
+- respond or take action during public comment. Written comments (one page maximum) may be
+- board member, a consent agenda item requires discussion, the item can be placed on the
+- regular agenda for discussion and/or action
+- 8. Police Department
+- 9. Fire Department
+- 10. Discussion, Review, and Possible Action Regarding the 2026 Amended Budget and
+- Resolution 45-2026
+- 11. Discussion, Direction and Possible Action Regarding the Proposed Draft 2027 Budget and
+- Resolution 44-2026
+- 12. Discussion and Update Regarding Moseley v. Town of Palmer Lake – Colorado False Claims
+- 13. Discussion and Possible Action Regarding Board of Trustees Policies and Procedures for
+- Requesting and Utilizing Town Attorney Legal Services
+- 14. Discussion, Review, and Possible Approval of the 2026 Financial Statements with MD&A
+- 15. Discussion, Review, and possible Action on the Planning Commission Handbook and
+- Resolution 42-2026
+- 16. Discussion, Review, and possible Action on the Parks & Trails Commission Handbook and
+- Resolution 43-2026
+- Public Comment
+- with subject line of Public Comment (24 hours prior to meeting) and shall be distributed and
+- legal advice on specific legal questions concerning the EcoSpa development and
+
+## [palmer-lake#33] 2026-11-12 | Board of Trustees | agenda
+- The Board welcomes public comment on Town-related matters. Speakers must sign in, be recognized by
+- respond or take action during public comment. Written comments (one page maximum) may be
+- board member, a consent agenda item requires discussion, the item can be placed on the
+- regular agenda for discussion and/or action
+- 8. Police Department
+- 9. Fire Department
+- 10. Discussion, Review, and Possible Action Regarding the 2026 Amended Budget and
+- Resolution 45-2026
+- 11. Discussion, Direction and Possible Action Regarding the Proposed Draft 2027 Budget and
+- Resolution 44-2026
+- 12. Discussion and Update Regarding Moseley v. Town of Palmer Lake – Colorado False Claims
+- 13. Discussion and Possible Action Regarding Board of Trustees Policies and Procedures for
+- Requesting and Utilizing Town Attorney Legal Services
+- 14. Discussion, Review, and Possible Approval of the 2026 Financial Statements with MD&A
+- 15. Discussion, Review, and possible Action on the Planning Commission Handbook and
+- Resolution 42-2026
+- 16. Discussion, Review, and possible Action on the Parks & Trails Commission Handbook and
+- Resolution 43-2026
+- Public Comment
+- with subject line of Public Comment (24 hours prior to meeting) and shall be distributed and
+- legal advice on specific legal questions concerning the EcoSpa development and
+- Executive Session pursuant to C.R.S. § 24-6-402(4)(a) to discuss the lease with option of Town
+- advice on the proposed Lease with Option to Purchase; and pursuant to C.R.S. § 24-6
+- develop strategy for negotiations, and instruct negotiators on those agreements
+- Dennis Stern moved to Amend the Agenda to include business item number 12, Resolution 40-2026. John
+- Question from Trustee Jurka about Trustee Beltran's agenda item request for discussion on Board and
+- Question from Trustee Jurka on the appropriateness of the Town Attorney to engage with a Hearing officer
+- hearing officer at the July 23rd, 2026 meeting. He would not be, however, signing any letter of engagement
+- for the hearing officer, instead deferring to the Town Administrator
+- Trustee Moseley commented that the Board approved the previous Lyons Gaddis check with the provision
+- Roger Moseley moved to Approve the consent agenda with the exception of the Lyons Gaddis and the Buc
+- The Board reviewed procedures for a removal hearing tentatively scheduled for November 16th, with Town
+- judicial role and avoid compromising due process. In a subsequent discussion on legal exposure surrounding
+- that the town's primary strategy to mitigate risk is strict adherence to statutory compliance and established

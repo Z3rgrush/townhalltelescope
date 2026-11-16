@@ -59,7 +59,7 @@ FOR A COMMUNITY RECREATION POOL FACILITY
  
 This AGREEMENT is contingent upon approval of the voters of the City of Cañon City of ballot 
 initiative 2A. Therefore, upon such voter approval, this AGREEMENT shall be effective as of the 
-4th day of November, 2026, by and between the City of Cañon City, a  Colorado home rule 
+4th day of November, 2026, by and between the City of Cañon City, a Colorado home rule 
 municipality (“City”) and the Cañon City Area Metropolitan Recreation and Park District, a Title 
 32 special district (“District”) (the City and District being singularly referred to as “Party” and 
 jointly referred to as “Parties”). 
@@ -73,14 +73,14 @@ improvements, constructed and operated by the District (“Pool Sales and Use Ta
    
 B. The approval of the registered electors only became effective if the registered electors of 
 the District approved the District’s ballot issue authorizing the District to issue debt to finance the 
-costs of constructing and equipping a new community recreati on pool (“Debt Ballot Issue”). The 
+costs of constructing and equipping a new community recreation pool (“Debt Ballot Issue”). The 
 registered electors of the District approved the Debt Ballot Issue at the November 5, 2024 election. 
   
 C. The registered electors of the City also authorized the City to enter into an 
 intergovernmental agreement with the District to transmit the pledged revenues from the City’s 
 collection of the Pool Sales and Use Tax.  
  
-D. This IGA is authorized by Article XIV , Section 18(2)(a) and (b) of the Colorado 
+D. This IGA is authorized by Article XIV, Section 18(2)(a) and (b) of the Colorado 
 Constitution and C.R.S. § 29-1-203, C.R.S., as it will serve a public purpose and will promote the 
 health, safety, security, and general welfare of the inhabitants and visitors of the City and District. 
  
@@ -93,13 +93,13 @@ provided for in this IGA.
  
 F. The Parties understand that if the 2026 Pool Sales and Use Tax question is unsuccessful, 
 the City will notify the Secretary of State to end the collection of the 0.3% Pool Sales and Use Tax 
-effective January 1, 2027. The Parties understand that all remaini ng funds collected between 
+effective January 1, 2027. The Parties understand that all remaining funds collected between 
 January 1, 2025 and December 31, 2026 under the 0.3% Pool Sales and Use Tax measure will be 
 refunded by the City, in a manner to be determined by City Council in accordance with Colorado 
 law.   
  
 G. The Parties agree that no more than $18 million in bonds will be issued to finance 
-construction of a community pool, which shall be the Pool Facility as described herein. See V oter-
+construction of a community pool, which shall be the Pool Facility as described herein. See Voter-
 4
  
  2 
@@ -107,9 +107,9 @@ Approved Ballot Language for District Ballot Issue #6B from the 2024 Election, a
 as Appendix A. 
  
 H. The Parties agree that the goal is to construct and operate  the community Pool Facility 
-similar in scope to the outdoor option included in the 2024 District feasibility  study that included 
+similar in scope to the outdoor option included in the 2024 District feasibility study that included 
 two bodies of water (a recreation pool with Americans with Disabilities Act compliant access and 
-a lap pool) and a slide . See Appendix  B, attached hereto. The Parties envision the Pool Facility 
+a lap pool) and a slide. See Appendix  B, attached hereto. The Parties envision the Pool Facility 
 will open in Spring 2028.   
  
 I. The Parties agree that the goal is to operate the Pool Facility as an extended seasonal pool, 
@@ -118,7 +118,7 @@ taking into account the local climate as well as operations and maintenance cost
 J. The District estimates that, at the commencement of the operations of the planned Pool 
 Facility, the total annual operations expenses will be approximately $470,000 and that an annual 
 subsidy of approximately $240,000 will be needed. Additionally, the District estimates that 
-approximately $100,000 per year is the fiscally appropriate amount t o be placed in the District’s 
+approximately $100,000 per year is the fiscally appropriate amount to be placed in the District’s 
 capital replacement line item to address future capital replacement issues at the Pool Facility as 
 built. The Parties believe that the funds represented by this Agreement will be able to fund both of 
 those amounts; however, to the extent that any shortfall is realized in any year, such shortfall will 
@@ -166,16 +166,16 @@ thereafter until the Pool Facility is fully constructed.
  
  d.  The District shall provide the City Administrator with a copy of its draft annual 
 budget by the Colorado state budget deadline each year. The District shall provide the City 
-Administrator with its approved annual budget by the Colorado state budget deadlin e each year. 
+Administrator with its approved annual budget by the Colorado state budget deadline each year. 
 This budget shall include two separate pool operations and maintenance line items, within the 
 District’s existing Pool Operations Fund, which shall commonly be known as 1) sales and use tax 
-pool operations and maintenance annual subsidy, and 2 ) pool capital maintenance reserve. Any 
+pool operations and maintenance annual subsidy, and 2) pool capital maintenance reserve. Any 
 funds remaining in the sales and use tax pool operations and maintenance annual subsidy line shall 
 be transferred to the pool capital maintenance reserve on an annual basis.   
  
  e. The District’s state-mandated annual audit includes the Pool Operations Fund. This 
 annual audit includes compliance checks to ensure all monies expended from this fund are spent 
-on allowable, pool-related purposes. The District shall provide the City with  a copy of its annual 
+on allowable, pool-related purposes. The District shall provide the City with a copy of its annual 
 audits each year. 
  
  f. The District shall not obligate or expend any additional Pool Sales and Use Tax 
@@ -188,7 +188,7 @@ remain in said fund in reserve to satisfy the bond underwriting obligations. The
 be applied towards offsetting the capital construction costs. Beginning January 1, 2027, the 
 revenue of the 2026 Pool Sales and Use Tax, net of the costs of collection and administration 
 pursuant to paragraph 3(d) below, shall upon receipt of the City be deposited into the community 
-swimming pool tax fund. Such deposit of the net proc eeds of the 2026 Pool Sales and Use Tax 
+swimming pool tax fund. Such deposit of the net proceeds of the 2026 Pool Sales and Use Tax 
 shall be deposited into this fund shall continue until the Expiration Date.  
  
  b. Prior to the issuance of the debt by the District, the City shall collect and retain the 
@@ -196,7 +196,7 @@ shall be deposited into this fund shall continue until the Expiration Date.
 District within the scope of the purpose of the pledged revenues, the City shall distribute the 
 available balance to the District. After the issuance of the debt by the District, the City shall make 
 distributions from the designated fund to the District in the amount of the available balance in the 
-designated fund on a month ly basis, subject to any deductions pursuant to paragraph 3(e). 
+designated fund on a monthly basis, subject to any deductions pursuant to paragraph 3(e). 
 However, if the 2026 Pool Sales and Use Tax Ballot Issue is not approved by the registered electors, 
 6
  
@@ -212,7 +212,7 @@ Tax.
  
 4. Term of IGA.  The term of this IGA shall be from November 4, 2026 to the final distribution 
 of the Pool Sales and Use Tax and/or the 2026 Pool Sales and Use Tax by the City, unless 
-terminated by mutual agreement of the Parties, or upon an Event of Default which the b reaching 
+terminated by mutual agreement of the Parties, or upon an Event of Default which the breaching 
 Party has not cured and the non-breaching Party elects to terminate this Agreement.    
  
 5. Events of Default.  The occurrence or existence of any one or more of the following events 
@@ -231,7 +231,7 @@ terms of this IGA.
 6. Remedies. In the event either Party breaches any of the provisions of this Agreement, the 
 other Party may bring an action for damages or both in addition to any other remedies which may 
 be allowed by law or equity. Prior to bringing such an action, written notice shall be provided 
-allowing the breaching Party thirty (30) days to cure said breach. In addition, the non -breaching 
+allowing the breaching Party thirty (30) days to cure said breach. In addition, the non-breaching 
 Party may withhold further compliance with this agreement on its part until the breach is cured.  
  
 7. Notices. Any formal notice, demand, or request pursuant to this IGA shall be in writing and 
@@ -254,14 +254,14 @@ necessary to implement the provisions of this Agreement.
  
 10. Severability. In the event that any of the terms, covenants, or conditions of this IGA or their 
 application shall be held invalid as to any person, entity, or circumstance by any court having 
-competent jurisdiction, the remainder of this IGA and the application in eff ect of its terms, 
+competent jurisdiction, the remainder of this IGA and the application in effect of its terms, 
 covenants or conditions to such persons, entities, or circumstances shall not be affected thereby. 
  
 11. Waiver. The waiver by either party of any breach by the other of any term, covenant ,or 
 condition contained in this IGA shall not be deemed to be a waiver of any subsequent breach of 
 the same or other term, covenant, or condition. 
  
-12. Entire Agreement . This IGA embodies the complete agreement between the Parties 
+12. Entire Agreement. This IGA embodies the complete agreement between the Parties 
 regarding the subject matter herein and supersedes all prior agreements and understandings, if any. 
 This IGA is intended to supplant any obligations of the Parties contained in the Intergovernmental 
 Agreement entered into between the Parties dated April 7, 2025.  
@@ -321,11 +321,11 @@ Issue #6B Pool Debt Financing
 SHALL CAÑON CITY AREA METROPOLITAN RECREATION AND PARK DISTRICT 
 DEBT BE INCREASED UP TO $24.8 MILLION, WITH A MAXIMUM REPAYMENT COST 
 OF UP TO $44 MILLION, AND SHALL DISTRICT TAXES BE INCREASED UP TO $1.68 
-MILLION ANNUALLY IF NECESSARY , BUT ONLY AFTER THE A PPLICATION OF 
+MILLION ANNUALLY IF NECESSARY, BUT ONLY AFTER THE APPLICATION OF 
 DEDICATED SALES AND USE TAX REVENUES RECEIVED FROM THE CITY OF CAÑON 
 CITY TO REPAY THE DEBT, ALL FOR THE PURPOSE OF FINANCING THE COSTS OF 
 CONSTRUCTING AND EQUIPPING A NEW COMMUNITY RECREATION POOL TO 
-REPLACE THE DISTRICTS PRIOR SWIMMING POOL  WHICH W AS PERMANENTLY 
+REPLACE THE DISTRICTS PRIOR SWIMMING POOL WHICH WAS PERMANENTLY 
 CLOSED, SUCH DEBT TO CONSIST OF THE ISSUANCE AND PAYMENT OF GENERAL 
 OBLIGATION BONDS WHICH SHALL BEAR INTEREST AT A MAXIMUM NET 
 EFFECTIVE INTEREST RATE NOT TO EXCEED 5.5% PER ANNUM AND BE ISSUED AT 
@@ -333,15 +333,15 @@ SUCH TIMES AND PRICES (AT, ABOVE OR BELOW PAR) AND IN SUCH MANNER AND
 CONTAINING SUCH TERMS, NOT INCONSISTENT HEREWITH, AS THE BOARD OF 
 DIRECTORS MAY DETERMINE, PROVIDED THAT ISSUANCE OF DEBT AUTHORIZED 
 BY THIS BALLOT MEASURE SHALL BE CONDITIONED UPON PRIOR VOTER 
-APPROV AL OF A BALLOT MEASURE AUTHORIZING THE CITY OF CAÑON CITY 
-DEDICATED SALES AND USE TAX; SHALL AD V ALOREM PROPERTY TAXES BE 
-LEVIED, IF NECESSARY , WITHOUT LIMIT AS TO THE MILL RATE TO GENERATE 
-AMOUNTS SUFFICIENT IN EACH YEAR TO PAY THE PRINCIPAL OF, PREMIUM IF ANY , 
+APPROVAL OF A BALLOT MEASURE AUTHORIZING THE CITY OF CAÑON CITY 
+DEDICATED SALES AND USE TAX; SHALL AD VALOREM PROPERTY TAXES BE 
+LEVIED, IF NECESSARY, WITHOUT LIMIT AS TO THE MILL RATE TO GENERATE 
+AMOUNTS SUFFICIENT IN EACH YEAR TO PAY THE PRINCIPAL OF, PREMIUM IF ANY, 
 AND INTEREST ON SUCH DEBT BUT ONLY AFTER THE APPLICATION OF DEDICATED 
 SALES AND USE TAX REVENUES RECEIVED FROM THE CITY OF CAÑON CITY; AND 
 SHALL THE DEDICATED REVENUES RECEIVED FROM THE CITY OF CAÑON CITY 
 AND ANY EARNINGS FROM THE INVESTMENT OF SUCH REVENUES AND THE 
-PROCEEDS OF THE BONDS CONSTITUTE A VOTER -APPROVED REVENUE CHANGE 
+PROCEEDS OF THE BONDS CONSTITUTE A VOTER-APPROVED REVENUE CHANGE 
 UNDER ARTICLE X, SECTION 20 OF THE COLORADO CONSTITUTION? 
  
   
@@ -373,14 +373,14 @@ FINANCE THE OPERATIONS OF  SUCH  FACILITIES  TO  THE
 EXTENT THE  FACILITIES ARE  OPERATED  BY  THE  CA ÑON 
 CITY AREA METROPOLITAN RECREATION AND PARK 
 DISTRICT  
-WHEREAS, at the November 5, 2024 election,  the City Council previously referred a 
+WHEREAS, at the November 5, 2024 election, the City Council previously referred a 
 ballot issue to the voters to approve a temporary sales and use tax at the rate of 0.3% to be used 
 solely for the construction of a community recreation pool and related capital improvements 
 ("Temporary Pool Construction Tax");  
 WHEREAS, the registered electors of the City approved the Temporary Pool 
 Construction Tax; 
 WHEREAS, also at the November 5, 2024 election, the Cañon City Metropolitan 
-Recreation and Park District  (the "District") referred two ballot issues to the registered electors 
+Recreation and Park District (the "District") referred two ballot issues to the registered electors 
 of the District to approve debt financing for the construction of the pool and related capital 
 improvements, and a mill levy to fund operations of the pool;  
 WHEREAS, the registered electors of the District approved the debt financing but not 
@@ -389,18 +389,18 @@ WHEREAS, the City's Temporary Pool Construction Tax took effect on January 1,
 2025, and the City has been collecting the tax;  
 WHEREAS, the City and the District have been working together and in conjunction 
 with the public to determine whether to move forward with a modified pool project, an 
-alternative project , or refund the collected, but unspent, Temporary Pool Construction Tax in 
-accordance with the Taxpayer's Bill of Rights , Article X, Section 20 of the Colorado 
+alternative project, or refund the collected, but unspent, Temporary Pool Construction Tax in 
+accordance with the Taxpayer's Bill of Rights, Article X, Section 20 of the Colorado 
 Constitution ("TABOR");  
 WHEREAS, based upon public input and community meetings, the City and the District 
-have decided to propose a smaller community recreation pool  to be located generally on the site 
+have decided to propose a smaller community recreation pool to be located generally on the site 
 of the Icabone pool; and 
 2 
 WHEREAS, in compliance with TABOR, the City Council will refer a ballot issue to the 
 registered electors of the City at the November 3, 2026 election seeking approval to retain the 
 unspent revenue from Temporary Pool Construction Tax and to continue to collect the 
 Temporary Pool Construction Tax at the same rate to fund construction and operations of a 
-smaller community recreation pool and related improvements  located generally on the site of the 
+smaller community recreation pool and related improvements located generally on the site of the 
 Icabone pool. 
 NOW, THEREFORE, IT IS HEREBY RESOLVED BY THE COUNCIL OF 
 CAÑON CITY, as follows: 
@@ -416,7 +416,7 @@ USE TAX TO SUPPORT FINANCING OF THE CONSTRUCTION OF A COMMUNITY
 RECREATION POOL AND RELATED POOL CAPITAL IMPROVEMENTS BY THE 
 CAÑON CITY AREA METROPOLITAN RECREATION AND PARK DISTRICT (THE 
 "RECREATION DISTRICT") BE AMENDED TO PERMIT SUCH TAX TO ALSO BE USED 
-FOR OPERATIONS AND MAINTENANCE OF THE COMMUNITY RECREATION POOL  
+FOR OPERATIONS AND MAINTENANCE OF THE COMMUNITY RECREATION POOL 
 FACILITY AND RELATED POOL CAPITAL IMPROVEMENTS WHICH ARE OPERATED 
 BY THE RECREATION DISTRICT; AS PREVIOUSLY APPROVED SHALL THE SALES 
 AND USE TAX ONLY BE COLLECTED UNTIL DECEMBER 31, 2050; SHALL THE CITY 

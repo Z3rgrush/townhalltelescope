@@ -1,124 +1,11 @@
 # lake-county
 
-## [lake-county#0] 2026-08-04 | County Board of Equalization | agenda
-- 1. County Board of Equalization (CBOE) Hearings
-
-## [lake-county#1] 2026-08-07 | E911 Authority | agenda
-- 3. Approval of Agenda
-- 4. Approval of Previous Meeting Minutes
-- 5. Public Comment
-- Fire Agency Report – Chief Dan Dailey
-- EMS Report – Jeremiah Grantham
-- Police Department Report – Chief Dan Trelka
-- C. Heath Speckman- Discussion and consideration of Central Square Solutions Agreement
-- Discussion and possible action regarding proposed organizational structure changes
-- F. Sara Baird-Resolution No. 2026-XX – Hiring Practices and Professional Standards
-- Discussion and possible action regarding adoption of a resolution supporting standardized
-- hiring practices and professional development
-
-## [lake-county#2] 2026-08-10 | Planning Commission | minutes
-- Approval of Minutes: None
-- Staff Updates: Interview Process – request chair and vice chair, one Board member
-- New Business: Moratorium work session staff presentation and discussion
-- Anne Schneider gave overview of presentation
-- Had to extend to October because of the Willow fire
-- October is implementation – public hearing and adoption
-- Need discussion on additional water supplies for fire
-- Anne - separation for fire
-- Joey – vault toilets? Minimum road requirements?
-- Anne - looking into regulations for contracted septic companies only
-- Needs minimum road standard
-- Hears it needs to be fluid and nimble from economic development partners
-- This use supports resort zoning
-- Water – both build structure and camping
-- Demonstrate adequate parking, waste etc
-- Needs adequate parking
-- This gets reviewed through site plan and CUP
-- Anne – we want feedback on that
-- Special event permit
-- Discussion on campground
-- Keep separate staff not included in the total numbers – Json
-- Still can operate as a semi developed campground but can pivot to support events
-- Kept conditional approval
-- Conforming OWTS public system – permanent water supply
-- Someone will have to bring in presentation
-- Will decide if site allows what the application wants to do
-- They can bring proposal to pc for consideration
-- Housing strategy
-- Conditional approval
-- How many times can a site operate?
-- Anne – one site can operate to host events
-- Multiple uses then PUD which is hybrid zoning
-- Anne – administrative approval up to 500 people
-- Will still have to do admin review – for sanitation and water etc
-- Create space to create supportive housing
-- Site selection criteria: size and density, setbacks, water supply, sanitary waste, emergency planning, building codes and utilities, what is allowable for accessory uses, noise, access, lighting etc
-- Emergency management plan: incident action plan, evacuation, communication, additional emergency resources
-- Conditional Use Permit
-- Have a minor amendment process as well as a major amendment
-- Dave – development? Neutral? Incentivize
-- Anne – not encouraging development in places to protect
-- Future Projects
-- Got the draft of the strategic growth plan from EPS
-- Send draft of strategic growth plan
-- Work around infill for comp plan
-- City has to do amendment
-- DOLA has already reviewed comp plan
-- Smuggler site plan
-- Backcountry site plan
-
-## [lake-county#3] 2026-08-11 | Board of County Commissioners Work Sessions | agenda
-- 2. Overview and direction regarding budget priorities
-
-## [lake-county#4] 2026-08-14 | Fire Management Board | agenda
-- 816 Harrison Avenue 141 County Road 10
-- 1. Minutes: None; Three (3) FMB meeting Minutes to approve in September (April June & Aug)
-- 4. Preliminary Budget Discussion:
-- FIRE OPERATING EXPENDITURESPeriod Actual YTD Actual Revised Budget Unexpended Percent
-- 10-40-1-5011 FIRE BONUS 15,000.00 0.00%
-- 10-40-1-5140 DEFERRED PLAN 35,182.00 38.70%
-- 10-40-1-5165 STATE UNEMPLOYMENT TAX 3,312.00 43.89%
-- 10-40-1-6307 ADMINISTRATIVE FEE 29,400.00 50.00%
-- 10-40-1-6705 FIRE PREVENTION 2,500.00 70.82%
-- 10-40-1-6906 E911 FIRE DEPARTMENT 62,000.00 102.31%
-- REVISED EXPENDITURES WITH COMPARISN TO BUDGET
-- TOTAL FIRE OPERATING
-- TOTAL FIRE OPERATING 200,961.71 2,679,182.00 1,393,994.44
-- FIRE CONTRACT SERVICE EXPENPeriod Actual YTD Actual Revised Budget Unexpended Percent
-- 10-50-1-5034 WILDFIRE DEPLOYMNT 0.00 180,000.00 134,346.56 25.36%
-- 10-50-1-6534 WILDFIRE DEPLOYMENT 80.02 50,000.00 49,851.44 18.17%
-- TOTAL FIRE CONTRACT
-- FIRE TRAINING AND CAPITAL ACQPeriod Actual YTD Actual Revised Budget Unexpended Percent
-- 10-60-1-5165 STATE UNEMPLOYMENT TAX 2.26 22.00 7.31 66.77%
-- 10-60-1-6600 HEADWATERS TRAINING 134.82 25,000.00 24,762.89 0.95%
-- TOTAL FIRE TRAINING AND CAPITAL ACQ 73,765.51 120,552.06 279,553.00 159,000.94 43.12%
-- TOTAL FIRE TRAINING AND CAP A
-- FIRE REVENUES Period Actual YTD Actual Revised Budget Unexpended Percent
-- 10-300-3300 COUNTY FIRE PROTECTION 1,975,427.00 1,819,141.42 31.65%
-- 10-300-3301 DONATIONS TO FIRE 23,000.00 23,000.00 0.00%
-- 10-300-3525 REIMBURSEMENT - GRANTS 0.00 -1,483.65
-- 10-300-4000 TRANSFER FROM FIRE FUND 251,553.00 251,553.00 0.00%
-- TOTAL FIRE REVENUES 3,366,912.00 2,764,920.26 42.14%
-- INTERGOVERNMENTAL AGREEMENT BY AND BETWEEN
-- THIS INTERGOVERNMENTAL AGREEMENT is entered into on this ____ day of
-- WHEREAS, the City is authorized to establish and maintain a fire department and to
-- acquire firefighting equipment pursuant to Colorado Revised Statutes (“C.R.S.”) § 31-15-601(1);
-- WHEREAS, pursuant to such statutory authority, the City has established and operates
-- and maintains a fire department;
-- 10-513, to appropriate money for the purpose of controlling fires in the County and to allow
-- municipal fire departments such compensation and other expenses as the County deems necessary;
-- cooperate and contract with one another to provide any function, service or facility lawfully
-- authorized to each of the cooperating or contracting units
-- the responsibilities of the contracting Parties are as follows:
-- 1.0 PARTIES. The Parties to this agreement (the “Agreement”) are the City of Leadville, a
-- 2.0 PURPOSE. The City and County desire to enter into an agreement to provide for adequate
-
-## [lake-county#5] 2026-08-18 | Lake County Conservation District | agenda
+## [lake-county#0] 2026-08-18 | Lake County Conservation District | agenda
 - Certificates
 - Chaffee/Lake
 - purchase the One-Pass Pasture Aeration Seeder. The additional $2250.00 will be acquired by members
 
-## [lake-county#6] 2026-08-19 | Leadville / Lake County Regional Housing Authority | agenda
+## [lake-county#1] 2026-08-19 | Leadville / Lake County Regional Housing Authority | agenda
 - moderate-income
 - development,
 - Business/Presentations
@@ -129,21 +16,21 @@
 - PreDevelopment
 - Considerations
 
-## [lake-county#7] 2026-08-19 | Animal Shelter Advisory Board | agenda
+## [lake-county#2] 2026-08-19 | Animal Shelter Advisory Board | agenda
 - 1: 00 P.M. Approval of the Minutes from May 21, 2026 and June 17, 2026
 - 1:10 P.M. Animal Shelter Update – Staffing, Hours, Budget
 - 1:50 pm Discussion – Ark Valley partnership
 
-## [lake-county#8] 2026-08-20 | Board of County Commissioners Work Sessions | agenda
+## [lake-county#3] 2026-08-20 | Board of County Commissioners Work Sessions | agenda
 - Willow Fire Debrief and Lessons Learned
 
-## [lake-county#10] 2026-08-24 | Planning Commission | agenda
+## [lake-county#5] 2026-08-24 | Planning Commission | agenda
 - 4. Approval of minutes: July 13, August 10
 - #25-30 – 6663 Smuggler Backcountry Site Plan
 - OCP – EPS and Strategic Growth Element Update
 - Moratorium work session – Staff presentation and discussion
 
-## [lake-county#11] 2026-08-24 | E911 Authority | agenda
+## [lake-county#6] 2026-08-24 | E911 Authority | agenda
 - 3. Approval of Agenda
 - 4. Public Comment
 - A. Dispatch Organizational Structure - Discussion and Possible Action
@@ -161,17 +48,17 @@
 - Possible Board action regarding the CentralSquare agreement
 - This is a special meeting of the Lake County E911 Authority. Action may be taken on items specifically identified above as "Discussion and Possible Action."
 
-## [lake-county#12] 2026-08-25 | Board of County Commissioners Work Sessions | agenda
+## [lake-county#7] 2026-08-25 | Board of County Commissioners Work Sessions | agenda
 - 1. Overview and discussion regarding transportation and safety related issues on state highways in
 - 2. Overview and discussion regarding the Lake County Gateway Mobility Plan
 - a. Led by Anne Schneider, Community Planning and Development Director
 
-## [lake-county#13] 2026-08-26 | Board of Health | agenda
+## [lake-county#8] 2026-08-26 | Board of Health | agenda
 - 1. Public Health Improvement Plan
 - 2. Onsite Wastewater Treatment Systems (OWTS)
 - a. Led by Torsten Smith, Community Planning + Development’s OWTS Environmental Health
 
-## [lake-county#14] 2026-09-04 | E911 Authority | agenda
+## [lake-county#9] 2026-09-04 | E911 Authority | agenda
 - Approval of Agenda
 - Action Requested: Motion to approve the agenda as presented or amended
 - Approval of Previous Meeting Minutes
@@ -202,11 +89,11 @@
 - Public Comment
 - Public comment will be received in accordance with applicable Board procedures
 
-## [lake-county#15] 2026-09-08 | Board of County Commissioners Work Sessions | agenda
+## [lake-county#10] 2026-09-08 | Board of County Commissioners Work Sessions | agenda
 - 1. Overview and discussion regarding Lake County’s exploration of alternative work week schedules
 - 2. Overview and discussion regarding options for an offsite E911 dispatch office
 
-## [lake-county#16] 2026-09-09 | E911 Authority | agenda
+## [lake-county#11] 2026-09-09 | E911 Authority | agenda
 - 3. APPROVAL OF AGENDA
 - A. 2027 E911 Authority Budget – Discussion and Possible Action
 - Review of revised proposed 2027 E911 Authority Budget
@@ -219,10 +106,10 @@
 - Possible action to approve and authorize submission of the ETC application
 - The application identifies the current dispatch facility, NG911 GIS capability, radio recording/AIS, EMD costs, and financial sustainability as the primary reasons for requesting an ETC increase
 
-## [lake-county#18] 2026-09-14 | Leadville / Lake County Regional Housing Authority | agenda
+## [lake-county#13] 2026-09-14 | Leadville / Lake County Regional Housing Authority | agenda
 - presentation
 
-## [lake-county#19] 2026-09-15 | Board of County Commissioners Regular and Special Meetings | agenda
+## [lake-county#14] 2026-09-15 | Board of County Commissioners Regular and Special Meetings | agenda
 - Board of County Commissioners’ Hearing Room
 - APPROVAL OF AGENDA
 - PUBLIC COMMENT
@@ -249,14 +136,14 @@
 - the team is formalized and LCSD can meet grant requirements. The MOU also formalizes the data
 - This is a budgeted request
 
-## [lake-county#20] 2026-09-15 | Board of County Commissioners Work Sessions | agenda
+## [lake-county#15] 2026-09-15 | Board of County Commissioners Work Sessions | agenda
 - Board of County Commissioners’ Hearing Room
 - 2. Review of budget processes, procedures, and statutory requirements
 
-## [lake-county#21] 2026-09-15 | Lake County Conservation District | agenda
+## [lake-county#16] 2026-09-15 | Lake County Conservation District | agenda
 - Certificates
 
-## [lake-county#22] 2026-09-16 | Leadville / Lake County Regional Housing Authority | agenda
+## [lake-county#17] 2026-09-16 | Leadville / Lake County Regional Housing Authority | agenda
 - moderate-income
 - development,
 - Business/Presentations
@@ -265,20 +152,20 @@
 - presentation
 - Certification
 
-## [lake-county#23] 2026-09-16 | Animal Shelter Advisory Board | agenda
+## [lake-county#18] 2026-09-16 | Animal Shelter Advisory Board | agenda
 - 1: 00 pm Approval of the Minutes from August 19, 2026
 - 1:15 pm 2027 Budget discussion
 - 1:30 pm IGA modification discussion
 
-## [lake-county#24] 2026-09-21 | Board of County Commissioners Work Sessions | agenda
+## [lake-county#19] 2026-09-21 | Board of County Commissioners Work Sessions | agenda
 - 1. Lake County Elected Official’s 2027 Preliminary Budget Presentations
 
-## [lake-county#25] 2026-09-22 | Board of County Commissioners Work Sessions | agenda
+## [lake-county#20] 2026-09-22 | Board of County Commissioners Work Sessions | agenda
 - 1. Overview and discussion regarding Capital Requests and the Certificate of Participation (COP)
 - 2. Overview and updates from the Colorado Small Business Development Center (SBDC)
 - 3. Overview and presentation of the Lake County 2027 Preliminary Budget draft by department
 
-## [lake-county#26] 2026-09-22 | Board of County Commissioners Work Sessions | agenda
+## [lake-county#21] 2026-09-22 | Board of County Commissioners Work Sessions | agenda
 - 4. Approval of the Agenda
 - 6:05 pm 5. Work Session Regarding the 2027 Budget
 - A. Administration Department Budget
@@ -286,7 +173,7 @@
 - C. Animal Shelter Budget
 - D. Fire Department Budget
 
-## [lake-county#27] 2026-09-28 | Planning Commission | minutes
+## [lake-county#22] 2026-09-28 | Planning Commission | minutes
 - Public Hearing
 - Approval of Minutes: Waiting till next meeting for approval of August 24th minutes
 - Anne presentation
@@ -325,7 +212,7 @@
 - Future Code Amendments
 - Bring in info from the Housing Needs Assessment (HNA) and the comp plan
 
-## [lake-county#28] 2026-10-02 | E911 Authority | agenda
+## [lake-county#23] 2026-10-02 | E911 Authority | agenda
 - 3. DISCUSSION/CHANGES OF AGENDA
 - 4. DISCUSSION/APPROVAL OF PREVIOUS MEETING MINUTES
 - A. 2027 Budget and Financial Reconciliation Update
@@ -346,7 +233,7 @@
 - B. Training and Professional Development
 - 9. PUBLIC COMMENT
 
-## [lake-county#29] 2026-10-06 | Board of County Commissioners Regular and Special Meetings | agenda
+## [lake-county#24] 2026-10-06 | Board of County Commissioners Regular and Special Meetings | agenda
 - Board of County Commissioners’ Hearing Room
 - APPROVAL OF AGENDA
 - PUBLIC COMMENT
@@ -382,7 +269,7 @@
 - The commitment was formalized through an Intergovernmental Agreement between Lake County and
 - cumulative 9 percent increase in the community’s affordable housing inventory through a combination
 
-## [lake-county#31] 2026-10-12 | Planning Commission | minutes
+## [lake-county#26] 2026-10-12 | Planning Commission | minutes
 - Public Hearing
 - Approval of Minutes:
 - Minutes from September 28th approved
@@ -441,25 +328,25 @@
 - Option for a well if there was water available to site
 - Katherine VanderVeen - if the location qualified as having rural lodging and campgrounds, then two separate special use permits?
 
-## [lake-county#32] 2026-10-13 | Board of County Commissioners Regular and Special Meetings | agenda
+## [lake-county#27] 2026-10-13 | Board of County Commissioners Regular and Special Meetings | agenda
 - 1. Discussion and consideration of the Infants at Work Policy
 - 2. Presentation and BOCC acknowledgment of Lake County Government’s proposed 2027
 - Preliminary Budget
 
-## [lake-county#33] 2026-10-13 | Board of County Commissioners Work Sessions | agenda
+## [lake-county#28] 2026-10-13 | Board of County Commissioners Work Sessions | agenda
 - Board of County Commissioners’ Hearing Room
 - 1. Overview and updates from 2026 Community Contribution Award recipients on the use and
 - impact of awarded funds
 - 3. Direction on County Representation at Counties & Commissioners Acting Together (CCAT)
 
-## [lake-county#34] 2026-10-14 | Board of Health | agenda
+## [lake-county#29] 2026-10-14 | Board of Health | agenda
 - a. Led by Katie Waters, Colorado Department of Public Health & Environment
 - 2. Overview and discussion regarding the Expanding Cottage Food Law
 - 3. Overview and updates regarding the Local Tobacco Ordinance
 - 4. Overview and discussion regarding proposed amendments to the On-Site Wastewater Treatment
 - a. Led by Community Planning + Development
 
-## [lake-county#35] 2026-10-15 | Fire Management Board | agenda
+## [lake-county#30] 2026-10-15 | Fire Management Board | agenda
 - 816 Harrison Avenue 141 County Road 10
 - Fire Management Board Meeting
 - INTERGOVERNMENTAL AGREEMENT BY AND BETWEEN
@@ -492,7 +379,7 @@
 - are an essential part of providing fire protection in the incorporated and unincorporated
 - areas of Lake County, the Fire Department shall also provide adequate fire protection
 
-## [lake-county#36] 2026-10-20 | Board of County Commissioners Regular and Special Meetings | agenda
+## [lake-county#31] 2026-10-20 | Board of County Commissioners Regular and Special Meetings | agenda
 - Board of County Commissioners’ Hearing Room
 - APPROVAL OF AGENDA
 - PUBLIC COMMENT
@@ -530,7 +417,7 @@
 - with approval at the sta; level. That practice creates legal risk. When the County opens property
 - may protest, demonstrate, or hold signs there without a permit, subject only to keeping
 
-## [lake-county#37] 2026-10-20 | Lake County Conservation District | agenda
+## [lake-county#32] 2026-10-20 | Lake County Conservation District | agenda
 - representation
 - Certificates
 - applications
@@ -563,12 +450,12 @@
 - ARWC America the Beautiful $4,078.51 ($ 9,189.67) ($ 900.00)
 - Chaffee County Weed Program ($ 3,219.88) ($ - ) ($ - )
 
-## [lake-county#38] 2026-10-21 | Animal Shelter Advisory Board | agenda
+## [lake-county#33] 2026-10-21 | Animal Shelter Advisory Board | agenda
 - 1: 00 pm Approval of the Minutes from September 16, 2026
 - 1:15 pm 2027 Budget check in
 - 1:30 pm IGA modification discussion – items to address and next steps
 
-## [lake-county#39] 2026-10-21 | Leadville / Lake County Regional Housing Authority | agenda
+## [lake-county#34] 2026-10-21 | Leadville / Lake County Regional Housing Authority | agenda
 - moderate-income
 - development,
 - Business/Presentations
@@ -580,15 +467,15 @@
 - Considerations
 - PreDevelopment
 
-## [lake-county#40] 2026-10-26 | Planning Commission | agenda
+## [lake-county#35] 2026-10-26 | Planning Commission | agenda
 - 4. Approval of minutes: October 12, 2026
 
-## [lake-county#41] 2026-10-27 | Board of County Commissioners Work Sessions | agenda
+## [lake-county#36] 2026-10-27 | Board of County Commissioners Work Sessions | agenda
 - 1. Overview and discussion regarding Dutch Henry
 - 1. Overview and discussion regarding certain legislative conversations from Counties &
 - 2. Overview and presentation of the 2025 Lake County Audited Financial Statements
 
-## [lake-county#42] 2026-10-27 | Board of County Commissioners Work Sessions | agenda
+## [lake-county#37] 2026-10-27 | Board of County Commissioners Work Sessions | agenda
 - Discussion Regarding Operational E4iciencies, Shared Services, and Intergovernmental Collaboration
 - between Lake County and the City of Leadville. This joint work session will provide an opportunity to discuss emerging
 - Discussion Points
@@ -596,3 +483,98 @@
 - l Discuss opportunities for coordinated legislative advocacy
 - l Discuss the formation of a joint County-City task force to evaluate shared services and operational e;iciencies
 - l Identify initial priorities and next steps for continued collaboration
+
+## [lake-county#38] 2026-11-04 | Board of County Commissioners Regular and Special Meetings | agenda
+- Board of County Commissioners’ Hearing Room
+- APPROVAL OF AGENDA
+- PUBLIC COMMENT
+- Public comment is available for residents wishing to speak on an agenda item or another issue not on the
+- agenda. To make public comment, residents may request to speak by:
+- comment will not be taken into consideration, such as on public hearing items, noted on the
+- 1. Discussion and consideration of Resolution 2026-37, A Resolution Renaming the Lake County
+- Skate Park as the “Donny Llama Skate Park” in honor of Donny Llama
+- 2. Discussion and consideration of Resolution 2026-38, A Resolution Adopting Written Findings of
+- Fact and Conditionally Approving the Rezoning of the Hayden Ranch Property, 5801 S. Highway
+- 24, From Rural (RUR) to Planned Unit Development (PUD). *Public comment will not be taken into
+- consideration as this public hearing has already been held
+- a. Led by Melissa Kendrick, Community Planning and Development (CPD) Deputy Director
+- 3. Discussion and consideration of a Memorandum of Understanding (MOU) by and between the
+- 4. Discussion and consideration of acceptance of the resignation of Alexander Krieg as Lake County
+- 5. Discussion and consideration of Resolution 2026-39, A Resolution Appointing Jeffery Edmonds as
+- matters that may be subject to negotiations, developing strategy for negotiations, and
+- relative to matters that may be subject to negotiations, developing strategy for
+- negotiations, and instructing negotiators, and for discussion of personnel matters, all
+- concerning the performance reviews and employment agreements of the County Manager
+- 1. Ratification of a Land Use Agreement Extension with United Companies
+- 2. Ratification of a participation form regarding the New National Opioid Settlement with
+- 3. Ratification of a No-Cost Space Agreement for the U.S. Small Business Administration to
+- temporarily utilize space at the Lake County Library to assist with disaster loan applications
+- 4. Ratification of a Laboratory Services Agreement with Lake County Department of Human Services
+- 5. Approval of a fourth amendment to the Professional Services Agreement (PSA) between Lake
+- 6. Approval of a Hotel & Restaurant / Optional Premise (County) Liquor License renewal for Cooper
+- 7. Approval of the October Veterans Service Officer Report
+- 8. Approval of Payroll from:
+- 9. Approval of Accounts Payable packets from:
+- Subject Resolution Renaming the Skate Park in Honor of Donny Llama
+- This is request was generated by Commissioner Andy Lee. The Board is asked to consider a
+- resolution renaming the County-owned skate park in Leadville, currently designated the “Huck
+
+## [lake-county#39] 2026-11-06 | E911 Authority | agenda
+- 3. APPROVAL OF AGENDA
+-  Consideration of additions, deletions, or changes
+-  Approval of agenda
+- 4. APPROVAL OF PREVIOUS MEETING MINUTES
+-  Consideration of corrections
+-  Approval of minutes
+- A. 2027 Budget and Fund Balance
+-  Review of final 2027 budget
+-  Possible Action: Resolution 2026-03 – Adoption of the 2027 Budget and
+-  Continued review and discussion
+-  Possible Action: Approval of Radio Etiquette Guidance
+-  Discussion of current financial and administrative matters
+-  Consideration of Board direction or action, if necessary
+- B. Training and Professional Development
+-  Staff training and professional development
+-  EMD QA/QI development
+-  Project timeline and upcoming milestones
+-  Project and funding status
+- 9. PUBLIC COMMENT
+-  Outstanding budget and PUC matters
+-  Board-requested items
+
+## [lake-county#40] 2026-11-09 | Planning Commission | agenda
+- 4. Approval of minutes: August 24, 2026
+- #26-37 – Leadville Offroad Adventures CUP
+- #26- 15 – Leadville + Lake County Joint Comprehensive Plan
+
+## [lake-county#41] 2026-11-13 | Fire Management Board | agenda
+- 816 Harrison Avenue 141 County Road 10
+- Fire Management Board Meeting
+- 1. Approval of Minutes: September 25th and October 15th, 2026 FMB Meeting Minutes
+- 3. Strategic Plan Discussion:
+- Final IGA Approved by City Council and BOCC 10/20/2026
+- Fire Management Board Meeting Draft Minutes
+- 1. Union President Presentation: Captain Bo Knickman, Union President, a line staff captain and
+- Wildland Coordinator, briefed the Fire Management Board to provide a "boots on the ground"
+- and the non-monetary value built over years. Despite strong pride and positive external feedback,
+- disparity in Lake County, where firefighters earn approximately 25% less than law enforcement, a
+- gap not seen elsewhere in the state where the average is 95%. This makes employees feel
+- firefighter pay to 90% of the sheriff deputy's pay. This is considered a reasonable compromise to
+- binding guideline and can be renegotiated in future 1-2 year union contracts. Merit-Based
+- prevent automatic raises for underperforming staff. Implementation Options: To provide budget
+- It costs approximately $30,000 to train a new firefighter, and a past loss of staff led to a notable
+- few hundred for a “bump up”. Wildfire Revenue: Gross revenue from wildland deployments,
+- which helps fund apparatus, has increased from $50-150k annually to a projected $700,000 this
+- years for a firefighter to be ready to act as an engineer and 5 years for an officer or engine boss. A
+- figure that significantly improves (23%) with the proposed plan. Public Safety: Inexperience can
+- impact service quality and has placed young firefighters in high-stakes situations, causing
+- we go to a residential structure fire in Eagle County, we get three engines, a ladder truck, a
+- that, it's truly vital. So great presentation, thanks, Bo. Knickman wrapped up his presentation
+- Yeah, it's really illuminating, and we often just get a request for an increase with no explanation
+- I'm sure there's justification in every department, but not like this. Highway 91 Safety: Concerns
+- guardrails, chevron signs, and targeted speed enforcement were discussed. Chief Dailey met with
+- CDOT to discuss these issues. Bullock: this year's increase is roughly eight percent; do you have a
+- projection on the next year and the year after that? A percentage increase? Chief Dailey: I don't,
+- budget in order to be able to have this retention so it depends on analyzing at the Fourth quarter,
+- not overextending or overbudgeting. I'm being visibly responsible. There's been a significant
+- increase, but that's everywhere in every organization because we've had taxation to be able to do

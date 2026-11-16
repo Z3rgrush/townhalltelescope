@@ -1,12 +1,6 @@
 # new-castle
 
-## [new-castle#0] 2026-08-12 | Planning and Zoning Commission | agenda
-- 450 W Main Street
-
-## [new-castle#1] 2026-08-17 | Historic Preservation Commission  | agenda
-- 450 W Main Street
-
-## [new-castle#2] 2026-08-18 | Town Council | minutes
+## [new-castle#0] 2026-08-18 | Town Council | minutes
 - Resolution TC 2026-1
 - Items for Consideration
 - Update - Police Department - Chief Curry
@@ -14,7 +8,7 @@
 - the last discussion he has attended one SPEAR meeting with the other chiefs and there is
 - another one on Thursday. At the meeting there was discussion about adding more
 
-## [new-castle#3] 2026-08-20 | Town Council | agenda
+## [new-castle#1] 2026-08-20 | Town Council | agenda
 - 450 W Main Street
 - Items for Consideration
 - A. Discussion of Community Market Recycle/Compost update
@@ -23,7 +17,7 @@
 - D. Consider October Fall Clean-up
 - E. Approval of July 16, 2026 Minutes
 
-## [new-castle#4] 2026-08-20 | Town Council | agenda
+## [new-castle#2] 2026-08-20 | Town Council | agenda
 - 450 W Main Street
 - Items for Consideration
 - A. Discussion of Community Market Recycle/Compost update
@@ -52,15 +46,15 @@
 - Motion: Commissioner Bakich moved to approve the minutes with the noted changes. Commissioner Benson
 - Chair Morris suggested a work session to discuss the goals of the mural project
 
-## [new-castle#5] 2026-08-26 | Planning and Zoning Commission | agenda
+## [new-castle#3] 2026-08-26 | Planning and Zoning Commission | agenda
 - 450 W Main Street
 - New Castle Planning and Zoning August 26, 2026 Cancelled
 
-## [new-castle#6] 2026-09-01 | General | agenda
+## [new-castle#4] 2026-09-01 | General | agenda
 - 450 W Main Street
 - B. Update – Police Department
 
-## [new-castle#7] 2026-09-01 | General | agenda
+## [new-castle#5] 2026-09-01 | General | agenda
 - 450 W Main Street
 - B. Update – Police Department
 - Re: Workshop Item: Building and Planning and Police Department Updates
@@ -100,25 +94,25 @@
 - professional development while minimizing the financial impact on the Town
 - Throughout 2026, the New Castle Police Department has continued its commitment to
 
-## [new-castle#8] 2026-09-01 | Town Council | minutes
+## [new-castle#6] 2026-09-01 | Town Council | minutes
 - Resolution TC 2026-1
 - Items for Consideration
 
-## [new-castle#9] 2026-09-09 | Planning and Zoning Commission | agenda
+## [new-castle#7] 2026-09-09 | Planning and Zoning Commission | agenda
 - 450 W Main Street
 - New Castle Planning and Zoning Commission Cancelled September 9,
 
-## [new-castle#10] 2026-09-15 | General | agenda
+## [new-castle#8] 2026-09-15 | General | agenda
 - 450 W Main Street
 - C. Discussion – Glenwood Hot Springs Protection Act
 
-## [new-castle#11] 2026-09-15 | Town Council | minutes
+## [new-castle#9] 2026-09-15 | Town Council | minutes
 - Resolution TC 2026-1
 - Canyon Senior Housing. She asked about the ordinances which the town may have
 - aggressive. Ms. McMillian said the residents at the senior housing are concerned about the
 - Reynolds said council can discussion the issue at an upcoming work session
 
-## [new-castle#12] 2026-09-17 | Town Council | agenda
+## [new-castle#10] 2026-09-17 | Town Council | agenda
 - 450 W Main Street
 - Items for Consideration
 - A. Consider the Community Market Plastic Reduction
@@ -126,7 +120,7 @@
 - D. Consider Work Session to Discuss 2027 Initiatives
 - E. Approval of August 20, 2026 Minutes
 
-## [new-castle#13] 2026-09-17 | Town Council | agenda
+## [new-castle#11] 2026-09-17 | Town Council | agenda
 - 450 W Main Street
 - Items for Consideration
 - A. Consider the Community Market Plastic Reduction
@@ -142,42 +136,42 @@
 - Consider actions we can take to decrease waste at other community events
 - Approval of July 16, 2026 minutes
 
-## [new-castle#14] 2026-09-23 | Planning and Zoning Commission | agenda
+## [new-castle#12] 2026-09-23 | Planning and Zoning Commission | agenda
 - 450 W Main Street
 
-## [new-castle#15] 2026-10-14 | Planning and Zoning Commission | agenda
+## [new-castle#13] 2026-10-14 | Planning and Zoning Commission | agenda
 - 450 W Main Street
 - New Castle Planning and Zoning Commissiosn October 14, 2026
 
-## [new-castle#16] 2026-10-15 | Climate and Environment Commission | agenda
+## [new-castle#14] 2026-10-15 | Climate and Environment Commission | agenda
 - 450 W Main Street
 - Items for Consideration
 - A. Discussion of the Trash Clean-up on October 10, 2026
 - B. Consider the November Dates for 3 Hour Worksession
 - C. 2026 Budget and Bag Fee Update
 
-## [new-castle#17] 2026-10-15 | Climate and Environment Commission | agenda
+## [new-castle#15] 2026-10-15 | Climate and Environment Commission | agenda
 - 450 W Main Street
 - Items for Consideration
 - A. Discussion of the Trash Clean-up on October 10, 2026
 - B. Consider the November Dates for 3 Hour Worksession
 - C. 2026 Budget and Bag Fee Update
 
-## [new-castle#18] 2026-10-19 | Historic Preservation Commission  | agenda
+## [new-castle#16] 2026-10-19 | Historic Preservation Commission  | agenda
 - 450 W Main Street
 
-## [new-castle#19] 2026-10-20 | General | agenda
+## [new-castle#17] 2026-10-20 | General | agenda
 - 450 W Main Street
 - A. 2026 Budget
 
-## [new-castle#20] 2026-10-20 | General | agenda
+## [new-castle#18] 2026-10-20 | General | agenda
 - 450 W Main Street
 - A. 2026 Budget
 - landfill fees, Mountain Waste is working to gather data that will drive our 2027 trash and recycle fees
 - Mountain Waste would like to take a few minutes to discuss the upcoming changes and will return in
 - 450 W. Main Street
 
-## [new-castle#21] 2026-10-26 | Historic Preservation Commission  | agenda
+## [new-castle#19] 2026-10-26 | Historic Preservation Commission  | agenda
 - 450 W Main Street
 - Items for Consideration
 - A. Discussion of Videography Project
@@ -186,7 +180,7 @@
 - C. Consider Survey Grant Updates
 - D. Approval of CLG Audit
 
-## [new-castle#22] 2026-10-26 | Historic Preservation Commission  | agenda
+## [new-castle#20] 2026-10-26 | Historic Preservation Commission  | agenda
 - 450 W Main Street
 - Items for Consideration
 - A. Discussion of Videography Project
@@ -231,15 +225,15 @@
 - C. Approval of February 23, 2026, Minutes
 - D. Update of Videography Project
 
-## [new-castle#23] 2026-10-28 | Planning and Zoning Commission | agenda
+## [new-castle#21] 2026-10-28 | Planning and Zoning Commission | agenda
 - 450 W Main Street
 
-## [new-castle#24] 2026-11-03 | General | agenda
+## [new-castle#22] 2026-11-03 | General | agenda
 - 450 W Main Street
 - A. 2027 Budget
 - B. Discussion – Council Retreat Debrief
 
-## [new-castle#25] 2026-11-03 | Town Council | agenda
+## [new-castle#23] 2026-11-03 | Town Council | agenda
 - 450 W Main Street
 - Items for Consideration
 - A. 2025 Audit Presentation - John Cutler & Associates
@@ -253,3 +247,44 @@
 - of these items unless a council member or citizen requests it, in
 - F. Approval of Month Bills - $1,417,374.03
 - Planning & Zoning Commission
+
+## [new-castle#24] 2026-11-11 | Planning and Zoning Commission | agenda
+- 450 W Main Street
+
+## [new-castle#25] 2026-11-12 | General | agenda
+- 450 W Main Street
+- A. Discussion of 2026 CEC Highlights and Successes
+- B. Discussion of CEC Plans for 2027
+- C. Discussion of Pollinator Resources
+- D. Discussion of CEC Structure, Mission and Goals
+
+## [new-castle#26] 2026-11-16 | Historic Preservation Commission  | agenda
+- 450 W Main Street
+- Items for Consideration
+- A. Discussion of Gift Card for Joseph Gamble
+- B. Discussion of Properties to Seek for Grant Request
+
+## [new-castle#27] 2026-11-16 | Historic Preservation Commission  | agenda
+- 450 W Main Street
+- Items for Consideration
+- A. Discussion of Gift Card for Joseph Gamble
+- B. Discussion of Properties to Seek for Grant Request
+- Commissioner Richard Parks
+- accordance with Resolution TC 2026-1
+- Discussion of Videography Project
+- Chair Riddile said the project was going well. Chair Riddile said Charles and Angela Ryden
+- Chair Riddile asked if the projects were on the website. Professional Assistant Huster said
+- Consider Purchasing a Gift Card for Joseph Gamble at CMC
+- the videography project. Commissioner Ruth Fletcher suggested purchasing a gift card for
+- MOTION: Chair Riddile made a motion to purchase a gift card for Joesph Gamble
+- Consider applying for Grants to Survey of Historical Properties from Sandborn
+- properties deemed eligible by historic maps of New Castle and Sandborn Fire Insurance
+- work session before November 16, 2026, meeting. Commissioner Fletcher said the grant
+- before applying for the grant
+- Consider Draft of the CLG (Certified Local Government) Audit
+- MOTION: Commissioner Ruth Fletcher made a motion to approve the CLG Audit
+- Chair Riddile said the HPC Commission was doing projects outside of the bylaws. Chair
+- Riddile said the bylaws state the commission’s role is to approve applicants for historical
+- designation. Chair Riddile said the commission would consider discussing the projects and
+- Consider Approval of September 21, 2026, Minutes
+- MOTION: Commissioner Richard Fletcher made a motion to approve September

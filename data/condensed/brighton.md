@@ -1,18 +1,6 @@
 # brighton
 
-## [brighton#0] 2026-08-11 | City Council | agenda
-- Act. Any request for an interpreter must be made by 9:00 a.m. on
-- Land Use Scenarios for City-Owned Property on Bridge StreetID-240-266:30
-- Staff PowerPoint PresentationAttachments:
-- Comprehensive Plan Draft UpdateID-243-266:45
-- Comprehensive Plan 80% Draft
-- Staff PowerPoint Presentation
-- Consideration of Land Use and Development Code for Articles 1 and 11ID-242-267:45
-- Draft PowerPoint Presentation
-- Land Use and Development Code Article 10 AmendmentsID-241-268:15
-- LUDC Article 10 Amendments- SS Presentation_Final
-
-## [brighton#1] 2026-08-18 | City Council | agenda
+## [brighton#0] 2026-08-18 | City Council | agenda
 - Act. Any request for an interpreter must be made by 9:00 a.m. on
 - Approval of the July 21, 2026 City Council MinutesID-234-26A
 - A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF BRIGHTON,
@@ -37,7 +25,7 @@
 - 8. ORDINANCES FOR FINAL CONSIDERATION
 - 9. RESOLUTIONS
 
-## [brighton#2] 2026-08-18 | South Brighton General Improvement District | agenda
+## [brighton#1] 2026-08-18 | South Brighton General Improvement District | agenda
 - South Brighton General Improvement District
 - Any request for an interpreter must be made by 9:00 a.m. on the
 - 2. APPROVAL OF REGULAR AGENDA
@@ -47,7 +35,7 @@
 - A RESOLUTION OF THE SOUTH BRIGHTON GENERAL
 - IMPROVEMENT DISTRICT TO CERTIFY THE BALLOT CONTENT FOR
 
-## [brighton#3] 2026-08-25 | City Council | agenda
+## [brighton#2] 2026-08-25 | City Council | agenda
 - Act. Any request for an interpreter must be made by 9:00 a.m. on
 - Study Session - Amended
 - Proposed 2027 and 2028 BudgetsID-248-26
@@ -57,7 +45,7 @@
 - Q2 2026 Financial Update Presentation
 - Q2 2026 Financial Update Presentation - Corrected
 
-## [brighton#4] 2026-09-01 | City Council | agenda
+## [brighton#3] 2026-09-01 | City Council | agenda
 - Civil Rights Act. Any request for an interpreter must be made
 - Approval of the August 4, 2026 City Council MinutesID-251-26A
 - A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF
@@ -83,7 +71,7 @@
 - PRIVATE ACTIVITY BOND ALLOCATION OF THE CITY PURSUANT
 - TO THE COLORADO PRIVATE ACTIVITY BOND CEILING
 
-## [brighton#5] 2026-09-08 | City Council | agenda
+## [brighton#4] 2026-09-08 | City Council | agenda
 - Act. Any request for an interpreter must be made by 9:00 a.m. on
 - Executed Contract Listing - July 2026ID-257-266:00
 - Executed Contract Listing - July 2026Attachments:
@@ -103,7 +91,7 @@
 - Policy BC Appointments 2nd Revision 2026 Clean
 - Board and Commission Policy Amendments Presentation
 
-## [brighton#6] 2026-09-15 | City Council | agenda
+## [brighton#5] 2026-09-15 | City Council | agenda
 - Act. Any request for an interpreter must be made by 9:00 a.m. on
 - Approval of the August 18, 2026 City Council MinutesID-260-26A
 - A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF BRIGHTON,
@@ -148,7 +136,7 @@
 - Policy BC Appointments 2nd Revision 2026 v2 clean
 - Policy BC Appointments 2nd Revision 2026 v2
 
-## [brighton#7] 2026-10-06 | City Council | agenda
+## [brighton#6] 2026-10-06 | City Council | agenda
 - Civil Rights Act. Any request for an interpreter must be made
 - Approval of the September 1, 2026 City Council MinutesID-272-26A
 - AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF
@@ -189,7 +177,7 @@
 - 9. RESOLUTIONS
 - RESO 26 - Assigning 179D Tax DeductionAttachments:
 
-## [brighton#8] 2026-10-13 | City Council | agenda
+## [brighton#7] 2026-10-13 | City Council | agenda
 - Act. Any request for an interpreter must be made by 9:00 a.m. on
 - 2027 Employee Benefit PresentationID-291-266:00
 - COB 2027 Employee Benefit PresentationAttachments:
@@ -198,7 +186,7 @@
 - Cherry Meadows Pond Maintenance - SS Presentation_Final.pptxAttachments:
 - Lupton Meadows ESDC - SS Presentation_FinalAttachments:
 
-## [brighton#9] 2026-10-20 | City Council | agenda
+## [brighton#8] 2026-10-20 | City Council | agenda
 - Act. Any request for an interpreter must be made by 9:00 a.m. on
 - Approval of the September 15, 2026 City Council MinutesID-286-26A
 - A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF BRIGHTON,
@@ -250,3 +238,61 @@
 - Code Amendments, Article 10 Land Use & Development Code
 - Amendment, Bromley Park PUD 39th Amendment, Lochbuie to Metro
 - Water Recovery Northern Treatment Plant Lift Station and Pipeline Project,
+
+## [brighton#9] 2026-11-10 | City Council | agenda
+- Act. Any request for an interpreter must be made by 9:00 a.m. on
+- AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF BRIGHTON,
+- COLORADO, CONCERNING AMENDMENTS TO SECTION 10.02 OF
+- THE LAND USE AND DEVELOPMENT CODE REGARDING THE
+- ORD 26 - Art. 10 Floodplain Amendments
+- 26-13 Section 10.02 LUDC Code Amendments_PC Signed
+- LUDC Article 10 Floodplain Amendments - Cc Presentation_Final
+- COLORADO, APPROVING THE BROMLEY PARK PLANNED UNIT
+- DEVELOPMENT 39TH AMENDMENT FOR AN APPROXIMATELY 5.92
+- BROMLEY BUSINESS PARKWAY, NORTHWEST OF THE
+- BURLINGTON NORTHERN SANTA FE RAILROAD, AND SOUTH OF
+- Draft City Council Ordinance
+- Planning Commission Resolution #26-14
+- Proposed Planned Unit Development Amendment (Exhibit B to the Ordinance)
+- Neighboring Area Property Owner Notification
+- Draft Staff Presentation
+- A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF BRIGHTON,
+- COLORADO, RE-APPOINTING BONNIE CHARLESWORTH AS A
+- COLORADO, APPOINTING SERAFINA GARZA AS A MEMBER OF THE
+- 3. APPROVAL OF REGULAR AGENDA
+- COLORADO, ADOPTING THE FISCAL YEAR 2027 BUDGET, AND
+- (PUBLIC HEARING)
+- RESO 26- 2027 Budget Adoption (1)
+- 2027 October Budget Adoption
+- COLORADO, LEVYING GENERAL PROPERTY TAXES FOR THE YEAR
+- CITY OF BRIGHTON, COLORADO, AND SETTING THE MILL LEVY AT
+- 6.650 MILLS FOR THE 2027 BUDGET YEAR
+- RESO 26- 2027 City Mill LevyAttachments:
+- COLORADO, SETTING FORTH CERTAIN FEES AND CHARGES
+- RESO 26 - 2027 Fee Schedule
+- 2027 Fee Resolution - Redline Version
+- COLORADO, APPROVING THE DONATION OF FUNDS
+- APPROPRIATED IN THE 2027 BUDGET AND FINDING A PUBLIC
+- 7. PUBLIC HEARINGS
+- COLORADO, APPROVING THE EAST RIDGE ADDITION PUD MAJOR
+- AMENDMENT FOR AN APPROXIMATELY 1.34 ACRES OF PROPERTY,
+- GENERALLY LOCATED TO THE NORTH OF EGBERT STREET, SOUTH
+- OF EAST BRIDGE STREET, EAST OF SOUTH 22ND AVENUE, AND
+- Planning Commission Resolution #26-16
+- PUD Amendment by Applicant
+- Public Notice on Website and Property Owner Notification
+- COLORADO, AMENDING CERTAIN ARTICLES OF THE LAND USE
+- AND DEVELOPMENT CODE RELATING TO PARKS AND OPEN
+- ORD 2026 - Parks and Open Space LUDC Amendments
+- Parks & Open Space LUDC Amendments-DRAFT Edits.ADA
+- Parks and Open Space CC Public Hearing 11-10-26 Notice
+- Parks & Open Space CC Public Hearing 11-10-26 Proof of Website Notice
+- Parks & Open Space LUDC Amendments-DRAFT-CC 11-10-26
+- 8. ORDINANCES FOR INITIAL CONSIDERATION
+- 9. ORDINANCES FOR FINAL CONSIDERATION
+- 10. RESOLUTIONS
+- A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF
+- GARNEY COMPANIES, INC AND APPROVING THE
+- LOCHBUIE TO METRO LIFT STATION AND PIPELINE PROJECT
+- FOR THE CONTRACT AMOUNT OF FOUR MILLION SEVEN
+- CITY MANAGER TO EXECUTE THE CONTRACT ON BEHALF OF

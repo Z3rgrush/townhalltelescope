@@ -1,98 +1,107 @@
-- title: 2027 city budget and the J Road / Fremont Street to 18½ Road spending
-  summary: The City Manager's recommended 2027 budget has fewer, smaller capital projects, with about $2 million for building J Road from Wildcat Avenue to Skiff Road, and the city is seeking grants. Resident Paul Schultz asked Council on Oct. 20 to halt the roughly $2.2 million Fremont Street to 18½ Road expenditure, citing past eminent domain use and cost overruns on 19 Road.
-  where: J Road, Fremont Street and 18½ Road
+- title: 2027 City Manager's recommended budget and Fremont Street/18 1/2 Road spending
+  summary: City Manager Shannon Vassen presented the 2027 budget on Sept. 29, with few big surprises and fewer, smaller capital projects. The largest is about $2 million to build J Road from Wildcat Avenue to Skiff Road, with grant funding being sought. On Oct. 20 resident Paul Schultz asked Council to halt the roughly $2.2 million Fremont Street to 18 1/2 Road expenditure, citing eminent domain use and cost overruns on 19 Road.
+  where: Fremont Street / 18 1/2 Road / J Road
   refs:
-  - 10
-  - 16
-  - 17
-  topics:
-  - Budget & taxes
-  - Roads & traffic
-  public_comment: true
-- title: State-mandated Water Supply and Strategic Growth elements of the comprehensive plan
-  summary: Colorado requires cities with comprehensive plans to adopt Water Supply and Strategic Growth Elements by Dec. 31, 2026. Planning Commission and Council discussed a community engagement strategy and a draft water survey. Council noted it is an unfunded mandate and staff is seeking a grant to hire a consultant.
-  where: Citywide
-  refs:
-  - 1
-  - 5
-  topics:
-  - Water
-  - Zoning & development
-  - Government operations
-- title: 1925 J Road annexation and rezone
-  summary: The Planning Commission was set to hear a request to annex about 36.14 acres at 1925 J Road and rezone it to Community Residential (CR).
-  where: 1925 J Road
-  refs:
-  - 0
-  topics:
-  - Annexation
-  - Zoning & development
-  - Housing
-- title: Raptor Crossing PUD amendment
-  summary: A major amendment to the Raptor Crossing PUD guide would allow certain residential and other uses. It went to Planning Commission in August, and Council introduced Ordinance 2026-17 on first reading, with a public hearing set for Sept. 15.
-  where: Raptor Crossing
-  refs:
-  - 0
-  - 3
-  topics:
-  - Zoning & development
-- title: Fruita Co-op annexation and industrial rezone
-  summary: The Planning Commission was scheduled to consider annexing about 40.16 acres for the Fruita Co-op and rezoning it to Industrial.
-  where: Fruita Co-op site (40.16 acres)
-  refs:
+  - 7
+  - 13
   - 14
   topics:
-  - Annexation
-  - Zoning & development
-- title: CDOT US 6 West / SH 139 Access Control Plan amendment
-  summary: CDOT presented an amendment to the access control plan for the future Highway 6 widening from 18 Road to 22 Road. It includes right-in/right-out intersections with dedicated U-turns and changes to access for private properties and businesses. An updated intergovernmental agreement is expected in January 2027.
-  where: US 6 from 18 Road to 22 Road
-  refs:
-  - 10
-  topics:
-  - Roads & traffic
-- title: Metropolitan districts ordinance (Title 18)
-  summary: Ordinance 2026-20 would enact a new Title 18 of the municipal code on metropolitan districts, with a public hearing set for Nov. 17. A resident asked Council to pull it from the consent agenda.
-  where: Citywide
-  refs:
-  - 16
-  topics:
-  - Government operations
-  - Zoning & development
   - Budget & taxes
+  - Roads & traffic
+  - Utilities
   public_comment: true
-- title: Park conditions, Farmers Market location and recreation feedback
-  summary: The Parks and Recreation Commission discussed worn grass at Civic Center Park and possibly moving the Farmers Market to Reed Park or alternating sites. Salt Wash soccer fields are drying out because of drought water cuts, and residents asked for more lap lanes at the Community Center. The commission also discussed e-scooter and off-road vehicle rules and possible homeless camps near the LAUNCH project.
-  where: Civic Center Park, Reed Park, Salt Wash fields
+- title: Metropolitan districts ordinance (Title 18)
+  summary: Ordinance 2026-20 would enact a new Title 18 of the municipal code on metropolitan districts, with a public hearing set for Nov. 17, 2026. A resident asked Council to pull it from the consent agenda on Oct. 20.
+  where: Citywide
   refs:
   - 13
   topics:
-  - Parks & open space
-  - Recreation & trails
-  - Water
+  - Zoning & development
+  - Government operations
   public_comment: true
-- title: Public art sculpture selections
-  summary: The Arts and Culture Board reviewed artist applications for sculptures at sites including South Mesa Street and the Dinosaur Journey parking lot. Members visited the pieces on Aug. 17 and planned to notify selected artists.
-  where: South Mesa Street, Dinosaur Journey lot, FARM
+- title: Fruita Co-op annexation and industrial rezone
+  summary: The Planning Commission was scheduled on Oct. 13 to hear a request to annex about 40.16 acres into the city and rezone it to Industrial. The Co-op silo project is also being celebrated with art and tourism promotion.
+  where: Fruita Co-op property (40.16 acres)
+  refs:
+  - 3
+  - 4
+  - 11
+  topics:
+  - Annexation
+  - Zoning & development
+- title: Myers annexation and rezone at 1903 J Road
+  summary: A request to annex about 8.89 acres at 1903 J Road and rezone it to Community Residential (CR) was on the Planning Commission's Nov. 10 agenda.
+  where: 1903 J Road
+  refs:
+  - 19
+  topics:
+  - Annexation
+  - Housing
+  - Zoning & development
+- title: Wake Harbor Houseboat Campground conditional use permit
+  summary: The Planning Commission was to consider a conditional use permit for a campground and RV park at 1081 16 Road on Nov. 10.
+  where: 1081 16 Road
+  refs:
+  - 19
+  topics:
+  - Zoning & development
+  - Tourism & events
+- title: Water supply and strategic growth elements of the comprehensive plan
+  summary: State law requires Fruita to adopt Water Supply and Strategic Growth elements in its comprehensive plan. Staff sought Council feedback on community engagement and a water survey. A draft is due Dec. 31, 2026 for the city to be considered 'compliance in progress'. The mayor noted it is an unfunded state mandate, and the city is seeking a grant for a consultant.
+  where: Citywide
   refs:
   - 2
+  topics:
+  - Water
+  - Zoning & development
+  - Government operations
+- title: CDOT US 6 West / SH 139 access control plan amendment
+  summary: CDOT presented an amendment to the access control plan for Highway 6 from 18 Road to 22 Road ahead of a future widening project. Concepts include right-in/right-out intersections with U-turns and alternate access for properties. An updated intergovernmental agreement is expected in January 2027.
+  where: Highway 6 from 18 Road to 22 Road
+  refs:
   - 7
   topics:
-  - Libraries & culture
-- title: Bee City USA proposal
-  summary: Council heard a proposal to make Fruita Mesa County's first Bee City, which requires a $200 annual fee and a Council resolution. Staff suggested the Livability or Parks and Recreation commission take responsibility for the application.
+  - Roads & traffic
+- title: Raptor Crossing PUD major amendment
+  summary: Council introduced Ordinance 2026-17 on first reading to amend the Raptor Crossing PUD guide to allow certain residential and other uses, with a public hearing set for Sept. 15, 2026.
+  where: Raptor Crossing PUD
+  refs:
+  - 0
+  topics:
+  - Zoning & development
+  - Housing
+- title: Park conditions, drought water use and Farmers Market location
+  summary: The Parks and Recreation Commission discussed worn grass at Civic Center Park and possibly moving or alternating the Farmers Market with Reed Park. Salt Wash soccer fields are turning to dust as watering is reduced during drought. It also discussed e-scooter and off-road vehicle rules and community requests for more lap lanes at the community center.
+  where: Civic Center Park, Reed Park, Salt Wash fields
+  refs:
+  - 10
+  topics:
+  - Parks & open space
+  - Water
+  - Recreation & trails
+- title: Bee City USA designation
+  summary: Council heard a proposal for Fruita to become the county's first Bee City, requiring a $200 annual fee and a Council resolution. Staff suggested the Livability or Parks and Recreation Commission take responsibility for the application.
+  where: Citywide
+  refs:
+  - 2
+  topics:
+  - Environment & climate
+  - Agriculture & wildlife
+- title: Request for regular town halls
+  summary: Resident Jeffrey Louden asked Council on Sept. 15 to hold town halls regularly so residents can have two-way conversations rather than just public comment.
   where: Citywide
   refs:
   - 5
   topics:
-  - Environment & climate
-  - Parks & open space
-- title: Municipal judge ordinances and judge appointment
-  summary: Council introduced ordinances amending municipal code sections on municipal judges' powers and another section, with hearings set for Sept. 15. In executive session on Sept. 22 it interviewed candidates and recommended the City Manager negotiate a contract with its choice for Municipal Court Judge.
+  - Government operations
+  - Ethics & transparency
+  public_comment: true
+- title: Municipal court judge appointment
+  summary: After final interviews in executive session on Sept. 22, Council recommended that the City Manager negotiate a contract with the preferred candidate for municipal court judge. Ordinance 2026-16 on municipal judges' powers was also introduced in August.
   where: Citywide
   refs:
-  - 3
-  - 9
+  - 0
+  - 6
   topics:
   - Government operations
   - Lawsuits & legal

@@ -1,56 +1,19 @@
 # boulder-county
 
-## [boulder-county#0] 2026-08-11 | Commissioners’ Work Session – A.M. | agenda
-- This is a public meeting where the Board of County Commissioners receives information, reviews proposals, and discusses topics in greater detail often prior to making a decision in a later public meeting. These sessions allow commissioners and staff to explore issues, ask questions, and consider opt
-- Item No. 1: Affordable and Attainable Housing Tax Innovation Fund (continuation of the June 30 work session)
-- Item No. 2: Consideration of a letter of intent for funding regarding San Lazaro
-
-## [boulder-county#1] 2026-08-11 | Board of County Commissioners - Regular Meeting | minutes
-- The meeting was called to order at approximately 9:32 a.m. by Chair Claire Levy
-- Item(s) No. 4.a was noted for the record by Chair Claire Levy
-- Action Requested:
-- to approve the Commissioners' Consent Agenda with the exception of Items No. 5.g and 5.h (those items were voted upon separately as detailed below)
-- Community Planning and Permitting - 303396-5 Vermilion Inc. Contract Amendment - Wildfire Public Awareness $30K
-- Vermilion, Inc. provides services related to the wildfire mitigation public awareness campaign. Amending contract to add $30K for advertising costs in 2026
-- Katie Palubicki, Community Planning and Permitting
-- Community Services - COAC Infrastructure Grant Passthrough Budget Amendment with Clinica and Broomfield
-- Infrastructure Grant from Colorado Opioid Abatement Council (COAC) being distributed through the County to Clinica to pay for remodeling one of their buildings for a centralized location for a full spectrum of Opioid/other substance use disorder treatment and recovery services which will serve both 
-- Community Services - Colorado Department of Labor and Employment 2026 Grant Closeout Check List for Workforce Boulder County
-- BOCC_CDLE_CSD_WfBC_2026_Grant_Closeout_Checklist.pdf
-- Annual grant closeout checklist required by the Colorado Department of Labor and Employment for Workforce Boulder County. The checklist summarizes all grant funds for the period ending June 30, 2026, and includes program budgets, expenditures, and certifies that funds have been spent or provides exp
-- County Administrator's Office - The July 2026 Abatement Cycle Hearing Officer Recommendations and Refunds over $10,000
-- The July 2026 Abatement Cycle involved the hearing of petitions for abatements or refund of taxes by hearing officers from July 13 - 16, 2026. The hearing officers prepared recommendations for the Board of County Commissioners (BOCC) to enable the BOCC to render a decision. Petitions for abatements 
-- Housing - BOCC Resolution #2026-050
-- 2026_0050_Boulder_County_Assignment_Resolution.pdf
-- Authorizing PAB Volume Cap Assignment to BCHA & related Volume Cap Assignment Agreement – this Resolution authorizes the assignment of the County’s 2026 private activity bond allocation to the Boulder County Housing Authority and the Volume Cap Assignment Agreement gives effect to that assignment
-- Michelle Alexander, Housing; April Gatesman, County Attorney's Office
-- Public Works - IGA for funding agreement for 120th Street multimodal improvements construction project
-- Intergovernmental_Agreement_IGA_for_the_S_120th_St_Bridge.pdf
-
-## [boulder-county#2] 2026-08-13 | Board of County Commissioners - Regular Meeting | minutes
-- The meeting was called to order at approximately 9:31 a.m. by Chair Claire Levy
-- Community Planning and Permitting - Docket BVCP-25-0001: Boulder Valley Comprehensive Plan Major Update
-- Community Planning and Permitting Department Docket BVCP-25-0001: Boulder Valley Comprehensive Plan Major Update; Revisions to the recommended ten-year major update to the Boulder Valley Comprehensive Plan. Public testimony: The Board of County Commissioners may decide to take public comment related
-- Action Requested:
-- Hanna Hippley, Community Planning & Permitting
-- Commissioner Levy
-- to conditionally approve Docket BVCP-25-0001 in accordance with staff recommendations and with additional conditions as discussed and contained within the official record
-- Commissioner Stolzmann, and Commissioner Levy
-
-## [boulder-county#3] 2026-08-18 | Boulder County Commissioners’ Town Hall (Superior) | agenda
+## [boulder-county#0] 2026-08-18 | Boulder County Commissioners’ Town Hall (Superior) | agenda
 - The Aug. 18 opening discussion topic will be “2027 Boulder County Budget.”
 - with questions or to request materials shared at the event
 
-## [boulder-county#4] 2026-08-18 | Commissioners’ Work Session – P.M. | agenda
+## [boulder-county#1] 2026-08-18 | Commissioners’ Work Session – P.M. | agenda
 - This is a public meeting where the Board of County Commissioners receives information, reviews proposals, and discusses topics in greater detail often prior to making a decision in a later public meeting. These sessions allow commissioners and staff to explore issues, ask questions, and consider opt
 - Item No. 1: Public Works – Zero Waste Plan Update (fees and composting exploration)
 - Item No. 2: Parks and Open Space – Interim Management Proposal for Tucker Complex
 
-## [boulder-county#5] 2026-08-18 | Head Start Division Report to the Commissioners | agenda
+## [boulder-county#2] 2026-08-18 | Head Start Division Report to the Commissioners | agenda
 - : The County Commissioners will conduct their business meeting at 9:30 a.m., prior to the Head Start Division Report. Head Start staff will begin their presentation immediately following the business meeting
 - Action Requested
 
-## [boulder-county#6] 2026-08-18 | Board of County Commissioners - Regular Meeting | minutes
+## [boulder-county#3] 2026-08-18 | Board of County Commissioners - Regular Meeting | minutes
 - The meeting was called to order at approximately 9:31 a.m. by Chair Claire Levy
 - to approve the Commissioners' Consent Agenda as a whole
 - Commissioner Loachamin, and Commissioner Levy
@@ -75,7 +38,7 @@
 - The evaluation committee recommends awarding RFP-287-26, Real Estate Brokerage Services, to The Colorado Group, Inc
 - Office of Financial Management - SOQ-289-26 Award Recommendation
 
-## [boulder-county#7] 2026-08-19 | Planning Commission - Regular Meeting | minutes
+## [boulder-county#4] 2026-08-19 | Planning Commission - Regular Meeting | minutes
 - APPROVAL OF MINUTES/MISCELLANEOUS BUSINESS
 - Approval of meeting minutes for July 15, 2026
 - to approve the minutes of the July 15, 2026 Planning Commission meeting
@@ -90,7 +53,7 @@
 - to conditionally approve Docket BVCP-25-0001 with additional conditions as discussed and contained within the official record
 - to approve the Rural Lands text amendments as written
 
-## [boulder-county#8] 2026-08-20 | Board of County Commissioners - Regular Meeting | minutes
+## [boulder-county#5] 2026-08-20 | Board of County Commissioners - Regular Meeting | minutes
 - The meeting was called to order at approximately 9:05 a.m. by Chair Claire Levy
 - Commissioners Stolzmann was excused from the Public Hearings on Thursday, August 20, 2026
 - Public Hearing on Osterholm-DiGiulian Accessory Dwelling Unit and Residential Additions
@@ -110,7 +73,7 @@
 - regarding SU-23-0013, to not revoke at this time, but continue this hearing in the event there is any future violation with the acknowledgement that the applicant has a conditioned approval so if they meet those conditions they would notify staff and they would then have a use
 - to not accept the recommendation of revocation of the special use and instead continue this hearing to January 7, 2027, at 1 p.m. for purposes of determining whether to revoke the special use permit. In the meantime, if the applicants are able to complete all the work and satisfy all the conditions 
 
-## [boulder-county#9] 2026-08-25 | Board of County Commissioners - Regular Meeting | minutes
+## [boulder-county#6] 2026-08-25 | Board of County Commissioners - Regular Meeting | minutes
 - The meeting was called to order at approximately 9:31 a.m. by Chair Claire Levy
 - Commissioner Levy joined remotely for the business meeting and then was excused for the remainder of the day
 - Eldorado Springs Public Improvement District Discussion Items (Sitting as the Eldorado Springs Public Improvement District Board of Directors)
@@ -134,28 +97,28 @@
 - Boulder County Clerk and Recorder Molly Fitzpatrick has confirmed an initiative petition was submitted in accordance with Colorado law and regulation and is sufficient to place on the ballot at a general election the questions of whether to increase the membership of the Boulder County Board of Comm
 - Human Services - 2027 IDD - A&I Avenues - Funding Approval Memo
 
-## [boulder-county#10] 2026-08-27 | Public Meeting on Benefits Advisory Board Benefits Workshop for 2027 | agenda
+## [boulder-county#7] 2026-08-27 | Public Meeting on Benefits Advisory Board Benefits Workshop for 2027 | agenda
 - Human Resources Department: Benefits consultants at The MJ Companies will present an overview of the Employee Benefits Health and Dental Fund performance in 2026 and the BAB’s recommendations for plan designs and premiums for 2027. Commissioners will vote on recommendations at the end of this meetin
 
-## [boulder-county#11] 2026-08-27 | Board of County Commissioners - Regular Meeting | minutes
+## [boulder-county#8] 2026-08-27 | Board of County Commissioners - Regular Meeting | minutes
 - Commissioner Levy was excused on August 27, 2026
 - Human Resources Department: Benefits consultants at The MJ Companies will present an overview of the Employee Benefits Health and Dental Fund performance in 2026 and the BAB’s recommendations for plan designs and premiums for 2027. Commissioners will vote on recommendations at the end of this meetin
 
-## [boulder-county#12] 2026-09-15 | Commissioners’ Work Session – A.M. | agenda
+## [boulder-county#9] 2026-09-15 | Commissioners’ Work Session – A.M. | agenda
 - This is a public meeting where the Board of County Commissioners receives information, reviews proposals, and discusses topics in greater detail often prior to making a decision in a later public meeting. These sessions allow commissioners and staff to explore issues, ask questions, and consider opt
 
-## [boulder-county#13] 2026-09-15 | County Commissioners’ Town Hall (Lafayette/East County) | agenda
+## [boulder-county#10] 2026-09-15 | County Commissioners’ Town Hall (Lafayette/East County) | agenda
 - In recognition of September as Disaster Preparedness Month, the Town Hall will feature a brief presentation from the Boulder Office of Disaster Management on practical tips and information to help residents prepare for emergencies and unexpected events. The commissioners will then take questions on 
 - with questions or to request materials shared at the event
 - WHERE: Boulder County Southeast Hub, Rooms 131 and 132, 1755 S. Public Road, Lafayette
 - Just show up. To request a speaking opportunity at the meeting, indicate your interest on the sign-in sheet at the front table when you enter the room
 - Spanish interpretation will be provided. If you would like to request live interpretation in another language, please email Gloria Handyside
 
-## [boulder-county#14] 2026-09-15 | Head Start Division Report to the Commissioners | agenda
+## [boulder-county#11] 2026-09-15 | Head Start Division Report to the Commissioners | agenda
 - : The County Commissioners will conduct their business meeting at 9:30 a.m., prior to the Head Start Division Report. Head Start staff will begin their presentation immediately following the business meeting
 - Action Requested
 
-## [boulder-county#15] 2026-09-15 | Board of County Commissioners - Regular Meeting | minutes
+## [boulder-county#12] 2026-09-15 | Board of County Commissioners - Regular Meeting | minutes
 - The meeting was called to order at approximately 9:32 a.m. by Chair Claire Levy
 - Housing Authority Consent Items (Sitting as the Boulder County Housing Authority Board of Directors)
 - The Board of County Commissioners sat as the Boulder County Housing Authority for Item No. 4 and then reconvened as the Board of County Commissioners
@@ -177,20 +140,20 @@
 - Resolution_2026_057_Osterholm_DiGiulian_ADU_and_Residential_Additions_LU_26_0005_SPR_26_0015.pdf
 - A resolution denying Boulder County Community Planning & Permitting Docket LU-26-0005/SPR-26-0015: Osterholm-DiGiulian ADU and Residential Additions
 
-## [boulder-county#16] 2026-09-17 | Boulder County Housing Authority Moving to Work Supplement to Annual Plan | agenda
+## [boulder-county#13] 2026-09-17 | Boulder County Housing Authority Moving to Work Supplement to Annual Plan | agenda
 - Public Meeting: Boulder County Housing Authority Moving to Work Supplement to Annual Plan
 - Boulder County Housing Authority: Moving to Work Supplement to Annual Plan; Boulder County Housing Authority (BCHA): This hearing is the conclusion of the 45-day comment period for the public to make comments on Boulder County Housing Authority’s 2027 Moving To Work (MTW) Supplement to the Annual Pl
 - relevant to the hearing and any determination by the agency regarding changes to the goals, objectives, and policies of the agency to be considered at the hearing, available for public inspection at the principal office of the PHA during normal business hours
 - Action requested
 - There will be opportunities for live virtual and in-person public comment, and written comments can be emailed to
 
-## [boulder-county#17] 2026-09-17 | Boulder County Housing Authority Plan | agenda
+## [boulder-county#14] 2026-09-17 | Boulder County Housing Authority Plan | agenda
 - Public Meeting: Boulder County Housing Authority Plan
 - Boulder County Housing Authority: Boulder County Housing Authority (BCHA) 2027 Annual Plan: This hearing is the conclusion of the 45-day comment period for the public to make comments on Boulder County Housing Authority’s 2027 annual plan, for the Department of Housing and Urban Development (HUD). A
 - Action requested
 - There will be opportunities for live virtual and in-person public comment, and written comments can be emailed to
 
-## [boulder-county#18] 2026-09-17 | Board of County Commissioners - Regular Meeting | minutes
+## [boulder-county#15] 2026-09-17 | Board of County Commissioners - Regular Meeting | minutes
 - The meeting was called to order at approximately 9:01 a.m. by Chair Claire Levy
 - General Public Comment Session
 - This meeting will be to take public comment for any matter not being discussed in another current public hearing process. Each speaker (up to 10 people) will be able to give public comment to the commissioners for 3 minutes each. No pooled speaking is available for this meeting. Participants will no
@@ -214,7 +177,7 @@
 - Robin Lockwood, Allenspark
 - to conditionally approve Docket LU-26-0010/SPR-25-0066 in accordance with staff recommendations, commitments of record by applicant, and with additional conditions as discussed and contained within the official record
 
-## [boulder-county#19] 2026-09-22 | Board of County Commissioners - Regular Meeting | minutes
+## [boulder-county#16] 2026-09-22 | Board of County Commissioners - Regular Meeting | minutes
 - The meeting was called to order at approximately 9:31 a.m. by Chair Claire Levy
 - Commissioner Claire Levy joined virtually
 - Housing Authority Consent Items
@@ -238,7 +201,7 @@
 - Dept_of_Public_Safety_VOCA_Grant_Agreement_2026_VA_27_535_20.pdf
 - Grant Award - Grant funds awarded to work towards construction & deconstruction (C&D) building material recovery and reuse policy. Boulder County will use grant funds to hire a consultant for relevant policy research and stakeholder work
 
-## [boulder-county#20] 2026-09-24 | Board of County Commissioners - Regular Meeting | minutes
+## [boulder-county#17] 2026-09-24 | Board of County Commissioners - Regular Meeting | minutes
 - The meeting was called to order at approximately 9:01 a.m. by Chair Claire Levy
 - Commissioners Levy and Loachamin attended virtually
 - Public Hearing on Hummel Farmstead Historic Landmark Designation
@@ -248,11 +211,11 @@
 - No one gave comment during the public hearing portion of this docket
 - to conditionally approve Docket HP-26-0004 in accordance with staff recommendations, commitments of record by applicant, and with additional conditions as discussed and contained within the official record
 
-## [boulder-county#21] 2026-09-29 | Commissioners’ Work Session – P.M. | agenda
+## [boulder-county#18] 2026-09-29 | Commissioners’ Work Session – P.M. | agenda
 - This is a public meeting where the Board of County Commissioners receives information, reviews proposals, and discusses topics in greater detail often prior to making a decision in a later public meeting. These sessions allow commissioners and staff to explore issues, ask questions, and consider opt
 - Item No. 1: Update on the Emergency Services Tax and Grant Program
 
-## [boulder-county#22] 2026-09-29 | Board of County Commissioners - Regular Meeting | minutes
+## [boulder-county#19] 2026-09-29 | Board of County Commissioners - Regular Meeting | minutes
 - The meeting was called to order at approximately 9:35 a.m. by Chair Claire Levy
 - Item No. 4.a. was noted for the record by Chair Claire Levy
 - Housing Authority Consent Items (Sitting as the Boulder County Housing Authority Board of Directors)
@@ -279,7 +242,7 @@
 - A resolution conditionally approving Boulder County Community Planning & Permitting Docket LU-26-0010/SPR-25-0066: McWhinney Earthwork & Barn
 - Human Resources - Marathon Health Bid Waiver
 
-## [boulder-county#23] 2026-10-01 | Public Meeting on the 2027 Recommended Budgets | agenda
+## [boulder-county#20] 2026-10-01 | Public Meeting on the 2027 Recommended Budgets | agenda
 - Public Meeting on the 2027 Recommended Budgets
 - Action Requested: None – information only; No public testimony will be taken*
 - Item No. 1: Burgundy Park Public Improvement District
@@ -299,7 +262,7 @@
 - Public Hearings
 - Public comment on the 2027 Boulder County Recommended Budget: Thursday Oct. 22
 
-## [boulder-county#24] 2026-10-01 | Board of County Commissioners - Regular Meeting | minutes
+## [boulder-county#21] 2026-10-01 | Board of County Commissioners - Regular Meeting | minutes
 - The meeting was called to order at approximately 9:04 a.m. by Chair Claire Levy
 - Public Comment
 - This meeting will be to take public comment for any matter not being discussed in another current public hearing process. Each speaker (up to 10 people) will be able to give public comment to the commissioners for 3 minutes each. No pooled speaking is available for this meeting. Participants will no
@@ -330,12 +293,12 @@
 - boulder-county-fy27-recommended-budget-nederland-eco-pass-pid.pdf
 - The Board of County Commissioners sat as the Nederland EcoPass Public Improvement District Board of Directors for Item No. 3.a.5 and then reconvened as the Board of County Commissioners
 
-## [boulder-county#25] 2026-10-13 | Department and Office Requests 2027 Boulder County Budget | agenda
+## [boulder-county#22] 2026-10-13 | Department and Office Requests 2027 Boulder County Budget | agenda
 - Public Meeting: Department and Office Requests 2027 Boulder County Budget
 - Public Meeting: Department and Office Requests on the 2027 Boulder County Budget, Part 1
 - Action Requested: None – information only
 
-## [boulder-county#26] 2026-10-13 | Board of County Commissioners - Regular Meeting | minutes
+## [boulder-county#23] 2026-10-13 | Board of County Commissioners - Regular Meeting | minutes
 - The meeting was called to order at approximately 9:31 a.m. by Chair Claire Levy
 - to approve the Commissioners' Consent Agenda as a whole
 - Commissioners' Office - Consideration of Boulder County Positions on 2026 Ballot
@@ -361,13 +324,13 @@
 - Commissioners' Office - Cultural Council Appointments
 - Cultural_Council_appointments_100826.pdf
 
-## [boulder-county#27] 2026-10-15 | Department and Office Requests 2027 Boulder County Budget | agenda
+## [boulder-county#24] 2026-10-15 | Department and Office Requests 2027 Boulder County Budget | agenda
 - Public Meeting: Department and Office Requests 2027 Boulder County Budget
 - Public Meeting: Department and Office Requests on the 2027 Boulder County Budget, Part 1
 - Action Requested: None – information only
 - Note: Public testimony on the 2027 county budget will be taken at a public hearing on Tuesday, October 22, at 9 a,m
 
-## [boulder-county#28] 2026-10-15 | Board of County Commissioners - Regular Meeting | minutes
+## [boulder-county#25] 2026-10-15 | Board of County Commissioners - Regular Meeting | minutes
 - The meeting was called to order at approximately 9:04 a.m. by Chair Claire Levy
 - Commissioners' Discussion Items
 - Public Meeting on the 2027 Office and Department Budget Presentations
@@ -395,11 +358,11 @@
 - The commissioners tabled this public hearing to a date certain. The commissioners will accept public comment at that future hearing. No public comment was taken today due to time constraints
 - to table the public hearing for Docket SE-26-0009 to Thursday, Dec. 3 at 1 p.m
 
-## [boulder-county#29] 2026-10-20 | Head Start Division Report to the Commissioners | agenda
+## [boulder-county#26] 2026-10-20 | Head Start Division Report to the Commissioners | agenda
 - : The County Commissioners will conduct their business meeting at 9:30 a.m., prior to the Head Start Division Report. Head Start staff will begin their presentation immediately following the business meeting
 - Action Requested
 
-## [boulder-county#30] 2026-10-20 | Board of County Commissioners - Regular Meeting | minutes
+## [boulder-county#27] 2026-10-20 | Board of County Commissioners - Regular Meeting | minutes
 - The meeting was called to order at approximately 9:31 a.m. by Chair Claire Levy
 - to approve the Commissioners' Consent Agenda as a whole
 - Community Planning and Permitting - NAAPME Grant Agreement with CP&P for the CO119 Transportation Demand Program (#27226)
@@ -422,7 +385,7 @@
 - Effective October 15, 2026m Stage 1 Fire Restrictions for the mountain area of Boulder County are hereby rescinded
 - The mountain area of Boulder County includes any and all unincorporated areas of Boulder County west of Colorado Highway 93 from its intersection with the southern boundary of Boulder County up to and including its intersection with Colorado Highway 119; west of Broadway Avenue in the City of Boulde
 
-## [boulder-county#31] 2026-10-21 | Planning Commission - Regular Meeting | agenda
+## [boulder-county#28] 2026-10-21 | Planning Commission - Regular Meeting | agenda
 - APPROVAL OF MINUTES/MISCELLANEOUS BUSINESS
 - Approval of Minutes for August 19, 2026
 - Docket V-26-0001: Silverman Vacation
@@ -439,12 +402,12 @@
 - Request: Update to the Boulder County Comprehensive Plan to include water supply and strategic growth elements as required by Colorado law by December 31, 2026
 - Actions Requested: Decision
 
-## [boulder-county#32] 2026-10-22 | 2027 Boulder County Recommended Budget | agenda
+## [boulder-county#29] 2026-10-22 | 2027 Boulder County Recommended Budget | agenda
 - Public Hearing: 2027 Boulder County Recommended Budget
 - Public Hearing on 2027 Recommended Budget
 - Office of Financial Management: 2027 Budget Presentations
 
-## [boulder-county#33] 2026-10-22 | Board of County Commissioners - Regular Meeting | minutes
+## [boulder-county#30] 2026-10-22 | Board of County Commissioners - Regular Meeting | minutes
 - The meeting was called to order at approximately 9:01 a.m. by Chair Claire Levy
 - Public Meeting on the 2027 Office and Department Budget Presentations
 - Office of Financial Management: 2027 Budget Presentation by the Public Works Department on Road and Bridge Projects and Maintenance. This item concludes the presentation sessions begun on October 13
@@ -467,7 +430,7 @@
 - No one gave comment during the public hearing portion of this docket
 - to conditionally approve Docket HP-26-0005 in accordance with staff recommendations, commitments of record by applicant, and with additional conditions as discussed and contained within the official record
 
-## [boulder-county#34] 2026-10-27 | Board of County Commissioners - Regular Meeting | minutes
+## [boulder-county#31] 2026-10-27 | Board of County Commissioners - Regular Meeting | minutes
 - The meeting was called to order at approximately 9:32 a.m. by Chair Claire Levy
 - Item No. 4.a was noted for the record by Chair Claire Levy
 - Commissioners' Office - Resignation from Nederland EcoPass Public Improvement District Advisory Committee
@@ -491,7 +454,7 @@
 - 10_27_26BOCC_Business_Mtg_Memo_Buckner_Water_Acquisition.pdf
 - This proposal is to acquire fee title to one share of The James Ditch Company from Clinton Buckner for $120,000.00. This acquisition will improve irrigation capacity on the county's agricultural open space properties and ensure the water remains in agricultural use
 
-## [boulder-county#35] 2026-11-05 | 2027 Budget Work Session | agenda
+## [boulder-county#32] 2026-11-05 | 2027 Budget Work Session | agenda
 - Public Meeting: 2027 Budget Work Session
 - Public Meeting – 2027 Budget Work Session
 - Action Requested: None – information only
@@ -499,7 +462,7 @@
 - Action Requested
 - : Commissioner direction to staff on budget proposals to be included in the 2027 Budget adoption resolutions
 
-## [boulder-county#36] 2026-11-05 | Board of County Commissioners - Regular Meeting | minutes
+## [boulder-county#33] 2026-11-05 | Board of County Commissioners - Regular Meeting | minutes
 - The meeting was called to order at approximately 9:03 a.m. by Chair Claire Levy
 - to approve the Commissioners' Consent Agenda as a whole
 - Resolution_2026_072_Bowman_House_HP_26_0005.pdf
@@ -521,3 +484,30 @@
 - Public Meeting - 2027 Budget Work Session
 - Boulder County FY27 Budget Work Session_acc-2.pdf
 - Office of Financial Management: The commissioners will provide feedback on the recommended 2027 budget and consider additional budget proposals presented by departments and offices. No public testimony will be taken during this work session
+
+## [boulder-county#34] 2026-11-10 | Commissioners’ Work Session – A.M. | agenda
+- This is a public meeting where the Board of County Commissioners receives information, reviews proposals, and discusses topics in greater detail often prior to making a decision in a later public meeting. These sessions allow commissioners and staff to explore issues, ask questions, and consider opt
+- Community Services Department – Area Agency on Aging presentation
+
+## [boulder-county#35] 2026-11-10 | Board of County Commissioners - Regular Meeting | minutes
+- The meeting was called to order at approximately 9:32 a.m. by Chair Claire Levy
+- Commissioners Levy and Loachamin joined all meetings virtually on November 11, 2026
+- Item(s) No. 5.a was noted for the record by Chair Claire Levy
+- Commissioners' Office - Niwot Local Improvement District Advisory Committee resignation
+- Mike Keffeler resigned from the Niwot Local Improvement District Advisory Committee where he served as the Niwot Community Association representative
+- Gunbarrel Public Improvement District Consent Items (Sitting as the Gunbarrel Public Improvement District Board of Directors)
+- The Board of County Commissioners sat as the Gunbarrel Public Improvement District Board of Directors for Item No. 6 and then reconvened as the Board of County Commissioners
+- County Attorney's Office - Public Service Company of Colorado Utility Easement from Boulder County Gunbarrel Public Improvement District
+- NOI_Gunbarrel_improvement_district_utility_easement_CL_signed.pdf
+- Boulder County Gunbarrel Public Improvement District granted an easement to Public Service Company of Colorado necessary to construct electric distribution lines and related facilities associated with NIWOT 1587 Target Underground ("Project") Parcel R005593S and R0036792 located in the E % of Sectio
+- to approve the Commissioners' Consent Agenda as a whole
+- Community Services - Contract Amendment with Aramark Services Inc for Joe Pelle Center Food Services
+- The Board of County Commissioners is asked to approve an amendment to Contract No. 304443 with Aramark Services Inc for food services at the Joe Pelle Center. The amendment extends the contract term by one year, from November 1, 2026 through October 31, 2027, and adds funds to support facility opera
+- Action Requested:
+- Petitions for abatement or refund of taxes settled by the Assessor's Office resulting in refunds over $10,000
+- Housing and Human Services - Exemption Request from HCPF OM 26-041 County Collaboration Agreements
+- Exemption_HCPF_OM_26041_County_Collaboration_Agreements.pdf
+- Exemption request: 2-year exemption to a new Colorado Department of Health Care Policy and Financing (HCPF) requirement that the County enter into a Cost Sharing Agreement or Collaboration agreement with at least one local healthcare facility before January 1, 2027
+- Jennifer Page, Housing and Human Services; Trina Ruhland, County Attorney's Office
+- Parks and Open Space - PVREA Agreement for Hall Ranch Power Line
+- Poudre Valley Rural Electric Association (“PVREA”) will be conducting a large project to underground overhead power lines that cross Hall Ranch open space. This work will take place across three phases through Winter 2029. PVREA’s existing power line sits within an existing implied easement that wil

@@ -1,125 +1,148 @@
+- title: Ponderosa Mountain planned development (Hwy 160 and Goldmine Drive)
+  summary: Modern Community Builders LLC applied for a 70-acre, three-phase planned development with commercial lodging, housing and deed-restricted workforce housing (90%-130% AMI). The Planning Commission reviewed the sketch plan in September, Council took first reading on Oct. 20 after continuing it from Oct. 6, and second reading, as amended, was scheduled for Nov. 3.
+  where: Near Hwy 160 and Goldmine Drive
+  refs:
+  - 11
+  - 25
+  - 28
+  - 37
+  - 38
+  topics:
+  - Zoning & development
+  - Housing
+  public_comment: true
 - title: Data center moratorium (Ordinance 1037)
-  summary: Town Council held the second reading of Ordinance 1037, which pauses acceptance and processing of permit and land development applications that include a data center. Staff said the Land Use Development Code has no data center use classification and the pause lets them monitor development nationally and in Colorado while codifying one.
+  summary: Council took up Ordinance 1037 on second reading, a moratorium on accepting or processing permit and land development applications that include a data center. The Land Use Development Code has no data center use classification, and staff want time to codify one while watching data center development in Colorado and nationally.
   where: Townwide
   refs:
-  - 4
+  - 0
   topics:
   - Data centers
   - Zoning & development
   tags:
   - data-center
-- title: Ponderosa Mountain planned development (Ordinance 1042)
-  summary: Modern Community Builders LLC seeks a planned development overlay, agreement and zoning change for a 70-acre project near Hwy 160 and Goldmine Drive, with commercial lodging, housing and deed-restricted workforce housing (90%-130% AMI) in three phases. It was continued from October 6 to a first reading on October 20, with a second reading as amended on the November 3 agenda; a resident asked for a development moratorium over infrastructure needs.
-  where: Hwy 160 and Goldmine Drive
-  refs:
-  - 15
-  - 29
-  - 32
-  - 41
-  - 42
-  topics:
-  - Zoning & development
-  - Housing
-  public_comment: true
-- title: Sanitation district sewer and wastewater plant projects
-  summary: The Sanitation General Improvement District is replacing broken sewer lines (McCabe Creek, Rosita Street), buying pumps and surge tanks, and moving ahead with a new wastewater treatment facility, with interviews of firms Oct 28-29. A $3 million loan for the 1st Street lift station was approved and a $900,000 grant was sought. Evolve Infrastructure Group was the only bidder for pump and surge tank installation.
-  where: Townwide sewer system, 1st Street lift station
-  refs:
-  - 5
-  - 11
-  - 28
-  - 40
-  topics:
-  - Utilities
-  - Water
-  - Budget & taxes
-- title: 2027 town and sanitation district budgets
-  summary: Council adopted a 2027 budget with a 1.561 mill levy raising $173,145, a fee schedule and a 5-year capital plan including the community center roof, vehicles and park improvements. The sanitation district adopted a $6.06M budget with higher commercial sewer and connection fees and a .904 mill levy. Town sales tax receipts have come in below projections.
+- title: 2027 town budget, fee schedule and capital plan
+  summary: Council adopted the 2027 budget (Resolution 2026-21) after a public hearing, with a 1.561 mill levy generating $173,145 and a 5-year capital plan covering the community center roof, vehicles and park improvements. Town sales tax receipts have come in below projections, down 0.78% in July and 2.83% in August.
   where: Townwide
   refs:
-  - 16
-  - 17
-  - 22
-  - 24
+  - 13
+  - 18
+  - 20
+  - 25
   - 28
-  - 29
-  - 32
   topics:
   - Budget & taxes
   - Fees & rates
   public_comment: true
-- title: G&I Sanitation trash franchise and rates
-  summary: Council approved a five-year franchise for G&I Sanitation Services to run refuse collection using town streets and alleys, on first reading Sept 15 and second reading Oct 6. A public hearing on the company's proposed rates was also held, as the charter requires.
+- title: Sewer system repairs and new wastewater treatment plant
+  summary: The Sanitation GID is replacing sewer lines (McCabe Creek project completed, Rosita Street underway), buying surge tanks and pumps, and seeking a $900,000 grant for the 1st Street lift station, with a $3 million loan approved. It is also procuring an owner's advisor and design-build team for a new wastewater treatment facility, and a sewer sales tax passed earlier.
+  where: Pagosa Springs sewer system, 1st Street lift station
+  refs:
+  - 0
+  - 1
+  - 7
+  - 24
+  - 36
+  topics:
+  - Utilities
+  - Water
+  - Fees & rates
+- title: Sanitation GID 2027 budget and sewer rate increases
+  summary: The Sanitation GID adopted its 2027 budget with $6,057,941 in expenditures and a 0.904 mill levy generating $81,008. The fee schedule raises commercial sewer rates and connection fees.
+  where: Sanitation GID service area
+  refs:
+  - 12
+  - 24
+  - 36
+  topics:
+  - Fees & rates
+  - Utilities
+  - Budget & taxes
+- title: G&I Sanitation trash collection franchise (Ordinance 1039)
+  summary: Council granted G&I Sanitation Services a five-year franchise for refuse collection using town streets and alleys. A public hearing was also held on the rates G&I proposes to charge.
   where: Townwide
   refs:
-  - 17
-  - 29
+  - 13
+  - 25
   topics:
   - Utilities
   - Fees & rates
 - title: Talisman Drive area rezoning to Multi-unit Town Center (Ordinance 1040)
-  summary: Council rezoned properties on Talisman, Eaton and Village Drives, including Cornerstone Lofts and Talisman Pointe units, to Multi-unit Town Center. Planning Commission recommended approval Aug 25, and Council passed first and second readings.
+  summary: Ordinance 1040 rezones Cornerstone Lofts and Talisman Pointe units on Talisman, Eaton and Village Drives to Multi-unit Town Center. Planning Commission recommended approval Aug. 25, and Council passed it on first and second reading.
   where: Talisman Drive, Eaton Drive, Village Drive
   refs:
-  - 10
-  - 12
-  - 17
+  - 6
+  - 8
+  - 13
   topics:
   - Zoning & development
   - Housing
 - title: Housing Action Plan and Proposition 123 credits
-  summary: Town and County held joint work sessions on the Housing Action Plan, and Council approved an intergovernmental agreement on Proposition 123 shared affordable housing credits. The housing coordinator said the plan addresses community housing needs.
-  where: Town and county
+  summary: Town and County held joint work sessions on the Housing Action Plan, and Council approved an intergovernmental agreement on Proposition 123 shared affordable housing credits. Council also reviewed town-owned properties and appointed members to a Housing Committee.
+  where: Town and Archuleta County
   refs:
-  - 9
+  - 5
+  - 21
   - 25
-  - 32
+  - 28
   topics:
   - Housing
+- title: Development moratorium request and Apache Street speeding
+  summary: Resident Rachel Suh asked Council to approve a large-scale development moratorium because of infrastructure needs. Tammy Walters asked for a speed bump and deer crossing sign on Apache Street, citing speeding from park use, pickleball and school traffic.
+  where: Apache Street and 6th Street; Townwide
+  refs:
+  - 28
+  - 38
+  topics:
+  - Zoning & development
+  - Roads & traffic
+  public_comment: true
 - title: Dark Sky Lighting Management Plan
-  summary: The Dark Sky Steering Committee is drafting a Lighting Management Plan stricter than Land Use Code Article 6.11, with limits on pole height, illumination at property lines, lights-out times and no lighting of trails. A work session was held Oct 1 ahead of committee review.
+  summary: The Dark Sky Steering Committee held a work session on a Lighting Management Plan that exceeds current Land Use Development Code standards. It limits artificial light at night, requires exterior lighting plans for new development, and sets rules such as no flashing lights and no lit trails.
   where: Townwide
   refs:
-  - 20
+  - 16
+  - 22
+  - 23
   - 26
-  - 27
-  - 30
   topics:
   - Environment & climate
   - Zoning & development
-- title: Kids Camp ending and parks plans
-  summary: The Town will stop operating Kids Camp, which carried an annual subsidy of about $40,000, while talks continue with PCI about a summer program; families were notified. Parks staff are also working on the Parks and Recreation Master Plan, Yamaguchi South Bike Park, and tree planting grants.
-  where: Town parks
+- title: Kids Camp ended by Town; park naming and new park projects
+  summary: The Town will stop operating Kids Camp, which carried about $40,000 in annual subsidy, and is discussing with PCI a summer program. Council named the former Bob's LP property at 1040 E US 160 San Juan River Park, and Yamaguchi South Bike Park construction continues.
+  where: 1040 E US 160; Yamaguchi Park
   refs:
-  - 12
-  - 14
-  - 29
-  - 44
+  - 0
+  - 8
+  - 10
+  - 25
+  - 40
   topics:
   - Parks & open space
   - Schools & youth
   - Recreation & trails
-- title: San Juan River Park naming at 1040 E US 160
-  summary: Council named the former Bob's LP/Basin Coop property, bought in May 2025, San Juan River Park after considering Gateway River Park. Staff may add Native names later.
-  where: 1040 E US 160
+- title: Canceled July 4 fireworks rescheduled for Old Fashion Christmas
+  summary: Fireworks were canceled in July due to extreme fire risk. The Acme contract would forfeit the $32,000 cost unless a show is held in 2026, so Council voted to hold it during Old Fashion Christmas.
+  where: Pagosa Springs
   refs:
-  - 4
-  topics:
-  - Parks & open space
-- title: Cancelled July 4 fireworks rescheduled
-  summary: The July 4 show was cancelled for extreme fire risk, but the Acme contract means the town forfeits $32,000 unless it holds a show in 2026. Council voted to shoot the fireworks during Old Fashion Christmas.
-  where: Townwide
-  refs:
-  - 32
+  - 28
   topics:
   - Tourism & events
   - Fire & emergencies
-- title: Apache Street speeding and traffic complaints
-  summary: Residents asked Council for speed bumps at 6th Street and a deer crossing sign on Apache Street, citing traffic from Yamaguchi Park, pickleball and school. Another resident said the jake brake ordinance is not enforced and complained about overnight parking.
-  where: Apache Street and 6th Street
+- title: Town Manager David Harris contract extension
+  summary: After an executive session on his evaluation and employment agreement, Council moved to extend Town Manager David Harris's contract. Martinez and Mayor Pierce will help craft the extension.
+  where: Town Hall
   refs:
-  - 29
-  - 32
+  - 8
   topics:
-  - Roads & traffic
-  public_comment: true
+  - Government operations
+- title: 'Downtown development reviews: Healing Waters, courthouse parking lot, Town Terrace'
+  summary: The Planning Commission scheduled reviews of the Healing Waters redevelopment, the 449 San Juan Street LLC courthouse and parking lot enhancement (449, 473, 497 San Juan Street), and a density bonus for Town Terrace at 262 Pagosa Street.
+  where: San Juan Street; 262 Pagosa Street
+  refs:
+  - 11
+  - 27
+  - 41
+  topics:
+  - Zoning & development
+  - Downtown & business

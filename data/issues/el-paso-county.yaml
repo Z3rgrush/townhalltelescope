@@ -1,73 +1,79 @@
-- title: Triple H Ranch preliminary plan (244 lots)
-  summary: The commissioners' land use hearing on Oct. 22 covers a request by P760 Land, LLC for a 752.68-acre preliminary plan creating 244 single-family lots in the RR-2.5 zone. The plan includes 40.57 acres of tracts and 67.92 acres of right-of-way.
-  where: El Paso County (RR-2.5 zoned land)
+- title: 2027 county budget hearings
+  summary: The commissioners held budget hearings on the 2027 budget, including department critical-needs presentations on Oct. 27 and final direction on the original adopted budget on Nov. 10. A third-quarter 2026 budget report was also on the Nov. 3 agenda.
+  where: Countywide
   refs:
-  - 4
+  - 1
+  - 2
+  - 5
+  topics:
+  - Budget & taxes
+  - Government operations
+- title: Weeds, rubbish and unsafe structures ordinances (HB 26-1239)
+  summary: The county took up Ordinances 26-02, 26-03 and 26-04 on weed and brush removal, rubbish accumulation and unsafe structures. They update enforcement procedures and legal remedies to comply with state House Bill 26-1239. First reading was Oct. 22 and second reading was Nov. 12, along with a related Land Development Code amendment on enforcement procedures.
+  where: Unincorporated El Paso County
+  refs:
+  - 0
+  - 6
+  topics:
+  - Zoning & development
+  - Lawsuits & legal
+  - Government operations
+- title: Markets at Bent Grass rezoning, preliminary plan and metro district
+  summary: A request to rezone 17.17 acres along Woodmen Frontage Road from I-2 industrial to CR commercial regional, plus a 53.91-acre preliminary plan for 14 commercial lots. A hearing was also set for Nov. 17 on the Bent Grass Commercial Metropolitan District service plan.
+  where: Woodmen Frontage Road and Bent Grass Meadows Drive
+  refs:
+  - 1
+  - 6
+  topics:
+  - Zoning & development
+  - Economic development
+- title: Triple H Ranch 244-lot preliminary plan
+  summary: P760 Land, LLC requested approval of a 752.68-acre preliminary plan for 244 single-family lots in the RR-2.5 district, with 40.57 acres of tracts and 67.92 acres of right-of-way.
+  where: Triple H Ranch, El Paso County
+  refs:
+  - 0
+  topics:
+  - Housing
+  - Zoning & development
+- title: Mayberry Phase 2 PUD rezoning and preliminary plan
+  summary: Mayberry Communities, LLC asked to convert 18.70 acres from a conceptual PUD to a site-specific PUD with a preliminary plan.
+  where: Mayberry, El Paso County
+  refs:
+  - 6
   topics:
   - Zoning & development
   - Housing
-- title: Weed, rubbish and unsafe structure ordinances (HB 26-1239)
-  summary: First readings of Ordinances 26-02, 26-03 and 26-04 update county rules and enforcement procedures on weeds and brush, rubbish accumulation, and unsafe structures to comply with Colorado House Bill 26-1239.
-  where: Countywide
-  refs:
-  - 4
-  topics:
-  - Government operations
-  - Land & property
-- title: 2027 budget hearings and Q3 budget report
-  summary: 'The commissioners held 2027 Budget Hearing #3 with department critical-needs presentations on Oct. 27, and the Regional Building Department''s 2027 budget was up for approval Oct. 13. A third-quarter 2026 budget report is scheduled for Nov. 3.'
-  where: Countywide
+- title: Siesta Grove and Bradley Point land use requests
+  summary: 'Siesta Grove: a request to rezone 35.08 acres at 15850 Siesta Grove from RR-5 to RR-2.5. Bradley Point Filing No. 1 amendment: a request to establish a water sufficiency finding for a 9.7-acre minor subdivision. Hardy Road Properties also sought final plat approval for two lots on 19.34 acres.'
+  where: 15850 Siesta Grove; Bradley Point; 1054 Hardy Road area
   refs:
   - 0
-  - 5
   - 6
   topics:
-  - Budget & taxes
-- title: Sugarbowl Urban Renewal tax increment agreement
-  summary: The commissioners were asked to approve a Tax Increment Revenue Agreement with the Colorado Springs Urban Renewal Authority for the Sugarbowl Urban Renewal Plan.
-  where: Sugarbowl urban renewal area, Colorado Springs
+  - Zoning & development
+  - Water
+  - Land & property
+- title: Road and pedestrian safety projects
+  summary: The county approved contract changes for pedestrian crossing improvement packages, multi-year paving (about $948,543 to Martin Marietta), and North Calhan Highway design. It also advanced the CDOT agreement for Woodmoor Dr/Lake Woodmoor Dr intersection improvements and easements for Misty Acres Boulevard pedestrian improvements.
+  where: Countywide; Woodmoor Dr; Misty Acres Blvd; North Calhan Highway
   refs:
-  - 0
-  topics:
-  - Economic development
-  - Budget & taxes
-- title: Mesa Ridge Parkway condemnation and road projects
-  summary: The commissioners considered condemning property for the Mesa Ridge Parkway Improvements Project (Powers Blvd to Marksheffel Rd). Other road items include a CDOT agreement for US-24 and Judge Orr Road, Commerce Road Bridge easements, and North Calhan Highway design work.
-  where: Mesa Ridge Parkway, Powers Blvd to Marksheffel Rd; US-24 & Judge Orr Road; Commerce Road
-  refs:
+  - 1
   - 2
   - 5
   topics:
   - Roads & traffic
-  - Land & property
-- title: Courthouse construction contract
-  summary: The commissioners were asked to approve a $3,633,791 trade contractor agreement with Adolfson and Peterson Construction for the courthouse construction project.
-  where: El Paso County courthouse
-  refs:
-  - 0
-  topics:
   - Government operations
-- title: Paint Mines Interpretive Park grant
-  summary: The county is to accept a $200,000 grant from Lyda Hill Philanthropies for Paint Mines Interpretive Park and appropriate it to the Parks Department 2026 budget.
-  where: Paint Mines Interpretive Park
-  refs:
-  - 0
-  topics:
-  - Parks & open space
-- title: Bent Grass Commercial Metropolitan District service plan
-  summary: The commissioners set a Nov. 17, 2026 hearing to consider the Bent Grass Commercial Metropolitan District service plan.
-  where: El Paso County
+- title: Sheriff's Northeast Substation and Sheriff grants
+  summary: The county approved a contract amendment for architecture of the Sheriff's Northeast Substation and accepted a $135,000 VALE grant and small donations for the Sheriff's Office.
+  where: Northeast El Paso County
   refs:
   - 5
   topics:
-  - Zoning & development
-  - Budget & taxes
-- title: Federal and state grants for Sheriff, emergency management and wetland bank
-  summary: The county is to accept a $500,000 DOJ Byrne grant for the Sheriff's Office, a $56,139 FEMA emergency management grant, and $2,980,440 in federal revenue for the Akers wetland bank project.
-  where: Countywide
-  refs:
-  - 2
-  topics:
   - Policing & public safety
-  - Fire & emergencies
-  - Environment & climate
+  - Budget & taxes
+- title: McLaney federal lawsuit executive session
+  summary: The county attorney requested an executive session about litigation filed by Stuart Patrick McLaney in U.S. District Court (Case No. 2025-cv-00815).
+  refs:
+  - 5
+  topics:
+  - Lawsuits & legal

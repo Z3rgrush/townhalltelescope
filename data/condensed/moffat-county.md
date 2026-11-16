@@ -139,3 +139,61 @@
 - Present proposed 2026 County Budget for adoption (see attached)
 - Bohrer read the Public Hearing protocol
 - Nielson presented and explained the namative for the proposed 2027 County Budget. By state statute, the
+
+## [moffat-county#5] 2026-10-27 | Board of County Commissioners | agenda
+- Villard made a morion to approve the agenda as presented, striking the N4CTA board appointment. Bohrer
+- Resolutions:
+- c) 2026-122: Transfer of Intergovernment Funds - Pa1'roll Admin Fee Correction
+- Contracts €c Reports:
+- j) Road & nridge Deparrment /Storage Tank Technology - Fuel Tank Removal Testing & Consultation
+- for Great Dividel/ermillion Shop project
+- k) Road er Bridge Depailment/Stripe-A-Lot - Retainage Reiease
+- Villard made a morion to approve Ehe consent agenda items A-L. Broom seconded the motion. Motion carried
+- ViIIard spoke about item "B", Resolution 2026-l2l,regarding the Clerk s Office Closure for the day of the 2026
+- please nore that the Board may discuss any topic relevanr ro County business, whether or not the topic has been specifically noted on
+- Public Comment/General Discussion:
+- No Public Comment
+- Board appointment: (see attached)
+- Bohrer movedto appoint Allison Houston to the Area Council on Aging Board. Broom seconded the motion
+- Broom moved to the agreement.Regarding Provision of Medical Director Services to Moffat County^-pPrgYeDepartment of trublic Health with Dr. Elise Sullivin. Bohrer seconded the motion. Morion carried 3-0
+- Presentation:
+- No one was present to give this presentation before the meeting ended. They will be contacted ro move this to the November lOth meeting
+- Approved by:
+- Approved on: f,-cv<-r-, V"--.- t O, JDa lp
+
+## [moffat-county#6] 2026-11-10 | Board of County Commissioners | agenda
+- Approval of the agenda
+- Resolutions:
+- Contracts & Reports:
+- Human Services – Contract Amendment #1 (pgs 11-29)
+- h) Masterworks Mechanical/Office of Development Services – Contract Services Agreement for Loudy
+- Simpson Park Shop (pgs 34-42)
+- i) Sterling Rollins/Office of Development Services – Farming Lease – Amendment #3 (pg 43)
+- j) Value West/Office of Development Services – Valuation Services – Amendment #4 (pgs 44 & 45)
+- k) NW CO Trails Corporation – Lease Amendment #1 (pg 46)
+- m) Letter of Support: CDOT/Wildlife Crossings Grant) (pg 52)
+- n) F. Beacom/Department of Human Services – Core Services Program/Mental Health Services contract
+- Please note that the Board may discuss any topic relevant to County business, whether or not the topic has been specifically noted on
+- Public Comment/General Discussion:
+- Resolution 2026-130: Early Childhood Council (pgs 54 & 55)
+- 402(3.5). The Board will publicly name the finalist(s) under consideration. No appointment or offer
+- 2) Moffat Economic Development Authority – Jeff Comstock
+- Present Moffat Economic Development Authority 2027 budget for adoption (Resolution 2026-129)
+- Presentation:
+- ** Agenda is Subject to Change until 24 hours before scheduled Hearings**
+- Viliard made a motion to approve the agenda as presented, striking the MCTA board appointment. Bohrer
+- c) 2026-122:Transfer of Intergovernment Funds - Payroll Adm-in Fee Correction
+- Contracts dc Reports:
+- j) Road {s n.lag. Deparrment /Storage Tank Technology - Fuel Tank Removal Tesring [s Consultation
+- for Great DivideA/ermillion Shop project
+- k) Road {o Bridge Department/Stripe-A-Lot - Retainage Release
+- Villard made a motion to approve the consent agenda items A-L. Broom seconded the motion. Motion carried
+- Villard spoke abour irem "B", Resolution 2026-l2l,regl1ding the^Clerk s Office Closure for the day of the2026
+- pl"o." rore that rhe Board may discuss any topic relevant to county business, whether or not the topic has been specifically noted on - this agenda
+- No Public Comment
+- Board appointmenr: (see attached)
+- Bohrer moved to appoint Allison Houston to the fuea Council on Agirrg Board. Broom seconded the motion
+- Broom moved to 1pP.9Ye the agreement.Regarding Provision of Medical Director Services to Moffat CounryDepartment of Public Health with Dr. Elise Sullivin. Bohrer seconded the motion. Morion carried 3-0
+- No one was present to give this presentation before the meeting ended. They will be contacted to move this tothe November lOth meeting
+- Approved by:
+- WHEREAS, The budget of Moffat County defines moneys that are to be

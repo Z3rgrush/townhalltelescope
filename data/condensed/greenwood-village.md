@@ -1,61 +1,20 @@
 # greenwood-village
 
-## [greenwood-village#0] 2026-08-11 | Parks, Trails and Recreation Commission | agenda
-- Parks, Trails, and Recreation Commission
-- 6060 South Quebec Street
-- The Maintenance Facility is ADA-accessible – Hearing-impaired apparatus available
-- Handheld amplified receivers and headsets are available upon request
-- For accessibility information and requests, call 303-804-4113 or email
-
-## [greenwood-village#1] 2026-08-17 | City Council | minutes
-- 6060 South Quebec Street
-- Hearing-impaired apparatus available
-- at Greenwood Village City Hall, 6060 South Quebec Street, Greenwood Village, County of
-- 4. Approval Of Minutes (Mezger)
-- Nelson; to approve the August 3, 2026 minutes, as submitted. The motion was carried by
-- 5. Public Comment
-- via remote participation, public comment is limited to written comments emailed to
-- expressed concern about the parking lot in Village Green Park. She noted students could take the
-- Mayor Lantz noted the park was owned by the school district and not the City
-- 6. Public Hearings
-- A. Grace Chapel, 8500 E Orchard Road To Repurpose Existing Building And Parking Lot For A
-- A quasi-judicial public hearing was held at 6:07 PM. regarding Case No. PZ-26-00017, a Special
-- Use Permit and Case No. PZ-26-00026, a Site Development Plan for Grace Chapel at 8500 E
-- the hearing was published on the City's website, for which she offered into evidence Exhibit A, an
-- offered into evidence Exhibit B, a certificate of posting. Notice of the date, time, place, and purpose
-- of the hearing was also sent by mail to property owners as outlined in the Municipal Code per this
-- type of application at least 15 days prior to this hearing. She offered into evidence Exhibit C, which
-- Code, and it was her opinion the Council had jurisdiction to proceed with the public hearing
-- Mayor Lantz accepted Exhibits A, B, and C into evidence and made them part of the hearing record
-- i. Case No. PZ-26-00017; Special Use Permit; Grace Chapel (Barnacle) (2026-182)
-- Grady Timmerman, Planner II, reviewed the subject property and request. He noted the applicant
-- was requesting approval of a Special Use Permit (SUP) and Site Development Plan (SDP) to allow
-- in the Interstate Corridor Planning Area of the Comprehensive Plan. He noted adjacent parcels were
-- zoned MC and included office and research and development uses
-- the proposed lighting met the requirements of the Master Development Plan (MDP) and Land
-- Development Code (LDC). He stated the subject property was accessed through S Wabash Way
-- and that the proposed 250 parking spaces met the LDC requirement of one space per four seats in
-- network could accommodate the proposed development
-- Planner Timmerman reviewed the SUP and SDP approval criteria and noted all have been met. He
-- noted the development was compatible with surrounding land uses. Staff found the application
-- make such determination as a condition of approval per section 16-270(f) of the LDC. He noted the
-- Greenwood Village Planning and Zoning Commission recommended approval of the SUP and SDP
-
-## [greenwood-village#2] 2026-08-18 | General | agenda
+## [greenwood-village#0] 2026-08-18 | General | agenda
 - Planning and Zoning Commission
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
 - For accessibility information and requests, call 303-804-4113 or email
 
-## [greenwood-village#3] 2026-08-25 | Parks, Trails and Recreation Commission | agenda
+## [greenwood-village#1] 2026-08-25 | Parks, Trails and Recreation Commission | agenda
 - Parks, Trails, and Recreation Commission
 - 6060 South Quebec Street
 - The Maintenance Facility is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
 - For accessibility information and requests, call 303-804-4113 or email
 
-## [greenwood-village#4] 2026-08-27 | Board of Adjustments and Appeals | agenda
+## [greenwood-village#2] 2026-08-27 | Board of Adjustments and Appeals | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
@@ -65,7 +24,7 @@
 - 6. PUBLIC HEARINGS
 - 7. DISCUSSION ITEMS
 
-## [greenwood-village#5] 2026-08-27 | Board of Adjustments and Appeals | agenda
+## [greenwood-village#3] 2026-08-27 | Board of Adjustments and Appeals | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
@@ -108,21 +67,21 @@
 - Prior to approval of a variance, the BOAA shall make ﬁndings concerning the criteria listed below. For a variance
 - to be granted, the request must meet at least one Criterion from Section A and all of the Criteria from Section B,
 
-## [greenwood-village#6] 2026-09-01 | General | agenda
+## [greenwood-village#4] 2026-09-01 | General | agenda
 - Planning and Zoning Commission
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
 - For accessibility information and requests, call 303-804-4113 or email
 
-## [greenwood-village#7] 2026-09-08 | Parks, Trails and Recreation Commission | agenda
+## [greenwood-village#5] 2026-09-08 | Parks, Trails and Recreation Commission | agenda
 - Parks, Trails, and Recreation Commission
 - 6060 South Quebec Street
 - The Maintenance Facility is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
 - For accessibility information and requests, call 303-804-4113 or email
 
-## [greenwood-village#8] 2026-09-14 | City Council | agenda
+## [greenwood-village#6] 2026-09-14 | City Council | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
@@ -130,7 +89,7 @@
 - A. Update Of Carson Park Art Installation (Suzanne Moore - Parks, Trails & Recreation Director
 - B. Discussion Regarding Artificial Intelligence Use (Garrett Graybeal - Senior Management
 
-## [greenwood-village#9] 2026-09-14 | City Council | agenda
+## [greenwood-village#7] 2026-09-14 | City Council | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
@@ -162,7 +121,7 @@
 - The City is carefully evaluating how artificial intelligence may support municipal operations by developing a
 - before considering broader adoption. The focus remains on protecting sensitive information, maintaining
 
-## [greenwood-village#10] 2026-09-14 | General | agenda
+## [greenwood-village#8] 2026-09-14 | General | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
@@ -181,7 +140,7 @@
 - B. Resolution No. 30-26: A Resolution Appointing Luke Schroeder To The Fiddler’S Business
 - Improvement District Board Of Directors (Johnston) (2026-262)
 
-## [greenwood-village#11] 2026-09-14 | General | agenda
+## [greenwood-village#9] 2026-09-14 | General | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
@@ -220,7 +179,7 @@
 - Grady Timmerman, Planner II, reviewed the subject property and request. He noted the applicant
 - was requesting approval of a Special Use Permit (SUP) and Site Development Plan (SDP) to allow
 
-## [greenwood-village#12] 2026-09-15 | General | agenda
+## [greenwood-village#10] 2026-09-15 | General | agenda
 - Planning and Zoning Commission
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
@@ -263,7 +222,7 @@
 - the B-1 PUD zone district vs. existing development
 - A recoding error at the County Clerk’s office occurred. A building permit was issued based on this plan (attachment 2)
 
-## [greenwood-village#13] 2026-09-15 | General | agenda
+## [greenwood-village#11] 2026-09-15 | General | agenda
 - Planning and Zoning Commission
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
@@ -275,20 +234,20 @@
 - A. PZ-26-00070 Site Development Plan Amendment At 7600 E Orchard Rd To Allow For An
 - 7. DISCUSSION ITEMS
 
-## [greenwood-village#14] 2026-09-21 | City Council | agenda
+## [greenwood-village#12] 2026-09-21 | City Council | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
 - For accessibility information and requests, call 303-804-4113 or email
 
-## [greenwood-village#15] 2026-09-22 | Parks, Trails and Recreation Commission | agenda
+## [greenwood-village#13] 2026-09-22 | Parks, Trails and Recreation Commission | agenda
 - Parks, Trails, and Recreation Commission
 - 6060 South Quebec Street
 - The Maintenance Facility is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
 - For accessibility information and requests, call 303-804-4113 or email
 
-## [greenwood-village#16] 2026-09-24 | Board of Adjustments and Appeals | agenda
+## [greenwood-village#14] 2026-09-24 | Board of Adjustments and Appeals | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
@@ -298,7 +257,7 @@
 - 6. PUBLIC HEARINGS
 - 7. DISCUSSION ITEMS
 
-## [greenwood-village#17] 2026-09-24 | Board of Adjustments and Appeals | agenda
+## [greenwood-village#15] 2026-09-24 | Board of Adjustments and Appeals | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
@@ -333,14 +292,14 @@
 - no changes are requested to the rear yard or the southern portion of the yard. He stated that the
 - Planner Mehki stated that in order for the Board to grant a variance to a development standard outlined
 
-## [greenwood-village#18] 2026-09-28 | General | agenda
+## [greenwood-village#16] 2026-09-28 | General | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
 - For accessibility information and requests, call 303-804-4113 or email
 - Budget Workshop - 8:30 AM
 
-## [greenwood-village#19] 2026-10-05 | City Council | agenda
+## [greenwood-village#17] 2026-10-05 | City Council | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
@@ -350,14 +309,14 @@
 - via remote participation, public comment is limited to written comments emailed to
 - A. Motion To Authoritze The Mayor To Execute A License Agreement With Arapahoe County
 
-## [greenwood-village#20] 2026-10-05 | City Council | agenda
+## [greenwood-village#18] 2026-10-05 | City Council | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
 - For accessibility information and requests, call 303-804-4113 or email
 - A. Discussion Regarding Parking Permit Districts (David Oliver, Police Chief) (2026-281)
 
-## [greenwood-village#21] 2026-10-05 | City Council | agenda
+## [greenwood-village#19] 2026-10-05 | City Council | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
@@ -387,21 +346,21 @@
 - business hours. Additionally, staff hosted a night at Village Greens Park, offering residents an additional option
 - to obtain permits closer to their homes without needing to travel to city hall. That evening, staff issued 12
 
-## [greenwood-village#22] 2026-10-06 | General | agenda
+## [greenwood-village#20] 2026-10-06 | General | agenda
 - Planning and Zoning Commission
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
 - For accessibility information and requests, call 303-804-4113 or email
 
-## [greenwood-village#23] 2026-10-13 | Parks, Trails and Recreation Commission | agenda
+## [greenwood-village#21] 2026-10-13 | Parks, Trails and Recreation Commission | agenda
 - Parks, Trails, and Recreation Commission
 - 6060 South Quebec Street
 - The Maintenance Facility is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
 - For accessibility information and requests, call 303-804-4113 or email
 
-## [greenwood-village#24] 2026-10-15 | Arts and Humanities Council | agenda
+## [greenwood-village#22] 2026-10-15 | Arts and Humanities Council | agenda
 - 6060 South Quebec Street
 - The Curtis Center for the Arts is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
@@ -412,7 +371,7 @@
 - A. Art On The Green Debrief & Discussion (2026-317)
 - B. Carson Park Project Update (2026-318)
 
-## [greenwood-village#25] 2026-10-15 | Arts and Humanities Council | agenda
+## [greenwood-village#23] 2026-10-15 | Arts and Humanities Council | agenda
 - 6060 South Quebec Street
 - The Curtis Center for the Arts is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
@@ -452,7 +411,7 @@
 - annual budget within the Arts and Humanities Special Revenue Fund for the
 - 2. The Chair calls for consideration of the minutes of the previous meeting. The
 
-## [greenwood-village#26] 2026-10-19 | City Council | agenda
+## [greenwood-village#24] 2026-10-19 | City Council | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
@@ -460,7 +419,7 @@
 - B. Discussion Regarding Electric Vehicle (EV) Charging Station Regulations (Derek Holcomb,
 - Community Development Director) (2026-303)
 
-## [greenwood-village#27] 2026-10-19 | City Council | agenda
+## [greenwood-village#25] 2026-10-19 | City Council | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
@@ -495,7 +454,7 @@
 - Required Permitting Process Elements ...................................................... 45
 - Recommended (Optional) Permitting Process Elements ................................. 46
 
-## [greenwood-village#28] 2026-10-19 | City Council | agenda
+## [greenwood-village#26] 2026-10-19 | City Council | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
@@ -509,7 +468,7 @@
 - ii. Ordinance No. 13-26: First Reading: An Ordinance Fixing the Mill Levies of the City of
 - Greenwood Village, Colorado, for the Purpose of Ad Valorem Taxes in the 2026 Fiscal Year
 
-## [greenwood-village#29] 2026-10-19 | City Council | agenda
+## [greenwood-village#27] 2026-10-19 | City Council | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
@@ -546,7 +505,7 @@
 - Councilmember Johnston asked which streetscapes were on Denver Water. Director Moore noted
 - the majority of streetscapes were Denver Water and that the largest use of water for the city was
 
-## [greenwood-village#30] 2026-10-20 | Planning and Zoning Commission | agenda
+## [greenwood-village#28] 2026-10-20 | Planning and Zoning Commission | agenda
 - Planning and Zoning Commission
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
@@ -554,7 +513,7 @@
 - For accessibility information and requests, call 303-804-4113 or email
 - A. DEVELOPMENT ACTIVITY MAP, MUNICIPAL CODE, AND LAND DEVELOPMENT CODE
 
-## [greenwood-village#31] 2026-10-20 | Planning and Zoning Commission | agenda
+## [greenwood-village#29] 2026-10-20 | Planning and Zoning Commission | agenda
 - Planning and Zoning Commission
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
@@ -587,7 +546,7 @@
 - example, green represents variances. This resource can help Board members identify upcoming cases and
 - organized collection of a city's local laws, ordinances, and regulations. It serves as the legal rulebook for how a
 
-## [greenwood-village#32] 2026-10-22 | Board of Adjustments and Appeals | agenda
+## [greenwood-village#30] 2026-10-22 | Board of Adjustments and Appeals | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
@@ -598,7 +557,7 @@
 - 8. PUBLIC COMMENT
 - 9. DISCUSSION ITEMS
 
-## [greenwood-village#33] 2026-10-22 | Board of Adjustments and Appeals | agenda
+## [greenwood-village#31] 2026-10-22 | Board of Adjustments and Appeals | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
@@ -639,21 +598,21 @@
 - McCain; to Approve the Front Fence Location PZ-26-00045 Variance at 9150 E. Radcliff Ave
 - Moxcey; to Approve the Fence Height PZ-26-00045 Variance at 9150 E. Radcliff Ave. The
 
-## [greenwood-village#34] 2026-10-27 | Parks, Trails and Recreation Commission | agenda
+## [greenwood-village#32] 2026-10-27 | Parks, Trails and Recreation Commission | agenda
 - Parks, Trails, and Recreation Commission
 - 6060 South Quebec Street
 - The Maintenance Facility is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
 - For accessibility information and requests, call 303-804-4113 or email
 
-## [greenwood-village#35] 2026-11-02 | City Council | agenda
+## [greenwood-village#33] 2026-11-02 | City Council | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
 - For accessibility information and requests, call 303-804-4113 or email
 - A. Discussion Regarding Drone Delivery Regulations (Derek Holcomb, Community Development
 
-## [greenwood-village#36] 2026-11-02 | City Council | agenda
+## [greenwood-village#34] 2026-11-02 | City Council | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
@@ -697,7 +656,7 @@
 - drop boxes) via special-use permits, zoning limits
 - Zoning for drone hub facilities
 
-## [greenwood-village#37] 2026-11-02 | City Council | agenda
+## [greenwood-village#35] 2026-11-02 | City Council | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
@@ -718,7 +677,7 @@
 - D. Resolution 34-26: A Resolution Reappointing Deborah Tolley to the Greenwood Village Arts
 - A. Motion To Hold an Executive Session to Consider Personnel Matters, Pursuant to C.R.S. §24
 
-## [greenwood-village#38] 2026-11-02 | City Council | agenda
+## [greenwood-village#36] 2026-11-02 | City Council | agenda
 - 6060 South Quebec Street
 - Council Chambers is ADA-accessible – Hearing-impaired apparatus available
 - Handheld amplified receivers and headsets are available upon request
@@ -757,3 +716,49 @@
 - Finance Director Christine Hart provided background on the budget timeline and noted that an
 - amended proposed budget was being presented based on the budget workshop. She noted three
 - changes: an increase in budgeted expenditures of $164,000 for a citywide access control system,
+
+## [greenwood-village#37] 2026-11-10 | Parks, Trails and Recreation Commission | agenda
+- Parks, Trails, and Recreation Commission
+- 6060 South Quebec Street
+- The Maintenance Facility is ADA-accessible – Hearing-impaired apparatus available
+- Handheld amplified receivers and headsets are available upon request
+- For accessibility information and requests, call 303-804-4113 or email
+
+## [greenwood-village#38] 2026-11-16 | City Council | agenda
+- 6060 South Quebec Street
+- Council Chambers is ADA-accessible – Hearing-impaired apparatus available
+- Handheld amplified receivers and headsets are available upon request
+- For accessibility information and requests, call 303-804-4113 or email
+- A. Discussion On Belleview Avenue And Franklin Street Safety Measure Proposal (CDOT
+- B. Update Regarding District 1 And District 2 Capital Improvement Projects (Jacob James,
+
+## [greenwood-village#39] 2026-11-16 | City Council | agenda
+- 6060 South Quebec Street
+- Council Chambers is ADA-accessible – Hearing-impaired apparatus available
+- Handheld amplified receivers and headsets are available upon request
+- For accessibility information and requests, call 303-804-4113 or email
+- A. Discussion On Belleview Avenue And Franklin Street Safety Measure Proposal (CDOT
+- B. Update Regarding District 1 And District 2 Capital Improvement Projects (Jacob James,
+- Discussion on Belleview Avenue and Franklin Street Safety Measure Proposal (CDOT
+- Belleview Avenue and Franklin Street Intersection for safety improvements. This update provides a
+- recommended alternative of improvements to the intersection from CDOT following a collaborative effort of
+- Avenue and Franklin Street intersection. In addition, through a consultant hired by CDOT, several alternatives
+- Avenue is considered a State Highway and is under the jurisdiction of CDOT. Since the road is State Right-of
+- Way, CDOT provides the ultimate recommendation for the improvements. This was based on narrowing down
+- the larger list of alternatives utilizing scoring criteria agreed upon by the entire project team. CDOT will
+- present the recommended alternative to City Council and also provide information on next steps for the project
+- maintenance considerations for the project
+- Update regarding District 1 and District 2 Capital Improvement Projects (Jacob James, Public
+- The Capital Improvement Program (CIP) includes a project for replacement of the rails on the Green Oaks
+- Drive Bridge over the Highline Canal (Green Oaks Bridge) and the Orchard Road Bridge over Greenwood
+- includes a project to repair the delamination of the asphalt pavement on the Orchard Bridge. Combined bids
+- for the project were received, and all exceed the projected budget. A supplemental budget appropriation of
+- $387,996 is necessary to award the construction contract. Staff is soliciting feedback from City Council to
+- determine if a budget amendment is supported. If there is support for the project, staff will prepare the budget
+- amendment for approval at a future City Council meeting
+- For Council consideration
+- Every two years, CDOT conducts a rating of all roadway bridges on state and local transportation networks to
+- review their adequacy. In recent years these reviews have identified that the Orchard Road bridge and the
+- In addition to the bridge rail replacement, the asphalt on Orchard Road Bridge is failing and in need of
+- repair. This work was originally programmed as a separate project; however, it was included with the
+- construction of the rail project to take advantage of construction efficiencies

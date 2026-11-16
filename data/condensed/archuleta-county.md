@@ -1,10 +1,6 @@
 # archuleta-county
 
-## [archuleta-county#0] 2026-08-12 | City Council | agenda
-- E. Minutes – Prior month’s meeting(s) needing approval
-- Parking/Logistics
-
-## [archuleta-county#1] 2026-09-28 | City Council | agenda
+## [archuleta-county#0] 2026-09-28 | City Council | agenda
 - 3. Upper San Juan Watershed Enhancement Partnership Briefing (Danyelle Leentjes,
 - 4. Housing Action Plan (Jeff Sams, Multijurisdictional Housing Coordinator)
 - Building, 398 Lewis Street
@@ -12,18 +8,7 @@
 - guarantee internet service or online broadcasting. Remote attendance is at the risk of the attendee as public meetings will
 - continue in person regardless of the County and Town's broadcast capability
 
-## [archuleta-county#2] 2026-10-20 | City Council | agenda
-- NEW APPLICATION/TRANSFER OF OWNERSHIP/RENEWAL/
-- ertify that the above establishment, which is in possession of a liquor license,
-- 85 Harman Park Drive / P.O. Box 638
-
-## [archuleta-county#3] 2026-10-20 | City Council | agenda
-- SHERIFF’S SPECIAL EVENTS PERMIT
-- Hearing Date:
-- o certify that the above establishment, which has applied for a special event liquor
-- 85 Harman Park Dr. / P.O. Box 638
-
-## [archuleta-county#4] 2026-10-21 | City Council | minutes
+## [archuleta-county#1] 2026-10-21 | City Council | minutes
 - Motions and decisions (approved)
 - McMeens, approved by voice vote
 - Plan: one for front entrance and one for rodeos/office to reduce back-and-forth
@@ -54,7 +39,7 @@
 - Monitor special contractual services estimates vs. budget (about $58.5k budget; about $57.1k
 - Review Beer Garden instructions/applications and send edits
 
-## [archuleta-county#5] 2026-10-22 | City Council | minutes
+## [archuleta-county#2] 2026-10-22 | City Council | minutes
 - Archuleta County Development Services Department
 - Commissioners Meeting Room, 398 Lewis Street, Pagosa Springs, Colorado. Chair Nobles called the meeting to order at 6:00
 - Cathleen Giovannini, County Attorney; Longinos Gonzalez, Jr.; Eva Kruse , Director of Development; Mark Olguin, Land Use
@@ -83,18 +68,16 @@
 - B. PLN-REZ-26-050 Cloman Blvd – Administrative Rezoning
 - Development Director Eva Kruse presented the staff report for this project
 
-## [archuleta-county#6] 2026-10-27 | City Council | agenda
-- The Agenda as shown includes topics to be discussed by the Board of County Commissioners and
-- consideration of the Board. The topics shown are subject to change without notice. Be advised that
-- the Board may also discuss any topic relevant to conducting County business. No decisions are
-- made at Work Sessions. All documents and items discussed are Work Product
-- 1. Water Presentation – San Juan Water Conservancy District / Upper San Juan Watershed Enhancement
-- 3. Transportation Grant Awards – Andrew Mylroie
-- located at 398 Lewis Street
-- or online broadcasting. Remote attendance is at the risk of the attendee as public meetings will
-- continue in person regardless of the County’s broadcast capability
+## [archuleta-county#3] 2026-10-28 | City Council | agenda
+- Public comment and agenda comment item sign-up sheets are available at the meeting
+- Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
+- Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast capability
+- IV. PUBLIC COMMENT
+- 1. Approval of the July 15th, 2026 Meeting Minutes
+- 1. Strategic Planning Retreat Report
+- 1. Draft 2027 Budget Discussion
 
-## [archuleta-county#7] 2026-10-28 | City Council | agenda
+## [archuleta-county#4] 2026-11-10 | City Council | agenda
 - located at 398 Lewis Street
 - or online broadcasting. Remote attendance is at the risk of the attendee as public meetings will
 - continue in person regardless of the County’s broadcast capability
@@ -104,39 +87,58 @@
 - made at Work Sessions. All documents and items discussed are Work Product
 - 1. Tourism Board Budget – Jennie Green
 
-## [archuleta-county#8] 2026-10-28 | City Council | agenda
-- Public comment and agenda comment item sign-up sheets are available at the meeting
-- Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
-- Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast capability
-- IV. PUBLIC COMMENT
-- 1. Approval of the July 15th, 2026 Meeting Minutes
-- 1. Strategic Planning Retreat Report
-- 1. Draft 2027 Budget Discussion
+## [archuleta-county#5] 2026-11-10 | City Council | agenda
+- APPROVAL OR ADJUSTMENTS TO AGENDA
+- PUBLIC COMMENTS FROM THE FLOOR OR ONLINE
+- Please complete the Public Comment Form and submit it to an Administrative Staff member prior to the beginning of the
+- meeting. Please keep your comments to three (3) minutes. The Board is not required to discuss or reply to your comment
+- ABATEMENT HEARING
+- Consideration of a Property Tax Abatement for account R018943, parcel number 5699-141-04-003,
+- owned by Ruben Castillo and Sonja Swenson. The petitioner is requesting a refund based on a
+- disagreement with the percent increase for tax year 2025. The Archuleta County Assessor respectfully
+- Consideration of Approval of a Special Event Permit for Pagosa Mountain Morning Rotary Club
+- Pagosa Mountain Morning Rotary Club has submitted an application for a Special Event Permit to sell
+- Pagosa Springs, Colorado. The Sheriff has been notified of this event and the proper fees were collected
+- The premises has been posted for the required ten (10) days prior to this hearing. Staff recommends
+- approval of this Special Event Permit
+- Consideration of Approval of a Hotel and Restaurant Liquor License Renewal for Gustoso
+- This is a complete renewal application, with no changes, for a Hotel and Restaurant Liquor License for
+- issues. The proper fees were paid in accordance with the County Fee Schedule and staff recommends
+- approval of this liquor license renewal
+- Consideration of Request for Disposal of Capital Asset
+- approval is required prior to placing any capital asset with an estimated value exceeding $5,000.00 up for
+- public auction. Staff requests board approval to dispose of the following item(s):
+- Ratification of the Board of County Commissioners Signatures on Letter of Support to President of
+- This Letter of Support is for the Master Disaster Declaration request to the United States President for
+- Ratification of the Chair’s Signature on Letter to State Historic Preservation Office (SHPO)
+- implementing regulations to provide information for review and consideration regarding Forest Health
+- Timber Products (FHTP) 3-Phase Extension Project. The Chair signed this letter on October 29, 2026
+- Letter to State Historic Preservation Office for 3-Phase Extension Project
+- Consideration of Resolution 2026-_____ Consolidating Two (2) Lots, Located in Aspen Springs
+- This request is to consider a Resolution authorizing the consolidation of Lots 7 and 8 of block 2 in Aspen
+- Springs Subdivision No. 2, according to the plat thereof filed for record June 15, 1971, as Reception No
+- LOT CONSOLIDATION Resolution ORTIZ
 
-## [archuleta-county#9] 2026-11-04 | City Council | agenda
+## [archuleta-county#6] 2026-11-10 | City Council | agenda
+- Commissioners Meeting Room located at 398 Lewis Street, unless otherwise stated
+- or online broadcasting. Remote attendance is at the risk of the attendee as public meetings will
+- continue in person regardless of the County’s broadcast capability
 - The Agenda as shown includes topics to be discussed by the Board of County Commissioners and
 - consideration of the Board. The topics shown are subject to change without notice. Be advised that
 - the Board may also discuss any topic relevant to conducting County business. No decisions are
 - made at Work Sessions. All documents and items discussed are Work Product
-- 2. Discussion of Secure Transport Services – Connie Cook
-- 3. Request for Sale of Capital Assets – Waylon Sutton
-- 4. Comprehensive Plan Water Supply and Strategic Growth Review – Longinos Gonzalez
-- 5. Lodgers Tax Update – Longinos Gonzalez
-- 6. Temporary Land Use Approval Discussion – Longinos Gonzalez
-- 7. Discussion to Waive Permit Fees for Flood Recovery – Longinos Gonzalez
-- 8. Consideration of Emergency Gravel Pits in Archuleta County
-- 9. Discussion of PIO Position
-- Commissioners Meeting Room located at 398 Lewis Street, unless otherwise stated
-- or online broadcasting. Remote attendance is at the risk of the attendee as public meetings will
-- continue in person regardless of the County’s broadcast capability
+- 4. Discussion of Budget Transfer to Road & Bridge Fund – Longinos Gonzalez, Mike Torres and Chad Eaton
 
-## [archuleta-county#10] 2026-11-04 | City Council | agenda
+## [archuleta-county#7] 2026-11-10 | City Council | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - IV. PUBLIC COMMENT
 - 1. 2026 Flood Discussion
 
-## [archuleta-county#11] 2026-11-04 | City Council | agenda
+## [archuleta-county#8] 2026-11-10 | City Council | agenda
+- Pagosa Lakes is granting permission to do so
+
+## [archuleta-county#9] 2026-11-10 | City Council | agenda
 - APPROVAL OR ADJUSTMENTS TO AGENDA
 - PUBLIC COMMENTS FROM THE FLOOR OR ONLINE
 - Please complete the Public Comment Form and submit it to an Administrative Staff member prior to the beginning of the

@@ -1,108 +1,112 @@
-- title: 2027 county budget hearings and workforce analysis
-  summary: 'The commissioners held 2027 budget hearings in October, with department and elected office presentations, plus Budget Supplement #4 and a $234,039 supplemental request. They also heard an MGT workforce analysis, and the Early Childhood District and Forest Improvement District presented. Unfreezing two Human Services positions and a sheriff''s office early retirement plan were also on the agendas.'
+- title: 2027 county budget hearings and supplemental appropriations
+  summary: 'Commissioners held 2027 proposed budget hearings in October, heard an MGT workforce analysis, and took up 2026 Budget Supplement #4 and a $234,039 supplement in November. Requests included $150,000 for Garfield Clean Energy, a $90,000 Housing Authority request and Human Services Commission grants.'
   where: Countywide
   refs:
-  - 0
+  - 6
+  - 7
   - 8
-  - 9
+  - 10
+  - 11
   - 12
-  - 13
+  - 14
   topics:
   - Budget & taxes
   - Government operations
-- title: 'Affordable housing: USDA programs, Housing Authority funding and Cavern Springs'
-  summary: Commissioners heard from USDA Rural Development on affordable housing programs and from the Garfield County Housing Authority, which asked for $90,000 in 2027 funding. They were also asked for a letter of support for the Cavern Springs Mobile Home Park request, and to sign an amendment to the Oak Meadows Ranch Filing 4B affordable housing plan involving Habitat for Humanity.
-  where: Countywide
+- title: 'Affordable housing: USDA programs, Housing Authority, Cavern Springs and Oak Meadows'
+  summary: The board heard USDA Rural Development on affordable housing, a Housing Authority update and annual report with a $90,000 2027 request. A letter of support was requested for the Cavern Springs Mobile Home Park partnership, the Oak Meadows Ranch Filing 4B affordable housing plan amendment was signed, and a Glenwood Springs Association housing summit whitepaper was presented.
+  where: Countywide; Cavern Springs Mobile Home Park; Oak Meadows Ranch
   refs:
+  - 2
   - 3
   - 4
-  - 5
-  - 13
+  - 12
+  - 14
   topics:
   - Housing
-  - Land & property
+  - Health & human services
   public_comment: true
-- title: Mitchell Creek Community PUD rezoning and sketch plan
-  summary: The Planning Commission held a public hearing on rezoning from Rural to PUD and a major subdivision sketch plan for the Mitchell Creek Community PUD at 50235 Highway 6/24 near Glenwood Springs. The owner is AMICHAUX Limited Partnership LLLP.
+- title: Mitchell Creek Community PUD rezoning on Highway 6/24
+  summary: Planning Commission held a public hearing on rezoning from Rural to PUD and a major subdivision sketch plan for the Mitchell Creek Community PUD at 50235 Highway 6/24 near Glenwood Springs. The owner is AMICHAUX Limited Partnership LLLP.
   where: 50235 Highway 6/24, Glenwood Springs
+  refs:
+  - 0
+  topics:
+  - Zoning & development
+  - Housing
+- title: McClure River Ranch PUD amendment and 12-lot preliminary plan
+  summary: Commissioners were asked to sign resolutions approving a substantial PUD amendment for the 98-acre McClure River Ranch and a preliminary plan dividing 48.96 acres into 12 lots and 2 tracts, east of Carbondale. The applicant is Aspen Polo Partners.
+  where: 16411 Old Hwy 82, east of Carbondale
   refs:
   - 1
   topics:
   - Zoning & development
-  - Housing
-- title: Lake Springs Ranch PUD amendment and rezoning
-  summary: The Planning Commission was to hear a substantial PUD amendment, a preliminary plan and rezoning of land being removed from the Lake Springs Ranch PUD, about 3.5 miles southeast of Glenwood Springs off County Road 114.
-  where: 4001 County Road 114, Glenwood Springs
-  refs:
-  - 10
-  topics:
-  - Zoning & development
   - Land & property
-- title: McClure River Ranch PUD amendment and 12-lot preliminary plan
-  summary: Commissioners were asked to sign resolutions approving a substantial amendment to the 98-acre McClure River Ranch PUD and a preliminary plan dividing 48.96 acres into 12 lots and 2 tracts, about 4 miles east of Carbondale. The applicant is Aspen Polo Partners. A resolution for the Hogback View Estates major subdivision preliminary plan east of New Castle was also up for signature.
-  where: 16411 Old Hwy 82, east of Carbondale
+- title: Lake Springs Ranch PUD amendment and Hogback View Estates subdivision
+  summary: Planning Commission considered a substantial PUD amendment, preliminary plan and rezoning for Lake Springs Ranch off County Road 114. Commissioners also were asked to sign the preliminary plan resolution for Hogback View Estates east of New Castle.
+  where: 4001 County Road 114, Glenwood Springs; 24 County Road 138, east of New Castle
   refs:
-  - 2
-  - 5
+  - 4
+  - 9
   topics:
   - Zoning & development
   - Land & property
 - title: Xcel Hopkins to Basalt transmission line rebuild
-  summary: The Planning Commission reviewed the location and extent of Xcel Energy's rebuild of the Hopkins to Basalt transmission line 9256, starting near Red Canyon Road and Fisher Cemetery Road east of Carbondale. Xcel also gave the commissioners a presentation.
-  where: Hopkins Substation, east of Carbondale
+  summary: Planning Commission reviewed the location and extent of Xcel's Hopkins to Basalt Line 9256 rebuild, starting at the Hopkins Substation near Red Canyon Road. Xcel also gave a presentation to commissioners in October.
+  where: Hopkins Substation, Red Canyon Road and Fisher Cemetery Road, east of Carbondale
   refs:
-  - 6
-  - 9
+  - 5
+  - 8
   topics:
   - Utilities
   - Energy
-- title: Library district tax extension on November ballot
-  summary: The Garfield County Public Library District asked commissioners to place a ballot issue on the Nov. 3, 2026 election ballot asking voters to extend a portion of the district's property tax levy.
-  where: Countywide
+- title: Parachute road and transit funding
+  summary: Parachute requested $600,000 toward the 1st Street/US 6 reconstruction (Parachute MOVES), plus disbursement of $200,000 in 2026 funding and a 2027 request for the Parachute Area Transit System. A draft RFTA Traveler IGA and senior programs MOU were also under review.
+  where: Parachute, 1st Street/US 6
   refs:
-  - 0
-  topics:
-  - Elections
-  - Libraries & culture
-  - Budget & taxes
-- title: 'Parachute funding requests: 1st Street/US 6 reconstruction and transit'
-  summary: The Town of Parachute asked for $600,000 for the Parachute MOVES 1st Street/US 6 reconstruction project. It also asked for disbursement of $200,000 in 2026 funding for the Parachute Area Transit System and for a 2027 funding request.
-  where: Parachute
-  refs:
-  - 7
+  - 6
+  - 10
   topics:
   - Roads & traffic
   - Transit
-- title: Slaughterhouse Gulch mudslide landfill fee waiver
-  summary: A request asked commissioners to waive landfill tipping fees because of the Slaughterhouse Gulch mudslide. Rifle also asked for half-price landfill fees for its 18th annual fall cleanup.
-  where: Slaughterhouse Gulch
-  refs:
-  - 0
-  - 3
-  topics:
-  - Fees & rates
-  - Environment & climate
-  public_comment: true
-- title: LoVa Trail letter of support for federal funding
-  summary: Commissioners were asked for a letter of support for Glenwood Springs' Federal Lands Access Program application to fund the LoVa Trail through South Canyon. A letter of support for a Roaring Fork Outdoor Volunteers trail planning grant was also requested.
-  where: South Canyon, Glenwood Springs
-  refs:
-  - 0
-  - 5
-  topics:
-  - Recreation & trails
-- title: Madison AI assistant purchase
-  summary: Commissioners were asked to approve a $43,200 supplemental appropriation and a Carahsoft contract for a 12-month Madison AI subscription, with a countywide assistant and one for Community Development.
+- title: Madison AI assistant for county staff
+  summary: Commissioners were asked to approve a $43,200 supplemental appropriation and a Carahsoft contract for a 12-month Madison AI subscription, with a countywide assistant and a Community Development assistant.
   where: Countywide
   refs:
-  - 7
+  - 6
   topics:
   - Government operations
-- title: Garfield Clean Energy 2027 funding and Colorado River District update
-  summary: Garfield Clean Energy requested $150,000 for 2027 membership. The Colorado River District also gave an annual update, including the Shoshone Water Rights Preservation project.
-  where: Countywide
+- title: Sheriff's Office early retirement incentive and grants
+  summary: Commissioners considered a resolution for a voluntary early retirement incentive program for the Sheriff's Office. They also considered applying for a $39,903 opioid grant for inmate MAT medications and a $12,100 bulletproof vest grant.
+  where: Garfield County Sheriff's Office
   refs:
-  - 7
+  - 10
+  - 12
+  - 14
   topics:
-  - Energy
+  - Policing & public safety
+  - Budget & taxes
+- title: Garfield County School of Innovation lease at 949 Railroad Avenue
+  summary: Judy Brannberg asked to lease a county-owned property at 949 Railroad Avenue to house the planned Garfield County School of Innovation.
+  where: 949 Railroad Avenue
+  refs:
+  - 14
+  topics:
+  - Schools & youth
+  - Land & property
+- title: Colorado River District update and Shoshone water rights
+  summary: The Colorado River District gave an annual update including the Shoshone Water Rights Preservation project. The county also considered a letter of support for the Rifle Creek watershed restoration project.
+  where: Countywide; Rifle Creek
+  refs:
+  - 6
+  - 14
+  topics:
   - Water
+  - Environment & climate
+- title: Rifle Garfield County Airport repairs and contracts
+  summary: The county ratified an emergency roof repair contract, awarded fuel tank cleaning and concrete improvement contracts at the airport.
+  where: Rifle Garfield County Airport
+  refs:
+  - 4
+  - 8
+  topics:
+  - Airports

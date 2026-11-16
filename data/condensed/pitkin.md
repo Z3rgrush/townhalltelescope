@@ -1,34 +1,6 @@
 # pitkin
 
-## [pitkin#0] 2025-11-12 | City Council | minutes
-- 2. For Board Discussion:
-- We are still waiting for the Mill Levy numbers to come via mail from the County, so we will
-- budget. The Board would like to pay the EHA, the starting idea is $550 to cover necessary
-- classes. The idea was addressed to possibly pay the Streets/Ditches Commissioner as well
-- A flat monthly rate is easier to plan and budget than an hourly rate, the initial idea is to pay
-- the Streets/Ditches Commissioner $300/month moving forward, with the awareness that
-- number may need to be adjusted in the future. Next to consider for pay moving forward is
-- the Zoning Board Members. Trustee Cory Nasso thinks $50/meeting may be a good starting
-- point, that would cost the Town $3,000 yearly for a full Zoning Board. That is all we have to
-- discuss until we get more data, primarily the Mill Levy data
-- Zoning Code Updates
-- The Board went through the Zoning Code Updates, page by page. Trustee Tom Gibb had a
-- question regarding what “Planned Development” (PD) is and what it means. Town Attorney
-- Hilary Graham explained it has elements of both commercial and residential zoning. It
-- moved on in agreement to the Planned Development wording as it is in this current Zoning
-- The next section up for discussion is Section 7, it states that any type of business not listed
-- Attorney Hilary Graham advised that wording is common in a Zoning Code. Mayor Ed
-- Pianalto suggested we add a #15 that would allow for RV Parks. Trustee Cory Nasso agrees
-- with the idea to add RV Parks to the list of approved businesses. Trustee Tom Gibb
-- reminded the Board that there are people in Town who do not want RV Parks to be here
-- Trustee Cory Nasso suggests we take that issue to the Special Hearing and deal with it
-- on this revision. Trustee Cory Nasso has concern with part B under this section, he feels
-- plats. That is to say, he feels a licensed professional should always be required to prepare
-- subdivision plats
-- the Board of Trustees and then a Public Hearing
-- *Public comments to the Board of Trustees is encouraged on agenda items. Comments will be limited
-
-## [pitkin#1] 2025-11-17 | City Council | minutes
+## [pitkin#0] 2025-11-17 | City Council | minutes
 - 2. For Board of Trustees discussion and possible action:
 - Approve meeting minutes: October 20th , 2025 Regular Meeting; October 27th, 2025 Work
 - Session – 2025 Budget Amendment & 2026 Budget Proposal; October 29th, 2025 Work Session
@@ -69,7 +41,7 @@
 - Parks and Rec – Josh Ackerman
 - until the next regular meeting. Approved minutes, ordinances, resolutions, agendas, and other Town of Pitkin public
 
-## [pitkin#2] 2025-11-19 | City Council | minutes
+## [pitkin#1] 2025-11-19 | City Council | minutes
 - 2. For Board discussion and possible action:
 - Discuss and consider for adoption On-Site Waste Treatment System Regulations as required by
 - Ordinance No. 1 Series 2025 – THIS ITEM CONTAINS A PUBLIC HEARING
@@ -81,7 +53,7 @@
 - Motion to adopt these OWTS updates, Ordinance #1 for 2025, for the Town of Pitkin by
 - *Public comments to the Board of Trustees is encouraged on agenda items. Comments will be limited
 
-## [pitkin#3] 2025-12-11 | City Council | minutes
+## [pitkin#2] 2025-12-11 | City Council | minutes
 - 2. For Board discussion and possible action:
 - Discuss with possible action:
 - 2025 Resolution 7 – Adopting an amended 2025 Budget and adopting a 2026 Budget
@@ -93,7 +65,7 @@
 - Property Taxes to Finance the Costs of Providing Municipal Services for the 2026 Budget
 - *Public comments to the Board of Trustees is encouraged on agenda items. Comments will be limited
 
-## [pitkin#4] 2026-01-19 | City Council | minutes
+## [pitkin#3] 2026-01-19 | City Council | minutes
 - 2. For Board of Trustees discussion and possible action:
 - Approve meeting minutes: December 15th, 2025 Regular Meeting
 - No changes noted. Motion to approve meeting minutes as they are by Trustee Jerra
@@ -133,7 +105,7 @@
 - people in the Town of Pitkin want an RV Park, so he suggests we leave the RV Park issue up to a
 - an RV park here because it would just be too small a space to be able to camp on or do anything
 
-## [pitkin#5] 2026-02-16 | City Council | minutes
+## [pitkin#4] 2026-02-16 | City Council | minutes
 - 2. For Board of Trustees discussion and possible action:
 - One change on the third page. Motion to approve minutes as amended from Trustee Tom
 - Mayor Ed Pianalto pointed out that the Clerk did not send out the Budget v. Actual Report,
@@ -172,7 +144,7 @@
 - Public Comment by Bob Taylor
 - sign section, per Bob Taylor’s request. Trustee Tom Gibb asked if we can pass the other
 
-## [pitkin#6] 2026-04-20 | City Council | minutes
+## [pitkin#5] 2026-04-20 | City Council | minutes
 - 2. For Board of Trustees discussion and possible action:
 - Motion by Trustee Jerra Garetson to appoint Trustee Cory Nasso as Mayor Pro Tem. Mayor Ed
 - c) 2026 Resolution 4 – Declaring two Board Member positions as open

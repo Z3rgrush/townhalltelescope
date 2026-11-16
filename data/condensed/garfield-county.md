@@ -1,37 +1,13 @@
 # garfield-county
 
-## [garfield-county#0] 2026-08-17 | Board of County Commissioners - Meeting | agenda
-- PUBLIC COMMENTS FROM CITIZENS NOT ON THE AGENDA - 8:05 A.M
-- Items of a routine nature are placed on the Consent Agenda to allow the Board of County Commissioners to spend its time and energy on more important items on a lengthy agenda. Any Commissioner or any member of the public may request that an item be "REMOVED" from the Consent Agenda and considered on
-- Approve Bills
-- Approve funding for payroll dated 8/14/2026
-- Approve Interfund reimbursements
-- Recommendation to renew the contract with Colorado River BOCES to provide a behavior support coordinator for DHS. - Procurement Department
-- Recommendation and approval to renew the contract with McMahan and Associates LLC for financial auditing services. - Procurement Department
-- Chairman signature on approved IGA and resolution to distribute National Forest Reserve payments in 2026 - Jamaica Watts, Finance Director
-- Attachment_National_Forest_Reserve_Distribution_2025_Received_2026_IGA_Resolution.pdf
-- Valley Settlement - Sally Boughton, Director of Development and Communications
-- Public Health Report: Contracts/Agreements signed by Public Health Director including Colorado Prevention Center and various contracts with Colorado Department of Public Health and Environment (CDPHE) - Joshua Williams, Public Health Director
-- A request for the Board of County Commissioners to consider waiving landfill tipping fees as a result of the Slaughterhouse Gulch Mud Slide. - Del Whittington
-- Request a letter of support for the City of Glenwood Springs for their application to the Federal Lands Access Program (FLAP) for funding to advance the LoVa Trail through South Canyon- Jeanne Golay
-- 1. Attachment_Request_for_Letter_of_Support - LoVa Trail Project.pdf
-- 2. Attachment_LoVa_Trail_Project.pdf
-- A request for the Garfield County Commissioners to place the Garfield County Public Library District ballot issue on the November 3, 2026 Coordinated General Election ballot requesting voter approval to extend a portion of
-- FOR EXECUTION Garfield County BOCC Election Resolution - Final.pdf
-- the ad valorem property tax levy for the Garfield County Public Library District. - Adrian Rippy-Sheehy, President
-- To consider a request to unfreeze two positions in the Department of Human Services for 2026 to include 1) an Eligibility Tech and 2) Child Support Manager. - Sharon Longhurst-Pritt, DHS Director
-- 1. Attachment_ES_Vacant_Position_Justification.pdf
-- 2. Attachment_2026-Justification_for_unfreezing_CSS_position.pdf
-- Recommendation and approval to award a sole source contract to City of Rifle to provide congregate meal services for western Garfield County – Cim Keesbery and Sharon Longhurst-Pritt
-
-## [garfield-county#1] 2026-08-26 | Planning Commission | agenda
+## [garfield-county#0] 2026-08-26 | Planning Commission | agenda
 - Approval of Minutes for July 22, 2026
 - Public Hearing
 - Public Hearing for a rezoning from Rural to PUD and a Major Subdivision Sketch Plan review for The Michell Creek Community PUD located at 50235 Highway 6/24 Glenwood Springs CO, 81601. Parcel #s 218506200076, 218506200064, 218506200073, & 218506200077. The owner is AMICHAUX Limited Partnership LLLP.
 - Attachment_Mitchell_Creek_Community_PUD_Rezoning_and_Major_Sketch_Plan_Staff_Report_and_Exhibits
 - Attachment_Mitchell_Creek_Community_PUD_Rezoning_and_Major_Sketch_Plan_Application
 
-## [garfield-county#2] 2026-09-08 | Board of County Commissioners | agenda
+## [garfield-county#1] 2026-09-08 | Board of County Commissioners | agenda
 - PUBLIC COMMENTS FROM CITIZENS NOT ON THE AGENDA - 8:05 a.m
 - Items of a routine nature are placed on the Consent Agenda to allow the Board of County Commissioners to spend its time and energy on more important items on a lengthy agenda. Any Commissioner or any member of the public may request that an item be "REMOVED" from the Consent Agenda and considered on
 - Approve Bills
@@ -53,7 +29,7 @@
 - located approximately 4 miles east of the Town of Carbondale on Parcel No. 2391-311-23-010 (File No. SPPA-10-24-9037). The applicant is Aspen Polo Partners, LLP, represented by Jon Fredericks LANDWEST Colorado LLC - Glenn Hartmann, Director
 - Ratification of the Chairman’s signature on a Resolution correcting a scribers error in Resolution 2025-41 at Reception # 1011710 and the Land Use Change permit for The Clough NR 41-3 gas pad located at Parcel
 
-## [garfield-county#3] 2026-09-14 | Board of County Commissioners | agenda
+## [garfield-county#2] 2026-09-14 | Board of County Commissioners | agenda
 - PUBLIC COMMENTS FROM CITIZENS NOT ON THE AGENDA - 9:05 a.m
 - Public Hearings:
 - Public Hearing to review and consider an application for a Special Event Permit for Journey Home Animal Care Center,
@@ -72,13 +48,13 @@
 - 1. Discussion and brief overview of our USDA Rural Development programs and stakeholder engagement pertaining to Affordable Housing - Sallie Clark, State Director, Colorado State Office, US Department of Agriculture
 - Garfield County Housing Authority Update - Cheryl Strouse
 
-## [garfield-county#4] 2026-09-15 | Board of County Commissioners - Work Session | agenda
+## [garfield-county#3] 2026-09-15 | Board of County Commissioners - Work Session | agenda
 - Discussion and a brief overview of our USDA Rural Development programs and stakeholder engagement pertaining to Affordable Housing - Sallie Clark, State Director, Colorado State Office, U.S. Department of Agriculture
 - Garfield County Housing Authority update – Cheryl Strouse
 - 2. Attachment_HUD Action Plan.pdf
 - Attachment_HCE Presentation to Garfield County 9-10-2026.pdf
 
-## [garfield-county#5] 2026-09-21 | Board of County Commissioners - Meeting | agenda
+## [garfield-county#4] 2026-09-21 | Board of County Commissioners - Meeting | agenda
 - PUBLIC COMMENTS FROM CITIZENS NOT ON THE AGENDA - 8:05 A.M
 - Items of a routine nature are placed on the Consent Agenda to allow the Board of County Commissioners to spend its time and energy on more important items on a lengthy agenda. Any Commissioner or any member of the public may request that an item be "REMOVED" from the Consent Agenda and considered on
 - Approve bills
@@ -101,7 +77,7 @@
 - Attachment_Request_for_5-year Lease_Renewal_for_L3Harris - Communication Towers.pdf
 - Presentation of Garfield County Housing Authority Annual Report and 2027 funding request of $90,000.00 - Cheryl Strouse
 
-## [garfield-county#6] 2026-09-23 | Planning Commission | agenda
+## [garfield-county#5] 2026-09-23 | Planning Commission | agenda
 - Approval of Minutes for August 26, 2026
 - Public Hearing
 - Glenn Hartmann - Community Development Director
@@ -110,7 +86,7 @@
 - Community Development Staff
 - b. Work session concerning SB24-174 Comprehensive Plan Requirements, O&G Text Amendments, and Future Land Use Map Updates
 
-## [garfield-county#7] 2026-10-05 | Board of County Commissioners | agenda
+## [garfield-county#6] 2026-10-05 | Board of County Commissioners | agenda
 - PUBLIC COMMENTS FROM CITIZENS NOT ON THE AGENDA - 8:05 a.m
 - Items of a routine nature are placed on the Consent Agenda to allow the Board of County Commissioners to spend its time and energy on more important items on a lengthy agenda. Any Commissioner or any member of the public may request that an item be "REMOVED" from the Consent Agenda and considered on
 - Approve Bills
@@ -135,13 +111,13 @@
 - Presentations and Information Items:
 - Annual update for Colorado River District, including an update on Shoshone Water Rights Preservation project. - Andy Mueller, General Manager and Amy Moyer, Chief of Strategy
 
-## [garfield-county#8] 2026-10-06 | Board of County Commissioners - Budget Hearings | agenda
+## [garfield-county#7] 2026-10-06 | Board of County Commissioners - Budget Hearings | agenda
 - Board of County Commissioners - Budget Hearings - October 06, 2026
 - Public Hearing:
 - BOCC, Grants & County Manager
 - Facilities, Remote Communications & Broadba
 
-## [garfield-county#9] 2026-10-12 | Board of County Commissioners | agenda
+## [garfield-county#8] 2026-10-12 | Board of County Commissioners | agenda
 - PUBLIC COMMENTS FROM CITIZENS NOT ON THE AGENDA - 8:05 a.m
 - Abatement Hearing
 - Account R540091 - 1190 Birch Street LLC - Abatement #27-101
@@ -172,7 +148,7 @@
 - Chairman of Forest Improvement District Subcommittee
 - 101 W 8th Street, City Hall Council Chambers
 
-## [garfield-county#10] 2026-10-14 | Planning Commission | agenda
+## [garfield-county#9] 2026-10-14 | Planning Commission | agenda
 - Approval of Minutes for August 26, 2026, and September 23, 2026
 - Public Hearing
 - Glenn Hartmann - Community Development Director
@@ -183,7 +159,7 @@
 - Attachment_LakeSpringsRanch_Supplemental_Application_Materials
 - Attachment_LakeSpringsRanch_Supplemental_Application_Materials.pdf
 
-## [garfield-county#11] 2026-10-19 | Board of County Commissioners - Meeting | agenda
+## [garfield-county#10] 2026-10-19 | Board of County Commissioners - Meeting | agenda
 - PUBLIC COMMENTS FROM CITIZENS NOT ON THE AGENDA - 8:05 A.M
 - Items of a routine nature are placed on the Consent Agenda to allow the Board of County Commissioners to spend its time and energy on more important items on a lengthy agenda. Any Commissioner or any member of the public may request that an item be "REMOVED" from the Consent Agenda and considered on
 - Approve Bills
@@ -209,13 +185,13 @@
 - Request of discretionary grant funding of $2,500.00 for Free for All Book Fair - Caitlin Causey and Marilyn Cupples
 - Request of discretionary grant funding of $5,000.00 for Youthentity - Kris Freeman
 
-## [garfield-county#12] 2026-10-20 | Board of County Commissioners - Work Session | agenda
+## [garfield-county#11] 2026-10-20 | Board of County Commissioners - Work Session | agenda
 - Presentation: A Summary of the Workforce Analysis - Kara Skinner, Director at MGT
 - MGT Presentation Work Session 102026.pdf
 - Early Childhood District Presentation - Sam Markovitz, Executive Director
 - Forest Improvement District Presentation - Kevin Whelan, Chairman of Forest Improvement District and Subcommittee
 
-## [garfield-county#13] 2026-11-02 | Board of County Commissioners | agenda
+## [garfield-county#12] 2026-11-02 | Board of County Commissioners | agenda
 - PUBLIC COMMENTS FROM CITIZENS NOT ON THE AGENDA - 8:05 a.m
 - Consideration to issue a temporary permit Hotel & Restaurant liquor license for GVC Glenwood LLC DBA Glenwood Caverns Adventure Park located at 2392 Transfer Trail, Glenwood Springs, CO 81601
 - Public Hearings:
@@ -243,3 +219,30 @@
 - Authorization for the Chairman to Sign the First Amendment to Affordable Housing Plan and Agreement Oak Meadows Ranch, Filing 4B, Phase III
 - Attachment_OakMeadows_Affordable_Housing_Plan.pdf
 - The Amendment was approved by the Board on July 21, 2026. Parties and Signatories to the agreement include Habitat for Humanity, the Developer Gary Johnson and Garfield County Housing Authority - Glenn Hartmann, Director of Community Development
+
+## [garfield-county#14] 2026-11-09 | Board of County Commissioners | agenda
+- PUBLIC COMMENTS FROM CITIZENS NOT ON THE AGENDA - 8:05 a.m
+- Budget Discussion
+- Attachement_No_Documentation_Jankovsky_Budget.pdf
+- Items of a routine nature are placed on the Consent Agenda to allow the Board of County Commissioners to spend its time and energy on more important items on a lengthy agenda. Any Commissioner or any member of the public may request that an item be "REMOVED" from the Consent Agenda and considered on
+- Approve bills
+- Approve funding for payroll dated 11/6/2026
+- Recommendation to renew the contract with Gunsight Holdings, LLC dba Daly Property Services for snow plowing and ice removal services. - Procurement
+- Approval of a resolution establishing the 2026 Voluntary Early Retirement Incentive Program for the Garfield County Sheriff's Office - Lou Vallario, Garfield County Sheriff and Cathy Dalla, Commander
+- Attachment_2026_Volunteer Early Retire Incentive Program Resolution.pdf
+- To consider appointments to the Garfield County Public Library Board for the Silt Area Representative seat and the At-large seat. - Fred Jarman, Garfield County Manager
+- Attachment_Library_Board_Appointments.pdf
+- To consider a request by Judy Brannberg to lease a property owned by Garfield County located at 949 Railroad Avenue for the purpose of housing the planned Garfield County School of Innovation. - Fred Jarman, Garfield County Manager
+- Approval of Right of Way (ROW) Permits for County Road 320 and Prefontaine Avenue - Craig Spaulding, Public Works Director, Tyler Terry, District 3 Foreman, and Scott Marsh, Road and Bridge Director
+- Consider letter of support for Rifle Creek Watershed Resilience and Habitat Restoration Project. - Austin Rickstrew, City of Rifle Parks and Recreation Director and Iris Trevisano, City of Rifle Grant and Procurement Manager
+- Attachment_Letter_Rifle_Creek_Watershed_Resilience.pdf
+- Approval of Garfield County Fair Board and Livestock Marketing Committee Officers - Kelsy Velazquez, Garfield County Fairgrounds and Events Coordinator
+- Attachment_BOCC Agenda Request_Fair_Board_Officers.pdf
+- Approval of Garfield County Fair Partner Chairs - Kelsy Velazquez, Garfield County Fairgrounds and Events Coordinator
+- Attachment_Request_Fair_Partner_Chairs.pdf
+- Presentations and Information Items:
+- Public Hearings:
+- An executive session may be requested on any item appearing on the agenda
+- REGULAR AGENDA: COMMUNITY DEVELOPMENT ISSUES:
+- 108 8th Street, Room 100
+- Presentation of Glenwood Springs Association housing summit whitepaper – Diane Schwenke and Matt Starr

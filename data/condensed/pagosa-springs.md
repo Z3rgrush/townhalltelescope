@@ -1,62 +1,6 @@
 # pagosa-springs
 
-## [pagosa-springs#0] 2026-08-11 | Planning Commission | agenda
-- Public comment and agenda comment item sign-up sheets are available at the meeting
-- Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
-- Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast capability
-
-## [pagosa-springs#1] 2026-08-13 | Main Street Advisory | agenda
-- Public comment and agenda comment item sign-up sheets are available at the meeting
-- Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
-- Main Street Advisory
-- Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast capability
-- IV. PUBLIC COMMENT
-- V. APPROVAL OF MINUTES
-- No minutes for approval
-- 1. Main Street Coordinator Report
-- 2. Main Street Art Walk
-
-## [pagosa-springs#2] 2026-08-13 | Main Street Advisory | agenda
-- Public comment and agenda comment item sign-up sheets are available at the meeting
-- Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
-- Main Street Advisory
-- Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast capability
-- IV. PUBLIC COMMENT
-- V. APPROVAL OF MINUTES
-- No minutes for approval
-- 1. Main Street Coordinator Report
-- 2. Main Street Art Walk
-- MEETING: Main Street Advisory Board Meeting - August 13, 2026
-- PROJECT: Main Street Coordinator Report
-- ACTION: Discussion
-- Meeting/Board Update: As a reminder, we were unable to conduct an official Main Street Advisory
-- informal discussion only, but no Board action was taken and no official minutes were prepared. The July
-- appointments, which is included as a separate agenda item
-- Main Street Board/Governance: I continued work on Board membership and governance, including
-- confirming reappointment interest from two current members and recruiting one additional member as
-- the Board expands from 10 to 11. Two applications have been received to date, with recruitment
-- remaining open through August 16. The appointment process and next steps are included as a separate
-- representation, and related bylaw updates
-- the Lewis Street intersection, 3rd Street, South 7th Street, the Overlook parking lot, and work in the 100
-- Post-Construction Transformation Strategies/2027 Planning: With highway reconstruction moving
-- closer to completion, it is almost time to revisit our Main Street Transformation Strategies for the post
-- During my recent monthly one-on-one with Colorado Main Street/DOLA, we discussed the need to
-- update the strategies, and DOLA noted that funding may be available to support the process and added
-- This process will also give us an opportunity to step back and look at the broader role we want Main
-- Street to play going forward, while being realistic about available capacity and sustainability
-- Looking ahead, anticipated October/November items include the 2027 Transformation Strategies and
-- Work Plan, discussion of a possible Downtown Coordinated Hours pilot, the 2027 Board meeting
-- Business Assistance Grant Fund: Work on the Business Assistance Grant Fund remained on hold during
-- verification of the opt-in list, calculation of equitable shares, and distribution. The broader business
-- contact update and directory work will continue separately rather than delaying the fund closeout
-- PSCDC/Town of Pagosa Springs Agreement for Services: The existing agreement between PSCDC and
-
-## [pagosa-springs#3] 2026-08-14 | General | agenda
-- broadcast capability
-- I. PAGOSA SPRINGS AREA TOURISM BOARD STRATEGIC RETREAT
-- 1. Updating Board Mission, Vision, Priorities, Goals, and Work Plan
-
-## [pagosa-springs#4] 2026-08-18 | Town Council | minutes
+## [pagosa-springs#0] 2026-08-18 | Town Council | minutes
 - V. PUBLIC COMMENT
 - 1. Approval of the August 4, 2026 Meeting Minutes
 - Council Member deGraaf moved to approve the consent agenda, Council Member Lindner
@@ -93,7 +37,7 @@
 - the San Juan River Park, and leave it up to staff to add on any names in the future, Council
 - 1. Resolution 2026-13, Supporting and Agreement with the State Board of the Great
 
-## [pagosa-springs#5] 2026-08-18 | General | minutes
+## [pagosa-springs#1] 2026-08-18 | General | minutes
 - Sanitation General Improvement District Meeting
 - A special meeting of the Town of Pagosa Springs Sanitation General Improvement District was called
 - IV. PUBLIC COMMENT
@@ -112,7 +56,7 @@
 - property and the Rosita Street Alley. All utilities have been marked and potholed to help
 - replacement project
 
-## [pagosa-springs#6] 2026-08-20 | General | agenda
+## [pagosa-springs#2] 2026-08-20 | General | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast capability
@@ -120,7 +64,7 @@
 - 1. Approval of Minutes from May 14th,2026
 - VII. PUBLIC COMMENT
 
-## [pagosa-springs#7] 2026-08-20 | General | agenda
+## [pagosa-springs#3] 2026-08-20 | General | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast capability
@@ -135,7 +79,7 @@
 - PROJECT: a) Mark Rane- Geothermal Sculpture Update
 - PROJECT: b) Bell Tower Doors
 
-## [pagosa-springs#8] 2026-08-20 | Main Street Advisory | agenda
+## [pagosa-springs#4] 2026-08-20 | Main Street Advisory | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Main Street Advisory
@@ -150,7 +94,7 @@
 - illustrator should be evaluated as a practical completion strategy
 - 4. Other Heritage Projects, Time Permitting
 
-## [pagosa-springs#9] 2026-08-24 | General | agenda
+## [pagosa-springs#5] 2026-08-24 | General | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - County Administration Building 398 Lewis Street
@@ -158,7 +102,7 @@
 - County and Town's broadcast capability
 - IV. Housing Action Plan
 
-## [pagosa-springs#10] 2026-08-25 | Planning Commission | agenda
+## [pagosa-springs#6] 2026-08-25 | Planning Commission | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast capability
@@ -171,7 +115,7 @@
 - 4. Rezoning properties located at 189 Talisman Drive, 190 Talisman Drive, 191
 - IX. PUBLIC COMMENT
 
-## [pagosa-springs#11] 2026-09-01 | Sanitation General Improvement District | minutes
+## [pagosa-springs#7] 2026-09-01 | Sanitation General Improvement District | minutes
 - Sanitation General Improvement District Meeting
 - A regular meeting of the Town of Pagosa Springs Sanitation General Improvement District was called
 - IV. PUBLIC COMMENT
@@ -187,7 +131,7 @@
 - projects. Staff has applied for a $900,000 grant for the 1st Street lift station replacement
 - Board Member deGraaf moved to approve the purchase of surge tanks from Pipestone
 
-## [pagosa-springs#12] 2026-09-01 | General | minutes
+## [pagosa-springs#8] 2026-09-01 | General | minutes
 - V. PUBLIC COMMENT
 - VI. PRESENTATIONS
 - CSU Extension Director and Community Development Specialist Cindi Galabota provided
@@ -218,7 +162,7 @@
 - Council Member Martinez moved to extend a contract with Mr. Harris, Council Member
 - Council Members Martinez and Mayor Pierce will assist in crafting the extension contract
 
-## [pagosa-springs#13] 2026-09-03 | Combined Parks and Recreation Advisory | agenda
+## [pagosa-springs#9] 2026-09-03 | Combined Parks and Recreation Advisory | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Combined Parks and Recreation Advisory
@@ -230,7 +174,7 @@
 - 1. Parks and Recreation Report
 - XII. PUBLIC COMMENT
 
-## [pagosa-springs#14] 2026-09-03 | Combined Parks and Recreation Advisory | agenda
+## [pagosa-springs#10] 2026-09-03 | Combined Parks and Recreation Advisory | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Combined Parks and Recreation Advisory
@@ -269,7 +213,7 @@
 - ACTION: Discussion and Action
 - Discussion of possible location and recommendations
 
-## [pagosa-springs#15] 2026-09-08 | Planning Commission | agenda
+## [pagosa-springs#11] 2026-09-08 | Planning Commission | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast capability
@@ -281,7 +225,7 @@
 - 2. Ponderosa Mountain Planned Development Agreement
 - IX. PUBLIC COMMENT
 
-## [pagosa-springs#16] 2026-09-15 | Sanitation General Improvement District | minutes
+## [pagosa-springs#12] 2026-09-15 | Sanitation General Improvement District | minutes
 - Sanitation General Improvement District Meeting
 - A special meeting of the Town of Pagosa Springs Sanitation General Improvement District was called
 - IV. PUBLIC COMMENT
@@ -292,7 +236,7 @@
 - Town Manager David Harris presented highlights of the proposed 2027 GID budget to the
 - Board. A more detailed presentation will happen during the Council meeting
 
-## [pagosa-springs#17] 2026-09-15 | Town Council | minutes
+## [pagosa-springs#13] 2026-09-15 | Town Council | minutes
 - V. PUBLIC COMMENT
 - 1. Approval of the September 1, 2026 Meeting Minutes
 - 3. Resolution 2026-18, Supporting the submission of a History Colorado - State
@@ -329,7 +273,7 @@
 - 3. A public hearing regarding proposed rates for services provided by G&I Sanitation
 - The town charter requires a public hearing before a franchise holder can establish new rates
 
-## [pagosa-springs#18] 2026-09-16 | Area Tourism Board | agenda
+## [pagosa-springs#14] 2026-09-16 | Area Tourism Board | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast capability
@@ -338,7 +282,7 @@
 - 1. Strategic Planning Retreat Report
 - 1. Draft 2027 Budget Discussion
 
-## [pagosa-springs#19] 2026-09-16 | Area Tourism Board | agenda
+## [pagosa-springs#15] 2026-09-16 | Area Tourism Board | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast capability
@@ -376,13 +320,13 @@
 - Retreat held Friday, August 14, 2026 Prepared by ZacTax Strategic Services
 - The Tourism Advisory Board of the Town of Pagosa Springs and Archuleta County convened a strategic
 
-## [pagosa-springs#20] 2026-09-16 | Dark Sky Steering Committee | agenda
+## [pagosa-springs#16] 2026-09-16 | Dark Sky Steering Committee | agenda
 - broadcast capability
 - III. PUBLIC COMMENT
 - 1. Lighting Management Plan
 - 3. Purchases for Old Fashioned Christmas
 
-## [pagosa-springs#21] 2026-09-17 | General | agenda
+## [pagosa-springs#17] 2026-09-17 | General | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Main Street Advisory
@@ -393,7 +337,7 @@
 - 3. Confirm Next Steps, Timeline, and Assignments – Identify immediate follow-up
 - communication as the project moves forward
 
-## [pagosa-springs#22] 2026-09-21 | Town Council | agenda
+## [pagosa-springs#18] 2026-09-21 | Town Council | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast capability
@@ -404,12 +348,12 @@
 - 2. - 5-Year Capital Plan
 - Fee Schedule
 
-## [pagosa-springs#23] 2026-09-22 | Planning Commission | agenda
+## [pagosa-springs#19] 2026-09-22 | Planning Commission | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast capability
 
-## [pagosa-springs#24] 2026-09-22 | Town Council | agenda
+## [pagosa-springs#20] 2026-09-22 | Town Council | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast capability
@@ -420,18 +364,18 @@
 - 2. - 5-Year Capital Plan
 - Fee Schedule
 
-## [pagosa-springs#25] 2026-09-28 | Joint Town/County Work Session | agenda
+## [pagosa-springs#21] 2026-09-28 | Joint Town/County Work Session | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast capability
 - III. Upper San Juan Watershed Enhancement Partnership Briefing
 - IV. Housing Action Plan
 
-## [pagosa-springs#26] 2026-10-01 | Dark Sky Steering Committee | agenda
+## [pagosa-springs#22] 2026-10-01 | Dark Sky Steering Committee | agenda
 - broadcast capability
 - 1. Lighting Management Plan
 
-## [pagosa-springs#27] 2026-10-01 | Dark Sky Steering Committee | agenda
+## [pagosa-springs#23] 2026-10-01 | Dark Sky Steering Committee | agenda
 - broadcast capability
 - 1. Lighting Management Plan
 - MEETING: Lighting Management Plan Work Session
@@ -464,7 +408,7 @@
 - Any light used for illumination of signs, parking and security area, or for any purpose other than
 - street lighting shall be arranged to direct and confine all light beams to the subject property and
 
-## [pagosa-springs#28] 2026-10-06 | Sanitation General Improvement District | minutes
+## [pagosa-springs#24] 2026-10-06 | Sanitation General Improvement District | minutes
 - Sanitation General Improvement District Meeting
 - A regular meeting of the Town of Pagosa Springs Sanitation General Improvement District was called
 - IV. PUBLIC COMMENT
@@ -496,7 +440,7 @@
 - Board Member Martinez moved to approve Resolution 2026-02, adopting the 2027 budget
 - and fee schedule, Board Member deGraaf seconded. Motion Passed
 
-## [pagosa-springs#29] 2026-10-06 | Town Council | minutes
+## [pagosa-springs#25] 2026-10-06 | Town Council | minutes
 - V. PUBLIC COMMENT
 - Mr. Eddie Archuleta said the jake brake ordinance is not being enforced. He said the Town
 - prosecutor has not called about restitution for his truck. He said the parking lot next to the library
@@ -535,12 +479,12 @@
 - fee schedule, and capital plan, Council Member deGraaf seconded. Motion Passed
 - 1. Ordinance 1042, First Reading, Ponderosa Mountain Planned Development
 
-## [pagosa-springs#30] 2026-10-12 | Dark Sky Steering Committee | agenda
+## [pagosa-springs#26] 2026-10-12 | Dark Sky Steering Committee | agenda
 - broadcast capability
 - III. PUBLIC COMMENT
 - 1. Lighting Management Plan Review
 
-## [pagosa-springs#31] 2026-10-13 | Planning Commission | agenda
+## [pagosa-springs#27] 2026-10-13 | Planning Commission | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast capability
@@ -550,7 +494,7 @@
 - Design Review, 449, 473, and 497 San Juan Street, Ronnie Urbanczyk
 - VIII. PUBLIC COMMENT
 
-## [pagosa-springs#32] 2026-10-20 | Town Council | minutes
+## [pagosa-springs#28] 2026-10-20 | Town Council | minutes
 - V. PUBLIC COMMENT
 - Ms. Rachel Suh said she is asking Council to approve a large scale moratorium on development
 - due to infrastructure needs. She said single family homes rather than large development would
@@ -589,28 +533,28 @@
 - Coordinator, said the Housing Action Plan addresses the housing needs in the community
 - The developers provided information about the proposed development. Mr. Fink said this
 
-## [pagosa-springs#33] 2026-10-26 | Joint Town/County Work Session | agenda
+## [pagosa-springs#29] 2026-10-26 | Joint Town/County Work Session | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast
 
-## [pagosa-springs#34] 2026-10-27 | Planning Commission | agenda
+## [pagosa-springs#30] 2026-10-27 | Planning Commission | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast
 
-## [pagosa-springs#35] 2026-10-28 | Area Tourism Board | agenda
+## [pagosa-springs#31] 2026-10-28 | Area Tourism Board | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - IV. PUBLIC COMMENT
 - 1. 2026 Flood Discussion
 
-## [pagosa-springs#36] 2026-10-31 | Town Council | agenda
+## [pagosa-springs#32] 2026-10-31 | Town Council | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast
 
-## [pagosa-springs#37] 2026-11-03 | Urban Renewal Authority | agenda
+## [pagosa-springs#33] 2026-11-03 | Urban Renewal Authority | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast
@@ -620,7 +564,7 @@
 - 2. Public Hearing on 2027 PSURA Budget
 - 3. Resolution 2026-01, Approving 2027 URA Budget
 
-## [pagosa-springs#38] 2026-11-03 | Urban Renewal Authority | agenda
+## [pagosa-springs#34] 2026-11-03 | Urban Renewal Authority | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast
@@ -660,7 +604,7 @@
 - Section 1. Budget Submission. The 2027 Budget with amendment(s), if any, is
 - attached hereto and incorporated herein by reference as Exhibit A, is hereby approved and
 
-## [pagosa-springs#39] 2026-11-03 | Sanitation General Improvement District | agenda
+## [pagosa-springs#35] 2026-11-03 | Sanitation General Improvement District | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Sanitation General Improvement District
@@ -670,7 +614,7 @@
 - 1. Resolution 2026-03, Certifying Delinquent Sanitation Accounts
 - 2. Ordinance 22, First Reading, Exclusion of Miller Property from the PSSGID
 
-## [pagosa-springs#40] 2026-11-03 | Sanitation General Improvement District | agenda
+## [pagosa-springs#36] 2026-11-03 | Sanitation General Improvement District | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Sanitation General Improvement District
@@ -706,7 +650,7 @@
 - fees. The proposed mill levy of .904 will generate $81,008 in property tax. Once the final
 - assessment is received from the Assessor, the Secretary will submit the final mill levy to the
 
-## [pagosa-springs#41] 2026-11-03 | Town Council | agenda
+## [pagosa-springs#37] 2026-11-03 | Town Council | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast
@@ -719,7 +663,7 @@
 - 3. Ordinance 1041, An Emergency Ordinance Continuing the Mayor and Town Manager
 - X. PUBLIC COMMENT
 
-## [pagosa-springs#42] 2026-11-03 | Town Council | agenda
+## [pagosa-springs#38] 2026-11-03 | Town Council | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast
@@ -760,7 +704,7 @@
 - Mountain, located near Hwy 160 and Goldmine Drive. The development will include
 - commercial lodging, housing, including workforce housing (90%-130% AMI and deed
 
-## [pagosa-springs#43] 2026-11-05 | Combined Parks and Recreation Advisory | agenda
+## [pagosa-springs#39] 2026-11-05 | Combined Parks and Recreation Advisory | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Combined Parks and Recreation Advisory
@@ -772,7 +716,7 @@
 - 1. Parks and Recreation Report
 - 1. Parks and Recreation 2027 Budget
 
-## [pagosa-springs#44] 2026-11-05 | Combined Parks and Recreation Advisory | agenda
+## [pagosa-springs#40] 2026-11-05 | Combined Parks and Recreation Advisory | agenda
 - Public comment and agenda comment item sign-up sheets are available at the meeting
 - Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
 - Combined Parks and Recreation Advisory
@@ -810,3 +754,12 @@
 - VIII. APPROVAL OF MINUTES
 - 1. Approval minutes 6/4/26
 - A motion was made and seconded to approve the minutes. There was brief discussion
+
+## [pagosa-springs#41] 2026-11-10 | Planning Commission | agenda
+- Public comment and agenda comment item sign-up sheets are available at the meeting
+- Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
+- Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast
+- III. APPROVAL OF MINUTES
+- IV. PUBLIC COMMENT
+- 1. Town Terrace, 262 Pagosa Street, Density Bonus
+- VIII. PUBLIC COMMENT

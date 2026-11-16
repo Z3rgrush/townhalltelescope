@@ -1,141 +1,168 @@
-- title: Pool ballot question and sales tax agreement with the Recreation and Park District
-  summary: Council met jointly with the Cañon City Area Recreation and Park District on ballot language and a revised pool project. Resolution 12, Series 2026 asks voters to let the city keep previously collected tax and continue the temporary 0.30% sales and use tax for the community pool. The related intergovernmental agreement with the District caps bonds at $18 million and would end collection if the question fails.
+- title: Community pool sales tax and agreement with the Recreation and Park District
+  summary: Council took up an intergovernmental agreement with the Cañon City Area Metropolitan Recreation and Park District and Resolution 12 on keeping the 0.3% pool sales and use tax and collected revenue. The draft agreement caps bonds at $18 million for a community pool facility, to be operated as an extended seasonal pool, and says the tax would end if the 2026 ballot question fails.
   where: Citywide
   refs:
-  - 2
-  - 8
-  - 9
+  - 0
+  - 10
+  - 44
   topics:
   - Recreation & trails
   - Budget & taxes
-  - Fees & rates
-- title: 2027 city budget and budget workshops
-  summary: Staff began 2027 budget planning in August and held committee workshops on police, the Parks Improvement Fund, stormwater and raw water. Council held the 2027 budget public hearing on October 21 and continued it on November 2. The budget includes street, water, stormwater and park projects. The committee also discussed 2026 underspending and a compensation study.
+  - Government operations
+- title: 2027 city budget
+  summary: Council held budget hearings on Oct 21 and Nov 2-4 and moved to adopt the 2027 budget by resolution and ordinance in mid-November. Committees held budget workshops on police, parks, stormwater and raw water, and discussed 2026 underspending. The budget covers street projects funded by the 2A tax, water and stormwater funds, parks and the pool tax fund.
   where: Citywide
   refs:
-  - 3
-  - 22
-  - 39
+  - 13
+  - 30
+  - 35
+  - 38
+  - 40
   - 44
-  - 47
-  - 49
-  - 53
+  - 60
+  - 65
   - 69
   topics:
   - Budget & taxes
   - Government operations
-- title: 2A street program and pavement management
-  summary: Staff reported 40 roadway projects completed under the 1% 2A street sales tax, which was renewed through 2036. Projects include N 9th Street segments and a Griffin Avenue design slated to bid in October 2026. Staff recommended delivery methods for 2027 projects, updating the pavement plan in 2028, and continued magnesium chloride on gravel roads. Ordinance 14 amends code on the 2A tax.
+- title: City compensation and classification study, including police pay
+  summary: Staff presented a compensation and classification plan that moves many positions up pay grades, such as parks and streets crew leaders, water plant operators and police records technicians. Council was asked whether to fund phase 1 for police officers or the full plan in the 2027 budget. A committee also reviewed compensation and retention for police.
+  where: Citywide
+  refs:
+  - 13
+  - 60
+  - 65
+  - 69
+  topics:
+  - Budget & taxes
+  - Policing & public safety
+  - Government operations
+  public_comment: true
+- title: Water and stormwater rate increases
+  summary: The Water Committee discussed a 7% water rate increase and a 3.9% stormwater rate increase, along with water conservation and which tier to use for the shortage response plan. Ordinances 19 (water rates) and 20 (stormwater rates) went to council in November.
   where: Citywide
   refs:
   - 3
-  - 50
+  - 25
+  - 54
+  - 60
+  - 65
   - 69
   topics:
-  - Roads & traffic
-  - Budget & taxes
-- title: Water quality, drought, bills and rate increases
-  summary: Council and the Water Committee discussed water quality, water bills, drought availability and which tier of shortage response plan to adopt. The committee reviewed a 7% water rate increase and a 3.9% stormwater rate increase. Ordinances 19 and 20 on water and stormwater rates were on the November 2 agenda.
-  where: Citywide
-  refs:
-  - 4
-  - 12
-  - 34
-  - 63
-  - 69
-  topics:
-  - Water
   - Fees & rates
-- title: Ditch and culvert maintenance rules
-  summary: Draft code language defines culverts, ditches and obstructions and puts maintenance of private culverts and stormwater ditches on property owners. It was before Council on October 7 and the Water Committee on October 28 under a Title 19 discussion.
-  where: Citywide
-  refs:
-  - 43
-  - 63
-  topics:
+  - Water
   - Utilities
-  - Land & property
-- title: Royal Gorge lease termination and Royal Gorge Mountain Park trails
-  summary: Council held closed sessions on negotiation strategy for terminating the Royal Gorge lease agreement with Royal Gorge Company of Colorado. Council also considered a state grant resolution for Royal Gorge Mountain Park, which was removed from the October 5 agenda. The Trails Committee planned to walk the contemplated South Rim Trail.
+- title: Royal Gorge Lease Agreement termination and park trails
+  summary: Council repeatedly met in executive session on negotiation strategy and the termination of the Royal Gorge Lease Agreement with Royal Gorge Company of Colorado. A Royal Gorge Mountain Park Trails Committee is also planning trails, including the South Rim Trail, and a state grant application resolution was pulled from the Sept 21 agenda.
   where: Royal Gorge Mountain Park
   refs:
-  - 15
+  - 6
+  - 19
+  - 23
   - 28
-  - 32
   - 37
-  - 46
+  - 49
   - 58
-  - 67
+  - 63
   topics:
   - Land & property
   - Recreation & trails
-  - Tourism & events
-- title: City attorney resignation and search
-  summary: Council discussed next steps after the city attorney resigned. A relationship study committee and a search committee have met repeatedly, with a search committee update on November 2.
+  - Lawsuits & legal
+- title: City Attorney resignation and search for a replacement
+  summary: Council discussed next steps after the city attorney resigned. A relationship study committee and a City Attorney Search Committee met repeatedly through the fall, and a proposed RFP was discussed in November.
   where: Citywide
   refs:
+  - 19
+  - 26
   - 28
-  - 35
-  - 37
-  - 38
-  - 48
+  - 29
+  - 39
+  - 42
+  - 43
+  - 46
   - 51
   - 52
+  - 57
   - 60
   - 61
+  - 65
   - 69
   topics:
   - Government operations
-- title: Centennial Park plaza and parking design options
-  summary: Council weighed two design options for a public plaza and about 17 parking spaces. The first uses bids from April 2026 of $939,559.78 and $971,290.03, with Gordon Construction asking a $10,000 adjustment. The second is a basic plaza with the stage, restroom and electrical removed, needing $57-94K to design and possibly stormwater work. Funding is 100% city dollars.
-  where: Downtown Cañon City
-  refs:
-  - 20
-  - 59
-  topics:
-  - Parks & open space
-  - Budget & taxes
-- title: Western Gateway Park Framework Plan
-  summary: The Planning Commission held a hearing on a resolution adopting the Western Gateway Park Framework Plan, which fulfills the 2021 Comprehensive Plan's riverfront vision. It then went to Council on November 2.
-  where: West of South 1st Street, north of the Arkansas River
-  refs:
-  - 64
-  - 69
-  topics:
-  - Parks & open space
-  - Zoning & development
-- title: Police impound lot fence variances
-  summary: The Board of Adjustment heard a request for four variances from fence standards to build security fencing around the expanded police impound lot at 161 Justice Center Road. Staff had received no public comment letters as of September 30.
+  - Lawsuits & legal
+- title: Police impound lot fence variances at 161 Justice Center Road
+  summary: The Board of Adjustment heard a request for four variances from fence standards to build a 6-foot galvanized chain link security fence around the expanded police impound lot. The hearing was continued from Oct 6 to Nov 3, and staff had received no public comment letters as of Sept 30.
   where: 161 Justice Center Road
   refs:
-  - 40
+  - 31
+  - 62
   topics:
-  - Zoning & development
   - Policing & public safety
-- title: Urban renewal grants and 4-Mile Ranch development
-  summary: The Urban Renewal Authority held a pre-budget grant discussion, a building systems grant for 320 Main Street, and a special project grant application for 111 N. Cottonwood. Council also held a closed session on revenue sharing agreements and a Master Development Agreement for 4-Mile Ranch.
-  where: 320 Main Street; 111 N. Cottonwood; 4-Mile Ranch
+  - Zoning & development
+- title: Western Gateway Park Framework Plan and Main Street plaza design
+  summary: Planning Commission reviewed a resolution adopting the Western Gateway Park Framework Plan, west of South 1st Street and north of the Arkansas River, and it went to council in November. Council also weighed two design options for a plaza and parking site, with bids of about $939,600 and $971,300 and a cheaper redesign that drops the stage and restroom.
+  where: Western Gateway property, south 1st Street and Arkansas River
   refs:
-  - 21
-  - 42
+  - 11
+  - 55
+  - 60
+  topics:
+  - Parks & open space
+  - Downtown & business
+  - Zoning & development
+- title: Sales tax rules, including food for home consumption
+  summary: The Economic Development Committee heard a presentation from Ken Rief of Sally's Bakery on whether city sales tax should apply to food for home consumption. Council then took up sales tax rules and ordinances amending the sales tax code and the 2A street tax sections.
+  where: Citywide
+  refs:
+  - 27
+  - 41
+  - 60
+  - 65
   - 69
+  topics:
+  - Budget & taxes
+  - Fees & rates
+  public_comment: true
+- title: Ditch and culvert maintenance rules
+  summary: Council and the Water Committee reviewed proposed code language defining culverts, ditches and obstructions. Property owners would maintain private culverts and stormwater-only ditches, and ditch companies would maintain irrigation ditches. The Water Committee also took up Title 19.
+  where: Citywide
+  refs:
+  - 34
+  - 54
+  topics:
+  - Utilities
+  - Water
+  - Government operations
+- title: Urban Renewal Authority grants and 4-Mile Ranch agreements
+  summary: The Urban Renewal Authority discussed grant programs, a special project grant for 111 N. Cottonwood, and its 2027 budget. Council also met in executive session on renewal plan revenue sharing agreements and a proposed Master Development Agreement for 4-Mile Ranch.
+  where: 111 N. Cottonwood; 4-Mile Ranch
+  refs:
+  - 12
+  - 33
+  - 60
+  - 64
   topics:
   - Economic development
   - Downtown & business
   - Zoning & development
-- title: Sales tax on food for home consumption
-  summary: The Economic Development Committee heard a presentation from Ken Rief on Sally's Bakery about whether city sales tax should apply to food for home consumption. A sales tax item also appeared on the November 2 Council agenda.
-  where: Citywide
-  refs:
-  - 36
-  - 69
-  topics:
-  - Budget & taxes
-  - Downtown & business
 - title: Public restroom design recommendations
-  summary: The Public Safety and Quality of Life Committee reviewed recommendations for public restrooms, including local metal-frame construction, preventing gutter clogging with trash and needles, police opening and closing, and backup skylight lighting.
+  summary: The Public Safety and Quality of Life Committee reviewed recommendations for a public restroom, such as locally made metal-frame construction, preventing gutter clogging with trash and needles, and police opening and closing it.
+  where: Cañon City
   refs:
-  - 41
+  - 32
   topics:
+  - Homelessness
   - Parks & open space
   - Policing & public safety
+- title: 'Historic Preservation Commission: Saving Places hosting bid and Section 106 comments'
+  summary: The commission set a 2027 budget of $5,400, formed a committee to apply to host Colorado Preservation Inc.'s Saving Places On the Road conference, now targeting summer 2028, and planned a 2027 Project Archaeology workshop. It also drafted a letter of concern about proposed changes to Section 106 review.
+  where: Citywide
+  refs:
+  - 4
+  - 15
+  - 22
+  - 45
+  - 56
+  topics:
+  - Historic preservation
+  - Tourism & events

@@ -1,13 +1,6 @@
 # montrose-county
 
-## [montrose-county#0] 2026-08-17 | BOCC Work Session | agenda
-- Public Comment Period:
-- This is the time for members of the public to present issues of concern or interest to the Board. The Board welcomes and encourages public comment as part of its commitment to transparency and community engagement. Each speaker will be limited to a maximum of three minutes, and the format shall be l
-- Kinikin Road Updates, Public Works
-- County Discussion Items:
-- Planning and Development, Tallmadge Richmond, Planning and Development Director - Grant Application for Housing Needs Assessment related to SB24-174
-
-## [montrose-county#1] 2026-08-19 | Regular Meeting - Board of County Commissioners - NO VIDEO RECORDING | minutes
+## [montrose-county#0] 2026-08-19 | Regular Meeting - Board of County Commissioners - NO VIDEO RECORDING | minutes
 - Fork Road, Crawford, CO at 9:00 a.m. Those present: Kirstin Copeland, Commissioner District 1; Sue
 - 4. Public Comment Period:
 - B. County Manager, Joe Kerby, consideration for removal or change in any items on this Agenda
@@ -45,18 +38,18 @@
 - Hospital Appointees 2026-2030
 - Commissioner Hansen moved to approve Resolution 33 – 2026 Appointing Zander Parker and Kaye
 
-## [montrose-county#2] 2026-08-31 | Special Meeting - Board of County Commissioners - Board of Equalization - No Video Available | minutes
+## [montrose-county#1] 2026-08-31 | Special Meeting - Board of County Commissioners - Board of Equalization - No Video Available | minutes
 - Courthouse Boardroom, 320 South 1st Street, Montrose, CO 81401 at 10:30 a.m. Those present: Kirstin
 - B. County Manager, Joe Kerby, consideration for removal or change in any items on this Agenda
 - 3. Clerk to the Board, Melissa Howie, Board of Equalization Hearing
 - Consideration and possible approval of Senior Property Tax Exemption for Patsy Frigetto
 - Commissioner Hansen moved to deny the Senior Property Tax Exemption Appeal for Patsy Frigetto
 
-## [montrose-county#3] 2026-08-31 | BOCC Work Session | agenda
+## [montrose-county#2] 2026-08-31 | BOCC Work Session | agenda
 - Public Comment Period:
 - This is the time for members of the public to present issues of concern or interest to the Board. The Board welcomes and encourages public comment as part of its commitment to transparency and community engagement. Each speaker will be limited to a maximum of three minutes, and the format shall be l
 
-## [montrose-county#4] 2026-09-02 | Regular Meeting - Board of County Commissioners | minutes
+## [montrose-county#3] 2026-09-02 | Regular Meeting - Board of County Commissioners | minutes
 - Courthouse Boardroom, 320 South 1st Street, Montrose, CO 81401 at 9:00 a.m. Those present: Kirstin
 - 4. Public Comment Period:
 - B. County Manager, Joe Kerby, consideration for removal or change in any items on this Agenda
@@ -81,13 +74,13 @@
 - Consideration and possible adoption of Resolution BOH 2 -2026 appointing a Director of
 - Commissioner Pond moved to approve Resolution BOH 2 – 2026 appointing a Director of Public
 
-## [montrose-county#5] 2026-09-14 | BOCC Work Session | agenda
+## [montrose-county#4] 2026-09-14 | BOCC Work Session | agenda
 - Public Comment Period:
 - This is the time for members of the public to present issues of concern or interest to the Board. The Board welcomes and encourages public comment as part of its commitment to transparency and community engagement. Each speaker will be limited to a maximum of three minutes, and the format shall be l
 - County Discussion Items:
 - County Road Education
 
-## [montrose-county#6] 2026-09-16 | Regular Meeting - Board of County Commissioners | minutes
+## [montrose-county#5] 2026-09-16 | Regular Meeting - Board of County Commissioners | minutes
 - Courthouse Boardroom, 320 South 1st Street, Montrose, CO 81401 at 9:00 a.m. Those present: Kirstin
 - 5. Public Comment Period:
 - B. County Manager, Joe Kerby, consideration for removal or change in any items on this Agenda
@@ -122,7 +115,7 @@
 - Permit for Magic Circle Players, at the South River Farm, 18106 Woodgate Road. All
 - appropriate documents, reviews, and fees have been submitted pursuant to CRS 44-5-101
 
-## [montrose-county#7] 2026-09-17 | Special Meeting - Board of County Commissioners - NO VIDEO RECORDING | minutes
+## [montrose-county#6] 2026-09-17 | Special Meeting - Board of County Commissioners - NO VIDEO RECORDING | minutes
 - Street, Nucla at 9:00 a.m. Those present: Kirstin Copeland, Commissioner District 1; Sue Hansen,
 - 3. Public Comment Period:
 - B. County Manager, Joe Kerby, consideration for removal or change in any items on this Agenda
@@ -132,16 +125,16 @@
 - Commissioner Discussion
 - Commissioner Pond moved to fund the West End Family Link Emergency Request $75,000.00
 
-## [montrose-county#8] 2026-09-21 | BOCC Work Session | agenda
+## [montrose-county#7] 2026-09-21 | BOCC Work Session | agenda
 - Public Comment Period:
 - This is the time for members of the public to present issues of concern or interest to the Board. The Board welcomes and encourages public comment as part of its commitment to transparency and community engagement. Each speaker will be limited to a maximum of three minutes, and the format shall be l
 - County Discussion Items:
 
-## [montrose-county#9] 2026-09-28 | BOCC Work Session | agenda
+## [montrose-county#8] 2026-09-28 | BOCC Work Session | agenda
 - Public Comment Period:
 - This is the time for members of the public to present issues of concern or interest to the Board. The Board welcomes and encourages public comment as part of its commitment to transparency and community engagement. Each speaker will be limited to a maximum of three minutes, and the format shall be l
 
-## [montrose-county#10] 2026-10-05 | BOCC Work Session | agenda
+## [montrose-county#9] 2026-10-05 | BOCC Work Session | agenda
 - Public Comment Period:
 - This is the time for members of the public to present issues of concern or interest to the Board. The Board welcomes and encourages public comment as part of its commitment to transparency and community engagement. Each speaker will be limited to a maximum of three minutes, and the format shall be l
 - County Discussion Items:
@@ -149,7 +142,7 @@
 - Safe Sleep Services Agreement - RMHP - Montrose County NFP Revised 9.21.26
 - Headwaters to Home
 
-## [montrose-county#11] 2026-10-07 | Regular Meeting - Board of County Commissioners | agenda
+## [montrose-county#10] 2026-10-07 | Regular Meeting - Board of County Commissioners | agenda
 - Public Comment Period:
 - This is the time for members of the public to present issues of concern or interest to the Board. The Board welcomes and encourages public comment as part of its commitment to transparency and community engagement. Each speaker will be limited to a maximum of three minutes, and the format shall be l
 - consideration for removal or change in any items on this Agenda
@@ -166,23 +159,23 @@
 - 2026 CORE Mental Health/Life Skills Services Agreement with HOPE Counseling Services LLC
 - Consideration and possible authorization of signatures on the updated Omnibus Certificate to include current Montrose County signatories identified in the Lease Purchase Agreement with U.S. Bank dated May 28, 2026, associated with the North Campus debt financing, as reviewed by Counsel
 
-## [montrose-county#12] 2026-10-12 | BOCC Work Session | agenda
+## [montrose-county#11] 2026-10-12 | BOCC Work Session | agenda
 - Public Comment Period:
 - This is the time for members of the public to present issues of concern or interest to the Board. The Board welcomes and encourages public comment as part of its commitment to transparency and community engagement. Each speaker will be limited to a maximum of three minutes, and the format shall be l
 - County Discussion Items:
 
-## [montrose-county#13] 2026-10-14 | Special Meeting - Board of County Commissioners | agenda
+## [montrose-county#12] 2026-10-14 | Special Meeting - Board of County Commissioners | agenda
 - consideration for removal or change in any items on this Agenda
 - PUBLIC HEARING:
 - Presentation of 2027 Proposed Budget to the Board of County Commissioners for consideration
 - 2027 Budget Packet
 - 2027 Proposed Budget Presentation
 
-## [montrose-county#14] 2026-10-19 | BOCC Work Session | agenda
+## [montrose-county#13] 2026-10-19 | BOCC Work Session | agenda
 - Public Comment Period:
 - This is the time for members of the public to present issues of concern or interest to the Board. The Board welcomes and encourages public comment as part of its commitment to transparency and community engagement. Each speaker will be limited to a maximum of three minutes, and the format shall be l
 
-## [montrose-county#15] 2026-10-21 | Regular Meeting - Board of County Commissioners | agenda
+## [montrose-county#14] 2026-10-21 | Regular Meeting - Board of County Commissioners | agenda
 - Public Comment Period:
 - This is the time for members of the public to present issues of concern or interest to the Board. The Board welcomes and encourages public comment as part of its commitment to transparency and community engagement. Each speaker will be limited to a maximum of three minutes, and the format shall be l
 - consideration for removal or change in any items on this Agenda
@@ -200,14 +193,14 @@
 - Contract IGA Town of Olathe 2026 Asphalt Overlay
 - Consideration and possible authorization for the Chair's signature on a one year extension to a lease agreement with James Newberry, as reviewed by Counsel. The agreement allows the County to park a motor grader at the Newberry Store property in Cimarron. Having a motor grader staged at Cimarron ena
 
-## [montrose-county#16] 2026-10-26 | BOCC Work Session | agenda
+## [montrose-county#15] 2026-10-26 | BOCC Work Session | agenda
 - Public Comment Period:
 - This is the time for members of the public to present issues of concern or interest to the Board. The Board welcomes and encourages public comment as part of its commitment to transparency and community engagement. Each speaker will be limited to a maximum of three minutes, and the format shall be l
 - Community Updates and County Discussion Items:
 - Montrose / Ouray County Line Discussion
 - Proposed Colorado Parks and Wildlife Changes
 
-## [montrose-county#17] 2026-10-28 | Special Meeting - Board of County Commissioners - NO VIDEO RECORDING | agenda
+## [montrose-county#16] 2026-10-28 | Special Meeting - Board of County Commissioners - NO VIDEO RECORDING | agenda
 - consideration for removal or change in any items on this Agenda
 - PUBLIC HEARING:
 - Consideration and possible approval or continuance of proposed ordinance 2026-01 Prohibiting the Intentional Introduction, Release, Transportation, Translocation, Facilitation, or Habitat Establishment of Non-Native Wildlife Species or Non-Native Wildlife Populations within Unincorporated Montrose C
@@ -219,15 +212,15 @@
 - , Opposing Proposed Amendments to Colorado Parks And Wildlife Regulations Regarding Prairie Dogs and instructing staff to submit the Resolution to the Colorado Parks and Wildlife Commission as public comment on behalf of Montrose County
 - Resolution Re Prairie Dogs
 
-## [montrose-county#18] 2026-11-02 | BOCC Work Session | agenda
+## [montrose-county#17] 2026-11-02 | BOCC Work Session | agenda
 - Public Comment Period:
 - This is the time for members of the public to present issues of concern or interest to the Board. The Board welcomes and encourages public comment as part of its commitment to transparency and community engagement. Each speaker will be limited to a maximum of three minutes, and the format shall be l
 - Community Updates and County Discussion Items:
 
-## [montrose-county#19] 2026-11-02 | BOCC Work Session - NO STREAMING AVAILABLE | agenda
+## [montrose-county#18] 2026-11-02 | BOCC Work Session - NO STREAMING AVAILABLE | agenda
 - Bylaws, Procurement and Contracts, Julie Andress, County Attorney
 
-## [montrose-county#20] 2026-11-04 | Regular Meeting - Board of County Commissioners | agenda
+## [montrose-county#19] 2026-11-04 | Regular Meeting - Board of County Commissioners | agenda
 - Public Comment Period:
 - This is the time for members of the public to present issues of concern or interest to the Board. The Board welcomes and encourages public comment as part of its commitment to transparency and community engagement. Each speaker will be limited to a maximum of three minutes, and the format shall be l
 - consideration for removal or change in any items on this Agenda
@@ -253,3 +246,9 @@
 - regarding the County accepting the maintenance of 0.03 miles of 5465 Court, as reviewed by Counsel. 5465 Court is a gravel road extending south from Banner Road that was constructed in accordance to County standards. Upon acceptance of County maintenance of the 5465 Court, staff will add the 0.03 mi
 - Resolution 5465 Court County maintenance
 - regarding the County accepting the maintenance of 0.22 miles for 6785 Lane and Uriah Court, as reviewed by Counsel. 6785 Lane and Uriah Court are gravel roads within the Thornburgh Estates subdivision south of Government Springs Road and were constructed in accordance to County standards. Upon accep
+
+## [montrose-county#20] 2026-11-05 | Special Meeting - Board of County Commissioners - NO STREAMING AVAILABLE | agenda
+- consideration for removal or change in any items on this Agenda
+- PUBLIC HEARING,
+- Consideration and possible approval or continuance of proposed ordinance 2026-01 Prohibiting the Intentional Introduction, Release, Transportation, Translocation, Facilitation, or Habitat Establishment of Non-Native Wildlife Species or Non-Native Wildlife Populations within Unincorporated Montrose C
+- NonNative Species Ordinance - 2026 Post 1st Reading and Notice

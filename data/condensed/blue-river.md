@@ -1,58 +1,6 @@
 # blue-river
 
-## [blue-river#0] 2026-08-12 | General | agenda
-- however, that public comments will not be taken virtually, but will only be accepted in
-- person during public comment periods
-- distributed separately to the Board of Trustees
-- 1. A work session to discuss short-term rental policy as a basis for focusing the Board’s
-- ongoing work concerning potential amendments to the Town’s Short-Term Rental
-- Program and Ordinance
-- The subcommittee discussed STR policy with a focus on two speciﬁc issues: the use of
-- Town staff provided three recommended zoning options for subcommittee review which
-- data provided for consideration included percentages based on all “buildable” lots in each
-- from the STR calculations, seeing as STRs are not permitted. This removed one possible
-- (condominiums across from Town Hall) are functionally distinct from other development in
-- Town limits, as it is multi-family in nature. The subcommittee requested maps with ﬁve
-- zones and six zones be provided to the Board for consideration
-- depending on the zoning map that is approved by the Board
-- Please remember: these are recommendations and not decisions. All items discussed at
-- the subcommittee are up for consideration and revision by the Board as policy is
-- prior to the moratorium but not properly integrated in the ﬁrst draft of data) and a reduction
-- 10/3/25 25-1566 164 Calle De Plata Noise
-- 10/4/25 25-1577 475 Whispering Pines Parking
-- 10/4/25 25-1578 322 Davis Ct Parking
-- 10/6/25 25-1588 149 CR 801 Parking
-- 10/11/25 25-1597 104 Sherwood Ln Parking
-- 10/11/25 25-1598 656 Coronet Dr Parking
-- 12/17/25 25-1789 284 Lakeshore Lp Parking
-- 1/30/26 26-0102 127 Lakeshore Loop Parking
-- 1/31/26 26-0103 504 Coronet Dr Parking
-- 2/25/26 26-0194 164 Calle De Plata Noise
-- 3/20/26 26-0294 170 Whipering Pines Cir Parking
-- 3/23/26 26-0325 331 Lakeshore loop Parking
-- 5/8/26 26-0556 42 Backland Ct Fire
-- 5/15/26 26-0588 56 Red Mountain Parking
-- 5/16/26 26-0597 180 Whispering Pines Parking
-- 5/23/26 26-0639 675 Whispering Pines Parking
-- 6/4/26 26-0737 195 97 Cir Parking
-- 6/5/26 26-0741 438 Crown Parking
-- 6/5/26 26-0747 552 97 Cir Fire
-- 6/13/26 26-0834 89 Sherwood Fire
-- 6/14/26 26-0843 397 Whispering Pines Parking
-- 6/14/26 26-0844 210 97 Circle Parking
-- 6/21/26 26-0891 123 Royal Dr Parking
-- 7/10/26 26-1103 160 Whispering Pines Cir Parking
-- 7/11/26 26-1118 649 Blue River Rd Parking
-- 7/11/26 26-1119 566 Blue River Rd Parking
-- 7/11/26 26-1124 551 97 Cir Parking
-- 7/17/26 26-1187 25 Cooney Cr Parking
-- 7/18/26 26-1190 143 Tesemini Ln Parking
-- 7/18/26 26-1192 382 Coronet Parking
-- 7/18/26 26-1197 6657 State Highway 9 Fire
-- 7/25/26 26-1259 180 Whispering Pines Parking
-- 7/25/26 26-1274 25 Cooney Ct Parking
-
-## [blue-river#1] 2026-08-18 | Regular Meeting of the Board of Trustees | agenda
+## [blue-river#0] 2026-08-18 | Regular Meeting of the Board of Trustees | agenda
 - however, that public comments will not be taken virtually, but will only be accepted in
 - person during public comment periods
 - Approval of Agenda/Consent Agenda
@@ -78,7 +26,7 @@
 - advice on questions concerning interpretation of contract terms and to devise negotiation
 - strategy and instruct negotiators concerning a services agreement
 
-## [blue-river#2] 2026-08-18 | Regular Meeting of the Board of Trustees | agenda
+## [blue-river#1] 2026-08-18 | Regular Meeting of the Board of Trustees | agenda
 - however, that public comments will not be taken virtually, but will only be accepted in
 - person during public comment periods
 - Approval of Agenda/Consent Agenda
@@ -128,7 +76,7 @@
 - Mill Levy Rate 10.459 10.459
 - General Property Tax 691,557 677,351 853,782 869,833 930,583 - 930,583 877,236 895,224 (17,989) 229,801 239,756 (9,955)
 
-## [blue-river#3] 2026-08-25 | General | agenda
+## [blue-river#2] 2026-08-25 | General | agenda
 - note, however, that public comments will not be taken virtually, but will only be
 - accepted in-person during public comment periods
 - separately to the Board of Trustees
@@ -143,7 +91,7 @@
 - (v) Program for Application of New Licenses (when surplus available in future)
 - B. Direction to Staff for Incorporation into Draft STR Ordinance Effective Jan. 1, 2028:
 
-## [blue-river#4] 2026-08-25 | General | agenda
+## [blue-river#3] 2026-08-25 | General | agenda
 - note, however, that public comments will not be taken virtually, but will only be
 - accepted in-person during public comment periods
 - separately to the Board of Trustees
@@ -208,7 +156,7 @@
 - Regulatory Fee
 - 3rd and subsequent offenses - $1000 and/or revocation of permit
 
-## [blue-river#5] 2026-09-01 | Planning and Zoning Commission | minutes
+## [blue-river#4] 2026-09-01 | Planning and Zoning Commission | minutes
 - BLUE RIVER PLANNING AND ZONING COMMISSION MEETING
 - Approval of Minutes
 - approve the minutes of the July 2026 Planning & Zoning Commission Meeting. All ayes
@@ -246,7 +194,7 @@
 - c. Revise garage areas or calculations to demonstrate compliance with the 25%
 - B. Discussion of Blue River Wetland Protection Program Items
 
-## [blue-river#6] 2026-09-15 | Regular Meeting of the Board of Trustees | minutes
+## [blue-river#5] 2026-09-15 | Regular Meeting of the Board of Trustees | minutes
 - Also present: Town Manager Chad Hull, Deputy Town Clerk John DeBee, Police Chief David
 - Approval of Agenda/Consent Agenda
 - 1. Approval of Minutes
@@ -286,7 +234,7 @@
 - topography, and maintaining flexibility for future development
 - b. Approval of Ordinance No. 2026-06 – an Ordinance of the Board of Trustees of
 
-## [blue-river#7] 2026-09-15 | Regular Meeting of the Board of Trustees | minutes
+## [blue-river#6] 2026-09-15 | Regular Meeting of the Board of Trustees | minutes
 - Also present: Town Manager Chad Hull, Deputy Town Clerk John DeBee, Police Chief David
 - Approval of Agenda/Consent Agenda
 - In-person public comments were made by Mike Costello, Travis Wardlaw, Laura Wardlaw,
@@ -322,7 +270,7 @@
 - requirements. The Board discussed that future attrition, nonrenewal, property
 - Trustees also discussed the importance of obtaining better compliance and
 
-## [blue-river#8] 2026-09-22 | General | agenda
+## [blue-river#7] 2026-09-22 | General | agenda
 - note, however, that public comments will not be taken virtually, but will only be
 - accepted in-person during public comment periods
 - separately to the Board of Trustees
@@ -331,7 +279,7 @@
 - i. Hearing Officer (possible Municipal Court Judge role)
 - Secondary Issues (TIME PERMITTING, Hull)
 
-## [blue-river#9] 2026-09-22 | General | agenda
+## [blue-river#8] 2026-09-22 | General | agenda
 - note, however, that public comments will not be taken virtually, but will only be
 - accepted in-person during public comment periods
 - separately to the Board of Trustees
@@ -372,7 +320,7 @@
 - Identify repeat offenders and recommend appropriate further enforcement actions
 - Assist applicants, owners, managers, and members of the public with identifying,
 
-## [blue-river#10] 2026-10-06 | Planning and Zoning Commission | minutes
+## [blue-river#9] 2026-10-06 | Planning and Zoning Commission | minutes
 - BLUE RIVER PLANNING AND ZONING COMMISSION MEETING
 - Approval of Minutes
 - approve the minutes of the July 2026 Planning & Zoning Commission Meeting. All ayes
@@ -410,7 +358,7 @@
 - c. Revise garage areas or calculations to demonstrate compliance with the 25%
 - B. Discussion of Blue River Wetland Protection Program Items
 
-## [blue-river#11] 2026-10-13 | General | agenda
+## [blue-river#10] 2026-10-13 | General | agenda
 - note, however, that public comments will not be taken virtually, but will only be
 - accepted in-person during public comment periods
 - Note: This Agenda is proposed to guide the Board of Trustees in its discussions of policy concerning
@@ -424,7 +372,7 @@
 - Rental Applications and Issuing Licenses to be Effective on May 1, 2027 and,
 - separately to the Board of Trustees
 
-## [blue-river#12] 2026-10-13 | General | agenda
+## [blue-river#11] 2026-10-13 | General | agenda
 - note, however, that public comments will not be taken virtually, but will only be
 - accepted in-person during public comment periods
 - Note: This Agenda is proposed to guide the Board of Trustees in its discussions of policy concerning
@@ -461,7 +409,7 @@
 - authorized by this Ordinance to apply for a short -term rental license must submit to the Town a
 - fully complete application for a new license or submit to the Town a fully complete an application
 
-## [blue-river#13] 2026-10-20 | Regular Meeting of the Board of Trustees | agenda
+## [blue-river#12] 2026-10-20 | Regular Meeting of the Board of Trustees | agenda
 - however, that public comments will not be taken virtually, but will only be accepted in
 - person during public comment periods
 - Approval of Agenda/Consent Agenda
@@ -490,7 +438,7 @@
 - 6. Motion to Approve the McMahan and Associates, Inc. 2026 Audit Engagement Letter
 - b. Chief of Police
 
-## [blue-river#14] 2026-10-20 | Regular Meeting of the Board of Trustees | agenda
+## [blue-river#13] 2026-10-20 | Regular Meeting of the Board of Trustees | agenda
 - however, that public comments will not be taken virtually, but will only be accepted in
 - person during public comment periods
 - Approval of Agenda/Consent Agenda
@@ -533,9 +481,64 @@
 - dual-credit opportunities, and industry certifications. Approximately $1 million would
 - Discussion focused on employee turnover, declining applicant pools, the cost of living in
 
-## [blue-river#15] 2026-11-03 | Planning and Zoning Commission | agenda
+## [blue-river#14] 2026-11-03 | Planning and Zoning Commission | agenda
 - BLUE RIVER PLANNING AND ZONING COMMISSION MEETING
 - Approval of Minutes
 - Project Approval
 - C. 0809 Blue River Rd – Detached Garage and Variance Application
 - B. Discussion of LUC Shed Provisions Final Draft
+
+## [blue-river#15] 2026-11-10 | General | agenda
+- note, however, that public comments will not be taken virtually, but will only be
+- accepted in-person during public comment periods
+- questions of allowing exemptions to Ordinance No. 2025-09 (Short-term rental moratorium)
+- Note: This Agenda is proposed to guide the Board of Trustees in its discussions of policy concerning
+- amended during the Work Session
+- Reading of Ordinance No. 2026-13
+- 1. Discussion of Ordinance No. 2026-10 An Ordinance of the Board of Trustees of the
+- Short-Term Rental License, Amending Ordinance No. 2026-03, and Declaring that
+- the Ordinance is Necessary for the Immediate Preservation of the Public Health,
+- Reading of Resolution No. 2026-17
+- 1. Discussion of Resolution No. 2026-17, a Resolution of the Board of Trustees of the
+- Short-Term Rental Ordinance (both 2025 and 2026 STR Ordinances)
+- separately to the Board of Trustees
+
+## [blue-river#16] 2026-11-10 | General | agenda
+- note, however, that public comments will not be taken virtually, but will only be
+- accepted in-person during public comment periods
+- questions of allowing exemptions to Ordinance No. 2025-09 (Short-term rental moratorium)
+- Note: This Agenda is proposed to guide the Board of Trustees in its discussions of policy concerning
+- amended during the Work Session
+- Reading of Ordinance No. 2026-13
+- 1. Discussion of Ordinance No. 2026-10 An Ordinance of the Board of Trustees of the
+- Short-Term Rental License, Amending Ordinance No. 2026-03, and Declaring that the
+- Ordinance is Necessary for the Immediate Preservation of the Public Health, Safety,
+- Reading of Resolution No. 2026-17
+- 1. Discussion of Resolution No. 2026-17, a Resolution of the Board of Trustees of the
+- Short-Term Rental Ordinance (both 2025 and 2026 STR Ordinances)
+- separately to the Board of Trustees
+- SUBJECT: Draft Ordinance No. 2026-13
+- If amended and adopted, draft Ordinance No. 2026- 13 will provide a second exception for a
+- class of landowners that can submit an application for the renewal of a short-term rental (“STR”)
+- license notwithstanding the prohibition of applications imposed by the STR Moratorium that was
+- The draft Ordinance No. 2026-13 includes several highlighted options for the Board of Trustees
+- (BOT) to consider in fashioning a new exception. Generally, the particular elements for the
+- options that the BOT can consider for inclusion for an exception include whether the owner:
+- 1. Submitted a substantially complete renewal application (meaning two or less
+- 2. Submitted any document(s) for the renewal of an application
+- 3. Paid the renewal application fee
+- 4. Paid state and/or local taxes
+- The underlying short-term rental policy and the proposed content of the ordinance have been
+- discussed and debated over the last several months of public meetings, with citizen public input
+- DRAFT FOR DISCUSSION ONLY
+- ORDINANCE NO. 2026-13
+- AN ORDINANCE OF THE BOARD OF TRUSTEES OF THE TOWN OF
+- AMENDING ORDINANCE NO. 2026-03, AND DECLARING THAT THE
+- ORDINANCE IS NECESSARY FOR THE IMMEDIATE PRESERVATION
+- incorporated and organized pursuant to the provisions of Section 31-2-101, et seq., C.R.S.; and
+- WHEREAS, on May 19, 2026, the Board of Trustees ( “Board”) adopted Ordinance No
+- Enable the Board to reconsider or review the policies underlying the prior Board’s
+- considers the policy and benefits of limiting the number of licenses issued by the
+- disrupted their plan to gain a license; and
+- WHEREAS, a majority of the Board desires to permit a defined and limited class of
+- exception to the restrictions imposed by Ordinance No. 2026-03

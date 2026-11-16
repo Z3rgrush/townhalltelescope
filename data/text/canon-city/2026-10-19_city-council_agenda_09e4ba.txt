@@ -18,8 +18,8 @@ F ALLEGIANCE:
 Resolution No. 9, Series 2018, adopted Rules of Procedures for the City Council, staff, 
 and the public.  Public comments are received after the opening ceremonies under the 
 heading “Citizens Request to Speak to the City Council.”  If you wish to address the 
-City Council, please complete a Request to Spea k Form available by the meeting room 
-door and submit it to the City Clerk prior to the meeting being called to order.   Copies 
+City Council, please complete a Request to Speak Form available by the meeting room 
+door and submit it to the City Clerk prior to the meeting being called to order.  Copies 
 of the policy and form are available in  the City Clerk’s office and posted on the City of 
 Cañon City website. 
 6. COUNCIL MEMBER ANNOUNCEMENTS AND BOARD UPDATES:
@@ -47,7 +47,7 @@ and October 7, 2026 (Ditches).
 B. Reappoint
  Robert Wellott t
 o the Planning Commission.
-C. Authorize disposal of Surplus Equipment per the City  Purchasing
+C. Authorize disposal of Surplus Equipment per the City Purchasing
 Policy.
 D. Award Bid 118-26 Snowplow to Ace Equipment and Supply, CO.
 LLC, in an amount not
@@ -449,18 +449,18 @@ ITEM # ITEM UNITS QUANTITY UNIT PRICE TOTAL UNIT PRICE TOTAL UNIT PRICE TOTAL UN
 006 Shipping/ Freight/ Delivery 1 LS Included $ 0.00 $ 225. 00 $ 225. 00 $ 750. 00 $ 750. 00 Included $ 0.00 $ 475. 00 $ 475. 00
 BID TOTAL= $ 8,620. 00 BID TOTAL= $ 8,592. 00 BID TOTAL= $ 10,833. 38 BID TOTAL= $ 7,800. 00 BID TOTAL= $ 8,366. 52
 Requirement / Bid Item RFB Requirement
-Snowplow Manufacturer / Model Bidder must identify proposedmanufacturer/ model
-Heavy- Duty Commercial Grade Required – suitable for municipal snowremoval
+Snowplow Manufacturer / Model Bidder must identify proposed manufacturer/ model
+Heavy- Duty Commercial Grade Required – suitable for municipal snow removal
 Blade Width Maximum 8 ft.
 Blade Weight Bidder to provide
 Manufacturer- Approved Fitment Required for specified 2003 Ford F-350
 Vehicle- Specific Mounting Package Required Meyer 17162- F250- F550 99- 07 Hinker- Vehicle Specific mount
 Controls / Wiring / Electrical All required components included
 Lighting / Headlamp Components All required components included
-Hydraulic Components / Hardware All components necessary for Cityinstallation
+Hydraulic Components / Hardware All components necessary for City installation
 Required Ballast Bidder must identify weight & placement, if required No added ballast needed Per Hinker at order See bid Doc
-GVWR / GAWR Compliance Must not exceed GVWR, front GAWR, orrear GAWR
-Legal On- Road Operation Required when installed per manufacturerspecifications
+GVWR / GAWR Compliance Must not exceed GVWR, front GAWR, or rear GAWR
+Legal On- Road Operation Required when installed per manufacturer specifications
 New / Current Production Required
 Manufacturer Specs / Product Literature Required with bid
 Fitment / Application Documentation Required with bid
@@ -769,7 +769,7 @@ To: Aleizja C. Owens
 Subject: SCPPlus300U1Y_Canon_2026 (00008648)
 Hi Aleizja Cowens, 
 Please find your renewal quote below: 
-Product Description QuantityQTY) Type UsersUnit Price) Price Per User Subscription Total Price
+Product Description Quantity QTY) Type Users Unit Price) Price Per User Subscription Total Price
 SpamTitan Plus Cloud 300 USD 2. 076 USD 2. 076 12 USD 7, 473. 6
 Total:   USD 7, 473. 6
 Your Quote Start Date is 31 October 2026. 
@@ -820,7 +820,7 @@ Cañon City
  
 57
  
-Ireland: TitanHQ c/o Copperfasten Technologies 1st Floor, Mazars Place, Salthill, Galway, Ireland  
+Ireland: TitanHQ c/o Copperfasten Technologies 1st Floor, Mazars Place, Salthill, Galway, Ireland 
 USA: TitanHQ c/o Titan Technology Solutions US INC 400 N Ashley DR STE 1900, Tampa FL 33602 
 US Sales +1 813 304 2544 | USA Support +1 813 501 3610 | K/EU Sales +44 203 808 5467 | UK/EU Support +44 203 808 5467 | IRL +353 91 54 55 00 
 Web: www.titanhq.com | For general queries please contact info@titanhq.com | For technical queries please contact helpdesk@titanhq.com 

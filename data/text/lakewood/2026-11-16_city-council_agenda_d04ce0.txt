@@ -1,0 +1,261 @@
+AGENDA 
+STUDY SESSION MEETING--AFFORDABLE HOUSING FUND OF THE CITY 
+COUNCIL 
+VIRTUAL MEETING 
+CITY OF LAKEWOOD, COLORADO 
+VIRTUAL MEETING 
+NOVEMBER 16, 2026 
+7:00 PM  
+To watch the Council meeting live, please use either one of the following links: 
+City of Lakewood Website: Lakewood.org/CouncilVideos 
+Lakewood Speaks: Lakewoodspeaks.org 
+ 
+The City of Lakewood does not discriminate on the basis of race, age, national origin, 
+color, creed, religion, sex, sexual orientation or disability in the provision of services. 
+People needing reasonable accommodation to attend or participate in a City service 
+program can call 303-987-7080 or TDD 303-987-7057. Please give notice as far in 
+advance as possible so we can accommodate your request. 
+ 
+How to Connect to Provide Public Comment: Online participants may post written 
+comments of any length to LakewoodSpeaks.org, an online forum for public comments.   
+ITEM 1 – CALL TO ORDER 
+ITEM 2 – ROLL CALL 
+ITEM 3 – AFFORDABLE HOUSING FUND 
+ITEM 4 – POLICY GUIDELINES FOR ALPR TECHNOLOGY 
+ 
+ITEM 5 – COMMITTEE REPORTS 
+ITEM 6 – ADJOURNMENT 
+ 
+Page 1 of 12
+STAFF MEMO 
+ 
+DATE OF MEETING: NOVEMBER 16, 2026 / AGENDA ITEM NO. 3 
+ 
+To: Mayor and City Council 
+From: Chris Conner, Housing and Livable Communities Manager  
+Subject: Affordable Housing Fund  
+ 
+SUMMARY STATEMENT: This study session reviews Housing Policy Commission's engagement in 
+2026 to consider a local Affordable Housing Fund in City of Lakewood. 
+ 
+BACKGROUND INFORMATION: The Housing Policy Commission has hosted discussions on 
+program and policy areas of an Affordable Housing Fund in 2026. This study session reviews those 
+discussions as well as activities involved in considering an ordinance to establish an Affordable 
+Housing Fund. 
+ 
+BUDGETARY IMPACTS: None 
+ 
+STAFF RECOMMENDATIONS: None 
+ 
+ALTERNATIVES: None 
+ 
+PUBLIC OUTREACH: This item has been promoted through the regular communication channels to 
+be considered by the Lakewood City Council. 
+ 
+NEXT STEPS: None 
+ 
+ATTACHMENTS: 1.   AHF Presentation for 11-16-26 Study Session 
+ 
+REVIEWED BY: Jonathan Cain, City Manager 
+Benjamin B. Goldstein, Deputy City Manager  
+Alison McKenney Brown, City Attorney 
+ 
+Page 2 of 12
+Affordable Housing Fund
+City Council Study Session
+November 16, 2026
+Chris Conner, Manager of Housing and Thriving Communities
+Page 3 of 12
+Housing Policy Commission (HPC) 
+Schedule of Activities
+February 12, 2026
+Homelessness 
+Response
+March 12, 2026
+Local Fund 
+Policymaking
+April 9, 2026
+Eviction Defense and 
+Rental Assistance
+May 14, 2026
+Supportive Housing 
+(Tour)
+June 11, 2026
+Ordinance Discussion
+August 13, 2026
+Affordable Housing 
+Pipeline/Financing
+October 8, 2026
+Affordable Housing 
+Nexus
+Page 4 of 12
+Considerations for Policymaking
+ Administrative Capacity
+ City Council/City Staff roles—frequency and level of planning
+ Income limits and adjusting to changing market conditions
+ Composition and role of an Advisory Body
+ Scenario planning and data-based decision-making
+ Flexibility v. Allocations in spending
+ Building funding leverage
+ Speed and depth of investment impact
+ Conditions for long term affordability
+Page 5 of 12
+Lakewood Housing Unit Need 2023-2032
+For Sale
+50-80%, 
+454
+80-100%, 369
+100-120%, 
+278
+>120%, 1100
+For Rent
+0-50%, 4050
+50-80%, 546
+80-
+100%, 
+288
+100-120%, 159
+>120%, 
+282
+Lakewood Housing Unit Need 2023-2032 by Income Level and Type
+For Sale For Rent
+Page 6 of 12
+Homelessness Trends in Jeffco: HMIS 
+Enrolled v. Point in Time
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+2023 2024 2025 2026
+HMIS State of Homelessness v. Point in Time, Jefferson County 
+2023-2026
+HMIS State of Homelessness Projected HMIS Point in Time
+Page 7 of 12
+Project Enrollments in HMIS: Jeffco, 
+2023-2025
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+2023 2024 2025
+HMIS Project Enrollments, Jefferson County, 2023-2025
+Unsheltered Sheltered Supportive Services
+Permanent Housing Homeless Prevention Temporary Housing
+Page 8 of 12
+Questions?
+Page 9 of 12
+STAFF MEMO 
+ 
+DATE OF MEETING: NOVEMBER 16, 2026 / AGENDA ITEM NO. 4 
+ 
+To: Mayor and City Council 
+From: Ben Goldstein, Deputy City Manager 
+Subject: Policy Guidelines for Data Privacy, Security, and Third-party Vendor 
+Accountability in the Use of Automated License Plate Reader and Automated 
+Vehicle Identification Systems 
+ 
+SUMMARY STATEMENT: The City Council is asked to review and provide feedback on the 
+proposed language staff drafted in response to concerns identified at the September 21, 2026, Study 
+Session. The City Council should also use this opportunity to identify any additional language or 
+areas of concern to be considered when staff procures a new vendor to provide advanced license 
+plate reader technology used to assist law enforcement investigations (ALPR) and automated vehicle 
+identification technology used for red-light and speed enforcement (AVIS). 
+ 
+BACKGROUND INFORMATION: At its September 21, 2026, Study Session, the City Council 
+expressed its desire to establish privacy and security standards applicable to both ALPR and AVIS 
+systems, including safeguards governing third-party vendors and the sharing of City data. The City 
+Council also provided guidance that it wanted to limit the amount of time the City might be without a 
+system, as it recognized the importance of these technologies for legitimate law enforcement and 
+traffic safety. Staff have begun the process of separating from the existing ALPR vendor and are 
+identifying options for new vendors for both ALPR and AVIS. 
+ 
+The City Manager will seek to incorporate any guidance provided by the City Council into future 
+vendor agreements to the extent reasonably feasible, taking into consideration available technology, 
+associated costs, operational requirements, the ability of prospective vendors to provide such 
+protections, and commercially reasonable contractual terms. 
+ 
+Based on City Council feedback, staff developed criteria to guide future agreements with ALPR and 
+AVIS vendors. Listed below are the items for the City Council’s review and consideration: 
+a. Data Ownership and Control. The City shall retain ownership and control of data collected on 
+its behalf through ALPR and AVIS systems. Vendor agreements should prohibit the sale, 
+licensing, commercialization, or unauthorized disclosure of City data, including the use of such 
+data for the development or training of artificial intelligence or machine-learning systems 
+without the City's express written authorization. 
+b. Data Sharing and Access. The City shall maintain reasonable control over access to and 
+sharing of data collected through ALPR and AVIS systems. Vendor agreements should, to the 
+extent technically and commercially feasible, prevent the inclusion of City data in national 
+databases, shared data repositories, or cross-agency search networks without the City's 
+express authorization. The City should retain the ability to authorize, restrict, and terminate 
+access by outside agencies and require reasonable safeguards against unauthorized further 
+disclosure of City data. 
+c. Vendor Access and Disclosure. Vendor agreements should restrict access to and disclosure 
+Page 10 of 12
+of City data by third-party vendors except as authorized by the City or required by applicable 
+law. Agreements should prohibit disclosures inconsistent with Colorado law, including 
+restrictions relating to civil immigration enforcement and legally protected health care activity. 
+Vendors should be required to provide notice of requests for City data and afford the City a 
+reasonable opportunity to respond or object when legally permissible. Exceptions permitting 
+disclosure without prior City authorization should be narrowly defined and subject to 
+reasonable documentation and notification requirements. 
+d. Data Retention and Destruction. The City shall maintain reasonable limitations on the 
+retention of data collected through ALPR and AVIS systems, consistent with applicable law 
+and the distinct operational requirements of each system. Vendor agreements should establish 
+appropriate retention and deletion requirements, including reasonable procedures to verify the 
+destruction of data following the expiration of applicable retention periods, to the extent 
+technically feasible and consistent with applicable legal preservation requirements. 
+e. Data Security. Vendor agreements should require commercially reasonable technical and 
+administrative safeguards appropriate to the nature and sensitivity of the data collected, 
+including encryption, access controls, multifactor authentication, access logging, and 
+appropriate restrictions on vendor personnel access. Vendors should maintain reasonable 
+cybersecurity monitoring, vulnerability assessments, and procedures for identifying, reporting, 
+and responding to unauthorized access or disclosure. 
+f. Auditing and Verification. The City should seek contractual provisions permitting reasonable 
+verification of vendor compliance with data privacy and security requirements. Such provisions 
+may include independent security assessments, third-party audit reports, security certifications, 
+access logs, and documentation of corrective actions. Vendors should be required to 
+cooperate with the City in investigating and remedying unauthorized access, disclosure, or 
+other material violations of contractual obligations. 
+g. Changes to System Functionality. Vendor agreements should require advance notice of 
+material changes to system functionality affecting the collection, retention, storage, use, 
+sharing, or security of City data. To the extent reasonably practicable, the City should retain 
+the ability to reject or disable functionality that materially expands the collection, use, or 
+sharing of data beyond the purposes authorized by the City. 
+h. Contractual Accountability. Vendor agreements should include commercially reasonable 
+and enforceable remedies for material violations of privacy and security obligations, including 
+corrective action, suspension of access, termination, appropriate indemnification, and recovery 
+of costs associated with unauthorized access or disclosure, subject to applicable law and 
+negotiated contractual limitations. 
+ 
+BUDGETARY IMPACTS: Staff does not currently know the budget impact associated with these 
+modifications to the provision of ALPR or AVIS systems within the City. 
+ 
+STAFF RECOMMENDATIONS: Staff recommends the City Council provide guidance on the criteria 
+for selecting a new ALPR or AVIS to ensure their concerns with the use of ALPR or AVIS systems are 
+met and to limit the time without any system in place 
+ 
+ALTERNATIVES: The City Council may provide staff with guidance on the use of ALPR or AVIS 
+systems within the City in addition to the items that were previously raised and addressed above. 
+ 
+PUBLIC OUTREACH: This item has been promoted through the regular communication channels to 
+be considered by the Lakewood City Council. 
+ 
+NEXT STEPS: Staff will use the direction provided by the City Council to inform the selection and 
+Page 11 of 12
+contracting process with new ALPR and AVIS vendors.  
+ 
+ATTACHMENTS: None 
+ 
+REVIEWED BY: Jonathan Cain, City Manager 
+Benjamin B. Goldstein, Deputy City Manager  
+Alison McKenney Brown, City Attorney 
+ 
+Page 12 of 12

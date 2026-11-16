@@ -1,77 +1,6 @@
 # estes-park
 
-## [estes-park#0] 2026-08-11 | Town Board Study Session | minutes
-- Town ofEstes Park, Larimer County, Colorado August 11, 2026
-- Minutes of a Study Session meeting of the Town Board of the Town of Estes Park,
-- of Estes Park on the 11th day of August, 2026
-- Visit Estes Park Dark Sky Ordinance
-- Visit Estes Park Senior Destination Stewardship Manager Dana Paiement and CEO
-- Community Certification through the International DarkSky program. DarkSky
-- Paiement described how the Dark Sky certification aligned with visitor interest, with 65%
-- of national park visitors since the 1980s valuing dark skies as part of their trip and dark
-- numerous Dark Sky certified communities and parks in Colorado and thirty (30)
-- additional locations were pursuing certification. The Colorado Tourism Office organized
-- a mentor program to support locations seeking Dark Sky certification, which Paiement
-- in other communities including the Town of Breckenridge which permitted residents to
-- homeowners to replace outdoor light fixtures. Dark Sky certification standards included
-- paths and streets rather than casting a broad glow. CEO Leonard noted the Dark Sky
-- Community Certification allowed communities flexibility in establishing programs to meet
-- Requested examples of ordinances setting standards for lighting from Dark Sky certified
-- benefits for people and wildlife, and the potential tourism opportunities; discussed the
-- timeline to achieve certification, it was stated most communities achieved certification
-- certification and Visit Estes Park had been working with DarkSky in an official capacity
-- for two (2) years; discussed existing lighting ordinances in the Town and Larimer
-- Mountain National Park (RMNP) had not begun the certification process to become a
-- Dark Sky certified park; expressed support of RMNP pursuing Dark Sky Park
-- certification; expressed concern with the requirement in the draft Lighting Ordinance for
-- Town; expressed concern with the requirement in the draft Lighting Ordinance for all
-- residential properties to comply with Dark Sky approved lighting fixtures within ten (10)
-- existing lighting regulations in the Development Code; discussed the impact of light from
-- communities would not impact Dark Sky certification for the Town; expressed
-- clear of skies as more remote communities and parks; asked about the size of the
-- population of current and pending Dark Sky certified communities in Colorado, it was
-- stated the Town was larger than the majority of certified and pending municipalities
-- however there were some counties seeking certification; discussed the requirements of
-- the Dark Sky Community Certification, it was noted the certification committee would
-
-## [estes-park#1] 2026-08-11 | Town Board | minutes
-- Town ofEstes Park, Larimer County, Colorado, August 11, 2026
-- Park, Larimer County, Colorado. Meeting held in the Town Hall in said Town of
-- Estes Park on the 11th day of August, 2026
-- Agenda Approval
-- It was moved and seconded (Eshelman/lgel) to approve the Agenda, and it passed
-- Public Comments
-- the time limitation during Town Board meeting public comment. He stated voting was not
-- Board comments were heard and have been summarized: Discussion at the Economic
-- Development and Workforce Council (EDWC) meeting comprised of future year plans,
-- business retention, attraction, workforce development, education, sustainability,
-- Estes Park would hold their regular August meeting; Sister Cities would meet September
-- exchange which has grown to include a film festival in 2027; the Police Department held
-- commemoration. Estes Park Police Department Honor Guard presented the colors and
-- included Sergeants Monty Alien and Kirk Jellesma, Master Police Officer Jerry Twigg,
-- 1. Expenditure Approval Lists - Bills
-- 3. Resolution 55-26 Contract with Kinley Built for the Design and Construction of a New
-- Storage Building at the Events Center Complex, $424,350 - Budgeted
-- 4. Resolution 92-26 State of Colorado Department of Local Affairs Energy Mineral
-- Impact Assistance Fund Grant in the amount of $100,000 Toward the Design of a
-- 5. Resolution 93-26 Decline to Exercise the Right of First Refusal to Purchase Windy
-- Gap Water Units from the Platte River Power Authority
-- It was moved and seconded (Eshelman/Mieras) to approved the Consent Agenda
-- Consent Item #5 - Resolution 93-26 Decline to Exercise the Right of First Refusal
-- to Purchase Windy Gap Water Units from the Platte River Power Authority. At the
-- request of Trustee Eshelman staff provided history on Windy Gap Water Units and why
-- does not need the water units and would be required to purchase two units totaling nearly
-- $10 million. It was moved and seconded (Brown/Mieras) to approve Consent Agenda
-- 1. Resolutions 87-26, 88-26, and 89-26 Regarding Fall River Village II PUD and
-- Subdivision Plats. Mayor Hall re-opened the public hearing for Resolution 87-26 as
-- required by Colorado State Statute and hear public comment on the item. At the July
-- 28, 2026 meeting Resolutions 87-26, 88-26 and 89-26 were continued to the next
-- to attend the meeting, and therefore, staff requested the items be continued to the
-- to continue the items, the Estes Park Development Code and State Statutes require
-- action within 30 days of the application or the item would be deemed approved. Staff
-- stated the code allows PUD applications to be brought forward as a single application
-
-## [estes-park#2] 2026-08-25 | Town Board Study Session | minutes
+## [estes-park#0] 2026-08-25 | Town Board Study Session | minutes
 - Town ofEstes Park, Larimer County, Colorado August 25, 2026
 - Minutes of a Study Session meeting of the Town Board of the Town of Estes Park,
 - of Estes Park on the 25th day of August, 2026
@@ -106,7 +35,7 @@
 - require licenses to operate, Greear stated some MDs require a license to operate but
 - not all; discussed the need to clarify the existing regulations in the Municipal Code in
 
-## [estes-park#3] 2026-08-25 | Town Board | minutes
+## [estes-park#1] 2026-08-25 | Town Board | minutes
 - Town of Estes Park, Larimer County, Colorado, August 25, 2026
 - Park, Larimer County, Colorado. Meeting held in the Town Hall in said Town
 - of Estes Park on the 25th day of August, 2026
@@ -142,7 +71,7 @@
 - It was moved and seconded (Hazelton/Igel) to approve the Consent Agenda, and it
 - Report and Discussion Items (Outside Entities):
 
-## [estes-park#4] 2026-09-08 | Town Board Study Session | minutes
+## [estes-park#2] 2026-09-08 | Town Board Study Session | minutes
 - Town ofEstes Park, Larimer County, Colorado September 8, 2026
 - Minutes of a Study Session meeting of the Town Board of the Town of Estes Park,
 - of Estes Park on the 8th day of September, 2026
@@ -176,7 +105,7 @@
 - attainable housing rentals as costing no more than 30% of a renter's income and
 - defining attainable housing homeownership as costing no more than 40% of a
 
-## [estes-park#5] 2026-09-08 | Town Board | minutes
+## [estes-park#3] 2026-09-08 | Town Board | minutes
 - Town ofEstes Park, Larimer County, Colorado, September 8, 2026
 - Park, Larimer County, Colorado. Meeting held in the Town Hall in said Town of
 - Estes Park on the 8th day of September, 2026
@@ -214,7 +143,7 @@
 - technical error in the text of the Official Zoning Map of the Development Code
 - Proposed Review Criteria 2 had been drafted to ensure developmental consistency
 
-## [estes-park#6] 2026-09-22 | Town Board Study Session | minutes
+## [estes-park#4] 2026-09-22 | Town Board Study Session | minutes
 - Town ofEstes Park, Larimer County, Colorado September 22, 2026
 - Minutes of a Study Session meeting of the Town Board of the Town of Estes Park,
 - of Estes Park on the 22nd day of September, 2026
@@ -248,7 +177,7 @@
 - or incorporate feather flags within a permanent code revision. Board discussion ensued
 - visually appealing versus one; mixed Board support for no fee versus fee and permit
 
-## [estes-park#7] 2026-09-22 | Town Board | minutes
+## [estes-park#5] 2026-09-22 | Town Board | minutes
 - Town ofEstes Park, Larimer County, Colorado, September 22, 2026
 - Park, Larimer County, Colorado. Meeting held in the Town Hall in said Town of
 - Estes Park on the 22nd day of September, 2026
@@ -286,7 +215,7 @@
 - of being incorporated and the Town would petition the District Court to include properties
 - desire to complete the incorporation of NCWC customers and discussed the timeline
 
-## [estes-park#8] 2026-10-13 | Town Board Study Session | minutes
+## [estes-park#6] 2026-10-13 | Town Board Study Session | minutes
 - Town ofEstes Park, Larimer County, Colorado October 13, 2026
 - Minutes of a Study Session meeting of the Town Board of the Town of Estes Park,
 - of Estes Park on the 13th day of October, 2026
@@ -320,7 +249,7 @@
 - vendors; and requested the draft policy be brought back for consideration by the Board
 - Winter Event Strategy Proposal
 
-## [estes-park#9] 2026-10-13 | Town Board | minutes
+## [estes-park#7] 2026-10-13 | Town Board | minutes
 - Town ofEstes Park, Larimer County, Colorado, October 13, 2026
 - Park, Larimer County, Colorado. Meeting held in the Town Hall in said Town of
 - Estes Park on the 13th day of October, 2026
@@ -354,3 +283,144 @@
 - 1. Expenditure Approval Lists - Bills
 - 3. Purchase of Five S&C IntelliRupter PulseClosers, $333,222.25, Budgeted
 - 4. Extension Request for Colorado Department of Local Affairs (DOLA) Grant EIAF
+
+## [estes-park#8] 2026-10-16 | Town Board Study Session | minutes
+- Town ofEstesPark, Larimer County/ Colorado/ October 16, 2026
+- Minutes of a Budget Study Session meeting of the Town Board of the Town of Estes
+- Park, Larimer County, Colorado. Meeting held at Town Hall in the Board Room in said
+- Town of Estes Park on the 16th day of October, 2026
+- Director Garcia, Director Hinkle, Police Chief Stewart,
+- 2027 Budget Presentation
+- Town Administrator Machalek stated the 2027 budget has been prepared with an
+- to expend $1.775 million in fund balance for capital expenditures. The budget has been
+- prepared with a revenue budgeted at 5% over 2025 actuals. The Town has been
+- trending at approximately 5.57% above 2025 for 2026 sales tax collections. The
+- proposed budget expenditures do not exceed the ongoing revenues in the General
+- has been used to fund one-time expenses, not ongoing expenses. The budget contains
+- previous Workforce Housing Reserve funds which were established prior to the 6E
+- Director Zimmerman reviewed the 2027 budget process, reviewed sales tax allocations
+- including the 1A sales tax which expires in 2034, reviewed discretionary equipment
+- replacement reserves, outlined other reserve funds, noted the proposed budget
+- Community Improvement Plan 2027 - 2031
+- The Community Improvement Plan (CIP) was developed by the departments submitting
+- projects, the Town Board completing and setting a Strategic Plan, development of an
+- operating budget, project prioritization, and the final adoption of the CIP by the Town
+- Board during the budget review and approval process. The CIP annual summary for
+- 2027 contains $37.660 million in projects including Events Center safety lighting
+- improvements, rooftop replacement over the Police department, Visitor Center log
+- restoration and preservation, brown sand tent repair, stormwater management program,
+- STIP overlay and patch program, STIP parking lot rehabilitation, Wonderview Avenue
+- trail extension, and Children's Park remodel
+- Lineworker - 3%, and Management - 2%. The budget also includes a 2% merit pool to
+- package for 2027. She noted the budget proposal contained a 20% increase for medical
+- Howden and plan design changes the Town was able to secure a 15% increase
+- Town's partially self-insurance fund. This fund budgets for estimated premiums, third
+- coverage. The budget contains $5.685 in revenues and expenditures for 2027
+- Lancaster questioned the percentage of the overall budget that accounts for personnel
+- cost make up 50.2% of the budget. The Legislative budget would reflect a reallocation
+- of the Platte River Power Authority (PRPA) community funding of approximately
+
+## [estes-park#9] 2026-10-23 | Town Board Study Session | minutes
+- Town ofEstes Park, Larimer County, Colorado October 23, 2026
+- Minutes of a Budget Study Session meeting of the Town Board of the Town of Estes
+- Park, Larimer County, Colorado. Meeting held at Town Hall in the Board Room in said
+- Town of Estes Park on the 23rd day of October, 2026
+- Community Development - Building and Planning
+- Staff reviewed the proposed budget for the Building and Planning Divisions within
+- Community Development. The Estes Park Development Code rewrite would continue
+- into 2027. As part of a 2027 Strategic Plan Objective, staff would evaluate the need for
+- development complies with sustainability and environmental regulations and policies
+- Large building projects identified included the Stanley Hotel Expansion and Film Center
+- related to staffing the Building Division with contract staff from SafeBuilt stating building
+- can be uneven or unpredictable. A benefit to contracting with SafeBuilt was the
+- surge in permitting. Discussion ensued regarding the possibility of annexing the
+- Olympus Lodge property and their future interest in accessing Town water
+- Maintenance Fund, Facilities, and Information Technology budgets. The Town would
+- purchase eight (8) replacement vehicles in 2027 and where appropriate and possible,
+- consider electric vehicles for replacement. The Fleet Utilization Study was anticipated
+- to be completed by the end of the year providing more information on how to accurately
+- budget this fund. Discussion ensued on the increased wear on Police Department
+- maintenance for the Estes Valley Fire Protection District's (EVFPD) apparatus and
+- EVFPD for 289 hours and the 2026 budget contains billing of 350 hours. The Town has
+- requested EVRPD increase the billable hours to 360 to cover the anticipated
+- Valley Recreation and Park District (EVRPD) and the Estes Park School District
+- Reduction Funding, convert the ISD Project Manager contract position to a 3-year
+- Compliance and Fire Protection Renewal Program, Parking Garage Structure
+- Unit HVAC Replacement (Police), Town Hall Space Needs Assessment and Facility
+- Reuse Master Planning Study, Town Hall Roof Replacement (Section 2 - Police), Town
+- Facilities Lifecycle Improvement Funding, and Brown Sand Tent Repair - Elm Road
+- Communications Improvements, Technology Disaster Recovery Planning Initiative and
+- a reserve to cover unanticipated claims and deductibles. The proposed 2027 budget
+- was identified at $800,994. Staff anticipated an increase to property insurance which
+- was reflective in the budget
+- Staff reviewed the proposed budget and responded to Board questions on the math
+
+## [estes-park#10] 2026-10-27 | Town Board | minutes
+- Town ofEstes Park, Larimer County, Colorado, October 27, 2026
+- Park, Larimer County, Colorado. Meeting held in the Town Hall in said Town of
+- Estes Park on the 27th day of October, 2026
+- Agenda Approval
+- It was moved and seconded (Eshelman/Hazelton) to approve the Agenda, and it
+- Public Comments
+- Mead, stating it would meet most of the needs of the Estes Park Police Department and
+- Park. He recommended spending less money on the proposed facility and directing the
+- money saved towards increasing the pay of police officers in order to support more police
+- officers living in town limits. He stated having police officers reside in or near town would
+- better serve Estes Park than a new public safety facility by allowing officers to respond
+- the Trustee Talks; reported on the topics discussed at the 2026 Mountain Towns 2030
+- the summit including energy, waste, Crested Butte's tax on vacant property, wildfire
+- mitigation, workforce housing, and demographic changes in western resort communities;
+- Visit Estes Park (VEP) conducted the annual evaluation of CEO Leonard; VEP planned
+- Strategic Plan and the proposed budget to understand annual Town priorities; reported
+- Board for requests for items for future study sessions, Mayor Hall requested a Study
+- Session or a Report and Discussion Item on noise ordinances
+- 1. Expenditure Approval Lists - Bills
+- 4. Resolution 103-26 Contract with Empire Management, Inc., for the Fall River Trail
+- Final Segment Construction Management and Inspection, $114,500 - Budgeted
+- 5. Resolution 104-26 Contract with FNF Construction, Inc., for the Fall River Trail Final
+- Segment Construction, $3,553,992.20 - Budgeted
+- 6. Resolution 105-26 2027 Annual Workforce Housing and Childcare Funding Plan for
+- 6E Lodging Tax Funds
+- 7. Resolution 106-26 Grant Agreements with the Clean Transit Enterprise of the
+- 8. Estes Valley Public Library District Board Appointment of Sheila Kemper Dietrich
+- It was moved and seconded (Eshelman/Mieras) to approve the Consent Agenda with
+- Consent Agenda Items Removed for Discussion:
+- Item 5 Resolution 104-26 Contract with FNF Construction, Inc., for the Fall River Trail
+- Final Segment Construction, $3,553,992.20 - Budgeted: Trustee Brown requested
+- stating each bidder provided documentation about their experience with similar projects
+- and their subcontractors. He also consulted with CDOT Region 4 staff. Trustee Brown
+- questioned the wide range of cost for the bids received. Engineer Wittwer stated the initial
+- cost estimate by the Town was conservative and half of the bids were over the estimate
+
+## [estes-park#11] 2026-10-27 | Town Board Study Session | minutes
+- Town ofEstes Park, Larimer County, Colorado October 27, 2026
+- Minutes of a Joint Study Session meeting of the Town Board of the Town of Estes Park
+- Visit Estes Park Operating Plan
+- Sarah LeonardA/isit Estes Park CEO presented the 2027 Operating Plan comprised of
+- strategic objectives, departmental initiatives and performance measures. The plan
+- destination benefiting the residents, local businesses and visitors. She stated the plan
+- builds on feedback from residents, businesses and partners collected over the past two
+- (2) years through community input. The plan was organized around five (5) core areas
+- complementary shuttle service between Estes Park and Boulder with pop-up activations
+- near the festival and local business offers and experiences. Plan updates have been
+- summarized: Continue Vacationland partnership, the official visitor guide, and increase
+- intent and planning, and VEP visibility across platforms; maintain relationships with the
+- visitation, local businesses and the broader tourism economy; participate in the US
+- related to DarkSky certification and explore a DarkSky club which encourages business,
+- residents and visitors to participate through incentives and education; audit information
+- and incorporate considerations into relevant events and sponsorships; provide at least
+- the Estes Arts District and Arts and Culture Advisory Council; develop a VEP contract
+- template for most vendors; examine internal expenditures for cost saving opportunities;
+- additional expertise may be needed. The proposed 2027 budgeted revenues were
+- identified at $11.68 million with $6.45 million 6E funds passed through to the Town of
+- Estes Park. VEP was available for questions. The Board and County Commissioners
+- commended VEP on their presentation and the development of the plan comments
+- value of the tourism sentiment; the strategy for shifting marketing into the shoulder
+- there were any plans to utilize artificial intelligence (Al); the importance of environmental
+- stability focuses including recycling present within the plan, and no changes were
+- recommended to the plan. Staff stated the Town Board would formally take action on
+- the plan at the November 10, 2026 meeting and the Board of County Commissioners
+- 2027 Workforce Housing and Childcare Funding Plan Draft
+- Manager Speedlin presented the final draft of the 2027 Annual Workforce Housing and
+- Childcare Funding Plan for 6E Lodging Tax funds. The annual funding plan outlined the
+- allocation of revenue generated by Ballot Initiative 6E, approved by voters in November

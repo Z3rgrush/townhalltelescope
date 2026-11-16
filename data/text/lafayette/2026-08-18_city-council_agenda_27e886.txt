@@ -18,7 +18,7 @@ II. Public Input
 III. Consent Agenda
 A. August 4, 2026, City Council Meeting Minutes
 B. July 28, 2026, City Council Workshop Summary
-C. Second Reading / Ordinance No. 14, Series 2026 / Amending Section 5 -40 of the
+C. Second Reading / Ordinance No. 14, Series 2026 / Amending Section 5-40 of the
 Code of Ordinances to Revise the Name, Scope, and Duties and Responsibilities
 of the Human Rights Board
 D. Resolution No. 2026-21 / Authorizing Assignment to the Housing Authority of the
@@ -69,7 +69,7 @@ for the meeting number. The meeting number is 869 1163 2580. Press # after enter
 number. To request to speak, press *9 during Public Input to raise your hand. When it is 
 your turn, we will unmute your microphone. 
 To request interpreter services, please submit a request at least two (2) days prior the 
-meeting at LafayetteCo.gov/InterpreterRequestForm . 
+meeting at LafayetteCo.gov/InterpreterRequestForm. 
  
 Accessibility Statement 
 The City of Lafayette strives to provide equitable digital access for all. If you require 
@@ -1063,7 +1063,7 @@ Attorney for the Purpose of Receiving Legal Advice on Specific Legal Questions R
 Council Meeting Decorum and Related Legal Issues 
 A motion was made by Mayor Tapia Vega and seconded by Councilor Jensen to recess to 
 executive session pursuant to Section 24-6-402(4)(b) of the Colorado Revised Statutes to 
-Confer with the City Attorney for the Purpose of Receiving Legal Advice on Specific  Legal 
+Confer with the City Attorney for the Purpose of Receiving Legal Advice on Specific Legal 
 Questions Regarding Council Meeting Decorum and Related Legal Issues. The motion passed 
 6-0. 
 III. Return to Open Session – No Earlier Than 5:30pm 
@@ -1160,8 +1160,8 @@ Alex Nelson reviewed the proposed changes to the Human Rights Board and Planning
 Commission recruitment timing and next steps. 
 Council asked about vacancies and expiring terms on the Human Rights Board.  
 A motion was made by Councilor Jensen and seconded by Councilor Beaulieu to approve on 
-first reading Ordinance No. 14, Series 2026, amending Section 5 -40 of the Code of Ordinances 
-to revise the name, scope, and duties and responsibilities of the Human Rights Board.  The 
+first reading Ordinance No. 14, Series 2026, amending Section 5-40 of the Code of Ordinances 
+to revise the name, scope, and duties and responsibilities of the Human Rights Board. The 
 motion passed 6-0. 
 A motion was made by Councilor Jensen and seconded by Councilor Beaulieu to extend the 
 terms of all Planning Commission members to have an end date of January 31, as follows: 
@@ -1198,7 +1198,7 @@ Council asked about certain revenue streams, internal controls, and reported inc
 tax revenue. 
  
 A motion was made by Councilor Gianola and seconded by Mayor Pro Tem Barnes to accept the 
-2025 Annual Comprehensive Financial Report.  The motion passed 6-0. 
+2025 Annual Comprehensive Financial Report. The motion passed 6-0. 
  
 K. Motion / Authorization to Negotiate with the Top-Ranked Proposer for the 200 N. Public Road 
 Request for Proposals 
@@ -1389,23 +1389,23 @@ INTRODUCED BY:
  Councilor Annmarie Jensen
 AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF LAF AYETTE, 
 COLORADO, AMENDING SECTION 5-40 OF THE CODE OF ORDINANCES 
-TO REVISE THE NAME, SCOPE, AND D UTIES A ND RESPONSIBILITIES OF 
+TO REVISE THE NAME, SCOPE, AND D UTIES AND RESPONSIBILITIES OF 
 THE HUMAN RIGHTS BOARD  
 WHEREAS, in accordance with sections 4.13 and 4.13-1 of the Charter, the City 
 Council may, by ordinance, establish any board or commission and the responsibilities, policies, 
 and duties of each board and commission, except the Planning Commission; and  
-WHEREAS, the City Co uncil desires to revise the name, s cope, and duties and 
-responsibilities of the Human Right s  Board to reflect a thorough assessm ent  completed at the 
+WHEREAS, the City Co uncil desires to revise the name, scope, and duties and 
+responsibilities of the Human Right s Board to reflect a thorough assessm ent completed at the 
 r
 equest of the Human Rights Board as part of the City’s Inclusion, Diversity, Equity, and Access 
 Strategic Plan development process.  
 NOW, THEREFORE, BE IT ORDAINED BY THE CITY COUNCIL OF THE 
-CITY OF LAF AYETTE, CO LORADO, AS FOLLOWS: 
-Section 1. That s e ction  5-40, “Human Rights Board,” of Article III, “Bo ards and 
+CITY OF LAF AYETTE, COLORADO, AS FOLLOWS: 
+Section 1. That s e ction 5-40, “Human Rights Board,” of Article III, “Bo ards and 
 Commissions,” of Chapter 5 of the Code of Ordinances, City of Lafayette, Colorado, is hereby 
 amended to read as follows:1 
 S
-ec. 5-40. - H uman rights boar d Inclusion, di versity, equity, and acc ess board . 
+ec. 5-40. - H uman rights board Inclusion, di versity, equity, and acc ess board. 
 (a) Scope. The human rights board inclusion, diversity, equity, and access board shall be
 an advisory board, and shall advise the city council on matters related to inclusion,
 diversity, equity, and access for Lafayette residents in City policies, initiatives, and
@@ -1593,7 +1593,7 @@ Lafayette, Colorado, as follows:
 1. Authorization of Assignment. The City Council hereby authorizes the assignment
 of the Assigned Allocation to the Authority for the purposes described above and in the 
 Assignment accompanying this resolution. 
-2. Approval of Assignment of Allocation. The  form, terms and provisions of the
+2. Approval of Assignment of Allocation. The form, terms and provisions of the
 Assignment hereby are approved; provided, however, that the City Manager is hereby granted 
 authority to negotiate, and the City Attorney is granted authority to approve as to form such 
 Attachment A - Resolution No. 2026-21 Private Activity Bonds
@@ -1603,7 +1603,7 @@ Page 2
  
 revisions to said Assignment as the City Manager determines are necessary or desirable for the 
 protection of the City and not inconsistent with the approval thereof by this resolution. 
-3. Execution. The Mayor of the City is  hereby authorized and directed to execute, 
+3. Execution. The Mayor of the City is hereby authorized and directed to execute, 
 and the City Manager is authorized to deliver the Assignment with such changes therein as are 
 approved by the officers of the City executing the Assignment. The execution of the Assignment 
 shall be conclusive evidence of the approval by the City Council of such document in accordance 
@@ -1674,7 +1674,7 @@ Allocation from the State Ceiling for private activity bonds in an amount equal 
 Assignor and the Assignee understand that such assigned allocation shall automatically be 
 relinquished to the “Statewide Balance” as defined under the Allocation Act unless (a) the 
 Proposed Bonds are issued by the Assignee on or before September 15, 2026; or (b) Section 24-32-
-1706(3)(c), Colorado Revised Statutes , pertaining to the carryforward of the assigned allocation 
+1706(3)(c), Colorado Revised Statutes, pertaining to the carryforward of the assigned allocation 
 applies. 
 2. The Assignor represents  that it has received no monetary consideration for the
 assignment set forth above. 

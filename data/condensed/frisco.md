@@ -1,66 +1,6 @@
 # frisco
 
-## [frisco#0] 2026-08-11 | Town Council | agenda
-- 1 MAIN STREET
-- Agenda Item #2: Landscaping and Revegetation Requirements Code Discussion
-- Agenda Item #3: Downtown Colorado Incorporated Economic Development Program
-- Presentation
-- Public Comments:
-- Public Comment is reserved for items not slated for a public hearing on the meeting’ s agenda
-- If you plan to comment on an item already slated for a public hearing later on the meeting’s
-- agenda, please wait until that item is announced and public comment is requested at that time
-- Council action is taken on Public Comments at Council meetings. Council takes public
-- Public Comment, and include contact information for follow up communication
-- Consideration and Possible Approval of Minutes from July 28, 2026 Meeting
-- Consideration and Possible Approval of Resolution 26-21: A RESOLUTION OF THE TOWN
-- TOWN CLERK TO EXECUTE A CONTRACT WITH A-1 CHIP SEAL FOR THE PURPOSES
-- Consideration and Possible Approval of Resolution 26-22: A RESOLUTION AUTHORIZING
-- THE PURCHASE OF A CAT 930 WHEEL LOADER
-- Agenda Item #1: Consideration and Possible Approval of Resolution 26-23: A RESOLUTION
-- APPROVING A REVOCABLE LICENSE AND RIGHT OF ENTRY
-- AGREEMENT FOR UTILITY THERMAL ENERGY NETWORK TEST BORE
-- (RE: TOWN HALL PROPERTY, 1 MAIN STREET, FRISCO, COLORADO)
-- Council Agendas can legally be amended up until 24 hours prior to the beginning of the scheduled
-
-## [frisco#1] 2026-08-11 | Town Council | agenda
-- 1 MAIN STREET
-- Agenda Item #2: Landscaping and Revegetation Requirements Code Discussion
-- Agenda Item #3: Downtown Colorado Incorporated Economic Development Program
-- Presentation
-- Public Comments:
-- Public Comment is reserved for items not slated for a public hearing on the meeting’ s agenda
-- If you plan to comment on an item already slated for a public hearing later on the meeting’s
-- agenda, please wait until that item is announced and public comment is requested at that time
-- Council action is taken on Public Comments at Council meetings. Council takes public
-- Public Comment, and include contact information for follow up communication
-- Consideration and Possible Approval of Minutes from July 28, 2026 Meeting
-- Consideration and Possible Approval of Resolution 26-21: A RESOLUTION OF THE TOWN
-- TOWN CLERK TO EXECUTE A CONTRACT WITH A-1 CHIP SEAL FOR THE PURPOSES
-- Consideration and Possible Approval of Resolution 26-22: A RESOLUTION AUTHORIZING
-- THE PURCHASE OF A CAT 930 WHEEL LOADER
-- Agenda Item #1: Consideration and Possible Approval of Resolution 26-23: A RESOLUTION
-- APPROVING A REVOCABLE LICENSE AND RIGHT OF ENTRY
-- AGREEMENT FOR UTILITY THERMAL ENERGY NETWORK TEST BORE
-- (RE: TOWN HALL PROPERTY, 1 MAIN STREET, FRISCO, COLORADO)
-- Council Agendas can legally be amended up until 24 hours prior to the beginning of the scheduled
-- HISTORIC PARK & MUSEUM MANAGER
-- In January 2023, Frisco Town Council approved through resolution the Frisco Five-Year
-- Arts and Culture Strategic Plan, which recommended the creation of a Frisco Arts and
-- Culture Council (FACC). Subsequently, Ordinance 23-01 was also passed by Town
-- members were appointed in May 2023 by Town Council, and subsequently, two of the
-- scheduling concerns, and two new members were appointed. Currently, six of the seven
-- Daymon Pascual- Frisco resident and business owner; Terms- appointed to first
-- term in May 2023 through May 2026 and then reappointed to serve a three-year
-- Megan Testin (Chair)- Frisco resident; Terms- appointed to first term in May 2023
-- through May 2026 and then reappointed to serve a three-year term from May
-- Jamie Callahan (Vice-Chair)- Frisco resident; Terms- appointed to vacant three
-- 2026 and then reappointed to serve a three-year term from May 2026 through
-- Melissa Sherburne- Frisco resident; Terms- appointed to first term from May 2023
-- through May 2025 and then reappointed to serve a three-year term from May
-- Todd Altschuler- Frisco resident; Terms- appointed to first term from May 2023
-- reappointed to serve a three-year term from May 2024 through May 2027
-
-## [frisco#2] 2026-08-20 | Planning Commission | agenda
+## [frisco#0] 2026-08-20 | Planning Commission | agenda
 - 1 MAIN STREET
 - Approval of the July 16, 2026, Planning Commission meeting minutes
 - Public Comments:
@@ -74,7 +14,7 @@
 - Housing Developments, concerning a fast-tracked review process for
 - affordable housing to meet Proposition 123 state requirements
 
-## [frisco#3] 2026-08-20 | Planning Commission | agenda
+## [frisco#1] 2026-08-20 | Planning Commission | agenda
 - 1 MAIN STREET
 - Approval of the July 16, 2026, Planning Commission meeting minutes
 - Public Comments:
@@ -110,7 +50,7 @@
 - is in the easement. Ziedin elaborated that they cannot locate the existing water line and it probably is not
 - there are problems accessing the property now. Discussion between the Commission and applicant
 
-## [frisco#4] 2026-08-25 | Town Council | agenda
+## [frisco#2] 2026-08-25 | Town Council | agenda
 - SUMMIT FIRE & EMS BUILDING
 - 0035 COUNTY SHOPS ROAD
 - Public Comments:
@@ -123,7 +63,7 @@
 - consensus on strategic direction for the Town Staff and the Council to act on
 - Town Council Agendas can legally be amended up until 24 hours prior to the beginning of the scheduled
 
-## [frisco#5] 2026-08-25 | Town Council | agenda
+## [frisco#3] 2026-08-25 | Town Council | agenda
 - SUMMIT FIRE & EMS BUILDING
 - 0035 COUNTY SHOPS ROAD
 - Public Comments:
@@ -165,7 +105,7 @@
 - Grant programs supporting youth dental health and local childcare center
 - Infrastructure development and maintenance
 
-## [frisco#6] 2026-09-08 | Town Council | agenda
+## [frisco#4] 2026-09-08 | Town Council | agenda
 - 1 MAIN STREET
 - Agenda Item #2: 2027 Budget Discussion
 - Public Comments:
@@ -203,7 +143,7 @@
 - Investment Policy uses separate safeguards, including FDIC eligibility, Colorado public
 - The presentation reports a weighted average yield of 3.96% for securities and certificates
 
-## [frisco#7] 2026-09-08 | Town Council | agenda
+## [frisco#5] 2026-09-08 | Town Council | agenda
 - 1 MAIN STREET
 - Agenda Item #2: 2027 Budget Discussion
 - Public Comments:
@@ -227,7 +167,7 @@
 - A FAST TRACK AFFORDABLE HOUSING PROCESS
 - Council Agendas can legally be amended up until 24 hours prior to the beginning of the scheduled
 
-## [frisco#8] 2026-09-17 | Planning Commission | agenda
+## [frisco#6] 2026-09-17 | Planning Commission | agenda
 - 1 MAIN STREET
 - Approval of August 20, 2026, Planning Commission meeting minutes
 - Public Comments:
@@ -237,7 +177,7 @@
 - Plan application for a proposed residential development consisting of eight
 - (8) new townhomes. Location: 207 Granite Street / Lots 13-18 Block 8
 
-## [frisco#9] 2026-09-22 | Town Council | agenda
+## [frisco#7] 2026-09-22 | Town Council | agenda
 - 1 MAIN STREET
 - Agenda Item #3: 2027 Grant Award Committee Recommendations
 - Agenda Item #4: Downtown Winter Parking Update
@@ -267,7 +207,7 @@
 - AFFORDABLE HOUSING PROCESS
 - Council Agendas can legally be amended up until 24 hours prior to the beginning of the scheduled
 
-## [frisco#10] 2026-09-22 | Town Council | agenda
+## [frisco#8] 2026-09-22 | Town Council | agenda
 - 1 MAIN STREET
 - Agenda Item #3: 2027 Grant Award Committee Recommendations
 - Agenda Item #4: Downtown Winter Parking Update
@@ -308,7 +248,7 @@
 - Although the current Strong Future mill levy does not sunset until 2028, it was the desire
 - The Strong Future mill levy already exists and is not seeking an increase. The voters are
 
-## [frisco#11] 2026-10-01 | Planning Commission | agenda
+## [frisco#9] 2026-10-01 | Planning Commission | agenda
 - 1 MAIN STREET
 - Approval of September 17, 2026, Planning Commission meeting minutes
 - Public Comments:
@@ -319,7 +259,7 @@
 - telecommunication facility. Location: 101 W Main Street / LOT B-1 West
 - Frisco 70 Sub # 2. Applicant: Ben Feldman, BMF Development LLC, on
 
-## [frisco#12] 2026-10-01 | Planning Commission | agenda
+## [frisco#10] 2026-10-01 | Planning Commission | agenda
 - 1 MAIN STREET
 - Approval of September 17, 2026, Planning Commission meeting minutes
 - Public Comments:
@@ -355,7 +295,7 @@
 - drawn the building with garages off the alley and Granite Street and due to Staff feedback, they
 - redesigned to have the single access . Craig elaborated that the de sign of the development hides the
 
-## [frisco#13] 2026-10-13 | Town Council | agenda
+## [frisco#11] 2026-10-13 | Town Council | agenda
 - 1 MAIN STREET
 - Agenda Item #1: Summit School District Presentation
 - Public Comments:
@@ -378,7 +318,7 @@
 - SUBJECT TO NEGOTIATIONS, TO DEVELOP STRATEGY FOR
 - Council Agendas can legally be amended up until 24 hours prior to the beginning of the scheduled
 
-## [frisco#14] 2026-10-13 | Town Council | agenda
+## [frisco#12] 2026-10-13 | Town Council | agenda
 - 1 MAIN STREET
 - Agenda Item #1: Summit School District Presentation
 - Public Comments:
@@ -416,7 +356,7 @@
 - 1. Does the Council direct Staff to proceed with drafting an Ordinance to modify Town
 - 2. If the Council directs Staff to proceed with drafting an Ordinance, does the Council
 
-## [frisco#15] 2026-10-27 | Town Council | agenda
+## [frisco#13] 2026-10-27 | Town Council | agenda
 - 1 MAIN STREET
 - CONSIDERATION OF THE VACATION OF TOWN RIGHT OF WAYS, AND
 - SECTION 24-6-402(4)( a), TO CONSIDER THE POTENTIAL PURCHASE
@@ -451,7 +391,7 @@
 - AN ORDINANCE SETTING THE MILL LEVY WITHIN THE TOWN OF
 - Council Agendas can legally be amended up until 24 hours prior to the beginning of the scheduled
 
-## [frisco#16] 2026-11-05 | Planning Commission | agenda
+## [frisco#14] 2026-11-05 | Planning Commission | agenda
 - 1 MAIN STREET
 - Approval of October 1, 2026, Planning Commission meeting minutes
 - Public Comments:
@@ -478,7 +418,7 @@
 - 9.3. concerning general definitions, in order to allow incentives for the
 - development of Accessory Dwelling Units
 
-## [frisco#17] 2026-11-05 | Planning Commission | agenda
+## [frisco#15] 2026-11-05 | Planning Commission | agenda
 - 1 MAIN STREET
 - Approval of October 1, 2026, Planning Commission meeting minutes
 - Public Comments:
@@ -504,3 +444,79 @@
 - 180-5.5.1, concerning Affordable Housing Incentives, and amending 180
 - 9.3. concerning general definitions, in order to allow incentives for the
 - development of Accessory Dwelling Units
+
+## [frisco#16] 2026-11-10 | Town Council | agenda
+- 1 MAIN STREET
+- SUBJECT TO NEGOTIATIONS, TO DEVELOP STRATEGY FOR
+- Agenda Item #1: I-70 Exit #203 AC Marriott/CDOT Real Property Transition Discussion
+- Public Comments:
+- Public Comment is reserved for items not slated for a public hearing on the meeting’ s agenda
+- If you plan to comment on an item already slated for a public hearing later on the meeting’s
+- agenda, please wait until that item is announced and public comment is requested at that time
+- Council action is taken on Public Comments at Council meetings. Council takes public
+- Public Comment, and include contact information for follow up communication
+- Police & Court Activity - October 2026
+- items. These items are generally perceived as non-controversial and can be approved by a
+- Consideration and Possible Approval of Minutes from the October 27, 2026 Meeting
+- Consideration and Possible Approval of Colorado Municipality Opioid Settlement Participation &
+- Release Form Approval - Albertsons
+- Consideration and Possible Approval of Amended Contract - Frisco Haus LLC
+- Agenda Item #1: Consideration and Possible Approval on First Reading Ordinance 26-19: AN
+- ORDINANCE AMENDING CHAPTER 160 OF THE CODE OF
+- ORDINANCES OF THE TOWN OF FRISCO, COLORADO, CONCERNING
+- TAXATION, BY (1) REPEALING AND RE-ENACTING ARTICLE I
+- THEREOF, CONCERNING SALES TAXES, TO ELIMINATE THE SALES
+- TAX VENDOR’S FEE, AND TO AMEND CERTAIN DEFINITIONS,
+- EXEMPTIONS, AND PROVISIONS CONCERNING TAX
+- THE LODGING TAX, TO AMEND CERTAIN DEFINITIONS AND
+- THE MEDICAL MARIJUANA EXCISE TAX, TO AMEND CERTAIN
+- VI THEREOF, CONCERNING THE RETAIL MARIJUANA EXCISE TAX, TO
+- AMEND CERTAIN DEFINITIONS OF TERMS; AND (5) REPEALING AND
+- TERM RENTAL PROPERTY EXCISE TAX, TO AMEND CERTAIN
+- Agenda Item #1: Consideration and Possible Approval on Second Reading Ordinance 26-14:
+- AN ORDINANCE AMENDING CHAPTER 110, ARTICLE III OF THE CODE
+- OF ORDINANCES OF THE TOWN OF FRISCO, CONCERNING THE
+- CODE OF ORDINANCES OF THE TOWN OF FRISCO, CONCERNING
+- THE LICENSING OF SHORT-TERM RENTAL PROPERTY, BY AMENDING
+- Council Agendas can legally be amended up until 24 hours prior to the beginning of the scheduled
+
+## [frisco#17] 2026-11-10 | Town Council | agenda
+- 1 MAIN STREET
+- SUBJECT TO NEGOTIATIONS, TO DEVELOP STRATEGY FOR
+- Agenda Item #1: I-70 Exit #203 AC Marriott/CDOT Real Property Transition Discussion
+- Public Comments:
+- Public Comment is reserved for items not slated for a public hearing on the meeting’ s agenda
+- If you plan to comment on an item already slated for a public hearing later on the meeting’s
+- agenda, please wait until that item is announced and public comment is requested at that time
+- Council action is taken on Public Comments at Council meetings. Council takes public
+- Public Comment, and include contact information for follow up communication
+- Police & Court Activity - October 2026
+- items. These items are generally perceived as non-controversial and can be approved by a
+- Consideration and Possible Approval of Minutes from the October 27, 2026 Meeting
+- Consideration and Possible Approval of Colorado Municipality Opioid Settlement Participation &
+- Release Form Approval - Albertsons
+- Consideration and Possible Approval of Amended Contract - Frisco Haus LLC
+- Agenda Item #1: Consideration and Possible Approval on First Reading Ordinance 26-19: AN
+- ORDINANCE AMENDING CHAPTER 160 OF THE CODE OF
+- ORDINANCES OF THE TOWN OF FRISCO, COLORADO, CONCERNING
+- TAXATION, BY (1) REPEALING AND RE-ENACTING ARTICLE I
+- THEREOF, CONCERNING SALES TAXES, TO ELIMINATE THE SALES
+- TAX VENDOR’S FEE, AND TO AMEND CERTAIN DEFINITIONS,
+- EXEMPTIONS, AND PROVISIONS CONCERNING TAX
+- THE LODGING TAX, TO AMEND CERTAIN DEFINITIONS AND
+- THE MEDICAL MARIJUANA EXCISE TAX, TO AMEND CERTAIN
+- VI THEREOF, CONCERNING THE RETAIL MARIJUANA EXCISE TAX, TO
+- AMEND CERTAIN DEFINITIONS OF TERMS; AND (5) REPEALING AND
+- TERM RENTAL PROPERTY EXCISE TAX, TO AMEND CERTAIN
+- Agenda Item #1: Consideration and Possible Approval on Second Reading Ordinance 26-14:
+- AN ORDINANCE AMENDING CHAPTER 110, ARTICLE III OF THE CODE
+- OF ORDINANCES OF THE TOWN OF FRISCO, CONCERNING THE
+- CODE OF ORDINANCES OF THE TOWN OF FRISCO, CONCERNING
+- THE LICENSING OF SHORT-TERM RENTAL PROPERTY, BY AMENDING
+- Council Agendas can legally be amended up until 24 hours prior to the beginning of the scheduled
+- The Colorado Department of Transportation (CDOT) has submitted three requests from
+- AC Frisco for Town Council consideration. The requests are intended to facilitate a
+- settlement related to parking modifications required on the AC Frisco property as part of
+- the I-70 Exit 203 project. They concern snow storage, landscaping, and confirmation of
+- Staff is presenting the requests for Council discussion and direction without a
+- Frisco, and the Town Attorney regarding whether to pursue the requests and what terms

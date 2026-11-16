@@ -1,11 +1,6 @@
 # lake-city
 
-## [lake-city#0] 2026-08-12 | City Council | minutes
-- 1. Discussion and Possible Action to Approve Resolution 2026-10 A Resolution
-- Ratifying Declaration of Local Disaster or Emergency Issued on August 7, 2026,
-- by Town Manager Alexander Mulhall Due to the Elk Fire and Declaring its
-
-## [lake-city#1] 2026-08-19 | City Council | minutes
+## [lake-city#0] 2026-08-19 | City Council | minutes
 - 1. Discuss Current Situation of the Elk Fire
 - 2. Discuss Emergency Facilities & Land Use Agreement with USDA Forest
 - Service for Potable Water and Grey Water Disposal
@@ -36,7 +31,7 @@
 - Use Agreement with USDA Forest Service for Potable Water and Grey
 - Water Disposal at the rate of $0.03 per gallon. Motion to approve made by
 
-## [lake-city#2] 2026-09-01 | City Council | agenda
+## [lake-city#1] 2026-09-01 | City Council | agenda
 - 230 N. Bluff Street Armory Multi-Purpose Room
 - A. Review Professional Service Agreement with Collegiate Peaks Law & Mediation LLC for
 - the Phase 1 Housing Plan Implementation Project
@@ -54,7 +49,7 @@
 - Estes Park and the Town of Windsor for Lending Backup Generators to the Town of Lake
 - D. Discussion and Possible Action to Direct Staff to Draft a Request for Proposals for
 
-## [lake-city#3] 2026-09-02 | City Council | minutes
+## [lake-city#2] 2026-09-02 | City Council | minutes
 - 1. Review Professional Service Agreement with Collegiate Peaks Law &
 - Mediation LLC for the Phase 1 Housing Plan Implementation Project
 - 2. Review Resolution 2026- 11 Permitting Dogs in Town Park for the Chamber
@@ -78,7 +73,7 @@
 - Generators to the Town of Lake City. Motion to approve made by Trustee
 - 4. Discussion and Possible Action to Direct Staff to Draft a Request for
 
-## [lake-city#4] 2026-09-16 | City Council | minutes
+## [lake-city#3] 2026-09-16 | City Council | minutes
 - 1. Discuss International Dark Sky Community Designation Application
 - 2. Discuss Summit Cycle Solutions Colorado Ride 2027 Request to use
 - Memorial Park for Tent Camping from August 11th through August 13 th
@@ -96,7 +91,7 @@
 - August 11th through August 13th and to Direct Staff to Draft a Resolution
 - Approving the Same. Motion to approve made by Trustee Whinnery and
 
-## [lake-city#5] 2026-10-07 | City Council | minutes
+## [lake-city#4] 2026-10-07 | City Council | minutes
 - 1. Discuss Status of Consultant Selection for Phase 1 Housing Plan
 - Implementation Project
 - 2. Review Resolution 2026- 12 Permitting Tent Camping in Memorial Park for
@@ -111,7 +106,7 @@
 - Tent Camping in Memorial Park for the Colorado Ride 2027 Event from
 - August 11th Through August 13th, 2027.Motion to approve made by
 
-## [lake-city#6] 2026-10-21 | City Council | minutes
+## [lake-city#5] 2026-10-21 | City Council | minutes
 - 1. Discuss Resolution 2026- 13 Terminating the Local Disaster Emergency Due
 - 2. Discuss Armory Apartment Use, Rent and Applicant Criteria
 - 3. Discuss Appointing Town Manager Alexander Mulhall as the 2027 Budget
@@ -144,18 +139,29 @@
 - 5. Discussion and Possible Action to Issue a Notice of Award to Western
 - County & Town of Lake City Comprehensive Housing Plan Project
 
-## [lake-city#7] 2026-11-04 | City Council | agenda
-- 230 N. Bluff Street Armory Multi-Purpose Room
-- A. Discuss Christmas Open House December 4th, 2026
-- B. Discuss Professional Services Agreement with Western Spaces LLC for Phase 1 Housing
-- Plan Implementation
-- C. Discuss 2027 Draft Budget
-- D. Discuss Green & Associates LLC Engagement Letter for 2026 Audit
-- E. Discuss HB26-1026 Expanding Plan Options for PERA
-- F. Discuss Albertsons Opioid Settlement
-- D. Approval of Agenda for Regular Meeting, November 4th, 2026 - Any Additions or
+## [lake-city#6] 2026-11-04 | City Council | minutes
+- 1. Discuss Christmas Open House December 4th, 2026
+- 2. Discuss Professional Services Agreement with Western Spaces LLC for
+- Phase 1 Housing Plan Implementation
+- 3. Discuss 2027 Draft Budget
+- 4. Discuss Green & Associates LLC Engagement Letter for 2026 Audit
+- 5. Discuss HB26-1026 Expanding Plan Options for PERA
+- 6. Discuss Albertsons Opioid Settlement
+- D. Approval of Agenda for Regular Meeting, November 4th, 2026
+- 1. Motion to approve proposed agenda for Regular Meeting, November 4th, 2026,
+- E. Approval of Regular Meeting Minutes, October 21st, 2026
+- 1. Motion to approve October 21st, 2026, Regular Meeting Minutes made by
+- 1. Motion to approve November 4th, 2026, bills payable in the amount of
 - 3. Parks and Recreation Report (Hake)
-- A. Discussion and Possible Action to Approve Professional Services Agreement with
-- Western Spaces LLC for Phase 1 Housing Plan Implementation
-- B. Discussion and Possible Action to Approve Green & Associates LLC Engagement Letter
-- C. Discussion and Possible Action to Approve Participation in the Albertsons Opioid
+- 1. Discussion and Possible Action to Approve Professional Services
+- Agreement with Western Spaces LLC for Phase 1 Housing Plan
+- Implementation. Motion to approve made by Trustee Bruce and seconded
+- 2. Discussion and Possible Action to Approve Green & Associates LLC
+- Engagement Letter for 2026 Audit. Motion to approve made by Trustee
+- 3. Discussion and Possible Action to Approve Participation in the Albertsons
+- Opioid Settlement. Motion to approve made by Trustee Whinnery and
+
+## [lake-city#7] 2026-11-11 | City Council | agenda
+- BOT Budget Workshop 11/11/2026
+- 230 N. Bluff Street Armory Multi-Purpose Room
+- A. Discuss 2027 Budget Draft 11.11.26

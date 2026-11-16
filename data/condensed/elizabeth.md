@@ -134,3 +134,22 @@
 
 ## [elizabeth#15] 2026-11-09 | Historic Advisory Board | agenda
 - Town Hall, 151 S. Banner Street
+
+## [elizabeth#16] 2026-11-10 | Board of Trustees | agenda
+- Town Hall, 151 S. Banner Street
+- Public Comment
+- previous speakers; and/or (c) limit the total time of public comment to allow the Board to proceed to consider
+- Administrative Staff, or Employees will not be recognized. If a response from Staff is requested, the Mayor will
+- Public Hearing
+- 2. Proposed 2027 Budget – Finley DeGraffenried and Hannah Bruce
+- 3. Discussion and direction on the Proposed 2026 Budget –Finley DeGraffenried, Hannah Bruce
+- 4. Discussion and possible action on Town Investment Policy and strategies– Finley DeGraffenried
+- 5. Discussion regarding FY2027 and beyond Projects and Management Objectives – Finley DeGraffenried
+- Items for Future Consideration
+- 6. Items for Future Consideration
+- Public comment is encouraged and will be listed as an agenda item at every regular Board meeting
+- Each individual wishing to be heard during the public comment period will be given up to three (3) minutes to make a
+- The public comment period will not be used to make political endorsements or for political campaign purposes
+- Questions from the Board will be for clarification purposes only. Public comment will not be used as a time for problem
+- The Board may direct the Town Administrator to provide information requested by a speaker during the public comment
+- The Mayor may elect to defer public comment on a specific issue that appears on the regular agenda until that specific

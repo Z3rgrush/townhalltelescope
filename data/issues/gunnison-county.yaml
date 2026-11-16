@@ -1,98 +1,100 @@
-- title: Lower Verzuh Ranch major impact sketch plan (LUC-25-00004)
-  summary: Commissioners deliberated on the Lower Verzuh Ranch Subdivision sketch plan and whether to hold another public hearing. Commissioner Smith opposed a further hearing, while Commissioner Puckett Daniels wanted another hearing or more time; the board voted not to hold an additional hearing, and the decision was postponed to a later meeting.
-  where: Lower Verzuh Ranch, north valley
-  refs:
-  - 2
-  topics:
-  - Zoning & development
-  - Housing
-  - Land & property
-  public_comment: true
-- title: 'November 2026 ballot: 0.50% countywide sales tax for roads and bridges'
-  summary: On August 18 commissioners approved Resolution 2026-29 referring a 0.50% countywide sales tax to the November 3, 2026 ballot to fund roads, bridges and related transportation infrastructure. They also approved an agreement with the Clerk and Recorder for running the ballot question and said the funds would go only to road and bridge. The Road and Bridge budget was set for a work session on October 27.
+- title: 0.50% countywide sales tax for roads and bridges on the November 2026 ballot
+  summary: On August 18 the commissioners approved Resolution 2026-29 referring a 0.50% countywide sales tax for roads, bridges and related transportation infrastructure to the November 3, 2026 ballot, along with an agreement with the Clerk and Recorder to run the question. Commissioners stressed the money would go only to roads and bridges. In October a commissioner continued public outreach on the measure, and a Road and Bridge budget work session was scheduled.
   where: Countywide
   refs:
-  - 3
-  - 20
+  - 0
+  - 12
+  - 14
+  - 17
   topics:
   - Roads & traffic
   - Budget & taxes
   - Elections
-- title: 2027 county budget draft and work sessions
-  summary: On October 13 the chief finance officer presented the first draft of the 2027 budget. Commissioners asked for work sessions on Road & Bridge, Public Health, Human Services, the Housing Authority and Whetstone, and the Capital Improvement Plan. A public hearing was set for December 8 at 5:30 pm, and the board agreed to invite applications for a $10,000 late-night taxi request.
+- title: 2027 county budget and work sessions
+  summary: The commissioners received the first draft of the 2027 budget on October 13 and chose departments for work sessions, including Road & Bridge, Public Health, Human Services, the Housing Authority, Whetstone and the capital improvement plan. A public hearing on the budget is set for December 8 at 5:30 pm. A $10,000 late-night taxi request could be added to a contract for services, and the Board agreed to invite an application.
   where: Countywide
   refs:
-  - 15
-  - 20
+  - 12
+  - 17
+  - 18
+  - 19
   topics:
   - Budget & taxes
   - Government operations
-  - Transit
-- title: Whetstone housing and Housing Authority budget amendment
-  summary: The Housing Authority amended its 2026 budget and appropriation (Resolution 2026-005) for Whetstone because of how the bond documents work. Whetstone had permanent water onsite, and three units there are allocated to large family childcare. The Housing Authority and Whetstone business plan was also slated for a 2027 budget work session.
-  where: Whetstone, Gunnison County
+- title: Whetstone housing budget and Housing Authority finances
+  summary: The Housing Authority amended its 2026 budget and appropriation (Resolution 2026-005) for Whetstone because of how the bond documents work. Whetstone, the Housing Authority administration fund and the Whetstone business plan were set for 2027 budget work sessions. Whetstone also includes family childcare units.
+  where: Whetstone housing development
   refs:
-  - 0
-  - 4
-  - 9
-  - 15
+  - 1
+  - 6
+  - 7
+  - 12
+  - 19
   topics:
   - Housing
   - Budget & taxes
-  - Schools & youth
 - title: Mineral Point property agreements
-  summary: The Housing Authority and commissioners went into executive session on September 15 to get legal advice on proposed Mineral Point Property agreements and to develop negotiating strategy. No outcome is stated in the documents.
-  where: Mineral Point
+  summary: The Housing Authority and commissioners went into executive session on September 15 to get legal advice on proposed Mineral Point Property agreements and to develop negotiating strategy. The documents state no outcome.
+  where: Mineral Point property
   refs:
-  - 9
-  - 10
-  topics:
-  - Land & property
-  - Housing
-- title: Senior property tax exemption appeal (T. Haack)
-  summary: On September 1 the Board of Equalization heard Teresa Haack's appeal of a denied senior property tax exemption. Staff said voter registration at another address determines primary residence, and the board voted to deny the appeal.
-  where: Crested Butte area
-  refs:
-  - 5
   - 6
   - 7
   topics:
-  - Budget & taxes
   - Land & property
-- title: Solid waste rate study
-  summary: Commissioners approved awarding the Solid Waste Rate Study to Raftelis for $87,693 through Public Works.
+  - Housing
+- title: Senior property tax exemption appeal denied
+  summary: On September 1 the Board of Equalization heard an appeal of a senior property tax exemption. The county assessor's records and the owner's voter registration put her primary residence elsewhere. The board denied the appeal.
   where: Countywide
   refs:
-  - 0
+  - 2
+  - 3
+  - 4
   topics:
-  - Fees & rates
-  - Utilities
-- title: Cumberland Pass rehabilitation project grant application
-  summary: Commissioners considered a resolution on a program application for the Gunnison County Cumberland Pass Rehabilitation Project, committing to implementation, matching funds and long-term commitments.
-  where: Cumberland Pass
-  refs:
-  - 0
-  topics:
-  - Roads & traffic
   - Budget & taxes
-- title: Gunnison-Crested Butte Regional Airport pavement and contracts
-  summary: The county approved a $719,737 airfield pavement maintenance construction agreement with Maxwell Asphalt, plus a contract change order, a Jviation amendment, and lease and concession amendments at the airport.
+- title: Property valuation appeals and abatement petitions
+  summary: On October 20 the Board of Equalization reviewed hearing officer recommendations on appealed properties. One property was reclassified as agricultural, and CBS Block 6 LLC and others reached agreements with the Assessor on values. On October 6 the board heard a petition for abatement or refund of taxes.
+  where: Countywide
+  refs:
+  - 10
+  - 14
+  - 15
+  - 16
+  topics:
+  - Budget & taxes
+  - Land & property
+- title: Gunnison-Crested Butte Regional Airport projects
+  summary: The county approved a $719,737 airfield pavement maintenance contract with Maxwell Asphalt and an amendment to the airport food, beverage and retail agreement. An Airport Master Plan update is on the November 10 agenda.
   where: Gunnison-Crested Butte Regional Airport
   refs:
-  - 0
-  - 5
-  - 6
-  - 7
+  - 2
+  - 19
   topics:
   - Airports
+- title: Federal health grant award terms questioned
+  summary: On October 20 commissioners pulled a federal Health and Human Services notice of award for separate discussion because of its terms. Staff said whether the award is worth the terms is a policy decision, and the discussion was held until later in the meeting.
+  where: Countywide
+  refs:
+  - 14
+  - 15
+  - 16
+  topics:
+  - Health & human services
   - Budget & taxes
-- title: Regional health, suicide prevention and early childhood programs
-  summary: Commissioners heard updates on Whole Health Navigation, stigma reduction and the Regional Suicide Prevention effort, as well as early childhood scholarships that served 94 families. Human Services also discussed its fiscal year 2027 budget and reductions to meet federal guidelines.
+- title: Regional mental health, suicide prevention and early childhood programs
+  summary: The Human Services board and commissioners heard updates on early childhood scholarships (94 families served), caregiver support, and the 2027 budget reduced to meet federal guidelines. Public health staff described Whole Health Navigation, stigma reduction and the Regional Suicide Prevention effort, plus a community health strategic plan.
   where: Gunnison and Hinsdale counties
   refs:
-  - 4
-  - 9
-  - 10
+  - 1
+  - 6
+  - 7
   topics:
   - Health & human services
   - Schools & youth
+- title: Town of Crested Butte water and sewer extension agreement
+  summary: The November 3 consent agenda included a second amended utility extension agreement with the Town of Crested Butte to provide water and sewer service. An executive session was also planned on negotiating over specific parcels and recovery of funds owed to the county under a contract.
+  where: Crested Butte area
+  refs:
+  - 18
+  topics:
+  - Water
+  - Utilities

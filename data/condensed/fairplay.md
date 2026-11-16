@@ -1,43 +1,6 @@
 # fairplay
 
-## [fairplay#0] 2026-08-17 | Board of Trustees | agenda
-- IV. Approval of Agenda
-- VI. Proclamations, Presentations and Updates
-- A. Request from Park County Senior Coalition Executive Direction CFO Penny Everest for Funding to
-- B. Update from Steve Crozier of FP Land, LLC Company regarding The Bluffs Development
-- VII. Public Hearings
-- A. FIRST READING - Should the Board of Trustees of the Town of Fariplay, Colorado, approve the
-- adoption of Ordinance No 4, Series of 2026, entitled "AN ORDINANCE BY THE BOARD OF
-- A. Discussion Regarding Water Conservation Plan(s) for Town of Fairplay
-- A. Discussion regarding fireworks show(s) with direction to Staff on holding a 2026 show or
-- D. Wastewater ORC Report
-- that may be subject to negotiations, develop negotiations strategy and instruct negotiators regarding the sewer system at the
-- Gemenskap development in Park County, the subsequent mediation with the Gemenskap developer that occurred on July 27,
-- (L) Legislative: Policy-making decisions of a permanent or general character, such as adopting ordinances, setting tax rates, and
-- approving budgets
-- rezoning of an area, or granting of licenses or licensing appeals)
-- August 13, 2026. This Agenda May Be Amended
-- Park County Senior Coalition
-- The Park County Senior Coalition (PCSC) is a nonproﬁt organization dedicated to serving
-- seniors age 60 and older throughout Park County. Our mission is to help seniors maintain
-- Park County is a large, rural mountain community, and many seniors live considerable
-- The Coalition provides several essential services to Park County seniors:
-- delivery, and nutrition education. Meals are delivered to communities throughout Park
-- Transportation assistance helps seniors get to medical appointments, grocery stores, and
-- These ﬁgures demonstrate that the majority of the Coalition's resources are directed
-- PCSC operates with a very small staff and a limited budget while serving seniors across a
-- large rural county. Funding is not simply used to operate an office—it allows the Coalition
-- Transportation to medical appointments and essential shopping
-- Delivery and coordination of services across Park County's rural communities
-- must carefully balance restricted grant funds, government funding, donations, and other
-- The goal of the Park County Senior Coalition is simple: help Park County seniors remain
-- in the daily lives of older adults throughout Park County. For many seniors, a meal delivery,
-- a ride to a medical appointment, help with ﬁrewood or snow removal, or assistance with
-- Park County seniors
-- 901 Main Street • P.O. Box 267
-- approve the adoption of Ordinance No 4, Series of 2026, entitled "AN ORDINANCE BY
-
-## [fairplay#1] 2026-08-31 | General | agenda
+## [fairplay#0] 2026-08-31 | General | agenda
 - 2027 Budget Discsussions Regarding Special Events
 - A. Events and Visitor Center 2027 Budget Discussion
 - V. Approval of Agenda
@@ -73,7 +36,7 @@
 - eliminate the tire recycling fee for residents in 2027. If Town receives the grant, there must be clear
 - possibly due to the short rainstorm in the afternoon and cooler evening. Due to having one
 
-## [fairplay#2] 2026-09-15 | Board of Trustees | agenda
+## [fairplay#1] 2026-09-15 | Board of Trustees | agenda
 - IV. Approval of Agenda
 - discussion, then, travel to Park County Government Building, 856 Castello Avenue, Fairplay for
 - joint executive session with Park County Board of County Commissioners, and return to Fairplay
@@ -85,7 +48,7 @@
 - and related discussions with the developer, the settlement of Sallie Williard’s potential claim,
 - Monday, September 14, 2026. This Agenda May Be Amended
 
-## [fairplay#3] 2026-09-21 | Board of Trustees | agenda
+## [fairplay#2] 2026-09-21 | Board of Trustees | agenda
 - IV. Approval of Agenda
 - Members may ask that an item be removed from the Consent Agenda for individual consideration
 - A. Approval of expenditures for all Town funds from August 1, 2026 to August 31, 2026 in the
@@ -120,7 +83,7 @@
 - Ken Hardesty 8/20/2026 6,132.40 On-Call WW Engineering _ Lagoon Liner Project Mngt
 - Kevin Moore 8/20/2026 2,988.05 2026-14 Moore PIIP Reimbursement 601 Main Painting Project
 
-## [fairplay#4] 2026-10-05 | Board of Trustees | agenda
+## [fairplay#3] 2026-10-05 | Board of Trustees | agenda
 - IV. Approval of Agenda
 - Members may ask that an item be removed from the Consent Agenda for individual consideration
 - A. Approval of expenditures processed through Bill.com for all Town funds from September 1, 2026
@@ -154,13 +117,13 @@
 - 9/25/2026 Konica Minolta Business Solutions USA Inc 235.06 Monthly Copier Copy Fees - Town Hall/Visitor Center/PD
 - 9/21/2026 Konica Minolta Premier Finance 472.95 Monthly Copier Lease Fees - Town Hall, Visitor Center & PD
 
-## [fairplay#5] 2026-10-13 | General | agenda
+## [fairplay#4] 2026-10-13 | General | agenda
 - III. Approval of Agenda
 - relative to matters that may be subject to negotiations, develop negotiations strategy and
 - instruct negotiators regarding the sewer system at the Gemenskap developmen t in Park
 - Website on Friday, October 9, 2026. This Agenda May Be Amended
 
-## [fairplay#6] 2026-10-19 | Board of Trustees | agenda
+## [fairplay#5] 2026-10-19 | Board of Trustees | agenda
 - Presentation by Colorado Rural Water Association regarding the Town of Fairplay Source Water Protection Plan, what it is,
 - potential opportunities for best management practices in the future, and general discussion on this program as well as future
 - V. Approval of Agenda
@@ -196,21 +159,21 @@
 - Claylynn Ryszkowski, a Jefferson resident and parent of a South Park High School football player, requested financial
 - MOTION: To donate $1,000 to the South Park High School Football car show fundraiser w as made by Mayor Pro
 
-## [fairplay#7] 2026-10-27 | Park County Intergovernmental | agenda
+## [fairplay#6] 2026-10-27 | Park County Intergovernmental | agenda
 - Tuesday, October 27, 2026, 5:00-8:00 PM – Park County
 - Quarterly Intergovernmental Meeting, South Park Recreation
 - Center, 1190 Bullet Road, Fairplay, CO 80440
 - Community Open House, South Park High School Commons, 640
 - Hathaway Street, Fairplay, CO 80440
 
-## [fairplay#8] 2026-10-28 | Board of Trustees | agenda
+## [fairplay#7] 2026-10-28 | Board of Trustees | agenda
 - Tuesday, October 27, 2026, 5:00-8:00 PM – Park County
 - Quarterly Intergovernmental Meeting, South Park Recreation
 - Center, 1190 Bullet Road, Fairplay, CO 80440
 - Community Open House, South Park High School Commons, 640
 - Hathaway Street, Fairplay, CO 80440
 
-## [fairplay#9] 2026-11-02 | Board of Trustees | agenda
+## [fairplay#8] 2026-11-02 | Board of Trustees | agenda
 - IV. Approval of Agenda
 - an item be removed from the Consent Agenda for individual consideration
 - A. Approval of EFT/ACH (Automatic Withdrawal) expenditures for the months of August and September 2026 in the
@@ -242,3 +205,39 @@
 - 8/21/2026 FPPA - Fire & Police Pension Association of Colorado FPPA PPE 8/15/2026 7,911.12
 - 8/28/2026 ADP Inc ADP Payroll Fees-PPE 8/15/26 & Workforce Now 219.65
 - 8/28/2026 ADP Inc ADP Payroll Fees-PPE 8/15/26 & Workforce Now 111.00
+
+## [fairplay#9] 2026-11-16 | Board of Trustees | agenda
+- IV. Approval of Agenda
+- VI. Proclamations, Presentations and Updates
+- A. Presentation regarding ColoTrust investments and market update by Mac Langford, ColoTrust
+- B. Presentation from Park County School District RE-2 Superintendent Kevin Sellers regarding
+- VII. Public Hearings
+- A. SECOND READING - Should the Board of Trustees for the Town of Fairplay, Colorado, approve
+- adoption of Ordinance No. 6, Series of 2026, entitled "AN ORDINANCE OF THE TOWN OF
+- TOWN’S AUTOMATED VEHICLE IDENTIFICATION SYSTEM."? (L)
+- B. SECOND HEARING - 2026FY Amended Budget and 2027FY Proposed Budget for all Funds of the
+- i. Discussion regarding proposed Capital Improvement Projects and Expenditures for
+- inclusion in FY2027 Budget
+- ii. Review of proposed changes to Town of Fairplay FY2027 Fee Schedule
+- iii. Review and approval of FY2026 year-end employee bonus pay
+- A. Should the Board of Trustees of the Town of Fairplay, Colorado, approve the adoption of
+- Resolution No. 38, Series of 2026 entitled "A RESOLUTION OF THE BOARD OF TRUSTEES FOR
+- SPENDING AWARD FOR CONSTRUCTION OF THE FAIRPLAY POLICE STATION."?
+- B. Consider recommendation from Staff for Park County Fair Royalty Benevolence Funding. (A)
+- A. Review of proposed Intergovernmental Agreement for the Operation, Administration and
+- Financial Support of the Park County Communications (E-911) Center
+- B. Police Department Report
+- G. Wastewater ORC Report
+- Friday, November 13, 2026. This Agenda May Be Amended
+- INDICATIVE RATES
+- Term Series II Rates
+- Investable Maturity Range Net Indicative Rate
+- Rates are provided for indicative purposes only. Please contact a member of the team for customized offerings
+- A pooled investment vehicle designed to deliver a fixed rate of return while prioritizing capital preservation, planned-date liquidity, and
+- competitive yields - built on the same high-quality credit exposures as the COLOTRUST PLUS+ Fund. Rates listed below offer an
+- Thursday, 12:00 p.m. MT. for next business day settlement; rates reflect market conditions as of the date shown and are
+- Rated AAAf by Fitch Ratings
+- Competitive, Fixed Rate of Return
+- For institutional use only. Rates shown are indicative only as of the date noted and are not guaranteed. PTMA reserves the right to change the indicative rate for any reason, including
+- market changes, with such revised rates being communicated to Participants in advance of execution. Fees charged on investments in Term Series II may vary in order to achieve the
+- quoted net indicative rate. Rates at time of execution may differ due to market dynamics, supply considerations, settlement timing, or other factors, and PTMA in its sole discretion

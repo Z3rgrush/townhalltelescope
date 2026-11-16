@@ -1,123 +1,117 @@
-- title: Town Manager separation and recruitment of an interim manager
-  summary: The Board met in executive session on the Town Manager's employment, then took up ratifying a Town Manager separation agreement on Sept. 8. In October it discussed interim manager and permanent recruitment, and a transition. The documents do not state the terms or outcome.
-  where: Granby Town Hall
-  refs:
-  - 1
-  - 2
-  - 3
-  - 5
-  - 6
-  topics:
-  - Government operations
-  - Ethics & transparency
 - title: Data center workshop
-  summary: The Board held a data center workshop led by the Town Manager on Aug. 25. The agenda does not say whether a specific facility or new rules are proposed.
+  summary: The Board of Trustees held a data center workshop led by the Town Manager at its August 25, 2026 meeting. The documents do not say what was decided.
   where: Townwide
   refs:
-  - 1
+  - 0
   topics:
   - Data centers
   - Zoning & development
   tags:
   - data-center
 - title: Zoning code rewrite and new zoning map (Ordinance 1041)
-  summary: The Board held a public hearing on Aug. 25 and again on Sept. 22 on comprehensive amendments to Chapter 16 (zoning regulations) and a legislative update to the official zoning map.
+  summary: The Board held public hearings on August 25 and September 22 on Ordinance 1041. It would comprehensively amend Chapter 16 of the municipal code (the zoning regulations) and adopt a legislative update to the official zoning map.
   where: Townwide
   refs:
-  - 1
-  - 3
+  - 0
+  - 2
   topics:
   - Zoning & development
-  - Land & property
-- title: Ten Mile Crossing planned development plan
-  summary: The Planning Commission held a hearing on Oct. 5 on the preliminary plat and plan for the Ten Mile Crossing Planned Development Overlay District, with conditions. The Board held a hearing on the preliminary plan on Oct. 13.
+  - Government operations
+- title: Ten Mile Crossing planned development
+  summary: The Planning Commission heard the preliminary plat and preliminary plan for the Ten Mile Crossing Planned Development Overlay District on October 5. The Board of Trustees took up the preliminary plan, subject to conditions, in a public hearing on October 13.
   where: Ten Mile Crossing
+  refs:
+  - 3
+  - 4
+  topics:
+  - Zoning & development
+  - Housing
+- title: Nuche Village apartments agreement, funding and hearing board
+  summary: The Board dealt with the Nuche Village apartment project repeatedly. It considered extending the agreement on September 8, funding on October 13 and the contract on October 27, and also appointed a Nuche Village hearing board member.
+  where: Nuche Village
+  refs:
+  - 0
+  - 1
+  - 4
+  - 5
+  topics:
+  - Housing
+  - Budget & taxes
+- title: Town Manager separation and recruitment
+  summary: The Board ratified and considered a Town Manager separation agreement on September 8, after executive sessions on the manager's employment. It then discussed interim manager and recruitment arrangements on October 13 and the transition on October 27.
+  where: Town Hall
+  refs:
+  - 1
+  - 2
+  - 4
+  - 5
+  topics:
+  - Government operations
+- title: New police chief contract and oath
+  summary: The Board considered a contract for the Police Chief on September 22. The chief's oath of office was scheduled for October 13.
+  where: Town Hall
+  refs:
+  - 2
+  - 4
+  topics:
+  - Policing & public safety
+  - Government operations
+- title: Annexation proceedings and GRCO annexation
+  summary: On September 22 the Board considered a resolution initiating annexation proceedings and setting a hearing on whether certain lands are eligible to be annexed. On October 27 it took up an annexation consideration for GRCO.
+  where: Granby
+  refs:
+  - 2
+  - 5
+  topics:
+  - Annexation
+  - Land & property
+- title: 2027 town budget and Grand Elk and Granby West improvement district budgets
+  summary: The Board discussed the 2027 Town budget on October 13, and the Grand Elk General Improvement District budget the same day. On November 10 it took up budget, appropriation and mill levy ordinances for the Grand Elk and Granby West improvement districts.
+  where: Grand Elk Ranch and Granby West
+  refs:
+  - 4
+  - 6
+  topics:
+  - Budget & taxes
+- title: Grand Elk property conveyance and metro district dissolution
+  summary: The Grand Elk Ranch GID considered Ordinance 81 on October 27, authorizing the conveyance of real property related to the Village at Buckhorn. The Board also considered consenting to the dissolution of Granby West Metropolitan District No. 7 and conditionally accepting public improvements for the Granby Elementary School project.
+  where: Grand Elk Ranch / Village at Buckhorn
+  refs:
+  - 5
+  topics:
+  - Land & property
+  - Government operations
+- title: Parks planning, Bark Park pond and parks staffing
+  summary: The Board discussed the Bark Park pond on October 13. On October 27 it discussed parks planning and a Parks and Rec position.
+  where: Bark Park
   refs:
   - 4
   - 5
   topics:
-  - Zoning & development
-  - Housing
-- title: Nuche Village apartments agreement, funding and contract
-  summary: The Board dealt repeatedly with the Nuche Village apartments. It considered an agreement extension on Sept. 8, funding on Oct. 13, and the contract on Oct. 27. Hearing board appointments for Nuche Village also came up in August and September.
-  where: Nuche Village
-  refs:
-  - 1
-  - 2
-  - 5
-  - 6
-  topics:
-  - Housing
-  - Budget & taxes
-- title: Annexation proceedings and the GRCO annexation
-  summary: On Sept. 22 the Board considered a resolution initiating annexation proceedings and setting a hearing on the eligibility of certain lands. On Oct. 27 it took up annexation consideration for GRCO.
-  where: Granby
-  refs:
-  - 3
-  - 6
-  topics:
-  - Annexation
-  - Land & property
-- title: Grand Elk Ranch GID property conveyance and 2027 budget
-  summary: The Grand Elk Ranch General Improvement District reviewed its 2027 budget on Oct. 13. On Oct. 27 it took up Ordinance 81 authorizing conveyance of real property related to the Village at Buckhorn.
-  where: Grand Elk Ranch / Village at Buckhorn
-  refs:
-  - 5
-  - 6
-  topics:
-  - Land & property
-  - Budget & taxes
-- title: 2027 Town of Granby budget
-  summary: The Finance Director presented the 2027 town budget for discussion on Oct. 13.
-  where: Townwide
-  refs:
-  - 5
-  topics:
-  - Budget & taxes
-- title: Wildfire resiliency code workshop
-  summary: The Board held a workshop on a wildfire resiliency code on Aug. 11.
-  where: Townwide
-  refs:
-  - 0
-  topics:
-  - Fire & emergencies
-  - Environment & climate
-  - Zoning & development
-- title: Peddler, mobile vendor and solicitor rules (Ordinance 1040)
-  summary: The Board considered an ordinance amending Chapter 5.05 and adding Chapter 5.06 of the municipal code to regulate peddlers, mobile vendors, solicitors and canvassers.
-  where: Townwide
-  refs:
-  - 0
-  topics:
-  - Downtown & business
-  - Government operations
-- title: Granby Trails revegetation and parks planning
-  summary: A resident and the Middle Park Conservation District presented revegetation and tree planting at Granby Trails using CSFS grants, with an update on Aug. 25. The Board also discussed Bark Park pond, parks planning and a parks and rec position in October.
-  where: Granby Trails; Bark Park
-  refs:
-  - 0
-  - 1
-  - 5
-  - 6
-  topics:
   - Parks & open space
   - Recreation & trails
-  - Environment & climate
-  public_comment: true
-- title: Police Chief contract and new Tahoes
-  summary: The Board considered buying two Chevy Tahoes for the police department in August. A police chief contract was on the Sept. 22 agenda, and an oath of office for the police chief on Oct. 13.
-  where: Granby Police Department
-  refs:
-  - 0
-  - 3
-  - 5
-  topics:
-  - Policing & public safety
-  - Government operations
-- title: Alley traffic concerns
-  summary: The Board discussed alley traffic concerns on Sept. 8.
+- title: Alley traffic concerns and Mediate Colorado
+  summary: On September 8 the Board discussed alley traffic concerns and a possible arrangement with Mediate Colorado. The documents give no details.
   where: Granby alleys
+  refs:
+  - 1
+  topics:
+  - Roads & traffic
+  - Health & human services
+- title: 843 Saddle Ridge hearing for Granby Sanitation District
+  summary: A public hearing was scheduled September 22 on 843 Saddle Ridge for the Granby Sanitation District.
+  where: 843 Saddle Ridge
   refs:
   - 2
   topics:
-  - Roads & traffic
+  - Utilities
+  - Land & property
+- title: Revegetation and CSFS grant update
+  summary: Resident Daniela Gosselova gave the Board an update on revegetation and a Colorado State Forest Service grant on August 25.
+  where: Granby
+  refs:
+  - 0
+  topics:
+  - Environment & climate
+  - Agriculture & wildlife
+  public_comment: true

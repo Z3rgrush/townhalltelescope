@@ -1,103 +1,6 @@
 # douglas-county
 
-## [douglas-county#0] 2026-08-11 | Board of County Commissioners Business Meeting | minutes
-- Tuesday, August 11, 2026 1:30 PM Hearing Room
-- b. Attorney Certification of Agenda
-- by his office and they all meet legal approval
-- a. Recognizing Deputy County Manager Dan Avery and Director of Community Development,
-- Kati Carter, Director of Community Development, addressed the Board to comment on this
-- Public Comment: None
-- f. Business Personal Property Tax Incentive Agreement Between Douglas
-- County and Flexential Corp - Project File: ED2025-002
-- DJ Beckwith, Department of Community Development, addressed the Board to present on
-- Public Comment:
-- Doug Chestnut addressed the Board to provide public comment
-- Kevin Reardon, Parker, addressed the Board to provide public comment
-- Bob Marshall, Highlands Ranch, addressed the Board to provide public comment
-- Julie Ort, Highlands Ranch, addressed the Board to provide public comment
-- Gail McDonald, Castle Rock, addressed the Board to provide public comment
-- Vice Chair Van Winkle moved that the Board approve Business Personal Property Tax
-- Incentive Agreement Between Douglas
-- Vice Chair Van Winkle moved that the Board approve the requests in Items "a" through "e" and
-- "g" through "q" of the Consent Agenda. Item "f" was pulled for discussion
-- a. Approval of Vouchers August 4, 2026
-- b. Approval of Vouchers August 11, 2026
-- c. Resolution Approving the Abatement Settlement Recommendations of the Assessor’s
-- Resolution No: R-026-052
-- d. Resolution Approving the Recommendation of the Abatement Hearing Referee
-- Resolution No: R-026-053
-- g. 2026 - 2027 Public Contract for Services to Share Costs for the School Resource Officer
-- h. Purchase Order to Lenco Armored Vehicles in the Amount of $412,481.00 Using Lenco
-- i. Fee Waiver Request in the Amount of $4,400.00 for Douglas County Sheriff’s Office at
-- j. Fee Waiver Request in the Amount of $200.00 for Denver Audubon / Denver Field
-- k. 2026 Homelessness Resolution Program Grant Application in the Amount of $62,500.00,
-- Including a Match of $62,500.00 for a Project Total of $125,000.00
-- m. Readyly AI Platform Subscription and Implementation in the Amount of $103,700.00
-- n. Rental Agreement with Wagner Equipment Company under Sourcewell-Caterpillar Contract
-- o. Purchase Order to Vance Brothers in the Amount of $196,130.20 under Sourcewell
-- Cimline Agreement #050625
-- Project, in the Amount of $260,000.00, Douglas County Project Number CI 2026-003
-- q. Public Contract for Services with Alfred Benesch & Company, Inc. (Benesch) for the Bridge
-- Engineering Services Project in the Amount of $228,000.00, Douglas County Project
-- a. Third Amendment to the Amended and Restated Intergovernmental Agreement Between the
-
-## [douglas-county#1] 2026-08-11 | Board of County Commissioners Land Use Meeting/Public Hearing | minutes
-- MEETING/PUBLIC HEARING
-- Tuesday, August 11, 2026 2:30 PM Hearing Room
-- b. Attorney Certification of Agenda
-- a. Resolution for Codifying the Zoning Resolution
-- Michael Cairy, Department of Community Development, addressed the Board to present on
-- Public Comment: None
-- Vice Chair Van Winkle moved that the Board approve Resolution for Codifying the Zoning
-- Resolution No: R-026-054
-- 3. Public Hearing Agenda Items
-- Use Meeting/Public Hearing
-- a. Douglas County Zoning Resolution Amendment to Section 27, Site Improvement Plan
-- Project File: DR2026-002
-- Eric Pavlinek, Department of Community Development, addressed the Board to present on
-- Vice Chair Van Winkle moved that the Board approve Douglas County Zoning Resolution
-- Amendment to Section 27, Site Improvement Plan - Project File: DR2026-002
-- Resolution No: R-026-055
-- b. Bond Authorizing Resolution for $50,000,000.00 in Private Activity Bonds for Ponderosa
-- Commissioner Laydon moved that the Board Continue A Bond Authorizing Resolution for
-- $50,000,000.00 in Private Activity Bonds for Ponderosa Pines to the Business Meeting on
-- c. Resolution Supplementing the 2026 Adopted Budget for the County of Douglas, Colorado to
-- Recognize New Revenues Received Since Annual Budget Adoption, Appropriate Restricted,
-- Brandi Ridgeway, Budget, addressed the Board to present on this Item
-- Vice Chair Van Winkle moved that the Board approve Resolution Supplementing the 2026
-- Adopted Budget for the County of Douglas, Colorado to Recognize New Revenues Received
-- Since Annual Budget Adoption, Appropriate Restricted, Committed, Assigned, and
-- Resolution No: R-026-056
-
-## [douglas-county#2] 2026-08-14 | Rueter-Hess Advisory Board | agenda
-- 11865 Heirloom Parkway
-- Parker, CO 80134Friday, August 14, 2026 9:00 AM
-- b. Approval of the Agenda
-- 2. Approval of Minutes
-- a. Request from Susan Peet - Sailing
-- b. Request from Skip Evans - E-Foil
-- 4. Discussion and Action Items
-- b. Rueter-Hess Budget Update July 2026
-- Rueter-Hess Budget Update July 2026Attachments:
-- 5. Other Business and Discussion
-- a. Project Updates
-
-## [douglas-county#3] 2026-08-17 | Planning Commission Pre-Meeting & Administration Training Session | agenda
-- Engineering Development Review - Brad Jackson, Engineering Development Review Supervisor
-
-## [douglas-county#4] 2026-08-17 | Planning Commission Regular Meeting | agenda
-- Monday, August 17, 2026 6:00 PM Hearing Room
-- To submit written public comment and/or exhibits for a Planning Commission meeting, please send
-- c. Attorney Certification of the Agenda
-- 2. Approval of Minutes
-- 3. Land Use Hearing Items
-- Highlands Ranch Filing 159, Lot 1 - Location and Extent - Project File: LE2026-010
-- Eric Pavlinek, Chief Planner — Department of Community Development
-- Trinity Substation and Peaking Facility - Location and Extent - Project File: LE2026-009
-- Matt Jakubowski, AICP, Chief Planner — Department of Community Development
-- Vacation of Pine View Circle - Road Vacation - Project File: SB2026-017
-
-## [douglas-county#6] 2026-08-25 | Board of County Commissioners Business Meeting | minutes
+## [douglas-county#1] 2026-08-25 | Board of County Commissioners Business Meeting | minutes
 - Tuesday, August 25, 2026 1:30 PM Hearing Room
 - b. Attorney Certification of Agenda
 - by his office and they all meet legal approval
@@ -135,7 +38,7 @@
 - v. Public Contract for Services with Wilson & Company for Development of a Douglas County
 - Transportation Safety Action Plan in the Amount of $279,320.00, Douglas County Project
 
-## [douglas-county#7] 2026-08-25 | Board of County Commissioners Land Use Meeting/Public Hearing | minutes
+## [douglas-county#2] 2026-08-25 | Board of County Commissioners Land Use Meeting/Public Hearing | minutes
 - MEETING/PUBLIC HEARING
 - Tuesday, August 25, 2026 2:30 PM Hearing Room
 - b. Attorney Certification of Agenda
@@ -148,7 +51,7 @@
 - because it does meet all of the approval criteria, with 2 conditions as presented - Project File:
 - Road Vacation No: R-026-060
 
-## [douglas-county#8] 2026-08-26 | Historic Preservation Board | agenda
+## [douglas-county#3] 2026-08-26 | Historic Preservation Board | agenda
 - 100 Third Street, Castle Rock, CO
 - b. Approval of the Agenda
 - 2. Approval of Minutes
@@ -156,7 +59,7 @@
 - a. Highlands Ranch Metro District update on Flying B Park
 - 5. Other Business and Discussion
 
-## [douglas-county#9] 2026-08-28 | Board of County Commissioners Business Meeting | minutes
+## [douglas-county#4] 2026-08-28 | Board of County Commissioners Business Meeting | minutes
 - Friday, August 28, 2026 10:30 AM Hearing Room
 - b. Attorney Certification of Agenda
 - by his office and they all meet legal approval
@@ -175,7 +78,7 @@
 - Commissioner Laydon moved that the Board approve Resolution Adopting Fixing the Ballot
 - Resolution No: R-026-061
 
-## [douglas-county#10] 2026-08-31 | Board of County Commissioners Business Meeting | minutes
+## [douglas-county#5] 2026-08-31 | Board of County Commissioners Business Meeting | minutes
 - Monday, August 31, 2026 8:30 AM Hearing Room
 - b. Attorney Certification of Agenda
 - by his office and they all meet legal approval
@@ -212,7 +115,7 @@
 - Douglas County Board of County Commissioners on the Ballot for Voter Consideration
 - Resolution No: R-026-062
 
-## [douglas-county#11] 2026-09-03 | Board of County Commissioners Business Meeting | agenda
+## [douglas-county#6] 2026-09-03 | Board of County Commissioners Business Meeting | agenda
 - Thursday, September 3, 2026 3:00 PM Hearing Room
 - Ballot Title Protest Administrative Hearing
 - b. Attorney Certification of Agenda
@@ -223,13 +126,13 @@
 - Attachment 7 - County Attorney presentation material from August
 - Fiscal-Considerations-of-an-Expanded-Board-of-County-Commissione
 
-## [douglas-county#12] 2026-09-04 | Board of County Commissioners Business Meeting | agenda
+## [douglas-county#7] 2026-09-04 | Board of County Commissioners Business Meeting | agenda
 - Friday, September 4, 2026 9:30 AM Hearing Room
 - Ballot Title Protest Administrative Hearing
 - b. Attorney Certification of Agenda
 - a. Ballot Title Protest Administrative Hearing
 
-## [douglas-county#13] 2026-09-08 | Board of County Commissioners Business Meeting | minutes
+## [douglas-county#8] 2026-09-08 | Board of County Commissioners Business Meeting | minutes
 - Tuesday, September 8, 2026 1:30 PM Hearing Room
 - b. Attorney Certification of Agenda
 - by his office and they all meet legal approval
@@ -268,7 +171,7 @@
 - Request for Official Name Change of Property and Use of Open Space Funds from the
 - Parks, Trails, Historic Resource, and Open Space Sales Tax up to $30k
 
-## [douglas-county#14] 2026-09-08 | Board of County Commissioners Land Use Meeting/Public Hearing | minutes
+## [douglas-county#9] 2026-09-08 | Board of County Commissioners Land Use Meeting/Public Hearing | minutes
 - MEETING/PUBLIC HEARING
 - Tuesday, September 8, 2026 2:30 PM Hearing Room
 - b. Attorney Certification of Agenda
@@ -297,7 +200,7 @@
 - $1,000 for the Planning Review Fee
 - 3. Public Hearing Agenda Items
 
-## [douglas-county#15] 2026-09-08 | Woodmoor Mountain General Improvement District | agenda
+## [douglas-county#10] 2026-09-08 | Woodmoor Mountain General Improvement District | agenda
 - WOODMOOR MOUNTAIN GENERAL IMPROVEMENT DISTRICT
 - b. Attorney Certification of Agenda
 - a. Construction Contract with 53 Corp for Woodmoor Drainage and Road Repair Project,
@@ -305,11 +208,11 @@
 - DouglasCounty-53 Corp-Construction Contract-Woodmoor Drainage
 - and Road Repair-Zak Humbles SP2025-020
 
-## [douglas-county#16] 2026-09-10 | Douglas County Homeless Initiative | agenda
+## [douglas-county#11] 2026-09-10 | Douglas County Homeless Initiative | agenda
 - BOCC Hearing Room,
 - 6. Public Comment
 
-## [douglas-county#17] 2026-09-10 | Douglas County Board of Health | agenda
+## [douglas-county#12] 2026-09-10 | Douglas County Board of Health | agenda
 - b. Attorney Certification of Agenda
 - a. Review/Approve Minutes of June 11, 2026
 - b. b. Review/Approve Financial Report through 8/31/26
@@ -323,7 +226,7 @@
 - i. Request to Review / Approve DCHD proposed 2027 Budget
 - Request to Review Approve DCHD proposed 2027 BudgetAttachments:
 
-## [douglas-county#18] 2026-09-14 | Planning Commission Regular Meeting | agenda
+## [douglas-county#13] 2026-09-14 | Planning Commission Regular Meeting | agenda
 - Monday, September 14, 2026 6:00 PM Hearing Room
 - To submit written public comment and/or exhibits for a Planning Commission meeting, please send
 - c. Attorney Certification of the Agenda
@@ -332,7 +235,7 @@
 - a. Sterling Ranch Filing 6A, 2nd Amendment - Minor Development - File :
 - Brett Thomas, AICP, Planning Manager — Department of Community Development
 
-## [douglas-county#20] 2026-09-14 | Planning Commission Work Session | agenda
+## [douglas-county#15] 2026-09-14 | Planning Commission Work Session | agenda
 - Monday, September 14, 2026 6:00 PM Hearing Room
 - a. Douglas County Zoning Resolution Amendment to Establish Regulations for
 - Nonfunctional Turf - Project File: DR2026-001
@@ -341,10 +244,10 @@
 - Exercising Sessions of Non-owned Animals - Project File: DR2026-004
 - Mike Dawson, Zoning Compliance Official — Department of Community
 
-## [douglas-county#21] 2026-09-16 | Community of Care Network | agenda
+## [douglas-county#16] 2026-09-16 | Community of Care Network | agenda
 - Tiffany Marsitto
 
-## [douglas-county#22] 2026-09-22 | Board of County Commissioners Business Meeting | minutes
+## [douglas-county#17] 2026-09-22 | Board of County Commissioners Business Meeting | minutes
 - Tuesday, September 22, 2026 1:30 PM Hearing Room
 - b. Attorney Certification of Agenda
 - by his office and they all meet legal approval
@@ -386,7 +289,7 @@
 - v. Tarian Purchase of Avigilon Network Video Recorders for Building Security Cameras in the
 - Ramp Retrofit Project in the Amount of $149,007.00, Douglas County Project Number CI
 
-## [douglas-county#23] 2026-09-22 | Board of County Commissioners Land Use Meeting/Public Hearing | minutes
+## [douglas-county#18] 2026-09-22 | Board of County Commissioners Land Use Meeting/Public Hearing | minutes
 - MEETING/PUBLIC HEARING
 - Tuesday, September 22, 2026 2:30 PM Hearing Room
 - b. Attorney Certification of Agenda
@@ -401,7 +304,7 @@
 - Amendment - Minor Development because it does meet all of the approval criteria, with 2
 - conditions as presented - Project File: SB2026-014
 
-## [douglas-county#24] 2026-09-28 | Planning Commission Regular Meeting | agenda
+## [douglas-county#19] 2026-09-28 | Planning Commission Regular Meeting | agenda
 - Monday, September 28, 2026 6:00 PM Hearing Room
 - To submit written public comment and/or exhibits for a Planning Commission meeting, please send
 - c. Attorney Certification of the Agenda
@@ -414,12 +317,12 @@
 - Exercising Sessions of Non-owned Animals - Project File: DR2026-004
 - Mike Dawson, Zoning Compliance Official — Department of Community Development
 
-## [douglas-county#25] 2026-09-28 | Planning Commission Pre-Meeting & Administration Training Session | agenda
+## [douglas-county#20] 2026-09-28 | Planning Commission Pre-Meeting & Administration Training Session | agenda
 - a. 2050 Water Plan and the Comprehensive Master Plan 5078
 - DJ Beckwith, Principal Planner — Department of Community Development
 - 2050 Water Plan and the Comprehensive Master PlanAttachments:
 
-## [douglas-county#26] 2026-10-05 | Planning Commission Regular Meeting | agenda
+## [douglas-county#21] 2026-10-05 | Planning Commission Regular Meeting | agenda
 - Monday, October 5, 2026 6:00 PM Hearing Room
 - To submit written public comment and/or exhibits for a Planning Commission meeting, please send
 - c. Attorney Certification of the Agenda
@@ -431,14 +334,14 @@
 - 6685 South State Highway 83 - Use by Special Review - Project File :
 - Trevor Bedford, AICP, Senior Planner — Department of Community Development
 
-## [douglas-county#28] 2026-10-06 | Liquor Authority | agenda
+## [douglas-county#23] 2026-10-06 | Liquor Authority | agenda
 - Tuesday, October 6, 2026 1:30 PM Hearing Room
 - b. Attorney Certification of Agenda
 - a. Approval of Minutes from July 7, 2026
 - a. Dumpling Bay, Hotel and Restaurant - Liquor License - Project File: LL2026-055
 - Scott Weeks, Senior Planner — Department of Community Development
 
-## [douglas-county#29] 2026-10-09 | Rueter-Hess Advisory Board | agenda
+## [douglas-county#24] 2026-10-09 | Rueter-Hess Advisory Board | agenda
 - 11865 Heirloom Parkway
 - Parker, CO 80134Friday, October 9, 2026 9:00 AM
 - b. Approval of the Agenda
@@ -450,12 +353,12 @@
 - 5. Other Business and Discussion
 - a. Incline Trailhead Improvements Update
 
-## [douglas-county#30] 2026-10-19 | Planning Commission Pre-Meeting & Administration Training Session | agenda
+## [douglas-county#25] 2026-10-19 | Planning Commission Pre-Meeting & Administration Training Session | agenda
 - Red Tape Reduction Action Plan Update 5138
 - Kati Carter, AICP, Director of Community Development — Department of Community
 - Memo - Red Tape Reduction Action Plan UpdateAttachments:
 
-## [douglas-county#31] 2026-10-19 | Planning Commission Regular Meeting | agenda
+## [douglas-county#26] 2026-10-19 | Planning Commission Regular Meeting | agenda
 - Monday, October 19, 2026 6:00 PM Hearing Room
 - To submit written public comment and/or exhibits for a Planning Commission meeting, please send
 - c. Attorney Certification of the Agenda
@@ -464,7 +367,7 @@
 - a. 2485 South Russellville Road - Use by Special Review - Project File :
 - Trevor Bedford, AICP, Senior Planner — Department of Community Development
 
-## [douglas-county#32] 2026-10-20 | Board of County Commissioners Business Meeting | agenda
+## [douglas-county#27] 2026-10-20 | Board of County Commissioners Business Meeting | agenda
 - Tuesday, October 20, 2026 1:30 PM Hearing Room
 - b. Attorney Certification of Agenda
 - a. Resolution Recognizing October 2026 as National Domestic Violence Awareness Month
@@ -508,7 +411,7 @@
 - County Project Number CI2025-026
 - Sean P. Owens, P.E., Special Projects Manager — Department of Public Works Engineering
 
-## [douglas-county#33] 2026-10-20 | Board of County Commissioners Land Use Meeting/Public Hearing | agenda
+## [douglas-county#28] 2026-10-20 | Board of County Commissioners Land Use Meeting/Public Hearing | agenda
 - MEETING/PUBLIC HEARING
 - Tuesday, October 20, 2026 2:30 PM Hearing Room
 - b. Attorney Certification of Agenda
@@ -519,10 +422,10 @@
 - Mike Pesicka, Principal Planner — Department of Community Development
 - Land Use Meeting/Public Hearing
 
-## [douglas-county#34] 2026-10-27 | Board of County Commissioners Business Meeting | agenda
+## [douglas-county#29] 2026-10-27 | Board of County Commissioners Business Meeting | agenda
 - Tuesday, October 27, 2026 1:30 PM Hearing Room
 
-## [douglas-county#35] 2026-10-27 | Board of County Commissioners Land Use Meeting/Public Hearing | agenda
+## [douglas-county#30] 2026-10-27 | Board of County Commissioners Land Use Meeting/Public Hearing | agenda
 - MEETING/PUBLIC HEARING
 - Tuesday, October 27, 2026 2:30 PM Hearing Room
 - Public Hearing Agenda Items
@@ -534,7 +437,7 @@
 - 6685 South Highway 83 - Use by Special Review - Project File: US2023-011
 - 2485 South Russellville Road - Use by Special Review - Project File: US2025-010
 
-## [douglas-county#36] 2026-10-28 | Historic Preservation Board | agenda
+## [douglas-county#31] 2026-10-28 | Historic Preservation Board | agenda
 - 100 Third Street, Castle Rock, CO
 - b. Approval of the Agenda
 - 2. Approval of Minutes
@@ -542,7 +445,7 @@
 - a. Historic Railroad Project Presentation
 - 5. Other Business and Discussion
 
-## [douglas-county#37] 2026-11-02 | Planning Commission Regular Meeting | agenda
+## [douglas-county#32] 2026-11-02 | Planning Commission Regular Meeting | agenda
 - Monday, November 2, 2026 6:00 PM Hearing Room
 - To submit written public comment and/or exhibits for a Planning Commission meeting, please send
 - c. Attorney Certification of the Agenda
@@ -552,11 +455,11 @@
 - Project File: SV2026-003
 - DJ Beckwith, Principal Planner — Department of Community Development
 
-## [douglas-county#38] 2026-11-02 | Planning Commission Pre-Meeting & Administration Training Session | agenda
+## [douglas-county#33] 2026-11-02 | Planning Commission Pre-Meeting & Administration Training Session | agenda
 - a. Proposed 2027 PC Public Hearing Schedule 5198
 - 2027 PC Public Hearing Schedule - ProposedAttachments:
 
-## [douglas-county#39] 2026-11-03 | Board of County Commissioners Land Use Meeting/Public Hearing | agenda
+## [douglas-county#34] 2026-11-03 | Board of County Commissioners Land Use Meeting/Public Hearing | agenda
 - MEETING/PUBLIC HEARING
 - Tuesday, November 3, 2026 2:30 PM Hearing Room
 - b. Attorney Certification of Agenda
@@ -572,12 +475,12 @@
 - Sessions of Non-owned Animals - Project File: DR2026-004
 - Mike Dawson, Zoning Compliance Official — Department of Community Development
 
-## [douglas-county#40] 2026-11-03 | Board of Equalization | agenda
+## [douglas-county#35] 2026-11-03 | Board of Equalization | agenda
 - Tuesday, November 3, 2026 1:15 PM Hearing Room
 - b. Attorney Certification of Agenda
 - a. Review of the Referee Decisions from the Board of Equalization Hearings Held September
 
-## [douglas-county#41] 2026-11-03 | Board of County Commissioners Business Meeting | agenda
+## [douglas-county#36] 2026-11-03 | Board of County Commissioners Business Meeting | agenda
 - Tuesday, November 3, 2026 1:30 PM Hearing Room
 - b. Attorney Certification of Agenda
 - a. Resolution Recognizing Project Green Light
@@ -618,10 +521,95 @@
 - Contract Amendment 2 Basis Partners - Hilltop Rd
 - r. Amendment No. 3 to the Intergovernmental Agreement Between the Urban Drainage and
 
-## [douglas-county#42] 2026-11-09 | Liquor Authority | agenda
+## [douglas-county#37] 2026-11-09 | Liquor Authority | agenda
 - Monday, November 9, 2026 1:30 PM Hearing Room
 - b. Attorney Certification of Agenda
 - a. Approval of Liquor Authority Minutes from October 6, 2026
 - a. King Soopers # 175 - Retail Fermented Malt Beverage and Wine Liquor License - Project
 - Scott Weeks, Senior Planner — Department of Community Development
 - b. Nicolo’s Chicago Style Pizza - Hotel and Restaurant Liquor License - Project File :
+
+## [douglas-county#38] 2026-11-10 | Board of County Commissioners Business Meeting | agenda
+- Tuesday, November 10, 2026 1:30 PM Hearing Room
+- b. Attorney Certification of Agenda
+- a. Approval of Business Meeting Minutes from October 10, 2026
+- b. Approval Of Land Use/Public Hearing Minutes from October 10, 2026
+- c. Approval of Vouchers November 3, 2026
+- d. Approval of Vouchers November 10, 2026
+- e. Settlement Agreement as Recommended by the Assessor’s Office and to Authorize the
+- f. Resolution Designating the 2027 Holiday Schedule
+- 2027 Holiday Schedule Resolution
+- g. Underwriting Engagement Letter with Piper Sandler for the Certificates of Participation
+- h. Resolution Certifying Costs of Prosecuting Crimes Alleged to Have Been Committed by
+- 2026 Resolution
+- i. Douglas County Sheriff’s Office is Requesting Board of County Commissioners Approval in
+- the Amount of $117,370.75 to Fund the Ongoing Purchase and Replacement of Deputy
+- Vendor Approval for Uniform Purchase
+- j. 2026 - 2027 Colorado Department of Transportation Transit Pilot Project Grant Contracts in
+- Project Total of $1,250,000.00
+- 20261110_StaffReport-GrantContract_26-CDOT-Pilot
+- k. Resolution Supporting the Grant Application and Fiscal Agency for a 2026 Non-Motorized
+- Trails Program Grant from Colorado Parks and Wildlife (CPW) and the Completion of the
+- Wildcat Regional Park Tral Project
+- CPS Trails Grant Resolution and Staff Report Packet Final.pdf
+- m. Crowe Support Services Contracts in the Amount of $252,078.00
+- n. Materials Only Purchase Request to Econolite Group Inc. to Acquire Three Traffic Signal
+- Cabinets and Related Hardware for the Traffic Signal Installation Project at University and
+- Amount of $110,868.60, Douglas County Project Numbers TF2025-024, TF2025-025, and
+- o. Purchase Order of a Materials-Only to Valmont Industries Through Roadwerx in the Amount
+- Lane Signal Design Project, Douglas County Project Number TF 2025-026
+- Quote from Roadwerx 10-15-26
+- p. Amendment No. 4 to the Public Contract for Services for the Gateway Monument Signage
+- Project to Cushing Terrell in the Amount of $11,500.00, Douglas County Project Number
+- AMENDMENT Cushing Terrell
+- q. Acceptance of a Storm Drainage Easement from CORE Electric at 495 Dawson Trails Blvd,
+- Castle Rock for Reinforced Concrete Pipe, Manholes and Storm Sewer Inlets and a
+- Stormwater Pond. Douglas County Project Number DV2025-183
+- Storm Drainage Easement - Core Dawson Trails Blvd
+- r. Public Contract for Services for Gateway Signage Installation Services Project to Ash &
+- County Project Number CI2024-029
+- CONTRACT With Exhibits-PCS-Ash and White
+- s. Resolution Approving the Draw in the Amount of $1,165,855.65 on Irrevocable Letter of
+
+## [douglas-county#39] 2026-11-10 | Board of County Commissioners Land Use Meeting/Public Hearing | agenda
+- MEETING/PUBLIC HEARING
+- Tuesday, November 10, 2026 2:30 PM Hearing Room
+- b. Attorney Certification of Agenda
+- a. Bear Ridge, 1st Amendment - Replat - Project File: SB2026-047
+- Matt Jakubowski, AICP, Chief Planner — Department of Community Development
+- 3. Public Hearing Agenda Items
+- a. Meridian Village Parcel P-7 - Land Disposal - Project File: MI2026-017
+- Trevor Bedford, AICP, Senior Planner — Department of Community Development
+- Land Use Meeting/Public Hearing
+- b. Castle Pines North Metropolitan District - Service Plan 2nd Amendment - Project File:
+- Lauren Pulver, Planning Manager — Department of Community Development
+- c. Resolution Supplementing the 2026 Adopted Budget for the County of Douglas, Colorado to
+- Recognize New Revenues Received since Annual Budget Adoption, Appropriate Restricted,
+- Ryan Bolger, Budget Analyst — Budget
+
+## [douglas-county#40] 2026-11-13 | Rueter-Hess Advisory Board | agenda
+- 11865 Heirloom Parkway
+- Parker, CO 80134Friday, November 13, 2026 9:00 AM
+- b. Approval of the Agenda
+- 2. Approval of Minutes
+- 4. Discussion and Action Items
+- c. Rueter-Hess Budget Update October 2026
+- Rueter-Hess Budget Update October 2026Attachments:
+- 5. Other Business and Discussion
+- a. Incline Trailhead Improvements Update
+
+## [douglas-county#41] 2026-11-16 | Planning Commission Regular Meeting | agenda
+- Monday, November 16, 2026 6:00 PM Hearing Room
+- To submit written public comment and/or exhibits for a Planning Commission meeting, please send
+- c. Attorney Certification of the Agenda
+- 2. Approval of Minutes
+- 3. Approval of the 2027 PC Public Hearing Schedule
+- a. Proposed 2027 PC Public Hearing Schedule 5197
+- 2027 PC Public Hearing Schedule - ProposedAttachments:
+- 4. Land Use Hearing Items
+- a. Bobcat of the Rockies - Rezoning - Project File: ZR2026-007. 5224
+- Matt Jakubowski, AICP, Chief Planner — Department of Community Development
+
+## [douglas-county#42] 2026-11-16 | Planning Commission Pre-Meeting & Administration Training Session | agenda
+- a. Proposed 2027 PC Public Hearing Schedule 5198
+- 2027 PC Public Hearing Schedule - ProposedAttachments:

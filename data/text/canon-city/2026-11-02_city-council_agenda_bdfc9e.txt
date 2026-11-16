@@ -22,7 +22,7 @@ UEST TO SPEAK TO THE CITY COUNCIL:
 Resolution No. 9, Series 2018, adopted Rules of Procedures for the City Council, staff, 
 and the public.  Public comments are received after the opening ceremonies under the 
 heading “Citizens Request to Speak to the City Council.”  If you wish to address the 
-City Council, please complete a Request to Spea k Form available by the meeting room 
+City Council, please complete a Request to Speak Form available by the meeting room 
 door and submit it to the City Clerk prior to the meeting being called to order.   Copies 
 of the policy and form are available in  the City Clerk’s office and posted on the City of 
 Cañon City website. 
@@ -300,7 +300,7 @@ Reeves, City Council authorized moving into Executive Session to determine
 positions relative to matters that may be subject to negotiations; developing
 strategy for negotiations; and instructing negotiators, pursuant to C.R.S. § 24-6-
 402 ( 4)(e)  and to hold a conference with the City’s attorney and special counsel to
-receive legal advice on specific legal questions, pursuant to C.R. S. § 24-6-402
+receive legal advice on specific legal questions, pursuant to C.R.S. § 24-6-402
 4)(b), concerning transition matters related to the termination of the Royal Gorge
 Lease Agreement with Royal Gorge Company of Colorado.  
 ABSENT AYE NAY ABSTAIN
@@ -467,7 +467,7 @@ Inc. (hereinaftercalled "Operator").
 WHEREAS, Operator wishesto offer commercial jeep toursthat will includetravel on established
 roads and roadways into, within and through various parks owned by the City, includingRoyal Gorge
 Park, TempleCanyonPark and Red CanonPark; and
-WHEREAS, portionsof Royal GorgePark thatOperatorwishesto useare leased by the City to the
+WHEREAS, portionsof Royal GorgePark thatOperatorwishesto use are leased by the City to the
 CMBHPartners, LLC (“CMBH”) and are referredto hereinas the "leasedpremises"; and
 WHEREAS, the City wishes to authorize the Operator to conduct jeep tours within the leased
 premises subject to such conditions and considerationsthat may be required by CMBH under a written
@@ -731,7 +731,7 @@ permitted by law.
 33
 1
 AGREEMENT FOR PROFESSIONAL SERVICES
-THIS AGREEMENT is made and entered into this _____ day of November, 2026, by and
+THIS AGREEMENT is made and entered into this _____ dayof November, 2026, by and
 between the City of Cañon City, P.O. Box 1460, Cañon City, Colorado 81215, a Colorado
 municipal corporation (the "City"), and PIONEER DEVELOPMENT COMPANY, LLC, a Limited
 Liability Company with a principal place of business at 95 High Trails Drive, Durango, CO, 81301
@@ -761,7 +761,7 @@ shall pay Consultant an amount not to exceed Fifty Thousand and 00/100 Dollars (
 This maximum amount shall include all fees, costs and expenses incurred by Consultant, and no
 additional amounts shall be paid by the City for such fees, costs and expenses.   
 B. Notwithstanding the maximum amount specified in Paragraph A hereof, Consultant
-shall bepaid only for work performed.  If Consultant completes the Scope of Services for a lesser
+shall be paid only for work performed.  If Consultant completes the Scope of Services for a lesser
 amount than the maximum amount, Consultant shall be paid the lesser amount, not the maximum
 amount. 
 34
@@ -776,7 +776,7 @@ professional firms in the same or similar type of work in the applicable communi
 services to be performed by Consultant hereunder shall be done in compliance with applicable laws, 
 ordinances, rules and regulations. 
 C. The City’s review, approval or acceptance of, or payment for any services shall not
-be construed to operate as a waiver of any rights underthis Agreement or of any cause of action
+be construed to operate as a waiver of any rights under this Agreement or of any cause of action
 arising out of the performance of this Agreement. 
 D. Because the City has hired Consultant for its professional expertise, Consultant
 agrees not to employ subcontractors to perform any of the work required under the Scope of
@@ -835,7 +835,7 @@ City reserves the right to request and receive a certified copy of any policy an
 thereto. 
 E. Failure on the part of Consultant to procure or maintain the insurance required herein
 shall constitute a material breach of this Agreement upon which the City may immediately
-terminate this Agreement, or at its discretion, the City mayprocure or renew any such policy or any
+terminate this Agreement, or at its discretion, the City may procure or renew any such policy or any
 extended reporting period thereto and may pay any and all premiums in connection therewith, and
 all monies so paid by the City shall be repaid by Consultant to the City upon demand, or the City
 may offset the cost of the premiums against any monies due to Consultant from the City. 
@@ -930,7 +930,7 @@ computerized data, if misuse of personal information about a Colorado resident o
 to occur.  Cooperation includes sharing with the City information relevant to the security breach.  
 Contractors shall be liable for any damages caused by such security breach. 
 O. Digital Accessibility.  Contractor shall comply with the accessibility standards for an
-individual with a disability adopted by the State Office of Information Technology pursuant to
+individual with a disability adopted by the State Office of Information Technologypursuant to
 38
 6
 C.R.S. § 24-85-103, and shall indemnify, hold harmless and assume liability on behalf of the City
@@ -1442,7 +1442,7 @@ completions, demolitions, conversions, absorption, the entitled pipeline, and pr
 track prices, rents, days on market, and attainable price points against comparison markets, and assess
 gaps in senior, accessible, supportive, and manufactured housing. PDC will also compile the DOLA baseline
 measure of local resources dedicated to affordable housing, including funding, regulated units, 
-Proposition 123 commitments, public land, and C - CAREtools. 
+Proposition 123 commitments, public land, and C -CARE tools. 
 Market Limitations and Feasibility. PDC’ s development finance practice makes this analysis concrete. PDC
 will prepare pro forma examples for typical townhome and apartment prototypes, showing what each
 costs to deliver in Cañon City and the price or rent it requires. The gap between those figures and what

@@ -1,80 +1,6 @@
 # starkville
 
-## [starkville#0] 2026-08-11 | Planning / Zoning Commission | agenda
-- PLANNING & ZONING COMMISSION
-- IV. CONSIDERATION OF THE OFFICIAL AGENDA
-- V. CONSIDERATION FOR THE APPROVAL OF MINUTES
-- A. CONSIDERATION OF THE UNAPPROVED MINUTES OF JUNE 9, 2026
-- A. DISCUSSION AND CONSIDERATION OF PP 26-01 A REQUEST FOR APPROVAL OF A
-- PHASED PRELIMINARY PLAT FOR “STERLING RIDGE” AT SOUTHWEST CORNER OF
-- THE INTERSECTION OF MOCKINGBIRD ROAD AND MS HWY 182 IN A TN-N ZONING
-- B. PUBLIC HEARING AND CONSIDERATION OF SE 26-08 A REQUEST FOR THE USE OF A
-- “DATA CENTER- CRYPTO CURRENCY GENERATION FACILITY” LOCATED ON THE
-- EAST SIDE OF THE INDUSTRIAL PARK ROAD APPROXIMATELY 350 FEET SOUTH OF
-- THE MILEY ROAD INTERSECTION IN AN INDUSTRIAL ZONING DISTRICT
-- C. PUBLIC HEARING AND CONSIDERATION OF SE 26-09 A REQUEST UNDER UDC
-- 200 SOUTH MONTGOMERY STREET, SUITE C
-
-## [starkville#1] 2026-08-11 | Planning / Zoning Commission | agenda
-- PLANNING & ZONING COMMISSION
-- IV. CONSIDERATION OF THE OFFICIAL AGENDA
-- V. CONSIDERATION FOR THE APPROVAL OF MINUTES
-- A. CONSIDERATION OF THE UNAPPROVED MINUTES OF JUNE 9, 2026
-- A. DISCUSSION AND CONSIDERATION OF PP 26-01 A REQUEST FOR APPROVAL OF A
-- PHASED PRELIMINARY PLAT FOR “STERLING RIDGE” AT SOUTHWEST CORNER OF
-- THE INTERSECTION OF MOCKINGBIRD ROAD AND MS HWY 182 IN A TN-N ZONING
-- B. PUBLIC HEARING AND CONSIDERATION OF SE 26-08 A REQUEST FOR THE USE OF A
-- “DATA CENTER- CRYPTO CURRENCY GENERATION FACILITY” LOCATED ON THE
-- EAST SIDE OF THE INDUSTRIAL PARK ROAD APPROXIMATELY 350 FEET SOUTH OF
-- THE MILEY ROAD INTERSECTION IN AN INDUSTRIAL ZONING DISTRICT
-- C. PUBLIC HEARING AND CONSIDERATION OF SE 26-09 A REQUEST UNDER UDC
-- 200 SOUTH MONTGOMERY STREET, SUITE C
-- APPROVED MINUTES OF THE MEETING OF
-- THE PLANNING AND ZONING COMMISSION
-- Be it remembered that the Planning and Zoning Commission members of the City of
-- located at 110 West Main Street, Starkville, MS
-- Alexis Gregory, Ward 5; Joe Fratesi, Ward 1; and Kelly Prather, Ward 3 . City Planner
-- There came for consideration the matter of approval of the Official Agenda of the
-- Planning and Zoning Commission of June 9, 2026, as presented
-- 110 WEST MAIN STREET AT 5:30 PM
-- A. CONSIDERATION OF THE UNAPPROVED MINUTES OF MAY 14, 2026
-- A. PUBLIC HEARING AND CONSIDERATION OF SE 26 -06 A REQUEST FOR SPECIAL
-- USE DEVELOPMENT LOCATED AT 128 SOUTH JACKSON STREET IN A T- 5D ZONING
-- B. PUBLIC HEARING AND CONSIDERATION OF SE 26 -07 A REQUEST FOR SPECIAL
-- EXCEPTION TO ALLOW FOR A COTTAGE COURT DEVELOPMENT AT 505, 507, AND
-- 509 SOUTH MONTGOMERY STREET IN AN TN-E ZONING DISTRICT
-- Commissioner West, the motion to approve the official agenda of the Planning and
-- Zoning Commission for June 9, 2026, received unanimous approval
-- A. CONSIDERATION OF THE UNAPPROVED MINUTES OF MAY 12, 2026
-- Commissioner Verdell, the motion to approve the minutes of the Planning and
-- Zoning Commission for March 10, 2026 , received unanimous approval with
-- Citizen Steve Langston spoke in favor of the Jackson 128 project
-- A. PUBLIC HEARING AND CONSIDERATION OF SE 26 -06 A REQUEST FOR
-- PROPOSED MIXED-USE DEVELOPMENT LOCATED AT 128 SOUTH JACKSON
-- STREET IN A T-5D ZONING DISTRICT
-- City Planner Daniel Havelin presented a request by Stuart Povall on behalf of
-- Jackson 128, LLC for a proposed mixed -use development located at 128 South
-- Jackson Street within the T -5D Downtown Transect District. The applicant is
-- requesting five Special Exceptions: (1) Approval of a fifth story, (2) a deviation from
-- a deviation from the lot frontage buildout requirement. The proposed development
-
-## [starkville#2] 2026-08-14 | Board of Aldermen | minutes
-- at 110 West Main Street, Starkville, MS. Present were Mayor Lynn Spruill, Alderwoman Kim
-- chelle Anderson gave an update on the Oktibbeha County Humane Society projects and status
-- of the facility and budget
-- Mayor and members of the Board discussed items on the upcoming August 18, 2026 agenda
-- were discussed
-- OOperatee thee OCHSS Spayy && Neuterr Clinic — offer
-- and grant support from local rescues and
-- Adoption rates are
-- taxpayerss andd governmentt willl
-- HUMANE SOCIETY PROJECTS AND STATUS OF THE FACILITY AND BUDGET
-- III. DISCUSSION OF THE AGENDA ITEMS FOR THE AUGUST 18, 2026, MEETING OF
-- McMullen, at (662) 323-2525, ext 3121 at least forty-eight (48) hours in advance for any services requested
-- LOCATED AT 110 WEST MAIN STREET
-- (662) 323-2525 ext. 3119, in advance for any services requested
-
-## [starkville#3] 2026-08-18 | Board of Aldermen | minutes
+## [starkville#0] 2026-08-18 | Board of Aldermen | minutes
 - p.m. in the Municipal Court Room of City Hall, located at 110 West Main Street, Starkville, MS. Present were
 - requested, the Mayor called for a motion to approve the agenda with consent items
 - 1. A MOTION TO APPROVE THE OFFICIAL AGENDA WITH CONSENT ITEMS
@@ -119,7 +45,7 @@
 - ROAD WASTEWATER FORCE MAIN IMPROVEMENTS PROJECT
 - 2. REQUEST AUTHORIZATION TO ACCEPT THE LOW QUOTE FROM BERRY
 
-## [starkville#4] 2026-08-25 | General | minutes
+## [starkville#1] 2026-08-25 | General | minutes
 - Main Street, Starkville, MS. Present were Mayor Lynn Spruill, Aldermen Kim Moreland, Sandra
 - MISSISSIPPI CODE OF 1972, AS AMENDED, MAYOR D. LYNN SPRUILL DOES
 - MAIN STREET, STARKVILLE, MISSISSIPPI 39759
@@ -158,7 +84,7 @@
 - 13. CONSIDERATION OF APPROVING THE STARKVILLE COMMUNITY
 - Board to approve the Starkville Community Theater contribution. The Board voted as follows:
 
-## [starkville#5] 2026-08-28 | Board of Aldermen | minutes
+## [starkville#2] 2026-08-28 | Board of Aldermen | minutes
 - West Main Street, Starkville, MS. Present were Mayor Lynn Spruill, Alderwoman Kim
 - Todd Palmer, Freddy Parker , and Rob Fisher of Pafford Emergency Services , Inc gave a
 - presentation on the contract renewal with the City of Starkville
@@ -171,7 +97,7 @@
 - LOCATED AT 110 WEST MAIN STREET
 - (662) 323-2525 ext. 3119, in advance for any services requested
 
-## [starkville#6] 2026-09-01 | Board of Aldermen | minutes
+## [starkville#3] 2026-09-01 | Board of Aldermen | minutes
 - 5:30 p.m. in the Municipal Court Room of City Hall, located at 110 West Main Street, Starkville, MS. Present
 - yor Spruill called for any changes to the agenda as presented. There being no changes requested, the Mayor
 - called for a motion to approve the agenda with consent items
@@ -215,7 +141,7 @@
 - SOUTHERN CONNECTION, WHICH PROVIDED THE HIGHEST OF TWO BIDS,
 - 3. MOVE APPROVAL TO DECLARE THE LISTED FORFEITED VEHICLE AS
 
-## [starkville#7] 2026-09-11 | Board of Aldermen | minutes
+## [starkville#4] 2026-09-11 | Board of Aldermen | minutes
 - Hall located at 110 West Main Street, Starkville, MS. Present were Vice Mayor Roy A’. Perkins,
 - Edward Kemp gave a presentation on the Electric Department projects and rate structure
 - The Vice Mayor and members of the Board discussed items on the upcoming September 15, 2026,
@@ -264,7 +190,7 @@
 - Street & Area Lighting Replacements $50,000 $50,000 $50,000 $50,000 $50,000 $300,000
 - Replace Legacy Street Lighting with new LED fixtures $50,000 $50,000 $50,000 $50,000 $50,000 $300,000
 
-## [starkville#8] 2026-09-15 | Board of Aldermen | minutes
+## [starkville#5] 2026-09-15 | Board of Aldermen | minutes
 - p.m. in the Municipal Court Room of City Hall, located at 110 West Main Street, Starkville, MS. Present were
 - Spruill called for any changes to the agenda as presented. There being no changes requested, the Mayor
 - called for a motion to approve the agenda with consent items
@@ -309,7 +235,7 @@
 - 1. REQUEST APPROVAL TO PURCHASE FIVE (5) FRONT LOAD CONTAINERS
 - FROM PLUM CREEK AT THE SOURCE OF SUPPLY BID PRICE FOR A TOTAL
 
-## [starkville#9] 2026-09-23 | Board of Adjustments & Appeals | agenda
+## [starkville#6] 2026-09-23 | Board of Adjustments & Appeals | agenda
 - 2ND FLOOR CITY HALL - COMMUNITY DEVELOPMENT
 - 110 WEST MAIN STREET AT 4:00 PM
 - III. CONSIDERATION OF THE OFFICIAL AGENDA
@@ -322,7 +248,7 @@
 - FROM THE FRONT BUILDING SETBACKS FOR A PROPOSED DEVELOPMENT
 - SOUTH OF THE ABERNATHY DR INTERSECTION IN AN MDU-20 ZONING DISTRICT
 
-## [starkville#10] 2026-09-23 | Board of Adjustments & Appeals | agenda
+## [starkville#7] 2026-09-23 | Board of Adjustments & Appeals | agenda
 - 2ND FLOOR CITY HALL - COMMUNITY DEVELOPMENT
 - 110 WEST MAIN STREET AT 4:00 PM
 - III. CONSIDERATION OF THE OFFICIAL AGENDA
@@ -367,7 +293,7 @@
 - notifications
 - Vice Chairman Nicovich opened the public hearing to citizen comments
 
-## [starkville#11] 2026-10-02 | Board of Aldermen | minutes
+## [starkville#8] 2026-10-02 | Board of Aldermen | minutes
 - at 110 West Main Street, Starkville, MS. Present were Mayor Lynn Spruill, Alderwoman Kim
 - eg Own and Cole Lacey of Sports Facilities Management gave a presentation on the annual
 - business and operating plan for the Parks and Recreation Department
@@ -380,7 +306,7 @@
 - LOCATED AT 110 WEST MAIN STREET
 - (662) 323-2525 ext. 3119, in advance for any services requested
 
-## [starkville#12] 2026-10-06 | Board of Aldermen | minutes
+## [starkville#9] 2026-10-06 | Board of Aldermen | minutes
 - p.m. in the Municipal Court Room of City Hall, located at 110 West Main Street, Starkville, MS. Present were
 - REQUESTED REVISIONS TO THE OFFICIAL AGENDA:
 - yor Spruill called for any changes to the agenda as presented. There being no changes requested, the Mayor
@@ -426,81 +352,57 @@
 - 2. REQUEST AUTHORIZATION OF THE PROGRESSION PLAN PROMOTION OF
 - STARKVILLE FIRE DEPARTMENT
 
-## [starkville#13] 2026-10-13 | Planning / Zoning Commission | agenda
-- PLANNING & ZONING COMMISSION
-- 110 WEST MAIN STREET AT 5:30 PM
+## [starkville#10] 2026-10-13 | Planning / Zoning Commission | minutes
 - IV. CONSIDERATION OF THE OFFICIAL AGENDA
-- V. CONSIDERATION FOR THE APPROVAL OF MINUTES
-- A. CONSIDERATION OF THE UNAPPROVED MINUTES OF AUGUST 11, 2026
-- A. PUBLIC HEARING AND CONSIDERATION OF SE 26-10 A REQUEST FOR SPECIAL
-- BLUEFIELD ROAD WITHIN AN RN ZONING DISTRICT
-- B. PUBLIC HEARING AND CONSIDERATION OF SE 26-11, A REQUEST FOR SPECIAL
-- ALLOWED WITHIN A PROPOSED MULTI-DWELLING RESIDENTIAL DEVELOPMENT
-- NEAR THE INTERSECTION OF PAT STATION ROAD AND HIGHWAY 12 EAST IN A C
-- ZONING DISTRICT
-- C. PUBLIC HEARING AND CONSIDERATION OF SE 26-12 A REQUEST FOR SPECIAL
-- EXCEPTION TO ALLOW FOR A REDUCTION IN THE MINIMUM PARKING
-- REQUIREMENTS FOR A PROPOSED HOTEL DEVELOPMENT ON THE EAST SIDE OF
-- MILL STREET DIRECTLY EAST OF THE COTTON MILL ROAD INTERSECTION IN A C
-- D. PUBLIC HEARING AND CONSIDERATION OF SE 26-13 A REQUEST FOR SPECIAL
-- CIRCLE WITHIN A SD-6 ZONING DISTRICT
-- E. DISCUSSION AND CONSIDERATION OF ELECTION OF A VICE CHAIR TO FINISH A
-- VACATED TERM EXPIRING ON JULY 2027
-
-## [starkville#14] 2026-10-13 | Planning / Zoning Commission | agenda
-- PLANNING & ZONING COMMISSION
-- 110 WEST MAIN STREET AT 5:30 PM
-- IV. CONSIDERATION OF THE OFFICIAL AGENDA
-- V. CONSIDERATION FOR THE APPROVAL OF MINUTES
-- A. CONSIDERATION OF THE UNAPPROVED MINUTES OF AUGUST 11, 2026
-- A. PUBLIC HEARING AND CONSIDERATION OF SE 26-10 A REQUEST FOR SPECIAL
-- BLUEFIELD ROAD WITHIN AN RN ZONING DISTRICT
-- B. PUBLIC HEARING AND CONSIDERATION OF SE 26-11, A REQUEST FOR SPECIAL
-- ALLOWED WITHIN A PROPOSED MULTI-DWELLING RESIDENTIAL DEVELOPMENT
-- NEAR THE INTERSECTION OF PAT STATION ROAD AND HIGHWAY 12 EAST IN A C
-- ZONING DISTRICT
-- C. PUBLIC HEARING AND CONSIDERATION OF SE 26-12 A REQUEST FOR SPECIAL
-- EXCEPTION TO ALLOW FOR A REDUCTION IN THE MINIMUM PARKING
-- REQUIREMENTS FOR A PROPOSED HOTEL DEVELOPMENT ON THE EAST SIDE OF
-- MILL STREET DIRECTLY EAST OF THE COTTON MILL ROAD INTERSECTION IN A C
-- D. PUBLIC HEARING AND CONSIDERATION OF SE 26-13 A REQUEST FOR SPECIAL
-- CIRCLE WITHIN A SD-6 ZONING DISTRICT
-- E. DISCUSSION AND CONSIDERATION OF ELECTION OF A VICE CHAIR TO FINISH A
-- VACATED TERM EXPIRING ON JULY 2027
-- APPROVED MINUTES OF THE MEETING OF
-- THE PLANNING AND ZONING COMMISSION
-- Be it remembered that the Planning and Zoning Commission members of the
-- Courtroom of City Hall, located at 110 West Main Street, Starkville, Mississippi
-- Alexis Gregory, Ward 5; Joe Fratesi, Ward 1; Vicki West, Ward 2; Kelly Prather,
+- CONSIDERATION OF THE OFFICIAL AGENDAIV
+- CONSIDERATION FOR THE APPROVAL OF MINUTESV
+- A. CONSIDERATION OF THE UNAPPROVED MINUTES OF AUGUST 11,2026
+- Be it remembered that the Planning and Zoning Commission members of the City
+- City Hall, located at 110 West Main Street, Starkville, Mississippi
+- Physically present at the opening were Joe Fratesi, Ward 1; Vicki West, Ward 2;
 - There came for consideration the matter of approval of the Official Agenda of
-- the Planning and Zoning Commission of August 11, 2026
+- the Planning and Zoning Commission of October 13, 2026, as presented
+- PLANNING & ZONING COMMISSION
 - 110 WEST MAIN STREET AT 5:30 P.M
-- A. CONSIDERATION OF THE UNAPPROVED MINUTES OF JUNE 9, 2026
-- A. DISCUSSION AND CONSIDERATION OF PP 26 -01 A REQUEST FOR APPROVAL OF A
-- PHASED PRELIMINARY PLAT FOR “STERLING RIDGE” AT SOUTHWEST CORNER OF THE
-- INTERSECTION OF MOCKINGBIRD ROAD AND MS HWY 182 IN A TN -N ZONING
-- B. PUBLIC HEARING AND CONSIDERATION OF SE 26 -08 A REQUEST FOR THE USE OF A
-- “DATA CENTER- CRYPTO CURRENCY GENERATION FACILITY” LOCATED ON THE EAST
-- SIDE OF THE INDUSTRIAL PARK ROAD APPROXIMATELY 350 FEET SOUTH OF THE MILEY
-- ROAD INTERSECTION IN AN INDUSTRIAL ZONING DISTRICT
-- C. PUBLIC HEARING AND CONSIDERATION OF SE 26 -09 A REQUEST UNDER UDC
-- SOUTH MONTGOMERY STREET, SUITE C
-- After discussion and upon the motion of Commissioner Gregory, duly seconded
-- by Commissioner West, the motion to approve the official agenda with New
-- unanimous approval
-- by Commissioner West, the motion to approve the June 9, 2026 minutes without
-- corrections received unanimous approval
-- A. PUBLIC HEARING AND CONSIDERATION OF SE 26-08 A REQUEST
-- FOR THE USE OF A “DATA CENTER- CRYPTO CURRENCY
-- INDUSTRIAL PARK ROAD APPROXIMATELY 350 FEET SOUTH OF THE
+- THE PLANNING AND ZONING COMMISSION
+- V. CONSIDERATION FOR THE APPROVAL OF MINUTES
+- A. CONSIDERATION OF THE UNAPPROVED MINUTES OF AUGUST 11, 2026
+- Commissioner West, the motion to approve the official agenda without changes
+- received unanimous approval by a vote of 5-0. Commissioner Gregory was
+- Commissioner Smith, the motion to approve the August 11, 2026 minutes without
+- corrections received unanimous approval by a vote of 5-0. Commissioner
+- C. PUBLIC HEARING AND CONSIDERATION OF SE 26-12 A REQUEST FOR
+- PARKING REQUIREMENTS FOR A PROPOSED HOTEL DEVELOPMENT ON THE
+- EAST SIDE OF MILL STREET DIRECTLY EAST OF THE COTTON MILL ROAD
+- INTERSECTION IN A C ZONING DISTRICT
+- E. DISCUSSION AND CONSIDERATION OF ELECTION OF A VICE CHAIR TO
+- FINISH A VACATED TERM EXPIRING ON JULY 2027
+- B. PUBLIC HEARING AND CONSIDERATION OF SE 26-11, A REQUEST FOR
+- RESIDENTIAL DEVELOPMENT NEAR THE INTERSECTION OF PAT STATION ROAD
+- AND HIGHWAY 12 EAST IN A C ZONING DISTRICT
+- D. PUBLIC HEARING AND CONSIDERATION OF SE 26-13 A REQUEST FOR
+- 104 CURTIS CIRCLE WITHIN A SD-6 ZONING DISTRICT
+- A. PUBLIC HEARING AND CONSIDERATION OF SE 26-10 A REQUEST FOR
+- WEST OF 1487 BLUEFIELD ROAD WITHIN AN RN ZONING DISTRICT
+- Staff recommends approval of SE 26-10, subject to applicable UDC requirements
+- and verification of site development and utility requirements during permitting
+- A. PUBLIC HEARING AND CONSIDERATION OF SE 26-10 A REQUEST
+- DIRECTLY WEST OF 1487 BLUEFIELD ROAD WITHIN AN RN ZONING
+- City Planner Daniel Havelin presented a request by Rodney Pope for a Special
+- Exception to place one manufactured home directly west of 1487 Bluefield Road
+- 790 square feet. Section 13.3 requires Special Exception review for this request
+- setback. Section 13.5.8 requires one parking space per bedroom and
+- Staff Analysis of the Review and Approval Criteria for a Special Exception
+- traffic or an undue hazard on Bluefield Road
+- Public services: City water and sewer and 4-County electricity are
 
-## [starkville#15] 2026-10-16 | Board of Aldermen | agenda
+## [starkville#11] 2026-10-16 | Board of Aldermen | agenda
 - GOLDEN TRIANGLE PLANNING AND DEVELOPMENT ON THE CDBG PROJECT
 - FOR THE PROVISION OF SEWER FOR THE HENDERSON ROAD AND SAND ROAD
 - III. DISCUSSION OF THE AGENDA ITEMS FOR THE OCTOBER 20, 2026, MEETING OF
 - Nance, at (662) 323-2525, ext 3156 at least forty-eight (48) hours in advance for any services requested
 
-## [starkville#16] 2026-10-20 | Board of Aldermen | agenda
+## [starkville#12] 2026-10-20 | Board of Aldermen | agenda
 - Police Chief
 - 110 WEST MAIN STREET
 - III. APPROVAL OF THE OFFICIAL AGENDA INCLUDING CONSENTED ITEMS
@@ -548,7 +450,7 @@
 - IMPROVEMENTS PROJECT FOR FINAL QUANTITY ADJUSTMENTS
 - 4. REQUEST AUTHORIZATION TO ADVERTISE FOR BABA COMPLIANT
 
-## [starkville#17] 2026-10-20 | Board of Aldermen | agenda
+## [starkville#13] 2026-10-20 | Board of Aldermen | agenda
 - Police Chief
 - 110 WEST MAIN STREET
 - III. APPROVAL OF THE OFFICIAL AGENDA INCLUDING CONSENTED ITEMS
@@ -596,11 +498,11 @@
 - IMPROVEMENTS PROJECT FOR FINAL QUANTITY ADJUSTMENTS
 - 4. REQUEST AUTHORIZATION TO ADVERTISE FOR BABA COMPLIANT
 
-## [starkville#18] 2026-10-30 | Board of Aldermen | agenda
+## [starkville#14] 2026-10-30 | Board of Aldermen | agenda
 - III. DISCUSSION OF THE AGENDA ITEMS FOR THE NOVEMBER 3, 2026, MEETING OF
 - Nance, at (662) 323-2525, ext 3156 at least forty-eight (48) hours in advance for any services requested
 
-## [starkville#19] 2026-11-03 | Board of Aldermen | agenda
+## [starkville#15] 2026-11-03 | Board of Aldermen | agenda
 - Police Chief
 - 110 WEST MAIN STREET
 - III. APPROVAL OF THE OFFICIAL AGENDA INCLUDING CONSENTED ITEMS
@@ -648,7 +550,7 @@
 - 1. DISCUSSION AND CONSIDERATION OF VA 26-07 A REQUEST FOR A
 - VARIANCE FROM BUILDING HEIGHT AND SE 26-11 A REQUEST FOR
 
-## [starkville#20] 2026-11-03 | Board of Aldermen | agenda
+## [starkville#16] 2026-11-03 | Board of Aldermen | agenda
 - Police Chief
 - 110 WEST MAIN STREET
 - III. APPROVAL OF THE OFFICIAL AGENDA INCLUDING CONSENTED ITEMS
@@ -695,3 +597,62 @@
 - B. COMMUNITY DEVELOPMENT AND PLANNING DEPARTMENT
 - 1. DISCUSSION AND CONSIDERATION OF VA 26-07 A REQUEST FOR A
 - VARIANCE FROM BUILDING HEIGHT AND SE 26-11 A REQUEST FOR
+
+## [starkville#17] 2026-11-10 | Planning / Zoning Commission | agenda
+- PLANNING & ZONING COMMISSION
+- 110 WEST MAIN STREET AT 5:30 PM
+- IV. CONSIDERATION OF THE OFFICIAL AGENDA
+- V. CONSIDERATION FOR THE APPROVAL OF MINUTES
+- A. CONSIDERATION OF THE UNAPPROVED MINUTES OF OCTOBER 13, 2026
+- A. PUBLIC HEARING AND CONSIDERATION OF RZ 26-02 A REQUEST REZONE AN
+- B. PUBLIC HEARING AND CONSIDERATION OF SE 26-13 A REQUEST FOR SPECIAL
+- EXCEPTION TO ALLOW FOR A TOWNHOUSE DEVELOPMENT ON A VACANT LOT
+
+## [starkville#18] 2026-11-10 | Planning / Zoning Commission | agenda
+- PLANNING & ZONING COMMISSION
+- 110 WEST MAIN STREET AT 5:30 PM
+- IV. CONSIDERATION OF THE OFFICIAL AGENDA
+- V. CONSIDERATION FOR THE APPROVAL OF MINUTES
+- A. CONSIDERATION OF THE UNAPPROVED MINUTES OF OCTOBER 13, 2026
+- A. PUBLIC HEARING AND CONSIDERATION OF RZ 26-02 A REQUEST REZONE AN
+- B. PUBLIC HEARING AND CONSIDERATION OF SE 26-13 A REQUEST FOR SPECIAL
+- EXCEPTION TO ALLOW FOR A TOWNHOUSE DEVELOPMENT ON A VACANT LOT
+- THE PLANNING AND ZONING COMMISSION
+- Be it remembered that the Planning and Zoning Commission members of the City
+- City Hall, located at 110 West Main Street, Starkville, Mississippi
+- Physically present at the opening were Joe Fratesi, Ward 1; Vicki West, Ward 2;
+- There came for consideration the matter of approval of the Official Agenda of
+- the Planning and Zoning Commission of October 13, 2026, as presented
+- 110 WEST MAIN STREET AT 5:30 P.M
+- A. CONSIDERATION OF THE UNAPPROVED MINUTES OF AUGUST 11, 2026
+- A. PUBLIC HEARING AND CONSIDERATION OF SE 26-10 A REQUEST FOR
+- WEST OF 1487 BLUEFIELD ROAD WITHIN AN RN ZONING DISTRICT
+- B. PUBLIC HEARING AND CONSIDERATION OF SE 26-11, A REQUEST FOR
+- RESIDENTIAL DEVELOPMENT NEAR THE INTERSECTION OF PAT STATION ROAD
+- AND HIGHWAY 12 EAST IN A C ZONING DISTRICT
+- C. PUBLIC HEARING AND CONSIDERATION OF SE 26-12 A REQUEST FOR
+- PARKING REQUIREMENTS FOR A PROPOSED HOTEL DEVELOPMENT ON THE
+- EAST SIDE OF MILL STREET DIRECTLY EAST OF THE COTTON MILL ROAD
+- INTERSECTION IN A C ZONING DISTRICT
+- D. PUBLIC HEARING AND CONSIDERATION OF SE 26-13 A REQUEST FOR
+- 104 CURTIS CIRCLE WITHIN A SD-6 ZONING DISTRICT
+- E. DISCUSSION AND CONSIDERATION OF ELECTION OF A VICE CHAIR TO
+- FINISH A VACATED TERM EXPIRING ON JULY 2027
+- Commissioner West, the motion to approve the official agenda without changes
+- received unanimous approval by a vote of 5 -0. Commissioner Gregory was
+- Commissioner Smith, the motion to approve the August 11, 2026 minutes without
+- corrections received unanimous approval by a vote of 5 -0. Commissioner
+- A. PUBLIC HEARING AND CONSIDERATION OF SE 26-10 A REQUEST
+- DIRECTLY WEST OF 1487 BLUEFIELD ROAD WITHIN AN RN ZONING
+- City Planner Daniel Havelin presented a request by Rodney Pope for a Special
+- Exception to place one manufactured home directly west of 1487 Bluefield Road
+- 790 square feet. Section 13.3 requires Special Exception review for this request
+- setback. Section 13.5.8 requires one parking space per bedroom and
+- Staff Analysis of the Review and Approval Criteria for a Special Exception
+- traffic or an undue hazard on Bluefield Road
+- Public services: City water and sewer and 4 -County electricity are
+
+## [starkville#19] 2026-11-13 | Board of Aldermen | agenda
+- II. INTRODUCTION AND PRESENTATION OF MR. JARVIS BOYD AND THE
+- III. DISCUSSION OF THE AGENDA ITEMS FOR THE NOVEMBER 17, 2026, MEETING OF
+- Nance, at (662) 323-2525, ext 3156 at least forty-eight (48) hours in advance for any services requested

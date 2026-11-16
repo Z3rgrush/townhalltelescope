@@ -13,14 +13,14 @@ Meeting ID: 852 1916 6908
 Phone: 1.719.359.4580 
  
  
-A. 2 :00pm – Work Session/Training 
+A. 2:00pm – Work Session/Training 
 The Planning Commission will conduct a work session to continue their review of possible updates 
 to the Land Use Code, Section 2 – Definitions. 
 B. 3:30 Open Regular Meeting 
 a. Old Business 
 b. New Business 
 • Google Calendar 
-C. 4 :00pm – Adjourn  
+C. 4:00pm – Adjourn  
  
 MEMO 
   
@@ -28,7 +28,7 @@ TO:              Planning Commission
 FROM:        Planning Director 
 DATE:         Sept. 30,, 2026 
 SUBJ:         October 7 Work Session: LUC Section 2 
-LOCATION: 4- H Event Center (2nd Floor – Upper Room) 
+LOCATION: 4-H Event Center (2nd Floor – Upper Room) 
 ____________________________________________________________________________ 
 The attached packet is in preparation for our upcoming October 7, 2:00 – 4:00pm work session 
 regarding possible revisions to the Land Use Code, Section 2 – Definitions. The attached draft 
@@ -63,7 +63,7 @@ of occupancy , subordinate to the primary dwelling unit on a property, and subje
 following conditions:  
 A. Parcels less than 3 -acres in size may include an ADU with a maximum size of 
 800 square feet and must be located within 100-feet of the primary dwelling unit.  
-B. Parcels 3-acres or more in size may include an ADU, with a maximum size of 
+B. Parcels 3 -acres or more in size may include an ADU, with a maximum size of 
 1200 1350 square feet and must be located within  300 feet of the primary 
 dwelling unit. 
 C. For parcels 35 -acres or greater in size that have current, verified  agricultural 
@@ -91,7 +91,7 @@ Section 2 – Definitions: Draft Revisions
 Page 2 of 7 
  
 I. The square footage allowance for ADU ’s shall be  calculated based upon the 
-proposed structures conditioned space  (as defined in the currently adopted 
+proposed structures conditioned space (as defined in the currently adopted 
 building code(s)) and does not include  attached ga rages. Any proposed loft area 
 shall be included as part of the overall allowable square footage. 
  
@@ -100,7 +100,7 @@ containing two individual dwelling units , or a duplex, constructed on a legal, 
 parcel. Only one AD LRU per lot or parcel  that is at least 3 -acres in size. Ownership of 
 ADLRU may not be severed or transferred into fee- simple ownership and must be rented 
 to a verified income- qualified renter for at least 9  months per calendar year. Accessory 
-dwelling long -term rental units (ADLRUs) constructed as part of a duplex are exempted 
+dwelling long-term rental units (ADLRUs) constructed as part of a duplex are exempted 
 from Sections 15.5C, 15.5D, and 15.5E of this Code (County Road St andards), as may be 
 amended. ADLRU’s may be one of the following implementations: 
  
@@ -127,7 +127,7 @@ as a bathroom, bedroom, or office , are proposed  on parcels of 35 -acres or gre
 are not within a subdivision or PUD . P arcels proposed for such structures must have 
 current agricultural status as determined by the Ouray County Assessor’s Office. 
  
-AVERAGE DAILY TRIP  ( ADT). One vehicle entering  and exiting a property  (ie. round 
+AVERAGE DAILY TRIP  (ADT). One vehicle entering  and exiting a property  (ie. round 
 trip), business, or residence equals one (1) Average Daily Trip or ADT. Note: This definition 
 applies to Sections XX of this Code and  is not  an ADT or ‘Average Daily Traf fic’ as 
 referenced in the Road Standards section of this Code. 
@@ -192,7 +192,7 @@ DWELLING, SINGLE FAMILY.  A d welling situate d on  one (1) lot and arranged,
 designed or intended for occupa ncy by not more than one (1) F amily in compliance w ith 
 the County building code. The dwelling must function as a continuous enclosure without 
 any impassable separation such as a wall or floor. D welling spaces j oined by a garage or 
-breezeway  may be considered by the building official  to be separate dwel lings based upon 
+breezeway  may be considered by the building official to be separate dwel lings based upon 
 current adopted building code(s). 
  
 DUPLEX. A multi -family dwelling containing exactly two individual dwelling u nits, not 
@@ -215,7 +215,7 @@ night or  week to paying customers, and providing on- site meals, which offers a
 associated with western ranching and agriculture to guests as part of the ac commodations 
 package.  Such activities may include but are not limited to horseback riding, livestoc k 
 management, roping and other activities typically involved in running a working ranch.  The 
-facility shall be principally a working ranch, whose primary purpose is agriculture with the intent 
+facility shall be principally a working ranch, whose primary purpose is agriculture with the intent  
 to produce income. A guest ranch shall include a minimum of 150 contiguous acres of privately 
 owned land. Keep or delete??? 
  
@@ -272,7 +272,7 @@ INDIVIDUAL RENTAL SLEEPING UNIT. As referenced in the definition for ‘Bed a nd
 Breakfast’ in this Code section , an Individual Rental Sleeping Unit is a single walled space 
 within a building that has received a Certificate of O ccupancy ( “CO”), and is intended for 
 overnight sleeping and limited to a maxi mum occupancy of  no more tha n f our (4) 
-individuals. The dwelling unit containing the ‘individual rental sleepi ng units’ must meet 
+individuals. The d welling unit containing the ‘individual rental sleepi ng units’ must meet 
 all currently adopted building codes and have a valid Certificate of Occupancy. 
  
 PRIMARY DWELLING UNIT. The first dwelling unit to receive a Certificate of Occupancy 
@@ -303,7 +303,7 @@ SPECIAL EVENT. Any temporary major event or gathering, including one -time, annu
 or semi-annual events that  may be organize d by third parties, i nvolving the use of land, 
 buildings, or infrastructure within Ouray County for a period of one (1) month or less in 
 any given calendar year. Events that involve any gathering(s) in excess of 400% of 
-occupancy and/or sep tic limits for a ny building, structur e, or parcel, for four (4) hours or 
+occupancy and/or sep tic limits for a ny building, structure, or parcel, for four (4) hours or 
 more, or events that expect to involve one hundred  (100) or more attendees, or events that 
 significantly impact public lands and/or public infrastructur e, as d etermined within the 
 reasonable discretion of Land Use Staff or other County Staff, shall be presumed to be a 
@@ -322,7 +322,7 @@ F.  Use may include  food trucks, holiday tree sales lots, pumpkin stands, and/o
 other similar or seasonal use s, excluding commercial outdoor recreational 
 activities which may require a separate type of permitting. 
  
-TRADE CREDI T ( as referenced  in the High Alpine section of this C ode). A development 
+TRADE CREDI T (as referenced  in the High Alpine section of this C ode). A development 
 right that may be transferred from one patented mining claim or pa tented m ill site to 
 another patented mining claim or patented mill site  in the High Alpine  Zone. A Trade 
 Credit is equiva lent to the tota l acreage of the ‘sending parcel ,’ e.g., a Trade Credit 
@@ -338,7 +338,7 @@ PC DRAFT – 091626
 Section 2 – Definitions: Draft Revisions 
 Page 7 of 7 
  
-bought or sold. Any transfer of Trade Credits shall be recorded by  the property owner or 
+bought or sold. Any transfer of T rade Credits shall be recorded by  the property owner or 
 owners on both the donating and receiving parcels ( patented mining claim or patented mill 
 site) prior to the issuance of any building permit  requiring the use of T rade Credits. The 
 use of Trade Credits is further defined in the High Alpine section of this Code. 
@@ -387,11 +387,11 @@ of occupancy , subordinate to the primary dwelling unit on a property, and subje
 following conditions:  
 A. Parcels less than 3 -acres in size may include an ADU with a maximum size of 
 800 square feet and must be located within 100-feet of the primary dwelling unit.  
-B. Parcels 3-acres or more in size may include an ADU, with a maximum size of 
+B. Parcels 3 -acres or more in size may include an ADU, with a maximum size of 
 1350 square feet and must be located within 300 feet of the primary dwelling unit. 
 C. For parcels 35 -acres or greater in size that have current, verified  agricultural 
 status with the Ouray County Assessor, U nits for E mployees are allowed a 
-maximum of  2500 square feet.  Any additional dwelling units  (ADU or Unit for 
+maximum of  2500 square feet.  Any additional dwelling units  (ADU or Unit  for 
 Employees) shall not exceed a density of one ADU per 35 -acres. For this use, the 
 term “ Units for E mployees” shall mean an ADU on a parcel, with agricultural 
 status that may be occupied solely by a current employee or employees, and t heir 
@@ -412,7 +412,7 @@ Section 2 – Definitions: Draft Revisions
 Page 2 of 7 
  
 I. The square footage allowance for ADU ’s shall be  calculated based upon the 
-proposed structures conditioned space  (as defined in the currently adopted 
+proposed structures conditioned space (as defined in the currently adopted 
 building code(s)) and does not include  attached ga rages. Any proposed loft area 
 shall be included as part of the overall allowable square footage. 
  
@@ -421,7 +421,7 @@ containing two individual dwelling units, or a duplex, constructed on a legal, c
 Only one ADLRU per lot or parcel that is at least 3-acres in size. Ownership of ADLRU may not 
 be severed or transferred into fee -simple ownership and must be rented to a verified income -
 qualified renter for at least 9  months per calendar year. Access ory dwelling long- term rental 
-units (ADLRUs) constructed as part of a duplex are exempted from Sections 15.5C, 15.5D, and 
+units (ADLRUs) constru cted as part of a duplex are exempted from Sections 15.5C, 15.5D, and 
 15.5E of this Code (County Road Standards), as may be amended. ADLRU’s may be one of the 
 following implementations: 
  
@@ -446,7 +446,7 @@ AGRICULTURAL STRUCTURE. For the purposes of applying for an ‘Agricultural
 Exemption Permit’, the term Agricultural Str ucture shall mean a structure or greenhouse used 
 exclusively for agricultural purposes that do not require other functional rooms s uch as a 
 bathroom, bedroom, or office , are proposed  on parcels of 35 -acres or greater in size, are not 
-within a subdivision or PUD. Parcels proposed for such structures must have current agricultural 
+within a subdivision or PUD . Parcels proposed for such structures must have current agricultural 
 status as determined by the Ouray County Assessor’s Office. 
  
 AVERAGE DAILY TRIP (ADT). One vehicle entering and exiting a property (ie. round trip), 
@@ -463,7 +463,7 @@ Page 3 of 7
 BED AND BREAKFAST.  A Bed and Breakfast operation requires a minimum of 5 contiguous 
 acres and is  defined as a business within a dwelling unit  containing no more than four (4) 
 individual rental sleeping units  within a single structure (ie. no guest cabins) , which offers  a 
-minimum of one meal per day in connection with such lodging and which is designed for short -
+minimum of one meal per day  in connection with such lodging and which is designed for short -
 term rental to tourists and transients. Dwellings used and permitted as a Bed & Breakfast must be 
 owner occupied. Maximum occupancy for any Bed and Breakfast shall not exceed 20 persons. 
  
@@ -487,7 +487,7 @@ gymkhanas, training clinics, team roping and rodeos.
 COMMERCIAL OUTDOOR RECREAT ION.  Commercial use of a site for a fee, for which 
 involves daytime outdoor recreational activities, that may include but shall not be limited to: (1) 
 short-term overnight stay(s) in temporary structures (ex. tent, yurt, teepee, RV, etc.)  which shall 
-not exceed two ( 2) nights, with proper septic ; and also hiking, climbing, cross -country skiing, 
+not exceed two ( 2) nights, with proper septic ; and also  hiking, climbing, cross -country skiing, 
 backcountry skiing or snowboarding, via feratta, motorized vehicle rental, horseback riding, and 
 other activities of a similar nature . A ‘Commercial Outdoor Recreation’ Special Use Permit may 
 be applied for in conjunction with other related Special Use Permits  (ex. Guest Lodge, Event 
@@ -512,7 +512,7 @@ Section 2 – Definitions: Draft Revisions
 Page 4 of 7 
 building code. The dwelling must function as a continuous enclosure without any impassable 
 separation such as a w all or floor. D welling spaces j oined by a garage or breezew ay  may be  
-considered by the building official to be separate dwellings based upon current adopted building 
+considered by the building official to be separate dwel lings based upon current adopted building 
 code(s). 
  
 DUPLEX. A multi- family dwelling containing exactly two individual dwelling units, not 
@@ -535,7 +535,7 @@ night or  week to paying customers, and providing on- site meals, which offers a
 associated with western ranching and agriculture to guests as part of the ac commodations 
 package.  Such activities may include but are not limited to horseback riding, livestoc k 
 management, roping and other activities typically involved in running a working ranch.  The 
-facility shall be principally a working ranch, whose primary purpose is agriculture with the intent 
+facility shall be principally a working ranch, whose primary purpose is agriculture with the intent  
 to produce income. A guest ranch shall include a minimum of 150 contiguous acres of privately 
 owned land. Keep or delete??? 
  
@@ -590,7 +590,7 @@ proposed assembly shall be justifiably considered “ignition resistant”.
  
 INDIVIDUAL RENTAL SLEEPING UNIT. As referenced in the definition for ‘Bed a nd 
 Breakfast’ in this Code section, a n Individual Rental Sleeping Unit  is a  single walled space 
-within a  building  that has received a Certificate of O ccupancy ( “CO”), and is  intended for 
+within a  building that has received a Certificate of O ccupancy ( “CO”), and is  intended for 
 overnight sleeping and limited to a maximum occupancy of no more than four (4) individuals. 
 The d welling u nit containing the ‘individual rental sleepi ng units’  must meet all c urrently 
 adopted building codes and have a valid Certificate of Occupancy. 
@@ -727,7 +727,7 @@ presented sooner rather than later so that the effects of the revised definition
 Specific Comments: 
  
 Accessory Dwelling Long- Term Rental Unit (ADLRU). This would allow a  duplex “structure” 
-containing two dwelling units. The “ structure” cannot exceed 2000 square feet and can contain 1 to 3 
+containing two dwelling units. The “structure” cannot exceed 2000 square feet and can contain 1 to 3 
 bedrooms. Shouldn’t it read “ each dwelling unit” can contain 1 to 3 bedrooms? It can’ t be a duplex if 
 the “structure” contains only one bedroom since there would only be one dwelling unit, not two. 
 Relatedly, is it your intent  that the entire structure –  or each dwelling unit -  not exceed 2000 square 

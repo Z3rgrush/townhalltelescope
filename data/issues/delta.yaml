@@ -1,103 +1,86 @@
-- title: 'Massano rezone (Ordinance #7, 2026)'
-  summary: 'Council took up Ordinance #7, 2026, a rezone for the Massano property, on second and final reading on Aug. 4. The agenda provided for staff and applicant presentations and public comment. The documents do not state the outcome.'
-  refs:
-  - 0
-  topics:
-  - Zoning & development
-- title: 'Unified Development Code (Ordinance #9, 2026)'
-  summary: 'Ordinance #9, 2026, which covers the Unified Development Code, came to Council on first reading on Aug. 4. It returned as a discussion item on Oct. 6.'
+- title: 2027 budget, TABOR projections and capital plan
+  summary: Council reviewed historical budget trends, a 2026 financial update, TABOR projections and a 5-year Capital Improvement Plan, then held 2027 budget discussions in October. The agendas do not state any decisions.
   where: Citywide
   refs:
-  - 0
-  - 12
+  - 1
+  - 6
+  - 7
+  - 8
+  - 10
+  - 13
+  - 14
   topics:
-  - Zoning & development
+  - Budget & taxes
   - Government operations
-- title: Homelessness grant and Unhoused Task Force
-  summary: 'Council considered Resolution #15, 2026 for a homelessness resolution program grant on Aug. 4. On Sept. 15 it appointed Carrie Boyd to the Unhoused Task Force, which met on Oct. 7 at the Police Department with public comment on its agenda.'
+- title: South Main Street Gateway traffic and Main Street discussions
+  summary: Council scheduled a South Main Street Gateway traffic conversation in September and a Main Street discussion on October 13. The agendas give no details of outcomes.
+  where: South Main Street
+  refs:
+  - 6
+  - 7
+  - 13
+  topics:
+  - Roads & traffic
+  - Downtown & business
+- title: Unhoused Task Force
+  summary: Council considered appointing Carrie Boyd to the Unhoused Task Force, which met October 7 at the Delta Police Department with a public comment period.
   where: Delta Police Department
   refs:
-  - 0
-  - 7
-  - 14
+  - 5
+  - 12
   topics:
   - Homelessness
   - Health & human services
   public_comment: true
-- title: Housing role, 7th Street property and Proposition 123
-  summary: 'Council discussed the city''s role in housing and the 7th Street property with Proposition 123 grant funding on Aug. 4. It scheduled Resolution #20, 2026 on Proposition 123 for Oct. 20, with public comment.'
-  where: 7th Street property
+- title: Proposition 123 resolution
+  summary: 'Council took up Resolution #20, 2026 on Proposition 123 (affordable housing funding) on October 20, with staff report and public comment slots on the agenda.'
+  where: Citywide
   refs:
-  - 1
-  - 17
+  - 15
   topics:
   - Housing
-  - Land & property
   public_comment: true
-- title: Data centers discussion
-  summary: Council set aside time on Aug. 4 to discuss data centers. No packet materials were provided.
+- title: Unified Development Code and DOLA planning grant
+  summary: Council discussed the Unified Development Code on October 6 and a Comprehensive Elements DOLA grant on October 20.
   where: Citywide
   refs:
-  - 1
-  topics:
-  - Data centers
-  tags:
-  - data-center
-- title: 2027 budget, TABOR projections and capital plan
-  summary: Council reviewed historical budget trends in August, a 2026 financial update in September, TABOR projections and the 5-year Capital Improvement Plan on Sept. 29. It held 2027 budget discussions on Oct. 6, 13 and 20.
-  where: Citywide
-  refs:
-  - 3
-  - 8
-  - 9
   - 10
-  - 12
-  - 15
-  - 16
+  - 14
   topics:
-  - Budget & taxes
-- title: South Main Street gateway traffic and Main Street discussion
-  summary: Council scheduled a South Main Street Gateway traffic conversation for Sept. 15 and Sept. 22, and a Main Street discussion on Oct. 13.
-  where: South Main Street
-  refs:
-  - 8
-  - 9
-  - 15
-  topics:
-  - Roads & traffic
-  - Downtown & business
-- title: 'Litter and junk code amendments (Ordinance #8)'
-  summary: 'Council considered Ordinance #8, 2026, amending litter and junk codes, on second reading on Aug. 4.'
-  where: Citywide
+  - Zoning & development
+  - Government operations
+- title: 'Subdivision approvals: Stone Mountain Filing 10, Quintana Minor, O''Connor extension'
+  summary: 'Council considered the Stone Mountain Filing No. 10 final plat (Resolution #17), the Quintana Minor Subdivision (Resolution #18) and an extension request for the O''Connor Subdivision. The Stone Mountain and Quintana items had public comment slots.'
+  where: Delta
   refs:
   - 0
+  - 5
+  - 11
   topics:
-  - Government operations
-  - Environment & climate
+  - Zoning & development
+  - Land & property
   public_comment: true
 - title: Water and wastewater projects
-  summary: On Oct. 6 Council was to accept construction of the wastewater treatment facility digester improvements. It was also to consider awarding the North Delta Waterline Project contract.
+  summary: 'Council considered awarding the North Delta Waterline Project contract and accepting construction of the wastewater treatment facility digester improvements (Resolution #19).'
   where: North Delta; wastewater treatment facility
   refs:
-  - 13
+  - 11
   topics:
   - Water
   - Utilities
-- title: 'Subdivision approvals: Stone Mountain, Quintana and O''Connor'
-  summary: Council considered the Stone Mountain Filing No. 10 final plat on Sept. 15, the Quintana Minor Subdivision on Oct. 6, and an O'Connor Subdivision extension request on Aug. 18.
-  refs:
-  - 2
-  - 7
-  - 13
-  topics:
-  - Zoning & development
-  - Land & property
-  public_comment: true
-- title: Comprehensive planning DOLA grant
-  summary: Council took up a DOLA grant for comprehensive plan elements on Oct. 20.
+- title: Mobile emergency generator purchase
+  summary: Council considered buying a mobile emergency generator on October 20, with public comment on the agenda.
   where: Citywide
   refs:
-  - 16
+  - 15
   topics:
-  - Zoning & development
+  - Fire & emergencies
+  - Utilities
+  public_comment: true
+- title: Riverbend Resource Center conference and office space
+  summary: Council considered an item on conference and office space at the Riverbend Resource Center on August 18.
+  where: Riverbend Resource Center
+  refs:
+  - 0
+  topics:
   - Government operations

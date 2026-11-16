@@ -1,47 +1,6 @@
 # aspen
 
-## [aspen#0] 2026-08-11 | CITY COUNCIL REGULAR MEETING | minutes
-- PUBLIC COMMENT:
-- also spoke about the historic properties surrounding Connor Park. They are in favor of renovating the
-- Armory but at present, the park provides a pleasant and quiet respite to the busy commercial core. The
-- generally supportive of the project, but they are worried about loud amplified music at the performance
-- deck. Please reconsider your approval for the park use. The city of Aspen has a long history of preserving
-- Francis Stuckens – Mr. Stuckens said he appreciates Connor Park too. Maybe we can do unplugged. He
-- see Mayor Richards at Climate Curve and repping the community and taking it seriously. He is grateful to
-- City Manager, Pete Strecker, said yesterday we kicked off the Cemetery Lane pedestrian improvement
-- project, which created a bottleneck with the commute this morning. There will be some impacts on the
-- Mayor Richards had NWCOG in retreat in El Jebel. She mentioned the wonderful golf staff and parks
-- department staff for the Mayors Cup last Sunday. The Wildfire Foundation is doing important work
-- The greens were in pretty good shape considering the weather
-- FIRST READING OF ORDINANCES:
-- Ordinance #17, Series of 2026 – Proposed Ordinances to Amend Charter to Change City of Aspen’s
-- City Attorney, Katharine Johnson, said you could move both ordinances to second reading and have
-- public hearings on both options so people can speak
-- Councilor Benedetti would like to see both moved forward to the public discussion
-- Mr. True said there isn’t a lot of downside to approving both ordinances at this point. Mr. True said City
-- Ms. Henning read the ordinances
-- PUBLIC HEARINGS:
-- Ordinance #14, Series of 2026 – C&D Debris Diversion Code Updates – Elisabeth Richards, Aaron Reed,
-- Ordinance #15 and #16, Series of 2026 – Establishing Term Limits for the Wheeler Advisory Board and
-- Ms. Johnson introduced the two ordinances and said it’s fairly straightforward
-- Mayor Richards opened and closed the public hearing
-- Ms. Johnson pointed out that the co-chair in Ordinance #16 is incorrect but that won’t preclude them
-- from approving this ordinance
-- Councilor Rose motioned to approve Ordinance #16, Series of 2026; Councilor Benedetti seconded. Roll
-- Resolution #102, Series of 2026 – Request for Demolition Allotment – 82 Northway Drive – Brianna
-- Dolbin and Ben Anderson, Community Development
-- Ms. Dolbin introduced the demolition allotment and said staff is requesting Council to grant a 2027
-- recommendation for approval
-- Councilor Benedetti motioned to approve; Councilor Rose seconded
-- to determine whether Community Development made the correct decision to originally deny it. You can
-
-## [aspen#2] 2026-08-17 | CITY COUNCIL WORK SESSION | agenda
-- Glenwood Springs South Bridge Project Update
-- Discussion on Policy Resolution #118 Series of 2025 regarding potential Land Use
-- Code Amendment on residential yard signs Section 26.510
-- Policy Resolution #118, Series of 2025.pdf
-
-## [aspen#3] 2026-08-19 | ASPEN PLANNING & ZONING COMMISSION | agenda
+## [aspen#0] 2026-08-19 | ASPEN PLANNING & ZONING COMMISSION | agenda
 - ASPEN PLANNING & ZONING
 - PUBLIC HEARINGS
 - P&Z Resolution #XX, Series of 2026 - Recommendation for Title 2 Fee Deferral
@@ -59,12 +18,12 @@
 - 13) Discussion between commissioners*
 - *Make sure the discussion and motion includes what criteria are met or not met
 
-## [aspen#5] 2026-08-24 | INFORMATION UPDATE | agenda
+## [aspen#2] 2026-08-24 | INFORMATION UPDATE | agenda
 - (amended August 24, 2026, in response to
 - Council’s request)
 - Information_Only_Entrance_to_Aspen_Amended_July_Update.pdf
 
-## [aspen#6] 2026-08-25 | CITY COUNCIL REGULAR MEETING | minutes
+## [aspen#3] 2026-08-25 | CITY COUNCIL REGULAR MEETING | minutes
 - PUBLIC COMMENT:
 - the sound stage in Conner Park. They have 500 or so weekly participants at the church and most seem of
 - the opinion that amplified sound would denigrate the Armory Hall redevelopment. It is our intention to
@@ -96,7 +55,7 @@
 - this has been discussed a great deal since the August 11th meeting, and we do not have a significant
 - presentation to make today. A runoff has significant issues that we have outlined in the memo. No one
 
-## [aspen#8] 2026-09-02 | ASPEN PLANNING & ZONING COMMISSION | agenda
+## [aspen#5] 2026-09-02 | ASPEN PLANNING & ZONING COMMISSION | agenda
 - ASPEN PLANNING & ZONING
 - PUBLIC HEARINGS
 - Resolution #__, Series of 2026_121 & 123 East Hyman Avenue_Special Review for
@@ -120,47 +79,23 @@
 - 13) Discussion between commissioners*
 - *Make sure the discussion and motion includes what criteria are met or not met
 
-## [aspen#9] 2026-09-08 | Joint City Council/BOCC Work Session | agenda
+## [aspen#6] 2026-09-08 | Joint City Council/BOCC Work Session | agenda
 - Aspen Fire Fuel Mitigation Update
 - Purchase of Twin Lakes Water Right Shares
 - Healthy Community Fund Tax Renewal
 
-## [aspen#10] 2026-09-10 | ASPEN HISTORIC PRESERVATION COMMISSION | agenda
-- PUBLIC COMMENTS
-- PROJECT MONITORING
-- CERTIFICATE OF NO NEGATIVE EFFECT ISSUED
-- SUBSTANTIAL AMENDMENT
-- Resolution #19, Series of 2026
-- 500 W. Francis St. – Request for a Certificate of Appropriateness for Major
-- Development Final Review
-- Draft HPC Resolution # 19, Series of 2026.pdf
-- Attachment A_Application.pdf
-- NEXT RESOLUTION NUMBER
-- TYPICAL PROCEEDING FORMAT FOR ALL PUBLIC HEARINGS
-- 2. Presentation of proof of legal notice (at beginning of agenda)
-- 3. Applicant presentation (10 minutes for minor development; 20 minutes for major
-- development)
-- 5. Staff presentation (5 minutes for minor development; 10 minutes for major
-- 7. Public comments (5 minutes total, or 3 minutes/ person or as determined by the Chair)
-- 8. Close public comment portion of hearing
-- End of fact finding. Chairperson identifies the issues to be discussed
-- re-start discussion of the case or the board’s direction. (20 minutes)
-- Please note that staff and/or the applicant must vacate the dais during the opposite
-- presentation and board question and clarification session. Both staff and applicant team
-- will vacate the dais during HPC deliberation unless invited by the chair to return
-
-## [aspen#11] 2026-09-14 | CITY COUNCIL WORK SESSION | agenda
+## [aspen#8] 2026-09-14 | CITY COUNCIL WORK SESSION | agenda
 - City Council Work Session, Affordable Housing Fee-in-Lieu 5-year Update
 - Golf Clubhouse Area Master Plan Update
 - Attachment B_Affordable Housing Fee-in-Lieu Study, Phase I.pdf
 - Attachment C_Affordable Housing Fee-in-Lieu Study, Phase II.pdf
 - Attachment A ~ Aspen Clubhouse & Campus Masterplan~Concept Design~2026-09
 
-## [aspen#12] 2026-09-14 | INFORMATION UPDATE | agenda
+## [aspen#9] 2026-09-14 | INFORMATION UPDATE | agenda
 - Regional Drought Response Partnership Utilizing Ruedi Reservoir Water Supplies
 - Final_InfoOnlyReport_WaterResources_20260914.docx
 
-## [aspen#13] 2026-09-15 | CITY COUNCIL REGULAR MEETING | agenda
+## [aspen#10] 2026-09-15 | CITY COUNCIL REGULAR MEETING | agenda
 - (Time for any citizen to address Council on issues NOT scheduled for a public hearing
 - Agenda Amendments c)
 - Resolution #106, Series of 2026 - Ruedi Governor and Controls - Electrical Drawings
@@ -187,7 +122,7 @@
 - positions relative to matters that may be subject to negotiations; developing strategy for
 - The specific item of discussion involves the following:
 
-## [aspen#14] 2026-09-22 | CITY COUNCIL WORK SESSION | agenda
+## [aspen#11] 2026-09-22 | CITY COUNCIL WORK SESSION | agenda
 - West Mountain Regional Housing Coalition Update
 - CO 82 Entrance to Aspen Reevaluation: Refined Preferred Alternative and Project
 - Parks and Open Space Strategic Plan Overview
@@ -195,7 +130,7 @@
 - STAFF REPORT Parks Strategic Plan.docx
 - Guiding Green Parks Strategic Plan.pdf
 
-## [aspen#15] 2026-09-23 | ASPEN HISTORIC PRESERVATION COMMISSION | agenda
+## [aspen#12] 2026-09-23 | ASPEN HISTORIC PRESERVATION COMMISSION | agenda
 - PUBLIC COMMENTS
 - PROJECT MONITORING
 - CERTIFICATE OF NO NEGATIVE EFFECT ISSUED
@@ -214,12 +149,12 @@
 - presentation and board question and clarification session. Both staff and applicant team
 - will vacate the dais during HPC deliberation unless invited by the chair to return
 
-## [aspen#16] 2026-09-28 | CITY COUNCIL WORK SESSION | agenda
+## [aspen#13] 2026-09-28 | CITY COUNCIL WORK SESSION | agenda
 - Development Staff Report
 - Natural_Resource_and_Forestry_Programs_Development.docx
 - STAFF REPORT -Request for Useful Public Service.docx
 
-## [aspen#17] 2026-09-28 | INFORMATION UPDATE | agenda
+## [aspen#14] 2026-09-28 | INFORMATION UPDATE | agenda
 - West End Mobility Improvement Project Status Update
 - Golf Clubhouse Area Master Plan Update - Follow-Up Report
 - West End Mobility Improvements Info Only Memo.docx
@@ -227,7 +162,7 @@
 - Golf Master Plan Follow-up Report.docx
 - 2026-0909_City of Aspen Golf Presentation (1).pptx
 
-## [aspen#18] 2026-09-29 | CITY COUNCIL REGULAR MEETING | agenda
+## [aspen#15] 2026-09-29 | CITY COUNCIL REGULAR MEETING | agenda
 - Swearing in of new Aspen Police Department officers Tina Thompson and Michael
 - Resolution #113, Series of 2026 - Appointment of the City’s Primary Representative
 - Resolution #117 Series of 2026 - Water Treatment Facility Improvements Project:
@@ -265,16 +200,16 @@
 - Resolution 116 - Reesolution in Support of 1A.doc
 - Appointment Memo.docx
 
-## [aspen#20] 2026-10-05 | CITY COUNCIL WORK SESSION | agenda
+## [aspen#17] 2026-10-05 | CITY COUNCIL WORK SESSION | agenda
 - Conversation with the Ruedi Water and Power Authority (RWAPA) Executive
 - Budget Kickoff and Fund Overviews
 - 2027 Budget Work Session 1 - Kick Off - Final.pdf
 
-## [aspen#21] 2026-10-06 | CITY COUNCIL WORK SESSION | agenda
+## [aspen#18] 2026-10-06 | CITY COUNCIL WORK SESSION | agenda
 - Budget Work Session Day Two: Capital Budget
 - 2027 Budget Work Session 2 - Capital - Final.pdf
 
-## [aspen#22] 2026-10-07 | ASPEN PLANNING & ZONING COMMISSION | agenda
+## [aspen#19] 2026-10-07 | ASPEN PLANNING & ZONING COMMISSION | agenda
 - ASPEN PLANNING & ZONING
 - PUBLIC HEARINGS
 - P&Z Resolution #XX, Series of 2026 - Recommendation for Affordable Housing Fee
@@ -293,10 +228,10 @@
 - 13) Discussion between commissioners*
 - *Make sure the discussion and motion includes what criteria are met or not met
 
-## [aspen#23] 2026-10-12 | ASPEN HISTORIC PRESERVATION COMMISSION | agenda
+## [aspen#20] 2026-10-12 | ASPEN HISTORIC PRESERVATION COMMISSION | agenda
 - Entrance To Aspen - HPC Mitigation Discussion
 
-## [aspen#24] 2026-10-14 | ASPEN HISTORIC PRESERVATION COMMISSION | agenda
+## [aspen#21] 2026-10-14 | ASPEN HISTORIC PRESERVATION COMMISSION | agenda
 - PUBLIC COMMENTS
 - PROJECT MONITORING
 - CERTIFICATE OF NO NEGATIVE EFFECT ISSUED
@@ -324,7 +259,7 @@
 - presentation and board question and clarification session. Both staff and applicant team
 - will vacate the dais during HPC deliberation unless invited by the chair to return
 
-## [aspen#25] 2026-10-19 | CITY COUNCIL WORK SESSION | agenda
+## [aspen#22] 2026-10-19 | CITY COUNCIL WORK SESSION | agenda
 - Armory Project Interior Update
 - Budget Work Session Day Three: Supplemental Requests and Fees
 - Work Session - Community Development Fee Update
@@ -333,7 +268,7 @@
 - Staff_Report_ComDev_Fees_WorkSession_10-19-26(1).docx
 - Exhibit A_DRAFT Consultant Report_ComDev Fees.docx
 
-## [aspen#26] 2026-10-21 | ASPEN PLANNING & ZONING COMMISSION | agenda
+## [aspen#23] 2026-10-21 | ASPEN PLANNING & ZONING COMMISSION | agenda
 - ASPEN PLANNING & ZONING
 - PUBLIC HEARINGS
 - Resolution #__, Series of 2026_121 & 123 East Hyman Avenue_Special Review for
@@ -357,14 +292,14 @@
 - 13) Discussion between commissioners*
 - *Make sure the discussion and motion includes what criteria are met or not met
 
-## [aspen#27] 2026-10-26 | INFORMATION UPDATE | agenda
+## [aspen#24] 2026-10-26 | INFORMATION UPDATE | agenda
 - Forthcoming Amendments to Short-term Rental (STR) Program Guidelines
 - Continued Stage Three Water Restrictions
 - Information-Only Report - Forthcoming Amendments to Short-term Rental (STR)
 - Attachment B - Resolution #137 Series of 2024.pdf
 - Attachment C - Ordinance #08, Series of 2025_Final.pdf
 
-## [aspen#28] 2026-10-26 | CITY COUNCIL WORK SESSION | agenda
+## [aspen#25] 2026-10-26 | CITY COUNCIL WORK SESSION | agenda
 - Conversation with the Ruedi Water and Power Authority (RWAPA) Executive
 - Budget Work Session Day Four: Open Items and Budget Wrap Up
 - ACRA: 2027 Budget
@@ -372,7 +307,7 @@
 - 2026-10 Presentation to Aspen City Council.docx
 - 2027 Budget Work Session 4 - Wrap up.pdf
 
-## [aspen#29] 2026-10-27 | CITY COUNCIL REGULAR MEETING | agenda
+## [aspen#26] 2026-10-27 | CITY COUNCIL REGULAR MEETING | agenda
 - (Time for any citizen to address Council on issues NOT scheduled for a public hearing
 - Agenda Amendments c)
 - Resolution #126, Series of 2026 - Lotus Engineering & Sustainability LLC
@@ -402,7 +337,7 @@
 - to matters that may be subject to negotiations; developing strategy for negotiations, and instructing
 - The specific items of discussion involve the following:
 
-## [aspen#30] 2026-11-02 | CITY COUNCIL WORK SESSION | agenda
+## [aspen#27] 2026-11-02 | CITY COUNCIL WORK SESSION | agenda
 - Water Usage During Special Events
 - Marolt Housing - AMFS Collaboration and Redevelopment Concepts
 - 2026 October Information Only Report - Snow Polo Request.docx
@@ -410,7 +345,7 @@
 - Exhibit A - Council WS Slides - Marolt Redevelopment Study.pdf
 - Exhibit A - Presentation Slides.pdf
 
-## [aspen#31] 2026-11-04 | ASPEN PLANNING & ZONING COMMISSION | agenda
+## [aspen#28] 2026-11-04 | ASPEN PLANNING & ZONING COMMISSION | agenda
 - ASPEN PLANNING & ZONING
 - PUBLIC HEARINGS
 - Review_Resolution #__, Series of 2026
@@ -428,3 +363,85 @@
 - 12) Chairperson identified the issues to be discussed among commissioners
 - 13) Discussion between commissioners*
 - *Make sure the discussion and motion includes what criteria are met or not met
+
+## [aspen#31] 2026-11-10 | CITY COUNCIL REGULAR MEETING | agenda
+- (Time for any citizen to address Council on issues NOT scheduled for a public hearing
+- Agenda Amendments c)
+- Resolution #134, Series of 2026 - Accepting a Housing Planning Grant Program
+- Resolution #135, Series of 2026 - Easement Agreement Black Hills Energy, Marolt
+- Resolution #137, Series of 2026 - Plante Moran Change Order for IT Services
+- Resolution #138, Series of 2026 - Approval of Funds to AFPD for Fuels Treatment
+- Resolution #139, Series of 2026 - MOU – Roaring Fork Outdoor Coalition
+- Resolution #140, Series of 2026 - Hosting 2027 Climate Solutions Summit
+- Resolution #141, Series of 2026 - Addendum to City Manager Employment
+- Resolution #142, Series of 2026 - Authorizing the City of Aspen to Join Aspen One's
+- Staff Report - Resolution 134 Housing Planning Grant Acceptance.docx
+- Resolution_134_-_Housing_Planning_Grant_Acceptance.doc
+- Attachment A - DRAFT Aspen Housing Action Plan Grant Agreement.pdf
+- _135-_2026_Resolution.doc
+- Resolution_No._137__Series_of_2026.docx
+- Attachment B Original Plante Moran Agreement for Consulting Services &
+- STAFF_REPORT_Funds_to_AFPD_Fuels_Reduction_Projects.docx
+- Resolution_No_138_2026.doc
+- _139_-_2026_Resolution.doc
+- Staff_Report_-_Resolution_140_
+- _Climate_Solutions_Summit_Event_Hosting_Fee.docx
+- Resolution 140 - Climate Solutions Summit 2027.doc
+- Staff Report _ First Addendum to City Manager Contract.docx
+- Resolution #141, Series of 2026 Approving First Addendum to City Manager
+- Contract.docx
+- Ex. A - First Addendum to City Manager Contract.pdf
+- Resolution #144, Series of 2026 - Approval of an Agreement for the Purchase and
+- Notice of Approval for Historic Preservation Commission Resolution #14 Series of
+- 2026, 212 N. Monarch Street
+- First Reading of Ordinances
+- Ordinance #21, Series of 2026 - 2026 Fall Supplemental
+- Ordinance #22, Series of 2026 - 2027 Fee Ordinance
+- Ordinance #24, Series of 2026 - Changes to Title 25 First Reading
+- Ordinance #25, Series of 2026 - Community Development Fee Update
+- Ordinance #26, Series of 2026 - Removal of Fee Schedule from Title 26
+- Staff_Report_Resolution__142_RE_Aspen_One_Amicus_Brief (1).docx
+- Resolution # 142 Authorizing the City to Join Amicus Brief.docx
+- Staff_Report_Resolution__144_RE_Property_Acquisition.docx
+- Resolution #144, Series of 2026 Authorizing Property Purchase.doc
+- Ex A Purchase and Sales Agreement.pdf
+- Attachment B _ Application, dated August 17, 2026 .pdf
+- Attachment C _ HPC Resolution #17 , Series of 2026.pdf
+- Staff Report Ordinance No. 21 2026 Fall Supplemental - 1st Reading - Revised.docx
+- 2026 Fall Ordinance No.21, Series 2026
+- Staff Report Ordinance 22 Series 2027 Fees.pdf
+
+## [aspen#32] 2026-11-11 | ASPEN HISTORIC PRESERVATION COMMISSION | agenda
+- PUBLIC COMMENTS
+- PROJECT MONITORING
+- CERTIFICATE OF NO NEGATIVE EFFECT ISSUED
+- 314 E Hyman, Certificate of No Negative Effect Approval
+- 106 N. Seventh Street, Certificate of No Negative Effect
+- 213 W. Bleeker, Certificate of No Negative Effect
+- 229 W. Hallam, Certificate of No Negative Effect
+- 302 E Hopkins, Certificate of No Negative Effect
+- Sister Cities Plaza - Pedestrian Mall, Certificate of No Negative Effect
+- 314EHyman.LPA-26-069.CNNE Approval and Application
+- 106N7St.LPA-26-071.CNNE.Approval and Application
+- 213WBleeker.LPA-26-096.CNNE.Approval and Application
+- 229WHallam.LPA-26-078.CNNE.Approval and Application
+- 302EHopkins.LPA-26-094.CNNE.Approval and Application
+- SUBSTANTIAL AMENDMENT
+- (Intersection of Hyman Avenue & South Mill Street) – Advisory Comments on
+- Administrative Public Project Review
+- NEXT RESOLUTION NUMBER
+- Wheeler Node Site Plan.pdf
+- Signed Land Use Application_Wheeler Node 260827.pdf
+- ordinance.council.009-17 - Ped Mall Designation.pdf
+- TYPICAL PROCEEDING FORMAT FOR ALL PUBLIC HEARINGS
+- 2. Presentation of proof of legal notice (at beginning of agenda)
+- 3. Applicant presentation (10 minutes for minor development; 20 minutes for major
+- development)
+- 5. Staff presentation (5 minutes for minor development; 10 minutes for major
+- 7. Public comments (5 minutes total, or 3 minutes/ person or as determined by the Chair)
+- 8. Close public comment portion of hearing
+- End of fact finding. Chairperson identifies the issues to be discussed
+- re-start discussion of the case or the board’s direction. (20 minutes)
+- Please note that staff and/or the applicant must vacate the dais during the opposite
+- presentation and board question and clarification session. Both staff and applicant team
+- will vacate the dais during HPC deliberation unless invited by the chair to return

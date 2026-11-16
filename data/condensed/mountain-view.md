@@ -1,48 +1,6 @@
 # mountain-view
 
-## [mountain-view#1] 2026-08-12 | Administrative Zoning Hearing | agenda
-- Administrative Zoning Hearing
-- August 12, 2026Administrative Zoning Hearing Agenda
-- Zoning Administrator virtually may join the meeting at:
-- When the Zoning Administrator announces the item on which you wish to speak, click on the “raise hand” feature in
-- This portion of the meeting is reserved for persons wishing to address the Zoning Administrator on any
-- 1.5 minutes. State law prohibits the Zoning Administrator from acting on non agenda items
-- 3. PUBLIC HEARING
-- 3.1 1080 La Avenida Street, Unit B, Xin Zhang of Bayside Fencing Club, PL-18228; APN:
-- Recommendation: That the Zoning Administrator approve a request for a two-year Permit Extension for
-- a previously approved Provisional Use Permit (PL-2023-219) to allow an indoor
-- project remains categorically exempt from the California Environmental Quality Act
-- previously determined with the original approval). This project is located on the north
-- side of La Avenida Street between Armand Drive and the Stevens Creek Trail in the
-- P(39) North Bayshore Precise Plan
-- Project Manager: Vinson Kwan
-- Extension Request Letter
-- Administrative Zoning Hearings are held regularly on the second and fourth Wednesday of each month at 4:00 p.m. and may be held jointly with the
-- Questions or comments regarding the agenda may be directed to the Zoning Administrator or the Project Planner listed on the agenda for the item
-- The Zoning Administrator may take action on any matter noticed herein. The Zoning Administrator's consideration of and action on the matters
-- 903-6306. Notification of 48 hours prior to the meeting will enable the City to make reasonable arrangements to ensure accessibility to this meeting
-- ADDRESSING THE ZONING ADMINISTRATOR:
-- Interested persons are entitled to speak on any item on the agenda and should make their interest known to the Zoning Administrator
-- Anyone wishing to address the Zoning Administrator or Subdivision Committee on a nonagenda item may do so during the Oral Communications
-- number of speakers, the Zoning Administrator may reduce speaking time to no less than 1.5 minutes per speaker
-- ADMINISTRATIVE ZONING HEARING REVIEW PROCESS
-- The Zoning Administrator is the approval body for all applications requiring a Conditional Use Permit, Variance, Planned Unit Development,
-- Development Review Permit, or Planned Community Permit and can provide a recommended action on permits that require City Council approval
-- The Subdivision Committee is the approval body for all applications requiring a new or modified subdivision map, including lot line adjustments,
-
-## [mountain-view#2] 2026-08-12 | Parks and Recreation Commission and Urban Forestry Board | agenda
-- Parks and Recreation Commission and Urban Forestry Board
-- The Parks and Recreation Commission meeting scheduled for Wednesday, August 12, 2026, is
-
-## [mountain-view#4] 2026-08-17 | Youth Advisory Committee | agenda
-- 3. APPROVE MINUTES
-- Recommendation: Staff and Committee Members will review and provide feedback for the 2026 Summer
-- The agenda and staff reports my be viewed at the City Clerk's Office, 500 Castro Street, Third Floor, beginning the day before each meeting. Agenda
-- Anyone who is planning to attend a meeting who is visually or hearing-impaired or has any disability that needs special assistance may call the
-- City Manager's Office 650-903-6301 48 hours in advance of the meeting to arrange for assistance. Upon request, in advance, by a person with a
-- or Committee. Their consideration of the matters noticed herein is not limited by the recommendations indicated herein
-
-## [mountain-view#5] 2026-08-18 | Bicycle/Pedestrian Advisory Committee | minutes
+## [mountain-view#0] 2026-08-18 | Bicycle/Pedestrian Advisory Committee | minutes
 - MOTION - M/S - Bonte/Barton - 3/0/1 - Approve June 24th, 2026, BPAC meeting minutes
 - Approved via consent calendar
 - 6.1 Rengstorff Complete Streets Study, Project 25-39
@@ -65,7 +23,7 @@
 - The Committee may take action on any matter noticed herein in any manner deemed appropriate by the Committee. Their consideration of
 - this agenda will be made available for public inspection in the Public Works Department, 500 Castro Street, during normal business hours
 
-## [mountain-view#6] 2026-08-19 | Environmental Planning Commission | agenda
+## [mountain-view#1] 2026-08-19 | Environmental Planning Commission | agenda
 - La Ciudad está probando un servicio de traducción basado en inteligencia artificial. Para acceder a los servicios de traducción
 - In-person interpretation services are available in Spanish and Chinese upon advance request. Meeting materials may also be
 - translated upon advance request. Requests for interpretation or translation must be submitted no later than 5:00 p.m. two business
@@ -95,7 +53,7 @@
 - An applicant and/or appellant for a zone change, precise plan or quasi-judicial hearing shall have up to 10 minutes to address the Commission
 - section 54957.95, as may be amended from time to time. In accordance with California Government Code section 54957.9, as may be amended from
 
-## [mountain-view#7] 2026-08-19 | Performing Arts Committee | agenda
+## [mountain-view#2] 2026-08-19 | Performing Arts Committee | agenda
 - 3. MINUTES APPROVAL
 - 3.1 Minutes Approval
 - Recommendation: Approve the June 24, 2026 Performing Arts Committee meeting minutes
@@ -105,7 +63,7 @@
 - The Committee may consider and act on items listed on the agenda in any order. Consideration of the matters noticed herein is not limited by the
 - the Performing Arts office at 650-903-6565. Notification of 48 hours prior to the meeting will enable the City to make reasonable arrangements to
 
-## [mountain-view#9] 2026-08-25 | City Council | agenda
+## [mountain-view#4] 2026-08-25 | City Council | agenda
 - In-person interpretation services are available in Spanish and Chinese upon advance request. Requests must be submitted to the
 - Meeting materials may also be translated upon advance request. Requests must be submitted no later than 5:00 p.m. two business
 - La Ciudad está probando un servicio de traducción basado en inteligencia artificial. Para acceder a los servicios de traducción
@@ -124,7 +82,7 @@
 - An applicant and/or appellant for a zone change, precise plan or quasi-judicial hearing or appeal to the Council shall have up to 10 minutes to
 - section 54957.95, as may be amended from time to time. In accordance with California Government Code section 54957.9, as may be amended from
 
-## [mountain-view#10] 2026-08-26 | Administrative Zoning Hearing | agenda
+## [mountain-view#5] 2026-08-26 | Administrative Zoning Hearing | agenda
 - Administrative Zoning Hearing
 - August 26, 2026Administrative Zoning Hearing Agenda
 - When the Zoning Administrator announces the item on which you wish to speak, click on the “raise hand” feature in
@@ -153,7 +111,7 @@
 - parcel maps, and tentative maps, and can provide a recommendation action on subdivision maps that require City Council approval
 - At the hearing, the applicant/agent will be asked to make a brief presentation on the proposal. Comments from the public shall be heard after the
 
-## [mountain-view#11] 2026-08-27 | Rental Housing Committee | minutes
+## [mountain-view#6] 2026-08-27 | Rental Housing Committee | minutes
 - Rental Housing Committee
 - No public comments received
 - MOTION - MS - Ma/ Keating - To approve the Consent Calendar
@@ -167,7 +125,7 @@
 - COMMITTEE/STAFF ANNOUNCEMENTS, UPDATES, REQUESTS, AND COMMITTEE REPORTS7
 - 7.1 Upcoming Workshops and Housing Help Center Dates
 
-## [mountain-view#12] 2026-08-31 | Council Transportation Committee | agenda
+## [mountain-view#7] 2026-08-31 | Council Transportation Committee | agenda
 - §54953(b) from Stanford Sierra Camp, 130 Fallen Leaf Road, Fallen Leaf Lake, CA 96151. The teleconference location
 - the Council Transportation Committee. Please identify the Agenda Item number in the subject line of your email. All
 - 4. MINUTES APPROVAL
@@ -184,7 +142,7 @@
 - ensure accessibility to this meeting. (28 CFR 35.160 (b) (1)). If you have a hearing or speech disability, please use the California Relay System at 711,
 - or Committee. Their consideration of the matters noticed herein is not limited by the recommendations indicated herein
 
-## [mountain-view#13] 2026-08-31 | Youth Advisory Committee | agenda
+## [mountain-view#8] 2026-08-31 | Youth Advisory Committee | agenda
 - 3. APPROVE MINUTES - None
 - Recommendation: City staff will provide a presentation of the Brown Act and Robert's Rules of Order to
 - 5.4 FY 2026-27 Work Plan Brainstorm
@@ -194,7 +152,7 @@
 - 650-903-6301 48 hours in advance of the meeting to arrange for assistance. Upon request, in advance, by a person with a disability, agendas and writings distributed
 - Their consideration of the matters noticed herein is not limited by the recommendations indicated herein
 
-## [mountain-view#14] 2026-09-01 | Downtown Committee | agenda
+## [mountain-view#9] 2026-09-01 | Downtown Committee | agenda
 - 3. APPROVE MINUTES
 - JUNE MINUTES APPROVAL
 - Recommendation: Approve the Downtown Committee meeting minutes of June 2, 2026
@@ -218,12 +176,12 @@
 - or Committee. Their consideration of the matters noticed herein is not limited by the recommendations indicated herein
 - available for public inspection in the Community Development Department, 500 Castro Street, during normal business hours and at the meeting
 
-## [mountain-view#15] 2026-09-02 | Environmental Planning Commission | agenda
+## [mountain-view#10] 2026-09-02 | Environmental Planning Commission | agenda
 - La Ciudad está probando un servicio de traducción basado en inteligencia artificial. Para acceder a los servicios de traducción durante la
 - In-person interpretation services are available in Spanish and Chinese upon advance request. Meeting materials may also be translated
 - upon advance request. Requests for interpretation or translation must be submitted no later than 5:00 p.m. two business days before
 
-## [mountain-view#16] 2026-09-08 | City Council | agenda
+## [mountain-view#11] 2026-09-08 | City Council | agenda
 - JOINT MEETING OF CITY COUNCIL (REGULAR) AND SHORELINE REGIONAL PARK COMMUNITY
 - In-person interpretation services are available in Spanish and Chinese upon advance request. Requests must be submitted to the
 - Meeting materials may also be translated upon advance request. Requests must be submitted no later than 5:00 p.m. two business
@@ -259,7 +217,7 @@
 - Adopt a Resolution of the City Council of the City of Mountain View Approving the
 - Issuance of the California Municipal Finance Authority Exempt Facility Bonds in an
 
-## [mountain-view#17] 2026-09-09 | Visual Arts Committee | agenda
+## [mountain-view#12] 2026-09-09 | Visual Arts Committee | agenda
 - 3. APPROVE MINUTES
 - Approve the Visual Arts Committee meeting minutes of July 8, 2026
 - 7.1 Public Art - Public Safety Building (Project 20-49)
@@ -270,7 +228,7 @@
 - Their consideration of the matters noticed herein is not limited by the recommendations indicated herein
 - inspection in the City Clerk's Office, 500 Castro Street, during normal business hours and at the meeting location noted on the agenda during the meeting
 
-## [mountain-view#18] 2026-09-09 | Administrative Zoning Hearing | agenda
+## [mountain-view#13] 2026-09-09 | Administrative Zoning Hearing | agenda
 - Administrative Zoning Hearing
 - September 9, 2026Administrative Zoning Hearing Agenda
 - Zoning Administrator virtually may join the meeting at:
@@ -301,7 +259,7 @@
 - The Subdivision Committee is the approval body for all applications requiring a new or modified subdivision map, including lot line adjustments,
 - parcel maps, and tentative maps, and can provide a recommendation action on subdivision maps that require City Council approval
 
-## [mountain-view#19] 2026-09-09 | Parks and Recreation Commission and Urban Forestry Board | minutes
+## [mountain-view#14] 2026-09-09 | Parks and Recreation Commission and Urban Forestry Board | minutes
 - Parks and Recreation Commission and Urban Forestry Board
 - MINUTES APPROVAL3
 - 3.1 Minutes Approval
@@ -327,7 +285,7 @@
 - The Commission may consider and act on items listed on the agenda in any order. Consideration of the matters noticed herein is not
 - Services Department at (650) 903-6400. Notification of 48 hours prior to the meeting will enable the City to make reasonable arrangements
 
-## [mountain-view#20] 2026-09-10 | Council Neighborhoods Committee | agenda
+## [mountain-view#15] 2026-09-10 | Council Neighborhoods Committee | agenda
 - MONTA LOMA/FARLEY/ROCK STREET AREA
 - The agenda and staff reports may be viewed at the City Clerk's Office, 500 Castro Street, Third Floor, beginning the Monday morning before each
 - Anyone who is planning to attend a meeting who is visually or hearing-impaired or has any disability that needs special assistance may call the
@@ -335,7 +293,7 @@
 - or Committee. Their consideration of the matters noticed herein is not limited by the recommendations indicated herein
 - be made available for public inspection in the City Manager's Office, 500 Castro Street, during normal business hours and at the meeting location
 
-## [mountain-view#21] 2026-09-14 | Youth Advisory Committee | agenda
+## [mountain-view#16] 2026-09-14 | Youth Advisory Committee | agenda
 - 3. APPROVE MINUTES - None
 - 5.2 Fiscal Year 2026-27 Youth Advisory Committee Work Plan
 - The agenda and staff reports my be viewed at the City Clerk's Office, 500 Castro Street, Third Floor, beginning the day before each meeting. Agenda
@@ -343,12 +301,12 @@
 - City Manager's Office 650-903-6301 48 hours in advance of the meeting to arrange for assistance. Upon request, in advance, by a person with a
 - or Committee. Their consideration of the matters noticed herein is not limited by the recommendations indicated herein
 
-## [mountain-view#22] 2026-09-16 | Environmental Planning Commission | agenda
+## [mountain-view#17] 2026-09-16 | Environmental Planning Commission | agenda
 - La Ciudad está probando un servicio de traducción basado en inteligencia artificial. Para acceder a los servicios de traducción
 - In-person interpretation services are available in Spanish and Chinese upon advance request. Meeting materials may also be
 - translated upon advance request. Requests for interpretation or translation must be submitted no later than 5:00 p.m. two business
 
-## [mountain-view#23] 2026-09-16 | Senior Advisory Committee | agenda
+## [mountain-view#18] 2026-09-16 | Senior Advisory Committee | agenda
 - 3. APPROVE MINUTES
 - 3.1 Minutes Approval
 - Recommendation: Approve the Senior Advisory Committee minutes of June 17, 2026
@@ -358,7 +316,7 @@
 - City Clerk's Office 650-903-6304 48 hours in advance of the meeting to arrange for assistance. Upon request, in advance, by a person with a disability,
 - or Committee. Their consideration of the matters noticed herein is not limited by the recommendations indicated herein
 
-## [mountain-view#24] 2026-09-16 | Performing Arts Committee | agenda
+## [mountain-view#19] 2026-09-16 | Performing Arts Committee | agenda
 - 3. MINUTES APPROVAL
 - 3.1 Minutes Approval
 - Recommendation: Approve the June 24, 2026 Performing Arts Committee meeting minutes
@@ -371,7 +329,7 @@
 - The Committee may consider and act on items listed on the agenda in any order. Consideration of the matters noticed herein is not limited by the
 - the Performing Arts office at 650-903-6565. Notification of 48 hours prior to the meeting will enable the City to make reasonable arrangements to
 
-## [mountain-view#25] 2026-09-21 | Board of Library Trustees | minutes
+## [mountain-view#20] 2026-09-21 | Board of Library Trustees | minutes
 - MINUTES APPROVAL3
 - 3.1 Approval of minutes from May 18, 2026
 - MOTION - Su / Higaki (M/S) to approve the minutes from May 18, 2026 Board of Library Trustees meeting
@@ -382,7 +340,7 @@
 - Minutes submitted for approval by Joy Phaphakdy
 - Approved on October 19, 2026
 
-## [mountain-view#26] 2026-09-22 | City Council | agenda
+## [mountain-view#21] 2026-09-22 | City Council | agenda
 - JOINT MEETING OF CITY COUNCIL (REGULAR) AND SHORELINE REGIONAL PARK COMMUNITY
 - In-person interpretation services are available in Spanish and Chinese upon advance request. Requests must be submitted to the
 - Meeting materials may also be translated upon advance request. Requests must be submitted no later than 5:00 p.m. two business
@@ -415,12 +373,12 @@
 - is from the Shoreline Regional Park Community
 - 4.4 Addendum No. 14 to Regional Water Quality Control Plant Basic Agreement
 
-## [mountain-view#27] 2026-09-23 | Administrative Zoning Hearing | agenda
+## [mountain-view#22] 2026-09-23 | Administrative Zoning Hearing | agenda
 - Administrative Zoning Hearing
 - The Administrative Zoning hearing scheduled to be held on Wednesday, September 23, 2026 has
 - The next Administrative Zoning hearing will be held on Wednesday, October 14, 2026
 
-## [mountain-view#28] 2026-09-24 | Rental Housing Committee | agenda
+## [mountain-view#23] 2026-09-24 | Rental Housing Committee | agenda
 - Rental Housing Committee
 - This meeting is being conducted with a virtual component. Anyone wishing to address the Rental Housing Committee virtually may join
 - In-person interpretation services are available in Spanish and Chinese upon advance request. Meeting materials may also be translated
@@ -429,7 +387,7 @@
 - September 24, 2026Rental Housing Committee Agenda
 - The Rental Housing Committee meeting scheduled for Thursday, September 24, 2026 is canceled
 
-## [mountain-view#31] 2026-10-01 | Human Relations Committee | agenda
+## [mountain-view#26] 2026-10-01 | Human Relations Committee | agenda
 - In-person interpretation services are available in Spanish and Chinese upon advance request. Requests must be submitted to the
 - Meeting materials may also be translated upon advance request. Requests must be submitted no later than 5:00 p.m. two business
 - La Ciudad está probando un servicio de traducción basado en inteligencia artificial. Para acceder a los servicios de traducción
@@ -440,7 +398,7 @@
 - The Committee may consider and act on items listed on the agenda in any order. Consideration of the matters noticed herein is not limited by the
 - Department at (650) 903-6400. Notification of 48 hours prior to the meeting will enable the City to make reasonable arrangements to ensure
 
-## [mountain-view#34] 2026-10-07 | Environmental Planning Commission | agenda
+## [mountain-view#29] 2026-10-07 | Environmental Planning Commission | agenda
 - La Ciudad está probando un servicio de traducción basado en inteligencia artificial. Para acceder a los servicios de traducción
 - In-person interpretation services are available in Spanish and Chinese upon advance request. Meeting materials may also be
 - translated upon advance request. Requests for interpretation or translation must be submitted no later than 5:00 p.m. two business
@@ -474,7 +432,7 @@
 - the R3-C Zoning District in Areas Consistent with the Previous Medium-High Density
 - Residential General Plan Designation, and Other Modifications Consistent with the R3
 
-## [mountain-view#35] 2026-10-07 | Council Policy and Procedures Committee | agenda
+## [mountain-view#30] 2026-10-07 | Council Policy and Procedures Committee | agenda
 - 3. APPROVE MINUTES
 - 3.1 Approve Minutes for May 6, 2026
 - Recommendation: Approve the Council Policy and Procedures Committee meeting minutes of May 6,
@@ -491,7 +449,7 @@
 - or Committee. Their consideration of the matters noticed herein is not limited by the recommendations indicated herein
 - will be made available for public inspection in the City Clerk's Office, 500 Castro Street, during normal business hours and at the meeting location
 
-## [mountain-view#36] 2026-10-09 | City Council | agenda
+## [mountain-view#31] 2026-10-09 | City Council | agenda
 - In-person interpretation services are available in Spanish and Chinese upon advance request. Requests must be submitted to the
 - Meeting materials may also be translated upon advance request. Requests must be submitted no later than 5:00 p.m. two business
 - La Ciudad está probando un servicio de traducción basado en inteligencia artificial. Para acceder a los servicios de traducción
@@ -510,7 +468,7 @@
 - An applicant and/or appellant for a zone change, precise plan or quasi-judicial hearing or appeal to the Council shall have up to 10 minutes to address the Council
 - as may be amended from time to time. In accordance with California Government Code section 54957.9, as may be amended from time to time, the Council may order a
 
-## [mountain-view#37] 2026-10-10 | City Council | agenda
+## [mountain-view#32] 2026-10-10 | City Council | agenda
 - In-person interpretation services are available in Spanish and Chinese upon advance request. Requests must be submitted to the
 - Meeting materials may also be translated upon advance request. Requests must be submitted no later than 5:00 p.m. two business
 - La Ciudad está probando un servicio de traducción basado en inteligencia artificial. Para acceder a los servicios de traducción
@@ -529,14 +487,14 @@
 - An applicant and/or appellant for a zone change, precise plan or quasi-judicial hearing or appeal to the Council shall have up to 10 minutes to address the Council
 - as may be amended from time to time. In accordance with California Government Code section 54957.9, as may be amended from time to time, the Council may order a
 
-## [mountain-view#38] 2026-10-12 | Youth Advisory Committee | agenda
+## [mountain-view#33] 2026-10-12 | Youth Advisory Committee | agenda
 - 3. APPROVE MINUTES - None
 - The agenda and staff reports my be viewed at the City Clerk's Office, 500 Castro Street, Third Floor, beginning the day before each meeting. Agenda
 - Anyone who is planning to attend a meeting who is visually or hearing-impaired or has any disability that needs special assistance may call the
 - City Manager's Office 650-903-6301 48 hours in advance of the meeting to arrange for assistance. Upon request, in advance, by a person with a
 - or Committee. Their consideration of the matters noticed herein is not limited by the recommendations indicated herein
 
-## [mountain-view#39] 2026-10-13 | City Council | agenda
+## [mountain-view#34] 2026-10-13 | City Council | agenda
 - In-person interpretation services are available in Spanish and Chinese upon advance request. Requests must be submitted to the
 - Meeting materials may also be translated upon advance request. Requests must be submitted no later than 5:00 p.m. two business
 - La Ciudad está probando un servicio de traducción basado en inteligencia artificial. Para acceder a los servicios de traducción
@@ -573,7 +531,7 @@
 - the Development Agreement By and Between the City of Mountain View and LinkedIn
 - 700-810 East Middlefield Road and 1100-1200 Maude Avenue (APNs: 165-38-001 and
 
-## [mountain-view#40] 2026-10-14 | Parks and Recreation Commission and Urban Forestry Board | minutes
+## [mountain-view#35] 2026-10-14 | Parks and Recreation Commission and Urban Forestry Board | minutes
 - Parks and Recreation Commission and Urban Forestry Board
 - MINUTES APPROVAL3
 - 3.1 Minutes Approval
@@ -598,7 +556,7 @@
 - Urban Forest Manager Russell Hansen provided an update on Community Development and Community
 - Services Department discussions regarding permitting process conflicts
 
-## [mountain-view#42] 2026-10-14 | Administrative Zoning Hearing | agenda
+## [mountain-view#37] 2026-10-14 | Administrative Zoning Hearing | agenda
 - Administrative Zoning Hearing
 - Zoning Administrator virtually may join the meeting at:
 - When the Zoning Administrator announces the item on which you wish to speak, click on the “raise hand” feature in
@@ -628,7 +586,7 @@
 - ADMINISTRATIVE ZONING HEARING REVIEW PROCESS
 - The Zoning Administrator is the approval body for all applications requiring a Conditional Use Permit, Variance, Planned Unit Development, Development Review
 
-## [mountain-view#43] 2026-10-15 | Council Neighborhoods Committee | agenda
+## [mountain-view#38] 2026-10-15 | Council Neighborhoods Committee | agenda
 - MOBILE HOME PARKS - Redwood Room, Mountain View
 - The agenda and staff reports may be viewed at the City Clerk's Office, 500 Castro Street, Third Floor, beginning the Monday morning before each
 - Anyone who is planning to attend a meeting who is visually or hearing-impaired or has any disability that needs special assistance may call the
@@ -636,7 +594,7 @@
 - or Committee. Their consideration of the matters noticed herein is not limited by the recommendations indicated herein
 - be made available for public inspection in the City Manager's Office, 500 Castro Street, during normal business hours and at the meeting location
 
-## [mountain-view#44] 2026-10-19 | Board of Library Trustees | agenda
+## [mountain-view#39] 2026-10-19 | Board of Library Trustees | agenda
 - 3. MINUTES APPROVAL
 - 3.1 Approval of minutes from September 21, 2026
 - Recommendation: Review and approve minutes from the September 21, 2026, meeting
@@ -646,7 +604,7 @@
 - The Board may consider and act on items listed on the agenda in any order. Consideration of the matters noticed herein is not limited by the
 - Department at (650) 903-6400. Notification of 48 hours prior to the meeting will enable the City to make reasonable arrangements to ensure
 
-## [mountain-view#45] 2026-10-20 | City Council | agenda
+## [mountain-view#40] 2026-10-20 | City Council | agenda
 - In-person interpretation services are available in Spanish and Chinese upon advance request. Requests must be submitted to the
 - Meeting materials may also be translated upon advance request. Requests must be submitted no later than 5:00 p.m. two business
 - La Ciudad está probando un servicio de traducción basado en inteligencia artificial. Para acceder a los servicios de traducción
@@ -665,7 +623,7 @@
 - An applicant and/or appellant for a zone change, precise plan or quasi-judicial hearing or appeal to the Council shall have up to 10 minutes to address the Council
 - as may be amended from time to time. In accordance with California Government Code section 54957.9, as may be amended from time to time, the Council may order a
 
-## [mountain-view#46] 2026-10-21 | Environmental Planning Commission | agenda
+## [mountain-view#41] 2026-10-21 | Environmental Planning Commission | agenda
 - La Ciudad está probando un servicio de traducción basado en inteligencia artificial. Para acceder a los servicios de traducción
 - In-person interpretation services are available in Spanish and Chinese upon advance request. Meeting materials may also be
 - translated upon advance request. Requests for interpretation or translation must be submitted no later than 5:00 p.m. two business
@@ -701,7 +659,7 @@
 - reports, and any writings or documents already provided to a majority of the Commission regarding any item on this agenda may be requested at
 - the Community Development Department during normal business hours
 
-## [mountain-view#47] 2026-10-21 | Performing Arts Committee | agenda
+## [mountain-view#42] 2026-10-21 | Performing Arts Committee | agenda
 - 3. Minutes Approval
 - Recommendation: Approve the September 16, 2026 Performing Arts Committee meeting minutes
 - Discuss the meeting schedule and how PAC participation can strengthen community relationships
@@ -710,7 +668,7 @@
 - The Committee may consider and act on items listed on the agenda in any order. Consideration of the matters noticed herein is not limited by the
 - the Performing Arts office at 650-903-6565. Notification of 48 hours prior to the meeting will enable the City to make reasonable arrangements to
 
-## [mountain-view#48] 2026-10-22 | Rental Housing Committee | agenda
+## [mountain-view#43] 2026-10-22 | Rental Housing Committee | agenda
 - Rental Housing Committee
 - This meeting is being conducted with a virtual component. Anyone wishing to address the Rental Housing Committee virtually may join
 - In-person interpretation services are available in Spanish and Chinese upon advance request. Meeting materials may also be translated
@@ -739,7 +697,7 @@
 - Computer-generated captioning of the Rental Housing Committee meeting is unedited and should neither be relied upon for complete accuracy nor used as a
 - Agenda item number in the subject line of your email. Requests to show an audio or video presentation during a Committee meeting should be directed to
 
-## [mountain-view#49] 2026-10-22 | Council Youth Services Committee | agenda
+## [mountain-view#44] 2026-10-22 | Council Youth Services Committee | agenda
 - Atrium Conference Room - 500 Castro Street Mountain
 - 3. APPROVE MINUTES
 - 3.1 Minutes Approval
@@ -752,7 +710,7 @@
 - or Committee. Their consideration of the matters noticed herein is not limited by the recommendations indicated herein
 - be made available for public inspection in the City Clerk's Office, 500 Castro Street, during normal business hours and at the meeting location noted
 
-## [mountain-view#50] 2026-10-26 | Youth Advisory Committee | agenda
+## [mountain-view#45] 2026-10-26 | Youth Advisory Committee | agenda
 - 3. APPROVE MINUTES
 - 3.1 Minutes Approval
 - Recommendation: Approve the following Youth Advisory Committee meeting minutes:
@@ -763,7 +721,7 @@
 - City Manager's Office 650-903-6301 48 hours in advance of the meeting to arrange for assistance. Upon request, in advance, by a person with a
 - or Committee. Their consideration of the matters noticed herein is not limited by the recommendations indicated herein
 
-## [mountain-view#51] 2026-10-27 | City Council | agenda
+## [mountain-view#46] 2026-10-27 | City Council | agenda
 - In-person interpretation services are available in Spanish and Chinese upon advance request. Requests must be submitted to the
 - Meeting materials may also be translated upon advance request. Requests must be submitted no later than 5:00 p.m. two business
 - La Ciudad está probando un servicio de traducción basado en inteligencia artificial. Para acceder a los servicios de traducción
@@ -799,12 +757,12 @@
 - Authorize advertising for the determination of responsible bidders and pre-qualification
 - of critical-trade subcontractors for Package 2 of Public Safety Building, Project 20-49
 
-## [mountain-view#52] 2026-10-28 | Administrative Zoning Hearing | agenda
+## [mountain-view#47] 2026-10-28 | Administrative Zoning Hearing | agenda
 - Administrative Zoning Hearing
 - The Administrative Zoning Hearing scheduled for Wednesday, October 28, 2026 has been
 - The next Administrative Zoning Hearing will be held on Wednesday, November 18, 2026
 
-## [mountain-view#53] 2026-10-28 | Bicycle/Pedestrian Advisory Committee | agenda
+## [mountain-view#48] 2026-10-28 | Bicycle/Pedestrian Advisory Committee | agenda
 - phone. When the Chair calls your name to provide public comment, if you are participating via phone, please press *6 to
 - Recommendation: Approve the BPAC meeting minutes from August 18, 2026
 - Recommendation: Receive information on collisions involving pedestrians and cyclists. Police
@@ -821,7 +779,7 @@
 - The Committee may take action on any matter noticed herein in any manner deemed appropriate by the Committee. Their consideration of the
 - will be made available for public inspection in the Public Works Department, 500 Castro Street, during normal business hours and at the meeting
 
-## [mountain-view#54] 2026-11-03 | Downtown Committee | agenda
+## [mountain-view#49] 2026-11-03 | Downtown Committee | agenda
 - 3. APPROVE MINUTES
 - Recommendation: Approve the Downtown Committee meeting minutes of September 1, 2026
 - This portion of the agenda is reserved for identifying agenda items for future meetings
@@ -838,7 +796,7 @@
 - or Committee. Their consideration of the matters noticed herein is not limited by the recommendations indicated herein
 - available for public inspection in the Community Development Department, 500 Castro Street, during normal business hours and at the meeting
 
-## [mountain-view#55] 2026-11-04 | Parks and Recreation Commission and Urban Forestry Board | agenda
+## [mountain-view#50] 2026-11-04 | Parks and Recreation Commission and Urban Forestry Board | agenda
 - Parks and Recreation Commission and Urban Forestry Board
 - 3. MINUTES APPROVAL
 - 3.1 Minutes Approval
@@ -854,12 +812,12 @@
 - The Commission may consider and act on items listed on the agenda in any order. Consideration of the matters noticed herein is not limited by the
 - Department at (650) 903-6400. Notification of 48 hours prior to the meeting will enable the City to make reasonable arrangements to ensure
 
-## [mountain-view#56] 2026-11-04 | Environmental Planning Commission | agenda
+## [mountain-view#51] 2026-11-04 | Environmental Planning Commission | agenda
 - La Ciudad está probando un servicio de traducción basado en inteligencia artificial. Para acceder a los servicios de traducción
 - In-person interpretation services are available in Spanish and Chinese upon advance request. Meeting materials may also be
 - translated upon advance request. Requests for interpretation or translation must be submitted no later than 5:00 p.m. two business
 
-## [mountain-view#58] 2026-11-04 | Council Ad-Hoc Subcommittee on Race, Equity and Inclusion | agenda
+## [mountain-view#53] 2026-11-04 | Council Ad-Hoc Subcommittee on Race, Equity and Inclusion | agenda
 - 4. MINUTES APPROVAL
 - 4.1 Minutes approval for June 21, 2022
 - no corrections or additions, a motion is in order to approve these minutes
@@ -872,7 +830,7 @@
 - The Subcommittee may consider and act on items listed on the agenda in any order and thus those interested in an item listed on the agenda are
 - If requested in advance of the public input portion of the agenda item to the Chair or staff, a speaker who represents five or more members of the
 
-## [mountain-view#60] 2026-11-09 | Council Transportation Committee | agenda
+## [mountain-view#55] 2026-11-09 | Council Transportation Committee | agenda
 - the Council Transportation Committee. Please identify the Agenda Item number in the subject line of your email. All
 - 4.1 Approve Meeting Minutes
 - Recommendation: Approve the Council Transportation Committee meeting minutes of August 31, 2026
@@ -886,7 +844,7 @@
 - ensure accessibility to this meeting. (28 CFR 35.160 (b) (1)). If you have a hearing or speech disability, please use the California Relay System at 711,
 - or Committee. Their consideration of the matters noticed herein is not limited by the recommendations indicated herein
 
-## [mountain-view#61] 2026-11-09 | Youth Advisory Committee | agenda
+## [mountain-view#56] 2026-11-09 | Youth Advisory Committee | agenda
 - 3. APPROVE MINUTES
 - 3.1 Minutes Approval
 - Recommendation: Approve the October 26, 2026 minutes
@@ -896,3 +854,51 @@
 - Anyone who is planning to attend a meeting who is visually or hearing-impaired or has any disability that needs special assistance may call the
 - City Manager's Office 650-903-6301 48 hours in advance of the meeting to arrange for assistance. Upon request, in advance, by a person with a
 - or Committee. Their consideration of the matters noticed herein is not limited by the recommendations indicated herein
+
+## [mountain-view#57] 2026-11-10 | City Council | agenda
+- JOINT MEETING OF CITY COUNCIL (REGULAR) AND SHORELINE REGIONAL PARK COMMUNITY
+- In-person interpretation services are available in Spanish and Chinese upon advance request. Requests must be submitted to the
+- Meeting materials may also be translated upon advance request. Requests must be submitted no later than 5:00 p.m. two business
+- La Ciudad está probando un servicio de traducción basado en inteligencia artificial. Para acceder a los servicios de traducción
+- 3. PRESENTATIONS
+- These are presentations only. The City Council will not take any action
+- 3.3 Presentation of a commendation to City Manager Kimbra McCarthy, recognizing her as the first recipient
+- of the International City/County Management Association's (ICMA) Good Governance Award
+- These items will be approved by one motion unless any member of the Council or audience wishes to remove
+- an item for discussion. The reading of the full text of ordinances and resolutions will be waived unless a
+- Councilmember requests otherwise
+- 4.1 Application to the Statewide Park Development and Community Revitalization Program to develop
+- Thompson Mini Park, Project 26-35
+- 1. Authorize the City Manager or designee to submit an application to the Statewide
+- Park Development and Community Revitalization Program Grant and execute all related
+- documents if awarded
+- 2. Adopt a Resolution of the City Council of the City of Mountain View Authorizing the
+- City Manager or Designee to Apply for and Accept Grant Funds from the Statewide Park
+- Development and Community Revitalization Program Grant in an Amount Up to $2.3
+- Grant Funds, to be read in title only, further reading waived (Attachment 1 to the
+- ATT 1 - Resolution
+- 1. Adopt a Resolution of the City Council of the City of Mountain View Proclaiming a
+- 4.4 Adobe Building Patio Tiles Replacement, Project 23-34
+- requirements, Adobe Building Patio Tiles Replacement, Project 23-34, is categorically
+- Building Patio Tiles Replacement, Project 23-34. (Five votes required)
+- 3. Approve plans and specifications for Adobe Building Patio Tiles Replacement, Project
+- 23-34, and authorize staff to advertise the project for bidding
+- 4. Authorize the City Manager or designee to award a construction contract to the
+- lowest responsive responsible bidder if the bid is within the total available project
+- budget of $1,560,000
+- 4.5 Grant Road and Sleeper Avenue Improvements Project - Phase I, Project 21-39-Construction Acceptance
+- Accept Grant Road and Sleeper Avenue Improvements Project - Phase I, Project 21-39,
+- and authorize the final contract payment
+- Approve the 2027 City Council meeting schedule.Recommendation(s):
+
+## [mountain-view#58] 2026-11-16 | Board of Library Trustees | agenda
+- dial *9 on your phone. When the Chair calls your name to provide public comment, if you are participating via phone,
+- 3. MINUTES APPROVAL
+- 3.1 Approval of minutes from October 19, 2026
+- Recommendation: Review and approve the minutes from the October 19, 2026, meeting
+- 6. PRESENTATIONS
+- Recommendation: Review and discuss
+- Recommendation: Review and approve meeting dates
+- 9. BOARD/STAFF ANNOUNCEMENTS, UPDATES, REQUESTS, AND COMMITTEE REPORTS
+- The Board may consider and act on items listed on the agenda in any order. Consideration of the matters noticed herein is not limited by the recommendations
+- 903-6400. Notification of 48 hours prior to the meeting will enable the City to make reasonable arrangements to ensure accessibility to this meeting. (28 CFR 35.160

@@ -1,164 +1,177 @@
-- title: Roberts Brothers Garage redevelopment and arts center fee waivers
-  summary: 'The Clear Creek Center for Arts & Education won a $1.538 million state grant that needs a 1:1 match and has about $700,000 in hand. It asked the city for in-kind help, fee waivers and other contributions worth up to $729,307 to redevelop the Roberts Brothers Garage at 121 15th Avenue. Council took up Resolution #27 on the fee waivers, Ordinance #20 on designating the property, a parking fee-in-lieu request, and parking arrangements with Four Bairs Inc.'
+- title: 'Roberts Brothers Garage arts center: fee waivers, parking and historic designation at 121 15th Avenue'
+  summary: The Clear Creek Center for Arts & Education won a $1.538 million state grant that requires a 1:1 match and asked the city for up to $729,307 in in-kind contributions and fee waivers. Council took up Resolution 27 on fee waivers and contributions with Four Bairs, Inc., Ordinance 20 on designating the property, and a parking fee-in-lieu request. A parking arrangement with the adjacent city-owned property was also discussed.
   where: 121 15th Avenue (Roberts Brothers Garage)
   refs:
-  - 8
-  - 9
-  - 12
-  - 13
-  - 20
-  - 21
-  - 24
-  - 25
-  - 28
-  - 29
-  topics:
-  - Libraries & culture
-  - Historic preservation
-  - Fees & rates
-  public_comment: true
-- title: Recreational occupation tax on outdoor recreation providers
-  summary: 'Council referred a ballot issue to create a new occupation tax on outdoor recreation providers such as rafting companies, per Ordinance #19. The measure would allow a per-customer fee of up to $5, with revenue dedicated to the impacts of those activities on streets, parking, public safety, water and parks. Rafting businesses have made requests about the tax.'
-  where: Citywide
-  refs:
-  - 4
-  - 5
+  - 2
+  - 7
+  - 10
+  - 11
+  - 18
+  - 19
+  - 22
+  - 23
+  - 26
   - 27
-  - 28
-  - 29
   topics:
-  - Budget & taxes
-  - Tourism & events
-  - Fees & rates
-  public_comment: true
-- title: 'Parking: private paid parking moratorium, parking study and managed parking'
-  summary: 'Council considered Ordinance #18, a temporary moratorium on permits and licenses for private paid parking facilities. The city is also reviewing parking study results and parking requirements, and a Libertarian Party representative asked that Disabled Veteran plates get free parking in the managed parking program. Council also took up library parking and renamed and rescoped the parking, transportation and mobility enterprise.'
-  where: Downtown Idaho Springs
+  - Historic preservation
+  - Economic development
+  - Libraries & culture
+- title: 'Affordable and senior housing: incentives, Prop 123 and DOLA application'
+  summary: Council authorized a DOLA Division of Housing predevelopment funding application for the Idaho Springs Affordable Senior Housing Project. It also discussed affordable housing incentives and the Proposition 123 commitment for 2027-2029. The Miner Street Apartments multifamily plan and a Fair Housing Act code amendment (Ordinance 17) also came up.
+  where: Citywide; Miner Street Apartments site
   refs:
-  - 1
+  - 2
+  - 3
   - 4
   - 5
   - 6
   - 7
-  - 12
-  - 18
-  - 19
-  - 28
-  - 29
-  topics:
-  - Roads & traffic
-  - Downtown & business
-  - Fees & rates
-  public_comment: true
-- title: 2027 city budget
-  summary: The proposed 2027 budget was described as extremely difficult to prepare, with the General Fund tightly constrained. Measures included moving community promotion costs to the Parking Fund and pausing some employee benefits. The city's share of property tax is projected to fall from $282,237 to $267,546 at the same 6.310 mill levy. The Business & Community Promotions Board recommended a $211,109 baseline budget, and council also took up a fee schedule update.
-  where: Citywide
-  refs:
+  - 10
+  - 11
   - 14
-  - 15
   - 16
   - 17
-  - 24
-  - 25
-  - 27
-  - 30
-  - 31
-  topics:
-  - Budget & taxes
-  - Fees & rates
-  - Government operations
-- title: Affordable and senior housing efforts
-  summary: 'Council applied to the state Division of Housing for predevelopment funding for the Idaho Springs Affordable Senior Housing Project. It also discussed affordable housing incentives, its Proposition 123 commitment for 2027-2029, and updated Chapter 21 for housing for people with disabilities under the Fair Housing Act (Ordinance #17). The Miner Street Apartments multifamily plan was also in the packet.'
-  where: Citywide; Miner Street
-  refs:
-  - 4
-  - 5
-  - 6
-  - 7
-  - 9
-  - 12
-  - 16
-  - 18
-  - 19
   topics:
   - Housing
   - Zoning & development
   public_comment: true
-- title: Two-way traffic on downtown Miner Street
-  summary: Council was asked to approve two-way vehicle traffic on downtown Miner Street. The street has been closed for the Miner Street Market and Halloween events, and was set to reopen to traffic November 5.
-  where: Miner Street, downtown
+- title: Proposed 2027 city budget
+  summary: Staff called the 2027 budget extremely difficult to prepare, with General Fund revenue only about $100,000 above 2024. Measures include moving community promotion costs to the Parking Fund and pausing some employee benefits. City property tax is projected to fall from $282,237 to $267,546 at the same 6.310 mill levy. The Business & Community Promotions Board recommended a $211,109 baseline for its own budget, and council also considered a fee schedule update.
+  where: Citywide
   refs:
-  - 27
+  - 12
+  - 13
+  - 14
+  - 22
+  - 23
+  - 24
+  - 25
   - 28
   - 29
+  topics:
+  - Budget & taxes
+  - Fees & rates
+- title: Recreational occupation tax on outdoor recreation providers
+  summary: Council referred a ballot issue to create a new occupation tax on outdoor recreation providers such as rafting companies, with up to $5 per customer. Revenue would go to impacts on streets, parking, public safety, water and parks. Rafting businesses made requests to council about the tax.
+  where: Citywide
+  refs:
+  - 2
+  - 3
+  - 24
+  - 25
+  - 26
+  - 27
+  topics:
+  - Budget & taxes
+  - Tourism & events
+  public_comment: true
+- title: 'Downtown parking: paid-lot moratorium, parking study and library parking'
+  summary: Council considered Ordinance 18, a temporary moratorium on permits and licenses for private paid parking facilities. Planning reviewed preliminary parking study results and council received final results, while library parking was also on the agenda. Council amended the name and scope of the parking, transportation and mobility enterprise.
+  where: Downtown Idaho Springs
+  refs:
+  - 2
+  - 3
+  - 4
+  - 5
+  - 10
+  - 11
+  - 16
+  - 17
+  - 26
+  - 27
+  topics:
+  - Roads & traffic
+  - Downtown & business
+- title: Two-way traffic on Miner Street and the Miner Street Market
+  summary: Miner Street was closed for the seasonal Miner Street Market and Halloween events, with reopening to traffic set for November 5. Public works asked to return it to a two-way street, and council was asked to approve two-way vehicle traffic downtown.
+  where: Miner Street, downtown
+  refs:
+  - 25
+  - 26
+  - 27
+  - 31
   topics:
   - Roads & traffic
   - Downtown & business
 - title: 2026 Comprehensive Plan adoption
-  summary: 'The Planning Commission held a hearing on a resolution approving the 2026 Comprehensive Plan and recommending adoption. Council then took up Resolution #31 to approve it, after a September update on next steps.'
+  summary: The Planning Commission held a hearing recommending the 2026 Comprehensive Plan, and council took up Resolution 31 approving it on October 26. Council also adopted its five-year strategic plan by Resolution 30.
   where: Citywide
   refs:
-  - 8
-  - 9
-  - 20
-  - 21
-  - 28
-  - 29
+  - 6
+  - 7
+  - 14
+  - 15
+  - 18
+  - 19
+  - 22
+  - 23
+  - 26
+  - 27
   topics:
   - Zoning & development
   - Government operations
 - title: Noise ordinance with decibel limits
-  summary: Staff proposed adding objective decibel limits to the noise ordinance, as the code has no maximum level. The police chief wants a professional meter to enforce limits that vary by zone and time of day.
+  summary: Staff proposed adding objective decibel standards, such as 55 dB daytime and 50 dB nighttime in parks and recreation areas, so police can enforce noise rules with a professional dB reader. The current code has no maximum decibel level.
   where: Citywide
   refs:
-  - 18
-  - 19
+  - 16
+  - 17
   topics:
   - Policing & public safety
   - Government operations
-- title: Lots 1-12, Block 75 minor subdivision and new Golddigger Park
-  summary: 'The Planning Commission held a hearing on SUBD26-002, a minor subdivision of Lots 1-12, Block 75 and vacated Sixth Avenue that creates a fourth lot. Council took up the plat approval in September. Council also took up Resolution #29 accepting Lot 3 of the former Golddigger Field subdivision as Golddigger Park, along with a park conveyance by Fieldhouse Development.'
-  where: Block 75 and former Golddigger Field
+- title: New development rules and public concerns on buffers and parking
+  summary: Residents asked the Planning Commission for clear zoning restrictions, buffer zones, lot-line and parking rules for new developments. The commission heard a minor subdivision of Lots 1-12, Block 57 near vacated Sixth Avenue, which council also approved by plat resolution. Code amendments on nonconforming buildings (Ordinance 22) and exterior lighting were also in progress.
+  where: Lots 1-12, Block 57/75 near vacated Sixth Avenue
   refs:
-  - 6
-  - 7
-  - 12
-  - 13
+  - 4
+  - 5
+  - 10
   - 18
   - 19
-  - 21
+  - 22
+  - 23
+  - 28
   topics:
+  - Zoning & development
   - Land & property
-  - Parks & open space
-  - Zoning & development
-- title: Development standards, water use and public concerns at Planning Commission
-  summary: Residents asked for clearer zoning rules for new developments, including buffer zones, lot lines and parking, with fines for violations. Another resident asked the city to follow residential water restrictions and use native landscaping, citing the waterfall and sprinklers on city property.
-  where: Citywide
+  public_comment: true
+- title: Water restrictions and city landscaping
+  summary: A resident said the city should follow the residential water restrictions, criticizing the waterfall running and sprinklers on city property, and urged native plants.
+  where: Citywide; city property near Miner Street
   refs:
-  - 7
+  - 5
   topics:
-  - Zoning & development
   - Water
   - Environment & climate
   public_comment: true
 - title: I-70 Floyd Hill project and Exit 240 agreement
-  summary: 'Council received an I-70 Floyd Hill project update. It also took up Resolution #18 on an agreement for the project near Exit 240 and a related RAISE planning grant for downtown.'
+  summary: Council received an I-70 Floyd Hill project update and considered a resolution approving an agreement related to the project near Exit 240, along with a RAISE planning grant for downtown. A letter of support was proposed for the US 40 Empire wildlife crossing.
   where: I-70 Floyd Hill / Exit 240
   refs:
-  - 4
-  - 5
-  - 12
-  - 13
+  - 2
+  - 10
+  - 11
+  - 28
   topics:
   - Roads & traffic
   - Transit
-- title: Ameresco facility assessment, mobility planning grant and council vacancy
-  summary: Council considered a preliminary facility assessment agreement with Ameresco, and a $78,750 proposal from The Antero Group for the CAMP e-mobility planning grant. It also weighed applicants for a council vacancy and a Clear Creek Fire Authority board seat.
+- title: Golddigger Park and Fieldhouse park conveyance
+  summary: Council discussed a new park conveyed by Fieldhouse Development and then accepted Lot 3 of the former Golddigger Field subdivision as a city park named Golddigger Park.
+  where: Block 57, former Golddigger Field
+  refs:
+  - 10
+  - 11
+  - 16
+  - 17
+  topics:
+  - Parks & open space
+  - Land & property
+- title: E-mobility planning grant and Ameresco facility assessment
+  summary: Council considered a $78,750 proposal from The Antero Group for the Community Accelerated Mobility Program e-mobility planning grant, plus a steering committee. A preliminary facility assessment agreement with Ameresco was also on the agenda.
   where: Citywide
   refs:
-  - 30
-  - 31
+  - 28
+  - 29
   topics:
-  - Government operations
-  - Energy
   - Transit
+  - Energy

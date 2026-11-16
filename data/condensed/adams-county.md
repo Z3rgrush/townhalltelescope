@@ -1,39 +1,6 @@
 # adams-county
 
-## [adams-county#0] 2026-08-11 | Board of County Commissioners Public Hearing | minutes
-- 3. MOTION TO APPROVE AGENDA
-- be approved. The motion carried by the following vote:
-- 4. AWARDS AND PRESENTATIONS
-- 5. PUBLIC COMMENT
-- During this portion of the meeting, the board will hear public comment. The
-- Chair will determine how much time is reserved for public comment and how
-- much time is permitted for each speaker
-- C. Resolution Approving the Adams County Head Start Year Two‐of‐Five Grant
-- Continuation Application
-- D. Resolution Ratifying Amendment Three of the Colorado Child Care Assistance
-- this Consent Calendar be approved. The motion carried by the following vote:
-- Pre‐Development Agreement with AltitudeX
-- Henson, that this Executive Session be approved. The motion carried
-- 9. LAND USE HEARINGS
-
-## [adams-county#1] 2026-08-12 | Board of County Commissioners Study Session | agenda
-- 1:00 p.m. ATTENDEE(S): Byron Fanning / District Plan Commission Members
-- ITEM: Historic Splendid Valley/District Plan Commission
-- Advisory Plan
-- ITEM: Ordinance for General Assistance Fund
-- E‐911 Authority Board Member Appointment‐
-- Request for Exception to Citizen Advisory Board
-- Appointment Timeline‐Workforce Development
-
-## [adams-county#2] 2026-08-13 | Planning Commission | agenda
-- 1. 5:15 p.m. Study Session: Update on Buffers between New Development andExisting Oil and Gas Facilities
-- PUBLIC HEARING
-- FIRST FLOOR PUBLIC HEARING ROOM
-- 3. Approval of Minutes
-- A. Resolution Recommending Approval of the Right‐of‐Way Vacation of a Portion of East
-- 6. Public Comment
-
-## [adams-county#3] 2026-08-18 | Board of County Commissioners Public Hearing | minutes
+## [adams-county#0] 2026-08-18 | Board of County Commissioners Public Hearing | minutes
 - 3. MOTION TO APPROVE AGENDA
 - this Agenda be approved. The motion carried by the following vote:
 - 4. AWARDS AND PRESENTATIONS
@@ -64,22 +31,22 @@
 - 9. LAND USE HEARINGS
 - that this Land Use Case be approved. The motion carried by the
 
-## [adams-county#4] 2026-08-19 | Adams County Liquor & Marijuana Licensing Authority Board | agenda
+## [adams-county#1] 2026-08-19 | Adams County Liquor & Marijuana Licensing Authority Board | agenda
 - 4430 S Adams County Parkway
 - 2. APPROVAL OF MINUTES
 - 3. PUBLIC COMMENTS
 - 5. PUBLIC HEARINGS
 - B. LIQ2026­00057 ­ BROADWAY PETROLEUM CORP dba XPRESS MART
 
-## [adams-county#5] 2026-08-19 | Board of County Commissioners Study Session | agenda
+## [adams-county#2] 2026-08-19 | Board of County Commissioners Study Session | agenda
 - ITEM: Development Fee Wrap Up
 - Clear Creek Watershed Forest Improvement
 
-## [adams-county#6] 2026-08-21 | Board of County Commissioners Study Session | agenda
+## [adams-county#3] 2026-08-21 | Board of County Commissioners Study Session | agenda
 - ITEM: Fund Balance & Strategic Refresher
 - ITEM: Retirement Plan Update
 
-## [adams-county#7] 2026-08-24 | Board of County Commissioners Study Session | agenda
+## [adams-county#4] 2026-08-24 | Board of County Commissioners Study Session | agenda
 - ITEM: 2027 Budget Presentation – Information Technology
 - ITEM: 2027 Budget Presentation – Colorado Air & Space
 - ITEM: 2027 Budget Presentation – Public Works
@@ -89,7 +56,7 @@
 - ITEM: 2027 Budget Presentation – Parks, Open Space, &
 - ITEM: 2027 Budget Presentation – Community Safety &
 
-## [adams-county#8] 2026-08-25 | Board of County Commissioners Public Hearing | minutes
+## [adams-county#5] 2026-08-25 | Board of County Commissioners Public Hearing | minutes
 - 3. MOTION TO APPROVE AGENDA
 - be approved. The motion carried by the following vote:
 - 4. AWARDS AND PRESENTATIONS
@@ -121,7 +88,7 @@
 - 9. LAND USE HEARINGS
 - that this Land Use Case be approved. The motion carried by the
 
-## [adams-county#9] 2026-08-31 | Board of County Commissioners Study Session | agenda
+## [adams-county#6] 2026-08-31 | Board of County Commissioners Study Session | agenda
 - ITEM: 2027 Budget Presentation – Communications
 - ITEM: 2027 Budget Presentation – County Manager
 - ITEM: 2027 Budget Presentation – Asessor’s Office
@@ -131,18 +98,18 @@
 - ITEM: 2027 Budget Presentation – Budget & Finance
 - ITEM: 2027 Budget Presentation – Sheriff’s Office
 
-## [adams-county#10] 2026-09-02 | Board of County Commissioners Study Session | agenda
+## [adams-county#7] 2026-09-02 | Board of County Commissioners Study Session | agenda
 - ITEM: 2027‐2029 Community Services Block Grant (CSBG)
 - ITEM: Adams County Balanced Housing Plan
 - ITEM: CASP Strategy Update
 
-## [adams-county#11] 2026-09-03 | Board of County Commissioners Study Session | agenda
+## [adams-county#8] 2026-09-03 | Board of County Commissioners Study Session | agenda
 - ITEM: 2027 Budget Presentation – Clerk & Recorder’s Office
 - ITEM: 2027 Budget Presentation – Public Health
 - ITEM: 2027 Budget Presentation – Animal Shelter
 - ITEM: 2027 Budget Presentation – District Attorney’s Office
 
-## [adams-county#12] 2026-09-08 | Board of County Commissioners Public Hearing | minutes
+## [adams-county#9] 2026-09-08 | Board of County Commissioners Public Hearing | minutes
 - 3. MOTION TO APPROVE AGENDA
 - this Agenda be approved. The motion carried by the following vote:
 - 4. AWARDS AND PRESENTATIONS
@@ -177,11 +144,11 @@
 - 1. VAC2024‐00003 United Water District East 132nd Avenue Vacation
 - O'Dorisio, that this Land Use Case be approved. The motion
 
-## [adams-county#14] 2026-09-09 | Board of County Commissioners Study Session | agenda
+## [adams-county#11] 2026-09-09 | Board of County Commissioners Study Session | agenda
 - ITEM: External Audit Presentation from CLA
 - Road Bridge Repair – Janet Lundquist
 
-## [adams-county#15] 2026-09-10 | Planning Commission | agenda
+## [adams-county#12] 2026-09-10 | Planning Commission | agenda
 - PUBLIC HEARING
 - FIRST FLOOR PUBLIC HEARING ROOM
 - 3. Approval of Minutes
@@ -195,7 +162,7 @@
 - Conditional Use Permit to allow a utility substation
 - 6. Public Comment
 
-## [adams-county#16] 2026-09-15 | Board of County Commissioners Public Hearing | minutes
+## [adams-county#13] 2026-09-15 | Board of County Commissioners Public Hearing | minutes
 - 3. MOTION TO APPROVE AGENDA
 - this Agenda be approved. The motion carried by the following vote:
 - 4. AWARDS AND PRESENTATIONS
@@ -223,13 +190,13 @@
 - that this Executive Session be approved. The motion carried by the
 - 9. LAND USE HEARINGS
 
-## [adams-county#17] 2026-09-16 | Adams County Liquor & Marijuana Licensing Authority Board | agenda
+## [adams-county#14] 2026-09-16 | Adams County Liquor & Marijuana Licensing Authority Board | agenda
 - 4430 S Adams County Parkway
 - 2. APPROVAL OF MINUTES
 - 3. PUBLIC COMMENTS
 - 5. PUBLIC HEARINGS
 
-## [adams-county#18] 2026-09-17 | Board of Adjustment | agenda
+## [adams-county#15] 2026-09-17 | Board of Adjustment | agenda
 - PUBLIC HEARING
 - FIRST FLOOR PUBLIC HEARING ROOM
 - 3. Approval of Minutes
@@ -237,10 +204,10 @@
 - Request: Special Use Permit to operate a food truck in the
 - 6. Public Comment
 
-## [adams-county#19] 2026-09-21 | Board of County Commissioners Study Session | agenda
+## [adams-county#16] 2026-09-21 | Board of County Commissioners Study Session | agenda
 - ITEM: Development Standards Overhaul
 
-## [adams-county#20] 2026-09-22 | Board of County Commissioners Public Hearing | minutes
+## [adams-county#17] 2026-09-22 | Board of County Commissioners Public Hearing | minutes
 - 3. MOTION TO APPROVE AGENDA
 - be approved. The motion carried by the following vote:
 - 4. AWARDS AND PRESENTATIONS
@@ -259,11 +226,11 @@
 - Mullica, that this Resolution be approved. The motion carried by
 - 9. LAND USE HEARINGS
 
-## [adams-county#21] 2026-09-23 | Board of County Commissioners Study Session | agenda
+## [adams-county#18] 2026-09-23 | Board of County Commissioners Study Session | agenda
 - Irrigation Pump at the Riverdale Regional Park
 - Intergovernmental Agreement (IGA)
 
-## [adams-county#22] 2026-09-24 | Planning Commission | agenda
+## [adams-county#19] 2026-09-24 | Planning Commission | agenda
 - 1. 5:15 p.m. Study Session: Strategic Growth Element
 - PUBLIC HEARING
 - FIRST FLOOR PUBLIC HEARING ROOM
@@ -283,7 +250,7 @@
 - Permit to allow a large‐scale solar facility within the
 - 6. Public Comment
 
-## [adams-county#23] 2026-09-29 | Board of County Commissioners Public Hearing | minutes
+## [adams-county#20] 2026-09-29 | Board of County Commissioners Public Hearing | minutes
 - 3. MOTION TO APPROVE AGENDA
 - this Agenda be approved. The motion carried by the following vote:
 - 4. AWARDS AND PRESENTATIONS
@@ -310,12 +277,12 @@
 - 1. VAC2026‐00001 East 64th Avenue Right‐of‐Way Vacation
 - Mullica, that this Land Use Case be approved. The motion carried
 
-## [adams-county#25] 2026-09-30 | Board of County Commissioners Study Session | agenda
+## [adams-county#22] 2026-09-30 | Board of County Commissioners Study Session | agenda
 - ITEM: E‐470 Annual Presentation
 - ITEM: Strategic Growth Element Compliance for
 - Comprehensive Plan
 
-## [adams-county#26] 2026-10-06 | Board of County Commissioners Public Hearing | minutes
+## [adams-county#23] 2026-10-06 | Board of County Commissioners Public Hearing | minutes
 - 3. MOTION TO APPROVE AGENDA
 - this Agenda be approved. The motion carried by the following vote:
 - 4. AWARDS AND PRESENTATIONS
@@ -353,11 +320,11 @@
 - Pinter, that this Land Use Case be approved. The motion carried
 - that this Land Use Case be approved. The motion carried by the
 
-## [adams-county#27] 2026-10-07 | Board of County Commissioners Study Session | agenda
+## [adams-county#24] 2026-10-07 | Board of County Commissioners Study Session | agenda
 - City of Thornton‐Letter of Support Request for
 - Grant Application – Jenni Hall
 
-## [adams-county#28] 2026-10-08 | Planning Commission | agenda
+## [adams-county#25] 2026-10-08 | Planning Commission | agenda
 - 1. 5:15 p.m. Study Session: Balanced Housing Plan
 - PUBLIC HEARING
 - FIRST FLOOR PUBLIC HEARING ROOM
@@ -372,7 +339,7 @@
 - Master Plan and Statutory Water Supply Element
 - 7. Public Comment
 
-## [adams-county#29] 2026-10-13 | Board of County Commissioners Public Hearing | minutes
+## [adams-county#26] 2026-10-13 | Board of County Commissioners Public Hearing | minutes
 - 3. MOTION TO APPROVE AGENDA
 - be approved with removing Consent Calendar item 6J. The motion carried by
 - 4. AWARDS AND PRESENTATIONS
@@ -399,11 +366,11 @@
 - 1. PLT2025‐00039 Park Central Major Subdivision Preliminary Plat
 - that this Land Use Case be approved. The motion carried by the
 
-## [adams-county#30] 2026-10-14 | Board of County Commissioners Study Session | agenda
+## [adams-county#27] 2026-10-14 | Board of County Commissioners Study Session | agenda
 - ITEM: Community Enrichment Grant ‐ 2027 Program
 - ITEM: 2027 Budget Development ‐ On‐Going Budget
 
-## [adams-county#31] 2026-10-20 | Board of County Commissioners Public Hearing | minutes
+## [adams-county#28] 2026-10-20 | Board of County Commissioners Public Hearing | minutes
 - 3. MOTION TO APPROVE AGENDA
 - this Agenda be approved. The motion carried by the following vote:
 - 4. AWARDS AND PRESENTATIONS
@@ -429,13 +396,13 @@
 - Mullica, that this Resolution be continued to October 27,
 - 9. LAND USE HEARINGS
 
-## [adams-county#32] 2026-10-21 | Adams County Liquor & Marijuana Licensing Authority Board | agenda
+## [adams-county#29] 2026-10-21 | Adams County Liquor & Marijuana Licensing Authority Board | agenda
 - 4430 S Adams County Parkway
 - 2. APPROVAL OF MINUTES
 - 3. PUBLIC COMMENTS
 - 5. PUBLIC HEARINGS
 
-## [adams-county#33] 2026-10-22 | Planning Commission | agenda
+## [adams-county#30] 2026-10-22 | Planning Commission | agenda
 - PUBLIC HEARING
 - FIRST FLOOR PUBLIC HEARING ROOM
 - 3. Approval of Minutes
@@ -456,11 +423,9 @@
 - standards with the official zoning map
 - 6. Public Comment
 
-## [adams-county#34] 2026-10-27 | Board of County Commissioners Public Hearing | agenda
-- PUBLIC HEARING AGENDA
-- members to gain a basic understanding, thus eliminating lengthy discussions. Timely action and
-- short discussion on agenda items does not reflect a lack of thought or analysis on the Board's
+## [adams-county#31] 2026-10-27 | Board of County Commissioners Public Hearing | minutes
 - 3. MOTION TO APPROVE AGENDA
+- be approved. The motion carried by the following vote:
 - 4. AWARDS AND PRESENTATIONS
 - A. Employees of the Season Presentation
 - 5. PUBLIC COMMENT
@@ -490,27 +455,85 @@
 - U. Resolution Approving Right‐of‐Way Agreement between Adams County and Luis
 - V. Resolution Approving Right‐of‐Way Agreement between Adams County and Trinidad
 - W. Resolution Approving an Agreement between Adams County and CCS Facility
+- this Consent Calendar be approved. The motion carried by the following vote:
 - 1. Resolution Approving Amendment Six to the Agreement between
 - Detention Facility – Amendment Six 2026.168
+- Henson, that this Resolution be approved. The motion carried by
 - 2. Continuance of the First Amendment to the Midtown at Clear Creek
 - Filing No. 13 Improvements Agreement
+- O'Dorisio, that this Continuance be approved to the November
+- 10, 2026 Public Hearing. The motion carried by the following
 - 1. Resolution Adopting Amended Graduated Fine Schedule for Civil
 - Infraction Violations of the Zoning and Land Use Regulations
-- 9. LAND USE HEARINGS
-- Need Assistance to Participate in Public Hearing?
-- If you need assistance in order to participate in an Adams County public hearing,
+- that this Resolution be approved. The motion carried by the
 
-## [adams-county#35] 2026-10-27 | Board of County Commissioners Study Session | agenda
+## [adams-county#32] 2026-10-27 | Board of County Commissioners Study Session | agenda
 - for the Purpose of Discussing Security Arrangements
 
-## [adams-county#36] 2026-10-28 | Board of County Commissioners Study Session | agenda
+## [adams-county#33] 2026-10-28 | Board of County Commissioners Study Session | agenda
 - ITEM: Public Works CIP Audit Presentation
 - ITEM: Third Amendment to the 2026 Adams County Budget
 - ITEM: 2027 Budget Development ‐ One‐Time Budget
 - Irondale Mobile Home Park Acquisition – Alisha
 
-## [adams-county#37] 2026-11-04 | Board of County Commissioners Study Session | agenda
+## [adams-county#34] 2026-11-04 | Board of County Commissioners Study Session | agenda
 - ITEM: 2027 Budget Development – Sponsorships /
 - ITEM: 2027 Budget Development – Changes from Proposed
 - to Adopted Budget, Fund Balance, and Next Steps
 - Irondale Mobile Home Park Acquisition – Matt
+
+## [adams-county#35] 2026-11-10 | Board of County Commissioners Public Hearing | agenda
+- PUBLIC HEARING AGENDA
+- members to gain a basic understanding, thus eliminating lengthy discussions. Timely action and
+- short discussion on agenda items does not reflect a lack of thought or analysis on the Board's
+- 3. MOTION TO APPROVE AGENDA
+- 4. AWARDS AND PRESENTATIONS
+- B. Recognition of the American Public Works Association (APWA) Award to Nate
+- 5. PUBLIC COMMENT
+- During this portion of the meeting, the board will hear public comment. The
+- Chair will determine how much time is reserved for public comment and how
+- much time is permitted for each speaker
+- B. Resolution Establishing Holidays for 2027
+- C. Resolution Approving the Creation of a County Revitalization Authority Fund
+- D. Resolution Authorizing Cancellation of Mobile Home Property Taxes Per C.R.S §39‐
+- E. Resolution Authorizing Cancellation of Real Property Taxes Pursuant to C.R.S. §39‐
+- F. Resolution Authorizing Third Supplemental Appropriations to the 2026 Adams
+- County Government Budget
+- G. Resolution Approving an Application in Case #PLT2026‐00008; Lowell Development
+- Major Subdivision Final Plat
+- H. Resolution Approving SIA2026‐00021 Lowell Development Subdivision
+- Improvements Agreement, Amendment 1
+- I. Resolution Approving the Intergovernmental Agreement between Adams County and
+- J. Resolution Accepting a Permanent Drainage and Access Easement from the H F
+- INVESTMENT COMPANY LLC to Adams County for Storm Water Drainage and Access
+- K. Resolution Approving the Bill of Sale between North Washington Street Water and
+- Sanitation District and Adams County for the East 58th Avenue Improvements
+- L. Resolution Approving Mutual Release and Waiver between Adams County and the
+- North Washington Street Water and Sanitation District Regarding Settlement of
+- Costs for the York Street Phase II Project and The 58th Avenue Project
+- M. Resolution Approving the Bill of Sale between North Washington Street Water and
+- Sanitation District and Adams County for the York Street Phase II Project
+- N. Resolution Accepting Public Access and Sidewalk Easement from IOS‐PVB‐DENVER,
+- O. Resolution Accepting a Permanent Drainage Easement from IOS‐PVB‐DENVER, LLC
+- P. Resolution Approving Right‐of‐Way Agreement between Adams County and
+- Q. Resolution Approving Right‐of‐Way Agreement between Adams County and Juan M
+- R. Resolution Approving Right‐of‐Way Agreement between Adams County and
+- S. Resolution Approving Right‐of‐Way Agreement between Adams County and Lisseth
+- T. Resolution Approving an Agreement Between Adams County and DirSec in the
+- U. Resolution Approving Amendment Three to the Agreement between Adams County
+
+## [adams-county#37] 2026-11-12 | Planning Commission | agenda
+- PUBLIC HEARING
+- FIRST FLOOR PUBLIC HEARING ROOM
+- 3. Approval of Minutes
+- A. RESOLUTION RECOMMENDING ACCEPTANCE OF A PERMANENT DRAINAGE AND
+- B. RESOLUTION RECOMMENDING APPROVAL OF AN APPLICATION IN CASE #PLT2025‐
+- 00056; DEVCO ARVADA 64 SUBDIVISION AMENDMENT NO. 1
+- Case Name: 2026 Balanced Housing Plan
+- Applicant: Community & Economic Development Department
+- Location: Unincorporated Adams County
+- Request: Comprehensive Plan Amendment to include the Balanced
+- Housing Plan
+- Case Name: Adams County 2026 Strategic Growth Element
+- Request: Comprehensive Plan Amendment for the 2026 Strategic
+- 6. Public Comment

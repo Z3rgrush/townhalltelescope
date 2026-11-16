@@ -45,16 +45,14 @@
 - The Board may direct the Town Administrator to provide information requested by a speaker during the public
 - The Mayor/Chairman may elect to defer public comment on a specific issue that appears on the regular agenda
 
-## [kiowa#2] 2026-10-13 | Kiowa Water and Wastewater Authority | agenda
+## [kiowa#2] 2026-11-10 | Kiowa Water and Wastewater Authority | agenda
 - Kiowa Water and Wastewater Authority
 - 404 Comanche Street, Town Hall
 - A. Approval of Minutes
-- C. Agreement for Professional Service between KWWA and Gen-Tech, LLC
 - 6. Public Comment
 - Public comments are limited to three (3) minutes. When you are recognized, please stand, state your
-- 7. Public Hearings
-- 10. Discussion/Correspondence
-- A. 2027 Proposed Budget
+- A. Presentation of the Proposed 2027 Budget
+- 9. Correspondence/Discussion
 - Agenda Approved By:
 - Public comment is encouraged and will be listed as an agenda item at every regular KWWA Director's
 - Each individual wishing to be heard during the public comment period will be given up to three (3)
@@ -63,3 +61,29 @@
 - The Directors may direct the Town Administrator to provide information requested by a speaker during
 - the public comment period
 - The President may elect to defer public comment on a specific issue that appears on the regular agenda
+
+## [kiowa#3] 2026-11-10 | Board of Trustees | agenda
+- 404 Comanche Street, Town Hall
+- 4. Public Comment
+- Public comments are limited to three (3) minutes. When you are recognized, please stand, state your
+- 5. Presentations and Guest Speakers
+- County’s Colorado Plains Project
+- D. Andrea Price & Joe Martell, Kiowa Main Street – 2027 Funding Request and Discussion
+- A. Approval of Minutes
+- C. RESOLUTION 2026-22, A RESOLUTION DESIGNATING AUTHORIZED SIGNERS FOR THE
+- A. Second Presentation of 2027 Proposed Budget
+- B. RESOLUTION 2026-23, A RESOLUTION ADOPTING POLICY NO. 26-02, REMOTE
+- C. RESOLUTION 2026-24, A RESOLUTION ADOPTING POLICY NO. 26-03, CELL PHONE
+- D. RESOLUTION 2026-25, A RESOLUTION APPROVING THE CONTRACT TO BUY AND
+- SELL REAL ESTATE (LAND) (PROPERTY WITH NO RESIDENCES) TO PURCHASE THE
+- REAL PROPERTY AT 319 COMANCHE STREET, KIOWA, COLORADO
+- E. ORDINANCE 2026-10, AN ORDINANCE OF THE TOWN OF KIOWA, COLORADO,
+- AMENDING AND SETTING THE COMPENSATION OF THE BOARD OF TRUSTEES
+- 9. Discussion/Communications
+- Agenda Approved By:
+- Public comment is encouraged and will be listed as an agenda item at every regular Board of Trustees meeting
+- Each individual wishing to be heard during the public comment period will be given up to three (3) minutes to
+- The public comment period will not be used to make political endorsements or for political campaign purposes
+- Questions from the Board will be for clarification purposes only. Public comment will not be used as a time for
+- The Board may direct the Town Administrator to provide information requested by a speaker during the public
+- The Mayor/Chairman may elect to defer public comment on a specific issue that appears on the regular agenda

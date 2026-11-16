@@ -1,104 +1,11 @@
 # wellington
 
-## [wellington#0] 2026-08-11 | Board of Trustees | minutes
-- Amendments to Agenda
-- There were no amendments to the agenda
-- I . Public Comment
-- Richard Seaworth spoke to water and being reliant on Lake 3 and asked for the Board to look
-- at options for water,
-- I . Economic Development Incentive Policy Framework
-- Etizabeth Magargel. Business Development Manager. presented a draft incentive policy
-- fiamework. noted an incentive can support the diversification of the tax base and provide
-- transparency on potential incentives that may be offered
-- The Incentive Policy Framework was discussed, Ms. Magargel spoke to the various types of
-- incentives possible. and consideration ofvarious district improvements as an incentive. The Board
-- 8225 3d Street I PO Sox 127 | WellinEton, CO 80549 | Wellin8toncolorado.gov
-- looking at the Town for what the incentive policy is, and staffplans to proactively reach out to
-- The Board noted the public benefit should match what the incentive is. and utility concems should
-- be a consideration. A Downtown Development Authority was requested to be included
-- Clarification on the threshold for the incentive came from. which was noted to be based on the
-- Using these incentives for commercial incentives as opposed to residential was noted to be a desire
-- and it was noted that incentives related to tap f'ees may not be supported by the Board. Fast-tracking
-- would be strongly considered ifthose criteria was met, were asked to be added in
-- deferral or payment plan, so it would most likely be used in a situation where a builder is a
-- speculative development- which would be more of a shift ofwhen the cash is due. The Board
-- The Board provided general direction that the policy would be applied to commercial development
-- 3. Resolution No. 3l-2026: Adoption ofthe Bylarvs ofthe Board of Trustees
-- Mayor Pro Tem Mason moved lo approve the consenl agenda
-- l. Resolution No. 25-2026 - A Resolution of the Town of Wellinglon Setting the Compensation for
-- Judge Teresa Ablao expressed thanks for reappointment in April 2O26 and noted the request would
-- The Mayor opened this item for public comment to which there was none
-- Trustee Connon moved to approve Resolulion No. 25-2026. a Resolution of the Town of llellinglon
-- 2. Resolution No. 32-2026: Board of Trustee Proclamation Policy
-- 8225 3d Street I pO Bor r27 | Wellln$on, CO 80549 | wellingtoncolorado.tov
-- Patti Garcia, Town Administrator, spoke to the previous Board meeting and the Board's request to
-- Mayor Dailey opened public comment
-- The Board discussed the Pride Month Proclamation
-- Trustee Barrett moved to approve Resolution No. 32-2026, a Board ofTrustee
-
-## [wellington#1] 2026-08-12 | Parks, Recreation, Open Space, and Trails Advisory Board  | agenda
-- 8225 3rd Street | PO Box 127 | Wellington, CO 80549 | WellingtonColorado.gov
-- PARKS, RECREATION, OPEN SPACES AND TRAILS ADVISORY BOARD MEETING
-- 4. Approval of Minutes
-- a. Approval of minutes from July 15th, 2026 Regular Meeting
-- b. Approval of minute from July 27th, 2026 Special Meeting
-- 5. Action Items / Discussion Items
-- c. Signage at remaining parks
-- d. Park Visit — Harvest Park and Potential Community Center Location
-- 7. Announcements (Parks, Recreation, Open Space and Trails)
-
-## [wellington#2] 2026-08-12 | Parks, Recreation, Open Space, and Trails Advisory Board  | agenda
-- 8225 3rd Street | PO Box 127 | Wellington, CO 80549 | WellingtonColorado.gov
-- PARKS, RECREATION, OPEN SPACES AND TRAILS ADVISORY BOARD MEETING
-- 4. Approval of Minutes
-- a. Approval of minutes from July 15th, 2026 Regular Meeting
-- b. Approval of minute from July 27th, 2026 Special Meeting
-- 5. Action Items / Discussion Items
-- c. Signage at remaining parks
-- d. Park Visit — Harvest Park and Potential Community Center Location
-- 7. Announcements (Parks, Recreation, Open Space and Trails)
-- PARKS, RECREATION, OPEN SPACES AND TRAILS ADVISORY
-- Motion: Sarah moved to approve. Second: Landon
-- Vote: Unanimous approval
-- 5. A. Budget Discussion
-- Master Plan Update
-- The Master Plan (MP) was presented to the Board of Trustees (BOT) and approved unanimously
-- The process began in 2024 with John's budget presentation to the Board and evolved through
-- collaboration with BerryDunn and formalization of the Master Plan update
-- Mayor Dailey emphasized that the Master Plan reflects community priorities identified through
-- Budget Process Overview
-- Discussion focused on current finances and the Town's budget development process
-- Capital Improvement Plan (CIP) budget submissions are due to Finance by August 7
-- The Master Plan will help guide a long-range (5–10 year) planning strategy
-- PROST's role is to identify and prioritize projects the community would like to see advanced, such as
-- trails, a community center, and other recreation-related improvements
-- John noted that budgeting occurs over time and should align with community priorities
-- Budget Timeline
-- May 15: Leadership and BOT strategic planning discussions
-- June 16: BOT budget priority discussions
-- July 6: Finance discussions and departmental development
-- August 7: First-round budget submissions due to Finance
-- August 24–27: Department budget meetings and line-by-line review
-- September 22: BOT consideration of budget schedule adoption
-- October 2: BOT budget work session
-- October 6: Budget Boo-nanza community event
-- October 13: Budget presentation (opportunity for PROST input)
-- November 10: BOT budget adoption consideration
-- Operating Budget Considerations
-- The operating budget can fluctuate significantly due to changing conditions and needs, including:
-- Previously approved Park Technician position currently frozen due to hiring restrictions and budget
-- Ongoing efforts to negotiate and refine departmental budget requests
-- Additional discussion points:
-- Revenue generated from local activity is difficult to track directly
-- The Main Street Program is working on initiatives to better measure those impacts
-- Budget Amendment Flexibility
-
-## [wellington#3] 2026-08-18 | Board of Trustees | agenda
+## [wellington#0] 2026-08-18 | Board of Trustees | agenda
 - 8225 3rd Street | PO Box 127 | Wellington, CO 80549 | WellingtonColorado.gov
 - 1. Larimer County Sheriff's Office Presentation
 - Presentation: Sheriff John Feyen
 
-## [wellington#4] 2026-08-18 | Board of Trustees | agenda
+## [wellington#1] 2026-08-18 | Board of Trustees | agenda
 - 8225 3rd Street | PO Box 127 | Wellington, CO 80549 | WellingtonColorado.gov
 - 1. Larimer County Sheriff's Office Presentation
 - Presentation: Sheriff John Feyen
@@ -130,7 +37,7 @@
 - Reinforces key legal distinction between continuous tracking vs. discrete, fixed public road snapshots
 - Questions & Discussion
 
-## [wellington#5] 2026-08-25 | Board of Trustees | minutes
+## [wellington#2] 2026-08-25 | Board of Trustees | minutes
 - 3. Amendments to Agenda
 - There were no amendments to the agenda
 - Public Comment
@@ -167,7 +74,7 @@
 - adopted the 2024 Fire Code and the Town would like to align those codes to ensure the Town is
 - Code incorporates these units, and Mr. Bird noted local amendments
 
-## [wellington#7] 2026-09-08 | Board of Trustees | minutes
+## [wellington#4] 2026-09-08 | Board of Trustees | minutes
 - Amendments to Agenda
 - There were no amendments to the agenda
 - l. Public Comment
@@ -189,7 +96,7 @@
 - Code, 2021 Edilion. the International Residential Code,2021 Edition, the International Fire Code,
 - 8225 3d Street I PO Box 127 | Wellington, CO 80549 | Wellingtoncolorado.gov
 
-## [wellington#8] 2026-09-09 | Parks, Recreation, Open Space, and Trails Advisory Board  | agenda
+## [wellington#5] 2026-09-09 | Parks, Recreation, Open Space, and Trails Advisory Board  | agenda
 - 8225 3rd Street | PO Box 127 | Wellington, CO 80549 | WellingtonColorado.gov
 - PARKS, RECREATION, OPEN SPACES AND TRAILS ADVISORY BOARD MEETING
 - 4. Approval of Minutes
@@ -198,7 +105,7 @@
 - c. PROST Master Plan and Community Center Feasibility Study - Implementation
 - 7. Announcements (Parks, Recreation, Open Space and Trails)
 
-## [wellington#9] 2026-09-09 | Parks, Recreation, Open Space, and Trails Advisory Board  | agenda
+## [wellington#6] 2026-09-09 | Parks, Recreation, Open Space, and Trails Advisory Board  | agenda
 - 8225 3rd Street | PO Box 127 | Wellington, CO 80549 | WellingtonColorado.gov
 - PARKS, RECREATION, OPEN SPACES AND TRAILS ADVISORY BOARD MEETING
 - 4. Approval of Minutes
@@ -262,7 +169,7 @@
 - Project Updates
 - Presentation,
 
-## [wellington#10] 2026-09-14 | Planning Commission | minutes
+## [wellington#7] 2026-09-14 | Planning Commission | minutes
 - There was no public comment
 - 5. CONSIDERATION OF MINUTES
 - Commissioner Chollet moved to approve the regular meeting minutes of August 3, 2026, as presented
@@ -275,12 +182,12 @@
 - planning projects in the packet and will continue to update that report. Whitehouse stated that he
 - Approved this 5th day of October, 2026
 
-## [wellington#11] 2026-09-15 | Board of Trustees | agenda
+## [wellington#8] 2026-09-15 | Board of Trustees | agenda
 - 8225 3rd Street | PO Box 127 | Wellington, CO 80549 | WellingtonColorado.gov
 - Presentation: Elizabeth Relford, Executive Director
 - Presentation: Lucas Flax, Project Manager; Bob Gowing, Director of Public Works
 
-## [wellington#12] 2026-09-15 | Board of Trustees | agenda
+## [wellington#9] 2026-09-15 | Board of Trustees | agenda
 - 8225 3rd Street | PO Box 127 | Wellington, CO 80549 | WellingtonColorado.gov
 - Presentation: Elizabeth Relford, Executive Director
 - Presentation: Lucas Flax, Project Manager; Bob Gowing, Director of Public Works
@@ -326,7 +233,7 @@
 - 5th Street conflict
 - Mears – a subcontractor to Black Hills, reclocated a utility to
 
-## [wellington#13] 2026-09-22 | Board of Trustees | minutes
+## [wellington#10] 2026-09-22 | Board of Trustees | minutes
 - I . Metropolitan District Model Service Plan and Review Policy Discussion
 - 3. Amendments to Agenda
 - There were no amendments to the agenda
@@ -348,7 +255,7 @@
 - Day, the last Movie in the Park, and the Community Services Center for Wellington gala
 - 8225 3d Street I PO Box 127 | Wellin8ton, CO 8054, I wellingtoncolorado.gov
 
-## [wellington#14] 2026-10-02 | Board of Trustees | agenda
+## [wellington#11] 2026-10-02 | Board of Trustees | agenda
 - 8225 Third Street | PO Box 127 | Wellington, CO 80549 | WellingtonColorado.gov
 - FY2027 Budget Workday
 - 9:00 AM 2025 – 2029 Strategic Plan and FY2027 Budget
@@ -358,7 +265,7 @@
 - ▪ Professional Development
 - Capital Project Review
 
-## [wellington#15] 2026-10-02 | Board of Trustees | agenda
+## [wellington#12] 2026-10-02 | Board of Trustees | agenda
 - 8225 Third Street | PO Box 127 | Wellington, CO 80549 | WellingtonColorado.gov
 - FY2027 Budget Workday
 - 9:00 AM 2025 – 2029 Strategic Plan and FY2027 Budget
@@ -400,48 +307,28 @@
 - identiﬁed through the Housing Needs & AƯordability Assessment. Planning
 - StaƯ will be administering several grant-funded initiatives to meet State
 
-## [wellington#16] 2026-10-05 | Planning Commission | agenda
-- Individuals wishing to make public comments must attend the meeting in person or submit
-- 3:00 p.m. the Friday prior to the meeting . After that time, written public comments cannot be accepted
-- 5. CONSIDERATION OF MINUTES
-- A. Housing Needs & Affordability Assessment (HNA) Technical Memorandum Update and
-- A. 3rd Quarter 2026 Residential Building Permit Activity and Lot Inventory Report
-
-## [wellington#17] 2026-10-05 | Planning Commission | agenda
-- Individuals wishing to make public comments must attend the meeting in person or submit
-- 3:00 p.m. the Friday prior to the meeting . After that time, written public comments cannot be accepted
-- 5. CONSIDERATION OF MINUTES
-- A. Housing Needs & Affordability Assessment (HNA) Technical Memorandum Update and
-- A. 3rd Quarter 2026 Residential Building Permit Activity and Lot Inventory Report
-- BACKGROUND / DISCUSSION
-- Move to approve the Regular Meeting Minutes of September 14, 2026 as presented
+## [wellington#13] 2026-10-05 | Planning Commission | minutes
 - There was no public comment
-- Commissioner Chollet moved to approve the regular meeting minutes of August 3, 2026, as presented
-- A. Public Hearing to Consider Amendments to the Land Use Code, Chapter 15, Article 8 – Floodplain
-- said yes, and that the changes were aligned with a model ordinance provided by FEMA
-- Chair Sartor opened the public hearing at 6:43 PM. There was no public comment Chair Sartor closed
-- the public hearing at 6:43 PM
-- Commissioner Whitehouse moved to adopt the Land Use Code amendments to Chapter 15, Article 8
-- standards and forward a recommendation of approval to the Board of Trustees. Commissioner Chollet
-- planning projects in the packet and will continue to update that report. Whitehouse stated that he
-- Approved this 5th day of October, 2026
-- Subject: Housing Needs & Affordability Assessment (HNA) Technical Memorandum Update and
-- Staff will present key takeaways from a draft Technical Memorandum to the Housing Needs & Affordability
-- evaluations. Staff is seeking feedback and direction regarding the content and presentation of the Technical
-- In 2024, the Town contracted with Matrix Design Group to complete a Housing Needs & Affordability
-- in January, 2026. The accepted HNA is available for review on the Town's website - Wellington Housing
-- As the Town anticipates undertaking studies for housing plans and policies, including a Housing Action Plan
-- the HNA to incorporate the more recent data
-- In addition to incorporating the new ACS data, the memorandum also incorporates new Department of Local
-- growth projections, and homelessness data. The memorandum does not propose any new policies or
-- good foundation for the upcoming Housing Action Plan anticipated to be completed in 2027
-- Staff is requesting feedback from the Planning Commission regarding the memorandum's content and
-- presentation. Feedback will be incorporated into the final memorandum and will be brought back to the
-- Commission for consideration in December
-- This item is for presentation and discussion purposes. No action will be taken
-- 1. HNA Technical Memorandum Update PC Presentation 10 05 2026
+- 5. CONSIDERATION OF MINUTES
+- Commissioner Chollet moved to approve the regular meeting minutes of September 14, 2026, as
+- A. Housing Needs & Affordability Assessment (HNA) Technical Memorandum Update and Discussion
+- inform further planning documents, help with grant applications, and help prioritize planning
+- decisions. Sartor asked if the Town is considering updating population projections. Bird replied that
+- updating population projections is anticipated as part of a future effort, and the current
+- projections are based on the best precedent the Town has. Checkett added that most of the
+- recommendations of the HNA should hold true regardless of the rate of growth
+- Chollet asked how the tax numbers inform affordability and the gaps. Checkett said that it’s a
+- proxy for economic health and vitality which is indicative of housing affordability and contributes
+- Chollet asked what is the ratio of rental housing to owner housing units in the housing gap table?
+- A. 3rd Quarter 2026 Residential Building Permit Activity and Lot Inventory Report
+- stated that it is still in the entitlement process and we are waiting on a submittal for final plat
+- said that the subdivision would contribute to meeting some of the housing gaps identified in the
+- Bird shared an update on the current and upcoming projects the Planning Department is working
+- on. Chollet asked if Staff anticipated any updates to the Land Use Code for data centers or other
+- development standards. Bird replied that evaluating commercial standards and setbacks for light
+- Approved this 2nd day of November, 2026
 
-## [wellington#18] 2026-10-13 | Board of Trustees | minutes
+## [wellington#14] 2026-10-13 | Board of Trustees | minutes
 - Amendments to Agenda
 - There were no amendments
 - Public Comment
@@ -478,7 +365,7 @@
 - Resolution No. 38-2026: A Resolution Authorizing Acceptance olGrant Funding and Execution of
 - an Intergovemmental Grant Agreement with the Colorado Energy Office for the Local IMPACT
 
-## [wellington#19] 2026-10-14 | Parks, Recreation, Open Space, and Trails Advisory Board  | agenda
+## [wellington#15] 2026-10-14 | Parks, Recreation, Open Space, and Trails Advisory Board  | agenda
 - 8225 3rd Street | PO Box 127 | Wellington, CO 80549 | WellingtonColorado.gov
 - PARKS, RECREATION, OPEN SPACES AND TRAILS ADVISORY BOARD MEETING
 - 4. Approval of Minutes
@@ -488,7 +375,7 @@
 - d. Budget Discussion - 2027 Operations and Future CIP
 - 7. Announcements (Parks, Recreation, Open Space and Trails)
 
-## [wellington#20] 2026-10-14 | Parks, Recreation, Open Space, and Trails Advisory Board  | agenda
+## [wellington#16] 2026-10-14 | Parks, Recreation, Open Space, and Trails Advisory Board  | agenda
 - 8225 3rd Street | PO Box 127 | Wellington, CO 80549 | WellingtonColorado.gov
 - PARKS, RECREATION, OPEN SPACES AND TRAILS ADVISORY BOARD MEETING
 - 4. Approval of Minutes
@@ -525,11 +412,11 @@
 - Exercise: Board members identified three practical and achievable actions that PROST could pursue within
 - Workshop presentation and discussion overview to be provided by BerryDunn and available as needed
 
-## [wellington#21] 2026-10-20 | Board of Trustees | agenda
+## [wellington#17] 2026-10-20 | Board of Trustees | agenda
 - 8225 3rd Street | PO Box 127 | Wellington, CO 80549 | WellingtonColorado.gov
 - 1. Metropolitan Districts Model Service Plan and Review Policy Criteria
 
-## [wellington#22] 2026-10-20 | Board of Trustees | agenda
+## [wellington#18] 2026-10-20 | Board of Trustees | agenda
 - 8225 3rd Street | PO Box 127 | Wellington, CO 80549 | WellingtonColorado.gov
 - 1. Metropolitan Districts Model Service Plan and Review Policy Criteria
 - Subject: Metropolitan Districts Model Service Plan and Review Policy Criteria
@@ -568,66 +455,50 @@
 - V. Powers, Improvements and Services ......................................................5
 - VI. Financial Plan ..........................................................................................12
 
-## [wellington#24] 2026-10-27 | Board of Trustees | agenda
-- 8225 3rd Street | PO Box 127 | Wellington, CO 80549 | WellingtonColorado.gov
-- Individuals wishing to make public comments must attend the meeting in person or may submit comments by
-- Presentation: Hannah Hill, Town Clerk
+## [wellington#20] 2026-10-27 | Board of Trustees | minutes
 - 3. Amendments to Agenda
-- 1. Public Comment
-- 1. Resolution No. 41-2026: A Resolution Approving a Water Supply Agreement with North Poudre
-- Presentation: Meagan Smith, Deputy Director of Public Works
-- 2. Resolution No. 42-2026: A Resolution Approving a Storage and Carriage Operations Agreement
-- 3. Resolution 43-2026: A Resolution to Adopt the 2025-2026 Water Distribution System Master Plan
-- Presentation: Nathan Ewert, Deputy Director of Public Works and Engineering
-- 4. Resolution No. 44-2026: A Resolution Authorizing an Interfund Loan from the General Fund to the
-- Sewer Fund through December 31, 2040
-- Presentation: Nic Redavid, Finance Director | Town Treasurer, and Meagan Smith, Deputy
-- 5. Ordinance No. 14-2026: An Ordinance Establishing Fees to be Charged by the Town of Wellington,
-- Presentation: Meagan Smith, Deputy Director of Public Works, and Nic Redavid, Finance
-- 6. Ordinance No. 15-2026: An Ordinance Establishing Capital Investment Fees to be Charged by the
-- Town of Wellington, Colorado for Connection to Water and Wastewater Utility Systems
+- There were no amendments made to the agenda
+- l. Public Comment
+- There was no public comment
+- Trustee ('annon moved lo approve the consenl agenda
+- 8225 3d Street I PO Box 127 | Wellin4on, CO 80549 | Wellingtoncolorado.gov
+- Resolution No. 41-2026: A Resolution Approving a Water Supply Agreement with North Poudre
+- years ofdiscussion and evaluations from both companies. Ms. Smith noted the need to change the
+- 1983 North Poudre Irrigation Company agreement including the cost increased. including
+- and the need ofthe Town to be able to store or convey future foreign water supplies
+- The cost comparison was reviewed, including noting the 2027 agreement includes step-down
+- payments in the initial four years. which would provide the Town with greater budget predictability
+- The Board asked ifthe NPIC doesn't approve the agreement would the Town be governed by the
+- 1983 agreement. Ms. Smith noted that it would be upheld, however staff does not expect this to be a
+- contentious approval as it's a modification for existing operating agreements to capture
+- Adam Jokerst with Westwater Research noted the work staff has done for several years and noted
+- Mayor Dailey opened public comment, to which there w.rs none
+- agreement, and thanked staff for the work that has been done on the agreement
+- Mayor Dailey moved to omend the molion to grant the Town Administrator authority to sign the
+- Trustee Cannon seconded and the amendment passed
+- Truslee Moyer moved to approve Resolution No. 41-2026, a Resolulion Approving a Waler Supply
+- Agreement v,ith North Poudre lrrigation (lompany as amended
+- Truslee Cannon seconded and the amended motion passed
+- Resolution No. 42-2026: A Resolution Approving a Storage and Carriage Operations Agreement
+- There was no Board comment or public comment on this item
+- Truslee Cannon moved to approve Resolution No. 12-2026. o Resolution Approving o Storage and
+- Carriage Operations Agreement u,ith North Poudre lrrigation Company and grant the Town
+- ) Resolution No. 43-2026: A Resolution to Adopt the 2O25-2026 Water Distribution System Master
+- Nathan Ewert, Deputy Director ofPublic Works and Engineering, presented the master plan and
+- reviewed the project scope including the existing distribution system master plan
+- Mayor Dailey opened public comment, to which there was none
+- The Board noted that the master plan ties in with the agreements with No(h Poudre that was
+- approved on the same agenda. with considerations to keep in mind how the costs through grants
+- plans. and to be reviewing annexation plans as a part ofthe discussed master plan
 
-## [wellington#25] 2026-10-27 | Board of Trustees | agenda
-- 8225 3rd Street | PO Box 127 | Wellington, CO 80549 | WellingtonColorado.gov
-- Individuals wishing to make public comments must attend the meeting in person or may submit comments by
-- Presentation: Hannah Hill, Town Clerk
-- 3. Amendments to Agenda
-- 1. Public Comment
-- 1. Resolution No. 41-2026: A Resolution Approving a Water Supply Agreement with North Poudre
-- Presentation: Meagan Smith, Deputy Director of Public Works
-- 2. Resolution No. 42-2026: A Resolution Approving a Storage and Carriage Operations Agreement
-- 3. Resolution 43-2026: A Resolution to Adopt the 2025-2026 Water Distribution System Master Plan
-- Presentation: Nathan Ewert, Deputy Director of Public Works and Engineering
-- 4. Resolution No. 44-2026: A Resolution Authorizing an Interfund Loan from the General Fund to the
-- Sewer Fund through December 31, 2040
-- Presentation: Nic Redavid, Finance Director | Town Treasurer, and Meagan Smith, Deputy
-- 5. Ordinance No. 14-2026: An Ordinance Establishing Fees to be Charged by the Town of Wellington,
-- Presentation: Meagan Smith, Deputy Director of Public Works, and Nic Redavid, Finance
-- 6. Ordinance No. 15-2026: An Ordinance Establishing Capital Investment Fees to be Charged by the
-- Town of Wellington, Colorado for Connection to Water and Wastewater Utility Systems
-- BACKGROUND / DISCUSSION
-- Provided for Board discussion and direction are redlines for Municipal Code Chapter 6, which houses various
-- Administrator/Clerk to the Town Clerk, as those roles have been separated since previous code adoption
-- Notable changes will be addressed in the presentation for the Board's discussion and direction
-- 3. Work Session Presentation
-- operation, pursuant to the authority granted to municipalities under C.R.S. 31-15-501, in order to protect the
-- time, and whether operated by an individual, partnership, corporation, limited liability company, or other legal
-- Nonprofit Organization means a corporation or entity recognized as tax-exempt under Section 501(c) of the
-- Town, including but not limited to an office, storefront, warehouse, jobsite, or the regular presence of employees,
-- consecutive days unless otherwise approved by the Town, approved pursuant to the Town's Special Event
-- (b) A business that holds a valid Colorado state retail sales tax license and has no Physical Presence or only
-- (c) Nonprofit organizations, upon verification of applicable tax-exempt status, shall be exempt from payment of
-- business license or vendor license fees but shall otherwise comply with all requirements of this Article
-- (d) A separate license shall be required for each business location
-
-## [wellington#26] 2026-11-02 | Planning Commission | agenda
+## [wellington#21] 2026-11-02 | Planning Commission | agenda
 - Individuals wishing to make public comments must attend the meeting in person or submit
 - 3:00 p.m. the Friday prior to the meeting . After that time, written public comments cannot be accepted
 - 5. CONSIDERATION OF MINUTES
 - A. Housing Needs Assessment Technical Memorandum Final Draft Acceptance
 - A. Comprehensive Plan Strategic Growth & Water Supply Elements Discussion
 
-## [wellington#27] 2026-11-02 | Planning Commission | agenda
+## [wellington#22] 2026-11-02 | Planning Commission | agenda
 - Individuals wishing to make public comments must attend the meeting in person or submit
 - 3:00 p.m. the Friday prior to the meeting . After that time, written public comments cannot be accepted
 - 5. CONSIDERATION OF MINUTES
@@ -659,3 +530,62 @@
 - at the October 5 meeting and provided feedback. That feedback, along with input from Town Staff, was
 - In 2024, the Town contracted with Matrix Design Group to complete a Housing Needs & Affordability
 - in January, 2026. The accepted HNA is available for review on the Town's website - Wellington Housing
+
+## [wellington#23] 2026-11-10 | Board of Trustees | agenda
+- 8225 3rd Street | PO Box 127 | Wellington, CO 80549 | WellingtonColorado.gov
+- Individuals wishing to make public comments must attend the meeting in person or may submit comments by
+- 3. Amendments to Agenda
+- 2. Public Comment
+- C. PRESENTATION
+- 1. Comprehensive Plan Amendments: Water Supply and Strategic Growth Elements
+- Presentation: Cody Bird, Planning Director and Miriam McGilvray, Logan Simpson
+- Presentation: Hannah Hill, Town Clerk
+- 2. Resolution No. 45-2026 - A Resolution of the Town of Wellington, Colorado, Making
+- Appointments to the Finance Advisory Board
+- 3. Resolution No. 46-2026 - A Resolution of the Town of Wellington, Colorado Cancelling Regular
+- 1. Resolution No. 47-2026 - Public Hearing and Consideration of A Resolution Summarizing
+- Expenditures and Revenues for Each Fund and Adopting a Budget for the Town of Wellington,
+- Presentation: Patti Garcia, Town Administrator; Nic Redavid, Finance Director | Town
+- 2. Resolution No. 48-2026 - Public Hearing and Consideration of A Resolution Levying Property
+- Taxes for the Year 2026 To Help Defray The Costs of Government for the Town of Wellington,
+- 3. Ordinance No. 15-2026A - Public Hearing and Consideration of an Ordinance Appropriating Sums
+- 4. Resolution No. 49-2026 - A Resolution by the Town of Wellington, Colorado Awarding a Contract
+- for the Construction of the Water Treatment Plant Administration and Lab Building
+- Presentation: Lucas Flax, PE - Senior Engineer
+- 5. Ordinance No. 16-2026 - Amending Chapter 6 of the Wellington Municipal Code
+
+## [wellington#24] 2026-11-10 | Board of Trustees | agenda
+- 8225 3rd Street | PO Box 127 | Wellington, CO 80549 | WellingtonColorado.gov
+- Individuals wishing to make public comments must attend the meeting in person or may submit comments by
+- 3. Amendments to Agenda
+- 2. Public Comment
+- C. PRESENTATION
+- 1. Comprehensive Plan Amendments: Water Supply and Strategic Growth Elements
+- Presentation: Cody Bird, Planning Director and Miriam McGilvray, Logan Simpson
+- Presentation: Hannah Hill, Town Clerk
+- 2. Resolution No. 45-2026 - A Resolution of the Town of Wellington, Colorado, Making
+- Appointments to the Finance Advisory Board
+- 3. Resolution No. 46-2026 - A Resolution of the Town of Wellington, Colorado Cancelling Regular
+- 1. Resolution No. 47-2026 - Public Hearing and Consideration of A Resolution Summarizing
+- Expenditures and Revenues for Each Fund and Adopting a Budget for the Town of Wellington,
+- Presentation: Patti Garcia, Town Administrator; Nic Redavid, Finance Director | Town
+- 2. Resolution No. 48-2026 - Public Hearing and Consideration of A Resolution Levying Property
+- Taxes for the Year 2026 To Help Defray The Costs of Government for the Town of Wellington,
+- 3. Ordinance No. 15-2026A - Public Hearing and Consideration of an Ordinance Appropriating Sums
+- 4. Resolution No. 49-2026 - A Resolution by the Town of Wellington, Colorado Awarding a Contract
+- for the Construction of the Water Treatment Plant Administration and Lab Building
+- Presentation: Lucas Flax, PE - Senior Engineer
+- 5. Ordinance No. 16-2026 - Amending Chapter 6 of the Wellington Municipal Code
+- WHEREAS, the Town of Wellington celebrates our local small businesses and the contributions they
+- supporting our schools, parks, and public services; and
+- Subject: Comprehensive Plan Amendments: Water Supply and Strategic Growth
+- Presentation: Cody Bird, Planning Director and Miriam McGilvray,
+- BACKGROUND / DISCUSSION
+- The Town is undertaking updates to its Comprehensive Plan in accordance with requirements of SB24
+- 174. The senate bill requires municipalities to incorporate a Strategic Growth Element and a Water Supply
+- Element into the Comprehensive Plan. The Town has engaged professional services with Logan Simpson
+- incorporate these two elements into the Wellington Comprehensive Plan 2021
+- This presentation is intended to provide an overview of the process, present findings and insights from a review
+- of existing conditions, share initial recommendations, and solicit feedback and discussion from the Board of
+- Comprehensive Plan 2021, the 2025 Water Source Development Plan, the 2025 Housing Needs & Affordability
+- Assessment (HNA), recent amendments to the Land Use Code (2025 amendments updating residential lot sizes,

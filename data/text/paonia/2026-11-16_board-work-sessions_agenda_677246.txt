@@ -1,0 +1,1018 @@
+ 
+Town of Paonia 
+214 Grand Avenue 
+Monday, November 16, 2026 5:30 PM 
+Board of Trustees Work Session Agenda 
+https://us02web.zoom.us/j/81375372612 
+Meeting ID: 8137 537 2612 
+ 
+ 
+ 
+ 
+  
+A) Work Session 
+ 1) Recodification with Leslie Klusmire from Sustainable Solutions LLC 
+ 
+ 
+Page 1 of 31
+ 
+Page 2 of 31
+Page 1 of 29 
+ 
+To:  Mayor Sheree Fischer and Board of Trustees 
+From:  Leslie Klusmire, Sustainable Futures LLC 
+Date:  November 16, 2026 
+Subject: Municipal Code Rewrite — Chapters 16, 17 & 18 
+ 
+Executive Summary 
+The Town's municipal code rewrite provides an opportunity to modernize Paonia's land-use 
+regulations, implement the Comprehensive Plan, expand housing choices, support economic 
+development, preserve community character, and establish more effective development standards. 
+The proposed revisions substantially reorganize Chapters 16 (Zoning), 17 (Subdivisions), and 18 
+(Building Regulations).  They also clarify administrative responsibilities, eliminate outdated or 
+potentially unenforceable provisions, and establish more predictable review procedures. 
+Major policy recommendations include: 
+• Housing and residential infill: Reduce minimum lot sizes and widths in older, denser 
+neighborhoods; allow development on existing legal lots; reduce setbacks where appropriate; 
+eliminate restrictive average-lot-size requirements; permit ADUs by right throughout residential 
+areas; accommodate smaller dwelling units, duplexes, townhouses, cottage clusters, and 
+cohousing; and provide flexibility for alley-accessed housing. 
+• Affordable housing: Encourage the integration of permanently affordable units into market-
+rate developments, rather than relying primarily on concentrated affordable housing projects.  
+• Economic development: Expand opportunities for creative industries, live/work units, studios, 
+workshops, small-scale production, cultural facilities, artisan businesses, and locally owned 
+enterprises.  Accommodate these uses in appropriate commercial, mixed-use, industrial, and 
+residential districts. 
+• Downtown and neighborhood character: Establish simple, measurable design standards that 
+protect historically significant buildings, encourage rehabilitation and adaptive reuse, and 
+ensure new construction reinforces the scale, proportions, and pedestrian character of 
+downtown without requiring imitation historic architecture.  Consider a companion illustrated 
+design manual and separate demolition provisions. 
+• Development and environmental standards: Modernize parking requirements and 
+management, landscaping, permeable surfacing, stormwater management, and accessory 
+building standards.  Incorporate energy-efficient building design, solar-ready construction, solar 
+access considerations, mature tree canopy preservation, and enforceable Complete Streets 
+requirements. 
+Page 3 of 31
+Page 2 of 29 
+ 
+• Subdivision and planned development: Clarify major and minor subdivision procedures, 
+establish a separate streamlined process for lot-line adjustments, modernize PUD requirements 
+to encourage quality design, and establish appropriate standards for HOA documents, 
+infrastructure maintenance, and public improvements. 
+• Infrastructure financing: Consider adopting legally compliant development impact fees for 
+roads, water, sewer, public parking, and other capital facilities to ensure new development 
+contributes its proportionate share of the infrastructure costs associated with growth.  Require 
+infrastructure bond cost estimates to include a 15% contingency. 
+• Development review and administrative efficiency: Clarify the respective responsibilities of the 
+Community Development Director, Building Official, and other Town officials; simplify review 
+procedures; establish consistent application requirements and fee schedules; recover actual 
+development application costs through advance payment; and provide appropriate fee waivers 
+for public and qualifying community-benefit projects. 
+• Code modernization and regulatory consistency: Reorganize Chapters 16, 17, and 18; update 
+definitions and zoning classifications; incorporate applicable state statutory requirements, 
+including the Vested Property Rights Act; eliminate outdated or unenforceable provisions; and 
+establish clear, consistent approval and appeal procedures. 
+These recommendations provide a practical regulatory framework appropriate to a small town.  They 
+do not require Paonia to adopt the extensive and complex standards used by larger municipalities. 
+The Board's direction is requested throughout the discussion of revision options, with questions 
+highlighted in grey, and will guide preparation of the draft code.  I will use your directions from the first 
+workshop and this one to prepare a cost proposal.  While you consider the cost proposal, I intend to 
+start drafting Chapters 1-15 to increase the chances of completing a draft by the end of January.  DOLA 
+will want to see substantial progress on this project by then. 
+This is a workshop document, not a final code review or proposed ordinance. 
+Update Three-Mile Plan 
+The Comprehensive Plan appears to call for updating the Three-Mile Plan.  
+Board Direction: The Municipal Code Update will include an updated zoning map.  Does 
+the Board want to include an updated Three-Mile Plan as part of the municipal code 
+update contract? 
+Page 4 of 31
+Page 3 of 29 
+ 
+Enhance Town's Resiliency to Natural Disasters and Environmental 
+Hazards 
+This action is listed as a Land Use Policy.  Flood zone regulations in Chapter 18 (which will be 
+moved to Chapter 16) generally cover flooding concerns.  This appears to be more a Town 
+response readiness program than a regulatory issue. 
+Board Direction: Does the Board have ideas about other Municipal Code regulations to 
+accomplish this policy?  
+Identify Areas for Affordable Housing 
+Does the Town intend to conduct a land availability survey to accomplish this?  For a community 
+of this size, I generally recommend doing so only if the Town intends to partner with an affordable 
+housing developer proactively and has secured financing for a project specifically designed to 
+provide affordable housing.  Rather than conducting a survey and selecting sites independently, I 
+recommend working directly with the developer's expertise to identify suitable tracts of land.  As 
+someone who has been directly involved, on a developer's behalf, in selecting suitable sites, I 
+know it is important to keep development costs down, and that individual site conditions can 
+drive construction costs up or down. 
+Another approach is to integrate affordable units throughout market-rate housing rather than 
+concentrate them on separate developments.  The City of Boulder pioneered this approach in 
+1985, with considerable success.  It reduces the concentration of low-income households in any 
+one area and better integrates residents across income levels into the broader community. 
+Paonia's Comprehensive Plan already supports this approach through policies that encourage 
+ADUs, smaller lots, and smaller dwelling units in residential zones.  The Town should consider 
+pursuing funding to offset the construction costs of affordable units throughout the community, in 
+exchange for deed restrictions that keep rents or sale prices affordable for low-income 
+households.  This would create more economically integrated neighborhoods rather than relying 
+primarily on concentrated affordable housing developments. 
+ 
+Chapter 16 – Zoning 
+Chapter 16 will be substantially reorganized.  Accordingly, the issues discussed below may not follow 
+the current code's organization. 
+Page 5 of 31
+Page 4 of 29 
+ 
+General Changes 
+Chapter title: Chapter 16 addresses more than zoning.  I recommend renaming it.                                                         
+Chapter 16 – Land Use and Development. 
+Sign code: Relocate the sign code to Chapter 16. 
+Comprehensive Plan: Replace references to "Master Plan" with "Comprehensive Plan" to avoid 
+confusion.  Clarify in the definitions that "Comprehensive Plan" is used instead of the state statute 
+reference to "Master Plan." 
+Vested Property Rights Act (VPRA), C.R.S. §§ 24-68-101 through 24-68-106: The current code does not 
+appear to incorporate this statute.  Update Chapters 16 and 17 for compliance with the Vested 
+Property Rights Act. 
+Recommending authority: Update this Chapter to assign authority to the Community Development 
+Director instead of the Town Administrator. 
+Comprehensive Plan Appendix E – Land Use Regulations Review: Incorporate all adopted 
+recommended edits, except those requiring zoning map amendments, which warrant further 
+discussion. 
+The Comprehensive Plan recommends removing zoning districts that are not currently mapped.  I 
+recommend caution.  The Town previously de-annexed property zoned Estate Residential.  If the Town 
+anticipates allowing that land-use pattern in the future, retaining the district option may be 
+appropriate.  I agree that the three Mobile Home districts should be consolidated. 
+ 
+Definitions  
+Relocate definitions to Chapter 3 and link use of words defined in all Chapters to their Chapter 3 
+definitions.  Definitions generally need updating and clarification.  Inconsistencies will be resolved to 
+ensure consistent use throughout the code. 
+Definition of "Family": Colorado HB 24-1007, the HOME Act, effective July 1, 2024, supersedes 
+Paonia's current definition.  It prohibits local governments from limiting the number of people who 
+may live together in a dwelling based on their familial relationships. 
+Cohousing 
+Board direction: Does the following definition adequately describe the intended use? 
+COHOUSING DEVELOPMENT: A residential development consisting of multiple private dwelling 
+units arranged around or associated with shared common facilities and open space intended 
+primarily for residents' use and enjoyment.  Shared facilities may include kitchens, dining areas, 
+gathering rooms, recreational facilities, gardens, workshops, and other accessory amenities. 
+Page 6 of 31
+Page 5 of 29 
+ 
+Cohousing developments may consist of detached, attached, or vertically integrated dwelling 
+units.  They may be organized under individual ownership, condominium ownership, 
+cooperative ownership, rental arrangements, or other lawful forms of tenure. 
+Cohousing is a residential use and shall not be classified as a lodging, boarding, rooming, 
+institutional, or congregate-care use solely because residents share common facilities or 
+participate in communal activities. 
+ 
+Uses 
+Formula businesses: The current code regulates "formula" businesses separately.  The term "formula 
+business" generally refers to chains and franchises.  Courts have repeatedly rejected distinctions based 
+solely on a business model.  Businesses of similar types must be regulated in the same way. 
+I assume this regulation is intended to preserve community character.  Other municipalities have 
+addressed this issue by adopting design standards requiring all businesses to reflect the community's 
+existing and desired character.  Because Paonia does not have through traffic or a population base that 
+would attract these types of businesses, you may not have to deal with them in the foreseeable future.  
+Some franchises that locate in small towns include Dollar General, Subway, various auto parts 
+franchises, gas station franchises, etc.  Larger franchises are more likely to locate in Hotchkiss because 
+several small towns are nearby. 
+Board direction: Would the Board like to consider design standards to replace the separate 
+formula-based regulations?  Or are you comfortable just removing them from the code? 
+Cohousing: The Comprehensive Plan recommends allowing cohousing as a permitted use.  I 
+recommend considering conditional administrative approval based on clearly defined criteria.  This 
+would help distinguish cohousing from rooming or lodging facilities and allow staff to verify that 
+proposed projects have the infrastructure and facilities necessary to function as cohousing.  Here is a 
+sample option:  
+To qualify as a cohousing development, a project shall: 
+1. Consist of at least two independent dwelling units. 
+2. Provide at least one shared indoor or outdoor common area designed for regular use by 
+residents.  The common area may be located within a dwelling building or in a separate 
+structure. 
+3. Include a site layout that provides convenient pedestrian access to shared facilities and 
+encourages interaction among residents. 
+4. Establish an arrangement for resident participation in the management and maintenance of 
+shared facilities and common property. 
+Page 7 of 31
+Page 6 of 29 
+ 
+5. Provide each dwelling unit with private living and sleeping areas and access to sanitation 
+facilities.  Private kitchens are encouraged but are not required if the project is intentionally 
+designed around shared meal preparation and dining facilities. 
+Common facilities may include a shared kitchen, dining or gathering room, garden, courtyard, 
+workshop, recreation area, laundry, or other amenities serving residents. 
+Board direction: Does the Board agree that co-housing developments require specific criteria, 
+can be reviewed for compliance, and can be approved administratively? 
+ 
+Zoning Districts 
+Implementing the Comprehensive Plan will likely require changes to the number and names of zoning 
+districts and possibly their boundaries. 
+The current use table uses three designations: 
+• P – Permitted by right 
+• S – Permitted by special review 
+• X – Prohibited 
+I recommend adding a fourth designation: 
+• C – Conditional review: Uses subject to established and specific criteria that may be approved 
+administratively when all requirements are met. 
+Some current use classifications are outdated.  I will replace them with terminology reflecting 
+contemporary uses in small towns. 
+The following are potential changes to zoning districts and permitted uses. 
+District Proposed direction 
+E-1 – Estate 
+Residential 
+Retain if the Town anticipates allowing this land-use pattern. 
+R-1 – Low-Density 
+Residential 
+Add duplexes.  Consider live/work units as a conditional use. 
+R-2 – Medium-
+Density Residential 
+Consider live/work units as a conditional use.  Include cohousing 
+with defined criteria and appropriate review.  Allow greater than 
+duplex residential density per lot through special review. 
+Page 8 of 31
+Page 7 of 29 
+ 
+R-3 – Higher-Density 
+Residential 
+Consider live/work units as a conditional use.  Include cohousing 
+with defined criteria and appropriate review. 
+MH – Mobile Home 
+Park/Subdivision 
+Consolidate the three existing mobile home districts.  Determine 
+whether the Town wants to allow new mobile home subdivisions. 
+C-1 – Core 
+Commercial 
+Align with the downtown areas with the goals and policies defined in 
+the Comprehensive Plan.  I also recommend reserving first-floor 
+storefront spaces for businesses that generate frequent public 
+activity, such as retail, restaurants, bars, theaters, and personal 
+services.  Allowing uses that do not serve the public directly can 
+weaken downtown activity and economic vitality. 
+C-2 – Community 
+Commercial 
+Consider live/work units; discourage standalone residential 
+development. 
+I-1 – Light Industrial Consider live/work units; discourage standalone residential 
+development. 
+I-2 – Industrial Consider live/work units; discourage standalone residential 
+development. 
+DR – Developing 
+Resource 
+Retain for appropriate resource-related uses. 
+P – Public Retain for public uses. 
+Board direction: Please share your thoughts on the proposed uses and district changes. 
+ 
+Implementing the Comprehensive Plan's "Creative" Economy Policies 
+The Comprehensive Plan refers to "creative" several times but does not define the term.  More 
+specificity is needed to translate these policies into land-use regulations. 
+I interpret the references to creative industries as consistent with UNESCO's broad definition, which 
+recognizes creative industries as an important part of a small-town economy—not simply art galleries, 
+museums, and performance venues. 
+For land-use planning, this includes places where people create, produce, develop, preserve, teach, 
+exhibit, distribute, or sell cultural, artistic, and creative products and services.  It encompasses both the 
+Page 9 of 31
+Page 8 of 29 
+ 
+production of creative work and the businesses that bring it to the public.  A gallery is only one part of 
+that economic chain. 
+For a town of approximately 2,000 people, I recommend accommodating home-based businesses, 
+small commercial enterprises, studios, workshops, cultural venues, and mixed-use developments, 
+including live/work units in appropriate districts. 
+Recommended Land-Use Categories 
+Proposed category Examples 
+Artist and artisan studios Art, crafts, sculpture, ceramics, textiles 
+Artisan production Small-scale creative manufacturing 
+Art galleries and exhibition spaces Galleries, cooperative sales, exhibitions 
+Performing arts facilities Theater, dance, music, performance 
+Music production Recording, rehearsal, instruction 
+Creative professional services Graphic, architectural, interior design 
+Media production Film, video, photography, podcasting 
+Publishing and literary arts Bookstores, publishing, writing, printing 
+Culinary arts and artisan food production Specialty foods, bakeries, culinary studios 
+Cultural and heritage facilities Museums, archives, heritage centers 
+Creative education Art, music, dance, craft, and design instruction 
+Creative enterprise centers Maker spaces, shared studios, incubators 
+Cultural event facilities Festivals, artisan markets, cultural events 
+Additional Uses to Consider 
+The following uses may be especially important to a small-town creative economy: 
+• Artist live/work spaces: Combined residential and studio space. 
+• Artist residency facilities: Temporary accommodations and workspaces for visiting artists. 
+• Creative retail: Shops selling locally produced art, crafts, design products, and specialty goods. 
+• Cultural tourism: Facilities interpreting local cultural traditions, history, and creative products. 
+Page 10 of 31
+Page 9 of 29 
+ 
+• Community fabrication facilities: Shared equipment and facilities for small-scale creative 
+production. 
+• Artisan markets: Indoor or outdoor spaces for regular sales of locally produced goods. 
+• Creative event spaces: Venues for workshops, demonstrations, exhibitions, performances, and 
+cultural gatherings. 
+ 
+Appropriate Zoning Contexts 
+Zoning context Options for appropriate creative uses 
+Downtown 
+commercial 
+Galleries, bookstores, studios, artisan retail, performance, 
+culinary arts 
+General commercial Design offices, media production, artisan food production, 
+creative services 
+Mixed-use Artist live/work, studios, galleries, creative offices 
+Industrial/light 
+industrial 
+Artisan manufacturing, fabrication, film production, larger 
+workshops 
+Residential Home-based studios, writing, design, music instruction, small-
+scale craft production 
+Public/institutional Museums, cultural centers, theaters, libraries, community arts 
+facilities 
+Allow creative businesses to occupy existing buildings, vacant storefronts, and appropriate accessory 
+spaces is particularly important for a town of Paonia's size. 
+Board direction: Do these uses reflect the Board's vision for creative businesses and industries? 
+ 
+Preserving Downtown Character and Older Residential Neighborhoods 
+The Comprehensive Plan emphasizes preserving the character of downtown and the Town's older 
+residential neighborhoods. 
+Does the Town have an inventory of historically significant buildings and homes?  History Colorado 
+does not appear to have a historic building survey for Paonia in its database. 
+Buildings should not automatically be classified as historically significant simply because they are more 
+than 50 years old.  A preliminary inventory should distinguish among: 
+Page 11 of 31
+Page 10 of 29 
+ 
+• Contributing historic buildings. 
+• Noncontributing buildings. 
+• Vacant or undeveloped parcels. 
+• Buildings with significant architectural features worth protecting. 
+Recommended Regulatory Approach 
+The period from 1900 to 1940 could be the primary focus, although buildings outside that period may 
+also contribute to downtown character. 
+The objectives should be to: 
+1. Protect the historic commercial and residential buildings that give downtown its identity, 
+particularly buildings constructed between 1900 and 1940.  Avoid remodeling that makes 
+historic buildings look artificially new; the natural wear and patina of older buildings contribute 
+to downtown character. 
+2. Encourage continued use, rehabilitation, and adaptive reuse of historic buildings. 
+3. Allow interior renovations that do not affect a building's exterior appearance. 
+4. Ensure that new construction, additions, and redevelopment reinforce the scale, rhythm, and 
+pedestrian character of downtown rather than overpowering it.  Discourage imitation of 
+historic architecture. 
+5. Maintain a continuous, pedestrian-oriented streetscape. 
+New buildings should not be required to imitate historic architecture.  Welcome contemporary 
+architecture that respects the scale, proportions, placement, and character of historic buildings. 
+I recommend simple, measurable design standards administered by the Community Development 
+Director rather than creating a separate design review board.  Straightforward projects could be 
+approved administratively. 
+Demolition: Consider a separate demolition provision.  A code that carefully regulates new 
+construction but allows important historic buildings to be demolished without meaningful review does 
+not adequately protect historic character. 
+I also recommend a companion two- or three-page illustrated design manual showing acceptable and 
+unacceptable examples of storefront rehabilitation, new infill, building additions, rooflines, and facade 
+treatments.  The ordinance would contain enforceable requirements; the illustrations would help 
+applicants understand how to comply. 
+This combination is likely to be more effective for Paonia than a lengthy historic preservation code. 
+Board direction: Do these recommendations reflect the Board's approach to preserving Paonia's 
+character? 
+Page 12 of 31
+Page 11 of 29 
+ 
+ 
+Lot Sizes and Residential Infill 
+The Comprehensive Plan calls for reducing minimum lot sizes in the Town's denser areas.  I 
+recommend a neighborhood-context approach rather than reducing all residential minimums by the 
+same percentage.  Older, denser neighborhoods should accommodate smaller lots reflecting the 
+historic pattern, while newer, low-density areas may retain larger minimums. 
+The code should distinguish between minimum lot sizes for newly created lots and the ability to 
+develop existing, legally established lots.  Both are important to encouraging infill and more affordable 
+housing. 
+The original Paonia townsite appears to include many lots approximately 25 feet wide and 125–135 
+feet deep, or roughly 3,125–3,375 square feet.  Individual blocks and later subdivisions vary.  These 
+historic dimensions are substantially smaller than the current 6,000-square-foot residential minimum. 
+Option: Established Neighborhood Residential Area 
+The Town could establish an Established Neighborhood Residential area on the zoning map covering 
+older, more compact portions of Paonia.  Potential standards include: 
+• Minimum lot area of 3,000–3,500 square feet. 
+• Minimum lot width of 25 feet. 
+• Duplexes and ADUs permitted by right. 
+• Small-lot detached homes and townhouses. 
+• Reduced setbacks and flexible lot coverage. 
+• Lot consolidation permitted when owners choose, but not required for development of existing 
+small lots. 
+This would allow more housing without requiring wholesale redevelopment or large subdivisions. 
+Related Code Changes 
+Reducing lot area without revising other dimensional standards will have limited effect.  I recommend 
+considering the following: 
+1. Reduce minimum lot widths.  The existing 50-foot requirement is particularly restrictive.  
+Consider 25-foot lots in R-3 and 30-foot lots in R-2. 
+2. Allow development on existing legal lots.  A legally established lot should be eligible for 
+development even if it does not meet current minimum lot area, width, or frontage standards, 
+as long as it meets applicable building, access, fire-safety, and utility requirements. 
+Page 13 of 31
+Page 12 of 29 
+ 
+3. Reduce setbacks where appropriate.  Smaller lots need appropriately scaled setbacks.  
+Consider 15-foot front, 5-foot side, and 10-foot rear setbacks in R-2 and R-3, with additional 
+flexibility for existing lots and historic development patterns. 
+4. Eliminate the restrictive average-lot-size provision.  The current requirement that average lot 
+size be at least 6,000 square feet undermines the objective of allowing smaller lots.  Replace it 
+with objective standards addressing access, infrastructure, drainage, and usable building area. 
+5. Allow narrow-lot housing types.  Explicitly accommodate duplexes, townhouses, cottage 
+clusters, and small-lot detached homes. 
+6. Consider alley-accessed housing.  Allow subdivision through the center width of a lot and 
+construction of a small dwelling with access solely from the alley.  Tucson, Arizona, permits this 
+approach in older areas.  Parking is a consideration; requiring one or two on-site spaces, 
+depending on unit size, could address the issue. 
+Board direction: What reductions in lot size and setback requirements would the Board support to 
+implement the Comprehensive Plan? 
+ 
+Minimum Dwelling Unit Sizes 
+Modern land-use codes increasingly reduce or eliminate minimum dwelling-unit sizes to accommodate 
+more affordable housing options. 
+Unit type Suggested planning range 
+Micro-unit 180–300 sq. ft. 
+Studio 300–450 sq. ft. 
+One-bedroom 450–650 sq. ft. 
+Two-bedroom 650–850 sq. ft. 
+Three-bedroom 850–1100 sq. ft. 
+These are suggested planning ranges, not proposed mandatory minimums. 
+Board direction: Should the revised code allow smaller dwelling units without establishing 
+minimum sizes beyond applicable building and life-safety requirements? 
+ 
+Page 14 of 31
+Page 13 of 29 
+ 
+Managing Parking Impacts as Residential Density Increases 
+Reducing downtown parking requirements can improve walkability and land-use efficiency.  However, 
+increased density and tourism may place additional pressure on nearby residential streets, particularly 
+during summer weekends. 
+The following measures could help manage parking demand: 
+1. Public parking impact fee.  Consider a fee for new development based on the current cost of 
+400 square feet of land in the project area for each parking space the development would 
+otherwise be required to provide.  The Town would hold revenue in a dedicated fund and invest 
+it for future public parking improvements, potentially including a parking structure when 
+demand warrants it. 
+2.   Shared parking agreements.  Where shared parking supports development or increased 
+density, require an enforceable agreement to be filed with the Town.  Compatible examples 
+include: 
+a. Schools and entertainment, bar, or restaurant facilities, which have different peak-use 
+periods. 
+b. Churches with unused weekday parking and nearby offices or banks that need weekday 
+parking. 
+Agreements should include a remedy if shared parking becomes unavailable, such as providing 
+replacement parking or paying an established fee. 
+3.   Parking shuttles.  Require high-traffic businesses to provide frequent shuttle service to remote 
+parking lots during peak periods where appropriate. 
+4.   Town-owned parking.  Consider purchasing land near downtown for a public parking lot that 
+could later accommodate a parking structure. 
+5.   Downtown and neighborhood street parking.  Consider striping angled parking at 60–90 
+degrees on appropriate downtown and older residential streets.  Some streets could also 
+accommodate a striped bicycle lane.  These improvements may help absorb parking demand as 
+tourism and residential density increase. 
+6.   Consider adapting the Dutch concept of a woonerf, or "living street," on selected side 
+streets.  A woonerf is designed as shared public space rather than primarily as a vehicle route.  
+Its characteristics include: 
+• Cyclists, vehicles, and, where sidewalks are absent, pedestrians sharing the same space. 
+• Very low vehicle speeds, typically around walking speed. 
+• Reduced or eliminated conventional separation between sidewalks and travel lanes. 
+Page 15 of 31
+Page 14 of 29 
+ 
+• Street trees, planters, benches, and other features that make the street an extension of 
+the public realm. 
+7. Loading areas.  Consider not requiring on-site loading areas unless a business receives more 
+than daily truck deliveries.  In small downtowns, delivery trucks sometimes stop in the street.  
+This can also help slow traffic. 
+Board direction: Should the revised code provide mechanisms to accomplish these options? 
+ 
+Parking Lot Surfacing and Landscaping 
+1.   Permeable Parking Surfaces 
+Encourage permeable parking surfaces throughout Town while distinguishing between 
+engineered systems and less-stable materials. 
+All parking areas shall have a durable, dust-free surface that provides stable, mud-free vehicle 
+access and manages stormwater runoff. 
+Stable permeable surfaces: Engineered systems designed for anticipated vehicle loads and 
+traffic shall be permitted for parking areas of any size.  Examples include permeable 
+interlocking concrete pavers, porous asphalt, pervious concrete, and engineered gravel-
+stabilization systems. 
+Less-stable permeable surfaces:  Unstabilized or lightly stabilized gravel and similar materials 
+may be used for parking areas containing 20 or fewer spaces, provided they are properly 
+installed and maintained to prevent excessive rutting, erosion, dust, and mud. 
+Design and maintenance: Design permeable surfaces for site soil conditions, drainage, 
+anticipated traffic, snowplowing, and local freeze-thaw conditions.  Property owners shall 
+maintain surfaces in a safe, stable, and functional condition. 
+2.   Landscaping 
+Regarding the suggestion to reduce landscaping requirements, landscaping serves more than an 
+aesthetic purpose.  It reduces runoff and helps limit impacts on stormwater drainage systems.  
+In areas with greater lot coverage, landscaping provides important opportunities for 
+stormwater infiltration and reduces runoff entering streets and drainage systems. 
+Board direction: Should the revised code provide mechanisms to accomplish these options? 
+ 
+Page 16 of 31
+Page 15 of 29 
+ 
+Accessory Dwelling Units (ADUs) 
+Although Paonia is exempt from the new state statutes requiring certain jurisdictions to allow ADUs, 
+they remain one of the most effective ways to expand affordable housing opportunities.  The 
+Comprehensive Plan calls for allowing ADUs broadly throughout the Town. 
+I recommend permitting one ADU by right on any lot with a lawful principal dwelling, subject to 
+administrative review for compliance with objective code requirements. 
+Definition of Accessory Dwelling Unit (ADU): A secondary, independent dwelling unit located 
+on the same lot as a principal dwelling, designed for residential occupancy and containing 
+facilities for living, sleeping, cooking, and sanitation.  An ADU may be located within, attached 
+to, or detached from the principal dwelling. 
+Applicability and Permitted Locations 
+1. One ADU is permitted on any lot containing a lawful principal dwelling, in all zoning 
+districts where residential dwellings are permitted. 
+2.   An ADU may be: 
+• Located within or attached to the principal dwelling. 
+• Constructed as a separate, detached building. 
+• Created by converting an existing accessory building, including a garage. 
+• Incorporated into a new or reconstructed accessory building. 
+3.   An ADU may be constructed at the same time as the principal dwelling or added to an 
+existing developed lot. 
+Development Standards 
+1.   Number: No more than one ADU per lot. 
+2.   Maximum floor area: 
+• Lots of 6,000 square feet or less: 750 square feet or the gross floor area of 
+the principal dwelling, whichever is less. 
+• Lots larger than 6,000 square feet: 1,000 square feet or the gross floor area 
+of the principal dwelling, whichever is less. 
+3.   Minimum size: No minimum floor area beyond applicable building and life-safety code 
+requirements. 
+4.   Height: A detached ADU shall not exceed 25 feet. 
+5.   Setbacks: 
+• Attached ADUs shall meet the setbacks applicable to the principal dwelling. 
+Page 17 of 31
+Page 16 of 29 
+ 
+• Detached ADUs shall meet the setbacks for accessory structures in the zoning 
+district. 
+• ADUs created within existing lawful structures may retain existing setbacks, 
+subject to applicable building and fire codes. 
+6.   Lot coverage: ADUs shall comply with applicable lot coverage requirements.  Existing 
+lawful structures and nonconformities shall not, by themselves, prevent conversion of 
+an existing building to an ADU. 
+7.   Design: ADUs shall be compatible in general scale and appearance with the principal 
+dwelling.  Identical architectural styles, materials, and roof designs shall not be required. 
+8.   Access: ADUs shall have safe pedestrian access from a street or shared driveway.  
+Emergency access shall comply with applicable fire and building codes. 
+9.   Parking: No additional off-street parking shall be required for an ADU.  Existing parking 
+may serve both dwelling units. 
+10.   Short-term rentals: ADUs may not be used as short-term rentals. 
+11.   Existing accessory structures: A lawful garage, shed, or other accessory building may 
+be converted to an ADU if it complies with applicable building, fire, and utility 
+requirements.  The presence of another lawful accessory structure shall not, by itself, 
+prohibit an ADU. 
+Board direction: Should allow an ADU by right when a principal dwelling unit is on the lot? 
+ 
+Planned Unit Development (PUD) 
+The PUD section needs updating to reflect modern standards and the Comprehensive Plan. 
+I support using PUDs to allow greater flexibility and creative community design.  However, to ensure 
+that flexibility produces meaningful benefits, I recommend requiring projects to demonstrate at least 
+one substantial public or community benefit, such as: 
+• Better pedestrian connections. 
+• More usable common open space. 
+• Housing diversity or affordability. 
+• Preservation of historic structures or significant natural features. 
+• More efficient infrastructure. 
+• Improved landscaping and stormwater management. 
+• Creative site design that responds to unusual site conditions. 
+ 
+Page 18 of 31
+Page 17 of 29 
+ 
+The Comprehensive Plan recommends reducing open-space requirements.  Open space is central to 
+the traditional PUD concept: clustered development allows greater density in exchange for preserving 
+usable common open space. 
+Parking: If the Town reduces parking requirements to one space for studio and one-bedroom 
+units, I recommend also requiring an appropriate number of guest spaces within walking 
+distance.  Significant parking reductions are most effective where frequent public 
+transportation is available.  Paonia residents are likely to remain car-dependent because public 
+transportation is limited and access to essential medical services often requires a vehicle.  
+Insufficient resident and guest parking could shift demand to surrounding neighborhoods and 
+areas intended for other uses. 
+Board Direction: Please share your thoughts regarding changes to the PUD Article. 
+ 
+Short-Term Rentals 
+I understand that short-term rental regulations are currently being developed.  The final approved 
+regulations will be incorporated into Chapter 16. 
+ 
+Development Application Fees 
+Paonia's current development application fees do not cover the full cost of review, effectively 
+subsidizing private development.  The Town should consider recovering the full cost of development 
+review, including staff time required to process applications through final approval, public notice, and 
+other processing expenses. 
+I recommend requiring payment up front to avoid collection problems later. 
+Proposed Fee-Collection Process 
+1.   Require a pre-application meeting. 
+2.   Require the applicant to submit adequate information before scheduling the meeting. 
+3.   Following the meeting, staff estimates the time and material costs of reviewing the 
+application through final approval or denial. 
+4.   Add a 10% contingency to the estimate. 
+5.   Require the applicant to pay the estimated review cost in full in advance. 
+6.   Track actual staff time and material costs devoted solely to application review and 
+processing. 
+7.   Refund any amount paid in excess of actual review and processing costs. 
+Page 19 of 31
+Page 18 of 29 
+ 
+Development Application Fee Waivers for Public and Community-Benefit Projects 
+The Town may establish reduced or waived development application fees for public and 
+nonprofit projects that provide significant community benefits. 
+Applicant or project Options 
+Town of Paonia public projects 100% waiver 
+Public schools and school districts 100% waiver 
+State and federal agency facilities serving the 
+community Eligible for 100% waiver 
+501(c)(3) nonprofits providing substantial 
+community services 100% or partial waiver 
+Nonprofits providing arts, cultural, recreational, 
+educational, or social services 
+Eligible for waiver based on 
+community benefit 
+Private commercial development Standard fees 
+Board Direction: Please share your thoughts regarding application fees. 
+ 
+Dark-Sky Lighting Requirements 
+As previously discussed, I will replace current dark-sky regulations with enforceable standards based on 
+the Dark Sky International Model Lighting Code. 
+ 
+Mobile Home Park and Subdivision Requirements 
+This section will be updated.  I have not heard of problems with existing parks and intend to retain the 
+general regulatory approach.   
+Board Direction: Please identify any changes the Board would like considered. 
+ 
+ 
+Page 20 of 31
+Page 19 of 29 
+ 
+Requirements to Ensure Energy Efficiency and Solar Access 
+The following highlights key ordinance language that could be incorporated into Paonia's municipal 
+land use code.  It applies to new residential units, including infill development and additional dwelling 
+units in older downtown neighborhoods. 
+These proposed standards encourage energy-efficient development, preserve opportunities for passive 
+and active solar energy use, and protect the mature tree canopy that contributes to the environmental 
+quality, character, and livability of Paonia's established neighborhoods. 
+You could structure the code around four principles: 
+1.   Energy-efficient development: Require new residential construction to meet applicable 
+energy conservation standards and incorporate practical energy-efficient design. 
+2.   Solar-ready development: Orient and design buildings to accommodate future rooftop solar 
+installations and maximize reasonable opportunities for passive solar heating. 
+3.   Solar access protection: Avoid unnecessary obstruction of existing and potential solar energy 
+systems through building placement, height, massing, and landscaping decisions. 
+4.   Tree canopy preservation: Retain healthy mature deciduous trees wherever feasible and 
+recognize their contribution to both summer cooling and seasonal solar access. 
+The following highlights key ordinance language that could be incorporated into Paonia's municipal 
+land use code.  It applies to new residential units, including infill development and additional dwelling 
+units in older downtown neighborhoods. 
+These proposed standards encourage energy-efficient development, preserve opportunities for passive 
+and active solar energy use, and protect the mature tree canopy that contributes to the environmental 
+quality, character, and livability of Paonia's established neighborhoods. 
+Applicability 
+A. These standards shall apply to: 
+1.   Construction of new principal residential buildings and dwelling units. 
+2.   Construction of accessory dwelling units (ADUs) and other detached residential units. 
+3.   Substantial additions or expansions that materially alter building height, massing, or roof 
+configuration. 
+4.   New multifamily residential development. 
+5.   Subdivision or redevelopment proposals involving the removal of mature trees or changes 
+in site configuration that could materially affect solar access. 
+Page 21 of 31
+Page 20 of 29 
+ 
+B. These standards shall apply to residential development throughout the Town, with particular 
+consideration given to infill development in established neighborhoods characterized by smaller 
+lots, mature tree canopy, and traditional residential development patterns. 
+Energy-Efficient Building Design 
+New residential development shall incorporate energy-efficient design measures appropriate to the 
+building type and site conditions, including: 
+1.   Building orientation and window placement that take advantage of available natural light and 
+beneficial solar exposure. 
+2.   High-performance insulation and building envelope construction. 
+3.   Energy-efficient windows and exterior doors. 
+4.   Air sealing and measures to reduce unwanted heat loss and air infiltration. 
+5.   Energy-efficient heating, cooling, ventilation, and water-heating systems. 
+6.   Use of energy-efficient lighting and appliances. 
+7.   Design measures that reduce overheating during summer months while retaining 
+opportunities for beneficial winter solar gain. 
+Design Considerations 
+Where practical and consistent with neighborhood character, building design will incorporate passive 
+solar principles, including south-facing glazing, appropriate thermal mass, roof orientation suitable for 
+solar installations, and shading devices that reduce summer heat gain. 
+Solar-Ready Development and Solar Access 
+New residential buildings shall be designed to accommodate future installation of rooftop solar energy 
+systems reasonably. 
+The placement, height, orientation, and massing of new residential buildings shall consider the 
+potential effects of development on solar access to existing buildings and adjacent properties. 
+Development proposals will demonstrate reasonable efforts to: 
+1.   Avoid unnecessary shading of existing rooftop solar energy systems. 
+2.   Minimize significant shading of south-facing windows and other established passive solar 
+features on adjoining properties. 
+3.   Maintain reasonable opportunities for future solar installations on neighboring properties. 
+4.   Use building placement, roof configuration, and architectural design to minimize avoidable 
+solar obstruction. 
+Page 22 of 31
+Page 21 of 29 
+ 
+Solar Access Assessment 
+For new residential construction on sites where building height, massing, or proximity to existing 
+development could materially affect solar access, the Town may require a basic solar access 
+assessment. 
+The assessment shall identify: 
+1.   Existing rooftop solar energy systems on immediately adjoining properties. 
+2.   Significant existing passive solar features that could be affected by the proposed development. 
+3.   The location and approximate extent of potential shading resulting from the proposed 
+building. 
+4.   Reasonable design alternatives that could reduce adverse shading impacts. 
+Solar Access Priority 
+In evaluating development proposals, the Town shall consider existing solar energy systems and 
+established passive solar features while recognizing that solar access is one of several factors to be 
+balanced with property rights, neighborhood character, tree preservation, and reasonable 
+development opportunities. 
+These standards shall not be interpreted to establish an absolute right to uninterrupted sunlight or to 
+require removal of healthy mature trees solely to improve solar access. 
+Mature Tree Canopy Preservation 
+The Town intends to preserve existing mature trees while encouraging development designs that 
+accommodate both summer shade and beneficial winter solar exposure. 
+Where removal of a healthy mature tree is approved, replacement planting shall be required where 
+feasible. 
+The Town shall recognize that mature deciduous trees provide important summer shade while allowing 
+substantially greater solar exposure during winter months. 
+Site Planning and Building Placement 
+A. New residential development shall be designed to use available solar exposure efficiently while 
+maintaining the established pattern and character of the surrounding neighborhood. 
+B. Site plans shall consider: 
+1.   Building orientation and placement relative to the sun. 
+2.   Existing mature trees and opportunities for tree preservation. 
+3.   Building height, massing, and potential shading of adjoining properties. 
+Page 23 of 31
+Page 22 of 29 
+ 
+4.   Opportunities to incorporate passive solar design. 
+5.   Roof orientation and configuration suitable for future solar installations. 
+6.   Opportunities to maintain or expand existing tree canopy. 
+C. On smaller infill lots, the Town shall allow reasonable flexibility in building placement and 
+orientation where necessary to accommodate existing mature trees, established neighborhood 
+development patterns, and practical site constraints. 
+D. The Town shall not require building orientation or placement that would create an unreasonable 
+hardship or prevent otherwise appropriate infill development solely to achieve optimal solar exposure. 
+Administration and Alternative Compliance 
+A. The Community Development Director shall evaluate compliance with these standards during 
+applicable development review. 
+B. The Community Development Director may approve alternative compliance where strict application 
+of a particular standard would: 
+1.   Create an unreasonable hardship due to lot size, shape, existing development, topography, or 
+mature tree location. 
+2.   Conflict with the preservation of healthy mature trees. 
+3.   Result in a building design inconsistent with the established character of the surrounding 
+neighborhood. 
+4.   Provide little measurable energy efficiency or solar access benefit relative to the cost or 
+development constraints imposed. 
+Board Direction: Are these options for Energy Efficiency and Solar Access Regulations in line with 
+what the Board intended? 
+ 
+Additional Chapter 16 Revisions 
+Sec. 16-11-30.  Renting of Rooms: Remove this section; it is unenforceable. 
+Sec. 16-11-60.  Accessory Building Regulations and Uses: 
+• Consider reducing side and rear setbacks to five feet. 
+• For ADUs, consider allowing height up to the maximum permitted for the principal dwelling. 
+• Reconsider the requirement that double-frontage lots maintain a rear setback equal to the 
+front-yard setback for principal uses.  Most zoning codes allow a shorter setback along the 
+secondary frontage. 
+Page 24 of 31
+Page 23 of 29 
+ 
+Review all maximum and minimum lot coverage requirements to ensure they do not undermine 
+the Comprehensive Plan's goals and policies. 
+Board Direction: Please share your thoughts regarding accessory building regulations. 
+Sec. 16-13-70.  Change to Another Nonconforming Use: Consider removing this provision.  It allows 
+replacement of one nonconforming use with another based on whether the new use is of a "more 
+restrictive nature." The code provides no criteria for determining that standard, leaving decisions open 
+to arbitrary interpretation. 
+Board Direction: Please share your thoughts regarding eliminating this provision. 
+Variance process and criteria: Establish a separate variance section.  Take the variance section out of 
+Chapter 18 – Building Regulations.  I assume the Planning and Zoning Commission will have authority 
+to approve variances. 
+Board of Adjustment: Chapter 18 will reference the Board of Building Code Appeals' roles and 
+responsibilities as defined in Chapter 2.  Remove references to the Board of Adjustment from Chapter 
+16.  Chapter 1 will establish a method to appeal code interpretations. 
+Certificate of Occupancy: Relocate references to Certificates of Occupancy to Chapter 18 – Building 
+Regulations. 
+Chapter 17 – Subdivisions 
+I will reorganize this chapter into a more logical sequence. 
+ 
+Article 2 – Roles and Responsibilities  
+Some provisions repeat material already addressed in Chapter 2.  Most can be incorporated into the 
+application and approval procedures. 
+ 
+Article 3 – PUDs  
+Remove provisions that duplicate Chapter 16. 
+ 
+Complete Streets 
+Complete Streets requirements will be incorporated into subdivision regulations, site development 
+standards, street design standards, and development review procedures—not left solely to a general 
+Complete Streets policy. 
+Page 25 of 31
+Page 24 of 29 
+ 
+The objective is to ensure that new development, redevelopment, subdivisions, and significant public 
+improvements contribute to a connected, safe, accessible transportation network for pedestrians, 
+bicyclists, motorists, and people with disabilities. 
+Paonia does not need the extensive engineering standards of a large city.  It does need enforceable 
+requirements that prevent disconnected streets, unsafe pedestrian conditions, inadequate sidewalks, 
+and automobile-dependent subdivisions. 
+Recommended Regulatory Components 
+1.   Complete Streets applicability. 
+2.   Connected street network. 
+3.   Sidewalks and pedestrian facilities. 
+4.   Bicycle accommodation. 
+5.   Safe intersections and crossings. 
+6.   Street design and traffic calming. 
+7.   Accessibility and universal design. 
+8.   Development financing, construction, and maintenance. 
+Recommended Applicability 
+Development activity Recommended requirement 
+New subdivision Full Complete Streets standards 
+New public or private street Full street and pedestrian/bicycle design standards 
+New commercial or industrial 
+development 
+Sidewalks, internal pedestrian circulation, bicycle 
+accommodation, and safe access 
+New multifamily development Sidewalks, internal pedestrian connections, bicycle 
+parking, and connections 
+Single-family development Sidewalks and street connectivity 
+Redevelopment involving substantial 
+site improvements 
+Upgrade affected frontage and internal circulation. 
+Expansion of existing development Improvements proportionate to the expansion and 
+its impacts. 
+New parking lots Safe pedestrian routes connecting parking, 
+buildings, and public sidewalks 
+Page 26 of 31
+Page 25 of 29 
+ 
+Development abutting a planned 
+trail or pedestrian route 
+Provide a connection and necessary easement 
+Board Direction: Please share your thoughts regarding Complete Streets requirement 
+options. 
+ 
+Major and Minor Subdivisions and Lot-Line Adjustments 
+Clarify the definitions and approval procedures for major subdivisions, minor subdivisions, and lot-line 
+adjustments. 
+Lot-line adjustments are currently included in the minor subdivision process.  They should instead be 
+handled through a simpler procedure because they do not create new lots. 
+ 
+Clarifying HOA and Town Roles and Responsibilities 
+Municipalities sometimes face pressure to enforce HOA covenants that are not municipal 
+requirements.  Conversely, HOA residents sometimes believe private covenants supersede municipal 
+regulations. 
+I recommend adding the following provisions to Chapter 17. 
+Homeowners' Association Documents and Municipal Regulations 
+A. Submission and Review of HOA Documents 
+The Town's review of proposed declarations, covenants, and other HOA documents shall be 
+limited to provisions relevant to compliance with approved development plans, required public 
+improvements, common facilities, access, drainage, utilities, open space, and other 
+requirements of this Code or conditions of approval. 
+B. Applicability of Municipal Regulations 
+All property within the Town, including property subject to HOA declarations, covenants, rules, 
+and regulations, remains subject to applicable Town ordinances, land-use regulations, building 
+codes, and other municipal requirements. 
+C. Enforcement Responsibilities 
+Homeowners' associations are solely responsible for administering and enforcing their own 
+declarations, covenants, rules, and regulations.  The Town shall not interpret, administer, or 
+enforce private HOA requirements except where it has expressly accepted an enforcement 
+responsibility through a recorded agreement or other lawful instrument. 
+Board Direction: Please share your thoughts on clarifying HOA covenants. 
+Page 27 of 31
+Page 26 of 29 
+ 
+ 
+Infrastructure Prepayment Cost Estimates 
+Require infrastructure bond cost estimates to include a 15% contingency allowance to protect the 
+Town against cost increases if a developer defaults and the Town must complete the improvements 
+later. 
+Board Direction: Please share your thoughts regarding increasing infrastructure cost estimates 
+to include a contingency. 
+ 
+Adopt Development Impact Fees 
+As Paonia prepares to lift its five-year water tap moratorium, it is an opportune time to consider 
+adopting development impact fees.  Impact fees ensure that new development and redevelopment 
+contribute their fair share toward the public infrastructure needed to support growth, including roads, 
+water, sewer, and public parking. 
+Paonia has historically deferred infrastructure maintenance and improvements because they have 
+been a financial burden on the Town.  Impact fees would provide an additional funding source to help 
+offset the increased demand that development places on existing systems and the capital 
+improvements needed to accommodate that demand. 
+Impact fees increase the cost of new development.  However, without them, the costs of 
+accommodating growth can fall disproportionately on existing residents and taxpayers.  A predictable, 
+equitable impact-fee system would help protect existing resources while supporting responsible, 
+financially sustainable growth. 
+Colorado municipalities can generally impose impact fees on new development and redevelopment 
+that increases demand for public facilities.  However, a rational nexus is necessary but not sufficient.  
+Fees must also comply with Colorado's statutory requirements and constitutional limits. 
+The key distinction is between charging for incremental demand created by development and charging 
+a redeveloper for deficiencies or infrastructure costs that existed before the project. 
+Paonia can establish fees that apply consistently to new development and redevelopment, with 
+appropriate credits for existing development rights and capacity. 
+Colorado's Statutory Requirements 
+The controlling statute is C.R.S. § 29-20-104.5. 
+Requirement What it means for the Town 
+Page 28 of 31
+Page 27 of 29 
+ 
+Legislative 
+adoption 
+Adopt the fee schedule by ordinance or other appropriate legislative 
+action. 
+Broad applicability Apply fees to generally defined classes of property rather than 
+negotiating them individually. 
+Projected impacts Fees must defray projected impacts caused by proposed 
+development. 
+Quantification Quantify reasonable impacts on existing capital facilities. 
+Proportionality Fees cannot exceed what is necessary to defray impacts directly 
+related to the development. 
+No existing 
+deficiencies 
+Fees cannot remedy deficiencies that exist independently of the 
+proposed development. 
+No duplicate 
+charges 
+Prevent charging both an impact fee and a site-specific dedication or 
+improvement for the same capital-facility need. 
+The statute defines a capital facility as an improvement or facility serving a function the local 
+government is authorized to provide, having an estimated useful life of at least five years, and required 
+by charter or a general policy adopted by resolution or ordinance. 
+Potential Impact-Fee Categories 
+Fee category What the impact study should measure 
+Roads Additional vehicle trips, trip characteristics, and resulting capital-
+facility demand 
+Water Additional demand, peak usage, and required system capacity 
+Sewer Additional wastewater flow and treatment capacity 
+Public parking Additional demand for publicly provided parking facilities 
+Parks and 
+recreation 
+Additional population and demand for facilities 
+Affordable housing Additional employee housing required to serve new residents 
+Board Direction: Please share your thoughts on including impact fees and whether you want me 
+to include impact fee calculations in the municipal code contract. 
+Page 29 of 31
+Page 28 of 29 
+ 
+Chapter 18 – Building Regulations 
+When the Town adopts new building codes, it should update the corresponding references by 
+ordinance.  The current code has been updated with the latest Code adoption ordinances. 
+ 
+Article 5 – Manufactured Home Installation 
+This section generally needs revisions and updating.  
+ 
+Sec. 18-5-40.  Permit for Location and Installation 
+Subsection (b) prohibits installation, erection, use, or occupancy of an independent mobile or modular 
+home with less than 600 square feet of living space. 
+This minimum is substantially larger than many livable tiny homes.  Consider reducing it to reflect the 
+smaller dwelling-unit sizes discussed in Chapter 16, subject to applicable building and life-safety 
+requirements. 
+Board Direction: Please share your thoughts on reducing the minimum mobile/modular home 
+size to 180, the size of a smaller tiny home equipped for full-time living. 
+ 
+Article 8 – Building Regulations Code Board of Appeals 
+Update this section and make it consistent with Chapter 2. 
+ 
+Article 13 – Accessory Buildings, Structures, and Uses 
+Review and revise this section to address building-code requirements only.  Land-use design and 
+development standards will be moved to Chapter 16. 
+ 
+Article 14 – Building Regulations Permit and Site Plan Review Requirements 
+The Building Official, rather than the Town Administrator, should administer building permit 
+requirements. 
+ 
+Sec. 18-14-20.  Review Standards  
+This is a land-use review that belongs in Chapter 16 and should be administered by the Community 
+Development Director.  The current wording is confusing, and the process should be consistent with 
+Page 30 of 31
+Page 29 of 29 
+ 
+the purpose of the review.  Section 16-4-50 addresses special review for uses within zoning districts; 
+accessory buildings are not special uses. 
+ 
+Sec. 18-14-40.  Variance 
+Relocate this section to Chapter 16. 
+ 
+Closing Recommendation 
+The Town should prioritize completing and adopting revised Chapters 16, 17, and 18 before accepting 
+new development applications when the water tap moratorium is lifted.  These regulations are 
+essential to ensuring new development is reviewed against current, coordinated standards that reflect 
+the Town's land use objectives, infrastructure capacity, and long-term community vision.  Accepting 
+applications before the revised code is adopted could expose the Town to proposals evaluated under 
+outdated or inadequate standards, potentially creating unintended development patterns and 
+regulatory complications that may be difficult to correct later. 
+If the water tap moratorium is lifted before the code revisions are adopted, the Town could consider 
+establishing a separate, temporary emergency moratorium on accepting development applications 
+until the revised chapters are finalized and adopted.  Such a moratorium would need to be narrowly 
+focused, supported by appropriate findings and legal authority, and accompanied by a clearly defined, 
+expedited schedule for completing the code revisions.  The Town would need to actively prioritize this 
+work and demonstrate sustained, measurable progress to complete and adopt the revised code within 
+no less than six months, consistent with applicable requirements governing emergency moratoria. 
+The essential point is that lifting the water tap moratorium should not inadvertently open the door to 
+development under regulations the Town is already working to replace.  The Town should have its 
+updated regulatory framework in place before resuming acceptance of development applications. 
+ 
+Page 31 of 31

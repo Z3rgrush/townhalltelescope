@@ -173,14 +173,14 @@
 - 6. Public Comments:
 - PROJECT NUMBER:
 - OVERALL SITE PLAN
-- 1" = 20'-0" 1 ARCHITECTURAL SITE PLAN
-- Grand total: 22 Parking Schedule
+- 1" = 20'-0"1 ARCHITECTURAL SITE PLAN
+- Grand total: 22Parking Schedule
 - (PS1) PARKING STALL
 - SITE PLAN SCOPE
-- 1/16" = 1'-0" 1 ARCHITECTURAL SITE PLAN
+- 1/16" = 1'-0"1 ARCHITECTURAL SITE PLAN
 - Parking Schedule
-- 1/8" = 1'-0" 1 FLOOR PLAN - BUILDING A (3-BED / 1-BED) 1/8" = 1'-0" 2 FLOOR PLAN - BUILDING B (3-BED / 2-BED) 1/8" = 1'-0" 3 FLOOR PLAN - BUILDING C (2-BED / 2-BED)
-- 1/8" = 1'-0" 4 FLOOR PLAN - BUILDING D (1-BED / 1-BED) 1/8" = 1'-0" 5 FLOOR PLAN - BUILDING E (1-BED / 2-BED)
+- 1/8" = 1'-0"1 FLOOR PLAN - BUILDING A (3-BED / 1-BED) 1/8" = 1'-0"2 FLOOR PLAN - BUILDING B (3-BED / 2-BED) 1/8" = 1'-0"3 FLOOR PLAN - BUILDING C (2-BED / 2-BED)
+- 1/8" = 1'-0"4 FLOOR PLAN - BUILDING D (1-BED / 1-BED) 1/8" = 1'-0"5 FLOOR PLAN - BUILDING E (1-BED / 2-BED)
 - ICE & WATER SHIELD ON EXT'R
 - 1-HR FIRE RATED,
 - FLOOR PLAN - 3
@@ -188,9 +188,9 @@
 - FRENCH STREET SECOND STREET
 - 1 3D VIEW - AERIAL STREET
 - 2 3D View - STREET
-- 1" = 10'-0" 1 EXTERIOR ELEVATION - STREET NORTH
-- 1" = 10'-0" 2 EXTERIOR ELEVATION - STREET SOUTH
-- 1" = 10'-0" 3 EXTERIOR ELEVATION - STREET EAST
+- 1" = 10'-0"1 EXTERIOR ELEVATION - STREET NORTH
+- 1" = 10'-0"2 EXTERIOR ELEVATION - STREET SOUTH
+- 1" = 10'-0"3 EXTERIOR ELEVATION - STREET EAST
 - CHAPTER 6. PLANNING AND ZONING COMMISSION
 - (a) The Town shall have a Planning and Zoning Commission consisting of a total of nine members:
 - (1) Five residents of the Town who shall be nominated and appointed, upon application, by a majority vote
@@ -260,3 +260,23 @@
 - 4.Open discussion on other issues to come before the Planning Commission
 - 5. Public Comments: (3-minute time limit): Town of Silver Cliff’s citizens or
 - business owners to address the Planning Committee and request to be on a
+
+## [silver-cliff#12] 2026-11-03 | Board of Trustees | agenda
+- 3. Amendments to Agenda
+- 4. Approval of Agenda
+- Note: All items listed under the Consent Agenda are considered routine and will be approved
+- with one motion. There will be no separate discussion of these matters unless a Board
+- Member or citizen so requests, in which case the item may be removed from the Consent
+- Agenda and considered separately, at the discretion of the Board of Trustees
+- a. Approval of minutes for October 6, 2026
+- c. Approval of Bills
+- a. Nomination and appointment of Mayor Pro Tem
+- b. Multijurisdictional Housing Authority Briefing
+- d. Consideration of approval of the 2027 IGA with the Custer County Sheriff's Office
+- e. Consideration of approval of the Ordinance 06/2026 Amending the 2026 Budget
+- f. Consideration of naming the baseball field
+- g. Set Public Hearing for the vacation of streets and allies at the Silver Cliff
+- Community Park Dec 3, 2026
+- 10. Public Comments (3-minute time limit): Town of Silver Cliff’s citizens or business
+- owners can address the Board of Trustees to request to be on a future agenda
+- 11. Board of Trustees Open Discussion

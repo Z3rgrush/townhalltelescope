@@ -945,3 +945,90 @@
 ## [paonia#38] 2026-11-04 | Town Board | agenda
 - A) Budget Work Session
 - 1) Discussion on Solid Waste Enterprise
+
+## [paonia#39] 2026-11-10 | Town Board | agenda
+- B) Approval of Agenda
+- D) Public Comment
+- Any topic not included under Actions & Presentations; 3-minute time limit
+- a) Updated Parking Lot
+- 2) Police Chief
+- G) Actions & Presentations
+- Public comments must be related to the agenda item, 3-minute time limit
+- 1) Presentation from the Carl E. Berg Foundation on the Former Twin Lakes Property
+- 2) Consideration of Approval of the Howe/Rauch Town Pathway License
+- 3) Consideration of Approval of Parklet Maintenance Agreement
+- 4) Consideration of Approval of Resolution 24-26 Declaring a Vacancy on the Board of
+- 5) Consideration of Colorado Parks & Wildlife Conservation Easement
+- 6) Consideration of Storm Sewer/ Sanitary Sewer Repair Project
+
+## [paonia#40] 2026-11-10 | Town Board | agenda
+- B) Approval of Agenda
+- D) Public Comment
+- Any topic not included under Actions & Presentations; 3-minute time limit
+- a) Updated Parking Lot
+- 2) Police Chief
+- G) Actions & Presentations
+- Public comments must be related to the agenda item, 3-minute time limit
+- 1) Presentation from the Carl E. Berg Foundation on the Former Twin Lakes Property
+- 2) Consideration of Approval of the Howe/Rauch Town Pathway License
+- 3) Consideration of Approval of Parklet Maintenance Agreement
+- 4) Consideration of Approval of Resolution 24-26 Declaring a Vacancy on the Board of
+- 5) Consideration of Colorado Parks & Wildlife Conservation Easement
+- 6) Consideration of Storm Sewer/ Sanitary Sewer Repair Project
+- a conference with the Water Attorney Sherry Caloia for the purpose of receiving legal advice on
+- Buchner, Water Attorney Sherry Caloia, Interim Administrator Sund, Town Clerk Vetter, Leslie
+- discussed and public comments not taken seriously at the ad hoc meetings
+- S. Watson: comments on meeting times and commuters' rights and bringing back a resolution for
+- sewer rate averaging
+- 1) Consideration of Approval for Purchase of Water Plant Electric Valves
+- Discussion topics include that this is a sole source provider since the company actually built the
+- town's system and the dangers of pneumatic valves and 'water hammer'
+- Trustee Hunter moves to approve the purchase of the electric water plant valves for $188, 502.58,
+- 2) Consideration of Approval of Radio Purchase for Police Department
+- Trustee Hunter moves to approve the purchase of five Kenwood police radios for $11, 547.75,
+- 3) Consideration of Approval of Awarding Request for Bid on Sewer Pipe CCTV Scoping
+- Discussion included: standard practices, how project helps secure future grants, and identified
+- Mayor Pro-Tem Foster moves to accept the bid from Institute Form Technologies LLC dba
+- 4) Consideration of Approval of Proposal with Recyclops to Handle Free Recycling
+- Discussion topics include the Extended Producer Responsibility law, local employers, mercurial
+- Trustee Everett moves to approve the proposal and provide customer lists subject to receiving the
+- state contract, liability insurance information and Recyclops having an agreement with Cory's
+- Payment Approval Report - Board of Trustees Disbursement Approval
+- 734308619 Wastewater Payroll
+- 734308619 Water Payroll
+- 2026-17 SIDEWALK FEE REFUND
+- During the last Work Session, the Board added Appointment of an Implementation Committee
+- to the Parking Lot, I planned to add that issue to this agenda, but in talking about it with Mayor
+- Fischer, we agreed it would be best to start this discussion during a Work Session, so we are
+
+## [paonia#42] 2026-11-16 | Board Work Sessions | agenda
+- regulations, implement the Comprehensive Plan, expand housing choices, support economic
+- development, preserve community character, and establish more effective development standards
+- The proposed revisions substantially reorganize Chapters 16 (Zoning), 17 (Subdivisions), and 18
+- Housing and residential infill: Reduce minimum lot sizes and widths in older, denser
+- neighborhoods; allow development on existing legal lots; reduce setbacks where appropriate;
+- eliminate restrictive average-lot-size requirements; permit ADUs by right throughout residential
+- cohousing; and provide flexibility for alley-accessed housing
+- Affordable housing: Encourage the integration of permanently affordable units into market
+- rate developments, rather than relying primarily on concentrated affordable housing projects
+- Economic development: Expand opportunities for creative industries, live/work units, studios,
+- downtown without requiring imitation historic architecture. Consider a companion illustrated
+- design manual and separate demolition provisions
+- Development and environmental standards: Modernize parking requirements and
+- management, landscaping, permeable surfacing, stormwater management, and accessory
+- building standards. Incorporate energy-efficient building design, solar-ready construction, solar
+- access considerations, mature tree canopy preservation, and enforceable Complete Streets
+- Subdivision and planned development: Clarify major and minor subdivision procedures,
+- establish a separate streamlined process for lot-line adjustments, modernize PUD requirements
+- infrastructure maintenance, and public improvements
+- Infrastructure financing: Consider adopting legally compliant development impact fees for
+- roads, water, sewer, public parking, and other capital facilities to ensure new development
+- infrastructure bond cost estimates to include a 15% contingency
+- Development review and administrative efficiency: Clarify the respective responsibilities of the
+- Community Development Director, Building Official, and other Town officials; simplify review
+- procedures; establish consistent application requirements and fee schedules; recover actual
+- development application costs through advance payment; and provide appropriate fee waivers
+- for public and qualifying community-benefit projects
+- definitions and zoning classifications; incorporate applicable state statutory requirements,
+- establish clear, consistent approval and appeal procedures
+- The Board's direction is requested throughout the discussion of revision options, with questions

@@ -1,121 +1,128 @@
-- title: Data center land use and neighboring-jurisdiction proposals
-  summary: After Resolution No. 20 (July 27, 2026) supported a zoning interpretation treating data centers as a prohibited use in Westminster, Council asked for a study session on data centers proposed just outside city limits, with concerns about water use and extraterritorial utility service. Staff also plans stronger data center language in the Unified Development Code.
+- title: Data center regulation and neighboring-jurisdiction proposals
+  summary: After Council adopted Resolution No. 20 on July 27, 2026 supporting a zoning interpretation that data centers are a prohibited land use, it held an October 19 study session on strengthening Unified Development Code language. Council also discussed concerns about data centers proposed just outside city limits, including water use and extraterritorial utility service.
   where: Citywide and adjacent jurisdictions
   refs:
-  - 13
+  - 12
   topics:
   - Data centers
-  - Water
   - Zoning & development
+  - Water
   tags:
   - data-center
-- title: Automated license plate readers (Flock cameras) discontinued
-  summary: Police presented on automated license plate readers on Oct. 5, and the Oct. 26 agenda includes Resolution No. 46 on discontinuing the technology. Residents spoke against Flock cameras, raising data retention, cybersecurity and privacy concerns.
+- title: Automated license plate readers (Flock cameras) discontinuation
+  summary: Police presented on automated license plate readers at an October 5 study session. On October 26 Council considered Resolution No. 46 discontinuing the technology, and residents including Jessica Johnson spoke against Flock cameras, citing data retention, cybersecurity and privacy.
   where: Citywide
   refs:
-  - 8
-  - 14
+  - 7
+  - 13
   topics:
   - Policing & public safety
   - Ethics & transparency
   public_comment: true
-- title: 2027 budget adoption
-  summary: The proposed 2027 budget went through a Sept. 14 public hearing, a Sept. 21 study session for Council feedback, and second reading on Oct. 26. The charter requires adoption by Oct. 26. Related WEDA and General Improvement District 2027 budgets were heard Oct. 12.
-  where: Citywide
-  refs:
-  - 1
-  - 4
-  - 5
-  - 10
-  - 11
-  - 14
-  topics:
-  - Budget & taxes
-- title: Affordable housing definition, density bonus and down payment assistance
-  summary: Council took up bills amending the 2040 Comprehensive Plan and code to redefine affordable housing, add a density bonus and set a parking provision (first reading Sept. 14, second Sept. 28). Staff is also finalizing a contractor for a Down Payment Assistance program that would cover up to 20 percent of purchase price. Council adopted Proposition 123 expedited review policies for affordable projects (Resolution No. 45) and got updates on Housing LIFT agreements and right-of-first-refusal agreements with regional housing authorities.
-  where: Citywide
-  refs:
-  - 1
-  - 3
-  - 4
-  - 7
-  - 14
-  topics:
-  - Housing
-  - Zoning & development
-- title: Event center moratorium and new regulations
-  summary: Council imposed a six-month moratorium on new event centers in multi-tenant commercial areas or within 300 feet of residential uses, citing impacts on public safety, utilities, parking and neighboring businesses. Staff presented revised recommendations for Councillor's Bill No. 19 on Oct. 5.
-  where: Commercial areas near residential districts
-  refs:
-  - 8
-  topics:
-  - Zoning & development
-  - Downtown & business
-- title: Water rates and stormwater fee changes for 2027-2028
-  summary: Council followed up on 2027 and 2028 single-family water rates, held a hearing on stormwater fee changes, and moved bills implementing water, sewer and reclaimed water rates and stormwater fees through readings in September and October.
+- title: Proposed 2027 budget
+  summary: Staff presented the proposed 2027 budget, held a public hearing on September 14, and Council gave feedback at a September 21 study session. Charter requires adoption by October 26, and second readings were scheduled for that date. Related 2027 budgets for the Economic Development Authority and General Improvement Districts were heard October 12.
   where: Citywide
   refs:
   - 0
+  - 3
   - 4
-  - 7
   - 9
+  - 10
+  - 13
+  topics:
+  - Budget & taxes
+- title: Affordable housing density bonus, down payment assistance and Prop 123
+  summary: Council took up a density bonus and revised affordable housing definition with a parking provision (Councillor's Bills 39 and 36), a proposed Down Payment Assistance Program offering up to 20 percent of purchase price, Housing LIFT agreements, and Proposition 123 expedited review policies. Rights of first refusal for multifamily housing were also assigned to regional housing partners.
+  where: Citywide
+  refs:
+  - 0
+  - 2
+  - 3
+  - 6
+  - 13
+  topics:
+  - Housing
+  - Zoning & development
+- title: Event center moratorium and ordinance
+  summary: Council enacted a six-month moratorium on new event centers in multi-tenant commercial developments or within 300 feet of residential areas due to impacts on public safety, water and sewer, parking and neighboring uses. Staff presented revised recommendations for Councillor's Bill No. 19 on October 5 after engaging operators.
+  where: Citywide, commercial areas near residential
+  refs:
+  - 7
+  topics:
+  - Zoning & development
+  - Downtown & business
+- title: Stormwater, water, sewer rate and fee changes
+  summary: Council held a hearing on 2027 and 2028 stormwater fee changes and considered ordinances implementing water, sewer and reclaimed water rates and stormwater fees (Councillor's Bills 40 and 43).
+  where: Citywide
+  refs:
+  - 3
+  - 6
+  - 8
   topics:
   - Fees & rates
   - Water
   - Utilities
-- title: Regional homelessness agreements and Navigation Center
-  summary: Council considered intergovernmental agreements with Jefferson County and several cities on homelessness, including a Navigation Center in Lakewood. A resident urged Council to consider a navigation center closer to Westminster. Staff also gave a homelessness prevention and response update.
-  where: Navigation Center, Lakewood
+- title: Homelessness response and Navigation Center agreements
+  summary: Council received a homelessness update and approved intergovernmental agreements with Jefferson County and several cities, including for the Navigation Center in Lakewood. A resident urged considering a navigation center closer to Westminster.
+  where: Lakewood Navigation Center; Citywide
   refs:
-  - 3
-  - 7
-  - 9
+  - 2
+  - 6
+  - 8
   topics:
   - Homelessness
   - Health & human services
   public_comment: true
-- title: Kaiser North redevelopment plan amendment
-  summary: Council held a hearing and first reading on a Comprehensive Plan amendment and preliminary development plan amendment for the Kaiser North redevelopment. Other development items followed on Oct. 12, including a preliminary development plan hearing and a street right-of-way vacation.
-  where: Kaiser North site
+- title: Butterfly Pavilion expansion support
+  summary: Butterfly Pavilion proposed a four-phase, roughly $44 million expansion growing from 27,000 to about 38,796 sq ft, and requested $250,000 for pre-development. Council considered an economic development agreement (Councillor's Bill 56) on first reading November 9.
+  where: Butterfly Pavilion
   refs:
-  - 7
-  - 9
-  - 14
-  topics:
-  - Zoning & development
-- title: Business tax filing moves online
-  summary: Staff proposed an ordinance requiring online filing and payment of business tax returns starting Jan. 1, 2027, with an exception for those without internet. About 94 percent of the 77,424 returns filed in 2025 were already online. It does not affect resident taxpayers or tax revenue.
-  where: Citywide
-  refs:
-  - 0
-  - 4
-  - 7
-  topics:
-  - Budget & taxes
-  - Government operations
-- title: Childcare market study and property tax rebate for providers
-  summary: A market study found a need for licensed childcare spaces for 3,695 children, with affordability a major barrier. Council considered a Child Care Provider Property Tax Rebate Program (Councillor's Bill No. 51).
-  where: Citywide
-  refs:
-  - 14
   - 15
+  - 16
   topics:
-  - Schools & youth
   - Economic development
-- title: Waste, recycling and composting code updates
-  summary: Council reviewed options to amend hauler licensing, adopt a Skip the Stuff ordinance, and create a construction and deconstruction waste program, building on a CU Boulder capstone study and state producer responsibility funding.
-  where: Citywide
+  - Tourism & events
+- title: Kaiser North redevelopment plan amendment
+  summary: Council held a public hearing and first reading on a Comprehensive Plan amendment and Preliminary Development Plan amendment for the Kaiser North redevelopment.
+  where: Kaiser North
   refs:
   - 6
   topics:
-  - Environment & climate
-  - Utilities
-- title: Renter concerns about rising rents and housing conditions
-  summary: A Westminster renter told Council about rising rents and mold in a previous apartment, and urged action on healthy housing. Council also reviewed a residential property maintenance code update.
+  - Zoning & development
+- title: Childcare market study and provider tax rebate
+  summary: A market study found a need for licensed childcare spaces for 3,695 children and that affordability is a major barrier. Council considered a Child Care Provider Property Tax Rebate Program.
   where: Citywide
   refs:
-  - 7
+  - 13
+  - 14
+  topics:
+  - Schools & youth
+  - Economic development
+- title: Waste hauler licensing and recycling code changes
+  summary: Council considered updates to hauler licensing, a Skip the Stuff ordinance and a construction and deconstruction ordinance, building on a CU Boulder study and Colorado's producer responsibility program for recycling.
+  where: Citywide
+  refs:
+  - 5
+  topics:
+  - Environment & climate
+  - Utilities
+- title: Holly Park and Block B-6 property deals
+  summary: The Economic Development Authority approved purchase and development agreements for Holly Park with Pumpkin Ridge Holdings and discussed in executive session the possible sale of authority-owned property on Block B-6. Council also considered an economic development agreement with Cooper's Hawk.
+  where: Holly Park; Block B-6
+  refs:
   - 9
+  - 16
+  - 17
+  topics:
+  - Land & property
+  - Economic development
+- title: Renter concerns and housing conditions
+  summary: A Westminster renter spoke about rising rents and mold, urging healthy housing standards. Council also considered a residential property maintenance code update.
+  where: Citywide
+  refs:
+  - 3
+  - 6
+  - 8
   topics:
   - Housing
   public_comment: true

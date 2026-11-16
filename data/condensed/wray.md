@@ -187,7 +187,7 @@
 - d. Resolution 21-2026: Authorizing Approval and Ratifying the City Manager’s Signature for the Transfer
 - of $150,000 in the Airport Improvement Program (AIP) Entitlement Funds From the City of Wray
 - e. Exclusive Right-To-Sell Listing Contracts Wray East Industrial Park Lots 2 & 3
-- f. Exclusive Right-To-Sell Listing Contracts Lots 1- 6, Block 1, Golf Course Commercial Addition to
+- f. Exclusive Right-To-Sell Listing Contracts Lots 1-6, Block 1, Golf Course Commercial Addition to
 - the Wray Industrial Park
 - a. Draft Agreement Between Owner and Contactor for Construction Contract (Stipulated Price)-Guaranteed
 - b. RFP: 139-2025 - Wray Civic Center Construction Possible Award Consideration

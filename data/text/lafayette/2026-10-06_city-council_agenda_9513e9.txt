@@ -90,7 +90,7 @@ for the meeting number. The meeting number is 869 1163 2580. Press # after enter
 number. To request to speak, press *9 during Public Input to raise your hand. When it is 
 your turn, we will unmute your microphone. 
 To request interpreter services, please submit a request at least two (2) days prior the 
-meeting at LafayetteCo.gov/InterpreterRequestForm . 
+meeting at LafayetteCo.gov/InterpreterRequestForm. 
  
 Accessibility Statement 
 The City of Lafayette strives to provide equitable digital access for all. If you require 

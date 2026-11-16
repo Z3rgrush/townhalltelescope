@@ -1,109 +1,101 @@
-- title: 2027 city budget and Redevelopment Authority budget
-  summary: City Council held a budget retreat on Oct. 6 to review the 2027 proposed budget, including General Fund operations and the capital improvement plan. On Oct. 20 the ordinance adopting the 2027 budget had first reading, along with an eighth 2026 supplemental appropriation and a resolution adopting the Redevelopment Authority budget.
-  where: Citywide
+- title: Slate Creek / Brown Ranch development roadmap and budget
+  summary: The Slate Creek Steering Committee met repeatedly in October and November to review the development roadmap, timeline, project scope and budget. The agendas tie the work to the Brown Ranch plan and annexation proposal.
+  where: Brown Ranch / Slate Creek
   refs:
   - 2
-  - 3
   - 5
-  - 7
   - 14
-  - 15
-  topics:
-  - Budget & taxes
-  - Government operations
-  public_comment: true
-- title: Slate Creek / Brown Ranch development roadmap
-  summary: The Slate Creek Steering Committee met in October and November on the development roadmap, including scope, budget and a draft roadmap budget. Agendas tie the work to the Brown Ranch plan and annexation proposal, with the City, County and Yampa Valley Housing Authority involved.
-  where: Brown Ranch / Slate Creek area
-  refs:
-  - 6
-  - 9
   - 18
   topics:
   - Housing
   - Annexation
   - Zoning & development
-  public_comment: true
-- title: Base area redevelopment and Gondola Transit Center agreement
-  summary: The Redevelopment Authority reviewed its 2026 project activity plan and preliminary 2027 budget. It also scheduled an executive session on negotiations over the Gondola Transit Center and public improvements with Steamboat Ski & Resort Corporation. The advisory committee reviewed Complete Streets Segment 4B Phase II and Mount Werner Road/Circle projects.
-  where: Mountain base area, Mount Werner Road
-  refs:
-  - 3
-  - 5
-  - 15
-  topics:
-  - Economic development
-  - Roads & traffic
-  - Transit
-- title: The Forge at Burgess Creek preliminary plat
-  summary: Planning Commission considered a preliminary plat and major variance for 2.32 acres of unplatted land in the 1900 block of Burgess Creek Road. Council then had a resolution approving the plat and variance on its Oct. 20 consent calendar.
-  where: 1900 block of Burgess Creek Road
-  refs:
-  - 8
-  - 14
-  topics:
-  - Zoning & development
-  - Land & property
-  public_comment: true
-- title: Child care centers in commercial zones
-  summary: A Community Development Code text amendment would allow large and small child care centers in commercial zones. Planning Commission heard it Oct. 8 and an ordinance had first reading at Council Oct. 20.
+- title: 2027 city budget and two-mill property tax levy
+  summary: Council held a budget retreat on Oct 6 and passed the 2027 Budget on first reading Oct 20 by 5/1, with second reading on Nov 10. A two-mill property tax levy ordinance also came up on first reading Nov 10.
   where: Citywide
   refs:
-  - 8
-  - 14
+  - 3
+  - 10
+  - 16
+  topics:
+  - Budget & taxes
+  public_comment: true
+- title: Child care centers allowed by right in commercial zones
+  summary: A Community Development Code text amendment lets large and small child care centers be built by right in commercial zoning. Planning Commission heard it, Council approved first reading 7/0 on Oct 20, and second reading was set for Nov 10.
+  where: Citywide commercial zones
+  refs:
+  - 4
+  - 10
+  - 16
   topics:
   - Zoning & development
   - Schools & youth
-  public_comment: true
-- title: Yampa Valley regional transportation sales tax ballot question
+- title: The Forge at Burgess Creek preliminary plat
+  summary: A preliminary plat and major variance for 2.32 acres of unplatted land in the 1900 block of Burgess Creek Road went to Planning Commission and then to Council for resolution approval on Oct 20.
+  where: 1900 block of Burgess Creek Road
+  refs:
+  - 4
+  - 10
+  topics:
+  - Zoning & development
+- title: Terrain at Walton Creek short-term rental overlay zone
+  summary: Planning Commission considered a zone map amendment to change the short-term rental overlay zoning at the Terrain at Walton Creek property.
+  where: 2075 Walton Creek Road
+  refs:
+  - 17
+  topics:
+  - Short-term rentals
+  - Zoning & development
+- title: Downtown Plan implementation and parking text amendment
+  summary: Planning Commission worked on code changes implementing Downtown Plan goal LUZ 6.3, which would exempt same-grade structured parking from Floor Area Ratio calculations. It was discussed at an Oct 26 work session and a Nov 12 hearing. A Water Supply Element was also presented at the work session.
+  where: Downtown Steamboat Springs
+  refs:
+  - 12
+  - 17
+  topics:
+  - Downtown & business
+  - Zoning & development
+- title: 'Base area redevelopment: URA projects and 2027 budget'
+  summary: The Urban Redevelopment Authority advisory committee and the Redevelopment Authority reviewed Complete Streets Segment 4B Phase II, Mount Werner Road/Circle projects, and the 2027 budget and project activity plan.
+  where: Mount Werner base area
+  refs:
+  - 1
+  - 11
+  topics:
+  - Roads & traffic
+  - Budget & taxes
+  - Economic development
+- title: Regional transportation sales tax ballot question
   summary: Council considered a resolution supporting the Yampa Valley Regional Transportation Authority ballot question for a one-half percent sales tax.
   where: Yampa Valley
   refs:
-  - 11
+  - 7
   topics:
   - Transit
   - Budget & taxes
   - Elections
-- title: Overlook Triplexes development plan
-  summary: Planning Commission held a public hearing on a development plan and conditional use for the Overlook Triplexes project (PL20250368).
+- title: Golf course 2027 rates and overhead allocation
+  summary: The Golf Management Committee discussed allocated overhead and 2027 golf rates.
+  where: City golf course
   refs:
-  - 8
-  topics:
-  - Zoning & development
-  - Housing
-  public_comment: true
-- title: Crowell-Marshall House permanent placement
-  summary: Council considered directing staff to approve a building permit for the permanent placement of the Crowell-Marshall House, tied to Ordinance No. 3036 that waived code provisions for its temporary storage. The Historic Preservation Commission also reviewed a demolition and a Rodeo Grounds sales tax exemption certification.
-  where: Steamboat Springs
-  refs:
-  - 10
-  - 14
-  - 19
-  topics:
-  - Historic preservation
-- title: Water supply element and downtown plan text amendment
-  summary: The Planning Commission policy work session was to hear a presentation of the Water Supply Element and a Downtown Plan implementation text amendment.
-  where: Downtown / Citywide
-  refs:
-  - 16
-  topics:
-  - Water
-  - Downtown & business
-  - Zoning & development
-- title: Easement vacations and Yampa River riprap easement
-  summary: Council took up several ordinances vacating easements, including a water and sewer line and fire hydrant easement, and on Oct. 20 a Yampa River riprap easement agreement and a purchase contract amendment for parcels including 140-R.
-  where: Steamboat Springs
-  refs:
-  - 2
-  - 14
-  topics:
-  - Land & property
-  - Utilities
-- title: Golf course rates and overhead
-  summary: The Golf Management Committee planned to discuss allocated overhead and 2027 golf rates.
-  where: Golf course
-  refs:
-  - 4
+  - 0
   topics:
   - Fees & rates
   - Recreation & trails
+- title: Public records research and retrieval fees
+  summary: Council took up a resolution amending the administrative regulation on research and retrieval fees for public records.
+  where: Citywide
+  refs:
+  - 16
+  topics:
+  - Fees & rates
+  - Ethics & transparency
+- title: 'Historic preservation: Rodeo Grounds tax exemption and Crowell-Marshall House'
+  summary: The Historic Preservation Commission reviewed a sales tax refund certification for rehabilitation at the Rodeo Grounds and a demolition case. Council approved a building permit for the permanent placement of the Crowell-Marshall House.
+  where: Rodeo Grounds; Crowell-Marshall House
+  refs:
+  - 6
+  - 10
+  - 15
+  topics:
+  - Historic preservation

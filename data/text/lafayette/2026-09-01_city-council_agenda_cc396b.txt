@@ -79,7 +79,7 @@ for the meeting number. The meeting number is 869 1163 2580. Press # after enter
 number. To request to speak, press *9 during Public Input to raise your hand. When it is 
 your turn, we will unmute your microphone. 
 To request interpreter services, please submit a request at least two (2) days prior the 
-meeting at LafayetteCo.gov/InterpreterRequestForm . 
+meeting at LafayetteCo.gov/InterpreterRequestForm. 
  
 Accessibility Statement 
 The City of Lafayette strives to provide equitable digital access for all. If you require 
@@ -1287,13 +1287,13 @@ TERMS AND CONDITIONS
 Conversion to Annual Subscription Upon execution of this Order Form by Client and Dayforce, and effective as of the Subscription Start Date set out below (the “Effective 
 Date”), this Order Form and the terms and conditions herein amends the existing Agreement between Dayforce and Client, as amended 
 (together, the “Existing Agreement”), solely with respect to the commercial, pricing, subscription metric(s), billing, invoicing, and renewal 
-terms for the Services. As of the Subscription Start Date, the Services will be provided on an annual su bscription basis as set out in 
-this Order Form, and any prior per -employee-per-month or other commercial and billing terms for the Services under the Existing 
-Agreement are replaced with the commercial and billing terms in this Order Form (the “Updated Com mercial Terms”). Except for the 
-Updated Commercial Terms, the Existing Agreement (including all incorporated documents) remains unchanged and in full force a nd 
+terms for the Services. As of the Subscription Start Date, the Services will be provided on an annual subscription basis as set out in 
+this Order Form, and any prior per-employee-per-month or other commercial and billing terms for the Services under the Existing 
+Agreement are replaced with the commercial and billing terms in this Order Form (the “Updated Commercial Terms”). Except for the 
+Updated Commercial Terms, the Existing Agreement (including all incorporated documents) remains unchanged and in full force and 
 effect. In the event of a conflict between the Updated Commercial Terms and the Existing Agreement, the Updated Commercial Terms 
-and this Order Form controls solely with respect to the subject matter described herein; otherwise, the Existing Agreement co ntrols. 
-Prior to the Subscription Start Date, the commercial and billing terms in the Existing Agr eement continue to apply. This Order Form 
+and this Order Form controls solely with respect to the subject matter described herein; otherwise, the Existing Agreement controls. 
+Prior to the Subscription Start Date, the commercial and billing terms in the Existing Agreement continue to apply. This Order Form 
 does not constitute a novation and does not waive rights or obligations accrued under the Existing Agreement prior to the Subscription 
 Start Date.  
  
@@ -1302,7 +1302,7 @@ Existing Agreement as amended by this Order Form.
  
 Capitalized terms used and not otherwise defined in the Order Form, SOW(s), or any document found at https://dayforce-customer-
 contracts.dayforce.com/master-services-agreement have the meaning set forth in the Existing Agreement 
-Subscription Start Date For the purpose of this Order Form, Subscription Start Date means the first day of the second (2nd) month following execution  of the 
+Subscription Start Date For the purpose of this Order Form, Subscription Start Date means the first day of the second (2nd) month following execution of the 
 Order Form. 
 Transition of Pre-existing Clock 
 Subscriptions 
@@ -1334,15 +1334,15 @@ Recurring Fees (including Subscription
 Service Fees) 
 Commencing as of the Subscription Start Date, Dayforce Subscription Fees and other Recurring Fees will be invoiced at the frequency 
 and quantity set forth on this Order Form.   
-The number of Federal, State and Local Tax Filing IDs listed in the Other Recurring Fee table above are the estimated monthly  
-quantity(ies) calculated from the annual amounts in the annual “Quantity” and “Annual Price” columns in th at table above. The actual 
+The number of Federal, State and Local Tax Filing IDs listed in the Other Recurring Fee table above are the estimated monthly 
+quantity(ies) calculated from the annual amounts in the annual “Quantity” and “Annual Price” columns in that table above. The actual 
 quantity(ies) will be invoiced quarterly in arrears based on Subscription Start Date. 
 Hardware & Clock Fees All One Time Fees in respect of purchased Dayforce Clocks, badges or other tangible items or hardware, will be invoiced upon 
 shipment.   
  
 Annual maintenance Recurring Fees for purchased Clocks will be invoiced upon shipment at the Invoicing Frequency set forth above.   
  
-Subscription Recurring Fees will be invoiced upon shipment at the Invoicing Frequency set forth above.  Recurring Fees with r espect 
+Subscription Recurring Fees will be invoiced upon shipment at the Invoicing Frequency set forth above.  Recurring Fees with respect 
 to webclocks will be invoiced upon configuration of the webclock at the Invoicing Frequency set forth above. 
 Dayforce Professional Services Time & 
 Material Service Fees 
@@ -1798,7 +1798,7 @@ supplies, and materials. If CDOT repairs any deficiencies, it is under no
 obligation to maintain or repair in the future.
 VII. Joint Commitments
 A. CDOT and the Local Agency will provide  liaison through the representatives  
-listed below. If the representatives or contact information changes the Party is  
+listed below. If the representatives or contact information changes the Party is 
 to give written notice regarding the  substitution of representatives or contact  
 information to the other Party’s Liaisons.
 CDOT Project L iaison
@@ -1937,7 +1937,7 @@ M. Taxes
 The State is exempt from federal excise taxes under I.R.C. Chapter 32 (26 
 U.S.C., Subtitle D, Ch. 32) (Federal Excise Tax Exemption Certificate of 
 Registry No. 84-730123K) and from State and local government sales and use 
-taxes under §§39- 26-704(1), et seq., C.R.S. (Colorado Sales Tax Exemption 
+taxes under §§39-26-704(1), et seq., C.R.S. (Colorado Sales Tax Exemption 
 Identification Number 98-02565). The State shall not be liable for the payment 
 of any excise, sales, or use taxes, regardless of whether any political 
 subdivision of the state imposes such taxes on Local Agency. Local Agency 
@@ -2046,7 +2046,7 @@ Standards for Individuals with a Disability adopted by the Office of Information
 Technology pursuant to §24- 85-103 C.R.S. is determined and tested by a 
 qualified third party selected by the State. The State may ask the Local Agency 
 to review the selection of the third party. Local Agency shall be responsible for 
-all costs associated with the third- party vendor’s assessment. If Local Agency 
+all costs associated with the third-party vendor’s assessment. If Local Agency 
 is not in compliance as determined by the third- party vendor, at the State’s 
 request and at the State’s direction, Local Agency shall promptly take all 
 necessary actions to come into compliance using a State-approved vendor, at 

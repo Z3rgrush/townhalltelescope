@@ -164,68 +164,149 @@
 - A. Consider a recommendation to City Council for a Deferred Recreational Amenities and Certificate
 - of Occupancy Agreement for the Tunatua RV Resort at 4175 W US-40, Craig, Colorado 81625
 
-## [craig#6] 2026-10-27 | City Council | agenda
-- Note: The Consent Agenda consists of proposed actions on business matters which are considered routine
-- and for which approval is based on previously approved City policy or practice. The Consent Agenda will
-- be approved by a single motion to “Approve the Consent Agenda” and Council Members will vote
-- request that it be managed separately for discussion and consideration. Matters removed from the Consent
-- Agenda will be placed on the agenda as an item of “Other Business” for discussion and consideration
+## [craig#6] 2026-10-27 | City Council | minutes
+- Carmody, Public Works Director Danny Paul, Parks and Recreation Director Ryan
 - A. Approval of Minutes from October 13, 2026, regular council meeting
 - B. Approval of Bills through October 22, 2026, in the amount of $603,488.92
+- Councilwoman Gottschall moved with a second by Councilman Duran to approve the
+- consent agenda as presented, which included the approval of the minutes from the
+- regular council meeting on October 13, 2026, the approval of the bills through October
 - A. Approval of the agenda for October 27, 2026, regular council meeting
+- Councilman Looper moved with a second by Councilman Duran to approve the agenda
+- Resolution No. 35 (2026) ~ A Resolution approving a Deferred Recreational
+- Amenities and Certificate of Occupancy Agreement for the Tunatua RV Resort project
+- located at 4175 W. Highway 40 and Item # 11.I. Resolution No. 36 (2026) ~ A
+- Resolution approving a Subdivision Improvements Agreement for the Tunatua RV
+- Resort project located at 4175 W. Highway 40
 - 6. Presentations
+- City Manager KC Hume updated the group on current and future meetings and projects
 - 9. Limited Public Comment
-- within the jurisdiction of the city. Speakers must provide their full name, spelling, if requested, and have
-- signed up on the Public Comment Sign-up Form. Each speaker is allocated no more than 3.0 minutes to
-- comment will be requested to stop their public comment by the presiding officer. If you have documents
-- For participation in public comment virtually, please email the City Clerk at the following email address:
+- There was no limited public comment
 - 10. Public Hearing
-- A. Finance Director Mindy Elliott to present for discussion and approval (Introduction and First
-- Reading) Ordinance No. 1186 (2026) ~ An Ordinance adopting the 2027 Budget and setting
-- appropriations for the revenues and expenditures, and making and fixing the amount of property tax
-- B. City Manager KC Hume to present for discussion and approval Resolution No. 34 (2026) ~ A
-- Resolution Approving Subrecipient Agreements for HUD and DOLA Grant Funding related to the
-- Meadows Apartments project
-- C. Public Works Director Danny Paul to present for discussion and approval Award of Proposal for the
-- Craig Master Plan Update to the SE Group in the amount of $195,000.00
-- D. Parks & Recreation Director Ryan Dennison to present for discussion and approval recommendation
-- to select Butler Snow LLP for Bond Counsel Services for the Craig Sports Complex
-- E. Finance Director Mindy Elliott to present for discussion and approval (Introduction and First
-- Reading) Ordinance No. 1187 (2026) ~ an Ordinance amending sections 13.48.010 and 13.16.010 of
-- the Craig Municipal Code to increase the Water and Wastewater rates to provide sufficient revenues
-- to maintain the balance of Water and Wastewater Enterprise Funds
-- F. Finance Director Mindy Elliott to present for discussion and approval (Introduction and First
-- Reading) Ordinance No. 1188 (2026) ~ an Ordinance amending section 8.04.250 of the Craig
+- There was no Public Hearing scheduled
+- A. Finance Director Mindy Elliott to present for discussion and approval (Introduction
+- and First Reading) Ordinance No. 1186 (2026) ~ An Ordinance adopting the 2027
+- Budget and setting appropriations for the revenues and expenditures, and making and
+- fixing the amount of property tax levies for the City of Craig, Colorado for and during
+- Finance Director Mindy Elliott presented for discussion and approval (Introduction
+- December 2027. After further discussion, Councilman Looper moved with a second by
+- Councilman Duran to approve (Introduction and First Reading) Ordinance No. 1186
+- (2026) ~ An Ordinance adopting the 2027 Budget and setting appropriations for the
+- revenues and expenditures, and making and fixing the amount of property tax levies
+- B. City Manager KC Hume to present for discussion and approval Resolution No. 34
+- (2026) ~ A Resolution Approving Subrecipient Agreements for HUD and DOLA
+- Grant Funding related to the Meadows Apartments project
+- City Manager KC Hume presented for discussion and approval Resolution No. 34
+- Grant Funding related to the Meadows Apartments project. Alex Gano, New
+- Communities Law, provided additional information. After further discussion,
+- approve Resolution No. 34 (2026) ~ A Resolution Approving Subrecipient
+- Agreements for HUD and DOLA Grant Funding related to the Meadows Apartments
+- project. Ayes: 5. Nays: 0. Motion carried
 
-## [craig#7] 2026-10-27 | City Council | agenda
+## [craig#7] 2026-11-10 | Craig Urban Renewal Authority | agenda
+- A. Approval of the agenda for November 10, 2026, Craig Urban Renewal Authority Meeting
+- A. Approval of the July 29th, 2026, CURA Board Meeting Minutes
+- 6. Public Hearing
+- A. Craig Urban Renewal Authority Resolution No. 01 (2026) A Resolution of the Craig Urban
+- Renewal Authority to adopt the 2027 CURA budget
+- A. Discussion and adoption of Craig Urban Renewal Authority Resolution No. 01 (2026) A Resolution
+- of the Craig Urban Renewal Authority to adopt the 2027 CURA budget
+
+## [craig#8] 2026-11-10 | Craig Urban Renewal Authority | agenda
+- A. Approval of the agenda for November 10, 2026, Craig Urban Renewal Authority Meeting
+- A. Approval of the July 29th, 2026, CURA Board Meeting Minutes
+- 6. Public Hearing
+- A. Craig Urban Renewal Authority Resolution No. 01 (2026) A Resolution of the Craig Urban
+- Renewal Authority to adopt the 2027 CURA budget
+- A. Discussion and adoption of Craig Urban Renewal Authority Resolution No. 01 (2026) A Resolution
+- of the Craig Urban Renewal Authority to adopt the 2027 CURA budget
+- Randy Looper, and taxing entity representatives Rodney Kowach, Craig Rural Fire District and
+- Board Chair Nichols presented agenda item 2, approval of the agenda. Commissioner
+- Looper moved with a second by Commissioner Gottschall to approve the July 29, 2026,
+- Board Chair Nichols presented agenda item 3, Approval of the December 10, 2025, minutes
+- Commissioner Duran moved with a second by Commissioner Tucker to approve the minutes
+- Board Chair Nichols presented agenda item 4, appointment of City Manager KC Hume as the
+- Executive Director of the Craig Urban Renewal Authority (CURA). After further discussion,
+- Commissioner Gottschall moved with a second by Commissioner Tucker to appoint City
+- CRAIG URBAN RENEWAL AUTHORITY RESOLUTION No. 0 1 (2026)
+- A RESOLUTION ADOPTING THE 2027 BUDGET AND SETTING APPROPRIATIONS
+- of Craig, Colorado has received and reviewed the URA annual budget for the fiscal year
+- WHEREAS, the budget as submitted has been received by the Board and published
+- WHEREAS, the Board conducted a public hearing on the submitted budget on
+- WHEREAS, the budget as submitted sets for the following estimated fiscal data for
+- Renewal Authority of the City of Craig, Colorado that the Budget, a copy of which is
+- incorporated herein by reference, be and hereby is adopted for the Urban Renewal Authority
+- BE IT FURTHER RESOLVED that adoption of the Authority’s 2027 budget and the
+- Council of the City of Craig’s 2027 budget and appropriation of the funds provided therein for
+- The proposed budget beginning January 1, 2027 and ending on December 31, 2027 is hereby submitted
+- As required by Colorado statutes, this proposed budget is in balance with anticipated and existing
+- Craig; (1) a member appointed by the Moffat County Board of County Commissioners; (1) a board
+- member of a special district selected by agreement of the special districts levying a mill levy within the
+- boundaries of the Authority area (Craig Rural Fire District); (1) an elected member of a board of education
+- of a school district levying a mill levy within the boundaries of the Authority area selected by agreement of
+
+## [craig#9] 2026-11-10 | City Council | agenda
 - Note: The Consent Agenda consists of proposed actions on business matters which are considered routine
 - and for which approval is based on previously approved City policy or practice. The Consent Agenda will
 - be approved by a single motion to “Approve the Consent Agenda” and Council Members will vote
 - request that it be managed separately for discussion and consideration. Matters removed from the Consent
 - Agenda will be placed on the agenda as an item of “Other Business” for discussion and consideration
-- A. Approval of Minutes from October 13, 2026, regular council meeting
-- B. Approval of Bills through October 22, 2026, in the amount of $603,488.92
-- A. Approval of the agenda for October 27, 2026, regular council meeting
+- A. Approval of Minutes from the October 27, 2026, regular council meeting
+- B. Approval of Bills through November 6, 2026, in the amount of $412,435.54
+- D. Approval of the Appointment of Ashley Dishman to serve a two-year term as a Board Member on
+- the Economic Development Advisory Committee (EDAC)
+- A. Approval of the agenda for November 10, 2026, regular council meeting
 - 6. Presentations
+- B. Police Chief Michael Cochran to present the Police Report for October 2026
 - 9. Limited Public Comment
 - within the jurisdiction of the city. Speakers must provide their full name, spelling, if requested, and have
 - signed up on the Public Comment Sign-up Form. Each speaker is allocated no more than 3.0 minutes to
 - comment will be requested to stop their public comment by the presiding officer. If you have documents
 - For participation in public comment virtually, please email the City Clerk at the following email address:
 - 10. Public Hearing
-- A. Finance Director Mindy Elliott to present for discussion and approval (Introduction and First
-- Reading) Ordinance No. 1186 (2026) ~ An Ordinance adopting the 2027 Budget and setting
-- appropriations for the revenues and expenditures, and making and fixing the amount of property tax
-- B. City Manager KC Hume to present for discussion and approval Resolution No. 34 (2026) ~ A
-- Resolution Approving Subrecipient Agreements for HUD and DOLA Grant Funding related to the
-- Meadows Apartments project
-- C. Public Works Director Danny Paul to present for discussion and approval Award of Proposal for the
-- Craig Master Plan Update to the SE Group in the amount of $195,000.00
-- D. Parks & Recreation Director Ryan Dennison to present for discussion and approval recommendation
-- to select Butler Snow LLP for Bond Counsel Services for the Craig Sports Complex
-- E. Finance Director Mindy Elliott to present for discussion and approval (Introduction and First
-- Reading) Ordinance No. 1187 (2026) ~ an Ordinance amending sections 13.48.010 and 13.16.010 of
-- the Craig Municipal Code to increase the Water and Wastewater rates to provide sufficient revenues
-- to maintain the balance of Water and Wastewater Enterprise Funds
-- F. Finance Director Mindy Elliott to present for discussion and approval (Introduction and First
-- Reading) Ordinance No. 1188 (2026) ~ an Ordinance amending section 8.04.250 of the Craig
+- A. Finance Director Mindy Elliott to present for Public Hearing Ordinance No. 1186 (2026) ~ An
+- Ordinance adopting the 2027 Budget and setting appropriations for the revenues and expenditures,
+- and making and fixing the amount of property tax levies for the City of Craig, Colorado for and
+- B. Finance Director Mindy Elliott to present for Public Hearing Ordinance No. 1187 (2026) ~ An
+- Ordinance amending sections 13.48.010 and 13.16.010 of the Craig Municipal Code to increase the
+- Water and Wastewater rates to provide sufficient revenues to maintain the balance of Water and
+- Wastewater Enterprise Funds
+- C. Finance Director Mindy Elliott to present for Public Hearing Ordinance No. 1188 (2026) ~ An
+- Ordinance amending section 8.04.250 of the Craig Municipal Code to increase the Refuse
+- Collection Fee Rates to provide sufficient revenues to maintain the balance of the Solid Waste
+- D. City Manager KC Hume to present for Public Hearing Ordinance No. 1189 (2026) ~ An Ordinance
+- for the First Amendment to Land Lease Option (Solar Facility) between RWE Solar Development,
+- A. Finance Director Mindy Elliott to present for discussion and approval (Second Reading) Ordinance
+
+## [craig#10] 2026-11-10 | City Council | agenda
+- Note: The Consent Agenda consists of proposed actions on business matters which are considered routine
+- and for which approval is based on previously approved City policy or practice. The Consent Agenda will
+- be approved by a single motion to “Approve the Consent Agenda” and Council Members will vote
+- request that it be managed separately for discussion and consideration. Matters removed from the Consent
+- Agenda will be placed on the agenda as an item of “Other Business” for discussion and consideration
+- A. Approval of Minutes from the October 27, 2026, regular council meeting
+- B. Approval of Bills through November 6, 2026, in the amount of $412,435.54
+- D. Approval of the Appointment of Ashley Dishman to serve a two-year term as a Board Member on
+- the Economic Development Advisory Committee (EDAC)
+- A. Approval of the agenda for November 10, 2026, regular council meeting
+- 6. Presentations
+- B. Police Chief Michael Cochran to present the Police Report for October 2026
+- 9. Limited Public Comment
+- within the jurisdiction of the city. Speakers must provide their full name, spelling, if requested, and have
+- signed up on the Public Comment Sign-up Form. Each speaker is allocated no more than 3.0 minutes to
+- comment will be requested to stop their public comment by the presiding officer. If you have documents
+- For participation in public comment virtually, please email the City Clerk at the following email address:
+- 10. Public Hearing
+- A. Finance Director Mindy Elliott to present for Public Hearing Ordinance No. 1186 (2026) ~ An
+- Ordinance adopting the 2027 Budget and setting appropriations for the revenues and expenditures,
+- and making and fixing the amount of property tax levies for the City of Craig, Colorado for and
+- B. Finance Director Mindy Elliott to present for Public Hearing Ordinance No. 1187 (2026) ~ An
+- Ordinance amending sections 13.48.010 and 13.16.010 of the Craig Municipal Code to increase the
+- Water and Wastewater rates to provide sufficient revenues to maintain the balance of Water and
+- Wastewater Enterprise Funds
+- C. Finance Director Mindy Elliott to present for Public Hearing Ordinance No. 1188 (2026) ~ An
+- Ordinance amending section 8.04.250 of the Craig Municipal Code to increase the Refuse
+- Collection Fee Rates to provide sufficient revenues to maintain the balance of the Solid Waste
+- D. City Manager KC Hume to present for Public Hearing Ordinance No. 1189 (2026) ~ An Ordinance
+- for the First Amendment to Land Lease Option (Solar Facility) between RWE Solar Development,
+- A. Finance Director Mindy Elliott to present for discussion and approval (Second Reading) Ordinance

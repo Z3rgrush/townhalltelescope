@@ -1,19 +1,6 @@
 # manzanola
 
-## [manzanola#0] 2025-11-11 | City Council | agenda
-- Location: 301 N. Park—Chamber Room
-- 3. Approval of Minutes-October 8, 2025
-- 2. 112 S Canal – Michael Yerman & Teale Hemphill-10/14/2025-CDPHE awarded TBA
-- (Targeted Brownfields Assessment) consultant and cleanup/abatement contractor
-- 3. IRS letter November3, stating tax credit refund coming on the solar
-- 5. GMS – Water Plant Storage Study – No - update
-- 1. C-DOT Grant-MMOF – sidewalk draft e-mailed on October 20, 2025. Southeast TPR
-- 2. MMOF Resolution-hold till MMOF grant is known
-- 4. Gallagher Insurance-25/26 renewal on 10/10/2025--$36,216. Discussion & approval
-- APPROVAL of October Bills and Payroll
-- PUBLIC COMMENTS:
-
-## [manzanola#1] 2025-12-12 | City Council | agenda
+## [manzanola#0] 2025-12-12 | City Council | agenda
 - Location: 301 N. Park—Chamber Room
 - 2. Approval of Minutes-November 12, 2025
 - 1. 112 S Canal – Michael Yerman & Teale Hemphill-10/14/2025-CDPHE awarded TBA
@@ -26,7 +13,7 @@
 - APPROVAL of November Bills and Payroll
 - PUBLIC COMMENTS:
 
-## [manzanola#2] 2026-01-01 | City Council | agenda
+## [manzanola#1] 2026-01-01 | City Council | agenda
 - Location: 301 N. Park—Chamber Room
 - 4. Approval of Minutes-December 10, 2025
 - 2. 112 S Canal – applying for grants
@@ -35,7 +22,7 @@
 - APPROVAL of December Bills and Payroll
 - PUBLIC COMMENTS:
 
-## [manzanola#3] 2026-02-02 | City Council | agenda
+## [manzanola#2] 2026-02-02 | City Council | agenda
 - Location: 301 N. Park—Chamber Room
 - 3. Approval of Minutes-January 14, 2026
 - 1. MMOF – CDOT Grant-Received $474,041
@@ -45,7 +32,7 @@
 - APPROVAL of January Bills and Payroll
 - PUBLIC COMMENTS:
 
-## [manzanola#4] 2026-03-03 | City Council | agenda
+## [manzanola#3] 2026-03-03 | City Council | agenda
 - Location: 301 N. Park—Chamber Room
 - 1. Approval of Procurement of Manzanola Procurement Policy
 - 2. Approval of Procurement Supporting Federal Regulations 2 CFR 200
@@ -56,11 +43,11 @@
 - 7. Approval of Federal Funded Sampled & Tested per approved process
 - 8. Approval of Federal Funded Property Acquisition Policies of 1970
 
-## [manzanola#5] 2026-03-23 | City Council | agenda
+## [manzanola#4] 2026-03-23 | City Council | agenda
 - Location: 301 N. Park—Chamber Room
 - 1. Review Public Hearing for Liquor & Smokes, LLC dba Manzanola Liquors & Smokes
 
-## [manzanola#6] 2026-04-04 | City Council | agenda
+## [manzanola#5] 2026-04-04 | City Council | agenda
 - Location: 301 N. Park—Chamber Room
 - 4. Approval of Minutes-March 11, 2026
 - 5. Department Reports—84% water loss
@@ -74,7 +61,7 @@
 - APPROVAL of March Bills and Payroll
 - PUBLIC COMMENTS:
 
-## [manzanola#7] 2026-05-05 | City Council | agenda
+## [manzanola#6] 2026-05-05 | City Council | agenda
 - Location: 301 N. Park—Chamber Room
 - 4. Approval of Minutes-April 8, 2026
 - preparing park
@@ -84,7 +71,7 @@
 - APPROVAL of April Bills and Payroll
 - PUBLIC COMMENTS:
 
-## [manzanola#8] 2026-06-06 | City Council | agenda
+## [manzanola#7] 2026-06-06 | City Council | agenda
 - Location: 301 N. Park—Chamber Room
 - 4. Approval of Minutes-May 20, 2026
 - 1. MMOF – CDOT Grant Budgeted 2029-Contract for $474,041
@@ -97,7 +84,7 @@
 - APPROVAL of May Bills and Payroll
 - PUBLIC COMMENTS:
 
-## [manzanola#9] 2026-07-07 | City Council | agenda
+## [manzanola#8] 2026-07-07 | City Council | agenda
 - Location: 301 N. Park—Chamber Room
 - 4. Approval of Minutes-June 10, 2026
 - 1. MMOF – CDOT Grant Budgeted 2029-Contract for $474,041
@@ -111,7 +98,7 @@
 - APPROVAL of June Bills and Payroll
 - PUBLIC COMMENTS:
 
-## [manzanola#10] 2026-08-08 | City Council | agenda
+## [manzanola#9] 2026-08-08 | City Council | agenda
 - Location: 301 N. Park—Chamber Room
 - 4. Approval of Minutes-July 8, 2026
 - 1. MMOF – CDOT Grant Budgeted 2029-Contract for $474,041
@@ -124,7 +111,7 @@
 - APPROVAL of July Bills and Payroll
 - PUBLIC COMMENTS:
 
-## [manzanola#11] 2026-09-09 | City Council | agenda
+## [manzanola#10] 2026-09-09 | City Council | agenda
 - Location: 301 N. Park—Chamber Room
 - 4. Approval of Minutes-August 12, 2026
 - 1. Tom McClernan-GMS PER-Well #2 water flow tests and chemical tests
@@ -138,7 +125,7 @@
 - APPROVAL of August Bills and Payroll
 - PUBLIC COMMENTS:
 
-## [manzanola#12] 2026-10-09 | City Council | agenda
+## [manzanola#11] 2026-10-09 | City Council | agenda
 - Location: 301 N. Park—Chamber Room
 - 4. Approval of Minutes-September 9, 2026
 - 1. Tom McClernan-GMS PER-Well #2 water flow tests and chemical tests
@@ -148,4 +135,22 @@
 - 1. Colorado Rural Water-Dave Diss-Diamond Maps-$15.00 per month a
 - 2. SECWCD – Hunter Willits – Conduit vault placement at water plant – Valley water
 - APPROVAL of September Bills and Payroll
+- PUBLIC COMMENTS:
+
+## [manzanola#12] 2026-11-11 | City Council | agenda
+- Location: 301 N. Park—Chamber Room
+- 5. Approval of Minutes-October 14, 2026
+- 1. Tom McClernan-GMS PER-Well #2 water flow tests and chemical tests
+- 2. Michael Yerman-Brownsfield Grant Contract-112 S. Canal-Contractor is Earth
+- 3. Proposition 123-extended through December 31, 2029-Housing needs assessment
+- must be approved by council vote and turned into SECED
+- a. MMOF-CDOT Grant contract $474,041-Colorado budget year 2029 now extended
+- till 2031- Governor Polis Budget has seriously underfunded the CDOT funding. CDOT
+- saying look for different grants like “Safe Routes to School” & “TAP Grant”
+- Budget! Need to search for grant funds
+- c. SECOG Mini Grant—received $2,000; to trim cottonwood tree in Memorial Park
+- 1. Pay-off Wastewater Fund on 2008 loan & transfer remaining funds to the sewer fund
+- 2. Colorado Rural Water-Dave Diss-Diamond Maps-$15.00 per month a
+- 3. SECWCD – Hunter Willits – Conduit vault placement at water plant – Valley water
+- APPROVAL of October Bills and Payroll
 - PUBLIC COMMENTS:

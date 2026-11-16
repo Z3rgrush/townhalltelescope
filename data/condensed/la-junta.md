@@ -1,65 +1,6 @@
 # la-junta
 
-## [la-junta#0] 2026-08-11 | Board of Utilities  | minutes
-- Tom Seaba, Director of Water Utilities
-- Regular Meeting of July 14, 2026. Hearing none, the Chairman asked for a motion to
-- approve the minutes as published
-- MOTION TO APPROVE THE JULY 14, 2026 MINUTES AS PUBLISHED: Velasquez
-- DISCUSSION: There was no discussion
-- In June, power sales revenue was greater than budget by $135,404 (5.8%)
-- Cost of goods sold was under budget $14.725 (1%)
-- Revenue from power sales was under budget by $331,580 (2.7%)
-- Total revenues were less than budget by $232,105
-- The total cost of goods sold was under budget by $131,663 (1.7%)
-- Total A & G expenses were under budget by $140,868 (4.5%)
-- YTD Net Revenue was greater than budget by $1,447,950 (2.9%)
-- Member Energy sales were 3.78% more than budget in June and 1.3% less than they
-- Member energy sales YTD were 3.0% less than budget and 4.3% less than YTD 2025
-- The avoided cost rate for July will be $40.78 per mWh
-- The 2026 YTD blended rate for power is $42.33 per mWh compared to $43.92 per mWh
-- In June, ARPA purchased 17,650 kWh from individual La Junta renewable (solar)
-- B. Water & Wastewater Treatment (Tom Seaba)
-- Routine maintenance: Flushed air relief valves, calibrated lab equipment, checked well
-- Installed new water softener, blower fan switch, and float switch on clor-tec
-- Installed backflow and control valve on the bulk water station
-- Began system extension around 24th and Carson to help with volume, flow, and fire
-- Meter reading and utility billing office generated work orders and equipment
-- RO concentrate discharge to the plant was 25.399 million gallons
-- Jetted 7,464 of line for 9 emergency calls and 22 manhole locate requests
-- Dewatering press is set in place with sludge, flocculent, filtrate, and drainage lines
-- Plant operates on generator power during exceptionally hot days to reduce the power
-- Grant applications for new water meters and storage tank rehabilitation and
-- Spoke about the lagoons at the Industrial Park, the lead and copper surveys, the
-- drought affecting the grasses at the farms and the proposed water lagoons on the east
-- Upgraded a 208 transformer bank at 317 W. 3rd Street
-- Mayor Ayala: People are saying that La Junta has the highest utility rates in Colorado,
-
-## [la-junta#1] 2026-08-17 | City Council | minutes
-- Mascarenas (Industrial Park), Kasey Miehlke (La Junta), Gary Reed (Rocky
-- EMPLOYEE SERVICE AWARDS
-- 1977 - During high school worked in Fire Department
-- 03/21/1990 - Part-time Laborer Street and Park Departments
-- 03/01/1998 - Street Maintenance Worker I
-- 01/01/2000 - Street Maintenance Worker II
-- 04/01/2000 - Street Maintenance Worker III
-- 10/01/2009 - Maintenance Worker II Industrial Park
-- 02/16/2022 - Maintenance Worker III Industrial Park
-- transparency and accountability with the La Junta Police Department and city
-- immediate life-threatening danger. She requests approval to install an Autism Childhood
-- They are community-based and do apply and receive grants; however, they also rely on
-- the community for funding as well. They have closed their location at 109 W. 2nd Street
-- be six community volunteer development sessions that are free to the public. Three
-- consolidation agreement were met to be in compliance. They continue looking to recruit
-- MOTION TO APPROVE THE AUGUST 17, 2026 CONSENT AGENDA: Ramirez
-- DISCUSSION: There was no discussion
-- Tom Seaba talked about the smell at the Industrial Park and golf course. They're
-- Wastewater Treatment Center
-- La Junta Development Inc. will be meeting on Wednesday to work through final
-- The budget process has officially started. Met with some of the supervisors
-- Budget Meet & Greet was at the Senior Center. Need to figure out a different way
-- There was a great turnout at Police in the Park. Lots of kids and community
-
-## [la-junta#2] 2026-08-27 | Urban Renewal Authority | minutes
+## [la-junta#0] 2026-08-27 | Urban Renewal Authority | minutes
 - MOTION TO APPROVE JULY 23, 2026 MINUTES: Fleischacker
 - MOTION TO APPROVE JULY FINANCIAL STATEMENTS AS PRESENTED: Madrid
 - Ben Mason – I believe that they have acquired their Certificate of Occupancy, which
@@ -98,7 +39,7 @@
 - however, we can only discuss what is on the agenda and nothing more
 - have not reached out to them yet to plan a specific date, so the second date we all
 
-## [la-junta#3] 2026-08-31 | City Council | minutes
+## [la-junta#1] 2026-08-31 | City Council | minutes
 - A. A Resolution of the City Council of La Junta, Colorado, Authorizing the
 - MOTION TO APPROVE A RESOLUTION OF THE CITY COUNCIL OF LA JUNTA,
 - DISCUSSION: Michael Hart – This is essentially a junk property that the city has and
@@ -119,7 +60,7 @@
 - DISCUSSION OF MATTER PERSONAL TO PARTICULAR EMPLOYEES: Copley
 - DISCUSSION: There was no discussion
 
-## [la-junta#4] 2026-09-08 | Board of Utilities  | minutes
+## [la-junta#2] 2026-09-08 | Board of Utilities  | minutes
 - (Director of Water Utilities), Chris Arguello (Electric Superintendent), Martin
 - OATH OF OFFICE TO NEWLY APPOINTED COMMISSIONER (City Clerk)
 - The City Clerk administered the oath of office to the newly appointed commissioner,
@@ -155,7 +96,7 @@
 - We are down four employees, which affects the streets operation
 - We will be briefly talking about the budget tonight at the city council meeting
 
-## [la-junta#5] 2026-09-08 | City Council | minutes
+## [la-junta#3] 2026-09-08 | City Council | minutes
 - (Director of Water Utilities), Pam Denahy (Director of Tourism), Dawn Block
 - There were communication issues with her department and the electric and water
 - departments. She reiterated that the reads are correct and all the meters are working
@@ -192,7 +133,7 @@
 - different aspects of the ordinance and concerns to keep in mind.)
 - MOTION TO PASS THE ORDINANCE ON FIRST READING: Rikhof
 
-## [la-junta#6] 2026-09-21 | City Council | minutes
+## [la-junta#4] 2026-09-21 | City Council | minutes
 - (Tourism/Economic Development Director), Brad Davidson (Fire Chief),
 - Dawn Block (Personnel Director), Joshua Mosher (Fire), Christina Tozzie (La
 - EMPLOYEE SERVICE AWARDS
@@ -231,7 +172,7 @@
 - representation on the board
 - MOTION TO PASS THE ORDINANCE ON FIRST READING: Ochoa
 
-## [la-junta#7] 2026-09-24 | Urban Renewal Authority | minutes
+## [la-junta#5] 2026-09-24 | Urban Renewal Authority | minutes
 - Erika Lively, La Junta: Wondering currently about the TIF (Tax Increment Fund) district,
 - if it is going to expand; and would also like to know what the TIF district encompasses
 - MOTION TO APPROVE AUGUST 27, 2026 MINUTES: Johnson
@@ -269,7 +210,7 @@
 - but that is dependent on the board. On the Spark grant for the sign, he was awarded
 - where the grant amount for the Spark grants is in the amounts up to $5,000, I do not
 
-## [la-junta#8] 2026-10-05 | City Council | minutes
+## [la-junta#6] 2026-10-05 | City Council | minutes
 - Development), Kasey Miehlke (La Junta), Elaine Wittman (La Junta),
 - EMPLOYEE SERVICE AWARDS
 - B. Application for a Special Events Permit by American Legion Auxiliary Unit 9, Elaine
@@ -296,20 +237,43 @@
 - Parks: Still waiting on scheduling for a plumber to get the toilets installed
 - The Art Project, celebrating its fifth anniversary
 
-## [la-junta#9] 2026-10-13 | Board of Utilities  | agenda
+## [la-junta#7] 2026-10-13 | Board of Utilities  | minutes
+- (Director of Water Utilities), Chris Arguello (Electric Superintendent), Martin
+- minutes of the Regular Meeting of September 8, 2026. Hearing none, the Vice
+- Chairman asked for a motion to approve the minutes as published
+- MOTION TO APPROVE THE SEPTEMBER 8, 2026 MINUTES AS PUBLISHED: Miner
+- DISCUSSION: There was no discussion
 - B. Water & Wastewater Treatment (Tom Seaba)
+- Well #13 certified and back in service after meter repairs
+- Continued on system expansion on 24th Street between Carson and San Juan to
+- Installed new hydrant at 5th & Colorado in an alternative spot for upcoming street
+- Meter Reading and utility billing office generated work orders, equipment
+- RO concentrate discharge to plant was 17.348 million gallons
+- Signed contract for unregulated contaminants grant. Project will begin ASAP with
+- Regulatory and permit reviews
+- discussion involving the Pueblo sewer spill
+- Installed two 40-foot streetlight poles for Lewis Bolt & Nut at the Anchor plant
+- Assisted in installing an A/C unit for both the library and police department
+- Ran a new overhead service line for the streetlights on Hwy 50
+- Still waiting for CAA to approve the contract to be able to offer free curbside
 - A. A Resolution Changing the Pricing of Electric for customers of the City of La Junta
 - for the Year 2027; Providing for an Effective Date of the New Rates; Providing for
 - the Repeal of Conflicting Resolutions (Finance Director) (Action)
+- MOTION TO ADOPT RESOLUTION NO. RUB-6-2026: Thomas
 - B. A Resolution Changing the Pricing of Water for customers of the City of La Junta
+- MOTION TO ADOPT RESOLUTION NO. RUB-7-2026: Thomas
 - C. A Resolution Changing the Pricing of Wastewater for customers of the City of La
 - Junta for the year 2027; Providing for an Effective Date of the New Rates;
 - Providing for the Repeal of Conflicting Resolutions (Finance Director) (Action)
+- MOTION TO ADOPT RESOLUTION NO. RUB-8-2026: Thomas
 - D. A Resolution Changing the Pricing of Sanitation for customers of the City of La
+- MOTION TO ADOPT RESOLUTION NO. RUB-9-2026: Thomas
 - E. A Resolution Recommending to City Council the Adoption of the 2027 Proposed
 - Budget for the Electric Fund, Water Fund, Wastewater Fund and Sanitation Fund
+- MOTION TO ADOPT RESOLUTION NO. RUB-10-2026: Thomas
+- community, and it's not done lightly that rates go up, but unfortunately every price goes
 
-## [la-junta#10] 2026-10-19 | City Council | minutes
+## [la-junta#8] 2026-10-19 | City Council | minutes
 - EMPLOYEE SERVICE AWARDS
 - 3/1998–12/1998 - Laborer, Parks Seasonal
 - 5/1/1999–9/23/2003 Park Maintenance Full-time
@@ -348,13 +312,13 @@
 - MOTION TO PASS THE ORDINANCE ON FIRST READING: Rikhof
 - B. Third Amendment to the Consolidation Agreement (Ron Hogan) (Action)
 
-## [la-junta#11] 2026-10-22 | Urban Renewal Authority | agenda
+## [la-junta#9] 2026-10-22 | Urban Renewal Authority | agenda
 - FUNDING APPLICATION
 - A. Blight, Life Safety & Accessibility Application — La Junta Associated Charities
 - A. Chestnut Apartments (Rikhof)
 - A. Approve the 2027 Budget (Action)
 
-## [la-junta#12] 2026-11-02 | City Council | agenda
+## [la-junta#10] 2026-11-02 | City Council | agenda
 - Envision a safe, flourishing downtown that provides a strong commercial tax base
 - Ensure its electorate is well informed of on-going successes and future plans
 - Promote redevelopment of existing businesses and neighborhoods and increase quality of life for all its
@@ -373,5 +337,23 @@
 - THE FORM AND EXECUTION OF THE LOAN AGREEMENT AND A
 - GOVERNMENTAL AGENCY BOND TO EVIDENCE SUCH LOAN; DELEGATING
 
-## [la-junta#13] 2026-11-09 | Historic Preservation Board | agenda
+## [la-junta#11] 2026-11-09 | Historic Preservation Board | agenda
 - A. October Public Outreach Event (Discussion)
+
+## [la-junta#12] 2026-11-10 | Board of Utilities  | agenda
+- B. Water & Wastewater Treatment (Tom Seaba)
+
+## [la-junta#13] 2026-11-16 | City Council | agenda
+- Envision a safe, flourishing downtown that provides a strong commercial tax base
+- Ensure its electorate is well informed of on-going successes and future plans
+- Promote redevelopment of existing businesses and neighborhoods and increase quality of life for all its
+- B. Application for Renewal of a Club Liquor License by BPOE Lodge 701, d/b/a BPOE
+- A. Second Reading/AN ORDINANCE MAKING SUPPLEMENTAL
+- B. Second Reading/AN ORDINANCE MAKING SUPPLEMENTAL
+- APPROPRIATIONS TO THE WATER FUND FOR THE CALENDAR YEAR 2026
+- C. Second Reading/AN ORDINANCE AUTHORIZING A LOAN FROM THE
+- COLORADO WATER RESOURCES AND POWER DEVELOPMENT AUTHORITY
+- WATER ENTERPRISE IN THE MAXIMUM AGGREGATE PRINCIPAL AMOUNT
+- COSTS OF CERTAIN WATER DISTRIBUTION SYSTEM IMPROVEMENTS;
+- AUTHORIZING THE FORM AND EXECUTION OF THE LOAN AGREEMENT AND
+- A GOVERNMENTAL AGENCY BOND TO EVIDENCE SUCH LOAN;

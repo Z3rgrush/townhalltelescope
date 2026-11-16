@@ -208,13 +208,10 @@
 ## [timnath#5] 2026-10-24 | Timnath Town Council Quorum Notice | agenda
 - 4500 Weitzel Street, Timnath, Colorado
 
-## [timnath#6] 2026-10-24 | Timnath Planning Commission | agenda
-- 4500 Weitzel Street, Timnath, Colorado
-
-## [timnath#7] 2026-10-27 | Timnath Town Council Work Session | agenda
+## [timnath#6] 2026-10-27 | Timnath Town Council Work Session | agenda
 - 2.a. 2027 Budget Work Session
 
-## [timnath#8] 2026-10-27 | Timnath Landing General Improvement District Board | agenda
+## [timnath#7] 2026-10-27 | Timnath Landing General Improvement District Board | agenda
 - Timnath Landing General Improvement
 - 2. AMENDMENTS TO THE AGENDA
 - 3. PUBLIC COMMENT
@@ -261,13 +258,13 @@
 -  The ordinance authorizes two series of bonds (2026A and 2026B) to fund public
 - improvements, reimburse the developer, and cover issuance costs. This
 
-## [timnath#9] 2026-10-30 | Timnath Town Council Quorum Notice | agenda
+## [timnath#8] 2026-10-30 | Timnath Town Council Quorum Notice | agenda
 - 3909 Main Street, Timnath, Colorado
 
-## [timnath#10] 2026-10-30 | Timnath Planning Commission | agenda
+## [timnath#9] 2026-10-30 | Timnath Planning Commission | agenda
 - 3909 Main Street, Timnath, Colorado
 
-## [timnath#11] 2026-11-03 | Timnath Planning Commission | agenda
+## [timnath#10] 2026-11-03 | Timnath Planning Commission | agenda
 - 2. AMENDMENTS TO THE AGENDA
 - 4. PUBLIC COMMENT
 - Public Comment is a time for the Public to address the Planning Commission
@@ -312,5 +309,54 @@
 - Weitzel Street and the extension of the median to eliminate unsafe southbound
 - Staff recommended approval with the standard condition allowing minor, non
 
-## [timnath#12] 2026-11-04 | Timnath Town Council | agenda
+## [timnath#11] 2026-11-04 | Timnath Town Council | agenda
 - discussion of personnel matters related to the Town Manager, including
+
+## [timnath#12] 2026-11-10 | Timnath Town Council | agenda
+- purposes of discussing the purchase, acquisition, lease, transfer, or sale
+
+## [timnath#13] 2026-11-10 | Timnath Town Council | agenda
+- 2. AMENDMENTS TO THE AGENDA
+- 4. PUBLIC COMMENT
+-  Each speaker will be allowed to speak one time during public comment for general and
+- non-public hearing agenda items. General public comment should not be used to
+- speak on an item that has a public hearing
+- two items scheduled for a public hearing, they should sign up for both items
+- discussion or for public hearings
+-  The consent agenda is used to approve several action items as a group with one vote
+-  Any council member may request that an item be removed from the consent agenda
+- for further discussion
+- 5.a. Approval of the October 27, 2026, Town Council Meeting Minutes
+- Public Comments
+- 5.b. Approval of the October 30, 2026, Special Town Council Meeting
+- 5.c. RESOLUTION NO. 66, SERIES 2026, A Resolution Appointing a Town
+- The method of discussion for the items below are as follows:
+-  Staff presentation (optional)
+-  Applicant presentation (if applicable)
+-  Council discussion
+- 7.a. RESOLUTION NO. 67, SERIES 2026, A Resolution Adopting a New
+- 7.b. First Reading and Setting a Public Hearing on December 8, 2026, at
+- 6:00 pm for ORDINANCE NO. 19, SERIES 2026, An Ordinance
+- Budget and Appropriating Sums of Money to the Various Funds and
+- Draft 2027 Budget
+- 7.c. First Reading and Setting a Public Hearing on December 8, 2026, at
+- 6:00 pm for ORDINANCE NO. 20, SERIES 2026, An Ordinance
+- Amending the Town Budget for the 2026 Budget Year
+- STAFF: Town Manager Aaron Adams, Contracted Town Attorney Carolyn Steffl,
+- Development Director Scott Robinson, Senior Planner Chad Kemper,
+- Parks and Rec Director Tom Casal, Police Chief Laurie Scott, Town Clerk
+- 2 AMENDMENTS TO THE AGENDA
+- There were no amendments to the agenda
+- 3 PUBLIC COMMENT
+- Mayor Axmacher opened the meeting for public comment. He explained that items 6.a
+- through 6.c were public hearings and that comments on them should be reserved for
+- project near Harmony Road and Weld County Road 15
+- Street. He also encouraged a "live, work, and play" vision with a stronger
+- on road construction in front of the community. He questioned the duplication
+- Tom Sweder raised the uneven geographic distribution of developed park
+- amenities. He questioned the planned Timnath Ranch park near Community
+- Park and asked the Council to consider walking access to developed
+- amenities. He also asked for a public timeline and funding strategy for a park
+- serving northern Timnath, and for geographic equity to be considered in the
+- 2027 capital budget. Mr. Sweder additionally emailed his public comment by
+- turned on early in November. She opposed a roundabout on the Parkway,

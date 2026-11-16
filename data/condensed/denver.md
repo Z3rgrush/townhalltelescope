@@ -1,180 +1,6 @@
 # denver
 
-## [denver#0] 2026-08-11 | Governance and Intergovernmental Relations | minutes
-- 26-1164 Approving the City Council appointment of Mason Daumas to the Board of
-- Council Resolution 26-1164 was approved by consent
-- 26-1165 A resolution approving the reappointment of Samantha Tower to the
-- Council Resolution 26-1165 was approved by consent
-- 26-1167 Amends a contract with Baker Tilly US LLP to add $658,850.00 for a new
-- Council Resolution 26-1167 was approved by consent
-
-## [denver#1] 2026-08-11 | Finance and Business | minutes
-- 26-1096 A resolution amending the City Council Rules of Procedure
-- Council member Sawyer, that Council Resolution 26-1096 be postponed to a date
-- 26-1169 Amends a contract with Ferkam, Inc. to add $1,500,000.00 for a new total
-- 8-31-2027 and to update Exhibit A-1, Pricing - Bid Items for citywide
-- Gonzales-Gutierrez, that Council Resolution 26-1169 be approved for filing,
-- 26-1155 Amends a Master Purchase Order with Fastenal Company to add
-- new end date of 8-31-2027 for the purchase of industrial supplies, citywide
-- Council Resolution 26-1155 was approved by consent
-- 26-1156 Approves a contract with Wilderness Construction Co. for $750,000.00
-- Council Resolution 26-1156 was approved by consent
-- 26-1157 Approves a contract with Halcyon Construction, Inc. for $750,000.00 with
-- Council Resolution 26-1157 was approved by consent
-- 26-1158 Approves a performance loan contract with Zion Senior and Community
-- Council Resolution 26-1158 was approved by consent
-- 26-1159 Amends a Lease Agreement with Project Voyce, to add $3,600.00 for a
-- Downing Street, Unit AA, Denver, CO 80205, Whittier Neighborhood, in
-- Council Resolution 26-1159 was approved by consent
-- 26-1160 Grants a revocable temporary license to H & L Concrete, Inc. for $0.00 with
-- an approximate end date of 7-15-2027 at 955 E. 51st Avenue for project
-- and construction activities for the Globeville Levee project, in Council
-- Council Resolution 26-1160 was approved by consent
-- 26-1161 Approves a Stormwater Facility Maintenance Agreement with the Board of
-- County Commissioners of Arapahoe County to grant Arapahoe County a
-- non-exclusive easement to access Renewable Natural Gas stormwater
-- Council Bill 26-1161 was approved by consent
-- 26-1162 Approves a Uniform Easement Deed and Revocable Storm Drainage
-- License Agreement with the Board of County Commissioners of Arapahoe
-- County to grant a permanent, non-exclusive easement to access and use
-- with DDPHE's Renewable Natural Gas infrastructure and grants a
-- revocable license permitting the city to discharge approved drainage flows
-- Council Bill 26-1162 was approved by consent
-
-## [denver#2] 2026-08-11 | Community Planning and Housing | minutes
-- 26-1168 Amends an Intergovernmental Agreement with the Denver Housing
-- and resulting impacts on anticipated project delivery to support accelerated
-- development, rehabilitation, and preservation of affordable housing serving
-- low- and moderate-income households, citywide
-- Romero Campbell, that Council Bill 26-1168 be approved for filing, carried by the
-
-## [denver#3] 2026-08-11 | Parks, Art and Culture | agenda
-- Parks, Art and Culture
-
-## [denver#4] 2026-08-11 | Mayor-Council | agenda
-- Community Planning and Housing
-- 26-1111 Approves a map amendment to rezone property from U-SU-A
-- 26-1112 Approves a Master Purchase Order with Kois Brothers
-- for the purchase of various truck bodies, components, parts
-- 26-1113 Approves a Master Purchase Order with O.J. Watson Company,
-- options for renewals not to surpass 9-15-2034 for the purchase
-- 26-1114 Amends an agreement with Rising Medical Solutions, LLC to
-- 26-1115 Amends an agreement with the Colorado Firefighter Heart,
-- participation in the Voluntary Cancer Benefit Awards Program,
-- 26-1117 Approves the Mayor’s reappointment to the Broadway Denver
-- General Improvement District. Approves the Mayor’s
-- reappointment of Brad Deen to the Broadway Denver General
-- Improvement District for a term from 1-1-2027 through
-- 12-31-2030 or until a successor is duly appointed, citywide
-- 26-1118 Approves the Mayor’s reappointment to the Broadway Denver
-- reappointment of Brad Brickley to the Broadway Denver
-- General Improvement District for a term from 1-1-2027
-- through 12-31-2030 or until a successor is duly appointed,
-- 26-1119 Approves the Mayor’s reappointment to the Broadway Denver
-- reappointment of Scott Happel to the Broadway Denver
-- 26-1120 Approves the Mayor’s reappointment to the Bluebird Business
-- Improvement District. Approves the Mayor’s reappointment of
-- Tom Secrist to the Bluebird Business Improvement District for
-- duly appointed, citywide
-- 26-1121 Amends a contract with Pine Technologies, LLC to add
-- 26-1122 Amends a contract with Zuora, Inc. to add $3,099,182.10 for a
-- Zuora Billing Platform, citywide
-- 26-1145 Approving the City Council appointment of Council member
-- 26-1125 Amends a Revenue Intergovernmental Agreement with
-- determination, application processing, and services related to
-- 26-1126 Approves a grant agreement with the Executive Office of the
-- 26-1127 Amends Article VIII, Division 2 of Chapter 2 of the Denver
-- Commission to increase participation, representation, and
-- 26-1128 Amends a contract with Jefferson County Public Health (JCPH)
-- part of a regional food security strategy, citywide
-- 26-1129 Amends a contract with Barton Institute for Community Action,
-- Parks, Art and Culture
-- 26-1123 Approves an Intergovernmental Agreement (IGA) with the
-- 26-1124 Approves a Project Funding Agreement and transfer of naming
-- South Platte River
-- 26-1130 Grants a revocable permit, subject to certain terms and
-- conditions, to Central Platte Valley Metropolitan District, their
-- pipes at 1900 16th Street, in Council District 10
-- 26-1131 Grants a revocable permit, subject to certain terms and
-
-## [denver#5] 2026-08-12 | South Platte River Committee | minutes
-- South Platte River
-- 26-1163 Amends the 2025 Intergovernmental Agreement for Stadium Site Project
-- (2025 IGA) between the City and County of Denver and the Broadway
-- that Council Bill 26-1163 be approved for filing, carried by the following vote:
-- 26-1166 Approves a grant agreement with the Colorado Department of Local
-- Broadway Station Pedestrian Bridge Project (TOCI-2500); a bridge over
-- railroads and RTD connecting the Broadway RTD station with the NWSL
-- soccer stadium and Santa Fe Yards development, in Council District 7
-- that Council Resolution 26-1166 be approved for filing, carried by the following
-- South Platte River Committee
-- 26-1147 Approves the request for an Ordinance to relinquish (2) two easements in
-- Council Bill 26-1147 was approved by consent
-- North Kalamath Street, and 2) Public Alley, bounded by West 38th Avenue,
-- North Kalamath Street, West 39th Avenue, and North Jason Street, in
-- Council Resolution 26-1150 was approved by consent
-
-## [denver#6] 2026-08-12 | Transportation and Infrastructure | minutes
-- North Newton Street, and 2) Public Alley, bounded by West Colfax Avenue,
-- North Newton Street, West 14th Avenue, and North Osceola Street, in
-- Council Resolution 26-1148 was approved by consent
-- Alley, bounded by North Newton Street, West 13th Avenue, North Meade
-- Street, and West 14th Avenue, in Council District 3
-- Council Resolution 26-1149 was approved by consent
-- 26-1151 Approves a new Facilities Lease Agreement with Corporate Flight
-- Management, d/b/a Contour Airlines applying rates and charges and for a
-- Council Resolution 26-1151 was approved by consent
-- 26-1152 Approves a Purchase Order with EP Blazer LLC, doing business as John
-- replacement purchase of thirteen 2026 EV Chevrolet Silverado’s with upfits
-- Council Resolution 26-1152 was approved by consent
-- 26-1153 Approves a Purchase Order with National Bus Sales Inc, for $915,838.00
-- with delivery by 11-30-2026 for the capital replacement purchase of two
-- Council Resolution 26-1153 was approved by consent
-- 26-1154 Approves a Master Purchase Order with Ryan Herco Products dba
-- Council Resolution 26-1154 was approved by consent
-
-## [denver#7] 2026-08-17 | City Council | minutes
-- APPROVAL OF THE MINUTES
-- Council President Romero Campbell ordered the minutes approved
-- Minutes 26-1172 were approved
-- PRESENTATIONS
-- 26-1196 A Proclamation Recognizing the 30th Anniversary of Mayfair Park
-- 26-1128 A resolution approving a proposed Second Amendatory Agreement
-- Metro area as part of a regional food security strategy, citywide
-- Amends a contract with Jefferson County Public Health (JCPH) to add $241,000.00
-- part of a regional food security strategy, citywide
-- meeting within the 30-day review period is on 8-31-2026. The Committee approved
-- Sawyer, that Council Resolution 26-1128 be adopted, failed to carry by the following
-- Hinds, to approve the following items en bloc, carried by the following vote:
-- Approved the consent agenda
-- 26-1112 A resolution approving a proposed Master Purchase Order between
-- the purchase of various truck bodies, components, parts and related
-- Approves a Master Purchase Order with Kois Brothers Equipment CO, Inc. for
-- surpass 9-15-2034 for the purchase of various truck bodies, components, parts and
-- approved filing this item at its meeting on 8-4-2026
-- Hinds, that Council Resolution 26-1112 be adopted en bloc, carried by the following
-- 26-1113 A resolution approving a proposed Master Purchase Order between
-- purchase of various truck bodies, components, parts and related
-- Approves a Master Purchase Order with O.J. Watson Company, Inc. for
-- Hinds, that Council Resolution 26-1113 be adopted en bloc, carried by the following
-- 26-1115 A resolution approving a proposed Amendatory Agreement
-- between the City and County of Denver and Colorado Firefighter Heart and
-- Benefit Awards Program
-- Amends an agreement with the Colorado Firefighter Heart, Cancer, and Behavioral
-- Voluntary Cancer Benefit Awards Program, citywide
-- Hinds, that Council Resolution 26-1115 be adopted en bloc, carried by the following
-- 26-1117 A resolution approving the Mayor’s reappointment to the Broadway
-- Denver General Improvement District
-- Approves the Mayor’s reappointment to the Broadway Denver General
-- Improvement District. Approves the Mayor’s reappointment of Brad Deen to the
-- Broadway Denver General Improvement District for a term from 1-1-2027 through
-- 12-31-2030 or until a successor is duly appointed, citywide. The Committee
-- Hinds, that Council Resolution 26-1117 be adopted en bloc, carried by the following
-- 26-1118 A resolution approving the Mayor’s reappointment to the Broadway
-- Improvement District. Approves the Mayor’s reappointment of Brad Brickley to the
-- Hinds, that Council Resolution 26-1118 be adopted en bloc, carried by the following
-
-## [denver#8] 2026-08-18 | Finance and Business | minutes
+## [denver#0] 2026-08-18 | Finance and Business | minutes
 - 26-1184 Approves a Master Purchase Order with Advanced Network Management,
 - Inc for $30,000,000.00 with an end date of 9-15-2029 for the purchase of
 - Council Resolution 26-1184 was approved by consent
@@ -186,7 +12,7 @@
 - the Denver Downtown Development Authority
 - Council Bill 26-1187 was approved by consent
 
-## [denver#9] 2026-08-18 | Community Planning and Housing | minutes
+## [denver#1] 2026-08-18 | Community Planning and Housing | minutes
 - 26-1185 Approves a map amendment to rezone properties from G-RH-3 to G-MU-5,
 - located at 3418 W. 14th Avenue and 1371 N Julian Street in the West
 - Sawyer, that Council Bill 26-1185 be approved for filing, carried by the following
@@ -201,13 +27,13 @@
 - No change to contract capacity or term, citywide
 - Council Resolution 26-1189 was approved by consent
 
-## [denver#10] 2026-08-18 | Parks, Art and Culture | minutes
+## [denver#2] 2026-08-18 | Parks, Art and Culture | minutes
 - Parks, Art and Culture
 - 26-1183 Amends a contract with United Airlines, Inc. to add $1,109,118.00 for a
 - Parks (THTRS-202372030/THTRS-202684414-01)
 - Council Resolution 26-1183 was approved by consent
 
-## [denver#11] 2026-08-18 | Governance and Intergovernmental Relations | minutes
+## [denver#3] 2026-08-18 | Governance and Intergovernmental Relations | minutes
 - 26-1190 Approves Classification Notice #1897
 - Flynn, that Council Bill 26-1190 be approved for filing, carried by the following
 - 26-1171 Approves the City Council appointment of Bobby Rogers to the Denver
@@ -215,7 +41,7 @@
 - 26-1191 A resolution approving the City Council reappointment of Dorothy Shapland
 - Council Resolution 26-1191 was approved by consent
 
-## [denver#12] 2026-08-18 | Mayor-Council | agenda
+## [denver#4] 2026-08-18 | Mayor-Council | agenda
 - Community Planning and Housing
 - 26-1168 Amends an Intergovernmental Agreement with the Denver
 - Housing Authority (DHA) to clarify the original language from
@@ -261,7 +87,7 @@
 - Right-of-Way as 1) West Colfax Avenue, located at the Resolution
 - intersection of West Colfax Avenue and North Newton Street,
 
-## [denver#13] 2026-08-19 | Transportation and Infrastructure | minutes
+## [denver#5] 2026-08-19 | Transportation and Infrastructure | minutes
 - 26-1057 Amends an on-call contract with Leadline Project Management, LLC to add
 - two years for a new end date of 10-12-2028 for SBE Project Management
 - Services. No change to contract capacity, citywide
@@ -301,7 +127,7 @@
 - 26-1178 Approves a contract with Birdair, Inc. for $2,500,000.00 with a term of five
 - Council Resolution 26-1178 was approved by consent
 
-## [denver#14] 2026-08-19 | Health and Safety | minutes
+## [denver#6] 2026-08-19 | Health and Safety | minutes
 - 26-1186 Amends a contract with Denver Health and Hospital Authority by adding
 - implementing the Denver Health Sales Tax, a .34% sales tax passed in
 - services, located at 777 Bannock Street, in Council District 3
@@ -311,13 +137,13 @@
 - 26-1194 Amends an agreement with Trinity Group Services, Inc. to add
 - Council Resolution 26-1194 was approved by consent
 
-## [denver#15] 2026-08-19 | South Platte River Committee | minutes
+## [denver#7] 2026-08-19 | South Platte River Committee | minutes
 - South Platte River
 - 26-1176 Amends a contract with Mark Young Construction, LLC to add
 - at Cuernavaca Park, in Council District 1
 - Council Resolution 26-1176 was approved by consent
 
-## [denver#16] 2026-08-24 | City Council | minutes
+## [denver#8] 2026-08-24 | City Council | minutes
 - APPROVAL OF THE MINUTES
 - Council president Romero Campbell ordered the minutes approved
 - Minutes 26-1218 were approved
@@ -357,24 +183,24 @@
 - Flynn, that Council Resolution 26-1158 be adopted en bloc, carried by the following
 - 26-1159 A resolution approving a proposed First Amendment to Lease
 
-## [denver#17] 2026-08-24 | Budget and Policy Committee | agenda
+## [denver#9] 2026-08-24 | Budget and Policy Committee | agenda
 - Budget and Policy Committee
 - 1437 Bannock Street
 - Proposal for Changes to Sales Tax Initiatives26-1219
 - Immigrant Employee Support and Workforce Equity
 
-## [denver#18] 2026-08-25 | Governance and Intergovernmental Relations | minutes
+## [denver#10] 2026-08-25 | Governance and Intergovernmental Relations | minutes
 - 26-1207 Amends a contract with Wheeler Trigg O’Donnell LLP to add $500,000.00
 - to contract term, citywide (ATTNY-202684070/ATTNY-202685265-01)
 - Council Resolution 26-1207 was approved by consent
 
-## [denver#19] 2026-08-25 | Community Planning and Housing | minutes
+## [denver#11] 2026-08-25 | Community Planning and Housing | minutes
 - 26-1213 Amends a funding agreement with The Fax East Colfax Redevelopment
 - LLC to update the project scope for emergency shelter at the Sand &
 - Sage/Westerner Motel property. No change to contract term or capacity, in
 - Council Resolution 26-1213 was approved by consent
 
-## [denver#20] 2026-08-25 | Parks, Art and Culture | minutes
+## [denver#12] 2026-08-25 | Parks, Art and Culture | minutes
 - Parks, Art and Culture
 - 26-1212 Amends a caretaker agreement with Ryan Phillian to add five years for a
 - facilities, provide security for the site, and serve as park caretaker for the
@@ -383,7 +209,7 @@
 - amount, Mountain Parks. (PARKS-201947937/PARKS-202684659-02)
 - Council Resolution 26-1212 was approved by consent
 
-## [denver#21] 2026-08-25 | Finance and Business | minutes
+## [denver#13] 2026-08-25 | Finance and Business | minutes
 - 26-1216 Amends and revises Denver Revised Municipal Code (DRMC), Chapter
 - and its programs for advancing equitable access to public contracting for
 - Romero Campbell, that Council Bill 26-1216 be approved for filing, carried by the
@@ -394,7 +220,7 @@
 - Wastewater Division of the Department of Transportation and
 - Council Resolution 26-1211 was approved by consent
 
-## [denver#22] 2026-08-25 | Mayor-Council | agenda
+## [denver#14] 2026-08-25 | Mayor-Council | agenda
 - NWCO - Triangle Community Vision Plan; Michael Bouchard, Millie Barsallo Rubio
 - Community Planning and Housing
 - 26-1185 Approves a map amendment to rezone properties from
@@ -443,7 +269,7 @@
 - 26-1061 Amends an on-call contract with Coggins Consultants, LLC to
 - Project Management Services. No change to contract capacity,
 
-## [denver#23] 2026-08-26 | South Platte River Committee | minutes
+## [denver#15] 2026-08-26 | South Platte River Committee | minutes
 - South Platte River
 - 26-1222 Wastewater Enterprise Fund
 - Council Presentation 26-1222 was heard in committee
@@ -452,7 +278,7 @@
 - Project, 31st Street to East 50th Avenue. No change to IGA term, in
 - Council Bill 26-1210 was approved by consent
 
-## [denver#24] 2026-08-26 | Transportation and Infrastructure | minutes
+## [denver#16] 2026-08-26 | Transportation and Infrastructure | minutes
 - 26-1174 Amends a professional services contract with STANLEY CONSULTANTS,
 - existing traffic signals along Alameda Avenue. No change to contract
 - Council Resolution 26-1174 was approved by consent
@@ -468,12 +294,12 @@
 - 26-1215 Approves a contract with McCarthy Building Companies, Inc. for
 - Council Resolution 26-1215 was approved by consent
 
-## [denver#25] 2026-08-26 | Health and Safety | minutes
+## [denver#17] 2026-08-26 | Health and Safety | minutes
 - Council Presentation 26-1223 was heard in committee
 - 26-1206 Approves a contract with Denver Health & Hospital Authority for
 - Council Bill 26-1206 was approved by consent
 
-## [denver#26] 2026-08-31 | City Council | minutes
+## [denver#18] 2026-08-31 | City Council | minutes
 - APPROVAL OF THE MINUTES
 - Council President Romero Campbell ordered the minutes approved
 - Minutes 26-1265 were approved
@@ -514,7 +340,7 @@
 - contract capacity or term, citywide (HOST-202265783/HOST-202683843-04). The
 - 9-21-2026. The Committee approved filing this item at its meeting on 8-18-2026
 
-## [denver#27] 2026-09-01 | Governance and Intergovernmental Relations | minutes
+## [denver#19] 2026-09-01 | Governance and Intergovernmental Relations | minutes
 - 26-1241 Approves a contract with Kimley-Horn and Associates, Inc. for
 - implementation and ongoing support of an Integrated Transportation
 - Council Resolution 26-1241 was approved by consent
@@ -554,7 +380,7 @@
 - 26-1262 Amends a Purchase Order with Verizon Communications Inc., by adding
 - Council Resolution 26-1262 was approved by consent
 
-## [denver#28] 2026-09-01 | Finance and Business | minutes
+## [denver#20] 2026-09-01 | Finance and Business | minutes
 - 26-1259 Amends a Lease Agreement with The State of Colorado, to add
 - Motor Vehicles at 4685 Peoria Street, Denver, CO 80239, Northeast
 - Council Bill 26-1259 was approved by consent
@@ -566,7 +392,7 @@
 - 3815 N Steele Street in the Clayton Neighborhood, Council District 9
 - Council Resolution 26-1260 was approved by consent
 
-## [denver#29] 2026-09-01 | Community Planning and Housing | minutes
+## [denver#21] 2026-09-01 | Community Planning and Housing | minutes
 - 26-1252 Approves a map amendment to rezone property from E-SU-Dx to E-TU-C,
 - Romero Campbell, that Council Bill 26-1252 be approved for filing, carried by the
 - 26-1253 Amends the Denver Revised Municipal Code, Sec.27-150 and Sec
@@ -578,7 +404,7 @@
 - 26-1254 Approves the Department of Housing Stability’s one-year continuation plan
 - Community Planning and Housing
 
-## [denver#30] 2026-09-01 | Parks, Art and Culture | minutes
+## [denver#22] 2026-09-01 | Parks, Art and Culture | minutes
 - Parks, Art and Culture
 - 26-1258 Approves a contract with Short-Elliott-Hendrickson, Incorporated for
 - and Accessibility Improvements, Red Rocks Amphitheatre, 18300 W
@@ -598,7 +424,7 @@
 - Board (PRAB) and the Executive Director of Parks and Recreation, in
 - Council Bill 26-1261 was approved by consent
 
-## [denver#31] 2026-09-01 | Mayor-Council | agenda
+## [denver#23] 2026-09-01 | Mayor-Council | agenda
 - Community Planning and Housing
 - 26-1213 Amends a funding agreement with The Fax East Colfax
 - Redevelopment LLC to update the project scope for emergency
@@ -629,13 +455,13 @@
 - Improvements Program (GARDI) A33 & A35 project at Denver
 - 26-1215 Approves a contract with McCarthy Building Companies, Inc
 
-## [denver#32] 2026-09-02 | South Platte River Committee | minutes
+## [denver#24] 2026-09-02 | South Platte River Committee | minutes
 - South Platte River
 - 26-1263 Approves grant agreement USDOT Federal Highway Administration for
 - improvements along Sanderson Gulch, in Council District 7
 - Council Resolution 26-1263 was approved by consent
 
-## [denver#33] 2026-09-02 | Transportation and Infrastructure | minutes
+## [denver#25] 2026-09-02 | Transportation and Infrastructure | minutes
 - Council Presentation 26-1267 was heard in committee
 - Easement Agreement Reception No. 2004183369. Located at 4991 North
 - Telluride Street, in Council District 11
@@ -651,17 +477,17 @@
 - 26-1240 Approves a Ground Service Equipment facilities lease between Swissport
 - Council Resolution 26-1240 was approved by consent
 
-## [denver#34] 2026-09-02 | Health and Safety | minutes
+## [denver#26] 2026-09-02 | Health and Safety | minutes
 - 26-1217 Amends a contract with SoundThinking, Inc. f/k/a ShotSpotter, Inc. to
 - decrease the contract capacity by $147,421.00 for a new total of
 - detection in the Denver area. No change to contract term, citywide
 - Torres, that Council Resolution 26-1217 be approved for filing, carried by the
 
-## [denver#35] 2026-09-08 | Governance and Intergovernmental Relations | minutes
+## [denver#27] 2026-09-08 | Governance and Intergovernmental Relations | minutes
 - 26-1201 Approving the joint City Council-Mayoral appointment of Staisha Copeland
 - Council Resolution 26-1201 was approved by consent
 
-## [denver#36] 2026-09-08 | Community Planning and Housing | minutes
+## [denver#28] 2026-09-08 | Community Planning and Housing | minutes
 - 26-1283 Amends a contract with the St. Francis Center to add $40,000.00 for a new
 - resolution services for people experiencing homelessness or housing
 - instability. No change to contract term, citywide
@@ -684,15 +510,15 @@
 - homelessness. No change to contract term, citywide
 - Council Resolution 26-1288 was approved by consent
 
-## [denver#37] 2026-09-08 | Parks, Art and Culture | agenda
+## [denver#29] 2026-09-08 | Parks, Art and Culture | agenda
 - Parks, Art and Culture
 
-## [denver#38] 2026-09-08 | Finance and Business | minutes
+## [denver#30] 2026-09-08 | Finance and Business | minutes
 - 26-1290 Amends a contract with 5280 Waste Solutions, LLC by adding two years
 - services. No change to contract capacity, citywide
 - Council Resolution 26-1290 was approved by consent
 
-## [denver#39] 2026-09-08 | Mayor-Council | agenda
+## [denver#31] 2026-09-08 | Mayor-Council | agenda
 - Community Planning and Housing
 - 26-1252 Approves a map amendment to rezone property from
 - 26-1253 Amends the Denver Revised Municipal Code, Sec.27-150 and
@@ -739,7 +565,7 @@
 - 26-1262 Amends a Purchase Order with Verizon Communications Inc.,
 - 26-1217 Amends a contract with SoundThinking, Inc. f/k/a
 
-## [denver#40] 2026-09-09 | South Platte River Committee | minutes
+## [denver#32] 2026-09-09 | South Platte River Committee | minutes
 - South Platte River
 - Alley, bounded by Delgany Street, 36th Street, North Brighton Boulevard,
 - and 38th Street, in Council District 9
@@ -749,7 +575,7 @@
 - date of 8-31-2032 to design a remediation plan for the 7-acre historical
 - Council Bill 26-1291 was approved by consent
 
-## [denver#41] 2026-09-09 | Transportation and Infrastructure | minutes
+## [denver#33] 2026-09-09 | Transportation and Infrastructure | minutes
 - 26-1279 Relinquishes a portion of the storm water and sanitary sewer easement
 - Avenue, North Telluride Street, Green Valley Ranch Boulevard, and Peña
 - Council Bill 26-1279 was approved by consent
@@ -762,7 +588,7 @@
 - user-friendly employee communication application at Denver International
 - Council Resolution 26-1282 was approved by consent
 
-## [denver#42] 2026-09-09 | Health and Safety | minutes
+## [denver#34] 2026-09-09 | Health and Safety | minutes
 - 26-1292 Amends a contract with Savio House to add $814.00 for a new total of
 - families to keep youth in their own communities. No change to contract
 - Council Resolution 26-1292 was approved by consent
@@ -774,7 +600,7 @@
 - 9-30-2027 to provide housing and sobriety programs to eligible individuals
 - Council Resolution 26-1295 was approved by consent
 
-## [denver#43] 2026-09-14 | City Council | minutes
+## [denver#35] 2026-09-14 | City Council | minutes
 - APPROVAL OF THE MINUTES
 - Council President Romero Campbell ordered the minutes approved
 - Minutes 26-1296 were approved
@@ -815,11 +641,11 @@
 - Kenworth T480 Urban X 8 Cubic Yard Hydro Excavators for the Wastewater
 - Approves Purchase Order with Kaiser Premier, LLC for $1,571,703.00 with an
 
-## [denver#44] 2026-09-14 | Budget and Policy Committee | agenda
+## [denver#36] 2026-09-14 | Budget and Policy Committee | agenda
 - Budget and Policy Committee
 - 1437 Bannock Street
 
-## [denver#45] 2026-09-15 | Governance and Intergovernmental Relations | minutes
+## [denver#37] 2026-09-15 | Governance and Intergovernmental Relations | minutes
 - 26-1362 An ordinance amending Article XIV of Chapter 24, prohibiting the spending
 - of Caring for Denver tax revenues on staff-specific wellness programs, the
 - purchase of alcohol and other administrative expenditures
@@ -859,7 +685,7 @@
 - 26-1314 Approves the Mayor’s reappointment to the Denver Preschool Program
 - Board of Directors. Approves the Mayor’s reappointment of Lydia Prado to
 
-## [denver#46] 2026-09-15 | Community Planning and Housing | minutes
+## [denver#38] 2026-09-15 | Community Planning and Housing | minutes
 - 26-1302 Approves a map amendment to rezone property from G-MX-3, DO-8 to
 - Sawyer, that Council Bill 26-1302 be approved for filing, carried by the following
 - 26-1359 Regulatory Reform Implementation and HUD PRO Housing
@@ -871,7 +697,7 @@
 - Community Planning and Housing
 - Council Resolution 26-1340 was approved by consent
 
-## [denver#47] 2026-09-15 | Parks, Art and Culture | minutes
+## [denver#39] 2026-09-15 | Parks, Art and Culture | minutes
 - Parks, Art and Culture
 - 26-1332 Amends an Intergovernmental Agreement with Denver Connection West
 - District. No change to the contract capacity or term, Council District 11
@@ -881,7 +707,7 @@
 - 7-14-2031 for administration services of a collaborative grant program for
 - Council Resolution 26-1358 was approved by consent
 
-## [denver#48] 2026-09-15 | Mayor-Council | agenda
+## [denver#40] 2026-09-15 | Mayor-Council | agenda
 - Community Planning and Housing
 - 26-1283 Amends a contract with the St. Francis Center to add
 - additional 20 households with rapid resolution services for
@@ -916,11 +742,11 @@
 - 26-1282 Approves a contract with Staffbase Inc. for $1,350,000.00 and
 - application at Denver International Airport, in Council District
 
-## [denver#49] 2026-09-16 | Health and Safety | minutes
+## [denver#41] 2026-09-16 | Health and Safety | minutes
 - 26-1305 For an ordinance amending Chapter 28 of the Denver Revised Municipal
 - Council member Flynn, that Council Bill 26-1305 be approved for filing, carried by
 
-## [denver#50] 2026-09-16 | South Platte River Committee | minutes
+## [denver#42] 2026-09-16 | South Platte River Committee | minutes
 - South Platte River
 - 26-1325 Vacates a portion of Chopper Circle right-of-way at 1000 Chopper Circle,
 - Council Bill 26-1325 was approved by consent
@@ -929,7 +755,7 @@
 - Blake Street, Council District 9
 - Council Bill 26-1331 was approved by consent
 
-## [denver#51] 2026-09-16 | Transportation and Infrastructure | minutes
+## [denver#43] 2026-09-16 | Transportation and Infrastructure | minutes
 - 26-1348 Approves a Use and Lease Agreement with Air Canada applying rates
 - that Council Resolutions 26-1348 through 26-1357 be approved for filing in a
 - 26-1349 Approves a Use and Lease Agreement with Societe Air France (Air
@@ -969,7 +795,7 @@
 - 26-1328 Amends a CMGC construction services agreement with INTERLOCK
 - Renovation located at 4310 E Amherst Ave. This project is part of the 2017
 
-## [denver#52] 2026-09-21 | City Council | minutes
+## [denver#44] 2026-09-21 | City Council | minutes
 - APPROVAL OF THE MINUTES
 - Council President Romero Campbell ordered the minutes approved
 - Minutes 26-1386 were approved
@@ -1011,7 +837,7 @@
 - Committee approved filing this item at its meeting on 9-8-2026
 - Flynn, that Council Resolution 26-1283 be adopted en bloc, carried by the following
 
-## [denver#53] 2026-09-22 | Community Planning and Housing | minutes
+## [denver#45] 2026-09-22 | Community Planning and Housing | minutes
 - 26-1382 Amends a contract with Work Options for Women (WOW) to add
 - Council Resolution 26-1382 was approved by consent
 - 26-1383 Amends a loan agreement with HGV Senior, L.P., to recognize the sale of
@@ -1025,10 +851,10 @@
 - served in 2026. No change to contract term, citywide
 - Council Resolution 26-1385 was approved by consent
 
-## [denver#54] 2026-09-22 | Parks, Art and Culture | agenda
+## [denver#46] 2026-09-22 | Parks, Art and Culture | agenda
 - Parks, Art and Culture
 
-## [denver#55] 2026-09-22 | Finance and Business | minutes
+## [denver#47] 2026-09-22 | Finance and Business | minutes
 - 26-1375 Amends a contract with Cal Interpreting & Translation Services, Inc. to add
 - and written translation services. No change to contract capacity, citywide
 - Council Resolution 26-1375 was approved by consent
@@ -1038,7 +864,7 @@
 - translation services. No change to contract capacity, citywide
 - Council Resolution 26-1377 was approved by consent
 
-## [denver#56] 2026-09-22 | Governance and Intergovernmental Relations | minutes
+## [denver#48] 2026-09-22 | Governance and Intergovernmental Relations | minutes
 - 26-1303 Amends a contract with Sunny Side Up Solutions LLC to add $250,000.00
 - videos, and all ongoing video projects in accordance with mayoral and
 - Council Resolution 26-1303 was approved by consent
@@ -1049,7 +875,7 @@
 - 26-1374 Amends a contract with Goserco, Inc. to add $458,123.11 for a new total of
 - Council Resolution 26-1374 was approved by consent
 
-## [denver#57] 2026-09-22 | Mayor-Council | agenda
+## [denver#49] 2026-09-22 | Mayor-Council | agenda
 - Community Planning and Housing
 - 26-1339 Amends a contract with Brothers Redevelopment, Inc. (BRI)
 - served in 2026. No change to contract term, citywide
@@ -1096,7 +922,7 @@
 - Ordinance No. 1279, Series of 2025, Ordinance No. 1427,
 - Series of 2025, Ordinance No. 1606, Series of 2025,
 
-## [denver#58] 2026-09-23 | Health and Safety | minutes
+## [denver#50] 2026-09-23 | Health and Safety | minutes
 - 26-1378 Approves a grant agreement with Sun Valley Community Center for
 - Council Resolution 26-1378 was approved by consent
 - 26-1379 Approves a grant agreement with Struggle of Love Foundation for
@@ -1106,7 +932,7 @@
 - for $749,694.78 with an end date of 7-31-2029 to implement an integrated
 - Council Bill 26-1380 was approved by consent
 
-## [denver#59] 2026-09-23 | South Platte River Committee | minutes
+## [denver#51] 2026-09-23 | South Platte River Committee | minutes
 - South Platte River
 - Globeville Road, located near the intersection of North Globeville Road and
 - Park Avenue West, in Council District 9
@@ -1123,7 +949,7 @@
 - and trench drain at 1550 Wewatta Street, in Council District 10
 - Council Bill 26-1370 was approved by consent
 
-## [denver#60] 2026-09-23 | Transportation and Infrastructure | minutes
+## [denver#52] 2026-09-23 | Transportation and Infrastructure | minutes
 - 26-1309 Approves a contract with Lumin8 Transportation Technologies, LLC for
 - Council Resolution 26-1309 was approved by consent
 - 26-1330 Approves a contract with LOYA CONSTRUCTION, INC. for $6,850,000.00
@@ -1137,10 +963,10 @@
 - $1,335,870.00 for the one-time capital purchase of the Central Utility Plant
 - Council Resolution 26-1381 was approved by consent
 
-## [denver#61] 2026-09-28 | Workshops and Presentations | agenda
+## [denver#53] 2026-09-28 | Workshops and Presentations | agenda
 - Workshops and Presentations
 
-## [denver#62] 2026-09-28 | City Council | minutes
+## [denver#54] 2026-09-28 | City Council | minutes
 - APPROVAL OF THE MINUTES
 - Council President Romero Campbell ordered the minutes approved
 - Minutes 26-1419 were approved
@@ -1179,7 +1005,7 @@
 - 26-1355 A resolution approving a proposed Agreement between the City
 - Lufthansa German Airlines for a Use and Lease Agreement to provide
 
-## [denver#63] 2026-09-29 | Governance and Intergovernmental Relations | minutes
+## [denver#55] 2026-09-29 | Governance and Intergovernmental Relations | minutes
 - 26-1411 Approves the Mayor’s appointment to the Denver Commission for People
 - with Disabilities (DCPD). Approves the Mayor’s appointment of Kenneth
 - is duly appointed, citywide
@@ -1202,7 +1028,7 @@
 - Commission (DNEC). Approves the Mayor’s reappointment of Liane
 - Council Resolution 26-1416 was approved by consent
 
-## [denver#64] 2026-09-29 | Finance and Business | minutes
+## [denver#56] 2026-09-29 | Finance and Business | minutes
 - Council Presentation 26-1424 was heard in committee
 - 26-1407 Amends the agreement with Rising Medical Solutions, LLC to add
 - Council Resolution 26-1407 was approved by consent
@@ -1216,7 +1042,7 @@
 - (CPLAN-202159889/CPLAN-202685131-04)
 - Council Resolution 26-1409 was approved by consent
 
-## [denver#65] 2026-09-29 | Community Planning and Housing | minutes
+## [denver#57] 2026-09-29 | Community Planning and Housing | minutes
 - 26-1405 Approves the landmark designation application for 740 N. Washington St
 - Alvidrez, that Council Bill 26-1405 be approved for filing, carried by the following
 - 26-1406 Approves a map amendment to rezone property from C-MX-5 & U-TU-B2,
@@ -1236,10 +1062,10 @@
 - 12-31-2028 to add 30 households with rapid rehousing services for
 - Council Resolution 26-1404 was approved by consent
 
-## [denver#66] 2026-09-29 | Parks, Art and Culture | agenda
+## [denver#58] 2026-09-29 | Parks, Art and Culture | agenda
 - Parks, Art and Culture
 
-## [denver#67] 2026-09-29 | Mayor-Council | agenda
+## [denver#59] 2026-09-29 | Mayor-Council | agenda
 - Community Planning and Housing
 - 26-1382 Amends a contract with Work Options for Women (WOW) to
 - 26-1383 Amends a loan agreement with HGV Senior, L.P., to recognize
@@ -1285,7 +1111,7 @@
 - 26-1381 Approves a purchase order with Sky Blue Builders LLC in the
 - amount of $1,335,870.00 for the one-time capital purchase of
 
-## [denver#68] 2026-09-30 | Transportation and Infrastructure | minutes
+## [denver#60] 2026-09-30 | Transportation and Infrastructure | minutes
 - 26-1394 Relinquishes the wastewater easement in its entirety established in the
 - at East Elmendorf Drive and North Telluride Street, in Council District 11
 - Council Bill 26-1394 was approved by consent
@@ -1309,7 +1135,7 @@
 - Enterprise Agreement licenses and support at Denver International Airport
 - Council Resolution 26-1400 was approved by consent
 
-## [denver#69] 2026-10-05 | City Council | minutes
+## [denver#61] 2026-10-05 | City Council | minutes
 - APPROVAL OF THE MINUTES
 - Council President Romero Campbell ordered the minutes approved
 - Minutes 26-1453 were approved
@@ -1349,12 +1175,12 @@
 - 26-1351 A resolution approving a proposed Agreement between the City
 - Approves a Use and Lease Agreement (ULA) with Cayman Airways Limited applying
 
-## [denver#70] 2026-10-05 | Operations Meeting of the City Council | agenda
+## [denver#62] 2026-10-05 | Operations Meeting of the City Council | agenda
 - City & County Building, Council Committee Room, Room 391, 1437 Bannock Street
 - a. Correction of Bill or Resolution Language During Meeting
 - 2) Working Budget Group Updates
 
-## [denver#71] 2026-10-06 | Finance and Business | minutes
+## [denver#63] 2026-10-06 | Finance and Business | minutes
 - 26-1428 Amends a Master Purchase Order with Greening Enterprises, Inc dba
 - 1 year for a new end date of 10-31-2027 for the purchase of fire hoses for
 - the Denver Fire Department, citywide (SC-00007376)
@@ -1374,7 +1200,7 @@
 - access rights, improvements, fixtures, licenses and permits as needed for
 - Council Bill 26-1430 was approved by consent
 
-## [denver#73] 2026-10-06 | Parks, Art and Culture | minutes
+## [denver#65] 2026-10-06 | Parks, Art and Culture | minutes
 - Parks, Art and Culture
 - 26-1452 Approves a contract with Handprint Architecture Inc for $3,005,589.87 with
 - Center Park Cultural Plaza and Shade Structure, 2401 Welton Street,
@@ -1415,7 +1241,7 @@
 - [PARKS-202685436]
 - 26-1448 Approves a contract with T2 CONSTRUCTION, INC. for $20,000,000.00
 
-## [denver#74] 2026-10-06 | Governance and Intergovernmental Relations | minutes
+## [denver#66] 2026-10-06 | Governance and Intergovernmental Relations | minutes
 - 26-1426 Approves the Mayor’s appointment to the Civil Service Commission
 - Approves the Mayor’s appointment of Hannah Lucey to the Civil Service
 - successor is duly appointed, citywide
@@ -1425,7 +1251,7 @@
 - through 9-25-2028 or until a successor is duly appointed, citywide
 - Council Resolution 26-1427 was approved by consent
 
-## [denver#75] 2026-10-06 | Mayor-Council | agenda
+## [denver#67] 2026-10-06 | Mayor-Council | agenda
 - DOF/DOTI - Q3 Bond Update; Patrick Riley and Maggie Thompson
 - Community Planning and Housing
 - 26-1402 Amends a contract with The Salvation Army to add
@@ -1473,7 +1299,7 @@
 - rehabilitate the sanitary sewer interceptor from 59th Avenue
 - Avenue, North King Street, West 18th Avenue, and North
 
-## [denver#76] 2026-10-07 | Health and Safety | minutes
+## [denver#68] 2026-10-07 | Health and Safety | minutes
 - 26-1435 Amends the ordinance under the Denver Municipal Revised Code in
 - Identification System (AVIS) and becomes effective upon adoption by
 - 26-1431 Approves a contract with Denver Health & Hospital Authority for
@@ -1482,7 +1308,7 @@
 - Incarceration Grant to continue the Support Team Assisted Response
 - Council Bill 26-1432 was approved by consent
 
-## [denver#77] 2026-10-07 | South Platte River Committee | minutes
+## [denver#69] 2026-10-07 | South Platte River Committee | minutes
 - South Platte River
 - 26-1454 Approves the Revocable License Agreement with Colorado Village
 - to December 31, 2026, to operate a micro-community shelter for those
@@ -1491,7 +1317,7 @@
 - $517,216.00 to complete the Valverde Outfall System Plan. No change to
 - Council Bill 26-1455 was approved by consent
 
-## [denver#78] 2026-10-07 | Transportation and Infrastructure | minutes
+## [denver#70] 2026-10-07 | Transportation and Infrastructure | minutes
 - 26-1456 Approves a contract with Flatiron Dragados Constructors, Inc. for
 - construction services for the Taxiway (TW) L Extension project at Denver
 - Council Resolution 26-1456 was approved by consent
@@ -1513,7 +1339,7 @@
 - streets in Council District 10 (DOTI-202685774)
 - Council Resolution 26-1462 was approved by consent
 
-## [denver#80] 2026-10-13 | City Council | minutes
+## [denver#72] 2026-10-13 | City Council | minutes
 - APPROVAL OF THE MINUTES
 - Council President Romero Campbell ordered the minutes approved
 - Minutes 26-1494 were approved
@@ -1552,7 +1378,7 @@
 - Approves a Use and Lease Agreement with Alaska Airlines, Inc. applying rates and
 - period is on 10-19-2026. The Committee approved filing this item at its meeting on
 
-## [denver#81] 2026-10-13 | Community Planning and Housing | minutes
+## [denver#73] 2026-10-13 | Community Planning and Housing | minutes
 - 26-1499 Presentation by Human Rights and Community Partnerships on Mediation
 - Council Presentation 26-1499 was heard in committee
 - 26-1492 Amends a contract with Volunteers of America Colorado Branch to add
@@ -1563,12 +1389,12 @@
 - people experiencing homelessness or housing instability, citywide
 - Council Resolution 26-1493 was approved by consent
 
-## [denver#82] 2026-10-13 | Parks, Art and Culture | minutes
+## [denver#74] 2026-10-13 | Parks, Art and Culture | minutes
 - Parks, Art and Culture
 - 26-1480 Amends a contract with Denver Region Toyota Dealers Advertising Group,
 - Council Resolution 26-1480 was approved by consent
 
-## [denver#83] 2026-10-13 | Governance and Intergovernmental Relations | minutes
+## [denver#75] 2026-10-13 | Governance and Intergovernmental Relations | minutes
 - 26-1470 Approves the Mayor’s appointment to the Mayor's Youth Commission
 - (MYC). Approves the Mayor’s appointment of Angela Maramba to the
 - 8-31-2028 or until a successor is duly appointed, citywide
@@ -1608,7 +1434,7 @@
 - 26-1487 Amends a contract with Just Appraised Inc. to add $683,607.00 for a new
 - Council Resolution 26-1487 was approved by consent
 
-## [denver#84] 2026-10-13 | Finance and Business | minutes
+## [denver#76] 2026-10-13 | Finance and Business | minutes
 - 26-1497 Amends a contract with Securitas Security Services USA, Inc. to add
 - months for a new end date of 9-30-2027 for the contracting of security
 - Sawyer, that Council Resolution 26-1497 be approved for filing, carried by the
@@ -1617,7 +1443,7 @@
 - Improvement District, in the City and County of Denver
 - Council Resolution 26-1496 was approved by consent
 
-## [denver#85] 2026-10-13 | Mayor-Council | agenda
+## [denver#77] 2026-10-13 | Mayor-Council | agenda
 - 26-1428 Amends a Master Purchase Order with Greening Enterprises,
 - 10-31-2027 for the purchase of fire hoses for the Denver Fire
 - 26-1429 A bill for an ordinance amending Ordinance No. 400, Series of
@@ -1667,7 +1493,7 @@
 - 26-1443 Approves a contract with Halcyon Construction, Inc. for
 - services, citywide. [PARKS- 202685441]
 
-## [denver#86] 2026-10-14 | Health and Safety | minutes
+## [denver#78] 2026-10-14 | Health and Safety | minutes
 - 26-1501 A Proclamation Opposing Colorado Amendment 81 (Law Enforcement
 - 26-1435 Amends the ordinance under the Denver Municipal Revised Code in
 - Identification System (AVIS) and becomes effective upon adoption by
@@ -1686,7 +1512,7 @@
 - and 20 Early Head Start slots in Denver. No change to contract term,
 - Council Resolution 26-1498 was approved by consent
 
-## [denver#87] 2026-10-14 | Transportation and Infrastructure | minutes
+## [denver#79] 2026-10-14 | Transportation and Infrastructure | minutes
 - Alley, bounded by Welton Street, 27th Street, California Street, and 28th
 - Street, in Council District 9
 - Council Resolution 26-1481 was approved by consent
@@ -1695,7 +1521,7 @@
 - 26-1491 Approves a concession agreement with Love From USA Group, Inc. dba
 - Council Resolution 26-1491 was approved by consent
 
-## [denver#88] 2026-10-19 | City Council | minutes
+## [denver#80] 2026-10-19 | City Council | minutes
 - MAYOR'S PROPOSED 2027 BUDGET AND PUBLIC HEARING
 - 26-1547 Mayor’s Proposed 2027 Budget
 - Proposed Budget, carried by the following vote:
@@ -1736,7 +1562,7 @@
 - Approves a grant agreement with Caring for Denver Foundation for $2,734,639.00
 - with an end date of 7-31-2027 to accept the Care Over Incarceration Grant to
 
-## [denver#89] 2026-10-20 | Finance and Business | minutes
+## [denver#81] 2026-10-20 | Finance and Business | minutes
 - 26-1531 Amends a Grant Agreement the State of Colorado Department of Labor &
 - development program in Section 8-83-204 C.R.S. and Federal Workforce
 - Council Resolution 26-1531 was approved by consent
@@ -1755,7 +1581,7 @@
 - Mayfair Business Improvement District, in the City and County of Denver
 - Council Bill 26-1536 was approved by consent
 
-## [denver#90] 2026-10-20 | Governance and Intergovernmental Relations | minutes
+## [denver#82] 2026-10-20 | Governance and Intergovernmental Relations | minutes
 - 26-1334 For an ordinance approving a DDDA Development Project Funding
 - Agreement (101 West Colfax Avenue, Denver, Colorado 80202) between
 - the City and County of Denver and the Denver Downtown Development
@@ -1766,14 +1592,14 @@
 - 26-1507 Approving the City Council appointment of Solicia Lopez to the Citizen
 - Council Resolution 26-1507 was approved by consent
 
-## [denver#92] 2026-10-20 | Parks, Art and Culture | minutes
+## [denver#84] 2026-10-20 | Parks, Art and Culture | minutes
 - Parks, Art and Culture
 - 26-1514 Amends a contract with ARGUS EVENT STAFFING LLC to add
 - Council Resolution 26-1514 was approved by consent
 - 26-1515 Approves a contract with Arts & Contraptions LLC for $550,000.00, with an
 - Council Resolution 26-1515 was approved by consent
 
-## [denver#93] 2026-10-20 | Mayor-Council | agenda
+## [denver#85] 2026-10-20 | Mayor-Council | agenda
 - Community Planning and Housing
 - 26-1492 Amends a contract with Volunteers of America Colorado
 - support rapid rehousing to families experiencing literal
@@ -1821,7 +1647,7 @@
 - 26-1480 Amends a contract with Denver Region Toyota Dealers
 - as Public Alley, bounded by Welton Street, 27th Street,
 
-## [denver#94] 2026-10-21 | Health and Safety | minutes
+## [denver#86] 2026-10-21 | Health and Safety | minutes
 - Council Presentation 26-1538 was heard in committee
 - 26-1510 Approves a contract with Metro Caring for $747,718.98 with an end date of
 - Council Resolution 26-1510 was approved by consent
@@ -1831,12 +1657,12 @@
 - half months for a new end date of 8-15-2027 to operate the Behavioral
 - Council Resolution 26-1513 was approved by consent
 
-## [denver#95] 2026-10-21 | South Platte River Committee | minutes
+## [denver#87] 2026-10-21 | South Platte River Committee | minutes
 - South Platte River
 - established by Broadway Station Filing No. 4, Reception No.2024026313
 - Council Bill 26-1508 was approved by consent
 
-## [denver#96] 2026-10-21 | Transportation and Infrastructure | minutes
+## [denver#88] 2026-10-21 | Transportation and Infrastructure | minutes
 - 26-1540 For an ordinance amending Article IV of Chapter 20, regarding the
 - competitive selection process for certain contracts
 - Amendment 82 (“Constitutional Right To Purchase And Sell Natural Gas”)
@@ -1877,11 +1703,11 @@
 - 26-1526 Approves the 2027 annual costs of the continuing care, operation, repair,
 - Council Resolution 26-1526 was approved by consent
 
-## [denver#97] 2026-10-26 | Budget and Policy Committee | agenda
+## [denver#89] 2026-10-26 | Budget and Policy Committee | agenda
 - Budget and Policy Committee
 - 1437 Bannock Street
 
-## [denver#98] 2026-10-26 | City Council | minutes
+## [denver#90] 2026-10-26 | City Council | minutes
 - APPROVAL OF THE MINUTES
 - Council President Romero Campbell ordered the minutes approved
 - Minutes 26-1616 were approved
@@ -1922,7 +1748,7 @@
 - Mayfair Business Improvement District, in the City and County of Denver
 - A bill for an ordinance granting a petition to include property into the
 
-## [denver#99] 2026-10-27 | Governance and Intergovernmental Relations | minutes
+## [denver#91] 2026-10-27 | Governance and Intergovernmental Relations | minutes
 - 26-1548 For an ordinance approving the Mayor’s nomination and confirming the
 - appointment of Kirsten Decker to the Board of Ethics
 - Council Bill 26-1548 was approved by consent
@@ -1964,7 +1790,7 @@
 - Council Resolution 26-1560 was approved by consent
 - 26-1561 Approves the Mayor’s appointment to the Denver Latino Commission
 
-## [denver#100] 2026-10-27 | Finance and Business | minutes
+## [denver#92] 2026-10-27 | Finance and Business | minutes
 - 26-1586 A Resolution of City Council sitting as the ex officio Board of Directors of
 - the Ballpark Denver General Improvement District, approving a Work Plan,
 - adopting a Budget, and making appropriations for the Budget Year 2027
@@ -2003,7 +1829,7 @@
 - 26-1598 A Resolution by the Council of the City and County of Denver, sitting ex
 - Improvement District, approving a Work Plan, adopting a Budget and
 
-## [denver#101] 2026-10-27 | Parks, Art and Culture | minutes
+## [denver#93] 2026-10-27 | Parks, Art and Culture | minutes
 - Parks, Art and Culture
 - 26-1580 Amends a contract with New Cingular Wireless PCS, LLC (AT&T) to add
 - patrons of Red Rocks Amphitheatre, in Mountain Parks
@@ -2013,7 +1839,7 @@
 - (PARKS-202371450/PARKS-202685797-01)
 - Council Resolution 26-1606 was approved by consent
 
-## [denver#102] 2026-10-27 | Community Planning and Housing | minutes
+## [denver#94] 2026-10-27 | Community Planning and Housing | minutes
 - 26-1576 Amends a contract with Volunteers of America Colorado Branch to add
 - new end date of 12-31-2028 to support rapid rehousing plus care support
 - Council Resolution 26-1576 was approved by consent
@@ -2021,7 +1847,7 @@
 - new end date of 12-31-2028 to support rapid rehousing support for
 - Council Resolution 26-1577 was approved by consent
 
-## [denver#103] 2026-10-27 | Mayor-Council | agenda
+## [denver#95] 2026-10-27 | Mayor-Council | agenda
 - 26-1531 Amends a Grant Agreement the State of Colorado Department
 - new programs for the State’s workforce development program
 - 26-1532 Amends a contract with Mitchell International, Inc., by adding
@@ -2068,13 +1894,13 @@
 - 26-1524 Approves the 2027 annual costs of the continuing care,
 - 26-1525 Approves the 2027 annual costs of the continuing care,
 
-## [denver#104] 2026-10-28 | South Platte River Committee | minutes
+## [denver#96] 2026-10-28 | South Platte River Committee | minutes
 - South Platte River
 - 26-1578 Approves a map amendment to rezone property from I-A, UO-2 to I-MX-5
 - Street & 500 West Tennessee Avenue, in Council District 7
 - Watson, that Council Bill 26-1578 be approved for filing, carried by the following
 
-## [denver#105] 2026-10-28 | Transportation and Infrastructure | minutes
+## [denver#97] 2026-10-28 | Transportation and Infrastructure | minutes
 - 26-1549 Vacates a portion of right-of-way at 555 North Josephine Street, without
 - Council Bill 26-1549 was approved by consent
 - 26-1575 Approves a contract with FCI CONSTRUCTORS, INC. for $25,000,000.00
@@ -2089,7 +1915,7 @@
 - the one-time purchase of 2027 Oracle software licensing at Denver
 - Council Resolution 26-1583 was approved by consent
 
-## [denver#106] 2026-10-28 | Health and Safety | minutes
+## [denver#98] 2026-10-28 | Health and Safety | minutes
 - Council Presentation 26-1613 was heard in committee
 - 26-1579 Approves a contract with Peak Environmental, Inc. for $5,000,000.00 for a
 - Council Resolution 26-1579 was approved by consent
@@ -2097,51 +1923,49 @@
 - incentives for providing Medicaid eligibility-related work within the City and
 - Council Bill 26-1581 was approved by consent
 
-## [denver#107] 2026-11-02 | City Council | agenda
-- 1437 Bannock Street, Room 450
-- How to sign up to speak at public hearings
+## [denver#99] 2026-11-02 | City Council | minutes
 - MAYOR'S PROPOSED 2027 BUDGET AND AMENDMENTS
 - 26-1657 Gonzales-Gutierrez Amendment #3 to the Mayor’s Proposed 2027
+- member Hinds, that Council Amendment 26-1657 be offered, carried by the
 - 26-1658 Kashmann Amendment #1 to the Mayor’s Proposed 2027 Budget
+- Gonzales-Gutierrez, that Council Amendment 26-1658 be offered, failed to carry by
 - 26-1659 Lewis Amendment #4 to the Mayor’s Proposed 2027 Budget
-- 26-1660 Lewis Amendment #5 to the Mayor’s Proposed 2027 Budget
+- Alvidrez, that Council Amendment 26-1659 be offered, failed to carry by the
 - 26-1661 Lewis Amendment #2 to the Mayor’s Proposed 2027 Budget
+- Gonzales-Gutierrez, that Council Amendment 26-1661 be offered, failed to carry by
 - 26-1662 Lewis Amendment #3 to the Mayor’s Proposed 2027 Budget
+- Gonzales-Gutierrez, that Council Amendment 26-1662 be offered, carried by the
 - 26-1665 Lewis Amendment #6 to the Mayor’s Proposed 2027 Budget
-- 26-1666 Lewis Amendment #7 to the Mayor’s Proposed 2027 Budget
-- 26-1667 Gonzales-Gutierrez, Lewis, and Alvidrez Amendment #1 to the
-- Mayor’s Proposed 2027 Budget
+- Gonzales-Gutierrez, that Council Amendment 26-1665 be offered, failed to carry by
 - 26-1668 Gonzales-Gutierrez, Lewis, and Alvidrez Amendment #2 to the
+- Mayor’s Proposed 2027 Budget
+- member Alvidrez, that Council Amendment 26-1668 be offered, failed to carry by
 - 26-1669 Gonzales-Gutierrez and Lewis Amendment #1 to the Mayor’s
 - Proposed 2027 Budget
-- 26-1670 Romero Campbell, Alvidrez, and Watson Amendment #1 to the
+- member Lewis, that Council Amendment 26-1669 be offered, failed to carry by the
 - 26-1671 Lewis, Torres, and Gonzales-Gutierrez Amendment #1 to the
+- Gonzales-Gutierrez, that Council Amendment 26-1671 be offered, carried by the
 - 26-1663 Watson Amendment #1 to the Mayor’s Proposed 2027 Budget
-- 26-1664 Watson and Alvidrez Amendment #1 to the Mayor’s Proposed
+- Hinds, that Council Amendment 26-1663 be offered, carried by the following vote:
+- 26-1664 Watson and Alvidrez Amendment #1 to the Mayor’s Proposed 2027
+- Alvidrez, that Council Amendment 26-1664 be offered, failed to carry by the
+- 26-1673 Gonzales-Gutierrez Lewis Alvidrez Amendment #3 to the Mayor’s
+- member Kashmann, that Council Amendment 26-1673 be offered, carried by the
 - APPROVAL OF THE MINUTES
+- Council President Romero Campbell ordered the minutes approved
+- Minutes 26-1630 were approved
 - PRESENTATIONS
+- 26-1337 A resolution approving a proposed Lease Agreement between the
+- Approves a Lease Agreement between the City and County of Denver, as landlord,
+- square feet of space located at 101 W. Colfax Avenue, Denver, Colorado, in Council
+- the 30-day review period is on 11-23-2026. The Committee approved filing this item
+- Flynn, to approve the following items en bloc, carried by the following vote:
+- Approved the consent agenda
 - Community Planning and Housing Committee
 - 26-1576 A resolution approving a proposed Second Amendatory Agreement
-- Colorado Branch to support rapid rehousing plus care support to families
-- Amends a contract with Volunteers of America Colorado Branch to add
-- end date of 12-31-2028 to support rapid rehousing plus care support to families
-- 30-day review period is on 11-23-2026. The Committee approved filing this item at
-- 26-1577 A resolution approving a proposed Second Amendatory Agreement
-- Colorado Branch to support rapid rehousing support for families
-- Amends a contract with Volunteers of America Colorado Branch to add $627,200.00
-- 12-31-2028 to support rapid rehousing support for families experiencing literal
-- approved filing this item at its meeting on 10-27-2026
-- 26-1497 A resolution approving a proposed Fifth Amendatory Agreement
-- USA, Inc., to continue the contracting of security guard services, citywide
-- Amends a contract with Securitas Security Services USA, Inc. to add
-- a new end date of 9-30-2027 for the contracting of security guard services,
-- approved filing this item at its meeting on 10-13-2026. This item was called out at
-- 26-1531 A resolution approving and providing for the execution of a
-- proposed amended Grant Agreement between the City and County of
-- Amends a Grant Agreement the State of Colorado Department of Labor &
-- existing and new programs for the State’s workforce development program in
+- Branch to support rapid rehousing plus care support to families
 
-## [denver#108] 2026-11-03 | Finance and Business | minutes
+## [denver#100] 2026-11-03 | Finance and Business | minutes
 - 26-1629 Amends a master purchase order with SuperTrees Colorado, LLC to add
 - Requirements and Federal Provisions for the purchase of trees. No change
 - Council Resolution 26-1629 was approved by consent
@@ -2184,12 +2008,12 @@
 - 1941, Series of 2023, to change the budget basis of the “Medical
 - Council Bill 26-1648 was approved by consent
 
-## [denver#109] 2026-11-03 | Community Planning and Housing | minutes
+## [denver#101] 2026-11-03 | Community Planning and Housing | minutes
 - 26-1627 Amends DRMC Section 30-10 to allow review of historic preservation tax
 - credit applications by the Department of Community Planning and
 - Kashmann, that Council Bill 26-1627 be approved for filing, carried by the
 
-## [denver#110] 2026-11-03 | Parks, Art and Culture | minutes
+## [denver#102] 2026-11-03 | Parks, Art and Culture | minutes
 - Parks, Art and Culture
 - 26-1621 Approves a contract with DAVID OWEN TRYBA ARCHITECTS, A
 - Boettcher Concert Hall Renovation from the Vibrant Denver GO Bond
@@ -2202,7 +2026,7 @@
 - Mountain Parks
 - Romero Campbell, that Council Bill 26-1652 be approved for filing, carried by the
 
-## [denver#111] 2026-11-03 | Governance and Intergovernmental Relations | minutes
+## [denver#103] 2026-11-03 | Governance and Intergovernmental Relations | minutes
 - 26-1620 Approves a contract with Tablet Command, Inc. for $671,863.00 with an
 - end date of 6-30-2031 for the Tablet Command Pro software platform
 - supporting the Denver Fire Department, citywide (TECHS-202685034)
@@ -2227,7 +2051,7 @@
 - from 9-1-2025 through 8-31-2028 or until a successor is duly appointed,
 - Council Resolution 26-1626 was approved by consent
 
-## [denver#112] 2026-11-03 | Mayor-Council | agenda
+## [denver#104] 2026-11-03 | Mayor-Council | agenda
 - 26-1585 Approves a contract with Eckerd Youth Alternatives, Inc. doing
 - development services specific to employment and training as
 - revenue or grant-funded workforce initiatives, citywide
@@ -2273,13 +2097,13 @@
 - 26-1600 A bill for an ordinance approving the 2027 Operating Plan and
 - Budget for the RiNo Business Improvement District
 
-## [denver#113] 2026-11-04 | Health and Safety | minutes
+## [denver#105] 2026-11-04 | Health and Safety | minutes
 - 26-1622 Approves an intergovernmental agreement with Denver Health and
 - Romero Campbell, that Council Bill 26-1622 be approved for filing, carried by the
 - 26-1653 Amends a contract with the Boys & Girls Clubs of Metro Denver, Inc. to add
 - Council Resolution 26-1653 was approved by consent
 
-## [denver#114] 2026-11-04 | Transportation and Infrastructure | minutes
+## [denver#106] 2026-11-04 | Transportation and Infrastructure | minutes
 - 26-1540 For an ordinance amending Article IV of Chapter 20, regarding the
 - competitive selection process for certain contracts
 - Hinds, that Council Bill 26-1540 be approved for filing, carried by the following
@@ -2310,7 +2134,7 @@
 - electrical power line, gas line, and signage at 1800 16th Street, in Council
 - Council Bill 26-1637 was approved by consent
 
-## [denver#115] 2026-11-09 | City Council | agenda
+## [denver#107] 2026-11-09 | City Council | agenda
 - 1437 Bannock Street, Room 450
 - How to sign up to speak at public hearings
 - MAYOR'S PROPOSED 2027 BUDGET
@@ -2350,6 +2174,215 @@
 - 26-1552 A resolution approving the Mayor’s appointment to the Denver
 - Approves the Mayor’s appointment of Christo Luna to the Denver Latino Commission
 
-## [denver#116] 2026-11-09 | Budget and Policy Committee | agenda
+## [denver#108] 2026-11-09 | Budget and Policy Committee | agenda
 - Budget and Policy Committee
 - 1437 Bannock Street
+
+## [denver#109] 2026-11-10 | Finance and Business | minutes
+- 26-1712 For an ordinance creating a new article XIX, creating the business impact
+- economically impacted by major city-funded construction projects
+- Council member Watson, that Council Bills 26-1712 and 26-1719 be approved for
+- 26-1719 For an ordinance establishing a new Fund in the Economic Opportunity
+- 26-1710 Rescinds budget from General Fund Contingency to appropriate budget in
+- Affordable Housing Property Tax and Other Local Revenue SRF; and
+- and Reimbursements, and the Affordable Housing Property Tax and Other
+- Council Bill 26-1710 be approved for filing, carried by the following vote:
+- 26-1707 Approves a contract with Stifel, Nicolaus & Company, Incorporated for
+- Council Resolution 26-1707 was approved by consent
+- 26-1708 Approves a contract with Summit Street Group, Inc. (“Consultant”) for
+- advisory services to Department of Finance for city-wide projects, citywide
+- Council Resolution 26-1708 was approved by consent
+- 26-1709 Approves a contract with Frasca & Associates, L.L.C. for $1,570,000.00
+- Council Resolution 26-1709 was approved by consent
+- 26-1711 Amends a contract with Neumo Group, LLC to add $97,252.70 for a new
+- Council Resolution 26-1711 was approved by consent
+
+## [denver#110] 2026-11-10 | Community Planning and Housing | minutes
+- 26-1713 Presentation on Congregate Shelters
+- Council Presentation 26-1713 was heard in committee
+- 26-1685 Amends a contract with Urban Peak Denver to add $988,580.00 for a new
+- 12-31-2028 to support rapid rehousing services to youth ages 18-24,
+- Council Resolution 26-1685 was approved by consent
+- 26-1686 Amends a contract with Jewish Family Service of Colorado to add
+- new end date of 12-31-2028 to provide rapid rehousing support to families
+- Council Resolution 26-1686 was approved by consent
+- 26-1687 Amends a contract with US Motels North, Inc. to add $2,750,000.00 for a
+- Council Resolution 26-1687 was approved by consent
+- 26-1688 Amends a contract with Colorado Village Collaborative (CVC) to add
+- Community Planning and Housing
+- Council Resolution 26-1688 was approved by consent
+- 26-1689 Approves a contract with Colorado Health Network, Inc. (CHN) for
+- $2,636,064.00 with an end date of 6-30-2027 for Housing Opportunities for
+- (STRMU), Supportive Services, and Permanent Housing Placement (PHP)
+- Council Resolution 26-1689 was approved by consent
+
+## [denver#111] 2026-11-10 | Parks, Art and Culture | minutes
+- Parks, Art and Culture
+- 26-1692 Amends a Caretaker Agreement with David Binkley to add 12 months for a
+- 13264 Chicago Creek Road, Idaho Springs, Colorado 80452. No change
+- to the contract capacity, in Mountain Parks
+- (PARKS-202368050/PARKS-202686070-02)
+- Council Resolution 26-1692 was approved by consent
+- 26-1693 Amends a Caretaker Agreement with Edward Knight to add five years for a
+- new end date of 3-1-2032 at Patrick House at Genesse Park located at
+- 26771 Genesee Lane, Golden, Colorado 80401. No change to the contract
+- capacity, Mountain Parks (PARKS-202472488/PARKS-202686072-01)
+- Council Resolution 26-1693 was approved by consent
+- 26-1694 Approves a contract with Denver Youth Program dba Metro Denver
+- through of grant funds for outdoor programs under State Board of the Great
+- Outdoors Colorado Trust Fund (GOCO), citywide (PARKS-202582340)
+- Council Resolution 26-1694 was approved by consent
+
+## [denver#112] 2026-11-10 | Mayor-Council | agenda
+- Community Planning and Housing
+- 26-1627 Amends DRMC Section 30-10 to allow review of historic
+- preservation tax credit applications by the Department of
+- Community Planning and Development
+- 26-1629 Amends a master purchase order with SuperTrees Colorado,
+- purchase of trees. No change to MPO capacity, citywide
+- 26-1631 Amends a master purchase order with Little Valley Wholesale
+- Provisions for the purchase of trees. No change to MPO
+- 26-1632 Amends a master purchase order with Green Spot, Inc. to add
+- Federal Requirements and Federal Provisions for the purchase
+- 26-1638 Approves an ordinance establishing the 2027 Annual
+- the CPF to the Climate Protection Capital Projects Fund to
+- support capital projects appropriated in the 2027 budget that
+- 26-1640 Amends Special Revenue Fund 11701, the “City Council District
+- 26-1641 Approves a rescission of $16,124,511.94 of unused capital
+- improvements funds from a variety of capital programs as
+- Improvement Plan
+- Series to receive Visit Denver’s share of the Lodgers’ Tax
+- with the City’s agreement
+- 26-1643 Amends Ordinance No. 275, Series of 2012, as amended by
+- Ordinance No. 739, Series of 2014, to clarify the allowability
+- projects Fund, Fund 38336, for DAV capital projects
+- 26-1644 Amends Ordinance No. 737, Series of 2022, to clarify the
+- Affordable Housing Fee-In-Lieu” Special Revenue Fund (Fund
+- 16815) in the Community Development Fund Series and
+- 26-1645 Amends Ordinance No. 94, Series of 2025, to change the
+- budget basis of the “Property Tax Rebate” Special Revenue
+- Fund in the Community Development Fund Series from
+- 26-1646 Establishes the “Denver Downtown Development Authority
+- 26-1647 Amends the “Energy Efficiency Assistance” Special Revenue
+- 26-1648 Amends Ordinance 1287, Series of 2021, as amended by
+- Ordinance No. 1941, Series of 2023, to change the budget
+- 26-1649 Amends Ordinance No. 591, Series of 2021, as amended by
+- Ordinance No. 706, Series of 2021, as amended by Ordinance
+- No. 1145, Series of 2021, as amended by Ordinance No. 1192,
+- Series of 2021, as amended by Ordinance No. 374, Series of
+- 2022, as amended by Ordinance No. 969, Series of 2022, as
+- amended by Ordinance No. 1450, Series of 2022, as amended
+- by Ordinance No. 0548, Series of 2023, as amended by
+- Ordinance No. 1326, Series of 2023, as amended by Ordinance
+- No. 1683, Series of 2023, as amended by Ordinance No. 0802,
+- Series of 2024, as amended by Ordinance No. 1561, Series of
+- 2024, as amended by Ordinance No. 1712, Series of 2025, as
+- amended by Ordinance No. 926, Series of 2026, to allocate
+- 26-1620 Approves a contract with Tablet Command, Inc. for
+
+## [denver#113] 2026-11-11 | Health and Safety | minutes
+- 26-1672 Amends a contract with Clayton Early Learning, Trustee, George W
+- change to contract term, citywide
+- Council Resolution 26-1672 was approved by consent
+- 26-1675 Amends a contract with Family Star, Inc. to add $209,373.00 for a new total
+- Denver. No change to contract term, citywide
+- Council Resolution 26-1675 was approved by consent
+- 26-1677 Approves a contract with GES Coalition, Inc. for $730,203.28 with an end
+- Council Resolution 26-1677 was approved by consent
+- 26-1681 Amends a contract with ET Technologies, Inc. to add two years for a new
+- operations, public health and safety. No change to contract capacity,
+- Council Resolution 26-1681 was approved by consent
+- 26-1682 Amends a contract with Environmental Hazmat Services, Inc. to add two
+- facility operations, public health and safety. No change to contract capacity,
+- Council Resolution 26-1682 was approved by consent
+- 26-1684 Amends a contract with Mile High Early Learning Centers to add
+- slots in Denver. No change to contract term, citywide
+- Council Resolution 26-1684 was approved by consent
+- 26-1695 Amends an Intergovernmental Agreement with the Colorado Department of
+- Council Bill 26-1695 was approved by consent
+
+## [denver#114] 2026-11-11 | Transportation and Infrastructure | minutes
+- Alley, bounded by California Street, 29th Street, Welton Street and 30th
+- Street, in Council District 9
+- Council Resolution 26-1676 was approved by consent
+- Road, located at the intersection of East Smith Road and North Ulster
+- Street, in Council District 8
+- Council Resolution 26-1680 was approved by consent
+- 26-1683 Approves a contract with MORTON ELECTRIC, INC. for $576,380.00 with
+- Avenue - HAWK Signal project that will replace an existing span wire signal
+- Council Resolution 26-1683 was approved by consent
+- 26-1690 Approves a contract with Harris Miller Miller & Hanson Inc. for
+- Council Resolution 26-1690 was approved by consent
+- 26-1691 Approves a concession agreement with Mission Yogurt, LLC, doing
+- Guarantee (MAG)) of $311,181 plus the Percentage Fee of gross sales of
+- 16% for Food & Beverage sales if the Percentage Fee exceeds MAG and
+- Council Resolution 26-1691 was approved by consent
+- 26-1696 Approves the 2027 annual costs of the continuing care, operation, repair,
+- maintenance and replacement for the South Broadway Streetscape (Iowa
+- Council Bill 26-1696 was approved by consent
+- 26-1697 Approves the 2027 annual costs of the continuing care, operation, repair,
+- maintenance and replacement for the South Broadway Streetscape
+- Council Bill 26-1697 was approved by consent
+- 26-1698 Approves the 2027 annual costs of the continuing care, operation, repair,
+- maintenance and replacement for the South Downing Street Pedestrian
+- Council Bill 26-1698 was approved by consent
+- 26-1699 Approves the 2027 annual costs of the continuing care, operation, repair,
+- Council Bill 26-1699 was approved by consent
+- 26-1700 Approves the 2027 annual costs of the continuing care, operation, repair,
+- Council Bill 26-1700 was approved by consent
+- 26-1701 Approves the 2027 annual costs of the continuing care, operation, repair,
+- maintenance and replacement for the 15th Street Pedestrian Mall Local
+- Council Bill 26-1701 was approved by consent
+- 26-1702 Approves the 2027 annual costs of the continuing care, operation, repair,
+- maintenance and replacement for the Consolidated Morrison Road
+- Council Bill 26-1702 was approved by consent
+- 26-1703 Approves the 2027 annual costs of the continuing care, operation, repair,
+- maintenance and replacement for the Delgany Street Local Maintenance
+- Council Bill 26-1703 was approved by consent
+- 26-1704 Approves the 2027 annual costs of the continuing care, operation, repair,
+- maintenance and replacement for the East 13th Street Pedestrian Mall
+- Council Bill 26-1704 was approved by consent
+- 26-1705 Approves the 2027 annual costs of the continuing care, operation, repair,
+
+## [denver#115] 2026-11-16 | City Council | agenda
+- 1437 Bannock Street, Room 450
+- How to sign up to speak at public hearings
+- APPROVAL OF THE MINUTES
+- quasi-judicial Board of Equalization to consider reduction of total cost
+- 15th Street Pedestrian Mall
+- Delgany Street
+- Consolidated Morrison Road Pedestrian Mall
+- South Broadway Streetscape (Arizona to Iowa)
+- South Broadway Streetscape (Wesley to Yale)
+- South Broadway Streetscape (Iowa to Wesley)
+- PRESENTATIONS
+- 1) Stifel, Nicolaus & Company, Incorporated, which will serve as the City’s
+- disclosure and post-issuance matters, regulatory developments, special taxing
+- districts, tax increment financings and, as needed, conduit and private activity bond
+- activities. Transaction services may include General Obligation Bonds, Excise Tax
+- Revenue Bonds, Certificates of Participation, Wastewater and Golf Enterprise
+- Revenue Bonds, and other direct financial obligations of the City and its non-Airport
+- 26-1629 A resolution approving a proposed Amendment to a Master
+- Purchase Order between the City and County of Denver and SuperTrees
+- Colorado LLC to continue the purchase of trees, citywide
+- Amends a master purchase order with SuperTrees Colorado, LLC to add two years
+- Provisions for the purchase of trees. No change to MPO capacity, citywide
+- review period is on 12-7-2026. The Committee approved filing this item at its
+- 26-1631 A resolution approving a proposed Amendment to a Master
+- Purchase Order between the City and County of Denver and MTH Family
+- purchase of trees, citywide
+- Amends a master purchase order with Little Valley Wholesale Nursery, LLC to add
+- Federal Provisions for the purchase of trees. No change to MPO capacity, citywide
+- 26-1632 A resolution approving a proposed Amendment to a Master
+- Purchase Order between the City and County of Denver and Green Spot,
+- Inc., to continue the purchase of trees, citywide
+- Amends a master purchase order with Green Spot, Inc. to add two years for a new
+- the purchase of trees. No change to MPO capacity, citywide (SC-00008827). The last
+- 12-7-2026. The Committee approved filing this item at its meeting on 11-3-2026
+- 26-1620 A resolution approving a proposed Agreement between the City
+- Pro software platform supporting the Denver Fire Department
+- Approves a contract with Tablet Command, Inc. for $671,863.00 with an end date of
+- 6-30-2031 for the Tablet Command Pro software platform supporting the Denver
+- Fire Department, citywide (TECHS-202685034). The last regularly scheduled Council
+- meeting within the 30-day review period is on 12-7-2026. The Committee approved
+- 26-1623 Approving the Mayor’s appointment to the West Colfax Business

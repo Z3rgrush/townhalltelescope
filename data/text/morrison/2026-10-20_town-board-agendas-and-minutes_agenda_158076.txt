@@ -2032,21 +2032,21 @@ Town of Morrison
 Actual Actual Budget Estimate Proposed
 2024 2025 2026 2026 2027
 GENERAL FUND 
-Beginning Fund Balance 7,157,238 $                                  8,759,350 $                                  10,886,078 $                             10,886,078 $                          12,816,377 $                                
-Total Revenues 5,694,048                                     4,323,513                                     4,387,180                                  4,323,288                               4,534,514                                     
-Total Expenditures 4,091,936                                     2,196,785                                     4,028,156                                  2,392,989                               2,607,548                                     
+Beginning Fund Balance 7,157,238$                                  8,759,350$                                  10,886,078$                             10,886,078$                          12,816,377$                                
+Total Revenues 5,694,048                                    4,323,513                                    4,387,180                                 4,323,288                              4,534,514                                    
+Total Expenditures 4,091,936                                    2,196,785                                    4,028,156                                 2,392,989                              2,607,548                                    
 Transfer To/From Reserves
-Budget Surplus/(Deficit) 1,602,112 $                                  2,126,728 $                                  359,024 $                                  1,930,298$                            1,926,966 $                                  
-Ending Balance (unreserved) 8,759,350 $                                  10,886,078 $                                11,245,102 $                             12,816,377 $                          14,743,343 $                                
+Budget Surplus/(Deficit) 1,602,112$                                  2,126,728$                                  359,024$                                  1,930,298$                            1,926,966$                                  
+Ending Balance (unreserved) 8,759,350$                                  10,886,078$                                11,245,102$                             12,816,377$                          14,743,343$                                
 Actual Actual Approved Estimated Proposed
 2024 2025 2026 2026 2027
 UTILITY FUND
-Beginning Funds Available 3,665,938 $                                  4,975,508 $                                  7,516,987 $                               7,516,987 $                            9,185,692 $                                  
-Total Revenues 3,114,749                                     4,997,227                                     7,962,500                                  3,808,890                               12,592,000                                   
-Total Expenditures 1,805,179                                     2,455,748                                     12,349,958                                2,140,184                               19,957,036                                   
+Beginning Funds Available 3,665,938$                                  4,975,508$                                  7,516,987$                               7,516,987$                            9,185,692$                                  
+Total Revenues 3,114,749                                    4,997,227                                    7,962,500                                 3,808,890                              12,592,000                                  
+Total Expenditures 1,805,179                                    2,455,748                                    12,349,958                               2,140,184                              19,957,036                                  
 Transfer To/From Reserves
-Budget Surplus/(Deficit) 1,309,570                                     2,541,479                                     (4,387,458)                                 1,668,706                               (7,365,036)                                   
-Ending Balance (unreserved) 4,975,508 $                                  7,516,987 $                                  3,129,529 $                               9,185,692 $                            1,820,656 $                                  
+Budget Surplus/(Deficit) 1,309,570                                    2,541,479                                    (4,387,458)                                1,668,706                              (7,365,036)                                   
+Ending Balance (unreserved) 4,975,508$                                  7,516,987$                                  3,129,529$                               9,185,692$                            1,820,656$                                  
 Fund Balances
  $-
  $5,000,000
@@ -2066,27 +2066,27 @@ Town of Morrison
 Actual Actual Budget Estimate Proposed
  2024 2025 2026 2026 2027
 SOURCE OF FUNDS:
-Taxes 2,653,547$                2,734,276 $                   2,640,467 $                    2,616,541 $                    2,788,901 $                      
-Licenses & Permits 80,254                       125,464                         95,400 $                         54,700 $                         54,700 $                          
-Intergovernmental 155,977              67,916                           183,913                          73,035                            188,913                           
-Charges for Services 459,010                     220,460                         226,550                          221,000                          238,000                           
-Fines & Forfeitures 1,548,815                  304,977                         386,000                          384,375                          386,000                           
-Other Revenue 796,444                     870,421                         854,850                          973,636                          878,000                           
-Total Source of Funds 5,694,048 $                4,323,513 $                   4,387,180 $                    4,323,288 $                    4,534,514 $                      
+Taxes 2,653,547$                2,734,276$                   2,640,467$                    2,616,541$                    2,788,901$                      
+Licenses & Permits 80,254                       125,464                        95,400$                         54,700$                         54,700$                          
+Intergovernmental 155,977              67,916                          183,913                         73,035                           188,913                          
+Charges for Services 459,010                     220,460                        226,550                         221,000                         238,000                          
+Fines & Forfeitures 1,548,815                  304,977                        386,000                         384,375                         386,000                          
+Other Revenue 796,444                     870,421                        854,850                         973,636                         878,000                          
+Total Source of Funds 5,694,048$                4,323,513$                   4,387,180$                    4,323,288$                    4,534,514$                      
 USE OF FUNDS:
-General Fund Capital Project 242,598$                   37,066 $                        1,847,000$                    277,099 $                       335,000 $                        
-Administration 394,331                     295,042                         378,046                          375,948                          556,457                           
-Board of Trustees 74,433                       86,155                           105,100                          95,167                            107,959                           
-Building Inspection 22,508                       17,324                           31,500                            22,500                            30,000                             
-Election 1,150                         -                                 4,150                             4,150                              -                                     
-Municipal Court 575,092                     87,028                           63,120                            87,730                            46,550                             
-Planning & Zoning 247,345                     183,226                         158,000                          203,985                          202,950                           
-Law Enforcement 1,745,673                  745,044                         550,000                          497,509                          494,162                           
-Streets, Grounds & Bldgs. 442,539                     362,892                         496,500                          435,529                          422,880                           
-Natural History Museum 346,266                     383,009                         394,740                          393,371                          411,590                           
-Total Use of Funds 4,091,936 $                2,196,785 $                   4,028,156 $                    2,865,351 $                    2,607,548 $                      
+General Fund Capital Project 242,598$                   37,066$                        1,847,000$                    277,099$                       335,000$                        
+Administration 394,331                     295,042                        378,046                         375,948                         556,457                          
+Board of Trustees 74,433                       86,155                          105,100                         95,167                           107,959                          
+Building Inspection 22,508                       17,324                          31,500                           22,500                           30,000                            
+Election 1,150                         -                                4,150                             4,150                             -                                    
+Municipal Court 575,092                     87,028                          63,120                           87,730                           46,550                            
+Planning & Zoning 247,345                     183,226                        158,000                         203,985                         202,950                          
+Law Enforcement 1,745,673                  745,044                        550,000                         497,509                         494,162                          
+Streets, Grounds & Bldgs. 442,539                     362,892                        496,500                         435,529                         422,880                          
+Natural History Museum 346,266                     383,009                        394,740                         393,371                         411,590                          
+Total Use of Funds 4,091,936$                2,196,785$                   4,028,156$                    2,865,351$                    2,607,548$                      
 Transfers Out -                                                                  -                                      -                            472,361                                      -  
-Annual Net 1,602,112 $                2,126,728 $                   359,024 $                       1,457,937 $                    1,926,966 $                      
+Annual Net 1,602,112$                2,126,728$                   359,024$                       1,457,937$                    1,926,966$                      
 General Fund Summary
  $-
  $1,000,000
@@ -2102,65 +2102,65 @@ Sources Uses
 X5A0T
 Town of Morrison
 2027 Budget
-GL Actual Actual Bud get Estimate Pro posed
-Account D escription 2024 2025 2026 2026 2027
+GL Actual Actual Budget Estimate Proposed
+Account Description 2024 2025 2026 2026 2027
 TAXES  
-10-31-100 Cigarette Taxes 4,174$                                           3,826 $                                    4,000 $                                   4,000 $                                 4,000 $                                    
-10-31-105 Franchise Tax 54,623$                                         58,016 $                                  60,000 $                                 60,000 $                               60,000 $                                  
-10-31-110 Property Taxes 104,313$                                       107,291 $                                113,541 $                               113,541 $                             110,901 $                                
-10-31-115 Highway Users Tax 11,926$                                         12,187 $                                  11,926 $                                 12,000 $                               12,000 $                                  
-10-31-120 Motor Vehicle Use Tax 27,245$                                         43,529 $                                  29,000 $                                 40,000 $                               40,000 $                                  
-10-31-125 Open Space Sales Tax 20,824$                                         20,430 $                                  21,000 $                                 21,000 $                               21,000 $                                  
-10-31-130 Sales Tax 2,373,956$                                    2,413,517 $                             2,300,000 $                            2,300,000 $                          2,300,000 $                             
-10-31-135 Motor Vehicle Ownership Tax 6,282$                                           7,220 $                                    6,000 $                                   6,000 $                                 6,000 $                                    
-10-31-140 Construction Use Tax -$                                               - $                                        5,000$                                   - $                                    
-10-31-150 General Use Tax 50,203$                                         68,260 $                                  60,000 $                                 60,000 $                               60,000 $                                  
-10-31-132 Lodging Tax -$                                               - $                                        30,000$                                 - $                                    200,000$                                
+10-31-100 Cigarette Taxes 4,174$                                           3,826$                                    4,000$                                   4,000$                                 4,000$                                    
+10-31-105 Franchise Tax 54,623$                                         58,016$                                  60,000$                                 60,000$                               60,000$                                  
+10-31-110 Property Taxes 104,313$                                       107,291$                                113,541$                               113,541$                             110,901$                                
+10-31-115 Highway Users Tax 11,926$                                         12,187$                                  11,926$                                 12,000$                               12,000$                                  
+10-31-120 Motor Vehicle Use Tax 27,245$                                         43,529$                                  29,000$                                 40,000$                               40,000$                                  
+10-31-125 Open Space Sales Tax 20,824$                                         20,430$                                  21,000$                                 21,000$                               21,000$                                  
+10-31-130 Sales Tax 2,373,956$                                    2,413,517$                             2,300,000$                            2,300,000$                          2,300,000$                             
+10-31-135 Motor Vehicle Ownership Tax 6,282$                                           7,220$                                    6,000$                                   6,000$                                 6,000$                                    
+10-31-140 Construction Use Tax -$                                               -$                                        5,000$                                   -$                                    
+10-31-150 General Use Tax 50,203$                                         68,260$                                  60,000$                                 60,000$                               60,000$                                  
+10-31-132 Lodging Tax -$                                               -$                                        30,000$                                 -$                                    200,000$                                
 ESTIP (25,000)$                                 
-2,653,547$                                    2,734,276 $                             2,640,467 $                            2,616,541 $                          2,788,901 $                             
+2,653,547$                                    2,734,276$                             2,640,467$                            2,616,541$                          2,788,901$                             
 LICENSES & PERMITS
-10-32-200 Building Permits 71,240 $                                         93,023 $                                  70,000 $                                 30,000 $                               30,000 $                                  
-10-32-205 Business Licenses 3,281 $                                           4,544 $                                    4,200 $                                   4,200 $                                 4,200 $                                    
-10-32-210 Liquor Licenses 1,860 $                                           2,373 $                                    2,000 $                                   2,000 $                                 2,000 $                                    
-10-32-215 Misc Licenses 2,444 $                                           7,622 $                                    7,500 $                                   1,000 $                                 1,000 $                                    
-10-32-220 Misc Permits (960) $                                             1,200 $                                    1,000 $                                   7,000 $                                 7,000 $                                    
-10-32-225 Sign Permits 1,075 $                                           675 $                                       700 $                                      500 $                                    500 $                                       
-10-32-230 Land Development Permit 1,315 $                                           16,027 $                                  10,000 $                                 10,000 $                               10,000 $                                  
-80,254$                                         125,464 $                                95,400 $                                 54,700 $                               54,700 $                                  
+10-32-200 Building Permits 71,240$                                         93,023$                                  70,000$                                 30,000$                               30,000$                                  
+10-32-205 Business Licenses 3,281$                                           4,544$                                    4,200$                                   4,200$                                 4,200$                                    
+10-32-210 Liquor Licenses 1,860$                                           2,373$                                    2,000$                                   2,000$                                 2,000$                                    
+10-32-215 Misc Licenses 2,444$                                           7,622$                                    7,500$                                   1,000$                                 1,000$                                    
+10-32-220 Misc Permits (960)$                                             1,200$                                    1,000$                                   7,000$                                 7,000$                                    
+10-32-225 Sign Permits 1,075$                                           675$                                       700$                                      500$                                    500$                                       
+10-32-230 Land Development Permit 1,315$                                           16,027$                                  10,000$                                 10,000$                               10,000$                                  
+80,254$                                         125,464$                                95,400$                                 54,700$                               54,700$                                  
 INTERGOVERNMENTAL & GRANTS
-10-33-400 Conservation Trust/Lottery 4,693 $                                           4,655 $                                    4,500 $                                   4,500 $                                 4,500 $                                    
-10-33-401 SCFD Grant - $                                               46,431$                                  46,413 $                                 46,413 $                               46,413 $                                  
-10-33-405 Grants 140,564 $                                       10,436 $                                  - $                                       - $                                    
-10-33-410 Road & Bridge 10,511 $                                         6,386 $                                    7,000 $                                   22,000 $                               12,000 $                                  
-10-33-420 Other Intergovernmental Revenue 209 $                                              8 $                                           126,000$                               122$                                    126,000$                                
-155,977$                                       67,916 $                                  183,913 $                               73,035 $                               188,913 $                                
+10-33-400 Conservation Trust/Lottery 4,693$                                           4,655$                                    4,500$                                   4,500$                                 4,500$                                    
+10-33-401 SCFD Grant -$                                               46,431$                                  46,413$                                 46,413$                               46,413$                                  
+10-33-405 Grants 140,564$                                       10,436$                                  -$                                       -$                                    
+10-33-410 Road & Bridge 10,511$                                         6,386$                                    7,000$                                   22,000$                               12,000$                                  
+10-33-420 Other Intergovernmental Revenue 209$                                              8$                                           126,000$                               122$                                    126,000$                                
+155,977$                                       67,916$                                  183,913$                               73,035$                               188,913$                                
 CHARGES FOR SERVICE
-10-34-505 Motor Vehicle Registration Fee 1,144 $                                           1,035 $                                    1,000 $                                   1,000 $                                 1,000 $                                    
-10-34-510 Plan Check Fees - $                                               150 $                                       3,000$                                   - $                                    
-10-34-515 Planning & Zoning Fees 350 $                                              2,550$                                    2,550 $                                   7,000 $                                    
-10-34-520 Police Training Fee 60 $                                                - $                                        - $                                       
-10-34-525 Traffic Control Fees 249,506 $                                       - $                                       - $                                    
-10-34-526 RRA License Fee 200,450 $                                       216,725 $                                220,000 $                               220,000 $                             230,000 $                                
-10-34-527 Dispensary Lease 7,500 $                                           - $                                        - $                                       - $                                    
-459,010$                                       220,460 $                                226,550 $                               221,000 $                             238,000 $                                
+10-34-505 Motor Vehicle Registration Fee 1,144$                                           1,035$                                    1,000$                                   1,000$                                 1,000$                                    
+10-34-510 Plan Check Fees -$                                               150$                                       3,000$                                   -$                                    
+10-34-515 Planning & Zoning Fees 350$                                              2,550$                                    2,550$                                   7,000$                                    
+10-34-520 Police Training Fee 60$                                                -$                                        -$                                       
+10-34-525 Traffic Control Fees 249,506$                                       -$                                       -$                                    
+10-34-526 RRA License Fee 200,450$                                       216,725$                                220,000$                               220,000$                             230,000$                                
+10-34-527 Dispensary Lease 7,500$                                           -$                                        -$                                       -$                                    
+459,010$                                       220,460$                                226,550$                               221,000$                             238,000$                                
 FINES & FORFEITURES
-10-35-600 Court Fines 298,049 $                                       18,806 $                                  10,000 $                                 2,000 $                                 1,000 $                                    
-10-35-610 Misc. Court Revenue 331 $                                              230 $                                       1,000$                                   - $                                    
-10-35-615 Parking Ticket Revenue 308,159 $                                       269,124 $                                375,000 $                               380,000 $                             385,000 $                                
-10-35-616 Speed Radar Revenue 942,276 $                                       16,817 $                                  - $                                       2,375$                                 
-1,548,815$                                    304,977 $                                386,000 $                               384,375 $                             386,000 $                                
+10-35-600 Court Fines 298,049$                                       18,806$                                  10,000$                                 2,000$                                 1,000$                                    
+10-35-610 Misc. Court Revenue 331$                                              230$                                       1,000$                                   -$                                    
+10-35-615 Parking Ticket Revenue 308,159$                                       269,124$                                375,000$                               380,000$                             385,000$                                
+10-35-616 Speed Radar Revenue 942,276$                                       16,817$                                  -$                                       2,375$                                 
+1,548,815$                                    304,977$                                386,000$                               384,375$                             386,000$                                
 OTHER SOURCES
-10-36-700 Fees/Sales/Gifts - MNHM 282,810 $                                       293,423 $                                303,850 $                               303,850 $                             324,000 $                                
-10-36-701 MNHM Gift Shop - $                                               194 $                                       15,000$                                 - $                                    
-10-36-702 General Merchandise Sales 380 $                                              - $                                        - $                                       - $                                    
-10-36-705 Misc Service Revenue 9,658 $                                           2,971 $                                    7,000 $                                   14,000 $                               7,000 $                                    
-10-36-710 Misc Revenue 15,058 $                                         22,603 $                                  9,000 $                                   135,786$                             27,000$                                  
-10-36-712 P.I.L.O. Land 7,457 $                                           - $                                        - $                                       - $                                    
-10-36-805 Developer Reimbursements 148,969 $                                       18,108 $                                  120,000 $                               120,000 $                             120,000 $                                
-10-36-815 Earnings on Deposit 332,113 $                                       328,922 $                                400,000 $                               400,000 $                             400,000 $                                
-10-36-880 Sales of Assets - $                                               204,200$                                - $                                       - $                                    
-796,444$                                       870,421 $                                854,850 $                               973,636 $                             878,000 $                                
-5,694,048$                                    4,323,513 $                             4,387,180 $                            4,323,288 $                          4,534,514 $                             
+10-36-700 Fees/Sales/Gifts - MNHM 282,810$                                       293,423$                                303,850$                               303,850$                             324,000$                                
+10-36-701 MNHM Gift Shop -$                                               194$                                       15,000$                                 -$                                    
+10-36-702 General Merchandise Sales 380$                                              -$                                        -$                                       -$                                    
+10-36-705 Misc Service Revenue 9,658$                                           2,971$                                    7,000$                                   14,000$                               7,000$                                    
+10-36-710 Misc Revenue 15,058$                                         22,603$                                  9,000$                                   135,786$                             27,000$                                  
+10-36-712 P.I.L.O. Land 7,457$                                           -$                                        -$                                       -$                                    
+10-36-805 Developer Reimbursements 148,969$                                       18,108$                                  120,000$                               120,000$                             120,000$                                
+10-36-815 Earnings on Deposit 332,113$                                       328,922$                                400,000$                               400,000$                             400,000$                                
+10-36-880 Sales of Assets -$                                               204,200$                                -$                                       -$                                    
+796,444$                                       870,421$                                854,850$                               973,636$                             878,000$                                
+5,694,048$                                    4,323,513$                             4,387,180$                            4,323,288$                          4,534,514$                             
 General Fund Revenue 
 Total General Fund Revenue
 Total Taxes
@@ -2261,7 +2261,7 @@ Sources Uses
 X 8 A0T
 Town of Morrison
 2027 Budget
-Actual Actual Bud get Estimate Proposed
+Actual Actual Budget Estimate Proposed
 Account Description 2024 2025 2026 2026 2027
 OTHER REVENUE
 20-36-710 Misc Revenue (876) 242 - - 17,000
@@ -2311,26 +2311,26 @@ Town of Morrison
 2027 Budget
 Actual Actual Budget Estimate Proposed
 Account Description 2024 2025 2026 2026 2027
-20-36-710 Miscellaneous Rev (876)                             242                              -                                   -                                  17,000                               
-20-36-805 Deposits on Development 87,362                         47,744                         50,000                         75,000                        50,000                                
-20-36-815 Earnings on Deposits 201,290                       255,946                       205,000                       270,000                      200,000                              
-20-37-910 Sewer Revenue - Flat Fees 448,320                       539,312                       610,000                       590,000                      610,000                              
-20-37-915 Tap and Resource Fees 1,135,049                    2,455,829                    700,000                       1,382,599                  1,555,000                           
-20-37-930 Water Use Revenue 768,419                       942,130                       1,150,000                   1,000,000                   1,150,000                           
-20-37-935 Misc. Water/Sewer Revenue 253,462                       338,352                       300,000                       145,000                      200,000                              
-20-37-937 Mount Carbon Const. Water 31,086                         4,866                           2,500                           5,000                          5,000                                  
-20-37-939 Mount Carbon Eng. Reimb. 31,299                         225,081                       20,000                         20,000                        30,000                                
-20-37-940 Mt. Carbon Operating Revenue 85,848                         125,138                       40,000                         46,291                        -                                          
-20-37-941 Red Rocks Water Infrastructure -                                   -                                   4,800,000                   200,000                      8,700,000                          
-20-37-942 Red Rocks Eng Rev 8,054                           -                                   10,000                        -                                  -                                          
-20-37-943 Red Rocks Water Employee 65,437                         62,587                         75,000                         75,000                        75,000                                
-3,114,749$                 4,997,227 $                 7,962,500 $                 3,808,890 $                12,592,000 $                      
+20-36-710 Miscellaneous Rev (876)                            242                             -                                  -                                 17,000                               
+20-36-805 Deposits on Development 87,362                        47,744                        50,000                        75,000                       50,000                               
+20-36-815 Earnings on Deposits 201,290                      255,946                      205,000                      270,000                     200,000                             
+20-37-910 Sewer Revenue - Flat Fees 448,320                      539,312                      610,000                      590,000                     610,000                             
+20-37-915 Tap and Resource Fees 1,135,049                   2,455,829                   700,000                      1,382,599                  1,555,000                          
+20-37-930 Water Use Revenue 768,419                      942,130                      1,150,000                   1,000,000                  1,150,000                          
+20-37-935 Misc. Water/Sewer Revenue 253,462                      338,352                      300,000                      145,000                     200,000                             
+20-37-937 Mount Carbon Const. Water 31,086                        4,866                          2,500                          5,000                         5,000                                 
+20-37-939 Mount Carbon Eng. Reimb. 31,299                        225,081                      20,000                        20,000                       30,000                               
+20-37-940 Mt. Carbon Operating Revenue 85,848                        125,138                      40,000                        46,291                       -                                         
+20-37-941 Red Rocks Water Infrastructure -                                  -                                  4,800,000                   200,000                     8,700,000                          
+20-37-942 Red Rocks Eng Rev 8,054                          -                                  10,000                        -                                 -                                         
+20-37-943 Red Rocks Water Employee 65,437                        62,587                        75,000                        75,000                       75,000                               
+3,114,749$                 4,997,227$                 7,962,500$                 3,808,890$                12,592,000$                      
 EXPENDITURES WATER & SEWER 
-Utility Fund Capital Projects - $                                320,140$                    10,578,000$               466,084 $                   18,150,000$                      
-Water Department Expenditures 1,065,239                    1,240,946                    948,283                       932,991                      963,818                              
-Sewer Department Expenditures 739,940                       894,663                       823,675                       741,109                      843,218                              
-1,805,179$                 2,455,748 $                 12,349,958 $               2,140,184 $                19,957,036 $                      
-1,309,570$                 2,541,479 $                 (4,387,458) $                1,668,706 $                (7,365,036) $                       
+Utility Fund Capital Projects -$                                320,140$                    10,578,000$               466,084$                   18,150,000$                      
+Water Department Expenditures 1,065,239                   1,240,946                   948,283                      932,991                     963,818                             
+Sewer Department Expenditures 739,940                      894,663                      823,675                      741,109                     843,218                             
+1,805,179$                 2,455,748$                 12,349,958$               2,140,184$                19,957,036$                      
+1,309,570$                 2,541,479$                 (4,387,458)$                1,668,706$                (7,365,036)$                       
 UTILITY FUND - NET INCOME 
 Total Utility Fund Expenditures
 Utility Fund NET Income/ (Loss)
@@ -2374,88 +2374,88 @@ Town of Morrison
 2027 Budget
 Actual Actual Adopted Estimated Proposed
 Description 2024 2025 2026 2026 2027
-Compensation Study/Emergenic 7,242           -  -  -  
-South Walkway/Highway 8 -  -  150,000       -  
-Safer Main St Grant Project 60,714         14,180         -  -  
-Police Vehicle 78,867         -  -  -  
-Police Body Cameras 10,966         -  -  -  
-BRIC Scoping Grant 11,873         -  -  -  
-Computer Upgrades 29,974         22,885         -  -  
-Museum Grounds Enhancement 8,482           -  55,000  -  55,000  
-16 Acre/ East Area Planning -  -  150,000  -  150,000  
-Travel Trailer - Museum (hauling) -  -  15,000         15,000
-Street Improvements (+plan) 34,480         -  1,000,000  32,099         
-Shuttle Site Improvement -  -  10,000         5,000           
-Town Hall Facility Security Upgrades -  -  15,000         15,000
-Maintenance Shed Relocate -  -  100,000       100,000
-South Park Bridge Planning -  -  100,000       
-Wayfinding System (+ parking signage) -  -  12,000         
-Town Office Improvements -  240,000       240,000       
+Compensation Study/Emergenic 7,242          - - - 
+South Walkway/Highway 8 - - 150,000      - 
+Safer Main St Grant Project 60,714        14,180        - - 
+Police Vehicle 78,867        - - - 
+Police Body Cameras 10,966        - - - 
+BRIC Scoping Grant 11,873        - - - 
+Computer Upgrades 29,974        22,885        - - 
+Museum Grounds Enhancement 8,482          - 55,000 - 55,000 
+16 Acre/ East Area Planning - - 150,000 - 150,000 
+Travel Trailer - Museum (hauling) - - 15,000        15,000
+Street Improvements (+plan) 34,480        - 1,000,000 32,099        
+Shuttle Site Improvement - - 10,000        5,000          
+Town Hall Facility Security Upgrades - - 15,000        15,000
+Maintenance Shed Relocate - - 100,000      100,000
+South Park Bridge Planning - - 100,000      
+Wayfinding System (+ parking signage) - - 12,000        
+Town Office Improvements - 240,000      240,000      
 TOTAL 242,598$    37,066$      1,847,000$ 277,099 $    335,000$       
 GENERAL FUND CAPITAL PROJECTS
 Town of Morrison
 2027 Budget
 GL Actual Actual Approved Estimated Proposed
 Account Description 2024 2025 2026 2026 2027
-10-50-100 Salaries & Wages 165,658$   113,505 $   177,000 $   177,000 $  329,000 $  
-10-50-105 Payroll Taxes 12,674       8,618          14,539        14,359      27,000      
-10-50-110 Employee Benefits 16,615       15,230        25,000        19,496      29,000      
-10-50-115 Worker's Comp - CIRSA 540           3,125          700             700           702           
-10-50-200 Outside Services 29,267       24,907        30,000        30,000      35,000      
-10-50-205 Postage 1,216        2,183          1,500          2,000         1,500         
+10-50-100 Salaries & Wages 165,658$   113,505$   177,000$   177,000$  329,000$  
+10-50-105 Payroll Taxes 12,674       8,618         14,539       14,359      27,000      
+10-50-110 Employee Benefits 16,615       15,230       25,000       19,496      29,000      
+10-50-115 Worker's Comp - CIRSA 540           3,125         700            700           702           
+10-50-200 Outside Services 29,267       24,907       30,000       30,000      35,000      
+10-50-205 Postage 1,216        2,183         1,500         2,000        1,500        
 10-50-210 Printing and Duplication - 
 242 
 - 
 207 
 10-
 50-215 Telephone/Internet 7,479        7,432 
-7,000          7,000 
-7,000         
+7,000         7,000 
+7,000        
 10-50-225 Travel and Meetings 1,887        1,611 
-2,000          180            1,500         
-10-50-300 Accounting Services/Audit 60,974       52,086        40,000        48,000      48,000      
-10-50-305 Bank Fees 1,908        2,220          500             1,011         500            
-10-50-340 Dues/Membership 781           2,914          2,200          3,500         3,000         
-10-50-345 Education and Training 1,045        3,730          2,500          240            2,500         
+2,000         180           1,500        
+10-50-300 Accounting Services/Audit 60,974       52,086       40,000       48,000      48,000      
+10-50-305 Bank Fees 1,908        2,220         500            1,011        500           
+10-50-340 Dues/Membership 781           2,914         2,200         3,500        3,000        
+10-50-345 Education and Training 1,045        3,730         2,500         240           2,500        
 10-50-370 Repair and Maintenance - 
 - 
-500             - 
+500            - 
 1
-0-50-375 Utilities 1,810        4,034          2,000          2,000         2,000         
-10-50-380 Legal Services 61,729       28,690        35,000        35,000      35,000      
-10-50-385 Marketing/Event Contrib 7,477         1,627          1,000         - 
+0-50-375 Utilities 1,810        4,034         2,000         2,000        2,000        
+10-50-380 Legal Services 61,729       28,690       35,000       35,000      35,000      
+10-50-385 Marketing/Event Contrib 7,477        1,627         1,000         - 
 10-
-50-386 Website 11,959       12,967        12,957        13,605      13,605      
-10-50-387 Publication 3,663        4,792          4,000          3,500         3,500         
-10-50-395 Office Supplies 4,641        1,933          3,000          3,000         2,000         
-10-50-397 Operating Supplies 2,554        2,123          3,500          2,000         2,500         
-10-50-800 County Treasurer's Fee 457           1,073          1,150          1,150         1,150         
+50-386 Website 11,959       12,967       12,957       13,605      13,605      
+10-50-387 Publication 3,663        4,792         4,000         3,500        3,500        
+10-50-395 Office Supplies 4,641        1,933         3,000         3,000        2,000        
+10-50-397 Operating Supplies 2,554        2,123         3,500         2,000        2,500        
+10-50-800 County Treasurer's Fee 457           1,073         1,150         1,150        1,150        
 10-50-900 Equipment Purchase - 
 - 
-12,000        12,000      12,000      
-394,331$   295,042 $   378,046 $   375,948 $  556,457 $  TOTAL 
+12,000       12,000      12,000      
+394,331$   295,042$   378,046$   375,948$  556,457$  TOTAL 
 ADMINISTRATION 
 X 1 3A0T
 Town of Morrison
 2027 Budget
 GL Actual Actual Approved Estimated Proposed
 Account Description 2024 2025 2026 2026 2027
-Board Compensation 3,750$     45,000 $   
-10-55-115 Worker's Compensation - CIR 1,800$    1,601 $    700$          1,840        702$        
-10-55-200 Outside Services 10,350 17,038     10,000       12,500     13,000     
-10-55-215 Telephone/Internet 6,749      7,494       6,500         6,500       6,500       
-10-55-225 Travel and Meetings 7,058      4,045       4,500         3,000       7,500       
-10-55-340 Dues/Membership 3,873      1,391       3,400         3,400       3,400       
+Board Compensation 3,750$     45,000$   
+10-55-115 Worker's Compensation - CIR 1,800$    1,601$    700$          1,840       702$        
+10-55-200 Outside Services 10,350 17,038    10,000       12,500     13,000     
+10-55-215 Telephone/Internet 6,749      7,494      6,500         6,500       6,500       
+10-55-225 Travel and Meetings 7,058      4,045      4,500         3,000       7,500       
+10-55-340 Dues/Membership 3,873      1,391      3,400         3,400       3,400       
 10-55-345 Education and Training - 
-1,561 5,500         435           5,500       
-10-55-355 CIRSA 4,318      8,402 9,000          13,592      29,857     
-10-55-380 Legal Services 36,240     22,513     25,000       27,000     25,000     
-10-55-385 Marketing/Event Contributions 3,202      3,045       3,500         -
+1,561 5,500         435          5,500       
+10-55-355 CIRSA 4,318      8,402 9,000         13,592     29,857     
+10-55-380 Legal Services 36,240    22,513    25,000       27,000     25,000     
+10-55-385 Marketing/Event Contributions 3,202      3,045      3,500         -
 10-55-390 Discretionary - 
 18,776 35,000       26,600     15,000     
-10-55-397 Operating Supplies 842         291          1,000          300           500          
-10-55-900 Equipment Purchase -              -               1,000         - 1,000
-74,433$  86,155 $  105,100$   95,167 $   107,959$ TOTAL
+10-55-397 Operating Supplies 842         291         1,000         300          500          
+10-55-900 Equipment Purchase -              -              1,000         - 1,000
+74,433$  86,155$  105,100$   95,167$   107,959$ TOTAL
 BOARD OF TRUSTEES
 X 1 4A0T
 Town of Morrison
@@ -2472,18 +2472,18 @@ Account Description 2024 2025 2026 2026 2027
 Legal Services - 
 - 
 - -
-22,508$   17,324$    31,500$   22,500$     30,000 $   TOTAL
+22,508$   17,324$    31,500$   22,500$     30,000$   TOTAL
 BUILDING INSPECTION 
 X 1 5A0T
 Town of Morrison
 2027 Budget
 GL Actual Actual Approved Estimated Proposed
 Account Desription 2024 2025 2026 2026 2027
-10-65-200 Outside Services 1,080$   - $            4,150$     4,150 $     
-10-65-210 Printing and Duplication -            -               -               -               
-10-65-380 Legal Services -            -               -               -               
-10-65-395 Office Supplies 70         -               -               
-1,150$   - $            4,150$     4,150$     -$               TOTAL
+10-65-200 Outside Services 1,080$   -$            4,150$     4,150$     
+10-65-210 Printing and Duplication -            -              -              -              
+10-65-380 Legal Services -            -              -              -              
+10-65-395 Office Supplies 70         -              -              
+1,150$   -$            4,150$     4,150$     -$               TOTAL
 ELECTION
 X16A0T
 Town of Morrison
@@ -2492,7 +2492,7 @@ GL Actual Actual Approved Estimated Proposed
 Account Description 2024 2025 2026 2026 2027
 10-75-200 Outside Services -$
 100$          2,000$        -$              
-10-75-214 Developer Retaina ge Expense 152,693     74,572        75,000         120,000     120,000      
+10-75-214 Developer Retainage Expense 152,693     74,572       75,000        120,000    120,000     
 10-75-219 Code Enforcement - 11,840 
 - 
 4,960 
@@ -2505,10 +2505,10 @@ Education and Training - -
 - 
 - 
 10-75-380
-Legal Services 42,000       26,940        15,000        11,075       15,000       
-10-75-410 Engineering Servic es
+Legal Services 42,000       26,940       15,000        11,075       15,000       
+10-75-410 Engineering Services
 14,753       27,095       6,500          9,950         9,950         
-10-75-415 Planning and Zoning Services 37,862       42,679        58,000        58,000       58,000       
+10-75-415 Planning and Zoning Services 37,862       42,679       58,000        58,000       58,000       
 247,345$   183,226$  158,000$    203,985$  202,950$   TOTAL
 PLANNING & ZONING 
 X 1 7A0T
@@ -2516,28 +2516,28 @@ Town of Morrison
 2027 Budget
 GL Actual Actual Approved Estimated Proposed
 Account Description 2024 2025 2026 2026 2027
-10-70-100 Salaries and Wages 30,635$     22,138 $     11,400 $     18,287 $     10,800 $   
-10-70-102 Judge Salary 28,411       11,270        12,000       7,000          7,000       
-10-70-105 Payroll Taxes 2,343          1,691          2,500          1,500          900          
-10-70-110 Employee Benefits 2,452         3,412          3,200          2,500          1,250       
-10-70-115 Worker's Comp Insurance - CIRS A 596            1,997          700             2,442         
-10-70-200 Outside Services 438,382     12,153        10,000        14,000        10,000     
+10-70-100 Salaries and Wages 30,635$     22,138$     11,400$     18,287$     10,800$   
+10-70-102 Judge Salary 28,411       11,270       12,000       7,000         7,000       
+10-70-105 Payroll Taxes 2,343         1,691         2,500         1,500         900          
+10-70-110 Employee Benefits 2,452         3,412         3,200         2,500         1,250       
+10-70-115 Worker's Comp Insurance - CIRSA 596            1,997         700            2,442         
+10-70-200 Outside Services 438,382     12,153       10,000       14,000       10,000     
 10-70-205 Postage 1,096         485            120            -
 10-70-210 Printing and Duplication - 
 37 - 
 -
-10-70-215 Telephone/Internet 6,427         6,634 6,000          2,500          2,500       
+10-70-215 Telephone/Internet 6,427         6,634 6,000         2,500         2,500       
 10-70-225 Travel and Meetings 716            - 
 - 
 -
 10-70-305 Bank Fees 45,042       18,178       500            17,000       100          
-10-70-340 Dues/Membership 50              140             200            -
+10-70-340 Dues/Membership 50              140            200            -
 10-70-345 Education and Training 814            704            1,000         - 1,000 
 10-
-70-375 Utilities 2,318         1,946          3,000          2,500          2,500 
+70-375 Utilities 2,318         1,946         3,000         2,500         2,500 
 10-70-380
-Legal Services 14,400       6,198          10,000       20,000        10,000     
-10-70-395 Office Supplies 538            44               500            - 250 
+Legal Services 14,400       6,198         10,000       20,000       10,000     
+10-70-395 Office Supplies 538            44              500            - 250 
 10-70-397
 Operating Supplies 873            - 
 500 
@@ -2547,7 +2547,7 @@ Equipment Purchase -
 - 
 1,500 
 -
-575,092$   87,028$     63,120 $     87,730 $     46,550 $   TOTAL
+575,092$   87,028$     63,120$     87,730$     46,550$   TOTAL
 MUNICIPAL COURT
 X 1 8A0T
 Town of Morrison
@@ -2587,21 +2587,21 @@ Telephone/Internet 27,458           5,442             -
 - 
 - - 
 10-80-307
-Lease/purchase pymt - p 64,962           -  - - 
+Lease/purchase pymt - p 64,962           - - - 
 10-80-308
-Lease/purchase pymt - i 3,057             -  - - 
+Lease/purchase pymt - i 3,057             - - - 
 10-80-340
 Dues/Membership 1,613             - 
 - - 
 10-80-345
-Education and Training/V 8,625             -  - - 
+Education and Training/V 8,625             - - - 
 10-80-355
 Insurance Cirsa 69,442           (1,392)            - 
 - 
 10-80-360
 Gas, Oil and Vehicle Re 27,382           14 - - 
 10-80-370
-Repair and Maintenance 1,905             1,227              - - 
+Repair and Maintenance 1,905             1,227             - - 
 10-
 80-375 Utilities 2,703             443 - - 
 10-80-380
@@ -2619,7 +2619,7 @@ Ordinance, Firearms Su 3,637             -
 Hazardous Waste Autho 180 - - 240            
 10-80-615 Animal Control 3,080             - 
 - 619            1,000          
-10-80-618 JSCO Contract Law Enf o 66,000           470,256          - 362,625 470,256      
+10-80-618 JSCO Contract Law Enfo 66,000           470,256         - 362,625 470,256      
 10-80-700 Jeffcom/RMS 32,622           22,557           - 
 22,906 22,906        
 10-80-900 Equipment Purchase - - 
@@ -2631,37 +2631,37 @@ Town of Morrison
 2027 Budget
 GL Actual Actual Approved Estimated Proposed
 Account Description 2024 2025 2026 2026 2027
-10-85-100 Salaries and Wages 172,857 $   150,688 $  184,000 $  174,000 $   184,000 $  
-10-85-105 Payroll Taxes 13,251       11,464      15,500       10,073       15,500       
-10-85-110 Benefits 19,172       29,786      27,500       25,357       28,500       
-10-85-115 Worker's Comp. - CIRSA 23,345       18,770      23,000       23,000       15,500       
-10-85-200 Outside Services 43,551       32,916      40,000       35,000       35,000       
-10-85-215 Telephone/Internet 7,044         7,624         7,000         7,000          7,000         
-10-85-220 Trash Removal - SG&B 36,910       36,860      40,000       48,000       
-10-85-340 Dues/Membership 212            100            - 
+10-85-100 Salaries and Wages 172,857$   150,688$  184,000$  174,000$   184,000$  
+10-85-105 Payroll Taxes 13,251       11,464      15,500      10,073       15,500      
+10-85-110 Benefits 19,172       29,786      27,500      25,357       28,500      
+10-85-115 Worker's Comp. - CIRSA 23,345       18,770      23,000      23,000       15,500      
+10-85-200 Outside Services 43,551       32,916      40,000      35,000       35,000      
+10-85-215 Telephone/Internet 7,044         7,624        7,000        7,000         7,000        
+10-85-220 Trash Removal - SG&B 36,910       36,860      40,000      48,000       
+10-85-340 Dues/Membership 212            100           - 
 -
 10-85-350 Equipment Rental - - 
 - 
 -
-10-85-355 Insurance CIRSA - PC 9,249         18,529       31,000       31,000       38,380       
-10-85-360 Gas, Oil, and Vehicle Repair 9,619         14,053       10,000       10,000       12,000       
-10-85-365 Building and Repair Materials 29,122       1,269         20,000       100             10,000       
-10-85-370 Repair and Maintenance 4,174         1,016         5,000         -
-10-85-373 Tree Trimming & Planting 2,540          755            5,000         -
-10-85-375 Utilities 6,488         6,184         7,500         7,000          7,000         
+10-85-355 Insurance CIRSA - PC 9,249         18,529      31,000      31,000       38,380      
+10-85-360 Gas, Oil, and Vehicle Repair 9,619         14,053      10,000      10,000       12,000      
+10-85-365 Building and Repair Materials 29,122       1,269        20,000      100            10,000      
+10-85-370 Repair and Maintenance 4,174         1,016        5,000        -
+10-85-373 Tree Trimming & Planting 2,540         755           5,000        -
+10-85-375 Utilities 6,488         6,184        7,500        7,000         7,000        
 10-85-380 Training & Certs - - 
-7,000         -
-10-85-395 Office Supplies 301            907            - 
+7,000        -
+10-85-395 Office Supplies 301            907           - 
 10-
-85-397 Operating Supplies 6,513         12,810       17,000       15,000       15,000      
+85-397 Operating Supplies 6,513         12,810      17,000      15,000       15,000      
 10-
 85-410 Engineering Services (368) - 
 - 
 -
-10-85-702 Streets, Repairs & Maintenan c 12,955       19,161 40,000       40,000       40,000       
+10-85-702 Streets, Repairs & Maintenanc 12,955       19,161 40,000      40,000       40,000      
 10-85-900 Equipment Purchase 45,604       - 
-17,000 10,000       15,000       
-442,539$   362,892 $  496,500 $  435,529 $   422,880 $  TOTAL
+17,000 10,000       15,000      
+442,539$   362,892$  496,500$  435,529$   422,880$  TOTAL
 STREETS, GROUNDS & BUILDINGS
 X 2 0A0T
 Town of Morrison
@@ -2669,39 +2669,39 @@ Town of Morrison
 MNHM REVENUES
 GL Actual Actual Approved Estimated Proposed
 Account Description 2024 2025 2026 2026 2027
-10-33-405 SCFD Grant 140,564$  10,436$    46,413 $    46,413 $    46,413$    
-10-36-700 Sales & Admission 282,810     293,423     303,850     303,850     324,000    
-423,373$  303,859 $  350,263 $  350,263 $  370,413$  
+10-33-405 SCFD Grant 140,564$  10,436$    46,413$    46,413$    46,413$    
+10-36-700 Sales & Admission 282,810    293,423    303,850    303,850    324,000    
+423,373$  303,859$  350,263$  350,263$  370,413$  
 GL Actual Actual Approved Estimated Proposed
 Account Description 2024 2025 2026 2026 2027
-10-90-100 Salaries and Wages 196,783$  209,771 $  237,540 $  237,540 $  250,500$  
-10-90-105 Payroll Taxes 15,037      16,032       19,600       16,499       20,700      
-10-90-110 Employee Benefits 21,816      35,244       35,000       35,000       39,000      
-10-90-115 Worker's Comp. - CIRSA 696           1,991         700            2,253         702           
-10-90-200 Outside Services 10,275       12,486       12,000       12,000       12,000      
+10-90-100 Salaries and Wages 196,783$  209,771$  237,540$  237,540$  250,500$  
+10-90-105 Payroll Taxes 15,037      16,032      19,600      16,499      20,700      
+10-90-110 Employee Benefits 21,816      35,244      35,000      35,000      39,000      
+10-90-115 Worker's Comp. - CIRSA 696           1,991        700           2,253        702           
+10-90-200 Outside Services 10,275      12,486      12,000      12,000      12,000      
 10-90-205 Postage - 
 - 
-500            70              500           
-10-90-210 Printing and Duplication 979            521            1,000         139            1,000        
-10-90-215 Telephone/Internet 6,270        7,059         6,500         5,288         5,288        
+500           70             500           
+10-90-210 Printing and Duplication 979           521           1,000        139           1,000        
+10-90-215 Telephone/Internet 6,270        7,059        6,500        5,288        5,288        
 10-90-225 Travel and Meetings - 
-121 100            100            100           
-10-90-305 Bank Fees 13,876      9,030 5,100         5,100         5,100        
-10-90-340 Dues/Membership 345           686            1,000         173            1,000        
-10-90-345 Education and Training 409            500            367            500           
-10-90-358 Cost of goods sold 32,140      37,431       30,000       30,000       30,000      
-10-90-365 Buildin g and Repair Mater 599           1,866        2,000         2,000         2,000        
+121 100           100           100           
+10-90-305 Bank Fees 13,876      9,030 5,100        5,100        5,100        
+10-90-340 Dues/Membership 345           686           1,000        173           1,000        
+10-90-345 Education and Training 409           500           367           500           
+10-90-358 Cost of goods sold 32,140      37,431      30,000      30,000      30,000      
+10-90-365 Building and Repair Mater 599           1,866        2,000        2,000        2,000        
 10-90-370 Repair and Maintenance - 
-72 2,000        2,000         2,000        
-10-90-375 Utilities 3,121        3,472 3,200         3,200         3,200        
-10-90-386 Website 1,500        1,320 1,500         1,660         1,500        
-10-90-387 Advertising 14,532      9,429 10,000      10,000       10,000      
-10-90-395 Office Supplies 5,400        9,148 3,000         3,000         3,000        
-10-90-397 Operating Supplies 3,524        3,042 5,000         5,000         5,000        
-10-90-805 Sales Tax - Expense 5,056         9,207 5,500         5,500         5,500        
-10-90-806 Dig Expense 13,908      15,082       13,000       16,482       13,000      
-346,266$  383,009 $  394,740 $  393,371 $  411,590$  
-NET INCOME/(SUBSIDY) 77,108$    (79,150)$   (44,477) $   (43,108) $   (41,177)$   
+72 2,000        2,000        2,000        
+10-90-375 Utilities 3,121        3,472 3,200        3,200        3,200        
+10-90-386 Website 1,500        1,320 1,500        1,660        1,500        
+10-90-387 Advertising 14,532      9,429 10,000      10,000      10,000      
+10-90-395 Office Supplies 5,400        9,148 3,000        3,000        3,000        
+10-90-397 Operating Supplies 3,524        3,042 5,000        5,000        5,000        
+10-90-805 Sales Tax - Expense 5,056        9,207 5,500        5,500        5,500        
+10-90-806 Dig Expense 13,908      15,082      13,000      16,482      13,000      
+346,266$  383,009$  394,740$  393,371$  411,590$  
+NET INCOME/(SUBSIDY) 77,108$    (79,150)$   (44,477)$   (43,108)$   (41,177)$   
 TOTAL EXPENDITURES
 TOTAL REVENUES
 MNHM EXPENDITURES
@@ -2711,7 +2711,7 @@ Town of Morrison
 2027 Budget
 Actual Actual Approved Estimated Proposed
 Description 2024 2025 2026 2026 2027
-High Zone Mixer -  
+High Zone Mixer - 
 - 
 25,000           - 
 Red Roc
@@ -2752,78 +2752,78 @@ Town of Morrison
 2027 Budget
 Actual Actual Approved Estimated Proposed
 Account Description 2024 2025 2026 2026 2027
-20-40-100 Salaries and Wages 301,151$     292,210$    355,000$   350,000 $  370,000$   
-20-40-105 Payroll Taxes 22,658         21,844        32,000       30,000       34,000       
-20-40-110 Employee Benefits 43,760         48,813        61,000       57,000       67,000       
-20-40-115 Worker's Comp - CIRSA 12,741         15,780        12,000       14,706       11,000       
+20-40-100 Salaries and Wages 301,151$     292,210$    355,000$   350,000$  370,000$   
+20-40-105 Payroll Taxes 22,658         21,844        32,000       30,000      34,000       
+20-40-110 Employee Benefits 43,760         48,813        61,000       57,000      67,000       
+20-40-115 Worker's Comp - CIRSA 12,741         15,780        12,000       14,706      11,000       
 20-40-190 Compensated Absence Exp (780) 3,733 -
-20-40-200 Outside Services 12,805         17,553 15,000       18,000       18,000       
-20-40-205 Postage 1,589           1,911          1,800          2,500         1,000         
-20-40-215 Telephone/Internet 13,946         24,863        17,000       17,000       17,000       
-20-40-225 Travel and Meetings - - 800            - 800  
-20-40-335 Depreciation 158,990       164,892      - -  
-20-40-340 Dues/Membership 5,409           2,632          2,575         - 2,575  
-20-40-345 Education and Training 1,807           1,889          5,500         - 5,500  
-20-40-355 Insurance CIRSA 9,676           18,939        17,000       14,314       15,793 
-20-40-360 Gas, Oil and Vehicle Repair 7,281           17,135        7,000          18,000      20,000 
-20-40-375 Utilities 15,257         29,906        34,000       35,000       35,000 
-20-40-380 Legal Services 8,698           8,585          5,000          3,500         5,000         
+20-40-200 Outside Services 12,805         17,553 15,000       18,000      18,000       
+20-40-205 Postage 1,589           1,911          1,800         2,500        1,000         
+20-40-215 Telephone/Internet 13,946         24,863        17,000       17,000      17,000       
+20-40-225 Travel and Meetings - - 800            - 800 
+20-40-335 Depreciation 158,990       164,892      - - 
+20-40-340 Dues/Membership 5,409           2,632          2,575         - 2,575 
+20-40-345 Education and Training 1,807           1,889          5,500         - 5,500 
+20-40-355 Insurance CIRSA 9,676           18,939        17,000       14,314      15,793 
+20-40-360 Gas, Oil and Vehicle Repair 7,281           17,135        7,000         18,000      20,000 
+20-40-375 Utilities 15,257         29,906        34,000       35,000      35,000 
+20-40-380 Legal Services 8,698           8,585          5,000         3,500        5,000         
 20-40-395 Office Supplies 1,842           193             - (461) 
 20-40-397 Operating Supplies 10,075         12,745        14,000       14,000 14,000       
-20-40-401 SCADA 1,988           5,213          5,000          2,500         2,500         
-20-40-402 Lab Equip/Supplies 7,540           4,957          6,000          20,000      20,000       
-20-40-410 Engineering Services (1,804)         5,824          5,000          3,500         5,000         
-20-40-411 Mt. Carbon Engineering 28,291         7,094          10,000        5,000         5,000         
-20-40-500 Chemicals 26,352         72,155        55,000       75,000       75,000       
-20-40-505 Discharge Permit - 2,825 5,000         - 5,000  
-20-40-508 Sludge Hauling - 27,491 80,000       31,000       40,000 
-20-40-510 Lab Fees 3,081           4,880 8,000          5,000         5,000         
-20-40-511 Red Rocks Amp. Lab Fees 3,936           4,041          5,000          4,050         4,050         
-20-40-705 Line Repair and Maintenance 3,192           37,918        10,000       10,000       10,000       
-20-40-708 Plant Repair and Maintenanc e 22,372         25,372         20,000        10,000       20,000       
-20-40-803 Mobile Dewaterin g Unit Expen 18,088         13,271         20,000        1,500         20,000       
+20-40-401 SCADA 1,988           5,213          5,000         2,500        2,500         
+20-40-402 Lab Equip/Supplies 7,540           4,957          6,000         20,000      20,000       
+20-40-410 Engineering Services (1,804)         5,824          5,000         3,500        5,000         
+20-40-411 Mt. Carbon Engineering 28,291         7,094          10,000       5,000        5,000         
+20-40-500 Chemicals 26,352         72,155        55,000       75,000      75,000       
+20-40-505 Discharge Permit - 2,825 5,000         - 5,000 
+20-40-508 Sludge Hauling - 27,491 80,000       31,000      40,000 
+20-40-510 Lab Fees 3,081           4,880 8,000         5,000        5,000         
+20-40-511 Red Rocks Amp. Lab Fees 3,936           4,041          5,000         4,050        4,050         
+20-40-705 Line Repair and Maintenance 3,192           37,918        10,000       10,000      10,000       
+20-40-708 Plant Repair and Maintenance 22,372         25,372        20,000       10,000      20,000       
+20-40-803 Mobile Dewatering Unit Expen 18,088         13,271        20,000       1,500        20,000       
 20-40-900 Equipment Purchase - - 15,000       - 
 15,000 
 739,940$     
-894,663$    823,675$   741,109 $  843,218$   TOTAL
+894,663$    823,675$   741,109$  843,218$   TOTAL
 SEWER DEPARTMENT
 X 2 3A0T
 Town of Morrison
 2027 Budget
 Actual Actual Adopted Estimated Proposed
-Account Descripti on 2024 2025 2026 2026 2027
+Account Description 2024 2025 2026 2026 2027
 20-45-100 Salaries and Wages 301,148$     292,587$     355,000$     350,000$     370,000$       
 20-45-105 Payroll Taxes 22,658         22,019         32,000         29,000         34,000           
 20-45-110 Employee Benefits 43,757         48,862         61,000         58,000         67,000           
 20-45-115 Worker's Comp - CIRSA 18,316         17,869         22,983         24,599         17,724           
-20-45-190 Compensated Absence Exp (780) 3,733 - -  
-20-45-200 Outside Services 12,795         15,839  16,000         18,000         18,000           
+20-45-190 Compensated Absence Exp (780) 3,733 - - 
+20-45-200 Outside Services 12,795         15,839 16,000         18,000         18,000           
 20-45-205 Postage 1,589           1,911           2,000           2,000           2,000             
 20-45-215 Telephone/Internet 9,661           10,354         9,000           9,000           9,000             
 20-45-225 Travel and Meetings - - 800              - 800
 20-45-305 Bank Fees - - - - 5,000
-20-45-335 Depreciation 224,377       495,286       - -  
+20-45-335 Depreciation 224,377       495,286       - - 
 20-45-340 Dues/Membership 5,451           5,803           8,000           13,000         8,000             
-20-45-345 Education and Training 1,807           1,783           5,500           500  5,500             
+20-45-345 Education and Training 1,807           1,783           5,500           500 5,500             
 20-45-355 Insurance CIRSA 8,919           25,199         14,000         15,382         15,793           
-20-45-360 Gas, Oil and Vehicle Repair 5,783            9,977           7,000           7,000           9,000             
-20-45-370 Repair and Maintenance 1,048           - 20,000 -  
+20-45-360 Gas, Oil and Vehicle Repair 5,783           9,977           7,000           7,000           9,000             
+20-45-370 Repair and Maintenance 1,048           - 20,000 - 
 20-45-375 Utilities 92,856         115,230       93,000 93,000         93,000           
-20-45-380 Legal Services 17,111         20,067         15,000  10,000         10,000           
-20-45-381 Mount Carbon 8,277           - - -  
+20-45-380 Legal Services 17,111         20,067         15,000 10,000         10,000           
+20-45-381 Mount Carbon 8,277           - - - 
 20-45-395 Office Supplies 1,069           151              - (535) 
-20-45-397 Operating Supplies 10,740         3,395           15,000         15,000  15,000           
-20-45-398 Meters 71,230         20,515         38,000         76,000  55,000           
+20-45-397 Operating Supplies 10,740         3,395           15,000         15,000 15,000           
+20-45-398 Meters 71,230         20,515         38,000         76,000 55,000           
 20-45-401 SCADA 7,342           15,731         - 7,000 7,000             
 20-45-402 Lab Equip/Supplies 1,490           3,170           4,000           (1,955) 
-20-45-410 Engineering Services 41,895         37,782         30,000         47,000  40,000           
-20-45-411 Mt. Carbon Engineering 10,402         8,011           10,000         13,000  10,000           
+20-45-410 Engineering Services 41,895         37,782         30,000         47,000 40,000           
+20-45-411 Mt. Carbon Engineering 10,402         8,011           10,000         13,000 10,000           
 20-45-500 Chemicals 81,956         26,694         100,000       80,000 100,000         
 20-45-510 Lab Fees 4,570           6,397           10,000         7,000           7,000             
 20-45-700 Ditch Assessments 4,375           6,795           5,000           21,000         5,000             
-20-45-703 Raw Water Supply Costs 6,046           - 15,000 -  
-20-45-705 Line Repair and Maintenance 14,732         10,929         25,000  20,000         20,000           
-20-45-708 Plant Repair and Maintenance 34,620         14,858         15,000  20,000         20,000           
+20-45-703 Raw Water Supply Costs 6,046           - 15,000 - 
+20-45-705 Line Repair and Maintenance 14,732         10,929         25,000 20,000         20,000           
+20-45-708 Plant Repair and Maintenance 34,620         14,858         15,000 20,000         20,000           
 20-45-900 Equipment Purchase - - 15,000 - 15,000
 20-45-912 Reservoir II - - 5,000           - 5,000
 1,065,239$  1,240,946$  948,283$     932,991$     963,818$       TOTAL
@@ -2833,21 +2833,21 @@ Town of Morrison
 2027 Budget
 Actual Actual Approved Estimated Proposed
 Account Description 2024 2025 2026 2026 2027
-20-36-710 Misc. Rev (876) 242  -  -  17,000           
-20-36-805 Developer Reimbursements 87,362         47,744  50,000        75,000         50,000           
+20-36-710 Misc. Rev (876) 242 - - 17,000           
+20-36-805 Developer Reimbursements 87,362         47,744 50,000        75,000         50,000           
 20-36-815 Earnings on Deposits 201,290       255,946        205,000      270,000       200,000         
 20-37-910 Sewer Revenue - Flat Fees 448,320       539,312        610,000      590,000       610,000         
 20-37-915 Tap and Resource Fees 1,135,049    2,455,829     700,000      1,382,599    1,555,000      
 20-37-930 Water Use Revenue 768,419       942,130        1,150,000    1,000,000    1,150,000      
-20-37-935 Misc. Water/Sewer Revenu e 253,462       338,352         300,000       145,000        200,000          
-20-37-937 Mount Carbon Const. Wate r 31,086         4,866             2,500           5,000            5,000              
-20-37-939 Mount Carbon Eng. Reimb. 31,299         225,081         20,000         20,000          30,000            
-20-37-940 Mt. Carbon Operating  Rev 85,848         125,138         40,000         46,291          -  
+20-37-935 Misc. Water/Sewer Revenue 253,462       338,352        300,000      145,000       200,000         
+20-37-937 Mount Carbon Const. Water 31,086         4,866            2,500          5,000           5,000             
+20-37-939 Mount Carbon Eng. Reimb. 31,299         225,081        20,000        20,000         30,000           
+20-37-940 Mt. Carbon Operating  Rev 85,848         125,138        40,000        46,291         - 
 20-37-941
 Red Rocks Water - Infrast - - 4,800,000    200,000       8,700,000      
 20-37-942 Red Rocks WW Eng, Rev 8,054           - 10,000 - 
 20-37-943
-Red Rocks Water Employee 65,437         62,587           75,000         75,000          75,000            
+Red Rocks Water Employee 65,437         62,587          75,000        75,000         75,000           
 3,114,749$  4,997,227$   7,962,500$  3,808,890$  12,592,000$  TOTAL
 UTILITY FUND REVENUES
 X 2 5A0T
@@ -2857,13 +2857,13 @@ X 2 6A0T
 Town of Morrison 
 2027 Budget
 2027 2028 2029 2030 2031 2027-2031
-Museum Grounds Enhancement 55,000 $         55,000$            
-16 Acre/ East Area Planning 100,000 $       50,000 $        150,000 $          
-Travel Trailer - Museum (hauling) 15,000 $         15,000$            
+Museum Grounds Enhancement 55,000$         55,000$            
+16 Acre/ East Area Planning 100,000$       50,000$        150,000$          
+Travel Trailer - Museum (hauling) 15,000$         15,000$            
 Town Hall Facility Key_Camera System 15,000$         15,000$            
-Maintenance Shed Relocate 100,000 $       100,000$          
+Maintenance Shed Relocate 100,000$       100,000$          
 TOTAL 285,
-000$       50,000$        - $             - $              -$             335,000$          
+000$       50,000$        -$             -$              -$             335,000$          
 CAPITAL IMPROVEMENT PROGRAM
 GENERAL FUND
 2027 - 2031
@@ -2872,13 +2872,13 @@ Town of Morrison
 2027 Budget
 PROJECT TITLE 2027 2028 2029 2030 2031 2027-2031
 Red Rocks Amp. Water Tank 8,700,000$    8,700,000$           
-WWTP Expansion 6,000,000$    10,800,000 $  16,800,000 $         
+WWTP Expansion 6,000,000$    10,800,000$  16,800,000$         
 Raw Water Intake/ Pump Station 3,400,000$    3,400,000$           
 Morrison Operating Reservoir  $      500,000 500,000$              
 Watermain Replacement (Hwy 8) 50,000$         50,000$  
 ___________ -$  
 TOTAL 18,150,000$  
-11,300,000$  -$            - $           - $            29,450,000$         
+11,300,000$  -$            -$           -$            29,450,000$         
 CAPITAL IMPROVEMENT PROGRAM
 UTILITY FUND
 2027 - 2031
@@ -2989,7 +2989,7 @@ all actions shall require a majority vote of the Members present.
 B. Pursuant to Charter §3.10, C.R.S. § 24-6-402(4), and Bob's Rule 19, respectively, 
 emergency ordinances, motions to enter executive sessions, and motions to reconsider require a 
 two-thirds majority of the Members present for passage. 
-C. Each Member present must vote on each item unless the Member has a conflict of 
+C. Each Member present must vote on each item unless the M ember has a conflict of 
 3 
 10/16/2026 
 HTTPS://TOWNOFMORRISONGCC.SHAREPOINT.COM/SITES/ADMINISTRATIVEDATA/DOCUMENTS/BOARD OF TRUSTEES/BOARD 
@@ -3159,7 +3159,7 @@ A. A Member must raise their hand and be recognized by the Chair to be given the
 floor except for a point of order. 
 B. When a Member is speaking, no other Memb er or other person shall engage in 
 conversation or commit any other act tending to distractthat distracts  the attention of the Board  
-from the business before it. .  
+from the business before it. . 
 C. No Member shall be permitted to speak more than once on any subject until every 
 Member desiringwho wishes to be heardspeak has been afforded an opportunity to speakdo so. 
 109.  Voting. 
@@ -3191,7 +3191,7 @@ member recorded as having voted with the prevailing side may move to reconsider 
 next meeting, unless the ordinance, resolution or motion has taken effect. 
 B. A motion to reconsider shall require the affirmative vote of two-thirds of the 
 members present. 
-12.  Tabled or Postponed Action.  
+12.  Tabled or Postponed Action. 
 A. Any ordinance or resolution that has been tabled may be placed upon the floor for 
 consideration by a motion, properl y seconded and the affirmative vote of a majority of the 
 members present. 
@@ -3216,7 +3216,7 @@ B. A person who wishes to give public comment at a public hearing shall sign up 
 the Town Clerk before the start of the meeting.  
 C. All virtual public commenters shall have their camera on for the entirety of their 
 public comment.  
-D. The total time for publi c comment for each public hearing shall be forty-five (45) 
+D. The total time for public comment for each public hearing shall be forty-five (45) 
 5 
 10/15/2026 
 COMPARE RESULT 1 
@@ -3239,12 +3239,12 @@ of the Town and strive to advance the community’s quality of life  of the comm
 Trustee's goal;.  
 E. Each Board member will seek to maintain  a high standard of  personal conduct in 
 his or her relations with other Board members. Accordingly, each member will: 
-1) Be honest in all co mmunications including; 
+1) Be honest in all communications including; 
 (a) dealingCommunicate hone stly, address disagreements directly with 
 the person involved in a disagreement. 
 F.D. (b) communicating in the pres ent, not focusing, and focus  on current issues 
 rather than past issues andor personalities. 
-2) Address the issues and pr oblems, not personalities;  
+2) Address the issues and problems, not personalities;  
 G.E. 3) Listen to all viewpoints and consider the facts with an open mind before 
 deciding an issue;. 
 H.F. 4) Encourage and appreciate diversity of opinion;. 
@@ -3296,7 +3296,7 @@ full-time equivalent position. There are two positions suggested, a Deputy Town 
 Management Analyst (or another title). There are pros and cons to both. 
 The cost will vary depending on the position selected and will include salary, benefits, payroll 
 expenses, and related employment costs. 
-Deputy Town Manager vs. Management Analyst Considerations  
+Deputy Town Manager vs. Management Analyst Considerations 
  
 Key distinction. Both positions increase the Town's ability to complete important work, but they 
 address different needs. A Management Analyst adds professional workload capacity within the 
@@ -3355,7 +3355,7 @@ administrative needs may crowd out analytical and project work. Priorities and d
 must remain clear. 
 1 
 TOWN OF MORRISON 
-Management Analyst  
+Management Analyst 
 Proposed 2027 Position Description 
 Reports to Town Manager or designee 
 Department Town Manager's Office 
@@ -3449,7 +3449,7 @@ officials, employees, or professional advisors assigned that authority.
  
 1 
 TOWN OF MORRISON 
-Deputy Town Manager  
+Deputy Town Manager 
 Proposed Position Description 
 Reports to Town Manager 
 Department Town Manager's Office 

@@ -1,34 +1,6 @@
 # crawford
 
-## [crawford#0] 2025-11-10 | City Council | minutes
-- Staff: Bruce Bair, Grant Knowles, Chana Clawson, Angie Oates, Cindy Jones
-- APPROVAL OF THE AGENDA
-- Spring Water Project
-- Bruce Bair reported project is substantially complete
-- Total project cost remains under $400,000 of $537,000 grant
-- Minimal water service interruption expected during final valve installation
-- Staff Overtime Discussion
-- Bruce and Grant reported ~150 hours of overtime during project
-- Grant willing to accept comp time if appropriate
-- Bo clarified comp time for non-department heads requires mutual agreement and board direction
-- Water Fund: Proposed $10/month increase per meter; remainder from reserves
-- Sewer Fund: $21,000 deficit (~$6/tap); proposed 50/50 split between rate increase and reserves
-- Cindy and Chana collaborated on budget preparation
-- Public hearing scheduled for next meeting; final budget to be included in next packet
-- Resolution 6-2025 – Town Fee Schedule
-- Reviewed proposed fee schedule for consistency and transparency
-- Mileage reimbursement to follow IRS rate ($0.67/mile)
-- Building permit renewals to match original fee
-- Liquor license renewal fee set at $75
-- Special meeting fee set at $1,000
-- Public records request fee to follow statutory rate ($41.37/hour)
-- Nonprofit rental waivers: grandfathered events auto-waived; new requests require council approval
-- Bruce noted water budget strain and potential need for future rate increases
-- Cindy thanked for budget presentation; Chana credited for cover design
-- Public hearing and adoption of final budget
-- Fee schedule resolution
-
-## [crawford#1] 2025-11-24 | City Council | minutes
+## [crawford#0] 2025-11-24 | City Council | minutes
 - Date: November 24, 20257:00 p.m. Public Hearing followed by Regular Meeting
 - Staff: Bruce Bair, Grant Knowles, Chana Clawson, Angie Oates, Cindy Jones
 - Public hearing on the 2026 budget opened by Mayor Pro Tem Jeff Peed
@@ -60,7 +32,7 @@
 - Fee schedule review
 - Public hearing closed at 7:25 p.m
 
-## [crawford#2] 2026-01-12 | City Council | minutes
+## [crawford#1] 2026-01-12 | City Council | minutes
 - 2026 Municipal ElectionThree council seats (Jim, Jessica, Tim) are up for election. Candidate packets are available at Town Hall. Petitions are due January 26. Staff reviewed the intergovernmental agreement with the County Clerk
 - Council discussed the need for formal variance procedures, including applications, public notice, and fees
 - Town Hall Friday office hours were discussed; concerns included staffing costs. Item will return on a future agenda
@@ -69,7 +41,7 @@
 - Consultant & Town Clerk:Budget transmittal updated per DOLA requirements. Audit MDA completed; awaiting staff review. When it’s done, it will go to the state
 - Mayor’s Report:Mayor Johnson Thank you for a lively discussion. I like working with this board. Thank you, staff
 
-## [crawford#3] 2026-03-09 | City Council | minutes
+## [crawford#2] 2026-03-09 | City Council | minutes
 - APPROVAL OF THE AGENDA
 - Motion to approve the agenda by Jim Crook. Second: Gill Saunders Vote: All in favor. Motion carried
 - A brief clarification was requested by Jim Crook regarding a “Books and Bling” disbursement; staff confirmed it represented one month’s amount. Tim Pobirk made a motion to approve minutes and disbursements: Second: Jim Crook Vote: All in favor. Motion carried
@@ -96,7 +68,7 @@
 - Donation request received for Hotchkiss Sheep Camp Dog Trials; item will be placed on next agenda
 - Donation request: Hotchkiss Sheep Camp Dog Trials
 
-## [crawford#4] 2026-03-23 | City Council | minutes
+## [crawford#3] 2026-03-23 | City Council | minutes
 - Council reviewed a donation request from the Hotchkiss Sheep Camp Stock Dog Trials (May 8–10, 2026). A letter was read aloud describing the event’s history and purpose
 - Key discussion points:
 - Committee for Water/Sewer Rate Increase
@@ -115,7 +87,7 @@
 - Building permits may need clearer requirements
 - Fire season already active statewide
 
-## [crawford#5] 2026-04-27 | City Council | minutes
+## [crawford#4] 2026-04-27 | City Council | minutes
 - APPROVAL OF THE AGENDA
 - A change was noted to move “candidates or trustees” after announcements.Motion by Jeff Peed, second by Tim Pobirk, to approve the agenda with updates. Motion passed unanimously
 - There were no disbursements.Motion by Tim Pobirk to approve the minutes; second by Jim Crook. Motion passed unanimously
@@ -136,7 +108,7 @@
 - Tank replacement project remains on schedule for bidding in July
 - Inquiry about posting minutes earlier; clarified minutes cannot be posted until approved
 
-## [crawford#6] 2026-05-11 | City Council | minutes
+## [crawford#5] 2026-05-11 | City Council | minutes
 - APPROVAL OF THE AGENDA
 - Report from the Water Rate Committee
 - Committee members (Sarah, Bruce, Grant, Chana, Cindy, Gill) provided a detailed update
@@ -160,7 +132,7 @@
 - Access obtained for spring project reimbursement submissions; none submitted yet
 - Signed Pioneer Days detour authorization; requested certificate of insurance for event activities
 
-## [crawford#7] 2026-06-08 | City Council | minutes
+## [crawford#6] 2026-06-08 | City Council | minutes
 - APPROVAL OF THE AGENDA
 - Motion by Tim Pobirk, second by Jeff Peed, to approve the agenda. Motion passed unanimously
 - Council reviewed minutes and disbursements.Jeff Peed asked about DOI/BLM payment; staff clarified it is an annual payment for permit and road access
@@ -179,7 +151,7 @@
 - Several water leaks were repaired
 - Spring grant reimbursement received; closing paperwork underway
 
-## [crawford#8] 2026-06-15 | City Council | minutes
+## [crawford#7] 2026-06-15 | City Council | minutes
 - WORK SESSION MINUTES June 15, 2026 – 7:00 p.m. Work Session – Water Rate Discussion & Modeling
 - Staff: Bruce Bair, Chana Clawson, Cindy Jones, Angie Oates, Grant KnowlesAttorney: Bo Nerlin (absent)
 - APPROVAL OF THE AGENDA
@@ -212,6 +184,30 @@
 - Councilmembers participated actively in discussion
 - Mayor Johnson reiterated appreciation for the committee’s work and the success of Pioneer Days
 
+## [crawford#8] 2026-10-05 | City Council | minutes
+- Staff and others participating: Jeff Blanton; Angie Oates, Deputy Clerk; Grant Knowles, Public Works; Attorney
+- immediately entered Executive Session pursuant to C.R.S. S 24-6-402(4X0(l) to discuss personnel matters
+- 2. Approval of the Agenda
+- No motion to approve or amend the agenda was recorded
+- Budget Discussfon
+- Detailed budget discussion was not taken up. A request for a related discussion at the next meeting is
+- Tammy Broughton Water Rate Review
+- Not taken up; identified for the next meeting
+- Financial consultant. The Board considered engaging Jeff Blanton as a financial consultant in a contractor role
+- during the staffing transition, at the compensation previously discussed with him. The amount was not stated
+- Town Clerk recruitment. The Board discussed advertising the Town Clerk vacancy in the High Country
+- Shopper and on the Town's website. All applications would be reviewed by the full Board, which would select
+- finalists for interviews in executive session. Applications would continue to be accepted until the position was
+- No additional action was taken. Requests for future discussion are listed below
+- Mayor Johnson invited public non-agenda comments. No public comments were recorded
+- No separate report was given. Requests for the next meeting are listed below
+- The Board discussed the following items for the October 12 meeting:
+- Budget discussion, including water accounts with multiple uses that reportedly had not been billed for all uses
+- identified in a Public Works review in April. A trustee requested a decision regarding the effect on water
+- revenue and suggested inviting the affected account holder. No account holder was identified and no action
+- Executive session following the regular meeting to review Town Clerk applications and select finalists; finalist
+- interviews were tentatively discussed for the following Monday
+
 ## [crawford#9] 2026-10-12 | City Council | agenda
 - Crawford State Park water rate structure
 - Staff: Grant Knowles, Jeff Blanton
@@ -220,13 +216,48 @@
 - Budget discussion
 - 11. EXECUTIVE SESSION TO DISCUSS PERSONNEL MATTERS
 
-## [crawford#10] 2026-10-19 | City Council | agenda
-- Staff: Grant Knowles, Jeff Blanton
+## [crawford#10] 2026-10-19 | City Council | minutes
+- Staff and other participating: Public Works Director Grant Knowles, Finance Consultant Jeff Blanton, and
+- Ruben Santiago was present for the public employment-offer discussion
+- Executive Session: The stated purposes were interviewing a candidate for Town Clerk and discussing the
+- discuss personnel matters
+- 2. Approval of the Agenda
+- No agenda-approval motion was recorded
+- Mayor Johnson announced a work session for Monday, October 26, at 6:00 p.m. to discuss water rates at
+- Crawford State Park, followed by a regular meeting anticipated to begin at 7:00 p.m
+- Following executive session, the Board considered an employment offer to Ruben Santiago for the Town Clerk
+- his start date and any notice to his current employer. The Mayor stated that the matter would be reiterated, and
+- A Board member requested replacing the Town Clerk vacancy announcement on the marquee with notice that
+- water rates would change November 1. General agreement was expressed; no formal motion was recorded
+- No separate report was recorded
+- October 26: Crawford State Park water-rate work session at 6:00 p.m.; regular meeting anticipated at 7:00
 
-## [crawford#11] 2026-11-09 | City Council | agenda
-- Crawford State Park water rate structure
-- Staff: Grant Knowles, Jeff Blanton, Ruben Santiago
-- 2. APPROVAL OF THE AGENDA
-- Budget discussion
-- Resolution 6-2026 Designating Authorized Signatories
-- Address Access/Subdivision Fees & Town’s Fee Structure
+## [crawford#11] 2026-10-26 | City Council | minutes
+- Work Session - Grawford State Park Water Rates
+- Mayor Johnson started with the continuing discussion of Crawford State Park's water-rate structure
+- Jeff Blanton presented historicalwater use and billing information. He reported approximately one million
+- the July 2022 rate resolution, including a significant 2024 billing discrepancy. The 2024 usage records were
+- Mark Lehman, representing Crawford State Park, described the park's allocated operating budget, regional
+- budget adjustments, and potential service or staffing impacts of increased utility costs. He explained that park
+- improvements redistributed existing water use rather than adding campsites, and that the park maintains its
+- internal infrastructure. Board members discussed whether additional points of use should affect charges and
+- The Board discussed a separate customer classification for the park, rates reflecting its larger service line,
+- additional or virtual taps, guaranteed base revenue, and a separate usagetier structure. lllustrative base rate
+- proposals were discussed; no rate was adopted. [\Iembers emphasized equitable cost sharing, reliable
+- operating revenue, and future rate adjustments. Staff and park representatives were asked to develop
+- Board action by resolution
+- Staff and others participating: Jeff Blanton; Grant Knowles, Public Works; Ruben Santiago, incoming Town
+- 2. Approval of the Agenda
+- tVlinutes were not available and were deferred to the next meeting. No disbursement approvalwas recorded
+- Trustee Taylor thanked Finance Consultant Jeff Blanton and Public Works Director Grant Knowles for
+- equipment does not photograph vehicles or record license plates
+- The Undersheriff discussed patrol coverage, staffing, fraud complaints, and efforts to connect mental health
+- assistance with traffic surveys and sign options. The Board discussed speeding near the school and on town
+- streets, possible speed bumps, and additional sign locations. No expenditure was approved
+- Rael Forsberg requested driveway access from F Street for her property at 410 Highway 92. Grant Knowles
+- Motion: Mayor Pro-Tem Peed motioned to grant her the variance to where she can put her get a driveway with
+- a culvert off F Street. Following the Mayor's clarification that this was access approval rather than a variance,
+- The Mayor restated the action as approval of F Street access with a drainage culvert; Grant Knowles
+- Crawford Sfafe Park Water Rafes
+- Mayor Johnson stated that no action would be taken that evening. Discussion would continue following the
+- 2027 Budget Discussion

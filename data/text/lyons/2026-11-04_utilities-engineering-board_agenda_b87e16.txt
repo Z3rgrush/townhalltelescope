@@ -1,0 +1,297 @@
+DRAFT AGENDA TOWN OF LYONS 
+UTILITIES AND ENGINEERING BOARD (UEB) 
+HYBRID MEETING 
+LYONS TOWN HALL, 432 5TH AVENUE, LYONS, COLORADO 
+November 4, 2026, 4:30 - 6:00 pm 
+Opt
+ional Zoom Meeting - Please contact ueb_chair@townoflyons.com or 
+ACaplan@townoflyons.com for Zoom meeting link. 
+PAG
+E DOWN - Note that detailed content, if available, such as draft minutes and 
+presentations are provided in subsequent pages or through links directly below each 
+agenda item. 
+I. Roll Call
+II. Approve Agenda and Minutes from Past Meetings
+a. Approve Agenda
+b. Approve October 21, 2026 Minutes
+III. Audience Business
+IV. Staff Report
+a. Staff – Aaron Caplan
+b. Liaison – Jen Wingard
+c. UEB Chair – Jimm Vosburgh
+d. Member Updates
+V. Business
+a. 2027 Lyons Utility Budget Draft Review
+https://www.townoflyons.com/DocumentCenter/View/3433/Town-
+ofLyons_2027-Draft-Budget
+b. TOU Background & Current Feedback Discussion
+c. Drought Conditions Update
+d. BOT 2026-2028 Proposed Infrastructure Goals and Objectives
+VI
+. Summary of Action Items
+VII. Next Meeting and Requested Agenda Items
+a. November 18, 2026
+VIII. Adjournment
+P
+ersons needing accommodations or special assistance should contact the Town 
+at hr@townoflyons.com as soon as possible, but no later than 72 hours before 
+the scheduled meeting 
+ 
+ 
+DRAFT MINUTES 
+TOWN OF LYONS 
+UTILITIES AND ENGINEERING BOARD (UEB) 
+October 21, 2026, 4:30 - 6:00 pm 
+HYBRID MEETING 
+ 
+ROLL CALL 
+ 
+Chris Cope, Jason Gaines, Mike Karavas, Jim Kerr, Chris Meline, Jimm Vosburgh (chair) 
+Staff: Aaron 
+BOT: Mark Browning 
+Audience: None 
+ 
+APPROVE AGENDA AND MINUTES FROM PAST MEETINGS 
+• Approved Agenda and Minutes from Past Meetings.  
+− Agenda approved unanimously (6-0) 
+− October 7 Minutes approved unanimously (6-0) 
+ 
+AUDIENCE BUSINESS 
+• None. 
+REPORTS  
+• STAFF 
+▫ Lighting kickoff meeting 
+ Some of the lights might be delayed getting Dark Sky versions. 
+ Aaron and Justin are looking into smart controls and have down 
+selected to two. 
+ January 4 is the projected start. 
+ N-Line is the contractor. 
+▫ SCADA modems for the freshwater tank, PRVs, and lift stations are being 
+upgraded.  
+▫ Box Culvert 
+ Flagstone elements in design are not necessary as per the historic 
+commission. 
+ Flagstone vs pure concrete is about $2500 extra for design and $15k 
+extra for install.  
+ Stormwater fund doesn’t have excess cash to do this. 
+• BOT 
+▫ 2nd and 3rd Ave Stormwater meeting with local residents. 
+ 3rd Ave at 30% design. CDOT approval pending. 
+▫ Discussed strategic growth plan addition to comp plan. 
+ This is a state requirement. 
+ We have enough water if we decide to grow this much. 
+ Tebo architect came up with an idea of adding 20-30 residences,
+ev
+en if that would be a challenge.
+• UEB CHAIR
+▫ None
+• MEMBER BUSINESS
+▫ Meline attended the Northern Water meeting where they discussed uranium
+levels in the new Chimney Hollow reservoir.
+BUSINESS 
+• Utility rate recommendations for 2027 budget
+• Stormwater
+o CPI adjustment per code of 2.4%.
+o 10% increase will give us a bit of a surplus.
+o The fund will be basically empty after the box culvert is fixed.
+o UEB recommends 6% increase. 6-0.
+• Water / Wastewater
+o High priority sewer line replacement on 5th and McCall and north. This is
+projected to cost $365k.
+o WWTF is still not finalized so we need to control spending until that’s
+done. The water line will likely need to wait until 2028.
+o UEB recommends an increase of 2.4% to match CPI. 6-0.
+• Electric
+o The big problem is the $15k per month the Southwest Power Pool
+transmission cost increase that started in May and the expected MEAN
+rate increase.
+o 12% increase is needed to cover this increase along with Town salaries
+that are going up by the CPI.
+o UEB recommends 12%.  6-0.
+SUMMARY OF ACTION ITEMS 
+DECISIONS MADE 
+• Agenda approved unanimously. (6-0)
+• October 7 minutes approved unanimously. (6-0)
+• Recommendation to increase Stormwater rates 6%. (6-0)
+• Recommendation to increase Water/Wastewater rates 2.4%. (6-0)
+• Recommendation to increase Electric rates 12%. (6-0)
+NEXT MEETING AND REQUESTED AGENDA ITEMS 
+• November 4 is the next meeting.
+Time of Use (TOU) Electric Rates
+Update
+October 20, 2025
+B
+Draft Updated Rate Analysis
+
+More Colorado Town Going TOU
+● San Miguel Power Association (SMPA)
+– May 2025
+– 5 p.m. -9 p.m
+– 2 to 1 Peak to Non-Peak
+● Colorado Springs- 
+– Oct 2025
+– 5 p.m. -9 p.m
+– 4 to 1 Peak to Non-Peak
+● Considering
+– Fountain
+– Delta
+SMPA Sample Bill
+
+Required Software Changes
+●
+Sensus – Test meter already modified.
+●
+Caselle
+– New look of bills still needs designing
+– Changes still required
+– Will require individual update to every account ~ 1,000 
+accounts
+– Possibly pay Caselle to make make the changes
+●
+Express Bill Pay – Paper billing
+Proposed TOU Plan
+● Implement changes to Lyons meters and billing system prior to changing to
+time of use rates.
+● Keep all the TOU period rates at the current rate of $0.1339 per KWH on
+bills until transition.
+● Educate Customers on anticipated changes with articles in newsletter,
+Redstone Review, and Lyons Recorder.
+● Update town website.
+● Update TOU rate analysis again prior to rate changes.
+● Pass ordinance after changes made to software and billing system and
+transition to TOU during shoulder season when electric bills are lowest.
+Requested BOT Action
+● Authorize software updates to be made keeping 
+rates the constant for now.
+September 22, 2026
+Water Conditions
+Summary - WY 2026
+Observed temperature
+Temperatures in Water Year 2026 ( Oct 2025 - August 2026) continue
+to be firmly the warmest on the Colorado Climate Center ’ s 131- year
+record.  
+August 2026 ranked as the warmest August on record. This was the
+fourth record- breaking month during Water Year 2026: December, 
+February, March, and August. 
+So far, temperatures in September 2026 have been well above normal
+across most of the state. Parts of the Eastern Plains experienced
+temperatures up to 8° F above normal. 
+Observed precipitation
+This Water Year has been the 6th driest on record. Nowhere in the state
+experienced an unusually wet water year through August.  
+August 2026 was the 47th driest August on the period of record. 
+Southern Colorado was dry in August, parts of northwest Colorado and
+the eastern Plains were wetter than average. 
+So far, September 2026 has been much wetter than normal across most of the West Slope and the Eastern Plains. 
+Statewide September month- to- date precipitation is well above normal at 167% of the median. 
+Snowpack
+Statewide snow water equivalent ( SWE) was amongst the lowest on record. Peak SWE statewide occurred a
+month early ( early March) at just 51% of the median. 
+Snowpack has melted out in all basins. Median melt- out timing averaged 36 days ahead of normal. 
+Streamflows, Soil Moisture, & Reservoir Storage
+Observed streamflow from April through July was 28% of median statewide. August flows were 26% of the median
+and many runoff points established new periods of record minimums. 
+Soil moisture conditions have increased across gauges along the West Slope and parts of the Eastern Plains due to
+increased precipitation events. 
+Reservoir storage was 38% of capacity and 56% of median on September 1. 
+Storage is lower than last year in every basin except the South Platte. The
+Gunnison and Colorado Headwaters have the largest departures from last year. 
+Drought conditions
+Drought continues to impact Colorado, with record or near- record low
+streamflows and reservoir levels. 
+Approximately 88% of the state is in at least moderate drought ( D1).  
+Approximately 72% of the state is in at least severe drought ( D2).  
+Seasonal outlook
+El Niño is in place and strengthening, which tilts the odds toward wetter
+conditions for the rest of fall. However, the influence of El Niño on mountain
+snowpack remains uncertain. Colorado has never had a bad snow drought during
+a strong El Niño, but only one out of three Super El Niños ( WY 1983) had a huge snow year and
+well- above- average streamflows. The other two were closer to average ( 1998, 2016). There is also a small sample
+size of past strong El Niño years ( 1983, 1998, and 2016), and this year’ s may be stronger than all of them, so it is
+unclear if history is a good guide for making water management decisions. 
+The next Water Conditions Monitoring Committee Meeting will be on November 17, 2026. 
+Chair: Emily Adrid, CWCB
+Additional info at https:// cwcb. colorado. gov/ Water- Conditions- Monitoring- Committee
+Special thanks to Russ Schumacher, Colorado Climate Center and Nagam Bell, USDA Natural Resources Conservation Services
+C
+BOARD OF TRUSTEES 2026-2028 POTENTIAL GOALS AND OBJECTIVES
+WILDFIRE MITIGATION GOALS
+ Prior Accomplishments 2024-26
+o Incentivized Defensible Space with a rebate program
+o Leveraged county funds for matching grants and rebates
+o Adopted the State WUI Code
+o Completed and adopted the CWPP (in partnership with LFPD)
+o Completed mitigation projects in several locations
+ Proposed Goals and Objectives
+o Consider / Adopt Ordinance for Fire Risk Mitigation on Existing Properties
+o Formalize partnerships for mitigation efforts
+o Include Expenses for the Program in 2027 budget
+o Select pilot neighborhoods via survey
+o Hire / Educate / Initiate the Program
+o Continue Existing Programs
+o Implement mitigation measures on Town-owned properties
+o Pursue Available Grant Funding
+INFRASTRUCTURE
+ Prior Accomplishments 2024-26
+o Initiated the design and bid for the Dewatering, Blower, and UV/Odor Control
+Components of the WWTF Improvements and CDPHE Permitting Required
+o Pursued Funding for the Construction of Stormwater Improvements
+o Designed the SRTS Sidewalk near the Elementary School
+o Creäte a Long-Term Capital Investment Plan (at least five years, including
+funding sources
+o Completed PRV Replacement of Last Two Pressure-Reducing Valves
+o Cradle-to-Grave Life Cycle Asset Model for Water System
+D
+ Proposed Goals and Objectives
+o Complete the design and bid for replacement of the dewatering, blower, and 
+UV/Odor Control Components of the WWTF Improvements 
+o Obtain CDPHE Permitting Required for WWTF Upgrades
+o Complete the SRTS Project near the Elementary School
+o Complete High-Priority Flagstone Culvert Repairs
+o Complete Street and Sidewalk Projects as Budgeted
+o Complete Apple Valley Waterline Survey
+o Reapply for BRIC for 2nd and 3rd Avenue Project
+o If Awarded Grant, Design of Hwy 36 & Hwy 7 Ped and Bike Improvements
+o Continue Electrical Undergrounding as Funding Permits
+o Water Air Valve Replacements (mainly Apple Valley)
+o Do a Cradle-to-Grave Asset Model for Sanitary System
+o Replace Two VFDs at the Water Pump Station
+o Install Air/Vac Valve on Vasquez Ct
+o Martin Parcel and County Connection
+o Curb and Gutter on Seward
+o Pursue Highland Drive Box Culvert replacement with Developer
+o Carter Court Streambank Repairs
+o Riprap-lined ditch for Tank Hill Road
+o Inlet and storm sewer for 2nd Ave sump pump issues
+o Sidewalk and Crosswalk to Vintage Autos
+ECONOMIC DEVELOPMENT  & VITALITY
+ Prior Accomplishments 2024-26
+o Completed the Annexation and Initial Development of the Tebo and 
+Tamburello properties
+o Continued Support of the Hotel Development with TIF Extension
+o Supported Redevelopment of 402 Main with TIF and Use Tax Rebates
+o Worked with Lyons Properties on PUD for Wedding Venue
+o Created an online Community Calendar
+o Worked to Allow a Farmers Market on Town Property
+ Proposed Goals and Objectives
+o Form a Sundance Film Festival Task Force
+o Draft an Agreement for Use of Visitor Center by Lyons Creative District
+o Adopt an Incentive Policy for Filling Vacant Commercial Spaces
+o Consideration of Private Sauna on Public Property
+o Support the Revitalization of the Chamber of Commerce
+o Meet with CDOT and OEDIT to Discuss Planet Blue Grass Expansion
+ HOUSING
+ Prior Accomplishments 2024-26
+o Revised the Municipal Code to Include Mixed-Used Zoning, Expedited Review of 
+Affordable/Attainable Housing Applications, and made modifications to ADU 
+Language
+o Met Proposition 123 Goals
+o Met ADU Friendly Community Status 
+o DRCOG is developing a Regional Housing Strategy that we will fall under
+ Proposed Goals and Objectives
+o Completion of Strategic Growth and Water Supply Elements for Comprehensive 
+Plan (SB24-174)
+o Maintain Prop 123 compliance
+o Complete Housing Action Plan
+o Residential Zoning Review and Possible Updates
+o Partnership with BCHA on Seward Street Redevelopment

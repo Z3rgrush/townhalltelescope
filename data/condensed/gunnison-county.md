@@ -1,90 +1,6 @@
 # gunnison-county
 
-## [gunnison-county#0] 2026-08-04 | Board of County Commissioners | minutes
-- Approved by BOCC August 18, 2026
-- GUNNISON COUNTY HOUSING AUTHORITY MEETING:
-- 1. PULLED FOR FURTHER DISCUSSION: Acknowledgment of Executive Secretary’s Signature;
-- Legal Services Agreement; Dufford Waldeck – Commissioner Smith asked what legal services this
-- the same company that had been used by the Gunnison Valley Regional Housing Authority
-- Executive Secretary’s Signature on the Legal Services Agreement with Dufford Waldeck . Motion
-- the minutes of July 21, 2026 Regular Meeting as amended and also the July 28, 2026 Special Meeting
-- SCHEDULING: The Upcoming Meetings Schedule was discussed and updated
-- consent agenda with the exception of item number one which will be discussed separately. Motion carried
-- 1. PULLED FOR FURTHER DISCUSSION: Acknowledgment of County Manager’s Signature; Fifth
-- Amendment to Professional Services Agreement; Sarah Elzay; Extension until 12/31/2026
-- 2. Contract Change Order No. 1; 3 -08-0030-066-2026/068-2026/069-2026; Gunnison-Crested Butte
-- 3. Region 10 Area Agency on Aging Service Contract Terms and Conditions; Region 10; Health and
-- 4. Acknowledgment of County Manager’s Signature; Emergency Facilities & Land Use Agreement;
-- 6. Recommendation for Award; Solid Waste Rate Study RFP; Raftelis; Public Works; $87,693
-- 7. Acknowledgment of County Manager’s Signature; Professional Services Agreement; Integrity Pro
-- 8. Funding Agreement; Gunnison County Metropolitan Recreation District; Gunnison County
-- Substance Abuse Prevention Project (GCSAPP); 5/2026 to 4/2027; $10,000
-- 10. Contract Amendment #4; 2025*0120; 2027*0147 Amd #4; Colorado Department of Public Health
-- 11. Revision No. One to Amendment No. Six to Contract Dated September 29, 2022 Between Jviation,
-- 12. Professional Services Agreement; Integrity Pro Roofing Colorado; Fairgrounds; 7/21/2026 to
-- 13. Acknowledgment of County Manager’s Signature; Commercial Lease Agreement; Precision
-- Contractors LLC; Gunnison-Crested Butte Regional Airport; 7/1/2026 to 12/31/2026; $5,000
-- PULLED FOR FURTHER DISCUSSION: 1. Acknowledgment of County Manager’s Signature; Fifth
-- Houck asked for clarification on where this contract is due to multiple extensions. CM Birnie explained that
-- Commissioner Smith to approve consent agenda number 1 after further discussion . Motion carried
-- 1. Whetstone – CM Birnie relayed that p ermanent water is currently onsite, and they are gaining
-- A RESOLUTION OF THE BOARD OF COUNTY COMMISSIONERS OF GUNNISON COUNTY,
-- PROGRAM APPLICATION FOR THE GUNNISON COUNTY CUMBERLAND PASS REHABILITATION
-- PROJECT AND COMMITTING TO PROJECT IMPLEMENTATION, MATCHING FUNDS, AND LONG
-
-## [gunnison-county#1] 2026-08-04 | Gunnison County Housing Authority | minutes
-- Approved by BOCC August 18, 2026
-- GUNNISON COUNTY HOUSING AUTHORITY MEETING:
-- 1. PULLED FOR FURTHER DISCUSSION: Acknowledgment of Executive Secretary’s Signature;
-- Legal Services Agreement; Dufford Waldeck – Commissioner Smith asked what legal services this
-- the same company that had been used by the Gunnison Valley Regional Housing Authority
-- Executive Secretary’s Signature on the Legal Services Agreement with Dufford Waldeck . Motion
-- the minutes of July 21, 2026 Regular Meeting as amended and also the July 28, 2026 Special Meeting
-- SCHEDULING: The Upcoming Meetings Schedule was discussed and updated
-- consent agenda with the exception of item number one which will be discussed separately. Motion carried
-- 1. PULLED FOR FURTHER DISCUSSION: Acknowledgment of County Manager’s Signature; Fifth
-- Amendment to Professional Services Agreement; Sarah Elzay; Extension until 12/31/2026
-- 2. Contract Change Order No. 1; 3 -08-0030-066-2026/068-2026/069-2026; Gunnison-Crested Butte
-- 3. Region 10 Area Agency on Aging Service Contract Terms and Conditions; Region 10; Health and
-- 4. Acknowledgment of County Manager’s Signature; Emergency Facilities & Land Use Agreement;
-- 6. Recommendation for Award; Solid Waste Rate Study RFP; Raftelis; Public Works; $87,693
-- 7. Acknowledgment of County Manager’s Signature; Professional Services Agreement; Integrity Pro
-- 8. Funding Agreement; Gunnison County Metropolitan Recreation District; Gunnison County
-- Substance Abuse Prevention Project (GCSAPP); 5/2026 to 4/2027; $10,000
-- 10. Contract Amendment #4; 2025*0120; 2027*0147 Amd #4; Colorado Department of Public Health
-- 11. Revision No. One to Amendment No. Six to Contract Dated September 29, 2022 Between Jviation,
-- 12. Professional Services Agreement; Integrity Pro Roofing Colorado; Fairgrounds; 7/21/2026 to
-- 13. Acknowledgment of County Manager’s Signature; Commercial Lease Agreement; Precision
-- Contractors LLC; Gunnison-Crested Butte Regional Airport; 7/1/2026 to 12/31/2026; $5,000
-- PULLED FOR FURTHER DISCUSSION: 1. Acknowledgment of County Manager’s Signature; Fifth
-- Houck asked for clarification on where this contract is due to multiple extensions. CM Birnie explained that
-- Commissioner Smith to approve consent agenda number 1 after further discussion . Motion carried
-- 1. Whetstone – CM Birnie relayed that p ermanent water is currently onsite, and they are gaining
-- A RESOLUTION OF THE BOARD OF COUNTY COMMISSIONERS OF GUNNISON COUNTY,
-- PROGRAM APPLICATION FOR THE GUNNISON COUNTY CUMBERLAND PASS REHABILITATION
-- PROJECT AND COMMITTING TO PROJECT IMPLEMENTATION, MATCHING FUNDS, AND LONG
-
-## [gunnison-county#2] 2026-08-11 | Board of County Commissioners | minutes
-- Approved by BOCC August 18, 2026
-- MAJOR IMPACT SKETCH PLAN; LUC -25-00004; LOWER VERZUH RANCH DELIBERATION :
-- Assistant County Manager for Community and Economic Development April Kroner and Planning Director
-- Hillary Seminick were present for discussion
-- 1. A Resolution Approving LUC -25-00004, A Land Use Change Permit Application for Sketch Plan
-- Review of a Major Impact Project for Lower Verzuh Ranch Subdivision
-- before the Board again, but they must first decide if another Public Hearing is desired
-- Commissioner Smith relayed she is not inclined to continue another Public Hearing due to not having new
-- information that could come forward. She emphasized keeping project s efficient and she doesn’t believe
-- either have another Public Hearing or discuss this at a further meeting. Additionally , the level of public
-- Resolution standards. He then emphasized that some questions were unable to be answered at the sketch
-- plan level, and if the proposal does get to further levels in the process , there will still be opportunity for
-- the public process. Therefore, he does not believe an additional Public Hearing is necessary
-- Commissioner Puckett Daniels reiterated her desire to either have another Public Hearing or push the
-- disagreed with Commissioner Puckett Daniels on her comment regarding approval changing the north valley
-- changed from 2-2 to 5-0. She reiterated her previously stated desires. Commissioner Houck explained the
-- County Commissioners not hold an additional Public Hearing for the application LUC -25-00004
-- opposition. It was decided to postpone the application decision until the next Board of County
-
-## [gunnison-county#3] 2026-08-18 | Board of County Commissioners | minutes
+## [gunnison-county#0] 2026-08-18 | Board of County Commissioners | minutes
 - Approved by BOCC September 15, 2026
 - the August 4, 2026 Regular Meeting minutes as amended and the August 11, 2026 Special Meeting minutes
 - SCHEDULING: The Upcoming Meetings Schedule was discussed and updated
@@ -116,7 +32,7 @@
 - by Commissioner Smith to approve Resolution, 2026-29, A Resolution Approving the Referral of a
 - 0.50% Countywide Sales Tax for the Purpose of Supporting Roads, Bridges, and Related
 
-## [gunnison-county#4] 2026-08-18 | Gunnison-Hinsdale Board of Human Services | minutes
+## [gunnison-county#1] 2026-08-18 | Gunnison-Hinsdale Board of Human Services | minutes
 - Jaeger were present for discussion
 - Scholarships allowed 94 families to be served through awards. ECCC Jaegar gave updates regarding
 - the Family, Friend, Neighbor Caregiver Support , CPR Certification Training, Nurturing the Young
@@ -126,9 +42,9 @@
 - Levine confirmed he doesn’t feel like there is an additional need. Commissioner Houck lastly asked
 - Minutes Approved October 20, 2026:
 
-## [gunnison-county#5] 2026-09-01 | Board of Equalization | minutes
+## [gunnison-county#2] 2026-09-01 | Board of Equalization | minutes
 - Approved by BOCC September 15, 2026
-- APPEAL HEARING; SENIOR PROPERTY TAX EXEMPTION; CBOE# SR01; R042452; T. HAACK :
+- APPEAL HEARING; SENIOR PROPERTY TAX EXEMPTION; CBOE# SR01; R042452; T. HAACK:
 - Petitioner Teresa Haack and Deputy Assessor Vicki Hildreth were present for discussion
 - 1. Open Appeal Hearing. Commissioner Puckett Daniels opened the Appeal Hearing at 8:31 am
 - 2. Public Notice Confirmation. Clerk Perry confirmed that the Appeal Hearing had been properly public
@@ -147,7 +63,7 @@
 - this morning that we deny the senior property tax appeal for CBOE# SR01, R042452, as presented this
 - Commissioner Smith noted the amount being collected in taxes and the growth of assessed value
 - GUNNISON COUNTY HOUSING AUTHORITY MEETING:
-- consent agenda for the Gunnison County Housing Authority as presented this morning. Motion carried
+- consent agenda for the Gunnison County Housing Authority as presented this morning . Motion carried
 - 1. Contract Amendment Agreement; PY26 Mountain View Apartments; Energy Outreach Colorado
 - SCHEDULING: The Upcoming Meetings Schedule was discussed and updated
 - 1. Professional Services Agreement; Integrity Pro Roofing; Ann Zugelder Building; Facilities; 9/1/2026
@@ -158,9 +74,9 @@
 - Airfield Pavement Maintenance CDAG Project No. 25 -GUC-01; Maxwell Asphalt Inc; $719,737,
 - 6. First Amendment; Gunnison -Crested Butte Regional Airport; Food and Beverage/Retail and
 
-## [gunnison-county#6] 2026-09-01 | Gunnison County Housing Authority | minutes
+## [gunnison-county#3] 2026-09-01 | Gunnison County Housing Authority | minutes
 - Approved by BOCC September 15, 2026
-- APPEAL HEARING; SENIOR PROPERTY TAX EXEMPTION; CBOE# SR01; R042452; T. HAACK :
+- APPEAL HEARING; SENIOR PROPERTY TAX EXEMPTION; CBOE# SR01; R042452; T. HAACK:
 - Petitioner Teresa Haack and Deputy Assessor Vicki Hildreth were present for discussion
 - 1. Open Appeal Hearing. Commissioner Puckett Daniels opened the Appeal Hearing at 8:31 am
 - 2. Public Notice Confirmation. Clerk Perry confirmed that the Appeal Hearing had been properly public
@@ -179,7 +95,7 @@
 - this morning that we deny the senior property tax appeal for CBOE# SR01, R042452, as presented this
 - Commissioner Smith noted the amount being collected in taxes and the growth of assessed value
 - GUNNISON COUNTY HOUSING AUTHORITY MEETING:
-- consent agenda for the Gunnison County Housing Authority as presented this morning. Motion carried
+- consent agenda for the Gunnison County Housing Authority as presented this morning . Motion carried
 - 1. Contract Amendment Agreement; PY26 Mountain View Apartments; Energy Outreach Colorado
 - SCHEDULING: The Upcoming Meetings Schedule was discussed and updated
 - 1. Professional Services Agreement; Integrity Pro Roofing; Ann Zugelder Building; Facilities; 9/1/2026
@@ -190,9 +106,9 @@
 - Airfield Pavement Maintenance CDAG Project No. 25 -GUC-01; Maxwell Asphalt Inc; $719,737,
 - 6. First Amendment; Gunnison -Crested Butte Regional Airport; Food and Beverage/Retail and
 
-## [gunnison-county#7] 2026-09-01 | Board of County Commissioners | minutes
+## [gunnison-county#4] 2026-09-01 | Board of County Commissioners | minutes
 - Approved by BOCC September 15, 2026
-- APPEAL HEARING; SENIOR PROPERTY TAX EXEMPTION; CBOE# SR01; R042452; T. HAACK :
+- APPEAL HEARING; SENIOR PROPERTY TAX EXEMPTION; CBOE# SR01; R042452; T. HAACK:
 - Petitioner Teresa Haack and Deputy Assessor Vicki Hildreth were present for discussion
 - 1. Open Appeal Hearing. Commissioner Puckett Daniels opened the Appeal Hearing at 8:31 am
 - 2. Public Notice Confirmation. Clerk Perry confirmed that the Appeal Hearing had been properly public
@@ -211,7 +127,7 @@
 - this morning that we deny the senior property tax appeal for CBOE# SR01, R042452, as presented this
 - Commissioner Smith noted the amount being collected in taxes and the growth of assessed value
 - GUNNISON COUNTY HOUSING AUTHORITY MEETING:
-- consent agenda for the Gunnison County Housing Authority as presented this morning. Motion carried
+- consent agenda for the Gunnison County Housing Authority as presented this morning . Motion carried
 - 1. Contract Amendment Agreement; PY26 Mountain View Apartments; Energy Outreach Colorado
 - SCHEDULING: The Upcoming Meetings Schedule was discussed and updated
 - 1. Professional Services Agreement; Integrity Pro Roofing; Ann Zugelder Building; Facilities; 9/1/2026
@@ -222,17 +138,17 @@
 - Airfield Pavement Maintenance CDAG Project No. 25 -GUC-01; Maxwell Asphalt Inc; $719,737,
 - 6. First Amendment; Gunnison -Crested Butte Regional Airport; Food and Beverage/Retail and
 
-## [gunnison-county#8] 2026-09-08 | Board of County Commissioners | agenda
+## [gunnison-county#5] 2026-09-08 | Board of County Commissioners | agenda
 - County Manager’s reports may include administrative items not listed. Regular Meetings, Public Hearings, and Special Meetings are video recorded and ACTION MAY BE
 - Please Note: Packet materials for the above discussions will be available on the Gunnison County website at
 
-## [gunnison-county#9] 2026-09-15 | Gunnison County Housing Authority | minutes
+## [gunnison-county#6] 2026-09-15 | Gunnison County Housing Authority | minutes
 - Approved by BOCC October 6, 2026
 - GUNNISON COUNTY HOUSING AUTHORITY MEETING:
 - be present for the budget amendment
-- AGREEMENTS AND C.R.S. § 24- 6-402(4)(E)(I), FOR DETERMINING POSITIONS RELATIVE TO
+- AGREEMENTS AND C.R.S. § 24-6-402(4)(E)(I), FOR DETERMINING POSITIONS RELATIVE TO
 - THE MATTER THAT MAY BE SUBJECT TO NEGOTIATIONS, DEVELOPING STRATEGY FOR
-- receiving legal advice on the proposed Mineral Point Property agreements and C.R.S. § 24 -6-402(4)(e)(I),
+- receiving legal advice on the proposed Mineral Point Property agreements and C.R.S. § 24-6-402(4)(e)(I),
 - for determining positions relative to the matter that may be subject to negotiations, developing strategy
 - Executive Secretary for the Housing Authority Matthew Birnie, Assistant County Manager (for Operations
 - Commissioners, and County Attorney Matthew Hoyt . The motion was amended to include Chief Finance
@@ -258,13 +174,13 @@
 - 1. Development Improvement Agreement; LUC-25-00038; Simco Ventures LLC
 - 2. Acknowledgment of County Manager’s Signature; Professional Services Agreement; Right Around
 
-## [gunnison-county#10] 2026-09-15 | Board of County Commissioners | minutes
+## [gunnison-county#7] 2026-09-15 | Board of County Commissioners | minutes
 - Approved by BOCC October 6, 2026
 - GUNNISON COUNTY HOUSING AUTHORITY MEETING:
 - be present for the budget amendment
-- AGREEMENTS AND C.R.S. § 24- 6-402(4)(E)(I), FOR DETERMINING POSITIONS RELATIVE TO
+- AGREEMENTS AND C.R.S. § 24-6-402(4)(E)(I), FOR DETERMINING POSITIONS RELATIVE TO
 - THE MATTER THAT MAY BE SUBJECT TO NEGOTIATIONS, DEVELOPING STRATEGY FOR
-- receiving legal advice on the proposed Mineral Point Property agreements and C.R.S. § 24 -6-402(4)(e)(I),
+- receiving legal advice on the proposed Mineral Point Property agreements and C.R.S. § 24-6-402(4)(e)(I),
 - for determining positions relative to the matter that may be subject to negotiations, developing strategy
 - Executive Secretary for the Housing Authority Matthew Birnie, Assistant County Manager (for Operations
 - Commissioners, and County Attorney Matthew Hoyt . The motion was amended to include Chief Finance
@@ -290,7 +206,7 @@
 - 1. Development Improvement Agreement; LUC-25-00038; Simco Ventures LLC
 - 2. Acknowledgment of County Manager’s Signature; Professional Services Agreement; Right Around
 
-## [gunnison-county#11] 2026-09-16 | Gunnison Basin Sage-grouse Strategic Committee | agenda
+## [gunnison-county#8] 2026-09-16 | Gunnison Basin Sage-grouse Strategic Committee | agenda
 - GUNNISON BASIN SAGE-GROUSE STRATEGIC COMMITTEE
 - Approval of May 20, 2026 Meeting Minutes
 - Approval of June 17, 2026 Meeting Minutes
@@ -300,72 +216,78 @@
 - times are approximate. Regular Meetings, Public Hearings, and Special Meetings are recorded and ACTION MAY BE TAKEN ON ANY
 - Topic: Gunnison Basin Sage-Grouse Strategic Committee
 
-## [gunnison-county#12] 2026-09-22 | Board of County Commissioners | agenda
+## [gunnison-county#9] 2026-09-22 | Board of County Commissioners | agenda
 - County Manager’s reports may include administrative items not listed. Regular Meetings, Public Hearings, and Special Meetings are video recorded and ACTION MAY BE
 - Legislative Priorities Discussion
 - Please Note: Packet materials for the above discussions will be available on the Gunnison County website at
 
-## [gunnison-county#13] 2026-10-06 | Board of County Commissioners | agenda
-- County Manager’s reports may include administrative items not listed. Regular Meetings, Public Hearings, and Special Meetings are video recorded and ACTION MAY BE
+## [gunnison-county#10] 2026-10-06 | Board of County Commissioners | minutes
+- Approved by BOCC November 3, 2026
 - GUNNISON COUNTY HOUSING AUTHORITY MEETING:
-- Consent Agenda: These items will not be discussed unless requested by a Commissioner or citizen. Items removed from consent
-- agenda for discussion may be rescheduled later in this meeting, or at a future meeting
+- approve the consent agenda as presented. Motion carried unanimously
 - 1. Acknowledgment of Executive Secretary’s Signature; FolioScreen Trusted Renter Application and
 - Agreement; AppFolio Property Manager
 - 2. Acknowledgment of Executive Secretary’s Signature; AppFolio Payment Services Application and
-- 3. Contract Amendment Agreement; Energy Outreach Colorado Efficiency; Alpha Mechanical Solutions LLC;
-- Minutes Approval
-- 1. Acknowledgment of County Manager’s Signature; Grant Amendment #3; CTGG1 QAAA 2025 -2669;
-- 2. Contract for Services; Victim Advocate Program; Town of Crested Butte , Town of Mt. Crested Butte,
+- 3. Contract Amendment Agreement; Energy Outreach Colorado Efficiency; Alpha Mechanical Solutions
+- approve the minutes for September 15, 2026 as amended per the discussion. Motion carried unanimously
+- SCHEDULING: The Upcoming Meetings Schedule was discussed and updated
+- approve the consent agenda as presented today. Motion carried unanimously
+- 1. Acknowledgment of County Manager’s Signature; Grant Amendment #3; CTGG1 QAAA 2025-2669;
+- 2. Contract for Services; Victim Advocate Program; Town of Crested Butte, Town of Mt. Crested Butte,
 - 3. Gunnison County Attorney Amended Employment Agreement; Attorney’s Office
-- Computer-Aided Dispatch (CAD) and Records Management System (RMS) Group Contract and Cost
-- 5. Professional Services Agreement; Gunnison Hinsdale Youth Services; Juvenile Services; 7/1/2026 to
-- 6. Professional Services Agreement; High Altitude Driving School, LLC; Juvenile Services; 10/1/2026 to
-- 7. Funding Agreement; Gunnison County Metropolitan Recreation District ; Health and Human Services;
+- Contract and Cost Allocation; Sheriff’s Office; 2027-2028; $86,375
+- 5. Professional Services Agreement; Gunnison Hinsdale Youth Services; Juvenile Services; 7/1/2026
+- 6. Professional Services Agreement; High Altitude Driving School, LLC; Juvenile Services; 10/1/2026
+- 7. Funding Agreement; Gunnison County Metropolitan Recreation District; Health and Human
 - 8. Professional Services Agreement; Owl & Fox Counseling, LLC; Juvenile Services; 10/1/2026 to
 - 9. A Resolution Establishing and Amending the Policy for Appointments to Boards and Commissions
-- Managed by Gunnison County a nd Other Organizations ; This Resolution Supersedes Resolution Nos
-- 10. Second Chance Program Youth -Serving Organization Agreement; Action for Healthy Kids; Juvenile
+- Managed by Gunnison County and Other Organizations; This Resolution Supersedes Resolution Nos
+- 10. Second Chance Program Youth-Serving Organization Agreement; Action for Healthy Kids; Juvenile
 - 11. Contract Amendment #1; 27 IHGA 206354; Colorado Department of Human Services; Health and
-- 12. Acknowledgment of County Manager’s Signature; Affiliation Agreement Between the Board of Trustees
+- 12. Acknowledgment of County Manager’s Signature; Affiliation Agreement Between the Board of
 - 13. Grant Application; Gunnison Home Association; GV-HEAT; 1/1/2027 to 9/30/2027; $10,000
-- 1. Letter of Support; Colorado Parks and Wildlife’s Colorado Wildlife Habitat Stamp Program
-- Hearing; Petition for Abatement or Refund of Taxes; Property Tax Years 2023 , 2024 & 2025; R043689; Parcel
-- A Resolution Approving LUC -25-00043 a Land Use Change Permit Application for a Minor Impact Project for
-- A Resolution Approving LUC-24-00036, a Land Use Change Permit Application for a Minor Impact Project for the
-- A Resolution Amending the Gunnison County Land Use Resolution and Amending Resolution No. 25-19 Schedule
+- 1. Letter of Support; Colorado Parks and Wildlife’s Colorado Wildlife Habitat Stamp Program – CM
+- application deadline being before the next regular meeting. The Board agreed
+- HEARING; PETITION FOR ABATEMENT OR REFUND OF TAXES; PROPERTY TAX YEARS 2023,
+- Mast and Petitioner Jason Thumlert were present for discussion
+- 1. Open Abatement Hearing. Commissioner Puckett Daniels opened the Abatement Hearing at 8:40
+- 2. Public Notice Confirmation. Clerk Perry confirmed that the Abatement Hearing had been properly
+- 3. Identify Ex Parte Communications. There were no ex parte communications identified
 
-## [gunnison-county#14] 2026-10-06 | Gunnison County Housing Authority | agenda
-- County Manager’s reports may include administrative items not listed. Regular Meetings, Public Hearings, and Special Meetings are video recorded and ACTION MAY BE
+## [gunnison-county#11] 2026-10-06 | Gunnison County Housing Authority | minutes
+- Approved by BOCC November 3, 2026
 - GUNNISON COUNTY HOUSING AUTHORITY MEETING:
-- Consent Agenda: These items will not be discussed unless requested by a Commissioner or citizen. Items removed from consent
-- agenda for discussion may be rescheduled later in this meeting, or at a future meeting
+- approve the consent agenda as presented. Motion carried unanimously
 - 1. Acknowledgment of Executive Secretary’s Signature; FolioScreen Trusted Renter Application and
 - Agreement; AppFolio Property Manager
 - 2. Acknowledgment of Executive Secretary’s Signature; AppFolio Payment Services Application and
-- 3. Contract Amendment Agreement; Energy Outreach Colorado Efficiency; Alpha Mechanical Solutions LLC;
-- Minutes Approval
-- 1. Acknowledgment of County Manager’s Signature; Grant Amendment #3; CTGG1 QAAA 2025 -2669;
-- 2. Contract for Services; Victim Advocate Program; Town of Crested Butte , Town of Mt. Crested Butte,
+- 3. Contract Amendment Agreement; Energy Outreach Colorado Efficiency; Alpha Mechanical Solutions
+- approve the minutes for September 15, 2026 as amended per the discussion. Motion carried unanimously
+- SCHEDULING: The Upcoming Meetings Schedule was discussed and updated
+- approve the consent agenda as presented today. Motion carried unanimously
+- 1. Acknowledgment of County Manager’s Signature; Grant Amendment #3; CTGG1 QAAA 2025-2669;
+- 2. Contract for Services; Victim Advocate Program; Town of Crested Butte, Town of Mt. Crested Butte,
 - 3. Gunnison County Attorney Amended Employment Agreement; Attorney’s Office
-- Computer-Aided Dispatch (CAD) and Records Management System (RMS) Group Contract and Cost
-- 5. Professional Services Agreement; Gunnison Hinsdale Youth Services; Juvenile Services; 7/1/2026 to
-- 6. Professional Services Agreement; High Altitude Driving School, LLC; Juvenile Services; 10/1/2026 to
-- 7. Funding Agreement; Gunnison County Metropolitan Recreation District ; Health and Human Services;
+- Contract and Cost Allocation; Sheriff’s Office; 2027-2028; $86,375
+- 5. Professional Services Agreement; Gunnison Hinsdale Youth Services; Juvenile Services; 7/1/2026
+- 6. Professional Services Agreement; High Altitude Driving School, LLC; Juvenile Services; 10/1/2026
+- 7. Funding Agreement; Gunnison County Metropolitan Recreation District; Health and Human
 - 8. Professional Services Agreement; Owl & Fox Counseling, LLC; Juvenile Services; 10/1/2026 to
 - 9. A Resolution Establishing and Amending the Policy for Appointments to Boards and Commissions
-- Managed by Gunnison County a nd Other Organizations ; This Resolution Supersedes Resolution Nos
-- 10. Second Chance Program Youth -Serving Organization Agreement; Action for Healthy Kids; Juvenile
+- Managed by Gunnison County and Other Organizations; This Resolution Supersedes Resolution Nos
+- 10. Second Chance Program Youth-Serving Organization Agreement; Action for Healthy Kids; Juvenile
 - 11. Contract Amendment #1; 27 IHGA 206354; Colorado Department of Human Services; Health and
-- 12. Acknowledgment of County Manager’s Signature; Affiliation Agreement Between the Board of Trustees
+- 12. Acknowledgment of County Manager’s Signature; Affiliation Agreement Between the Board of
 - 13. Grant Application; Gunnison Home Association; GV-HEAT; 1/1/2027 to 9/30/2027; $10,000
-- 1. Letter of Support; Colorado Parks and Wildlife’s Colorado Wildlife Habitat Stamp Program
-- Hearing; Petition for Abatement or Refund of Taxes; Property Tax Years 2023 , 2024 & 2025; R043689; Parcel
-- A Resolution Approving LUC -25-00043 a Land Use Change Permit Application for a Minor Impact Project for
-- A Resolution Approving LUC-24-00036, a Land Use Change Permit Application for a Minor Impact Project for the
-- A Resolution Amending the Gunnison County Land Use Resolution and Amending Resolution No. 25-19 Schedule
+- 1. Letter of Support; Colorado Parks and Wildlife’s Colorado Wildlife Habitat Stamp Program – CM
+- application deadline being before the next regular meeting. The Board agreed
+- HEARING; PETITION FOR ABATEMENT OR REFUND OF TAXES; PROPERTY TAX YEARS 2023,
+- Mast and Petitioner Jason Thumlert were present for discussion
+- 1. Open Abatement Hearing. Commissioner Puckett Daniels opened the Abatement Hearing at 8:40
+- 2. Public Notice Confirmation. Clerk Perry confirmed that the Abatement Hearing had been properly
+- 3. Identify Ex Parte Communications. There were no ex parte communications identified
 
-## [gunnison-county#15] 2026-10-13 | Board of County Commissioners | minutes
+## [gunnison-county#12] 2026-10-13 | Board of County Commissioners | minutes
 - Approved by BOCC October 20, 2026
 - GUNNISON COUNTY 2027 BUDGET DRAFT PROPOSAL #1: Chief Finance Officer Melissa LaMonica,
 - for discussion
@@ -382,79 +304,146 @@
 - SCHEDULE GUNNISON COUNTY BUDGET PUBLIC HEARING:
 - that we set the public hearing that will take place on December 8th at 5:30 in the evening in the Board of
 
-## [gunnison-county#16] 2026-10-20 | Board of County Commissioners | agenda
-- County Manager’s reports may include administrative items not listed. Regular Meetings, Public Hearings, and Special Meetings are video recorded and ACTION MAY BE
-- Consent Agenda: These items will not be discussed unless requested by a Commissioner or citizen. Items removed from consent
-- agenda for discussion may be rescheduled later in this meeting, or at a future meeting
-- GUNNISON COUNTY HOUSING AUTHORITY MEETING:
-- 1. Acknowledgment of Executive Secretary’s Signature; Professional Services Agreement; Gunnison RAM
-- Hearing Officer Recommendations for Properties appealed to the CBOE:
-- listed above: 2026 Hearings, Recommendations & Decisions
-- Minutes Approval
-- 2. Professional Services Agreement; Energy -1 Engineering LLC; Facilities; 10/20/2026 to 12/31/2026;
-- 4. Acknowledgment; Purchase Order 2027*4777; Health and Human Services; 10/6/2026 to 9/30/2027;
-- 5. Ratification; Letter of Support; Crested Butte Land Trust; Application for the Colorado Wildlife Habitat
-- 6. Notice of Award; G3956356; Department of Health and Human Services Health Resources and Services
-- 7. Notice of Award; DE356565; Department of Health and Human Services Health Resources and Services
-- 3. September 2026 Purchase Card Report
-- 4. August 2026 Sales and Local Marketing Tax Report
-- Unscheduled Public Comment: Limit to 5 minutes per item. No formal action can be taken at this meeting
-- Commissioner Items: Commissioners will discuss among themselves activities that they have recently participated in that they believe
-- other Commissioners and/or members of the public may be interested in hearing about
-- (See separate agenda)
-- Please Note: Packet materials for the above discussions will be available on the Gunnison County website at
-
-## [gunnison-county#17] 2026-10-20 | Board of Equalization | agenda
-- County Manager’s reports may include administrative items not listed. Regular Meetings, Public Hearings, and Special Meetings are video recorded and ACTION MAY BE
-- Consent Agenda: These items will not be discussed unless requested by a Commissioner or citizen. Items removed from consent
-- agenda for discussion may be rescheduled later in this meeting, or at a future meeting
-- GUNNISON COUNTY HOUSING AUTHORITY MEETING:
-- 1. Acknowledgment of Executive Secretary’s Signature; Professional Services Agreement; Gunnison RAM
-- Hearing Officer Recommendations for Properties appealed to the CBOE:
-- listed above: 2026 Hearings, Recommendations & Decisions
-- Minutes Approval
-- 2. Professional Services Agreement; Energy -1 Engineering LLC; Facilities; 10/20/2026 to 12/31/2026;
-- 4. Acknowledgment; Purchase Order 2027*4777; Health and Human Services; 10/6/2026 to 9/30/2027;
-- 5. Ratification; Letter of Support; Crested Butte Land Trust; Application for the Colorado Wildlife Habitat
-- 6. Notice of Award; G3956356; Department of Health and Human Services Health Resources and Services
-- 7. Notice of Award; DE356565; Department of Health and Human Services Health Resources and Services
-- 3. September 2026 Purchase Card Report
-- 4. August 2026 Sales and Local Marketing Tax Report
-- Unscheduled Public Comment: Limit to 5 minutes per item. No formal action can be taken at this meeting
-- Commissioner Items: Commissioners will discuss among themselves activities that they have recently participated in that they believe
-- other Commissioners and/or members of the public may be interested in hearing about
-- (See separate agenda)
-- Please Note: Packet materials for the above discussions will be available on the Gunnison County website at
-
-## [gunnison-county#18] 2026-10-20 | Gunnison County Housing Authority | agenda
-- County Manager’s reports may include administrative items not listed. Regular Meetings, Public Hearings, and Special Meetings are video recorded and ACTION MAY BE
-- Consent Agenda: These items will not be discussed unless requested by a Commissioner or citizen. Items removed from consent
-- agenda for discussion may be rescheduled later in this meeting, or at a future meeting
-- GUNNISON COUNTY HOUSING AUTHORITY MEETING:
-- 1. Acknowledgment of Executive Secretary’s Signature; Professional Services Agreement; Gunnison RAM
-- Hearing Officer Recommendations for Properties appealed to the CBOE:
-- listed above: 2026 Hearings, Recommendations & Decisions
-- Minutes Approval
-- 2. Professional Services Agreement; Energy -1 Engineering LLC; Facilities; 10/20/2026 to 12/31/2026;
-- 4. Acknowledgment; Purchase Order 2027*4777; Health and Human Services; 10/6/2026 to 9/30/2027;
-- 5. Ratification; Letter of Support; Crested Butte Land Trust; Application for the Colorado Wildlife Habitat
-- 6. Notice of Award; G3956356; Department of Health and Human Services Health Resources and Services
-- 7. Notice of Award; DE356565; Department of Health and Human Services Health Resources and Services
-- 3. September 2026 Purchase Card Report
-- 4. August 2026 Sales and Local Marketing Tax Report
-- Unscheduled Public Comment: Limit to 5 minutes per item. No formal action can be taken at this meeting
-- Commissioner Items: Commissioners will discuss among themselves activities that they have recently participated in that they believe
-- other Commissioners and/or members of the public may be interested in hearing about
-- (See separate agenda)
-- Please Note: Packet materials for the above discussions will be available on the Gunnison County website at
-
-## [gunnison-county#19] 2026-10-20 | Gunnison-Hinsdale Board of Human Services | agenda
+## [gunnison-county#13] 2026-10-20 | Gunnison-Hinsdale Board of Human Services | agenda
 - Minutes Approval
 - 1. Contract Amendment #1; 27 IHGA 206356; 7/1/2026 to 6/30/2026; $23,698
 - Please Note: Packet materials for the above discussions will be available on the Gunnison County website
 
-## [gunnison-county#20] 2026-10-27 | Board of County Commissioners | agenda
+## [gunnison-county#14] 2026-10-20 | Board of County Commissioners | minutes
+- Approved by BOCC November 3, 2026
+- GUNNISON COUNTY HOUSING AUTHORITY MEETING:
+- 1. Acknowledgment of Executive Secretary’s Signature; Professional Services Agreement; Gunnison
+- HEARING OFFICER RECOMMENDATIONS FOR PROPERTIES APPEALED TO THE CBOE: Hearing
+- Officer Walter Sorrentino and County Assessor Alexandra Cohen were present for discussion
+- reclassified as agricultural due to information given to the Assessor from the petitioner since the Hearing
+- CBOE: County Assessor Alexandra Cohen was present for discussion
+- CBS Block 6 LLC all came to an agreement with the Assessor’s Office regarding their property values
+- as well as having some Board of Assessment appeal changes. Additionally, some natural resources tax rates
+- SCHEDULING: The Upcoming Meetings Schedule was discussed and updated
+- to approve the 2027 Gunnison County Holiday Schedule as presented in the information in our
+- consent agenda with the exception of item 6, which will be discussed separately . Motion carried
+- 2. Professional Services Agreement; Energy-1 Engineering LLC; Facilities; 10/20/2026 to 12/31/2026;
+- 4. Acknowledgment; Purchase Order 2027*4777; Health and Human Services; 10/6/2026 to
+- 5. Ratification; Letter of Support; Crested Butte Land Trust; Application for the Colorado Wildlife
+- 6. PULLED FOR FURTHER DISCUSSION - Notice of Award; G3956356; Department of Health and
+- 7. Notice of Award; DE356565; Department of Health and Human Services Health Resources and
+- PULLED FOR FURTHER DISCUSSION:
+- 6. Notice of Award; G3956356; Department of Health and Human Services Health Resources and
+- commented that is a policy decision to determine if the award is worth the terms. ACM Reynolds
+- discussion until the end of the BOCC Regular Meeting in order to briefly look deeper into the
+- VOUCHERS AND TRANSFERS APPROVAL : Chief Finance Officer Melissa LaMonica and Deputy Chief
+- Finance Officer Mark Rozman were present for discussion
+- Houck to approve the voucher report in the amount of $6,860,069.48
+- Commissioner Houck to approve the cash transfer in the amount of $18,916,673.91
+- 3. September 2026 Purchase Card Report – The Board did not pose any questions about this report
+- 4. August 2026 Sales and Local Marketing Tax Report – The Board did not pose any questions about
+- UNSCHEDULED PUBLIC COMMENT:
+- some substantive responses by the end of the month. She hopes to have further discussions
+- 2. Cinthia Saenz – Commissioner Smith attended the presentation and highlighted her services to
+- 3. Road and Bridge – Commissioner Smith has been continuing her public outreach
+- Meeting – Commissioner Smith noted this meeting had conversations regarding feedback to
+
+## [gunnison-county#15] 2026-10-20 | Board of Equalization | minutes
+- Approved by BOCC November 3, 2026
+- GUNNISON COUNTY HOUSING AUTHORITY MEETING:
+- 1. Acknowledgment of Executive Secretary’s Signature; Professional Services Agreement; Gunnison
+- HEARING OFFICER RECOMMENDATIONS FOR PROPERTIES APPEALED TO THE CBOE: Hearing
+- Officer Walter Sorrentino and County Assessor Alexandra Cohen were present for discussion
+- reclassified as agricultural due to information given to the Assessor from the petitioner since the Hearing
+- CBOE: County Assessor Alexandra Cohen was present for discussion
+- CBS Block 6 LLC all came to an agreement with the Assessor’s Office regarding their property values
+- as well as having some Board of Assessment appeal changes. Additionally, some natural resources tax rates
+- SCHEDULING: The Upcoming Meetings Schedule was discussed and updated
+- to approve the 2027 Gunnison County Holiday Schedule as presented in the information in our
+- consent agenda with the exception of item 6, which will be discussed separately . Motion carried
+- 2. Professional Services Agreement; Energy-1 Engineering LLC; Facilities; 10/20/2026 to 12/31/2026;
+- 4. Acknowledgment; Purchase Order 2027*4777; Health and Human Services; 10/6/2026 to
+- 5. Ratification; Letter of Support; Crested Butte Land Trust; Application for the Colorado Wildlife
+- 6. PULLED FOR FURTHER DISCUSSION - Notice of Award; G3956356; Department of Health and
+- 7. Notice of Award; DE356565; Department of Health and Human Services Health Resources and
+- PULLED FOR FURTHER DISCUSSION:
+- 6. Notice of Award; G3956356; Department of Health and Human Services Health Resources and
+- commented that is a policy decision to determine if the award is worth the terms. ACM Reynolds
+- discussion until the end of the BOCC Regular Meeting in order to briefly look deeper into the
+- VOUCHERS AND TRANSFERS APPROVAL : Chief Finance Officer Melissa LaMonica and Deputy Chief
+- Finance Officer Mark Rozman were present for discussion
+- Houck to approve the voucher report in the amount of $6,860,069.48
+- Commissioner Houck to approve the cash transfer in the amount of $18,916,673.91
+- 3. September 2026 Purchase Card Report – The Board did not pose any questions about this report
+- 4. August 2026 Sales and Local Marketing Tax Report – The Board did not pose any questions about
+- UNSCHEDULED PUBLIC COMMENT:
+- some substantive responses by the end of the month. She hopes to have further discussions
+- 2. Cinthia Saenz – Commissioner Smith attended the presentation and highlighted her services to
+- 3. Road and Bridge – Commissioner Smith has been continuing her public outreach
+- Meeting – Commissioner Smith noted this meeting had conversations regarding feedback to
+
+## [gunnison-county#16] 2026-10-20 | Gunnison County Housing Authority | minutes
+- Approved by BOCC November 3, 2026
+- GUNNISON COUNTY HOUSING AUTHORITY MEETING:
+- 1. Acknowledgment of Executive Secretary’s Signature; Professional Services Agreement; Gunnison
+- HEARING OFFICER RECOMMENDATIONS FOR PROPERTIES APPEALED TO THE CBOE: Hearing
+- Officer Walter Sorrentino and County Assessor Alexandra Cohen were present for discussion
+- reclassified as agricultural due to information given to the Assessor from the petitioner since the Hearing
+- CBOE: County Assessor Alexandra Cohen was present for discussion
+- CBS Block 6 LLC all came to an agreement with the Assessor’s Office regarding their property values
+- as well as having some Board of Assessment appeal changes. Additionally, some natural resources tax rates
+- SCHEDULING: The Upcoming Meetings Schedule was discussed and updated
+- to approve the 2027 Gunnison County Holiday Schedule as presented in the information in our
+- consent agenda with the exception of item 6, which will be discussed separately . Motion carried
+- 2. Professional Services Agreement; Energy-1 Engineering LLC; Facilities; 10/20/2026 to 12/31/2026;
+- 4. Acknowledgment; Purchase Order 2027*4777; Health and Human Services; 10/6/2026 to
+- 5. Ratification; Letter of Support; Crested Butte Land Trust; Application for the Colorado Wildlife
+- 6. PULLED FOR FURTHER DISCUSSION - Notice of Award; G3956356; Department of Health and
+- 7. Notice of Award; DE356565; Department of Health and Human Services Health Resources and
+- PULLED FOR FURTHER DISCUSSION:
+- 6. Notice of Award; G3956356; Department of Health and Human Services Health Resources and
+- commented that is a policy decision to determine if the award is worth the terms. ACM Reynolds
+- discussion until the end of the BOCC Regular Meeting in order to briefly look deeper into the
+- VOUCHERS AND TRANSFERS APPROVAL : Chief Finance Officer Melissa LaMonica and Deputy Chief
+- Finance Officer Mark Rozman were present for discussion
+- Houck to approve the voucher report in the amount of $6,860,069.48
+- Commissioner Houck to approve the cash transfer in the amount of $18,916,673.91
+- 3. September 2026 Purchase Card Report – The Board did not pose any questions about this report
+- 4. August 2026 Sales and Local Marketing Tax Report – The Board did not pose any questions about
+- UNSCHEDULED PUBLIC COMMENT:
+- some substantive responses by the end of the month. She hopes to have further discussions
+- 2. Cinthia Saenz – Commissioner Smith attended the presentation and highlighted her services to
+- 3. Road and Bridge – Commissioner Smith has been continuing her public outreach
+- Meeting – Commissioner Smith noted this meeting had conversations regarding feedback to
+
+## [gunnison-county#17] 2026-10-27 | Board of County Commissioners | agenda
 - County Manager’s reports may include administrative items not listed. Regular Meetings, Public Hearings, and Special Meetings are video recorded and ACTION MAY BE
 - 2027 Gunnison County Budget Work Session:
 - 1. Road and Bridge
+- Please Note: Packet materials for the above discussions will be available on the Gunnison County website at
+
+## [gunnison-county#18] 2026-11-03 | Board of County Commissioners | agenda
+- County Manager’s reports may include administrative items not listed. Regular Meetings, Public Hearings, and Special Meetings are video recorded and ACTION MAY BE
+- Consent Agenda: These items will not be discussed unless requested by a Commissioner or citizen. Items removed from consent
+- agenda for discussion may be rescheduled later in this meeting, or at a future meeting
+- Minutes Approval
+- 3. Professional Services Agreement; Gunnison Ram Construction; GV-HEAT; 8/1/2026 to 10/31/2027;
+- 5. Contract Amendment #1; 27 IHGA 206354; Health and Human Services; 7/1/2026 to 6/30/2027;
+- 7. Professional Services Agreement; Walter Sorrentino; CBOE Hearing Officer; 11/3/2026 to 11/2/2028
+- 8. Amendment to Intergovernmental Agreement for Winter Road Maintenance; Town of Pitkin, State of
+- 9. Acknowledgment of County Manager’s Signature; Town of Crested Butte; Second Amended Utility
+- Extension Agreement to Provide Water and Sewer Service
+- Professional Services Agreement; HDR Engineering, Inc; Public Works; 11/3/2026 to 7/1/2028; $791,327
+- Gunnison Valley Land Preservation Fund Grant Agreement; The Trust for Public Land; Stirrup Bar Ranch
+- Unscheduled Public Comment: Limit to 5 minutes per item. No formal action can be taken at this meeting
+- Commissioner Items: Commissioners will discuss among themselves activities that they have recently participated in that they believe
+- other Commissioners and/or members of the public may be interested in hearing about
+- developing strategy for negotiations and instructing negotiators, related to the recovery of funds owed to the
+- County under contract
+- developing strategy for negotiations and instructing negotiators, related to Parcel # 2917-261-48-001 and Parcel
+- 2027 Gunnison County Budget Work Session:
+- Please Note: Packet materials for the above discussions will be available on the Gunnison County website at
+
+## [gunnison-county#19] 2026-11-10 | Board of County Commissioners | agenda
+- County Manager’s reports may include administrative items not listed. Regular Meetings, Public Hearings, and Special Meetings are video recorded and ACTION MAY BE
+- Airport Master Plan Project Update
+- 2027 Gunnison County Budget Work Session:
+- 1. Housing Authority Administration Fund
+- 2. Whetstone Housing Fund
+- 3. Capital Improvement Plan (CIP)
 - Please Note: Packet materials for the above discussions will be available on the Gunnison County website at

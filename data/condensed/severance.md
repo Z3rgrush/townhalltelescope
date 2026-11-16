@@ -1,20 +1,17 @@
 # severance
 
-## [severance#0] 2026-08-11 | Town Council | agenda
+## [severance#0] 2026-08-19 | Planning Commission | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 
-## [severance#1] 2026-08-19 | Planning Commission | agenda
-- 3 S. Timber Ridge Parkway, Severance, CO 80550
-
-## [severance#2] 2026-09-02 | Citizen Advisory Board | agenda
+## [severance#1] 2026-09-02 | Citizen Advisory Board | agenda
 - CITIZEN ADVISORY BOARD / COMPREHENSIVE PLAN ADVISORY COMMITTEE CANCELED
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - Citizen Advisory Board / Comprehensive Plan Advisory Committee Meeting
 
-## [severance#3] 2026-09-07 | Youth Council | agenda
+## [severance#2] 2026-09-07 | Youth Council | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 
-## [severance#4] 2026-09-16 | Planning Commission | agenda
+## [severance#3] 2026-09-16 | Planning Commission | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - 3. Approval of Agenda
 - 4. Approval of Minutes January 21, 2026
@@ -31,7 +28,7 @@
 - infrastructure for new development
 - Commission approval may be sought for administrative actions in association with staff reports
 
-## [severance#5] 2026-09-16 | Planning Commission | agenda
+## [severance#4] 2026-09-16 | Planning Commission | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - 3. Approval of Agenda
 - 4. Approval of Minutes January 21, 2026
@@ -76,7 +73,7 @@
 - Promote public health, safety, and welfare while preserving a noticed public hearing before
 - Legal Staff is requesting the Planning Commission review, discuss, and approve PC-2026-02R for the
 
-## [severance#6] 2026-09-22 | Town Council | agenda
+## [severance#5] 2026-09-22 | Town Council | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - 1. Pg. 4 - 2027 Capital Improvement Program (CIP) Final Draft Discussion
 - Staff Presentation: Nicholas Wharton, Town Manager
@@ -103,7 +100,7 @@
 - Ordinance 2026-12: An Ordinance of the Town Council of the Town of Severance,
 - Colorado, approving the consolidated service plan for Northgate Lakes Metropolitan
 
-## [severance#7] 2026-09-22 | Town Council | agenda
+## [severance#6] 2026-09-22 | Town Council | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - 1. Pg. 4 - 2027 Capital Improvement Program (CIP) Final Draft Discussion
 - Staff Presentation: Nicholas Wharton, Town Manager
@@ -144,7 +141,7 @@
 - 2027 Water Acquisition Program (Additional Funds Added)
 - 2027 Town Park Improvement Program (Additional Funds Added for a Restroom at Blue
 
-## [severance#8] 2026-10-05 | Youth Council | agenda
+## [severance#7] 2026-10-05 | Youth Council | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - 3. Approval of Minutes 8.3.26
 - 4. Public Comment
@@ -158,7 +155,7 @@
 - Staff Presentation: Kayli Adams
 - C. FUTURE DISCUSSION ITEMS
 
-## [severance#9] 2026-10-05 | Youth Council | agenda
+## [severance#8] 2026-10-05 | Youth Council | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - 3. Approval of Minutes 8.3.26
 - 4. Public Comment
@@ -195,7 +192,7 @@
 - Social Media Discussion
 - Town Management asks that the Youth Council discuss and provide feedback on the following
 
-## [severance#10] 2026-10-07 | Citizen Advisory Board | agenda
+## [severance#9] 2026-10-07 | Citizen Advisory Board | agenda
 - CITIZEN ADVISORY BOARD / COMPREHENSIVE PLAN ADVISORY COMMITTEE MEETING
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - THE COMPREHENSIVE PLAN ADVISORY COMMITTEE STARTS FOLLOWING THE
@@ -211,7 +208,7 @@
 - 3. Severance Chamber Community Grant Application
 - E. COMPREHENSIVE PLAN ADVISORY COMMITTEE (CANCELED)
 
-## [severance#11] 2026-10-07 | Citizen Advisory Board | agenda
+## [severance#10] 2026-10-07 | Citizen Advisory Board | agenda
 - CITIZEN ADVISORY BOARD / COMPREHENSIVE PLAN ADVISORY COMMITTEE MEETING
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - THE COMPREHENSIVE PLAN ADVISORY COMMITTEE STARTS FOLLOWING THE
@@ -262,11 +259,11 @@
 - If awarded, the grant funding would be pooled with other
 - Our mission directly relates to the Town’s Award Criteria by
 
-## [severance#12] 2026-10-13 | Town Council | agenda
+## [severance#11] 2026-10-13 | Town Council | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - A. 2027 Town Projects & Budget Town Hall
 
-## [severance#13] 2026-10-21 | Planning Commission | agenda
+## [severance#12] 2026-10-21 | Planning Commission | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - 3. Approval of Agenda
 - 4. Approval of Minutes 9.16.26
@@ -283,7 +280,7 @@
 - amending Chapter 16 of the Severance Municipal Code regarding early grading permit
 - Commission approval may be sought for administrative actions in association with staff reports
 
-## [severance#14] 2026-10-21 | Planning Commission | agenda
+## [severance#13] 2026-10-21 | Planning Commission | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - 3. Approval of Agenda
 - 4. Approval of Minutes 9.16.26
@@ -320,81 +317,7 @@
 - Approve Resolution No. PC 2026-06R: Amend the Municipal Code concerning electric
 - service infrastructure for new development. All Commissioners present voting Yes
 
-## [severance#15] 2026-10-27 | Town Council | agenda
-- 3 S. Timber Ridge Parkway, Severance, CO 80550
-- 1. Pg. 5 - 2027 Proposed Rates, Fee Schedule, and Budget
-- Staff Presentation: Jacquelyn Grossnickle, Finance Director, Nicholas Wharton, Town
-- important items and not routine actions. A Council Member may request an item on this calendar
-- to be "pulled" off the Consent Calendar and considered separately as a regular agenda item
-- Items remaining on the Consent Calendar will be approved by Town Council with one vote
-- a. Pg. 260 - Severance High School After Prom Community Grant Application
-- b. Pg. 266 - Resolution 2026-31R: A Resolution of the Town Council of the Town of
-- Severance, Colorado confirming the effectiveness of Ordinance no. 2026-12 and the
-- Town's approval of the consolidated service plan for Northgate Lake Metropolitan
-- 5. Approval of Agenda
-- 6. Public Comment
-- The purpose of the Public Comment is for members of the public to speak to the Town Council
-- action on comments but may choose to schedule the matter for a later discussion. Those
-- Council approval may be sought for administrative actions in association with staff reports
-- 1. Pg. 354 - Planning Commissioner Appointment
-- Legislative, Discussion
-- Staff Presentation: Nicholas Wharton, Town Manager
-- 2. Pg. 367 - Resolution 2026-32R: A Resolution of the Town Council of the Town of
-- Severance, Colorado, finding substantial compliance of an annexation petition, initiating
-- annexation proceedings, and setting a public hearing on the petition in accordance with
-- the Municipal Annexation Act of 1965 for property known as Berrado Holding Annexation
-- Staff Presentation: Shani Porter, Planning Director
-- 3. Pg. 381 - Resolution 2026-33R: A Resolution of the Town Council of the Town of
-- the Municipal Annexation Act of 1965 for property known as Buffalo Creek Annexation
-- 4. Pg. 409 - Resolution 2026-34R: A Resolution of the Town Council of the Town of
-- the Municipal Annexation Act of 1965 for property known as Ridgegate Annexation
-- 5. Pg. 422 - Ordinance 2026-13: An Ordinance of the Town Council of the Town of
-- Severance, Colorado, amending Chapter 16 of the Severance Municipal Code regarding
-- early grading permit requirements
-- 6. Pg. 427 - Ordinance 2026-14: An Ordinance of the Town Council of the Town of
-- Severance, Colorado, amending section 16.8.80 of the Severance Municipal Code to
-- amend oil and gas specific setbacks to align with Weld County oil and gas regulations
-- 7. Pg. 436 - Ordinance 2026-15: An Ordinance of the Town Council of the Town of
-- Severance, Colorado, amending sections 16.3.320 and 16.3.420 and tables 16.3.320 and
-
-## [severance#16] 2026-10-27 | Town Council | agenda
-- 3 S. Timber Ridge Parkway, Severance, CO 80550
-- 1. Pg. 5 - 2027 Proposed Rates, Fee Schedule, and Budget
-- Staff Presentation: Jacquelyn Grossnickle, Finance Director, Nicholas Wharton, Town
-- important items and not routine actions. A Council Member may request an item on this calendar
-- to be "pulled" off the Consent Calendar and considered separately as a regular agenda item
-- Items remaining on the Consent Calendar will be approved by Town Council with one vote
-- a. Pg. 260 - Severance High School After Prom Community Grant Application
-- b. Pg. 266 - Resolution 2026-31R: A Resolution of the Town Council of the Town of
-- Severance, Colorado confirming the effectiveness of Ordinance no. 2026-12 and the
-- Town's approval of the consolidated service plan for Northgate Lake Metropolitan
-- 5. Approval of Agenda
-- 6. Public Comment
-- The purpose of the Public Comment is for members of the public to speak to the Town Council
-- action on comments but may choose to schedule the matter for a later discussion. Those
-- Council approval may be sought for administrative actions in association with staff reports
-- 1. Pg. 354 - Planning Commissioner Appointment
-- Legislative, Discussion
-- Staff Presentation: Nicholas Wharton, Town Manager
-- 2. Pg. 367 - Resolution 2026-32R: A Resolution of the Town Council of the Town of
-- Severance, Colorado, finding substantial compliance of an annexation petition, initiating
-- annexation proceedings, and setting a public hearing on the petition in accordance with
-- the Municipal Annexation Act of 1965 for property known as Berrado Holding Annexation
-- Staff Presentation: Shani Porter, Planning Director
-- 3. Pg. 381 - Resolution 2026-33R: A Resolution of the Town Council of the Town of
-- the Municipal Annexation Act of 1965 for property known as Buffalo Creek Annexation
-- 4. Pg. 409 - Resolution 2026-34R: A Resolution of the Town Council of the Town of
-- the Municipal Annexation Act of 1965 for property known as Ridgegate Annexation
-- 5. Pg. 422 - Ordinance 2026-13: An Ordinance of the Town Council of the Town of
-- Severance, Colorado, amending Chapter 16 of the Severance Municipal Code regarding
-- early grading permit requirements
-- 6. Pg. 427 - Ordinance 2026-14: An Ordinance of the Town Council of the Town of
-- Severance, Colorado, amending section 16.8.80 of the Severance Municipal Code to
-- amend oil and gas specific setbacks to align with Weld County oil and gas regulations
-- 7. Pg. 436 - Ordinance 2026-15: An Ordinance of the Town Council of the Town of
-- Severance, Colorado, amending sections 16.3.320 and 16.3.420 and tables 16.3.320 and
-
-## [severance#17] 2026-11-02 | Youth Council | agenda
+## [severance#14] 2026-11-02 | Youth Council | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - 3. Approval of October 5, 2026 Minutes
 - 4. Public Comment
@@ -406,7 +329,7 @@
 - Staff Presentation: Lindsay Radcliff-Coombes, Deputy Town Manager
 - C. FUTURE DISCUSSION ITEMS
 
-## [severance#18] 2026-11-02 | Youth Council | agenda
+## [severance#15] 2026-11-02 | Youth Council | agenda
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - 3. Approval of October 5, 2026 Minutes
 - 4. Public Comment
@@ -435,7 +358,7 @@
 - Presentation
 - newsletter will present it to the Youth Council for either approval, approval with additions, or denial
 
-## [severance#19] 2026-11-04 | Citizen Advisory Board | agenda
+## [severance#16] 2026-11-04 | Citizen Advisory Board | agenda
 - CITIZEN ADVISORY BOARD / COMPREHENSIVE PLAN ADVISORY COMMITTEE MEETING
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - THE COMPREHENSIVE PLAN ADVISORY COMMITTEE STARTS FOLLOWING THE
@@ -454,7 +377,7 @@
 - 2. Sample Design for the Comprehensive Plan 2026
 - 3. Draft Chapters Comprehensive Plan 2026
 
-## [severance#20] 2026-11-04 | Citizen Advisory Board | agenda
+## [severance#17] 2026-11-04 | Citizen Advisory Board | agenda
 - CITIZEN ADVISORY BOARD / COMPREHENSIVE PLAN ADVISORY COMMITTEE MEETING
 - 3 S. Timber Ridge Parkway, Severance, CO 80550
 - THE COMPREHENSIVE PLAN ADVISORY COMMITTEE STARTS FOLLOWING THE
@@ -514,3 +437,81 @@
 - More housing diversity
 - Council Focused Strategies
 - Provide support with incentives and creative problem solving
+
+## [severance#18] 2026-11-10 | Town Council | agenda
+- 3 S. Timber Ridge Parkway, Severance, CO 80550
+- important items and not routine actions. A Council Member may request an item on this calendar
+- to be "pulled" off the Consent Calendar and considered separately as a regular agenda item
+- Items remaining on the Consent Calendar will be approved by Town Council with one vote
+- b. Pg. 10 - Resolution 2026-35R: A Resolution of the Town Council of the Town of
+- c. Pg. 11 - Resolution 2026-36R: A Resolution of the Town Council of the Town of
+- d. Pg. 12 - Resolution 2026-37R: A Resolution of the Town Council of the Town of
+- Severance, Colorado, approving delinquent receivable accounts to the Weld County
+- 5. Approval of Agenda
+- 6. Public Comment
+- The purpose of the Public Comment is for members of the public to speak to the Town Council
+- action on comments but may choose to schedule the matter for a later discussion. Those
+- Council approval may be sought for administrative actions in association with staff reports
+- 1. Pg. 37 - Citizen Advisory Board Appointment
+- Staff Presentation: Nicholas Wharton, Town Manager
+- 2. Pg. 49 - Ordinance 2026-19: An ordinance of the Town Council of the Town of Severance,
+- 3. Pg. 54 - Ordinance 2026-20: An ordinance of the Town Council of the Town of Severance,
+- Colorado, amending section 4-4-30 of the Severance Municipal Code concerning
+- development impact fees
+- 4. Pg. 60 - Resolution 2026-38R: A Resolution of the Town Council of the town of Severance,
+- Colorado, prescribing the Town of Severance’s water and wastewater rates, fees, tolls
+- and charges, and infrastructure investment fees
+- Staff Presentation: Nicholas Wharton, Town Manager, Jacquelyn Grossnickle, Finance
+- 5. Pg. 68 - Resolution 2026-39R: A Resolution of the Town Council of the Town of
+- Severance, Colorado amending Resolution No. 2023-51R (Establishing a Transportation
+- Utility Fee)
+- 6. Pg. 72 - Resolution 2026-40R: A Resolution of the Town Council of the Town of
+- Severance, Colorado, adopting the Town of Severance Fee Schedule
+- 7. Pg. 83 - PUBLIC HEARING: Resolution 2026-41R: A Resolution of the Town Council of the
+- Town of Severance, Colorado, adopting a budget for the Fiscal Year of 2027 and
+- Legislative, Public Comment
+- 8. Pg. 493 - Resolution 2026-42R: A Resolution of the Town Council of the Town of
+- and for the purposes as set forth below for the 2027 Budget
+- 9. Pg. 496 - Resolution 2026-43R: A Resolution of the Town Council of the Town of
+- Severance, Colorado, levying general property taxes for the year 2027 to help defray the
+- costs of government for the 2027 budget year
+- develop strategy, and instruct negotiators accordingly regarding the acquisition of real
+
+## [severance#19] 2026-11-10 | Town Council | agenda
+- 3 S. Timber Ridge Parkway, Severance, CO 80550
+- important items and not routine actions. A Council Member may request an item on this calendar
+- to be "pulled" off the Consent Calendar and considered separately as a regular agenda item
+- Items remaining on the Consent Calendar will be approved by Town Council with one vote
+- b. Pg. 10 - Resolution 2026-35R: A Resolution of the Town Council of the Town of
+- c. Pg. 11 - Resolution 2026-36R: A Resolution of the Town Council of the Town of
+- d. Pg. 12 - Resolution 2026-37R: A Resolution of the Town Council of the Town of
+- Severance, Colorado, approving delinquent receivable accounts to the Weld County
+- 5. Approval of Agenda
+- 6. Public Comment
+- The purpose of the Public Comment is for members of the public to speak to the Town Council
+- action on comments but may choose to schedule the matter for a later discussion. Those
+- Council approval may be sought for administrative actions in association with staff reports
+- 1. Pg. 37 - Citizen Advisory Board Appointment
+- Staff Presentation: Nicholas Wharton, Town Manager
+- 2. Pg. 49 - Ordinance 2026-19: An ordinance of the Town Council of the Town of Severance,
+- 3. Pg. 54 - Ordinance 2026-20: An ordinance of the Town Council of the Town of Severance,
+- Colorado, amending section 4-4-30 of the Severance Municipal Code concerning
+- development impact fees
+- 4. Pg. 60 - Resolution 2026-38R: A Resolution of the Town Council of the town of Severance,
+- Colorado, prescribing the Town of Severance’s water and wastewater rates, fees, tolls
+- and charges, and infrastructure investment fees
+- Staff Presentation: Nicholas Wharton, Town Manager, Jacquelyn Grossnickle, Finance
+- 5. Pg. 68 - Resolution 2026-39R: A Resolution of the Town Council of the Town of
+- Severance, Colorado amending Resolution No. 2023-51R (Establishing a Transportation
+- Utility Fee)
+- 6. Pg. 72 - Resolution 2026-40R: A Resolution of the Town Council of the Town of
+- Severance, Colorado, adopting the Town of Severance Fee Schedule
+- 7. Pg. 83 - PUBLIC HEARING: Resolution 2026-41R: A Resolution of the Town Council of the
+- Town of Severance, Colorado, adopting a budget for the Fiscal Year of 2027 and
+- Legislative, Public Comment
+- 8. Pg. 493 - Resolution 2026-42R: A Resolution of the Town Council of the Town of
+- and for the purposes as set forth below for the 2027 Budget
+- 9. Pg. 496 - Resolution 2026-43R: A Resolution of the Town Council of the Town of
+- Severance, Colorado, levying general property taxes for the year 2027 to help defray the
+- costs of government for the 2027 budget year
+- develop strategy, and instruct negotiators accordingly regarding the acquisition of real

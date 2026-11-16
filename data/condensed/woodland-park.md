@@ -1,48 +1,6 @@
 # woodland-park
 
-## [woodland-park#0] 2026-08-11 | Board of Review | agenda
-- CITY OF WOODLAND PARK, BUILDING DEPARTMENT
-- 220 W. SOUTH AVENUE, WOODLAND PARK, CO
-- woodlandpark.org) - click on the specific date of this meeting, then “More Details” for the
-- III. APPROVAL OF MEETING MINUTES – From the July 14, 2026, meeting
-- VI. VARIANCE OR APPEALS HEARINGS - None
-- IX. OPEN DISCUSSION
-
-## [woodland-park#1] 2026-08-11 | Board of Review | agenda
-- CITY OF WOODLAND PARK, BUILDING DEPARTMENT
-- 220 W. SOUTH AVENUE, WOODLAND PARK, CO
-- woodlandpark.org) - click on the specific date of this meeting, then “More Details” for the
-- III. APPROVAL OF MEETING MINUTES – From the July 14, 2026, meeting
-- VI. VARIANCE OR APPEALS HEARINGS - None
-- IX. OPEN DISCUSSION
-- WOODLAND PARK BOARD OF REVIEW
-- III. APPROVAL OF MEETING MINUTES: The May 12 , 2026 , meeting minutes were approved
-- VI. VARIANCE OR APPEAL HEARINGS:
-- A. #A26-0137 – 209 E. Midland Avenue; Andrew Nguyen requests an appeal of a “Dangerous
-- NOTICE TO VACATE issued by PPRBD dated May 28, 2026
-- Chair McVicker opened th is quasi-judicial public hearing at 2:33 p.m. Prior to taking testimony,
-- requested that all future correspondence be sent to “9380 Burgess Road, Colorado Springs,
-- deadlines established in the NOTICE AND ORDER and NOTICE TO VACATE (i.e. “the
-- not extend the compliance deadlines (permits for repair, rehabilitation, or demolition must be
-- Associates LLC, and attending virtually was the proposed general contractor, Carl Andersen of
-- plan he prepared and the structural repair plan as prepared by professional engineer, Chris
-- Mr. Langley explained that his intent is to address the five violations as identified in the Notice
-- He stated that the building has remained unoccupied since Mr. Nguyen purchased it in 2019. He
-- that Mr. Nguyen hired a contractor for repairs and remodeling, and after substantial payment to
-- them, the contractor declared bankruptcy. No further construction has been completed as a result
-- The repair plan is intended to remedy the hazardous conditions in the building but is not intended
-- and Stop Work Order are in effect. He outlined the violations as identified in the Notice and noted
-- Mr. Langley stated that the 60-day deadline for obtaining building permits is not feasible
-- considering the current plan review timelines he has experienced with other projects he is involved
-- with, and that the timeframe to complete improvements as mandated by the building code is not
-- feasible considering current typical construction timing challenges , such as obtaining building
-- materials and labor availability. He said similar projects can take up to one year to complete. He
-- Mr. Langley added that the building has been recommended for approval as a Local Historical
-- Landmark Designation by the Historical Preservation Committee (HPC). He said that both the Fire
-- identified are repairable. He solicited questions from the Board
-- and use of the building. Mr. Langley replied that before they can justify the expense and continue
-
-## [woodland-park#2] 2026-08-31 | Main Street | minutes
+## [woodland-park#0] 2026-08-31 | Main Street | minutes
 - City of Woodland Park Main Street Board Meeting - Minutes
 - Parade: Tim asked the parade committee to find out how Main Street
 - Oktoberfest group sent out a sign-up link. Main Street board and volunteers
@@ -62,7 +20,7 @@
 - 7. Work plan discussion
 - Tim stated that we have discussed everything on the work plan
 
-## [woodland-park#3] 2026-09-01 | Historical Preservation Committee | agenda
+## [woodland-park#1] 2026-09-01 | Historical Preservation Committee | agenda
 - 2. Approval of Minutes – August 4, 2026
 - 3. Public Hearings – Local Historic Landmark Designation for 116 W. Lake Avenue
 - (26-0182): Consider a request to designate 116 W. Lake Avenue a Local Historic
@@ -79,7 +37,7 @@
 - 7. Public Comment on Items Not on the Agenda
 - FOR MORE INFORMATION, PLEASE CONTACT THE WOODLAND PARK PLANNING
 
-## [woodland-park#4] 2026-09-01 | Historical Preservation Committee | agenda
+## [woodland-park#2] 2026-09-01 | Historical Preservation Committee | agenda
 - 2. Approval of Minutes – August 4, 2026
 - 3. Public Hearings – Local Historic Landmark Designation for 116 W. Lake Avenue
 - (26-0182): Consider a request to designate 116 W. Lake Avenue a Local Historic
@@ -120,13 +78,13 @@
 - Chair Glauth watched the Board of Review (BOR) meeting which considered a case
 - some discussion of what was appealed. The City attorneys also reviewed the case. BOR
 
-## [woodland-park#5] 2026-09-24 | Planning Commission | agenda
+## [woodland-park#3] 2026-09-24 | Planning Commission | agenda
 - WOODLAND PARK PLANNING COMMISSION
 - A. Discusssion to consider amending Section 4.03, Section
 - 6.06.120, and Section 7.03 of the Unified Development Code to
 - Use Permit process, and to define “Public Safety Facilities” under
 
-## [woodland-park#6] 2026-10-06 | Historical Preservation Committee | agenda
+## [woodland-park#4] 2026-10-06 | Historical Preservation Committee | agenda
 - 2. Approval of Minutes – September 1, 2026
 - 3. Public Hearings – None
 - 4. Committee Business – Projects
@@ -139,7 +97,7 @@
 - 7. Public Comment on Items Not on the Agenda
 - FOR MORE INFORMATION, PLEASE CONTACT THE WOODLAND PARK PLANNING
 
-## [woodland-park#7] 2026-10-08 | Planning Commission | agenda
+## [woodland-park#5] 2026-10-08 | Planning Commission | agenda
 - WOODLAND PARK PLANNING COMMISSION
 - 3. APPROVE MINUTES: July 9, 2026
 - 4. PUBLIC HEARINGS
@@ -157,7 +115,7 @@
 - Allowed Uses, to label said use as applicable under the Special Use
 - Permit process, and to define “Public Safety Facilities” under Words and
 
-## [woodland-park#8] 2026-11-03 | Historical Preservation Committee | agenda
+## [woodland-park#6] 2026-11-03 | Historical Preservation Committee | agenda
 - 2. Approval of Minutes – September 1, 2026 & October 6, 2026
 - 3. Public Hearings – None
 - 4. Committee Business – Projects
@@ -170,7 +128,7 @@
 - 7. Public Comment on Items Not on the Agenda
 - FOR MORE INFORMATION, PLEASE CONTACT THE WOODLAND PARK PLANNING
 
-## [woodland-park#9] 2026-11-03 | Downtown Development Agency | agenda
+## [woodland-park#7] 2026-11-03 | Downtown Development Agency | agenda
 - City of Woodland Park
 - Downtown Development Authority
 - 220 W. South Ave., Woodland Park, CO 80863
@@ -214,7 +172,7 @@
 - agreements $275,000 which was increased for the TAVA TIF agreement
 - DDA Micro-Grants $200,000. Numbers were shifted on the sheet so
 
-## [woodland-park#10] 2026-11-05 | City Council | agenda
+## [woodland-park#8] 2026-11-05 | City Council | agenda
 - City of Woodland Park
 - City of Woodland Park City Council - November 5, 2026
 - **Revised Agenda added Police Department Presentations
@@ -254,7 +212,7 @@
 - adjudication, sometimes in writing, but not a resolution or ordinance. Decision for Quasi
 - Ex-parte communication (communication outside the official hearing) between elected officials
 
-## [woodland-park#11] 2026-11-05 | City Council | agenda
+## [woodland-park#9] 2026-11-05 | City Council | agenda
 - City of Woodland Park
 - City of Woodland Park City Council - November 5, 2026
 - **Revised Agenda added Police Department Presentations
@@ -293,3 +251,53 @@
 - a single piece of property, or a special use permit. Quasi-Judicial actions generally involve
 - adjudication, sometimes in writing, but not a resolution or ordinance. Decision for Quasi
 - Ex-parte communication (communication outside the official hearing) between elected officials
+
+## [woodland-park#10] 2026-11-10 | General | agenda
+- CITY OF WOODLAND PARK
+- a. Tour of Reservoir Road
+
+## [woodland-park#11] 2026-11-12 | Planning Commission | agenda
+- WOODLAND PARK PLANNING COMMISSION
+- 3. APPROVE MINUTES: October 8, 2026
+- 4. PUBLIC HEARINGS
+- A zoning correction requested by Mark McNab, MBI Contractors, Inc
+- (Applicant), and Ventus, LLC (Property Owner) to rezone an
+- at Paradise Subdivision, Woodland Park, Teller County, CO; a.k.a. 1420
+- and 1430 Red Haven Place, Woodland Park, CO. (QJ)
+- The City Council Public Hearing is currently scheduled for
+
+## [woodland-park#12] 2026-11-12 | Planning Commission | agenda
+- WOODLAND PARK PLANNING COMMISSION
+- 3. APPROVE MINUTES: October 8, 2026
+- 4. PUBLIC HEARINGS
+- A zoning correction requested by Mark McNab, MBI Contractors, Inc
+- (Applicant), and Ventus, LLC (Property Owner) to rezone an
+- at Paradise Subdivision, Woodland Park, Teller County, CO; a.k.a. 1420
+- and 1430 Red Haven Place, Woodland Park, CO. (QJ)
+- The City Council Public Hearing is currently scheduled for
+- Council Chambers, 220 W. South Avenue, Woodland Park
+- 3. APPROVE MINUTES: Commissioner Hartsfield moved and Commissioner Hoying seconded
+- to approve the July 9, 2026, Planning Commission Meeting Minutes. Motion passed by voice
+- 4. PUBLIC HEARINGS:
+- A. Eagle Fire Lodge Rezoning and Conditional Use Permit (A26-0200): A request by Rick
+- Dilsavor of Cedarwood Development, Inc (Applicant) on behalf of Woodland Capital, Inc
+- (Property Owner) for approval of a zone district change from Planned Unit Development
+- (PUD) to Multi Dwelling Urban Residential (MDU), as well as approval of a Conditional
+- Use Permit to allow multi-household attached dwelling units within the MDU zone district
+- of Woodland Park, Teller County (a.k.a. 777 East US Highway 24, Woodland Park, CO)
+- original C.D. Weaver Subdivision platted in 1948. The property was formally annexed into the
+- City in 1997 and approved for a Planned Unit Development and Final Development Plan of a
+- conceptual 36-unit motel (Eagle Fire Lodge). Actual property development included 5 original
+- lodges. A 2010 replat amended the lot line boundaries, resulting in its current configuration
+- The property presently contains these 25 lodging units, 37 total parking spaces, exterior
+- The property is currently zoned Planned Unit Development (PUD). Adjacent property zoning
+- The applicant’s request is to convert the 25 lodging units into 25 market-rate, long-term rental
+- 2 DU/AC threshold. Alternatively, the MDU zone district allows up to 20 DU/AC. The request
+- additionally calls out several minor improvements to the property, including a 300 sq. ft
+- Referral comment requests were sent out to all required reviewing agencies/entities
+- electric service to accommodate separate metering for each apartment unit in accordance
+- property is currently serviced by a 1.5” water line and a 1.5” commercial water tap. Based on
+- the applicant’s water adequacy and availability findings, the City could support the proposed
+- rezone at the current density. Further, per the City’s Water Tap Management Plan, a rezone
+- to the MDU zone district triggers the requirement to obtain an additional 25 multifamily water
+- taps which, pursuant to Municipal Code Section 13.27.050 D, must be approved (for sale and

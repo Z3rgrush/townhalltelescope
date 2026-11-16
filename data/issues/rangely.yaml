@@ -1,11 +1,10 @@
 - title: Geothermal energy campus and proposed data center
-  summary: Council repeatedly took up the Energy Campus Development & Municipal Participation Study (stage 2 of Rangely geothermal development). Residents including Tanner Nielsen and Camille raised concerns about a possible data center, water use, noise, NDAs and transparency, and Nielsen suggested a moratorium and a solar partnership with CNCC. A proposal was raised to bar officials from signing NDAs for economic development.
+  summary: Council took up the Energy Campus Development & Municipal Participation Study (stage 2 of Rangely's geothermal development). Residents including Tanner Nielsen and Camille raised concerns about a possible data center, its water use, noise, jobs and secrecy. Tanner asked for a moratorium on data centers, and an NDA ban for public officials was raised in October.
   where: Townwide
   refs:
-  - 0
-  - 2
+  - 1
+  - 3
   - 4
-  - 5
   topics:
   - Data centers
   - Energy
@@ -13,84 +12,76 @@
   tags:
   - data-center
   public_comment: true
-- title: Water shortage, Stage 3 restrictions and White River water supply
-  summary: The Town went into Stage 3 water restrictions as river flow dropped, with the water conservancy district releasing 10 cfs from Kenney Reservoir; it later returned to Stage 1. Council took up Resolution 2026-07 declaring a municipal water urgency and authorizing negotiation, but not signing, of a conditional storage agreement for the White River Regional Water Supply Project. Council also dealt with bulk water customers under Emergency Ordinance 707.
+- title: Stage 3 water restrictions and White River water supply
+  summary: Rangely entered Stage 3 water restrictions, and the water conservancy district released 10 cfs from Kenney Reservoir to help; the town later returned to stage 1. Council also considered Resolution 2026-07 declaring a municipal water urgency and authorizing negotiation, but not execution, of a conditional storage agreement for the White River Regional Water Supply Project.
   where: Townwide
   refs:
   - 0
   - 1
-  - 2
+  - 3
   - 4
-  - 5
   topics:
   - Water
   - Utilities
-  - Environment & climate
-- title: Water and wastewater plant repairs
-  summary: Staff reported the wastewater pond liner needs replacement, with other lagoon liners also needing work and grants being sought. The water plant has structural problems including corrosion, and the middle zone water tank re-coating project was proposed for delay. Repairs to chlorine pumps and the water softener were also reported.
-  where: Water and wastewater plants
-  refs:
-  - 0
-  - 1
-  - 4
-  - 6
-  topics:
-  - Utilities
-  - Water
-  - Budget & taxes
 - title: 2027 budget and capital projects
-  summary: Council held budget and capital project work sessions, including a possible Main Street beautification project. On Oct 13 it considered approving the draft 2027 budget as presented, and revised the Housing Assistance Fund budget.
+  summary: Council held budget and capital project work sessions and approved the draft 2027 budget as presented on Oct. 13. A Main Street beautification project was also mentioned during budgeting.
   where: Townwide
   refs:
+  - 0
   - 1
-  - 2
+  - 3
   - 4
-  - 5
   topics:
   - Budget & taxes
-  - Housing
-  - Downtown & business
-- title: Town Manager's outside employment and oversight
-  summary: A resident, Jack Richens, raised concerns about the Town Manager, and council discussed Jonah's employment outside the Town in a conversation reported at the Sept 22 meeting. The documents do not state an outcome.
+- title: Town Manager's outside employment and independent hearing officers
+  summary: A resident raised concerns about the Town Manager, and council discussed his employment outside the Town. On Oct. 29 council held a special virtual meeting on Resolution 2026-08, creating two to three independent hearing officers to hear employee grievances over discipline and terminations by the Town Manager.
+  where: Town Hall
   refs:
-  - 4
+  - 3
+  - 6
   topics:
   - Government operations
   - Ethics & transparency
   public_comment: true
-- title: Independent hearing officers for employee grievances
-  summary: A virtual special meeting on Oct 29 considered Resolution 2026-08, creating two to three independent hearing officers to hear grievances over discipline and terminations by the Town Manager, and amending personnel rules. The Town Council would no longer sit as the hearing body.
-  where: Townwide
+- title: Wastewater lagoon liner repairs
+  summary: Staff reported the lagoon liners at the wastewater plant need repair, with water found underneath the current liner and the other liners also needing replacement. Grants are being sought to help with the expense.
+  where: Wastewater treatment lagoons
+  refs:
+  - 0
+  topics:
+  - Utilities
+  - Fees & rates
+- title: Local historic designation for 826 E. Main Street
+  summary: Council was asked to designate 826 E. Main Street as a local historic property.
+  where: 826 E. Main Street
   refs:
   - 7
   topics:
-  - Government operations
-- title: Police leadership and services
-  summary: Interim Chief of Police Joseph McGuire was sworn in, with two police openings reported earlier. Council also amended the 2026 fee schedule for certified VIN inspections, and an SRO change was noted.
-  where: Police Department
+  - Historic preservation
+- title: Bell Street parking and crosswalk safety
+  summary: Residents and council discussed the Bell Street crosswalk and signs, and a No Parking area near the park was extended by 50 feet. Council member Tim Webber worried about the No Parking zone during events.
+  where: Bell Street, near the park
   refs:
   - 0
-  - 2
-  - 5
-  - 6
-  topics:
-  - Policing & public safety
-  - Fees & rates
-- title: Bell Street crosswalk and no-parking changes
-  summary: Residents and council discussed the Bell Street crosswalk sign and a no-parking area extended 50 ft at the park. Council member Tim Webber worried about the effect on parking during events.
-  where: Bell Street near the park
-  refs:
   - 1
-  - 2
   topics:
   - Roads & traffic
   public_comment: true
-- title: Asbestos abatement on Birch Street
-  summary: An asbestos project on Birch is starting, and additional asbestos was found. The grant is expected to cover it.
+- title: Asbestos removal project on Birch
+  summary: An asbestos project on Birch was about to begin, and later additional asbestos was found. The manager said the grant would cover it.
   where: Birch Street
   refs:
-  - 4
-  - 6
+  - 3
+  - 5
   topics:
   - Environment & climate
   - Land & property
+- title: Interim Police Chief and police staffing
+  summary: Joseph McGuire was sworn in as Interim Chief of Police in October. The police department was interviewing for dispatcher positions in November.
+  where: Rangely Police Department
+  refs:
+  - 4
+  - 5
+  - 7
+  topics:
+  - Policing & public safety

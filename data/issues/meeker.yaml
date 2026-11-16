@@ -1,48 +1,48 @@
-- title: Short-term rental conditional use permit for Chase Rule
-  summary: The City Council held a public hearing on Feb. 23, 2026 on a conditional use permit for Chase Rule to operate a short-term rental. The agenda excerpt does not give the full address or the outcome.
-  where: 970 (address cut off), Meeker
+- title: Zoning variances and conditional use permits in Meeker
+  summary: Council heard a series of variance and conditional use requests. These include a 0-foot front setback at 325 Curtis Creek Drive, a reduced side setback at 891 3rd Street, a reduced side setback at 390 Market Street, an oversized sign at 43904 Highway 13, and an 8-foot fence at 172 Water. The documents list the requests but not the outcomes.
+  where: Various addresses in Meeker
   refs:
-  - 3
+  - 2
+  - 4
+  - 6
+  topics:
+  - Zoning & development
+  - Land & property
+- title: Short-term rental conditional use permit
+  summary: Council considered a conditional use permit for Chase Rule to operate a short-term rental. The agenda excerpt gives a partial address and no outcome.
+  where: 970 (address truncated), Meeker
+  refs:
+  - 2
   topics:
   - Short-term rentals
   - Zoning & development
-- title: Setback variance requests (891 3rd Street and 325 Curtis Creek Drive)
-  summary: On Feb. 23, 2026 the Council heard two variance requests. The Dawsons asked for a side yard setback of about 6 feet at 891 3rd Street. Renninger Investments, LLC asked for a 0-foot front yard setback at 325 Curtis Creek Drive. The outcomes are not in the documents.
-  where: 891 3rd Street and 325 Curtis Creek Drive
-  refs:
-  - 3
-  topics:
-  - Zoning & development
-  - Land & property
-- title: Variance for Training Grounds, LLC at 390 Market Street
-  summary: The Council scheduled a July 13, 2026 public hearing on a request for a reduced side yard setback at 390 Market Street. The documents do not state the outcome.
-  where: 390 Market Street
-  refs:
-  - 5
-  topics:
-  - Zoning & development
-  - Downtown & business
-- title: Home occupation and right-of-way encroachment requests
-  summary: The July 13, 2026 agenda included a conditional use request from Tevin Pelloni for a home occupation at 440 Garfield Street. It also included an encroachment request from Rebekah and Justin Grant to access the town right-of-way at Sanderson Hills Subdivision.
-  where: 440 Garfield Street; Sanderson Hills Subdivision
-  refs:
-  - 5
-  topics:
-  - Zoning & development
-  - Land & property
-- title: Oversized sign and 8-foot fence variances
-  summary: The Aug. 3, 2026 hearings covered two variance requests. David Bradfield asked for a sign larger than the maximum at 43904 Highway 13. Jessica and Matt Franks asked to build an eight-foot fence at 172 Water Street.
-  where: 43904 Highway 13 and 172 Water Street
+- title: Fairfield Apartments update
+  summary: Commissioner Scritchfield was scheduled to give an update on the Fairfield Apartments at the November 3 meeting. The agenda gives no further detail.
+  where: Fairfield Apartments
   refs:
   - 7
   topics:
-  - Zoning & development
-  - Downtown & business
-- title: Fairfield Apartments update and mayor appointment process
-  summary: The Nov. 3, 2026 agenda includes an update from Commissioner Scritchfield on the Fairfield Apartments. It also includes a resolution setting the process for appointing a mayor.
-  where: Meeker
-  refs:
-  - 8
-  topics:
   - Housing
+- title: Mayor appointment process resolution
+  summary: Council was scheduled to consider a resolution setting the process for appointing a mayor.
+  where: Townwide
+  refs:
+  - 7
+  topics:
   - Government operations
+  - Elections
+- title: Encroachment request on town right-of-way in Sanderson Hills
+  summary: Rebekah and Justin Grant asked to access the Town's right-of-way at Lot 2, Resubdivision of Lots 235 through 259 of the Sanderson Hills Subdivision.
+  where: Sanderson Hills Subdivision, Lot 2
+  refs:
+  - 4
+  topics:
+  - Land & property
+  - Roads & traffic
+- title: Home occupation request at 440 Garfield Street
+  summary: Tevin Pelloni requested a conditional use permit for a home occupation at 440 Garfield Street.
+  where: 440 Garfield Street
+  refs:
+  - 4
+  topics:
+  - Zoning & development

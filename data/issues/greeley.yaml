@@ -1,167 +1,168 @@
-- title: Sales tax ballot question 2F for West Greeley and Civic Campus projects
-  summary: Council moved to put a 0.60% sales and use tax increase (Jan 1, 2027 through Dec 31, 2067) to fund capital projects on the Nov. 3, 2026 ballot as Question 2F, and later passed a resolution of support. Dozens of residents spoke Aug. 18 against combining the contentious Catalyst/West Greeley project with the civic campus, or against new taxes; a few supported a sales tax. Council also took legal advice in executive session and held first and second readings of Certificates of Participation financing for the Civic Campus.
-  where: Citywide
+- title: 'Global AI data center campus: pre-annexation agreement and interim water service'
+  summary: Global AI (Colorado) LLC bought about 438 acres east of Highway 257 (the former Kodak/Carestream campus) and is evaluating a data center there. Council's Sept. 8 agenda had a Pre-Annexation Agreement requiring annexation by March 31, 2028, and the Water & Sewer Board took up a bridging interim water service agreement. Residents spoke against the AI data center and asked for a moratorium.
+  where: East of State Highway 257, south of Eastman Park Drive, Weld County
   refs:
+  - 3
   - 4
-  - 10
-  - 20
-  - 22
-  - 25
-  - 27
-  - 48
-  - 53
-  - 70
-  - 74
-  topics:
-  - Budget & taxes
-  - Elections
-  - Economic development
-  public_comment: true
-- title: 2027 city budget, reductions and museum/culture cuts
-  summary: The City Manager's recommended 2027 budget was released Sept. 4, reviewed at a Sept. 11 council retreat, and brought to first reading Oct. 20. Sales tax is down, reserves are tight, 67.75 positions were cut through voluntary separations, and departments face reduction targets. The Museum Board, Historic Preservation Commission and residents objected to museum cuts, and CPRD identified $2.9 million in reductions including UCCC fee increases.
-  where: Citywide
-  refs:
-  - 10
-  - 15
-  - 16
-  - 24
-  - 42
-  - 43
-  - 53
-  - 54
-  - 57
-  - 68
-  - 83
-  - 84
-  - 87
-  - 89
-  - 95
-  - 107
-  topics:
-  - Budget & taxes
-  - Libraries & culture
-  - Government operations
-  public_comment: true
-- title: GlobalAI pre-annexation agreement and interim water service for data center campus
-  summary: Global AI (Colorado) LLC bought about 438 acres near Highway 257 and Eastman Park Drive (former Kodak/Carestream campus) and is evaluating a data center campus. A pre-annexation agreement requires annexation by March 31, 2028, and the Water and Sewer Board considered an interim water service agreement tied to it, bridging the existing agreement that expires March 31, 2027.
-  where: East of State Highway 257, south of Eastman Park Drive
-  refs:
   - 13
-  - 14
-  - 25
-  - 29
-  - 32
-  - 33
+  - 15
+  - 18
+  - 19
   topics:
   - Data centers
   - Annexation
   - Water
   tags:
   - data-center
-- title: Flock license plate readers and police drones
-  summary: Residents urged Council to end the Flock Safety contract for automated license plate readers, citing costs, lack of a public vote, Fourth Amendment concerns and misuse. Council held a Sept. 8 work session on ALPRs and Drones as First Responder; police use 17 Flock cameras with 30-day data retention.
+  public_comment: true
+- title: Sales tax ballot question 2F and the Catalyst/Cascadia project debt
+  summary: Council backed Ballot Question 2F, a 0.60% sales and use tax increase for capital projects on the Nov. 3 ballot. Many residents objected to the tax, to tying it to the Catalyst project and the Civic Campus, and to debt tied to earlier projects. Council also held executive sessions on the tax and on economic development including Catalyst.
+  where: Citywide
+  refs:
+  - 0
+  - 10
+  - 13
+  - 55
+  - 59
+  - 104
+  - 105
+  topics:
+  - Budget & taxes
+  - Economic development
+  - Elections
+  public_comment: true
+- title: 2027 city budget, cuts and the budget retreat
+  summary: The City Manager's recommended 2027 budget was released Sept. 4, discussed at a Sept. 11 council retreat, and had first reading Oct. 20. It rests on reductions, voluntary separations (67.75 FTE), a lagging sales tax and a temporary 25 percent cut to capital maintenance. The Citizen Budget Advisory Committee backed staff's work.
   where: Citywide
   refs:
   - 10
-  - 35
-  - 36
+  - 12
+  - 28
+  - 29
+  - 39
+  - 49
+  - 68
+  - 69
+  - 74
+  - 76
+  topics:
+  - Budget & taxes
+  - Government operations
+  public_comment: true
+- title: Museum and cultural budget cuts
+  summary: Proposed cuts to the Culture, Parks and Recreation Department would reduce museum staffing and research access. The Museum Advisory Board, which passed a resolution, and the Historic Preservation Commission, drafting a letter to Council, objected. The budget later includes $150,000 added for museum part-time staff. Residents also objected to cuts to natural areas and the Union Colony Civic Center.
+  where: Greeley History Museum / Citywide
+  refs:
+  - 0
+  - 5
+  - 13
+  - 40
+  - 43
+  - 72
+  - 80
+  topics:
+  - Libraries & culture
+  - Budget & taxes
+  - Historic preservation
+  public_comment: true
+- title: Flock license plate readers and police drones
+  summary: Residents asked Council to end the Flock Safety contract for license plate readers, citing no public vote, cost, misuse and Fourth Amendment concerns. A Sept. 8 work session covered the police use of ALPRs (17 Flock cameras with 30-day retention) and drones as first responders.
+  where: Citywide
+  refs:
+  - 0
+  - 13
+  - 21
+  - 22
   topics:
   - Policing & public safety
   - Ethics & transparency
   public_comment: true
 - title: Great Western Industrial Park annexations and Windsor's reconsideration motion
-  summary: Council went into executive session Sept. 22 for legal advice on the Great Western Industrial Park annexations 1-15 and a Motion for Reconsideration from the Town of Windsor, and the consent agenda included a GWIP reconsideration motion.
+  summary: Council went into executive session for legal advice on Great Western Industrial Park annexations 1-15 and a Motion for Reconsideration from the Town of Windsor. A related GWIP reconsideration motion was on the consent agenda.
   where: Great Western Industrial Park
   refs:
-  - 60
-  - 61
+  - 46
+  - 47
   topics:
   - Annexation
   - Lawsuits & legal
-- title: Arroyos del Sol annexation
-  summary: Planning Commission heard annexation of about 999.72 acres northwest of Highway 257 Spur, west of WCR 19 and south of the Cache la Poudre River, with C-D conservation zoning. Much of the land is under a conservation easement, with a master plan focused on public recreation.
-  where: Northwest of State Highway 257 Spur, south of the Cache la Poudre River
+- title: Arroyos del Sol annexation and zoning
+  summary: Planning Commission held hearings on annexing about 1,000 acres northwest of Highway 257 Spur along the Cache la Poudre River and on zoning it Conservation District. Much of the land is under a conservation easement with a master plan focused on public recreation. A motion recommended annexation approval to Council.
+  where: Northwest of State Highway 257 Spur, west of Weld County Road 19, south of the Cache la Poudre River
   refs:
-  - 34
+  - 20
   topics:
   - Annexation
   - Zoning & development
   - Parks & open space
 - title: Civic Campus and Judicial Center redevelopment
-  summary: Planning Commission reviewed preliminary subdivisions for the Judicial Center and the Civic Campus (4 lots) downtown, with phased redevelopment by Richmark including a temporary juror parking lot for the new City Hall. Council also considered an alley vacation near 10th Avenue and 9th-10th Streets.
-  where: Downtown Greeley, 10th Avenue to 11th Avenue, 9th to 10th Streets
+  summary: Planning Commission reviewed subdivision plats for the Judicial Center and Civic Campus in downtown, with phased redevelopment starting with temporary juror parking displaced by the new City Hall. Council considered an alley vacation and Certificates of Participation for the campus.
+  where: Downtown, between 9th/10th Streets and 10th/11th Avenues
   refs:
-  - 31
-  - 48
-  - 59
-  - 70
-  - 82
+  - 17
+  - 20
+  - 34
+  - 45
+  - 55
+  - 67
   topics:
-  - Zoning & development
   - Downtown & business
-  - Land & property
-- title: MERGE highway project and transportation updates
-  summary: The MERGE project (underpasses at 35th and 47th Avenues, roundabouts, property impacts) has over $50 million in federal grants plus state funds but still needs a substantial local share. Advisory boards also discussed US 34/WCR 17 crashes, 16th Street safety, the Safe Streets for All plan and a 13th Street quiet zone with eminent domain acquisitions; the Art Commission weighed up to $400,000 for MERGE public art.
-  where: US 34 / 35th and 47th Avenues
+  - Zoning & development
+  - Budget & taxes
+- title: MERGE highway project and transportation projects
+  summary: The MERGE project, with over $50 million in federal grants plus state funds, would build underpasses at 35th and 47th Avenues, with significant property impacts. Staff also updated on the Keep Greeley Moving tax, US 34 safety, 16th Street, 13th Street quiet zone (eminent domain) and the Sheep Draw Trail underpass.
+  where: US 34 corridor, 35th and 47th Avenues
   refs:
-  - 18
-  - 24
+  - 8
+  - 37
+  - 46
+  - 47
+  - 49
   - 51
-  - 61
-  - 66
-  - 89
+  - 74
+  - 77
   topics:
   - Roads & traffic
-  - Budget & taxes
   - Transit
-  public_comment: true
-- title: Water and sewer rates, master plans and water supply
-  summary: Staff proposed 4.5% water and 3.0% sewer rate increases for 2027, delaying the F Street Operations Facility to limit impacts. The board reviewed treatment plant and solids master plans and leases, and Council authorized legal action over the Halligan Water Supply Project Clean Water Act 401 certification. Parks cut watering at 13 sites after the Greeley-Loveland Ditch shut off early.
+  - Budget & taxes
+- title: Water supply, rate increases and park watering cutbacks
+  summary: Staff proposed 4.5% water and 3.0% sewer rate increases for 2027 and delayed the F Street facility to limit rate impacts. The Greeley-Loveland ditch shut off early, so parks cut watering at passive sites and golf expects tough restrictions. Council also authorized legal action over the Halligan Water Supply Project Clean Water Act certification.
   where: Citywide
   refs:
-  - 14
-  - 45
-  - 52
-  - 68
-  - 70
-  - 93
-  - 94
+  - 4
+  - 27
+  - 31
+  - 38
+  - 53
+  - 55
   topics:
-  - Fees & rates
   - Water
-  - Utilities
+  - Fees & rates
+  - Lawsuits & legal
 - title: Housing needs assessment, Prop 123 and housing funding
-  summary: Council considered a Housing Needs Assessment contract with Interval, LLC and an affordable housing commitment under Proposition 123. The Housing for All Advisory Board reviewed CDBG and HOME funding after the first cycle, and the Housing Authority handled voucher consolidation, waiting lists and 2027 plans.
+  summary: Council considered a Housing Needs Assessment contract with Interval, LLC and a Proposition 123 affordable housing commitment. The Housing for All Advisory Board reviewed its first funding cycle and Hope Springs funding, and the housing authority took up voucher consolidation and waiting lists.
   where: Citywide
   refs:
-  - 5
-  - 23
-  - 48
-  - 78
-  - 105
+  - 11
+  - 34
+  - 63
+  - 90
   topics:
   - Housing
-  - Government operations
-- title: Urban renewal (GURA) and TIF
-  summary: Council and GURA discussed urban renewal law, tax increment financing, expanded board rules under HB 1348 and bonding authority. GURA reviewed its 2027 budget and projects including Mobility Hub and Western Sugar connectivity.
-  where: Greeley urban renewal areas
+  - Health & human services
+- title: Westside Area Plan, form-based code and related rezonings
+  summary: Planning Commission considered the Westside Area Plan, a form-based code option for the development code, a 76.5-acre rezoning near 83rd Avenue and 28th Street, and an indoor storage facility east of 35th Avenue.
+  where: Westside / 83rd Avenue and 28th Street
   refs:
-  - 1
-  - 38
-  - 86
-  - 110
-  - 111
-  topics:
-  - Economic development
-  - Budget & taxes
-  - Downtown & business
-- title: 'Historic preservation: Savig House, museum awning and Hawes Building'
-  summary: Historic Preservation Commission designated the Savig House, reviewed awning rehabilitation at the Greeley History Museum (714 8th Street) and scheduled review of the Hawes Building facade at 810-12 8th Street.
-  where: 714 8th Street; 810-12 8th Street
-  refs:
-  - 9
+  - 105
   - 106
-  - 107
   topics:
-  - Historic preservation
-  public_comment: true
+  - Zoning & development
+- title: Golf course fee increases
+  summary: The Golf Course Advisory Board reviewed fee research and a motion raised nine-hole rates by $3. Cart revenue is about $800,000 yearly, and Highland Hills will use potable water after its ditch water ended.
+  where: Greeley golf courses
+  refs:
+  - 27
+  topics:
+  - Fees & rates
+  - Recreation & trails

@@ -1,6 +1,6 @@
-- title: New water treatment facility startup, leaks and draws
-  summary: Boone's new water treatment plant moved from operator training (March) toward startup in early May 2026, with periodic loan/grant draws and a 2-year warranty. By August the council said a leak in the GreenSands room and chlorine pump problems needed further investigation, and a bottled water advisory was lifted by the state health department in July.
-  where: Townwide
+- title: 'New water treatment facility: startup, warranty and draws'
+  summary: The town's new water treatment plant moved from operator training in March and startup in May to warranty fixes and payment draws. By August there was a leak in the GreenSands room and a problem with chlorine pumps needing further investigation, and council asked for an itemized breakdown of the final draw under the 2-year warranty.
+  where: Town water treatment facility
   refs:
   - 0
   - 1
@@ -13,15 +13,15 @@
   topics:
   - Water
   - Utilities
-  public_comment: true
-- title: Water/sewer billing procedure ordinance and landlord-tenant section
-  summary: The council spent months drafting an ordinance on water bill dates, late, reconnect and disconnect fees. The tenant/landlord responsibility section (Section 9) was repeatedly reworded, and the ordinance was approved and signed on Oct 14, 2026, with 30 days of posting before it takes effect. A new utility billing system with card and ACH payments was also approved.
+- title: Water/sewer billing procedure and tap fee ordinances
+  summary: Council spent most of the year drafting ordinances on water bill dates, late, reconnect and disconnect fees, and water and sewer tap fees. The tap fee ordinance was signed and posted in July. The billing ordinance was held up over landlord/tenant wording in Section 9, then approved and signed on Oct. 14 with 30 days of posting before it takes effect.
   where: Townwide
   refs:
   - 0
   - 1
   - 2
   - 4
+  - 6
   - 7
   - 8
   - 9
@@ -30,24 +30,11 @@
   - 12
   topics:
   - Fees & rates
+  - Water
   - Utilities
-- title: Water and sewer tap fee ordinance
-  summary: A tap fee ordinance was in the works from January, read and accepted in June, and finalized, signed and posted by July 29, 2026. In October the council also discussed a sewer tap for a resident, who is responsible for issues up to the tap.
+- title: 'Fire protection: IGA with Edison Fire Protection District'
+  summary: Council reviewed an intergovernmental agreement, contract and lease with the Edison fire district. The IGA was accepted in April and a resolution adopting the Edison FPD IGA and contracts passed on May 7.
   where: Townwide
-  refs:
-  - 0
-  - 1
-  - 2
-  - 4
-  - 8
-  - 9
-  - 12
-  topics:
-  - Fees & rates
-  - Utilities
-- title: Fire protection IGA with Edison Fire Protection District
-  summary: Boone worked out an intergovernmental agreement and lease with the Edison fire district to cover fire service. Council accepted the IGA in April and adopted a resolution approving the IGA and contracts on May 7, 2026.
-  where: Boone / Edison Fire District
   refs:
   - 1
   - 2
@@ -57,8 +44,8 @@
   topics:
   - Fire & emergencies
   - Government operations
-- title: Adopting Southern Colorado Building Department codes and amended IGA
-  summary: The town worked with the Southern Colorado Building Department (SCBD/SOCOBD) attorney to update ordinances based on Pueblo regional codes for code enforcement. The ordinances were reviewed, finalized and posted Oct 14, 2026 (one was missed), while the amended IGA was tabled until Nov 18 so Rockvail can be added.
+- title: Building code enforcement and Southern Colorado Building Department ordinances
+  summary: The town has been revising its ordinances tied to the Southern Colorado Building Department (SCBD, formerly using Pueblo regional codes) for code enforcement. The department's attorney worked on revisions, and the ordinances were finalized and posted Oct. 14, though one was missed. An amended IGA was tabled to Nov. 18 so SCBD can add Rockvail.
   where: Townwide
   refs:
   - 0
@@ -72,42 +59,64 @@
   topics:
   - Zoning & development
   - Government operations
-- title: Refuse rate increase
-  summary: A 3% trash fee increase under the town's contract was discussed in June. Council approved a resolution for the refuse rate increase on July 29, and all members signed it Aug 19, 2026.
+- title: Refuse rate increase and utility billing changes
+  summary: Council approved a refuse rate increase, a 3% trash fee increase under the contract, and signed the resolution in August. It also worked on a new utility billing system with credit card and ACH payments, and discussed switching internet from CenturyLink to Starlink at $280 a month.
   where: Townwide
   refs:
+  - 2
+  - 4
   - 7
   - 9
   - 10
   topics:
   - Fees & rates
   - Utilities
-- title: Park playground equipment, mower and sprinklers
-  summary: Council discussed the town park needing new playground equipment, and the Edison fire chief suggested USDA and GOCO grants. Eight sprinkler heads were replaced after mowing damage and council approved buying a new mower. A park memorial re-dedication for the 250th anniversary was also on the June agenda.
-  where: Boone town park
+  - Broadband
+- title: Water quality notice and lead line survey
+  summary: The state health department lifted a bottled water advisory and the town sent letters to all residents. Some residents still questioned the safe water notice, and the operator advised checking test results online. Council also discussed the drinking water quality report and lead line survey notices.
+  where: Townwide
   refs:
-  - 7
+  - 6
+  - 8
+  - 9
+  - 10
+  topics:
+  - Water
+  - Health & human services
+  public_comment: true
+- title: Town park playground and mower
+  summary: Eight sprinkler heads were replaced after mowing damage and council approved buying a new mower. Council discussed that the playground needs new equipment, and the Edison fire chief suggested USDA or GOCO grants.
+  where: Town park
+  refs:
   - 10
   topics:
   - Parks & open space
   - Recreation & trails
-- title: Town administrator appointment and employee handbook
-  summary: Council approved a resolution appointing a town administrator in August 2026, with a follow-up completed in September. An employee handbook workshop was set.
-  where: Boone Town Hall
-  refs:
-  - 10
-  - 11
-  topics:
-  - Government operations
-- title: Internet service change and 2026 budget
-  summary: Council discussed switching the town from CenturyLink to Starlink at a $280 flat monthly fee. Separate budget meetings were held in March and April 2026.
+- title: Town administrator appointment and town governance
+  summary: Council appointed a town administrator in August and completed related paperwork in September. It also approved a records retention policy, cancelled the spring election, swore in new council members, scheduled an employee handbook workshop, and took up the 2024 audit.
   where: Townwide
   refs:
   - 1
-  - 2
   - 4
-  - 6
-  - 7
+  - 10
+  - 11
+  - 13
   topics:
-  - Broadband
-  - Budget & taxes
+  - Government operations
+  - Elections
+- title: Dispute with Secom contract and DOLA complaint
+  summary: Council noted a complaint to the state Division of Local Government (DOLA) about the Secom contract in March. The documents give no further details.
+  refs:
+  - 2
+  topics:
+  - Lawsuits & legal
+  - Water
+- title: Dumping on roads and road work
+  summary: A resident raised dumping on town roads and water bills. Pea gravel and road base were ordered in September to begin road work.
+  where: Town roads
+  refs:
+  - 9
+  - 11
+  topics:
+  - Roads & traffic
+  public_comment: true

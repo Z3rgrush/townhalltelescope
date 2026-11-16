@@ -1,18 +1,18 @@
 - title: 2027 city budget and appropriations
-  summary: Council is taking up the City Manager's proposed 2027 budget, with a public hearing and introduction of the operating and capital appropriation ordinances. It also considers amending the 2026 capital budget and the city's investment policy, and a budget reconciliation session is scheduled.
+  summary: Council is holding a public hearing on the City Manager's 2027 proposed budget and introducing ordinances for the 2027 operating and capital appropriations. A resolution would also amend the 2026 capital budget and the city's investment policy, and a study session includes budget reconciliation.
   where: Citywide
   refs:
-  - 5
-  - 6
+  - 0
+  - 1
   topics:
   - Budget & taxes
   - Government operations
-- title: Water and sewer rate changes
-  summary: An ordinance was introduced to amend water charges (Sec. 25-30) and sewer service rates (Sec. 25-114) in the city code. Council also has a study session on Water Efficiency Plan and Water Shortage Response Plan updates.
+- title: Water and sewer rate changes and water shortage planning
+  summary: Council is introducing an ordinance amending water charges and sewer service rates in the city code. A study session covers updates to the Water Efficiency Plan and Water Shortage Response Plan.
   where: Citywide
   refs:
-  - 5
-  - 6
+  - 0
+  - 1
   topics:
   - Fees & rates
   - Water
@@ -21,55 +21,49 @@
   summary: Council is asked to authorize the City Manager to sign a four-party agreement for design and construction of a 200-foot pipeline conveying Lake Nighthorse water.
   where: Lake Nighthorse
   refs:
-  - 5
+  - 0
   topics:
   - Water
   - Utilities
-- title: City Hall/Police Station site plan
-  summary: The Community Development Commission is getting early design guidance on the major site plan for the new City Hall/Police Station (PR-26-52).
-  where: City Hall/Police Station site
+- title: South Durango and Durango Crossings urban renewal areas
+  summary: The Urban Renewal Authority is considering forming the Durango Crossings and South Durango URA plan areas. It will hear a presentation on the South Durango Multi-Sport Facility and go into executive session for legal advice on negotiations related to the South Durango plan.
+  where: South Durango
   refs:
-  - 1
+  - 7
   topics:
+  - Economic development
   - Zoning & development
-  - Government operations
-- title: Noise rules in the Land Use and Development Code
-  summary: A public hearing is scheduled on text amendments to the Land Use and Development Code regarding noise (PR-26-68).
+  - Recreation & trails
+- title: Regional housing and child care funding
+  summary: Council will hear from the Regional Housing Alliance of La Plata County about 2027 and beyond. It will also get an update on the Child Care Investment Fund city grant and a 2027 support proposal.
   where: Citywide
   refs:
-  - 1
-  topics:
-  - Zoning & development
-- title: Regional housing and child care support for 2027
-  summary: Council hears presentations from the Regional Housing Alliance of La Plata County on 2027 and beyond, and an update on the Child Care Investment Fund city grant with a 2027 support proposal.
-  where: Citywide
-  refs:
-  - 5
+  - 0
   topics:
   - Housing
   - Schools & youth
-- title: Remote parking code change and parking wayfinding
-  summary: Council gives final reading to a Land Use and Development Code ordinance on remote parking. A study session covers the Parking Wayfinding Project.
+  - Health & human services
+- title: Remote parking rules and downtown parking wayfinding
+  summary: Council is giving final reading to a land use code amendment on remote parking. A study session working session covers the parking wayfinding project.
   where: Downtown Durango
   refs:
-  - 5
-  - 6
+  - 0
+  - 1
   topics:
-  - Roads & traffic
   - Zoning & development
-- title: Animas Air Park and La Posta economic discussion
-  summary: Council has a staff presentation at a study session on Animas Air Park and La Posta economic matters.
+  - Roads & traffic
+  - Downtown & business
+- title: Animas Air Park and La Posta economic development
+  summary: A council study session includes a staff presentation on Animas Air Park and La Posta economic development.
   where: Animas Air Park / La Posta
-  refs:
-  - 6
-  topics:
-  - Airports
-  - Economic development
-- title: Camino Crossing underpass and drone deliveries
-  summary: The Community Development Commission hears a presentation on the Camino Crossing underpass and discusses drone deliveries, proposed by the Chair.
-  where: Camino Crossing
   refs:
   - 1
   topics:
-  - Roads & traffic
-  - Recreation & trails
+  - Airports
+  - Economic development
+- title: Court case executive session
+  summary: Council called a special meeting with an executive session on a La Plata County District Court case (2026 CV 030147) filed against the city.
+  refs:
+  - 6
+  topics:
+  - Lawsuits & legal

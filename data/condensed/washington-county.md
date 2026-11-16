@@ -146,3 +146,18 @@
 - 5. PILT Agreement
 - 11:00 Budget Review
 - 3:00 Budget Review
+
+## [washington-county#11] 2026-11-10 | City Council | agenda
+- 9:07 Public Comment/Work Session
+- any comment to staff for resolution or for scheduling of a work session. Personal attacks against Board members,
+- outside its jurisdiction or are likely to be considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give his or her testimony at that hearing, either in person or in writing.)
+- Approve Consent Agenda
+- 1. Capital Purchase – District 1 – Air Compressor
+- 2. Capital Purchase – Maintenance – Courtroom Flooring
+- 3. Capital Purchase – Pioneer Haven – Stove Range
+- 4. Clinic Bids Discussion
+- 5. Contract – Comprehensive Plan
+- 10:15-11:15 Budget Review-Hali
+- 11:15-12:00 Budget Review-Annie
+- 2:00-3:00 Budget Review-Michelle

@@ -1,6 +1,6 @@
 # meeker
 
-## [meeker#3] 2026-02-23 | City Council | agenda
+## [meeker#2] 2026-02-23 | City Council | agenda
 - 345 Market Street, Meeker, CO
 - IV. Approval of the Agenda
 - V. Approval of the Previous Minutes
@@ -12,7 +12,7 @@
 - c. Consideration of a Variance Request from Renninger Investments, LLC at 325 Curtis Creek Drive
 - for a reduced front yard setback of 0-feet
 
-## [meeker#5] 2026-07-13 | City Council | agenda
+## [meeker#4] 2026-07-13 | City Council | agenda
 - 345 Market Street, Meeker, CO
 - IV. Approval of the Agenda
 - V. Approval of the Previous Minutes
@@ -24,7 +24,7 @@
 - c. Consideration of an Encroachment request to access the Town’s right-of-way from Rebekah and
 - Justin Grant at Lot 2, Resubdivision of Lots 235 through 259 of Sanderson Hills Subdivision, Town
 
-## [meeker#7] 2026-08-03 | City Council | agenda
+## [meeker#6] 2026-08-03 | City Council | agenda
 - 345 Market Street, Meeker, CO
 - IV. Approval of the Agenda
 - V. Approval of the Previous Minutes
@@ -35,7 +35,7 @@
 - b. Consideration of Variance Request for to construct a fence that is eight feet in height from Jessica
 - and Matt Franks at Lot 3 and east ½ of Lot A, Block 33, Town of Meeker also known as 172 Water
 
-## [meeker#8] 2026-11-03 | City Council | agenda
+## [meeker#7] 2026-11-03 | City Council | agenda
 - 345 Market Street, Meeker, CO
 - II. Approval of the Agenda
 - III. Approval of the Previous Minutes

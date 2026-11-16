@@ -1,5 +1,5 @@
-- title: Data center moratorium and regulations
-  summary: Residents, Yampa Valley Electric and Pure-Green Colorado spoke on a possible data center moratorium (Resolution 2026-103) tied to the Trapper Reborn project. The Planning & Zoning Commission took up rule-making and held public and expert panel meetings in early October. On Oct 13 the commissioners called for a motion to adopt the moratorium, got no response, and the motion died.
+- title: Data center regulations and failed moratorium
+  summary: The Planning & Zoning Commission is writing data center rules for Moffat County. Residents, Yampa Valley Electric and Pure-Green Colorado spoke on a possible moratorium, and a panel discussion was held Oct. 6. On Oct. 13 Commissioner Bohrer called for a motion to adopt the Planning & Zoning Commission's recommended moratorium (Resolution 2026-103), no one responded, and the motion died.
   where: Countywide
   refs:
   - 0
@@ -13,80 +13,96 @@
   tags:
   - data-center
   public_comment: true
-- title: Term limits referendum on the November ballot
-  summary: Commissioners approved Resolution 2026-100 for a referendum on term limits and an intergovernmental agreement with the Clerk's Office to place it on the November ballot. Both passed 3-0.
+- title: Trapper Reborn project
+  summary: Pure-Green Colorado's CEO described the Trapper Reborn project and asked the commissioners not to pass a moratorium that could affect it. Other speakers backed the project's economic development potential.
+  where: Trapper Mine area
+  refs:
+  - 1
+  topics:
+  - Economic development
+  - Data centers
+  tags:
+  - data-center
+  public_comment: true
+- title: Term limits referendum for November ballot
+  summary: The commissioners approved Resolution 2026-100, a referendum on term limits, along with an intergovernmental agreement with the Clerk's Office to put it on the November ballot.
   where: Countywide
   refs:
   - 0
   topics:
   - Elections
   - Government operations
-- title: Proposed 2027 county budget hearing
-  summary: A public hearing was held on Oct 13 to present the proposed 2027 county budget for adoption. The documents shown do not state the outcome.
+- title: 2027 county budget and related budgets
+  summary: A public hearing was held Oct. 13 on the proposed 2027 county budget. The Moffat Economic Development Authority's 2027 budget (Resolution 2026-129) was scheduled for adoption Nov. 10.
   where: Countywide
   refs:
   - 4
+  - 6
   topics:
   - Budget & taxes
-- title: Loudy-Simpson Park Master Plan
-  summary: Staff presented a proposal from Logan Simpson to develop a master plan for Loudy-Simpson Park. The related contract was on the Sept 22 consent agenda.
+  - Economic development
+- title: Loudy-Simpson Park master plan and shop
+  summary: Staff presented a Logan Simpson proposal for a Loudy-Simpson Park master plan, and a contract for the plan was on the Sept. 22 consent agenda. A contract with Masterworks Mechanical for the park shop followed in November.
   where: Loudy-Simpson Park
   refs:
   - 1
   - 2
+  - 6
   topics:
   - Parks & open space
   - Recreation & trails
-- title: Craig skatepark funding and design
-  summary: The Craig Skatepark Alliance and county staff won approval to apply for $25,000 grants each from the Laura Jane Musser Fund and El Pomar Foundation. The group plans a GOCO application in January. A services agreement with Grindline Skateparks was approved Oct 13.
+- title: Craig skatepark funding
+  summary: The Craig Skatepark Alliance and county staff won approval to apply for $25,000 grants each from the Laura Jane Musser Fund and the El Pomar Foundation. A GOCO grant application is planned for January. A services agreement with Grindline Skateparks was on the Oct. 13 consent agenda.
   where: Craig
   refs:
   - 2
   - 4
   topics:
-  - Recreation & trails
   - Parks & open space
-- title: Echo Park Road (CR 156) closure
-  summary: Commissioners approved Resolution 2026-120 temporarily closing County Road 156 in Dinosaur National Monument because flash-flood erosion made it unsafe. The Park Service must investigate archaeological concerns before repairs.
-  where: County Road 156 (Echo Park Road), Dinosaur National Monument
+  - Recreation & trails
+  - Budget & taxes
+  public_comment: true
+- title: Echo Park Road closure
+  summary: The commissioners approved Resolution 2026-120 temporarily closing County Road 156 (Echo Park Road) in Dinosaur National Monument. Flash flood erosion left it unsafe, and the Park Service wants archaeological concerns investigated before repairs.
+  where: County Road 156, Echo Park Road, Dinosaur National Monument
   refs:
   - 3
   topics:
   - Roads & traffic
   - Environment & climate
 - title: Road and Bridge snow bank payment policy
-  summary: Road and Bridge employee George Miner asked commissioners to examine inconsistencies in the snow bank payment policy and followed up on Sept 8 on his earlier request.
+  summary: A Road & Bridge employee asked the commissioners twice to look into inconsistencies in the county's snow bank payment policy and asked for follow-up on his earlier request.
   where: Countywide
   refs:
   - 0
   - 1
   topics:
-  - Government operations
   - Roads & traffic
+  - Government operations
   public_comment: true
-- title: Employee Health Insurance Advisory Board reinstated
-  summary: Commissioners were asked to reinstate the Employee Health Insurance Advisory Board and appointed five employee-elected members to recommend plan improvements. On Oct 13 they also named Mountain West Insurance, a local firm, as agent of record.
+- title: Employee health insurance board and insurance agent
+  summary: The commissioners reinstated the Employee Health Insurance Advisory Board and appointed five employee-elected members. They also designated local firm Mountain West Insurance as agent of record (Resolution 2026-118).
   where: Countywide
   refs:
   - 1
   - 4
   topics:
   - Government operations
-  - Budget & taxes
+  - Health & human services
+- title: Vermillion/Great Divide shop project
+  summary: The Vermillion shop project had a contract amendment with Charchalis Construction and fuel tank removal testing and consultation approved on consent agendas.
+  where: Vermillion shop
+  refs:
+  - 4
+  - 5
+  topics:
+  - Government operations
+  - Land & property
 - title: Contract monitoring policy
-  summary: Commissioners adopted Resolution 2026-111, setting a standard for monitoring contracts, grants, subawards and intergovernmental agreements.
+  summary: The commissioners adopted Resolution 2026-111, a contract monitoring policy setting a standard for overseeing contracts, grants, subawards and intergovernmental agreements to meet federal and state requirements.
   where: Countywide
   refs:
   - 2
   topics:
   - Government operations
   - Ethics & transparency
-- title: Welba Peak mineral lease and Browns Park property sale
-  summary: Commissioners approved Resolution 2026-96, the Welba Peak mineral lease. On Oct 13 they amended Resolution 2026-39 on the sale of county real property to the Browns Park Alumni.
-  where: Welba Peak; Browns Park
-  refs:
-  - 0
-  - 4
-  topics:
-  - Land & property
-  - Oil, gas & mining

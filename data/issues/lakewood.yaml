@@ -1,5 +1,5 @@
-- title: 'Ballot Issue 2G: 0.5% sales tax increase for public safety'
-  summary: Council referred Ballot Issue 2G to the November 3, 2026 ballot (Resolution 2026-58, Aug. 24) and then passed a resolution of support on Oct. 12. It would raise the sales and use tax rate by one-half percent, with revenue dedicated to public safety and traffic safety improvements, including crime prevention and homelessness response.
+- title: 'Ballot Issue 2G: half-cent sales tax for public and traffic safety'
+  summary: Council adopted Resolution 2026-58 on Aug. 24 to put Ballot Issue 2G on the Nov. 3, 2026 ballot. It would raise the sales and use tax rate by one-half percent, with revenue dedicated to public safety and traffic safety. On Oct. 12 council considered a resolution formally supporting the measure.
   where: Citywide
   refs:
   - 0
@@ -9,17 +9,62 @@
   - Budget & taxes
   - Policing & public safety
   - Elections
-- title: Automated license plate readers and proposed AVIS
-  summary: Police presented Lakewood's use of 17 fixed Flock Safety license plate cameras, in use in various forms since 2010 and originally funded by a federal JAG grant. Council is reviewing whether more safeguards are needed and how the city's proposed Automated Vehicle Identification System relates to the existing cameras.
+- title: Automated license plate readers and red-light/speed camera vendor safeguards
+  summary: Police presented on the 17 fixed Flock Safety license plate cameras the city has run, and council discussed safeguards and how they relate to the proposed automated vehicle identification system for red-light and speed enforcement. In November staff brought draft accountability language to guide contracts as the city seeks a new vendor for both technologies.
   where: Citywide
   refs:
   - 4
   - 5
+  - 15
   topics:
   - Policing & public safety
+  - Ethics & transparency
+  - Roads & traffic
+- title: Affordable Housing Fund study session
+  summary: On Nov. 16 council reviewed the Housing Policy Commission's 2026 discussions on creating a local Affordable Housing Fund, including housing need data and homelessness trends, and the steps toward an ordinance establishing the fund. A separate item sets 2026 neighborhood and affordable housing preservation funding, including a 3% increase to affordable housing stock.
+  where: Citywide
+  refs:
+  - 10
+  - 11
+  - 14
+  - 15
+  topics:
+  - Housing
+  - Homelessness
+  - Budget & taxes
+- title: West Colfax LRA investment strategy
+  summary: Staff presented an updated strategy for spending West Colfax urban renewal tax increment funds, which expire in 2030. Ten potential projects were scored, including the Quail Street Center, and the Colfax transportation safety project would narrow Colfax from three lanes to two each direction.
+  where: West Colfax corridor, Pierce Street to Simms Street
+  refs:
+  - 16
+  - 17
+  topics:
+  - Economic development
+  - Zoning & development
+  - Roads & traffic
+- title: 2027 city and LRA budgets
+  summary: Council saw the revised 2026 and proposed 2027 city budget in a September study session. The Lakewood Reinvestment Authority reviewed its revised 2026 and proposed 2027 budget, with approval sought Oct. 19. Council also approved 2027 budgets for the Alameda Corridor and West Colfax business improvement districts.
+  where: Citywide
+  refs:
+  - 1
+  - 2
+  - 3
+  - 6
+  - 7
+  topics:
+  - Budget & taxes
   - Government operations
-- title: Rezonings on S. Kipling, W. Mansfield and W. Duquesne
-  summary: 'Council took up a series of rezoning ordinances: 2555 S. Kipling St. and 7201 W. Mansfield Ave. (first reading Oct. 26, second reading Nov. 9), and 7801 W. Duquesne and 2501 S. Kipling St. (first reading Nov. 9).'
+- title: Public benefit agreement to keep Natural Grocers headquarters in Lakewood
+  summary: Council considered a performance-based incentive agreement to keep Natural Grocers' national headquarters in Lakewood, with 50 new jobs and repayment if it moves. It follows a 2023 agreement for up to $500,000 that did not proceed because required public improvements grew beyond its scope.
+  where: Natural Grocers headquarters, 12612 W. Alameda Parkway
+  refs:
+  - 12
+  - 13
+  topics:
+  - Economic development
+  - Downtown & business
+- title: Rezonings on Kipling, Mansfield and Duquesne
+  summary: 'Council took up a series of rezoning ordinances in fall 2026: 2555 S. Kipling St. and 7201 W. Mansfield Ave. (first reading Oct. 26, second reading Nov. 9), and 7801 W. Duquesne and 2501 S. Kipling St. (first reading Nov. 9).'
   where: 2555 and 2501 S. Kipling St.; 7201 W. Mansfield Ave.; 7801 W. Duquesne
   refs:
   - 10
@@ -29,17 +74,8 @@
   topics:
   - Zoning & development
   - Land & property
-- title: Natural Grocers headquarters public benefit agreement
-  summary: Council considered a performance-based incentive agreement to keep Natural Grocers' national headquarters in Lakewood, tied to a building remodel, 50 new jobs and average wages at or above the Jefferson County average. The company must repay the incentive if it moves its headquarters out during the retention period. A 2023 agreement for a larger project at 12612 W. Alameda Parkway never moved forward.
-  where: 12612 W. Alameda Parkway
-  refs:
-  - 12
-  - 13
-  topics:
-  - Economic development
-  - Fees & rates
-- title: Purchase of 1081 Vance Street for open space and park
-  summary: Council considered an ordinance authorizing the city to buy the property at 1081 Vance Street for municipal open space and park purposes. It was on first reading Sept. 28 and second reading with a public hearing Oct. 12.
+- title: Purchase of 1081 Vance Street for open space and parks
+  summary: Council moved an ordinance authorizing the city to buy the property at 1081 Vance Street for municipal open space and park purposes, with first reading Sept. 28 and second reading Oct. 12.
   where: 1081 Vance Street
   refs:
   - 6
@@ -50,7 +86,7 @@
   - Parks & open space
   - Land & property
 - title: 2025 Colorado Wildfire Resiliency Code adoption
-  summary: Council adopted the 2025 Colorado Wildfire Resiliency Code with local deletions and amendments, with first reading Aug. 24 and second reading with a public hearing Sept. 28.
+  summary: Council took up an ordinance adopting the 2025 Colorado Wildfire Resiliency Code with local deletions and amendments, with first reading Aug. 24 and second reading Sept. 28.
   where: Citywide
   refs:
   - 0
@@ -59,20 +95,9 @@
   topics:
   - Fire & emergencies
   - Zoning & development
-- title: Revised 2026 and proposed 2027 city and LRA budgets
-  summary: Council and the Lakewood Reinvestment Authority heard presentations of the revised 2026 and proposed 2027 budgets on Sept. 14. Staff plans to seek approval of the LRA budget at the Oct. 19 meeting. Council also approved 2027 budgets for the Alameda Corridor and West Colfax business improvement districts.
-  where: Citywide
-  refs:
-  - 1
-  - 2
-  - 3
-  - 6
-  - 7
-  topics:
-  - Budget & taxes
-  - Downtown & business
+  - Environment & climate
 - title: Permanent police committee
-  summary: Council amended its earlier resolution (R-2026-6) on establishing a permanent police committee and appointed a member to the ad-hoc committee working toward it.
+  summary: Council amended Resolution R-2026-6 to revise the ad-hoc committee working toward a permanent police committee and considered appointing a member to it on Sept. 28.
   where: Citywide
   refs:
   - 6
@@ -80,20 +105,9 @@
   topics:
   - Policing & public safety
   - Government operations
-- title: City Manager contract
-  summary: Council had a city manager contract item on its Aug. 24 agenda. The documents give no details of terms or outcome.
-  where: Citywide
+- title: City manager contract
+  summary: Council's Aug. 24 agenda included a resolution on the city manager's contract; the condensed agenda gives no details of the terms.
   refs:
   - 0
   topics:
   - Government operations
-- title: Neighborhood Participation Program and capital project funding
-  summary: Council considered setting 2026 capital improvement project funding levels, including projects recommended under the Neighborhood Participation Program, which funds small neighborhood-proposed projects such as playgrounds, public art and community gardens. A related item concerned increasing the city's affordable housing stock by 3%.
-  where: Citywide
-  refs:
-  - 10
-  - 11
-  topics:
-  - Parks & open space
-  - Housing
-  - Budget & taxes

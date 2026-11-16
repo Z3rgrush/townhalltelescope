@@ -1,19 +1,10 @@
 # fort-lupton
 
-## [fort-lupton#0] 2026-08-11 | City Council | agenda
-- General Discussion – The Town Hall meeting is for the Public to have open discussion with Council regarding any
-- followed by discussion. No transcripts or summary are taken during Town Hall meetings
-- a. Second Reading Ordinance 2026-1201 Purchase Agreement of Real Property Owned
-- b. Youth Advisory Committee Appointments
-- c. 9th and Northrup/9th Street Extension Project
-- d. Custodial Staffing Discussion
-- e. July 4, 2027 Event Discussion
-
-## [fort-lupton#1] 2026-08-20 | General | agenda
+## [fort-lupton#0] 2026-08-20 | General | agenda
 - interested in attending, please direct all requests to the FLURA staff Liaison Zachary
 - CRS § 24-6-402 (2) (c) Any meetings at which the adoption of any proposed policy, position, resolution, rule,
 
-## [fort-lupton#2] 2026-08-25 | City Council | agenda
+## [fort-lupton#1] 2026-08-25 | City Council | agenda
 - General Discussion – The Town Hall meeting is for the Public to have open discussion with Council regarding any
 - followed by discussion. No transcripts or summary are taken during Town Hall meetings
 - b. Ewing Annexation Amendment
@@ -26,7 +17,7 @@
 - JVA - 5th Street and Broadway Avenue Reconstruction Project
 - HKS - 3rd Street and 5th Street Reconstruction Project
 
-## [fort-lupton#3] 2026-09-01 | City Council | agenda
+## [fort-lupton#2] 2026-09-01 | City Council | agenda
 - Approval of Agenda
 - Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion and vote
 - There will be no separate discussion of Consent Agenda items unless a Councilmember so requests, in which case the item
@@ -47,7 +38,7 @@
 - Annexation Agreement Approved by the City Council on April 16, 2024
 - a. September 11, 2026 Trapper Day's Street Dance, 4th Street & Denver Ave. 6:00 p.m
 
-## [fort-lupton#4] 2026-09-01 | City Council | agenda
+## [fort-lupton#3] 2026-09-01 | City Council | agenda
 - Approval of Agenda
 - Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion and vote
 - There will be no separate discussion of Consent Agenda items unless a Councilmember so requests, in which case the item
@@ -84,7 +75,7 @@
 - 64574 Invoice 08/12/2026 GF-REPAIR TO STREELIGHT-STREETS 4,141.570.00
 - 000146 Invoice 08/23/2026 CPR-2026 UMPIRE FEES-ATHL 5,280.000.00
 
-## [fort-lupton#5] 2026-09-08 | City Council | agenda
+## [fort-lupton#4] 2026-09-08 | City Council | agenda
 - General Discussion – The Town Hall meeting is for the Public to have open discussion with Council regarding any
 - followed by discussion. No transcripts or summary are taken during Town Hall meetings
 - a. Appointing Mia Dominguez to the Youth Advisory Committee
@@ -92,7 +83,7 @@
 - f. Koshio Park – Change Order No. 2
 - j. Plant Investment Fee Changes 2027
 
-## [fort-lupton#6] 2026-09-15 | City Council | minutes
+## [fort-lupton#5] 2026-09-15 | City Council | minutes
 - Approval of Agenda
 - Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion and vote
 - There will be no separate discussion of Consent Agenda items unless a Councilmember so requests, in which case the item
@@ -128,11 +119,11 @@
 - distribution system and the Wastewater Treatment Plant
 - Changes incorporated within this revision include:
 
-## [fort-lupton#7] 2026-09-18 | General | agenda
+## [fort-lupton#6] 2026-09-18 | General | agenda
 - Waste Water Treatment Plant with USDA under Secretary
 - CRS § 24-6-402 (2) (c) Any meetings at which the adoption of any proposed policy, position, resolution, rule, regulation, or
 
-## [fort-lupton#8] 2026-09-29 | City Council | agenda
+## [fort-lupton#7] 2026-09-29 | City Council | agenda
 - General Discussion – The Town Hall meeting is for the Public to have open discussion with Council regarding any
 - followed by discussion. No transcripts or summary are taken during Town Hall meetings
 - a. Second Reading Ordinance 2026-1202 First Amendment to the Ewing Annexation
@@ -147,7 +138,7 @@
 - l. Purchase of Grader
 - m. Development Review Consultant Agreement
 
-## [fort-lupton#9] 2026-10-13 | City Council | agenda
+## [fort-lupton#8] 2026-10-13 | City Council | agenda
 - General Discussion – The Town Hall meeting is for the Public to have open discussion with Council regarding any
 - followed by discussion. No transcripts or summary are taken during Town Hall meetings
 - a. Liquor Licensing Authority Public Hearing
@@ -160,14 +151,14 @@
 - g. Contract Amendment - 5th & Broadway Street Project - JVA
 - i. Proposition 123 Commitment for Affordable Housing 2027-2029
 
-## [fort-lupton#10] 2026-10-15 | Fort Lupton Urban Renewal Authority | agenda
+## [fort-lupton#9] 2026-10-15 | Fort Lupton Urban Renewal Authority | agenda
 - Approval of Agenda
 - Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion and vote
 - There will be no separate discussion of Consent Agenda items unless a Councilmember so requests, in which case the item
 - Public Comment This portion of the Agenda is provided to allow members of the audience to present comments to the
 - a. 2027 Draft Budget
 
-## [fort-lupton#11] 2026-10-15 | Fort Lupton Urban Renewal Authority | agenda
+## [fort-lupton#10] 2026-10-15 | Fort Lupton Urban Renewal Authority | agenda
 - Approval of Agenda
 - Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion and vote
 - There will be no separate discussion of Consent Agenda items unless a Councilmember so requests, in which case the item
@@ -201,14 +192,14 @@
 - FLURA-REIMBURSE WELD TIF VINCENTS END09/14/2026 26,091.28002610 - AIMS COMMUNITY COLLEGE091426APPKT07396 67,549.80
 - FLURA-REIMBURSE REC CENTER TIFF 100%09/14/2026 64,020.14000240 - CITY OF FORT LUPTON2026 TIFAPPKT07396 197,515.21
 
-## [fort-lupton#12] 2026-10-20 | General | agenda
+## [fort-lupton#11] 2026-10-20 | General | agenda
 - Approval of Agenda
 - Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion and vote
 - There will be no separate discussion of Consent Agenda items unless a Councilmember so requests, in which case the item
 - Public Hearings - Public Hearings allow members of the audience to present comments and questions to the City
 - a. AM 2026-003 Consideration of the Renewal Application for a Fermented Malt
 
-## [fort-lupton#13] 2026-10-20 | General | agenda
+## [fort-lupton#12] 2026-10-20 | General | agenda
 - Approval of Agenda
 - Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion and vote
 - There will be no separate discussion of Consent Agenda items unless a Councilmember so requests, in which case the item
@@ -241,7 +232,7 @@
 - which meets the statutory requirements. All public notification requirements including posting
 - to submit comments regarding this application is May 4, 2026. As of May 1, 2026, no
 
-## [fort-lupton#14] 2026-10-22 | Planning Commission | agenda
+## [fort-lupton#13] 2026-10-22 | Planning Commission | agenda
 - Approval of Agenda
 - Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion and vote
 - There will be no separate discussion of Consent Agenda items unless a Councilmember so requests, in which case the item
@@ -251,7 +242,7 @@
 - a. Presentation & Discussion of Draft Housing Action Plan and Draft Strategic Growth
 - b. Presentation & Discussion of Proposed Draft Land Use Categories
 
-## [fort-lupton#15] 2026-10-22 | Planning Commission | agenda
+## [fort-lupton#14] 2026-10-22 | Planning Commission | agenda
 - Approval of Agenda
 - Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion and vote
 - There will be no separate discussion of Consent Agenda items unless a Councilmember so requests, in which case the item
@@ -285,7 +276,7 @@
 - David Van der Vieren responded to the question concerning the length of the project and said it is
 - all of them for the project. He further stated that Western Midstream would be the responsible party for
 
-## [fort-lupton#16] 2026-10-27 | City Council | agenda
+## [fort-lupton#15] 2026-10-27 | City Council | agenda
 - General Discussion – The Town Hall meeting is for the Public to have open discussion with Council regarding any
 - followed by discussion. No transcripts or summary are taken during Town Hall meetings
 - a. Ratifying the Appointment of Lynette Hanzlicek for Region 2 and Dr. Carmody Lee for
@@ -297,7 +288,7 @@
 - g. Draft Housing Action Plan and Strategic Growth Element Discussion
 - h. Draft Comprehensive Plan Future Land Use Categories Discussion
 
-## [fort-lupton#17] 2026-10-27 | City Council | agenda
+## [fort-lupton#16] 2026-10-27 | City Council | agenda
 - General Discussion – The Town Hall meeting is for the Public to have open discussion with Council regarding any
 - followed by discussion. No transcripts or summary are taken during Town Hall meetings
 - a. Ratifying the Appointment of Lynette Hanzlicek for Region 2 and Dr. Carmody Lee for
@@ -335,16 +326,16 @@
 - Growth decisions should consider housing and employment needs, infrastructure and water capacity,
 - community priorities. By directing development to appropriate locations and encouraging reinvestment in existing
 
-## [fort-lupton#18] 2026-10-29 | General | agenda
+## [fort-lupton#17] 2026-10-29 | General | agenda
 - Location: Weld County Administration Building, 1150 O Street, Greeley
 - General Discussion:
 - CRS § 24-6-402 (2) (c) Any meetings at which the adoption of any proposed policy, position, resolution, rule, regulation, or
 
-## [fort-lupton#19] 2026-10-29 | General | agenda
+## [fort-lupton#18] 2026-10-29 | General | agenda
 - Location: 2500 9th Street, Fort Lupton, CO 80621
 - CRS § 24-6-402 (2) (c) Any meetings at which the adoption of any proposed policy, position, resolution, rule, regulation, or
 
-## [fort-lupton#20] 2026-11-03 | General | agenda
+## [fort-lupton#19] 2026-11-03 | General | agenda
 - 2500 9th Street
 - Approval of Agenda
 - Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion and vote
@@ -365,7 +356,7 @@
 - November 24, 2026 Town Hall Meeting, City Hall, 2500 9th Street 6:00 p.m
 - December 1, 2026 City Council Meeting, City Hall, 2500 9th Street 6:00 p.m
 
-## [fort-lupton#21] 2026-11-03 | General | agenda
+## [fort-lupton#20] 2026-11-03 | General | agenda
 - 2500 9th Street
 - Approval of Agenda
 - Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion and vote
@@ -402,7 +393,7 @@
 - 025-567518 Invoice 10/01/2026 GF-INSITE PORTAL FEE-COURT 365.000.00
 - 160868-36 Invoice 10/21/2026 UF-WATER TOWER CONSTRUCTION MAN… 61,028.250.00
 
-## [fort-lupton#22] 2026-11-05 | Historic Preservation Board | agenda
+## [fort-lupton#21] 2026-11-05 | Historic Preservation Board | agenda
 - Approval of Agenda
 - Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion
 - and vote. There will be no separate discussion of Consent Agenda items unless a Councilmember so requests, in
@@ -410,7 +401,7 @@
 - Public Comment This portion of the Agenda is provided to allow members of the audience to present
 - Discussion Items
 
-## [fort-lupton#23] 2026-11-05 | Historic Preservation Board | agenda
+## [fort-lupton#22] 2026-11-05 | Historic Preservation Board | agenda
 - Approval of Agenda
 - Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion
 - and vote. There will be no separate discussion of Consent Agenda items unless a Councilmember so requests, in
@@ -436,3 +427,13 @@
 - o Attend SHPO-approved training at least once per year
 - o Incentives
 - Lindsey Flewelling, Preservation Planner & Certified Local Government Coordinator
+
+## [fort-lupton#23] 2026-11-10 | City Council | agenda
+- 2500 9th Street
+- General Discussion – The Town Hall meeting is for the Public to have open discussion with Council regarding any
+- followed by discussion. No transcripts or summary are taken during Town Hall meetings
+- a. Staff Appointments
+- c. Volunteer Accident Medical Plan - 2027 Policy Year
+- d. 2027 Golf Green Fee Rate Discussion
+- f. High Deductible Health Plan Amendment
+- h. 2027 Budget Approval

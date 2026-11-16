@@ -1,152 +1,139 @@
-- title: Downtown paid-parking pilot and Old Town parking fees
-  summary: At an Aug. 11 work session, Council discussed piloting paid parking at the Oak & Remington surface lot, possibly with on-street paid parking, and asked staff to return with revised pilot options and downtown employee parking ideas. A code update is planned ahead of an on-street pilot. A resident later spoke on messaging about downtown parking fees.
-  where: Downtown / Old Town Fort Collins; Oak & Remington lot
-  refs:
-  - 0
-  - 5
-  topics:
-  - Downtown & business
-  - Roads & traffic
-  - Fees & rates
-  public_comment: true
-- title: ELCO wholesale water agreement for Montava development
-  summary: Council reviewed a proposed wholesale water deal with East Larimer County Water District (ELCO) to supply Montava, a 4,000+ unit mixed-use development in northeast Fort Collins. Councilmembers voiced support. Questions covered development fees, utility revenue, long-term supply under climate change and a non-potable system, with a roughly $2.5M capital project noted.
-  where: Montava, northeast Fort Collins
-  refs:
-  - 2
-  topics:
-  - Water
-  - Housing
-  - Zoning & development
-- title: City joins Northern Integrated Supply Project (Glade Reservoir) instead of Halligan expansion
-  summary: The Water Utility Enterprise board considered agreements for the city to participate in NISP and store some of its own water rights in Glade Reservoir. The city would notify the Army Corps and withdraw its Clean Water Act permit application for the Halligan Reservoir enlargement, citing permitting uncertainty and lower projected rate increases. The resolution was adopted 6-1, with Nelsen opposed.
-  where: Glade Reservoir / Halligan Reservoir
-  refs:
-  - 24
-  - 25
-  - 26
-  topics:
-  - Water
-  - Fees & rates
-  - Environment & climate
-- title: 2027-2028 biennial city budget
-  summary: Council held a series of work sessions on the City Manager's Recommended 2027-2028 Budget, the first under a new priority-based budgeting approach after a gap between ongoing revenue and expenses and an exercise to identify 8% cost reductions. A third session on Oct. 13 sought direction on additions and offsets, including use of the Parks & Recreation 2050 tax. Residents objected to higher cost recovery and rental rates at the Lincoln Center and other city facilities.
-  where: Citywide
-  refs:
-  - 7
-  - 8
-  - 9
-  - 12
-  - 13
-  - 19
-  - 20
-  topics:
-  - Budget & taxes
-  - Fees & rates
-  - Libraries & culture
-  public_comment: true
-- title: 'North College Urban Renewal area: property purchases, Bristlecone Affordable loan and community charter'
-  summary: 'The Urban Renewal Authority has been working on North College redevelopment: executive sessions on property acquisition including possible eminent domain, a $250,000 supplemental budget to acquire 1630 North College, and a proposed $2 million loan for Bristlecone Affordable, a 112-unit income-restricted housing project. It also discussed a coalition charter with 15 voting seats for community-led redevelopment starting with 1636 North College, and plan finances before tax increment collection ends. Board approval of the charter is planned for December 2026.'
-  where: North College Avenue, 1630 and 1636 North College
-  refs:
-  - 3
-  - 4
-  - 14
-  - 15
-  - 27
-  - 28
-  - 29
-  - 30
-  topics:
-  - Economic development
-  - Housing
-  - Land & property
-- title: 1505 North College façade and food-systems grant
-  summary: The Urban Renewal Authority considered a redevelopment and reimbursement agreement and supplemental budget for property improvements at 1505 North College Ave., near the Bike Co-op and Budget Host Motel. The project is about $1 million, with a one-time storefront grant and a performance-based programming grant supporting local food systems, aimed at preventing blight from returning.
-  where: 1505 North College Ave.
-  refs:
-  - 4
-  topics:
-  - Economic development
-  - Downtown & business
-  - Land & property
-- title: College and Drake urban renewal plan amendment
-  summary: The Authority considered funding an existing-conditions study around the Drake and College intersection to amend the College and Drake Urban Renewal Plan, because changing conditions mean the original plan no longer works. The study would evaluate adding properties.
-  where: College Ave and Drake Rd
-  refs:
-  - 14
-  - 15
-  topics:
-  - Zoning & development
-  - Economic development
-- title: Housing Action Plan and safe parking pilot
-  summary: Council reviewed draft strategies in a new Housing Action Plan that would replace the 2021 Housing Strategic Plan, covering supply, affordability, preservation, stabilization and funding, with a six-year implementation plan. Council also discussed a Safe Parking Pilot Program with mixed input on whether to pursue an ordinance, and a homelessness response system and funding session.
+- title: 2027-2028 biennial budget
+  summary: Council held a series of work sessions in September and October on the City Manager's Recommended 2027-2028 Budget, the first under a new Priority Based Budgeting approach. Staff identified a gap between ongoing revenues and expenses and asked service areas to find 8% in cost reductions. Council was to give direction on changes and adopt the budget in November, and residents objected to higher rental rates and user fees at the Lincoln Center and other city facilities.
   where: Citywide
   refs:
   - 6
-  - 33
-  - 34
+  - 7
+  - 8
+  - 11
+  - 12
+  - 18
+  - 19
   topics:
-  - Housing
-  - Homelessness
-- title: Affordable housing land and funding decisions (314 N. Howes St., EcoThrift site)
-  summary: Council took up an ordinance to convey city-owned property at 314 North Howes Street for affordable housing; a speaker called it a large giveaway. Residents also raised the Housing Catalyst project at the EcoThrift site lacking funding, which Councilmember Nelsen attributed to competitive subsidies. Council also appropriated remaining CCIP sales tax reserves and moved ARPA funds toward the affordable housing program.
-  where: 314 North Howes Street; EcoThrift site
+  - Budget & taxes
+  - Fees & rates
+  public_comment: true
+- title: Joining the Northern Integrated Supply Project (Glade Reservoir) instead of enlarging Halligan
+  summary: The Water Utility Enterprise board adopted 6-1 (Nelsen opposed) a resolution authorizing agreements for the city to become a participant in NISP and store some of its own water rights in Glade Reservoir. Staff cited permitting uncertainty around the Halligan Reservoir enlargement and projected lower rate increases, and plan to notify the Army Corps and withdraw the Halligan Section 404 permit application.
+  where: Glade Reservoir / Halligan Reservoir
+  refs:
+  - 23
+  - 24
+  - 25
+  topics:
+  - Water
+  - Utilities
+  - Environment & climate
+- title: Montava wholesale water agreement with ELCO
+  summary: At an Aug. 25 work session, staff reviewed a wholesale water arrangement with East Larimer County Water District to serve Montava, a 4,000+ unit mixed-use development in northeast Fort Collins. Councilmembers supported advancing it, while asking about fee differences, utility revenue, water supply sufficiency and the non-potable system; a long-term Integrated Water Resources Plan is proposed for 2027.
+  where: Montava, northeast Fort Collins
   refs:
   - 1
-  - 5
+  topics:
+  - Water
+  - Housing
+  - Zoning & development
+- title: Housing Action Plan and affordable housing land and funding
+  summary: Council reviewed draft Housing Action Plan strategies on supply, affordability, preservation, stabilization and funding, which would replace the 2021 Housing Strategic Plan. Council also moved to convey city-owned land at 314 North Howes Street for affordable housing (a speaker called it a giveaway) and appropriated leftover CCIP sales tax reserves to the Affordable Housing Capital Program.
+  where: Citywide; 314 North Howes Street
+  refs:
+  - 0
+  - 4
+  - 32
+  - 33
   topics:
   - Housing
   - Land & property
+  - Budget & taxes
   public_comment: true
-- title: Land Use Code Ordinance 118 and RP3 parking permit charge
-  summary: Council considered Ordinance No. 118, amending the Land Use Code, on first reading, with speakers supporting adoption. Separately, a resident opposed an RP3 change charging for the first vehicle parked in front of a home; a councilmember said she had requested a pause on the new rates.
+- title: 'North College Urban Renewal: property purchases, Bristlecone loan and community coalition'
+  summary: The Urban Renewal Authority approved items including a redevelopment agreement for façade and community-use improvements at 1505 North College (about $1 million project), a $250,000 acquisition at 1630 North College, and a proposed $2 million loan for the 112-unit income-restricted Bristlecone Affordable project. It also discussed a community coalition charter for 1636 North College and the remaining TIF funding, and held executive sessions on property purchases including eminent domain.
+  where: North College Avenue
+  refs:
+  - 2
+  - 3
+  - 13
+  - 14
+  - 26
+  - 27
+  - 28
+  - 29
+  topics:
+  - Downtown & business
+  - Housing
+  - Land & property
+- title: College and Drake urban renewal plan amendment
+  summary: The URA considered funding an existing conditions study of the College and Drake intersection area to amend the existing urban renewal plan, saying the original plan's intent is no longer viable. A second resolution would fund a property acquisition settlement to secure possession for redevelopment.
+  where: College Avenue and Drake Road
+  refs:
+  - 13
+  - 14
+  topics:
+  - Zoning & development
+  - Land & property
+- title: Safe Parking Pilot Program
+  summary: At a Sept. 8 work session, staff outlined a possible safe parking pilot and asked Council whether to allow one and what code and enforcement updates would be needed. Input was mixed on whether to pursue an ordinance to ensure neighbor voices are heard.
   where: Citywide
   refs:
   - 5
-  - 7
   topics:
-  - Zoning & development
-  - Fees & rates
-  - Roads & traffic
-  public_comment: true
-- title: Platte River Power Authority rollback of 2030 non-carbon goal
-  summary: Several residents spoke against the Platte River Power Authority board's discussion of rolling back its goal of 100% non-carbon electricity by 2030.
+  - Homelessness
+  - Policing & public safety
+- title: Economic Development Investment Program
+  summary: Council gave broad support to a proposed Economic Development Investment Program, favoring uses for community vitality and micro-business proof-of-concept over jobs or sales tax. Members discussed an after-the-fact review role, discomfort with ongoing annual commitments, and staffing; the program ties to 2027-28 budget adoption.
   where: Citywide
   refs:
-  - 7
+  - 5
+  topics:
+  - Economic development
+  - Budget & taxes
+- title: Platte River Power Authority rollback of 2030 carbon-free goal
+  summary: Several residents spoke against discussion by the Platte River Power Authority board of rolling back its goal of 100% non-carbon electricity by 2030.
+  where: Citywide
+  refs:
+  - 6
   topics:
   - Energy
   - Environment & climate
   public_comment: true
-- title: Pedestrian and intersection safety projects (Vision Zero)
-  summary: Council appropriated $1,003,544 for the Pedestrian Intersection Improvements project at five locations, for a total of $2,460,856, to improve safety on the High Injury Network. It also funded property acquisition and a replacement signal for the Lemay and Drake intersection ($1,549,760). A resident urged pedestrian safety improvements downtown.
-  where: Five intersections; Lemay Ave and Drake Rd
+- title: Pedestrian safety and intersection projects (Vision Zero)
+  summary: Council appropriated funds for the Pedestrian Intersection Improvements project at five locations, bringing total funding to $2,460,856, and for the Lemay and Drake intersection, including $1,549,760 to acquire property and install a signal. A resident urged more downtown pedestrian safety and others raised downtown parking fees.
+  where: Lemay and Drake; downtown Fort Collins
   refs:
-  - 5
+  - 4
+  - 20
   - 21
   - 22
-  - 23
   topics:
   - Roads & traffic
-  - Policing & public safety
+  - Budget & taxes
   public_comment: true
-- title: Election code changes and campaign finance rules
-  summary: The Election Code Committee reviewed proposed code changes, including letting the clerk issue fines directly for late campaign finance reports, precinct boundary changes, and long-term ideas such as public campaign funding. It also reviewed the 2025 election, which cost about $176,300.
+- title: Election Code Committee changes and campaign finance
+  summary: The committee reviewed the 2025 election (cost about $176,300), campaign finance enforcement, and proposed Code changes including precinct boundary updates, direct fines by the City Clerk for late reports, and longer-term public campaign funding.
   where: Citywide
   refs:
+  - 9
   - 10
-  - 11
+  - 30
   - 31
-  - 32
+  - 38
   topics:
   - Elections
   - Ethics & transparency
-- title: Economic Development Investment Program
-  summary: Council gave broad support to a proposed Economic Development Investment Program, favoring community vitality and micro-business support over jobs or sales tax goals. Members were uneasy about ongoing annual commitments and discussed staffing and an after-the-fact review role. Council plans to adopt the 2027/28 budget in November 2026.
+- title: Ethics rules and Code of Conduct changes
+  summary: Council took up an ordinance requiring reporting of contacts with staff about non-routine city mailers and amendments to the Code of Conduct recommended by the Ethics Review Board; a resident raised ethics concerns.
   where: Citywide
   refs:
-  - 6
+  - 0
   topics:
-  - Economic development
-  - Budget & taxes
+  - Ethics & transparency
+  - Government operations
+  public_comment: true
+- title: Automated vehicle ID corridors and surveillance policy
+  summary: A November work session sought Council feedback on a draft surveillance policy and on automated vehicle identification corridors adopted under Ordinance No. 098, including code changes to align with Colorado law.
+  where: Citywide
+  refs:
+  - 37
+  topics:
+  - Policing & public safety
+  - Lawsuits & legal

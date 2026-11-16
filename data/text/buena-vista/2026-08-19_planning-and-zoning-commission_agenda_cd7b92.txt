@@ -64,7 +64,7 @@ project manager from KLJ (the Town’s engineering consultant).
 DRAFT
  
 Ben Manibog began by providing an overview, covering existing conditions, community 
-feedback, and comparing previous plan’s goals with new proposed goals. The TMP , last updated 
+feedback, and comparing previous plan’s goals with new proposed goals. The TMP, last updated 
 in 2004, is meant to align with recent existing plans, uplift multimodal transportation, and to 
 provide a roadmap for the next 10-20 years. The new TMP will include town limits, 3 mile growth 
 areas and major roads, but does not include roads and trails east of the river. When taking into 
@@ -668,7 +668,7 @@ Frontsetback,max. (feet)
 Sidesetback,min.(feet)
 Sidesetback,min.(feet) betweeninternal dwelling units
 fordwellings
-Rear setback, mint (feet)1 15 abutting other residential lots,
+Rear setback, mint (feet) 1 15 abutting other residential lots,
 0 abutting an alley
 Rear setback, accessorystructures,withalley present,0
 min. (feet)
@@ -694,7 +694,7 @@ P
 permitted by right S: special use permit A= accessory use T 
 = 
 temporary use
-Use Category_
+Use Category _
 _
 ,
 ,
@@ -750,7 +750,7 @@ facility
 Park and playground 
 Shooting range
 }
-EducationCollege or university- facilitiesIs8
+EducationCollege or university - facilitiesI s8
 Elementary or PPPPPP
 secondaly school
 |
@@ -910,7 +910,7 @@ b. For lots/parcels(1/2) acre larger in size in the R-1.5, or R-2 zone
 districts, the maximum size of any accessory structure shall be limited by the maximum
 building coverage applicable tothe lot/parcel. On these lots/parcels, the accessmystructure
 may be larger than the primarystructure.
-0.For accessory structures in any zone district other than the R-l,orzone
+0.For accessory structures in any zone district other than the R-l , orzone
 districts, the maximum size of the accessory structure shall be less than the footprint of the
 primary structure on the property. For any accessory structure over one hundred twenty
 (120) square feet, a site plan shall be required to demonstrate compliance with the
@@ -971,7 +971,7 @@ b. Alleys should be provided between the proposed lots and existing homes
 where feasible, at the Towndetermination.
 Section 23. Section 16.06.6.5.3.C.3.a.iii of the Buena Vista Municipal Code is hereby
 amended to read as follows:
-Temporary vendors not located Within the,R-2, and zones shall be exempt
+Temporary vendors not located Within the ,R-2, and zones shall be exempt
 from the posting requirements of this section. Temporary vendors seeking to locate in the
 RI,and R-3 zones shall follow the posting requirements of this section.
 Section 24. Severability. If any aiticle, section, paragraph, sentence, clause, or phrase

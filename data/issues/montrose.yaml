@@ -1,124 +1,127 @@
-- title: Charter amendments for the November ballot (Ordinances 2727-2730)
-  summary: 'Council took up four proposed charter amendments: moving municipal elections to November (2727), an 8-year lifetime term limit for the at-large seat (2728), and council approval over hiring and firing the police chief (2729) and city clerk (2730). Residents spoke both for and against, and Ordinances 2727 and 2728 were heard on second reading Sept. 1.'
+- title: City Charter amendments on elections, term limits and appointments
+  summary: 'Council took up ballot language for Charter amendments: Ordinance 2727 would move municipal elections to November, 2728 sets an 8-year lifetime term limit for the at-large seat, and 2729 and 2730 give Council approval over hiring and firing the police chief and city clerk. Residents spoke both for and against at the August and September meetings.'
   where: Citywide
   refs:
-  - 3
+  - 0
+  - 5
+  topics:
+  - Elections
+  - Government operations
+  public_comment: true
+- title: City manager separation, interim manager and council vacancies
+  summary: After an August executive session on a confidential memo and possible independent counsel, Council approved a separation agreement with City Manager Bill Bell, ratified September 15. Ann Morgenthaler was appointed interim city manager and MURA executive director. Council also worked through the District IV and At-Large vacancies, appointing Adam Woodden to District IV and taking applications from John Brown, Danielle Godt and Cindee Williams for the At-Large seat.
+  where: Citywide
+  refs:
+  - 1
   - 8
-  topics:
-  - Elections
-  - Government operations
-  public_comment: true
-- title: City manager separation and interim manager
-  summary: After closed-door sessions about a confidential memo and possible independent counsel, Council approved a mutual separation agreement with City Manager Bill Bell. It then appointed Ann Morgenthaler as interim city manager and Montrose Urban Renewal Authority executive director, and ratified those decisions on Sept. 15 to cure notice problems. The interim agreement is open-ended during recruitment of a new manager.
-  where: City Hall
-  refs:
-  - 2
-  - 4
   - 11
+  - 13
+  - 21
   topics:
   - Government operations
-  - Ethics & transparency
-  public_comment: true
-- title: 'Council vacancies: District IV and At-Large seats'
-  summary: The District IV seat was vacated Sept. 7, and the charter requires an appointment within 30 days. Council agreed to appoint Adam Woodden to District IV, which opened the At-Large seat, with applications due Oct. 21. John Brown, Danielle Godt and Cindee Williams were slated for the At-Large appointment on Nov. 2.
-  where: Citywide
-  refs:
-  - 14
-  - 16
-  - 24
-  - 25
-  topics:
   - Elections
-  - Government operations
-- title: Call for a data center moratorium
-  summary: A resident asked Council to enact a moratorium on new data centers until regulations are in place. The documents show no Council action on the request.
+- title: Calls for a moratorium on new data centers
+  summary: At the August 18 meeting a resident asked Council to enact a moratorium on new data centers until regulations are in place. The documents show no Council action.
   where: Citywide
   refs:
-  - 3
+  - 0
   topics:
   - Data centers
   - Zoning & development
   tags:
   - data-center
   public_comment: true
-- title: Locust Road annexation and R-2 zoning
-  summary: The Planning Commission recommended R-2 Low Density zoning for the Locust Road Addition at 1815 Locust Road and discussed pedestrian improvements and rebuilding Locust Road. Council considered Ordinance 2731 annexing the 4.2 acres on second reading Oct. 6.
-  where: 1815 Locust Road
+- title: Rotary Park pump house replacement
+  summary: Council considered a $514,011 contract with FCI Constructors of Grand Junction to replace the park's irrigation pump house, built in the 1980s. The amount is $14,011 over the $500,000 budget, to be covered by savings from other 2026 Public Works capital projects.
+  where: Rotary Park
   refs:
-  - 1
-  - 16
-  topics:
-  - Annexation
-  - Zoning & development
-- title: New subdivisions and annexations before Planning Commission
-  summary: 'The commission reviewed several projects: Star Court Lot 8 townhomes (739-749 East Star Court), Chelsi Lane amended PD plan (24 units reduced to 23), Spruce Point amended preliminary plat, Chipeta Lake 2 annexation zoning (1.14 acres, "P" Public), and the El Chapin sketch plan for 45 lots on 6600 Road. One resident spoke on Spruce Point boundaries.'
-  where: East Star Court, Chelsi Lane, Sanctuary Drive, Chipeta Road, 6600 Road
-  refs:
-  - 1
-  - 17
-  - 18
-  - 26
-  - 27
-  topics:
-  - Zoning & development
-  - Housing
-  - Annexation
-  public_comment: true
-- title: Comprehensive plan update and state growth mandates
-  summary: Staff and consultants are doing a five-year update of the Envision 2040 plan, adding state-required housing needs assessment, housing action plan, water supply and growth elements. The goal is approval by year end. Residents asked that growth pay its own way and that plan standards be upheld.
-  where: Citywide
-  refs:
+  - 2
+  - 3
   - 8
-  - 11
+  topics:
+  - Parks & open space
+  - Water
+  - Budget & taxes
+- title: Annexations and new subdivisions (Locust Road, Chipeta Lake 2, Spruce Point, El Chapin)
+  summary: Council took up the 4.2-acre Locust Road Addition annexation on second reading (Ordinance 2731). The Planning Commission heard initial zoning for the 1.14-acre Chipeta Lake 2 Addition and the Spruce Point amended preliminary plat, and reviewed a sketch plan for a 45-lot El Chapin subdivision on 6600 Road. One resident asked that Spruce Point respect established boundaries.
+  where: Locust Road; Chipeta Road; Spruce Point (6400 Road); El Chapin (6600 Road)
+  refs:
   - 13
+  - 14
+  - 15
+  - 23
+  - 24
+  topics:
+  - Annexation
+  - Zoning & development
+  - Housing
+  public_comment: true
+- title: Comprehensive plan update and growth policies
+  summary: Staff is preparing a five-year update to the Envision 2040 comprehensive plan, including state-required housing needs assessment, housing action plan, water supply and strategic growth elements, with approval targeted by year's end. Residents urged that growth pay its own way and that the plan's standards be upheld.
+  where: Citywide
+  refs:
+  - 5
+  - 8
+  - 10
   topics:
   - Zoning & development
   - Housing
   public_comment: true
-- title: Affordable housing commitment and homeless shelter funding
-  summary: Council considered a Proposition 123 affordable housing commitment; the city approved 221 units against a requirement of 162. It also weighed $28,597 in lodging-tax funds for startup costs of The Shepherd's Hand seasonal homeless shelter.
+- title: Affordable housing commitment and seasonal homeless shelter funding
+  summary: Council considered a Proposition 123 affordable housing commitment. The city approved 221 units in the current cycle against a requirement of 162. Council also considered $28,597 in lodging tax funds for start-up costs for The Shepherd's Hand seasonal homeless shelter.
   where: Citywide
   refs:
-  - 19
+  - 16
   topics:
   - Housing
   - Homelessness
   public_comment: true
-- title: Rotary Park pump house replacement
-  summary: Council considered a $514,011 contract with FCI Constructors to replace the 1980s irrigation pump house. This is $14,011 above the $500,000 budget, to be covered by other Public Works savings.
-  where: Rotary Park
+- title: Student parking on residential streets near the high school
+  summary: Residents asked Council to reinstate permit-only parking on neighborhood streets near the high school and to increase police presence.
+  where: Streets near Montrose High School
   refs:
-  - 5
-  - 6
-  - 11
-  topics:
-  - Parks & open space
-  - Utilities
-- title: Student parking and speed sign requests
-  summary: Residents asked for permit-only parking on streets near the high school and more police presence. Others asked for an electronic speed sign on Miami Road near Cedar Creek.
-  where: Streets near the high school; Miami Road at Cedar Creek
-  refs:
-  - 3
-  - 8
-  - 16
+  - 13
   topics:
   - Roads & traffic
   - Policing & public safety
   public_comment: true
-- title: 2027 fee schedule and landfill agreement extension
-  summary: Council's Nov. 2 agenda included Resolution 2026-18 adopting the 2027 fee schedule and a one-year extension of the landfill agreement with Bruin Waste Management.
-  where: Citywide
-  refs:
-  - 24
-  - 25
-  topics:
-  - Fees & rates
-  - Utilities
-- title: Montrose Post Office alteration hearing
-  summary: The Historic Preservation Commission held a hearing on an application to alter the designated Montrose Post Office.
-  where: Montrose Post Office
+- title: Electronic speed sign on Miami Road
+  summary: Residents asked Council to install an electronic speed indicator sign on Miami Road near Cedar Creek.
+  where: Miami Road near Cedar Creek
   refs:
   - 0
+  - 5
   topics:
-  - Historic preservation
+  - Roads & traffic
   public_comment: true
+- title: Solid waste rules, 2027 fees and landfill extension
+  summary: Council was asked to rewrite Chapter 3-1 as Solid Waste Collection Services, with separate residential and non-residential rules, scheduled paid bulk pickup and optional programs for tires, electronics and compost. It also considered Resolution 2026-18 adopting the 2027 fee schedule and a one-year extension of the landfill agreement with Bruin Waste Management.
+  where: Citywide
+  refs:
+  - 21
+  - 22
+  - 26
+  - 27
+  topics:
+  - Utilities
+  - Fees & rates
+- title: Rio Grande and East Oak Grove roundabout art
+  summary: Council was scheduled to discuss the landscape plan and artwork for the roundabout at Rio Grande and East Oak Grove Road.
+  where: Rio Grande and East Oak Grove Road
+  refs:
+  - 26
+  - 27
+  topics:
+  - Roads & traffic
+  - Libraries & culture
+- title: IT, software and fire suppression purchases
+  summary: Council considered $75,000 for a gas fire suppression system in the Network Operation Center with Pye Barker, a three-year Optive firewall subscription of about $80,768, and NEOGOV HR software renewal. It also considered a Motorola Flex maintenance renewal for dispatch.
+  where: City facilities
+  refs:
+  - 0
+  - 13
+  - 19
+  - 20
+  topics:
+  - Government operations
+  - Budget & taxes

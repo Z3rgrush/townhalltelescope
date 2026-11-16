@@ -69,7 +69,46 @@
 - a. Adopt Resolution 13-2025 Incentive for Award Alliance
 - b. Police Chief
 
-## [garden-city#2] 2026-07-21 | Board of Trustees | minutes
+## [garden-city#2] 2026-01-13 | Board of Trustees | minutes
+- Town Hall - 621 27th Street Road, Garden City, CO 80631
+- The Board will consider and may act on the following items:
+- In Attendance: Town Administrator Cheryl Campbell, Police Chief Jeremy Black, Deputy
+- Clerk Lindsay Shoemaker, Town Attorney Amy Penfold, Police Sgt. Ken Amick, and
+- a. Approve Minutes from December 9th, 2025 Regular Meeting
+- b. Approve Minutes from December 16th, 2025 Special Meeting
+- c. Approve Bills Paid
+- a. Consider Pioneer Post Club of Greeley DBA Pioneer Greeley Post 2121 Tavern With
+- Trustee Alex Lopez moved to approve Pioneer Post Club of Greeley DBA Pioneer
+- a. Consider Change of Ownership Application from Vireo Health of Noco, LLC DBA Star
+- Trustee Rebecca Moreau moved to approve Change of Ownership Application from
+- b. Consider Change of Ownership Application from Vireo Health of Noco LLC DBA Star
+- Trustee Alex Lopez moved to approve Change of Ownership Application from Vireo
+- c. Consider Vireo Health of Noco LLC DBA Star Buds 2502 8th Ave Rl-2502-26 Retail
+- Trustee Rebecca Moreau moved to Approve Vireo Health of Noco LLC DBA Star Buds
+- 7. Approve 2026 posting and publishing locations
+- Trustee Leigh Sorensen moved to approve the 2026 posting and publishing locations ,
+- 8. Approve Board and Staff attendance and lodging at the 2026 CML Annual
+- Trustee Rebecca Moreau moved to Approve Board and Staff attendance and lodging at
+- 9. Approve Lonelle Archuleta's attendance at the 2026 CML Conference in Westminster
+- Trustee Rebecca Moreau moved to approve Lonelle Archuleta's attendance at the 2026
+- 10. Approve Tuition Payment to University of Northern Colorado in the amount of
+- Trustee Leigh Sorensen moved to approve tuition payment to University of Northern
+- 11. Approve Victory Outreach donation in the amount of $225.00
+- Trustee Rebecca Moreau moved to approve Victory Outreach donation in the amount of
+- 12. Resolutions
+- a. Adopt Resolution No. 01-2026 A Resolution Extending the Town of Garden City's
+- Commercial Revitalization Grant Program for 2026
+- Trustee Rebecca Moreau moved to adopt Resolution No. 01-2026 A Resolution
+- Extending the Town of Garden City's Commercial Revitalization Grant Program for
+- Resolution 01-2026 adopted
+- b. Adopt Resolution No. 02-2026 A Resolution Extending the Town of Garden City's
+- Single Family Residential Revitalization Grant Program for 2026
+- Trustee Leigh Sorensen moved to adopt Resolution No. 02-2026 A Resolution
+- Extending the Town of Garden City's Single Family Residential Revitalization Grant
+- Resolution 02-2026 adopted
+- c. Adopt Resolution No. 03-2026 A Resolution Extending the Garden City Pavement
+
+## [garden-city#3] 2026-07-21 | Board of Trustees | minutes
 - Town Hall - 621 27th Street Road, Garden City, CO 80631
 - The Board will consider and may act on the following items:
 - In Attendance: Town Administrator Cheryl Campbell, Police Chief Jeremy Black, Deputy

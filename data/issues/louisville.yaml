@@ -1,205 +1,218 @@
-- title: Inclusionary housing ordinance update (Ordinance 1936)
-  summary: Council took up Ordinance No. 1936, amending the city's inclusionary housing rules, with a second-reading public hearing on Aug 18 and another hearing on Sept 15. Strong Towns Louisville and residents wrote in, urging zoning reform first, by-right incentives and an exemption for small projects of 10 to 12 units, and warning about costs to builders.
+- title: Inclusionary Housing Ordinance update (Ordinance 1936)
+  summary: Council took up Ordinance 1936 amending Title 17 inclusionary housing rules, with a second-reading public hearing on Aug 18 and another hearing Sept 15 with second-reading amendments. Strong Towns Louisville urged zoning reform first, by-right incentives and an exemption for small 10-12 unit projects; a resident also wrote with concerns that new market-rate units could raise prices.
   where: Citywide
+  refs:
+  - 0
+  - 1
+  - 2
+  - 24
+  - 25
+  - 26
+  topics:
+  - Housing
+  - Zoning & development
+  public_comment: true
+- title: 2027-2028 budget, mill levy and fee increases
+  summary: Council worked through the 2027-2028 budget from the July retreat through the City Manager's initial presentation (Sept 1), a public hearing on Oct 20 and budget and mill levy adoption set for Nov 2. Discussion covered the General Fund gap, capital plan, 2027 fees, utility rates and a decision to pull the $780,000 northeast water loop from the budget.
+  where: Citywide
+  refs:
+  - 4
+  - 5
+  - 11
+  - 13
+  - 19
+  - 31
+  - 34
+  - 35
+  - 54
+  - 58
+  - 60
+  - 72
+  - 73
+  topics:
+  - Budget & taxes
+  - Fees & rates
+  - Utilities
+- title: Centennial Valley GDP amendment and Centennial Drive affordable senior housing
+  summary: The Centennial Valley General Development Plan amendment would allow multifamily affordable housing and set building heights; it went to the parks and open space boards and the Planning Commission, which favored the project. A resident letter argued the proposed parks and open space are inadequate for a development that would grow Louisville's housing units by about 12%. A concept plan for affordable senior housing on Centennial Drive was set for Council Oct 6.
+  where: Centennial Valley / Centennial Drive
+  refs:
+  - 14
+  - 18
+  - 19
+  - 22
+  - 41
+  - 53
+  - 85
+  topics:
+  - Housing
+  - Zoning & development
+  - Parks & open space
+  public_comment: true
+- title: Parks, Open Space and Trails (PROS) plan and open space protections
+  summary: The draft PROS Guidebook, Long Range Plan and Trails System Plan went through the open space and parks boards and Council, with a resolution adopting the plans on the Nov 2 agenda. Louisville Open Space Advocates sent a long letter asking that the City Charter be followed, Trail 18 removed and buffers added. Residents also opposed development of 8600 Baseline and raised prairie dog concerns.
+  where: Citywide open space; 8600 Baseline Road
+  refs:
+  - 10
+  - 19
+  - 22
+  - 51
+  - 53
+  - 72
+  - 87
+  topics:
+  - Parks & open space
+  - Recreation & trails
+  - Environment & climate
+  public_comment: true
+- title: Comprehensive Plan and Development Code update
+  summary: The Planning Commission reviewed the updated Comprehensive Plan, with residents voicing concerns about projected growth, traffic, water supply, evacuation routes and wildfire risk. The City accepted a state DOLA grant and awarded a contract for a Development Code update, and Council and Planning Commission discussed the Commission's role in it.
+  where: Citywide
+  refs:
+  - 11
+  - 41
+  - 48
+  - 49
+  - 70
+  topics:
+  - Zoning & development
+  - Government operations
+  public_comment: true
+- title: Golf course and recreation center fees for 2027
+  summary: The Recreation Advisory Board reviewed golf fee modeling showing green fees alone cannot close the golf fund deficit, and recommended 2027 golf fees and passes. It also approved 3% resident and 7% non-resident increases to Recreation and Senior Center admission fees, which went into the 2027 City Manager fee resolution. A Council member asked whether a resident golf membership rate had been considered.
+  where: Coal Creek Golf Course; Recreation & Senior Center
+  refs:
+  - 6
+  - 7
+  - 32
+  - 33
+  - 67
+  - 68
+  - 73
+  topics:
+  - Fees & rates
+  - Recreation & trails
+- title: Sale of city property at 1501 Empire Road and 1303 Empire Road
+  summary: Council approved a purchase contract to sell 1501 Empire Road and the easterly part of 1303 Empire Road to Ripple Creek Properties LLC; the property is zoned Industrial and the subdivision would not change zoning. A November amendment extends the buyer's examination period from 60 to 100 days.
+  where: 1501 Empire Road and 1303 Empire Road
   refs:
   - 11
   - 12
   - 13
-  - 35
-  - 37
-  topics:
-  - Housing
-  - Zoning & development
-  public_comment: true
-- title: 2027-2028 city budget, mill levy and capital plan
-  summary: Staff and council worked through a budget with an operating deficit, a General Fund gap and a six-year 2027-2032 capital plan. The City Manager's initial budget came Sept 1, a public hearing on the final budget was set for Oct 20, and adoption with the mill levy was scheduled Nov 2. The northeast water loop was pulled from the budget after rate discussions.
-  where: Citywide
-  refs:
-  - 0
-  - 15
-  - 16
-  - 22
-  - 42
-  - 45
-  - 46
-  - 52
-  - 65
-  - 69
-  - 71
-  - 83
-  topics:
-  - Budget & taxes
-  - Fees & rates
-  public_comment: true
-- title: Sustainability funding, bag tax and climate action
-  summary: The Sustainability Advisory Board met with Council Aug 11 on funding ideas, including a possible dedicated tax or fee, expanding the bag tax, renegotiating the Xcel franchise and water conservation. Residents asked for a climate impact fee, urban heat island work and more bag tax transparency. The board is also pursuing electrification rebates and heat pumps.
-  where: Citywide
-  refs:
-  - 1
-  - 2
-  - 6
-  - 7
-  - 23
-  - 40
-  - 41
-  - 47
-  topics:
-  - Environment & climate
-  - Energy
-  - Budget & taxes
-  public_comment: true
-- title: Centennial Valley development plan amendment and open space/trails plan
-  summary: The Open Space Advisory Board and Parks board held hearings on a Centennial Valley General Development Plan amendment for future residential development and parks. A resident said the housing would grow Louisville's units by 12% and the parks are too small, and the open space group LOSA wrote with critiques of the draft PROS Guidebook and trails plan, including Trail 18 and City Charter references. The draft PROS Guidebook also went to Council.
-  where: Centennial Valley
-  refs:
-  - 4
-  - 5
-  - 21
-  - 25
-  - 29
-  - 30
-  - 33
-  - 64
-  topics:
-  - Parks & open space
-  - Zoning & development
-  - Recreation & trails
-  public_comment: true
-- title: Development Code update and Comprehensive Plan
-  summary: The city is moving to a development code update, with a DOLA grant accepted and a contract agreement on Council's Oct 6 agenda. Planning Commission reviewed the Comprehensive Plan on Oct 8; residents raised worries about projected growth, traffic, water, wildfire evacuation routes and community character.
-  where: Citywide
-  refs:
-  - 22
-  - 52
-  - 59
-  - 60
-  - 81
-  topics:
-  - Zoning & development
-  - Housing
-  - Government operations
-  public_comment: true
-- title: Sale of city property at 1501 Empire Road and part of 1303 Empire Road
-  summary: Council considered a purchase contract to sell the industrial-zoned city property at 1501 Empire Road and the east part of 1303 Empire Road to Ripple Creek Properties LLC. Council later considered an amendment extending the buyer's examination period from 60 to 100 days.
-  where: 1501 and 1303 Empire Road
-  refs:
-  - 22
-  - 23
   - 24
-  - 83
+  - 72
+  - 73
+  topics:
+  - Land & property
+- title: 1155 Pine Street lease/purchase and Coal Creek Junction subdivision
+  summary: Council considered Ordinance 1937 extending and amending the contract for lease and purchase of real estate at 1155 Pine Street, with a public hearing Oct 6. The Planning Commission also took up the Coal Creek Junction final plat to subdivide the site.
+  where: 1155 Pine Street
+  refs:
+  - 24
+  - 25
+  - 41
+  - 42
   - 84
   topics:
   - Land & property
-  - Economic development
-- title: Golf course and recreation fees for 2027
-  summary: The Recreation Advisory Board reviewed golf fee models showing green fees alone cannot close the Golf Fund shortfall, and recommended 2027 golf fees. It also backed 3% resident and 7% non-resident increases for Recreation and Senior Center admission. Fees were set in Council's Nov 2 resolution.
-  where: Coal Creek Golf Course and Recreation/Senior Center
+  - Zoning & development
+- title: Grain Elevator and Grain Yard downtown funding
+  summary: The Revitalization Commission handled a tax increment financing agreement, facade and property improvement funding for the Grain Yard, and a conditional assignment of grants for the Grain Elevator at 540 County Road. It also discussed reallocating about $344,400 of unspent property improvement funds, and concerns that Front and Center construction will affect Street Fair and Front Street businesses.
+  where: Grain Elevator, 540 County Road; Front Street
   refs:
-  - 3
-  - 17
-  - 18
-  - 43
-  - 44
-  - 78
-  - 79
-  - 83
-  topics:
-  - Fees & rates
-  - Recreation & trails
-- title: Grain Elevator and Grain Yard revitalization grants
-  summary: The Revitalization Commission handled a Grain Elevator tax increment financing agreement and a conditional grant assignment for the elevator at 540 County Road. It also weighed Grain Yard facade and property improvement funding, with $73,467 and $87,705 left in the two programs afterward, and a $344,400 budget reallocation. Concern was raised about Front Street construction effects on Street Fair and businesses.
-  where: 540 County Road / Front Street
-  refs:
-  - 31
-  - 32
-  - 69
-  - 70
-  - 71
-  - 74
-  - 75
+  - 20
+  - 21
+  - 58
+  - 63
+  - 64
   topics:
   - Downtown & business
   - Economic development
-  - Historic preservation
   public_comment: true
-- title: Business assistance agreements for Arsenal Health, Infleqtion Quantum and Louisville Cyclery
-  summary: 'Council considered incentives: $208,400 for Arsenal Health, an enhanced agreement up to $281,114 for Infleqtion Quantum, and an amendment to Louisville Cyclery''s 2021 sales tax rebate agreement (max $58,000). Staff fixed a termination clause for consumer-use-tax rebates in the Infleqtion deal.'
+- title: Business assistance agreements for Infleqtion Quantum and Arsenal Health
+  summary: Council considered business assistance agreements of $281,114 with Infleqtion Quantum and $208,400 with Arsenal Health, plus an amended agreement with Louisville Cyclery. Staff revised the Infleqtion agreement after a Council question about clawback terms.
   where: Citywide
   refs:
-  - 11
-  - 12
-  - 69
-  - 70
-  - 71
+  - 1
+  - 58
+  - 60
   topics:
   - Economic development
   - Budget & taxes
-- title: 'Historic preservation: grants, landmarks and a preservation tax'
-  summary: Historic Preservation Commission handled a $15,000 Focused grant for the Mudrock House at 613 Grant Ave, a landmark request for the Methodist Church at 741 Jefferson Ave, and the Giorzelli House designation. Council also took up a 2026 election resolution on a Historic Preservation Tax, and an architect submitted ideas to broaden preservation.
-  where: 613 Grant Avenue; 741 Jefferson Avenue
+- title: 'Historic preservation: landmark designations, grants and preservation tax'
+  summary: The Historic Preservation Commission handled the landmark request for the Methodist Church at 741 Jefferson Avenue, grants for 613 Grant Avenue and the Mudrock House, and a demolition application at 181 Roosevelt Avenue. Council also put a Historic Preservation Tax on the 2026 election, and a resident architect submitted suggestions for expanding the program.
+  where: 741 Jefferson Avenue; 613 Grant Avenue; 181 Roosevelt Avenue
   refs:
-  - 9
-  - 10
-  - 11
-  - 12
-  - 52
-  - 67
-  - 68
-  - 69
+  - 0
+  - 41
+  - 56
+  - 57
+  - 58
   - 70
-  - 82
+  - 71
+  - 90
+  - 91
   topics:
   - Historic preservation
-  - Budget & taxes
   - Elections
   public_comment: true
-- title: 'Affordable housing: Centennial Drive senior housing and expedited review'
-  summary: Council reviewed a concept plan for Centennial Drive affordable senior housing and a Housing Strategic Framework from Trestle Strategy Group. Resolutions would set expedited review for affordable housing projects and support a state affordable housing commitment filing.
-  where: Centennial Drive
-  refs:
-  - 22
-  - 35
-  - 52
-  - 69
-  - 70
-  - 83
-  topics:
-  - Housing
-  - Zoning & development
-- title: E-bike and e-moto regulations
-  summary: Council scheduled a discussion on Oct 27 of e-bike and e-moto rules, with a police presentation on responding to concerns and future traffic safety strategies.
+- title: Sustainability, electrification and climate funding
+  summary: The Sustainability Advisory Board presented to Council on funding, building codes and a possible sustainability tax, and reviewed electrification rebates and an agreement with Power Ahead Colorado. A commenter urged Council to direct the budget toward cutting carbon emissions and electrifying city facilities, and seven businesses were awarded commercial sustainability rebates.
   where: Citywide
   refs:
-  - 80
-  - 82
+  - 12
+  - 29
+  - 30
+  - 36
+  - 89
+  topics:
+  - Environment & climate
+  - Energy
+  public_comment: true
+- title: E-bike and e-moto regulations and traffic safety
+  summary: Council scheduled a discussion on e-bike/e-moto regulations, with a police presentation on staff's unified response to concerns and future traffic safety strategies. Council also adopted the Model Traffic Code by reference with local amendments, including a change to the speed limit provision.
+  where: Citywide
+  refs:
+  - 41
+  - 43
+  - 69
+  - 71
+  - 72
   topics:
   - Roads & traffic
   - Policing & public safety
   public_comment: true
-- title: Utility and refuse rates and sewer backup policy
-  summary: Council considered a policy on payments for cleanup after sewer backups or water meter failures, prompted by a November 2025 backup affecting a business. It also considered new refuse, recycling and compost fees effective Sept 1 and revised 2027 utility rates, whose discussion was postponed.
+- title: Marshall Fire five-year remembrance
+  summary: Staff surveyed residents about how to mark the Marshall Fire's five-year anniversary, and results went to Council on Sept 15. Cultural Services set aside remembrance funds and discussed a mural location; the Open Space board considered recommending a small memorial on Davidson Mesa.
+  where: Citywide; Davidson Mesa
+  refs:
+  - 3
+  - 24
+  - 25
+  - 61
+  - 87
+  topics:
+  - Tourism & events
+  - Libraries & culture
+- title: Utility rates and sewer backup payment policy
+  summary: Council reviewed the 2027 utility rate setting process and a revised rate presentation, and updated a policy on payments for sewer backup or water meter failure cleanup after a November 2025 backup affected a business. Refuse, recycling and compost collection fees were also raised effective Sept 1.
   where: Citywide
   refs:
-  - 22
-  - 24
-  - 42
-  - 65
+  - 11
+  - 13
+  - 31
+  - 54
   topics:
   - Utilities
   - Fees & rates
   - Water
-- title: Bocce courts and park improvements
-  summary: Residents asked for better maintenance and capital improvements to bocce courts at Memory Square and Community Parks, but staff said Council and staff have no interest in adding them to the capital plan. The Parks board also discussed Community Park shade structures, the Bee City program and weed management.
-  where: Memory Square and Community Park
+- title: Boards and commissions handbook and possible consolidation
+  summary: Council discussed a Boards and Commissions Handbook, application processes and appointment terms, with some interest in combining or eliminating boards. Advisory board members discussed the effect on groups such as Parks & Public Landscaping.
+  where: Citywide
   refs:
-  - 17
-  - 18
-  - 44
-  - 57
-  - 58
-  - 87
-  - 88
+  - 30
+  - 41
+  - 43
+  - 75
   topics:
-  - Parks & open space
-  - Recreation & trails
-  public_comment: true
+  - Government operations

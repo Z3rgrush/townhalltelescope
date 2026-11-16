@@ -1,122 +1,114 @@
-- title: Crypto currency data center on Industrial Park Road (SE 26-08)
-  summary: The Planning and Zoning Commission held a public hearing on a special exception to allow a "Data Center - Crypto Currency Generation Facility" on the east side of Industrial Park Road, about 350 feet south of Miley Road, in an industrial zone. The documents do not state the outcome.
-  where: Industrial Park Road, about 350 ft south of Miley Road
+- title: FY 2026-27 city budget, 34-mill tax rate and new police positions
+  summary: 'The Board approved the proposed 2027 budget items at an Aug. 25 special meeting, including a resolution setting the millage rate at 34 mills, pay adjustments for general fund employees, and Park and Recreation fee increases. It also funded police fleet additions and new positions: a sergeant, a code enforcement officer, an additional officer and a part-time parking enforcement officer. Contributions to the library, JL King Center, community theater, SMART system and animal shelter spay/neuter vouchers were also approved.'
+  where: Citywide
   refs:
   - 0
   - 1
-  - 14
-  topics:
-  - Data centers
-  - Zoning & development
-  tags:
-  - data-center
-- title: 2027 city budget, 34-mill rate and pay and staffing changes
-  summary: At a special meeting on Aug. 25 the Board of Aldermen approved a resolution setting the FY2027 millage rate at 34 mills. It also approved general fund pay adjustments, Parks and Recreation non-utility increases, police fleet additions, and new police positions (a sergeant, code enforcement, an additional officer and part-time parking enforcement). Contributions to the SMART system, library, JL King Center, community theater and the humane society spay/neuter vouchers were also approved. Budgets for outside agencies were on the Aug. 18 agenda.
-  where: Citywide
-  refs:
-  - 3
-  - 4
   topics:
   - Budget & taxes
   - Policing & public safety
   - Fees & rates
-- title: Electric rate increase and capital plan
-  summary: Starkville Utilities proposed a 2% electric rate increase across all rate classes, starting November 2026 and continuing in later years. It would raise about $650,000 a year and is the first increase since October 2016. The plan funds replacement of 856 wood poles, LED street lighting, and a grid resiliency grant project with a $454,000 match. The proposed FY26-27 budget has a $375,000 shortfall.
-  where: Citywide
+- title: Electric Department 2% rate increase and pole replacement plan
+  summary: Staff presented a proposed 2% rate increase across all rate classes starting November 2026, the first since October 2016. It would raise about $650,000 a year and help fund a capital plan including replacing 856 wood poles, LED street lighting, and a grid resiliency grant project, with the proposed FY26-27 budget showing a $375,000 shortfall.
+  where: Citywide (Starkville Utilities)
   refs:
-  - 7
+  - 4
   topics:
   - Utilities
   - Fees & rates
   - Energy
-- title: Pat Station Road and Highway 12 East multi-dwelling development
-  summary: A proposed multi-dwelling residential development near Pat Station Road and Highway 12 East needs a building height variance (VA 26-07) and a special exception (SE 26-11). It went to the Board of Adjustments on Sept. 23 and the Planning Commission on Oct. 13, and was on the Nov. 3 Board of Aldermen agenda.
-  where: Pat Station Road and Highway 12 East
-  refs:
-  - 9
-  - 10
-  - 13
-  - 14
-  - 19
-  - 20
-  topics:
-  - Housing
-  - Zoning & development
-- title: Jackson 128 mixed-use development downtown
-  summary: A mixed-use development at 128 South Jackson Street in the T-5D downtown district requested five special exceptions, including a fifth story. A resident, Steve Langston, spoke in favor at the June hearing.
-  where: 128 South Jackson Street
-  refs:
-  - 1
-  topics:
-  - Zoning & development
-  - Downtown & business
-  public_comment: true
-- title: Sterling Ridge phased preliminary plat
-  summary: The phased preliminary plat for Sterling Ridge, at the southwest corner of Mockingbird Road and MS Highway 182, went to the Planning Commission in August and then to the Board of Aldermen on Aug. 18.
-  where: Mockingbird Road and MS Hwy 182
-  refs:
-  - 0
-  - 3
-  topics:
-  - Housing
-  - Zoning & development
-- title: Proposed hotel on Mill Street and other special exceptions
-  summary: On Oct. 13 the Planning Commission heard a special exception to reduce minimum parking for a proposed hotel on the east side of Mill Street near Cotton Mill Road. It also heard a Bluefield Road request in an RN district and another in an SD-6 district.
-  where: Mill Street at Cotton Mill Road
-  refs:
-  - 13
-  - 14
-  topics:
-  - Zoning & development
-  - Tourism & events
 - title: Airport runway extension and hangar grants
-  summary: 'The Board accepted MDOT''s 2.5% matching grant offers for FAA projects, including extending the runway, taxiway and lighting. In October it took up change orders and grant applications for Corporate Hangar #3 and Phase III of the runway and taxiway extension.'
+  summary: 'The Board accepted MDOT matching offers of 2.5% on FAA grants for runway, taxiway and lighting extension work. It later took up change orders and new FAA grant applications for Corporate Hangar #3 and Phase III of the runway and taxiway extension plus overlay.'
   where: Starkville airport
   refs:
-  - 3
-  - 16
+  - 0
+  - 12
   topics:
   - Airports
   - Roads & traffic
 - title: Pafford Emergency Services contract renewal
-  summary: Pafford Emergency Services representatives presented on renewing their contract with the city during the Aug. 28 work session.
+  summary: Pafford Emergency Services representatives presented on renewing their contract with the City at the Aug. 28 work session.
   where: Citywide
   refs:
-  - 5
+  - 2
   topics:
   - Fire & emergencies
   - Health & human services
-- title: Humane Society facility and spay/neuter clinic
-  summary: The Oktibbeha County Humane Society gave the Board an update on its projects, the facility, budget and spay/neuter clinic. The city later approved a spay/neuter voucher contribution in the 2027 budget.
-  where: Oktibbeha County Humane Society
+- title: Pat Station Road / Highway 12 East residential development variance and special exception
+  summary: A proposed residential development near Pat Station Road and Highway 12 East needed a building height variance (VA 26-07) and a special exception (SE 26-11). The Board of Adjustments and Planning Commission heard them, and they went to the Board of Aldermen on Nov. 3.
+  where: Pat Station Road and Highway 12 East
   refs:
-  - 2
-  - 4
-  topics:
-  - Health & human services
-  - Budget & taxes
-- title: Highway 12 and Garrard Road roundabout and road projects
-  summary: The Board approved Neel-Schaffer for design and inspection on the Safe Streets for All Highway 12 and Garrard Road roundabout project. It also approved a rail spur crossing easement for Southwire's connection to CC Clark Road.
-  where: Highway 12 and Garrard Road; CC Clark Road
-  refs:
-  - 8
-  topics:
-  - Roads & traffic
-  - Economic development
-- title: Zoning ordinance for maintenance uses in C and CN districts
-  summary: A public hearing was set for Nov. 3 on an ordinance establishing rules for maintenance uses in the C and CN zoning districts.
-  where: C and CN zoned areas
-  refs:
-  - 19
-  - 20
-  topics:
-  - Zoning & development
-- title: Henderson Road and Sand Road sewer project
-  summary: The Board was to hear from Golden Triangle Planning and Development about a CDBG project to provide sewer for the Henderson Road and Sand Road area. Memoranda of understanding tied to a sewer and lagoon project were on the Oct. 20 agenda.
-  where: Henderson Road and Sand Road
-  refs:
+  - 6
+  - 7
+  - 10
   - 15
   - 16
   topics:
-  - Utilities
+  - Zoning & development
+  - Housing
+- title: Hotel parking exception on Mill Street
+  summary: The Planning Commission considered special exception SE 26-12 on parking requirements for a proposed hotel on the east side of Mill Street, east of the Cotton Mill Road intersection.
+  where: Mill Street at Cotton Mill Road
+  refs:
+  - 10
+  - 18
+  topics:
+  - Zoning & development
+  - Downtown & business
+- title: 'Housing special exceptions and rezoning: manufactured home, townhouses, rezoning'
+  summary: The Planning Commission reviewed a special exception for a manufactured home west of 1487 Bluefield Road, a townhouse development on a vacant lot at 104 Curtis Circle (SE 26-13), and rezoning request RZ 26-02.
+  where: 1487 Bluefield Road; 104 Curtis Circle
+  refs:
+  - 10
+  - 17
+  - 18
+  topics:
+  - Housing
+  - Zoning & development
+- title: 'Subdivision plats: Sterling Ridge and others'
+  summary: 'The Board considered a phased preliminary plat for Sterling Ridge at Mockingbird Road and Highway 182, and final plats including Fowler Subdivision, College View #2, Adelaide Phase IIIA and IIIB, and QTRDOG minor subdivision.'
+  where: Mockingbird Rd/Hwy 182; Herbert St; Ryan Ave; E. Gillespie St
+  refs:
+  - 0
+  - 3
+  - 9
+  topics:
+  - Zoning & development
+  - Housing
+- title: Highway 12 and Garrard Road roundabout and road projects
+  summary: The Board approved Neel-Schaffer for engineering and inspection of the Safe Streets for All roundabout at Highway 12 and Garrard Road. It also approved rail spur crossing easements for a Southwire connection to CC Clark Road, and handled streetscape and University Drive work.
+  where: Highway 12 and Garrard Road; CC Clark Road
+  refs:
+  - 5
+  - 9
+  - 15
+  topics:
+  - Roads & traffic
+  - Economic development
+- title: Henderson Road and Sand Road sewer CDBG project
+  summary: Golden Triangle Planning and Development was scheduled to brief the Board on a CDBG project to provide sewer for the Henderson Road and Sand Road area, with related agreements on the sewer and lagoon project.
+  where: Henderson Road and Sand Road
+  refs:
+  - 11
+  - 12
+  topics:
   - Water
+  - Utilities
+- title: Extension of local tourism and beverage taxes
+  summary: The Board approved a resolution asking the 2027 Mississippi Legislature to extend the economic development, tourism and convention taxes on non-alcoholic beverage gross revenue and the hotel/motel tax.
+  where: Citywide
+  refs:
+  - 9
+  topics:
+  - Budget & taxes
+  - Tourism & events
+- title: Police sale of abandoned firearms to buy sighting devices
+  summary: The Board approved the police department converting abandoned property firearms for sale to Southern Connection, the higher of two bids, to buy sighting and light devices.
+  where: Police Department
+  refs:
+  - 3
+  topics:
+  - Policing & public safety
+  - Guns
+  tags:
+  - guns

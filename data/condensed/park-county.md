@@ -1,174 +1,6 @@
 # park-county
 
-## [park-county#0] 2026-08-04 | Board of County Commissioners (Work Session) | agenda
-- PARK COUNTY BOARD OF COMMISSIONERS
-- PRESENTATION OF OUTSIDE 285 REGIONAL PARTNERSHIP
-- PRESENTATION OF PROPOSED COMMUNITY WILDFIRE PROTECTION PLAN
-- PRESENTATION BY PUBLIC HEALTH:
-- l CITIES READINESS INITIATIVE (CRI) CONTRACT AMENDMENT
-- REVIEW OF LAND AND WATER TRUST FUND BY-LAWS
-- The purpose of a work session is to provide for a free and open dialogue. Discussions are not
-- opportunity to discuss County business in a public forum as required. Public comment is not a
-
-## [park-county#1] 2026-08-04 | Board of County Commissioners (Agendas) | minutes
-- PARK COUNTY BOARD OF COMMISSIONERS
-- AGENDA APPROVAL
-- Mitchell motioned to approve agenda with the change of Public hearings for Abatements to be heard first
-- I. APPROVAL OF VOUCHERS
-- II. APPROVAL OF MINUTES:
-- Mitchell motioned to approve vouchers and minutes for 7/28/2026. Gemmer seconded, carried 3- 0
-- PUBLIC HEARING(S)
-- I. ABATEMENT HEARING
-- II. ABATEMENT HEARING
-- III. ABATEMENT HEARING
-- PARKER AND KAYLA COOK
-- Per owner request to be postponed until 08/11/2026
-- CONSIDERATION AND/OR DECISION ON THE FOLLOWING ITEMS:
-- I. APPROVE/DENY RESOLUTION ON THE DECLARATION OF EMERGENCY ROAD WORK IN
-- Commissioner Mitchell motioned to approve the funds in the amount of $500,050 to the declaration of
-- emergency road work in Harris Park. Gemmer seconded, Carried 3-0
-- II. FIFTH READING OF ORDINANCE 6 — PROHIBITING THE ACCUMULATION OF
-- ENVIRONMENTAL BLIGHT WITHIN THE UNINCORPORATED AREAS OF PARK COUNTY
-- Commissioner Mitchell motioned to approve the fifth reading of ordinance 6 — prohibiting the
-- accumulation of environmental blight within the unincorporated areas of park county in its entirety
-- Resolution # 2026-41. Gemmer seconded, carried 3-0
-- I. DISCUSSION AND CONSIDERATION OF RECOMMENDATIONS OF VALUATION CHANGES
-- RESULTING FROM THE COUNTY BOARD OF EQUALIZATION HEARINGS
-- Commissioner Mitchell motioned to move the discussion to a special meeting on Thursday, August 6 th
-- II. APPROVE/DENY RESOLUTION SETTING FORTH THE FINAL DECISIONS OF THE PARK
-- COUNTY BOARD OF EQUALIZATION FOR TAX YEAR 2026
-- Commissioner Wissel motioned to move the discussion to a special meeting on Thursday, August 6 th
-- 1. Resolution CBOE - 2026.pdf
-- PUBLIC COMMENTS
-- Mitchell motioned to close Public Comments, Gemmer seconded, carried 3-0
-- GENERAL GUIDELINES REGARDING MAKING PUBLIC COMMENTS
-- later than the Friday prior to the meeting or hearing to be included in the official record. Comments can be
-
-## [park-county#2] 2026-08-06 | Board of County Commissioners (Agendas) | minutes
-- PARK COUNTY BOARD OF COMMISSIONERS
-- AGENDA APPROVAL
-- Mitchell motioned to approve agenda as written. Gemmer seconded, carried 3-0
-- CONSIDERATION AND/OR DECISION ON THE FOLLOWING ITEMS:
-- I. DISCUSSION AND CONSIDERATION OF RECOMMENDATIONS OF VALUATION CHANGES
-- RESULTING FROM THE COUNTY BOARD OF EQUALIZATION HEARINGS
-- Wissel motioned to amend the value for parcel R0004876 from $1,106,396 to $765,00. Mitchell
-- II. APPROVE/DENY RESOLUTION SETTING FORTH THE FINAL DECISIONS OF THE PARK
-- COUNTY BOARD OF EQUALIZATION FOR TAX YEAR 2026
-- Mitchell motioned to approve resolution 2026-42 setting forth the final decisions of the Park County Board
-- of Equalization for tax year 2026. On Aug, 6th, 2026 everything was upheld except for parcel R0004879
-- 1. Resolution CBOE - 2026.pdf
-- PUBLIC COMMENTS
-- Mitchell motioned to close Public Comments, Gemmer seconded, carried 3-0
-- GENERAL GUIDELINES REGARDING MAKING PUBLIC COMMENTS
-- later than the Friday prior to the meeting or hearing to be included in the official record. Comments can be
-
-## [park-county#3] 2026-08-10 | Fair Board | agenda
-- Park County Fair Board Meeting Agenda
-- Location: Park County Fair Grounds Quonset Hut
-- II. Approval of July Minutes
-- * Grant Kirklin
-- XII. Issues and Discussions
-
-## [park-county#4] 2026-08-11 | Board of County Commissioners (Work Session) | agenda
-- PARK COUNTY BOARD OF COMMISSIONERS
-- DISCUSSION OF 2026 MMRC ANNUAL MEETING ATTENDANCE, ASSESSMENT,
-- PRESENTATION BY TOURISM ADVISORY BOARD:
-- INTERGOVERNMENTAL AGREEMENT FOR USE OF A DISTRICT FACILITY AS A
-- VOTER SERVICE AND POLLING CENTER BETWEEN PARK COUNTY, COLORADO
-- AND THE HARTSEL FIRE PROTECTION DISTRICT
-- CONTINUED REVIEW OF PROPOSED LAND AND WATER TRUST FUND BY-LAWS
-- The purpose of a work session is to provide for a free and open dialogue. Discussions are not
-- opportunity to discuss County business in a public forum as required. Public comment is not a
-
-## [park-county#5] 2026-08-11 | Board of County Commissioners (Agendas) | minutes
-- PARK COUNTY BOARD OF COMMISSIONERS
-- AGENDA APPROVAL
-- Mitchell motioned to approve agenda as written. Gemmer seconded, carried 3-0
-- I. APPROVAL OF VOUCHERS
-- II. APPROVAL OF MINUTES
-- Mitchell motioned to approve the vouchers and minutes. Gemmer seconded, carried 3- 0
-- CONSIDERATION AND/OR DECISION ON THE FOLLOWING ITEMS:
-- I.APPROVE/DENY FERRELLGAS COMMERCIAL AGREEMENT AND CREDIT APPLICATION
-- 1. Ferellgas commercial agreement and credit application.pdf
-- Wissel motioned to approve the Ferrellgas commercial agreement and credit application. Gemmer
-- II. APPROVE/DENY PARK COUNTY COURTHOUSE ACS LOCKS PROJECT PROPOSAL
-- 1. Park County Courthouse ACS Locks Project Proposal.pdf
-- Wissel motioned to approve the Park County ACS Locs project proposal in the amount of $36,649.98
-- III. APPROVE/DENY PARK COUNTY COMMUNICATION STATION MIGRATION PROJECT
-- 1. Park County Communication Station Migration Project Proposal.pdf
-- Mitchel motioned to approve the Park County Communication station migration project proposal in the
-- APPROVE/DENY A RESOLUTION AMENDING THE FEE SCHEDULE FOR THE PARK COUNTY
-- PLANNING AND ZONING DEPARTMENT FOR LAND USE APPLICATIONS
-- 1. Planning Fee schedule 2026 Resolution Final.pdf
-- Mitchell motioned to postpone the resolution amending the fee schedule for the Park County Planning
-- and Zoning department for land use applications to a future date. Gemmer seconded, carried 3- 0
-- V. MOTION TO RECONSIDER ABATEMENT DECISION FOR SCHEDULE NUMBER: R0049119;
-- Wissel motioned to reopen and reconsider abatement decision for schedule number: R0049119 and
-- schedule number R0011616, and to reconsider alternatives such as $15,000 per acre in the total amount
-- ABATEMENT HEARING; CONTINUED FROM TUESDAY, AUGUST 4TH, 2026. R0003537; T09 R75
-- PARKER AND KAYLA COOK
-- Mitchell motioned to move and table the abatement hearing to Tuesday, august 18 th. Gemmer seconded,
-- ABATEMENT HEARING: CIRCLE C RANCH TARRYALL LLC
-- Mitchell motioned to table and postpone the abatement hearing for Circle C Ranch Tarryall LLC to August
-- PUBLIC COMMENTS
-- Gemmer motioned to close public comments, Mitchell seconded, carried 3-0
-- DEVELOPING STRATEGY FOR NEGOTIATIONS, AND/OR INSTRUCTING NEGOTIATORS
-- GENERAL GUIDELINES REGARDING MAKING PUBLIC COMMENTS
-- later than the Friday prior to the meeting or hearing to be included in the official record. Comments can be
-
-## [park-county#6] 2026-08-11 | Advisory Board on the Environment (ABE) | minutes
-- Park County personnel present: Kay Wolf, Planner II
-- Consideration of proposed additions to or modifications of the August 11 , 2026, agenda. Mr. Castro
-- motioned that the agenda as written be approved. Ms. Huffman seconded the motion to approve. The agenda
-- was approved as presented
-- Review and approval of minutes of June 9 , 2026, meeting. Mr. Schilken motioned that the minutes as
-- written be approved. Ms. Huffman seconded the motion to approve. The minutes were approved as presented
-- Discussion with Park County personnel regarding all things ABE. Ms. Wolf participated in the various
-- discussions assisting with clarification as needed
-- Presentation on pending Land Use Actions:
-- A26 -0021: The applicant is requesting a CUP to establish an agritourism business with a commercial
-- for the project has not been provided that enables us to effectively evaluate this application and PZ
-- 2026-0125. ABE would ask to have the applicants attend an ABE meeting to further discuss the
-- applications
-- ABE recommends that CPW be consulted regarding this application to help identify wildlife species
-- that will be compatible with the existing wildlife and to identify concerns/conflicts with wildlife
-- The CODEX database was utilized to further identify further wildlife and wetlands areas issues. Based
-- Mule deer, Elk and Moose. The area is also identified as a production area for Big Horn Sheep and
-- species. Wildlife friendly fencing should be considered. It is further recommended that
-- identification/recognition of predatory animals e.g. bear, mountain lion be made and precautions
-- (fencing – bear proof containers, etc.) be considered if the cabins and seasonal bell tents are
-- Other areas of discussion included potential concerns with grazing cattle as identified by the
-- out. A water augmentation plan may be required. ABE also understands that Geneva Creek is
-- considered a “dead creek”. Every provision should be made to protect human life and wildlife from
-- PZ 2026 -0125: The applicant is requesting setback variances to roads and wetlands to build their
-- ABE Recommendation: After reviewing this application ABE recognizes the physical conditions that
-- maintain setbacks that comply with those established by Park County from wetlands, riparian
-- areas and roadways
-- The applicant should/may be able to reduce the number of sites requested or find sites for the 4
-- low impact agricultural housing units and the 3 bell tent pads that will not encroach into the 50’
-- wetlands setback areas. Should consideration be given to granting the variance as requested or
-
-## [park-county#7] 2026-08-13 | Land and Water Trust Fund Board | agenda
-- Park County Land and Water Trust Fund Board Meeting Agenda
-- Park County Training Room L16
-- 1. Agenda Approval
-- CUSP South Platte River Restoration Lake George (25-02)-Final
-- Park County Landfill Application (26-08)
-- a. Financial & Park County Updates
-- Bylaws discussion with potential approval of draft
-- Discussion of next meetings
-- 6. Public Comments
-- *For an accurate public record, you will need to identify yourself when you enter the meeting and
-- Please Check Website “parkcountyco.gov” for the most Updated Agenda
-
-## [park-county#8] 2026-08-14 | Board of County Commissioners (Agendas) | agenda
-- PARK COUNTY BOARD OF COMMISSIONERS
-- EXECUTIVE SESSION FOR DISCUSSION OF A PERSONNEL MATTER UNDER C.R.S
-- HAVE REQUESTED DISCUSSION OF THE MATTER IN OPEN SESSION; ANY MEMBER
-- OF THIS BODY OR ANY ELECTED OFFICIAL; THE APPOINTMENT OF ANY PERSON
-- POLICIES THAT DO NOT REQUIRE THE DISCUSSION OF MATTERS PERSONAL TO
-
-## [park-county#9] 2026-08-18 | Board of County Commissioners (Work Session) | agenda
+## [park-county#0] 2026-08-18 | Board of County Commissioners (Work Session) | agenda
 - PARK COUNTY BOARD OF COMMISSIONERS
 - PRESENTATION BY HUMAN SERVICES:
 - l AGREEMENT FOR PROFESSIONAL SERVICES WITH SMITH AGENCY
@@ -178,7 +10,7 @@
 - The purpose of a work session is to provide for a free and open dialogue. Discussions are not
 - opportunity to discuss County business in a public forum as required. Public comment is not a
 
-## [park-county#10] 2026-08-18 | Board of County Commissioners (Agendas) | minutes
+## [park-county#1] 2026-08-18 | Board of County Commissioners (Agendas) | minutes
 - PARK COUNTY BOARD OF COMMISSIONERS
 - AGENDA APPROVAL
 - Mitchell motioned to approve agenda as written. Gemmer seconded, carried 3-0
@@ -217,7 +49,7 @@
 - ABATEMENT HEARING: CONTINUED FROM TUESDAY, AUGUST 11TH, CIRCLE C RANCH
 - Wissel motioned to grant the 2024 and 2025 abatements as presented. Mitchell seconded , carried 3-0
 
-## [park-county#11] 2026-08-19 | Planning Commission and Board of Adjustments | agenda
+## [park-county#2] 2026-08-19 | Planning Commission and Board of Adjustments | agenda
 - Park County Offices
 - *For the purpose of an accurate public record, you will need to identify yourself
 - APPROVAL OF AGENDA
@@ -225,17 +57,17 @@
 - Applicant is requesting a setback variance from the front lot line along Roberts Rd to
 - PZ 2026-0176 Combined staff report and application_Redacted.pdf
 - Applicant is requesting setback variances to the lot lines along Co Rd 62 and to the
-- cabins and the 6 bell tent sites on their 161 -acre parcel at 634 Co Rd 62, Grant
+- cabins and the 6 bell tent sites on their 161-acre parcel at 634 Co Rd 62, Grant
 - Park County Planning Department
 
-## [park-county#12] 2026-08-21 | Board of County Commissioners (Agendas) | agenda
+## [park-county#3] 2026-08-21 | Board of County Commissioners (Agendas) | agenda
 - PARK COUNTY BOARD OF COMMISSIONERS
 - EXECUTIVE SESSION FOR DISCUSSION OF A PERSONNEL MATTER UNDER C.R.S
 - HAVE REQUESTED DISCUSSION OF THE MATTER IN OPEN SESSION; ANY MEMBER
 - OF THIS BODY OR ANY ELECTED OFFICIAL; THE APPOINTMENT OF ANY PERSON
 - POLICIES THAT DO NOT REQUIRE THE DISCUSSION OF MATTERS PERSONAL TO
 
-## [park-county#13] 2026-08-24 | South Park National Heritage Area Board | minutes
+## [park-county#4] 2026-08-24 | South Park National Heritage Area Board | minutes
 - Motion to approve agenda - Kim. Jeff seconded
 - Motion to approve minutes - Kim. Jeff seconded
 - Destination Blueprint and Friends of South Park
@@ -261,7 +93,7 @@
 - CLG grant for nominations. Local nominations for Fleming dance hall. Approved by BOCC
 - announcement. Park County Residents should get a reduced rate
 
-## [park-county#14] 2026-08-25 | Tourism Board | agenda
+## [park-county#5] 2026-08-25 | Tourism Board | agenda
 - PARK COUNTY TOURISM BOARD MEETING AGENDA
 - *For the purpose of an accurate public record, you will need to identify yourself when you enter the
 - ENDA APPROVAL
@@ -271,7 +103,7 @@
 - 7. PUBLIC COMMENTS
 - Items may be deleted or cancelled at any time. Please check the website “parkcountyco.gov” for the
 
-## [park-county#15] 2026-08-26 | Planning Commission and Board of Adjustments | agenda
+## [park-county#6] 2026-08-26 | Planning Commission and Board of Adjustments | agenda
 - Park County Offices
 - *For the purpose of an accurate public record, you will need to identify yourself
 - APPROVAL OF AGENDA
@@ -286,7 +118,7 @@
 - PUBLIC COMMENT
 - Park County Planning Department
 
-## [park-county#16] 2026-09-01 | Board of County Commissioners (Work Session) | agenda
+## [park-county#7] 2026-09-01 | Board of County Commissioners (Work Session) | agenda
 - PARK COUNTY BOARD OF COMMISSIONERS
 - HERITAGE AND TOURISM PRESENTATION OF BID RECOMMENDATIONS FOR
 - PUBLIC WORKS PRESENTATION:
@@ -295,7 +127,7 @@
 - The purpose of a work session is to provide for a free and open dialogue. Discussions are not
 - opportunity to discuss County business in a public forum as required. Public comment is not a
 
-## [park-county#17] 2026-09-01 | Board of County Commissioners (Agendas) | minutes
+## [park-county#8] 2026-09-01 | Board of County Commissioners (Agendas) | minutes
 - PARK COUNTY BOARD OF COMMISSIONERS
 - AGENDA APPROVAL
 - Mitchell moved to approve the agenda with the modification of Public Comments to be moved to after the
@@ -312,12 +144,12 @@
 - II. FINAL READING OF ORDINANCE 6 (2026) – PROHIBITING THE ACCUMULATION OF
 - ENVIRONMENTAL BLIGHT WITHIN THE UNINCORPORATED AREAS OF PARK COUNTY AND
 - STRIKING PARK COUNTY ORDINANCE NO.6 (1991) IN ITS ENTIRETY
-- Andy Grand presented, should there be any changes to the Ordinance this would be through a n
+- Andy Grand presented, should there be any changes to the Ordinance this would be through an
 - 1. Park County Ordinance No. 6 (2026) - replacing ordinance 6 (1991) - prohibiting the accumulation
 - III. APPROVE/DENY ORDINANCE 6 (2026) – PROHIBITING THE ACCUMULATION OF
 - Mitchell moved to approve the final reading of Ordinance 6 (2026) prohibiting the accumulation of
 - environmental blight within the unincorporated areas of park county and striking Park County Ordinance
-- I. REVIEW OF PARK COUNTY ASSESSOR'S ABSTRACT OF ASSESSMENT (CRS 39 -5-123)
+- I. REVIEW OF PARK COUNTY ASSESSOR'S ABSTRACT OF ASSESSMENT (CRS 39-5-123)
 - Mitchell moved to approve the Park County Assessor’s Abstract of Assessment (CRS 39-5-123). Gemmer
 - EXECUTIVE SESSION FOR THE DISCUSSION OF A PERSONNEL MATTER UNDER C.R.S. SECTION
 - 24-6-402(2)(F) AND NOT INVOLVING: ANY SPECIFIC EMPLOYEES WHO HAVE REQUESTED
@@ -332,14 +164,14 @@
 - GENERAL GUIDELINES REGARDING MAKING PUBLIC COMMENTS
 - later than the Friday prior to the meeting or hearing to be included in the official record. Comments can be
 
-## [park-county#18] 2026-09-08 | Fair Board | agenda
+## [park-county#9] 2026-09-08 | Fair Board | agenda
 - Park County Fair Board Meeting Agenda
 - Location: Park County Fair Grounds Quonset Hut
 - II. Approval of August Minutes
 - * Grant Kirklin
 - XII. Issues and Discussions
 
-## [park-county#19] 2026-09-08 | Board of County Commissioners (Work Session) | agenda
+## [park-county#10] 2026-09-08 | Board of County Commissioners (Work Session) | agenda
 - PARK COUNTY BOARD OF COMMISSIONERS
 - PRESENTATION OF LETTER OF SUPPORT FOR FOREST RESTORATION AND
 - WILDFIRE RISK MITIGATION (FRWRM) GRANT APPLICATION
@@ -352,14 +184,7 @@
 - The purpose of a work session is to provide for a free and open dialogue. Discussions are not
 - opportunity to discuss County business in a public forum as required. Public comment is not a
 
-## [park-county#20] 2026-09-08 | Advisory Board on the Environment (ABE) | agenda
-- Consideration of additions to or modifications of the September 8, 2026 meeting agenda
-- Review and approval of minutes of the August 11, 2026 meeting
-- Remarks or input from Park County personnel
-- Presentation of any pending Land Use Actions at the time of this writing:
-- South Park Rail Society – Trellis Bridge – Continued discussion
-
-## [park-county#21] 2026-09-08 | Board of County Commissioners (Agendas) | minutes
+## [park-county#11] 2026-09-08 | Board of County Commissioners (Agendas) | minutes
 - PARK COUNTY BOARD OF COMMISSIONERS
 - AGENDA APPROVAL
 - Mitchell moved to approve the agenda with the modification of Agreement for Cooperative Wildfire
@@ -398,7 +223,27 @@
 - 2. Consult with specialist/s, Teller-Park Conservation District, Colorado Parks and Wildlife,
 - 4. Submit a Drainage, Erosion, and Sedimentation plan if over one acre of soil is
 
-## [park-county#22] 2026-09-15 | Board of County Commissioners (Work Session) | agenda
+## [park-county#12] 2026-09-08 | Advisory Board on the Environment (ABE) | minutes
+- Park County personnel present: Andrew Grand, Director, Development Services
+- Sarah Larimore, Assistant Director, Development Services
+- Consideration of proposed additions to or modifications of the September 8 , 202 6, agenda. Mr
+- Schilken motioned that the agenda as written be approved. Mr. Castro seconded the motion to approve. The
+- agenda was approved as presented
+- Review and approval of minutes of August 11, 2026, meeting. Mr. Castro motioned that the minutes as
+- written be approved. Ms. Huffman seconded the motion to approve. The minutes were approved as presented
+- Discussion with Park County personnel regarding all things ABE
+- Presentation on pending Land Use Actions:
+- PZ-2026-0191: The applicant is applying for rezoning from the Residential zone district to the
+- 2) Although the exact future use of the property was not identified in the application, should
+- the site be used for firewood processing, with firewood being brought in from other
+- 3) Having a site that is or could become a fire hazard within the town limits may require
+- review and/or identification of special precautions as determined by the local fire chief or
+- 4) The CODEX Database was utilized to identify wildlife concerns relating to the site. Based
+- 5) ABE finds that the requirements identified in the County letter to the applicant dated July
+- 9, 2026, regarding this Rezoning Application will help protect the environment if the listed
+- South Park Rail Society: Nothing to report
+
+## [park-county#13] 2026-09-15 | Board of County Commissioners (Work Session) | agenda
 - PARK COUNTY BOARD OF COMMISSIONERS
 - PRESENTATION OF VICTIM SERVICES VALE GRANT
 - PRESENTATION BY CTSI
@@ -407,7 +252,7 @@
 - The purpose of a work session is to provide for a free and open dialogue. Discussions are not
 - opportunity to discuss County business in a public forum as required. Public comment is not a
 
-## [park-county#23] 2026-09-15 | Board of County Commissioners (Agendas) | minutes
+## [park-county#14] 2026-09-15 | Board of County Commissioners (Agendas) | minutes
 - PARK COUNTY BOARD OF COMMISSIONERS
 - AGENDA APPROVAL
 - Mitchell moved to approve agenda as written. Gemmer seconded, carried 3-0
@@ -449,7 +294,7 @@
 - 2. Retail License Application - Last Chance Liquor - 9.2026 - redacted.pdf
 - Gemmer moved to approve the retail Liquor License application for Last Chance Liquor LTD. Wissel
 
-## [park-county#24] 2026-09-22 | Tourism Board | agenda
+## [park-county#15] 2026-09-22 | Tourism Board | agenda
 - PARK COUNTY TOURISM BOARD MEETING AGENDA
 - *For the purpose of an accurate public record, you will need to identify yourself when you enter the
 - 1. AGENDA APPROVAL
@@ -459,7 +304,7 @@
 - 7. PUBLIC COMMENTS
 - Items may be deleted or cancelled at any time. Please check the website “parkcountyco.gov” for the
 
-## [park-county#25] 2026-09-23 | Planning Commission and Board of Adjustments | agenda
+## [park-county#16] 2026-09-23 | Planning Commission and Board of Adjustments | agenda
 - Park County Offices
 - *For the purpose of an accurate public record, you will need to identify yourself
 - APPROVAL OF AGENDA
@@ -478,16 +323,16 @@
 - PUBLIC COMMENT
 - Park County Planning Department
 
-## [park-county#26] 2026-09-24 | Board of County Commissioners (Work Session) | agenda
+## [park-county#17] 2026-09-24 | Board of County Commissioners (Work Session) | agenda
 - PARK COUNTY BOARD OF COMMISSIONERS
 - 2026 BUDGET REVIEW AND 2027 BUDGET & EXPENDITURE DISCUSSION
 - The purpose of a work session is to provide for a free and open dialogue. Discussions are not
 - opportunity to discuss County business in a public forum as required. Public comment is not a
 
-## [park-county#27] 2026-09-25 | Board of County Commissioners (Agendas) | agenda
+## [park-county#18] 2026-09-25 | Board of County Commissioners (Agendas) | agenda
 - DISCUSSION OF THE CR43 REPAIRS AT PUBLIC WORKS UPDATE AND COMMUNITY
 
-## [park-county#28] 2026-10-06 | Board of County Commissioners (Work Session) | agenda
+## [park-county#19] 2026-10-06 | Board of County Commissioners (Work Session) | agenda
 - PARK COUNTY BOARD OF COMMISSIONERS
 - PRESENTATION BY HUMAN SERVICES FOR CONTRACT RENEWAL WITH
 - PRESENTATION OF 2027 RENEWAL RATES FOR GROUP HEALTH PLAN
@@ -502,7 +347,7 @@
 - The purpose of a work session is to provide for a free and open dialogue. Discussions are not
 - opportunity to discuss County business in a public forum as required. Public comment is not a
 
-## [park-county#29] 2026-10-06 | Board of County Commissioners (Agendas) | minutes
+## [park-county#20] 2026-10-06 | Board of County Commissioners (Agendas) | minutes
 - PARK COUNTY BOARD OF COMMISSIONERS
 - AGENDA APPROVAL
 - Mitchell motioned to approve the agenda with the changes, Abatement hearing Julie and Anthony Lobato
@@ -534,7 +379,7 @@
 - 1. PZ 2026-0159 BOCC Resolution.pdf
 - VI. PRESENTATION OF 2025 AUDIT FINANCIAL STATEMENTS
 - ABATEMENT HEARINGS:
-- Jesse and Elizabeth Zesiger have requested to postpone their hearing until October 20 th 2026
+- Jesse and Elizabeth Zesiger have requested to postpone their hearing until October 20th 2026
 - PUBLIC HEARING(S)
 - I. REMOVAL OF COUNTY APPOINTED ADVISORY BOARD PLANNING COMMISSION BOARD
 - Michell motioned to close public comments. Gemmer seconded, carried 3-0
@@ -543,7 +388,7 @@
 - GENERAL GUIDELINES REGARDING MAKING PUBLIC COMMENTS
 - later than the Friday prior to the meeting or hearing to be included in the official record. Comments can be
 
-## [park-county#30] 2026-10-08 | Land and Water Trust Fund Board | agenda
+## [park-county#21] 2026-10-08 | Land and Water Trust Fund Board | agenda
 - Park County Land and Water Trust Fund Board Meeting Agenda
 - *For the purpose of an accurate public record, you will need to identify yourself when you enter the
 - 1. Agenda Approval
@@ -560,7 +405,7 @@
 - The 2027 LWTF Budget Review is conducted in accordance with Resolution 97-75, Articles VI and
 - VII; Resolution 06-63, Section 8; and Resolution 18-10, Section 8
 
-## [park-county#31] 2026-10-08 | E9-1-1 Authority Board | agenda
+## [park-county#22] 2026-10-08 | E9-1-1 Authority Board | agenda
 - Park County Government
 - Subject: Generator maintenance 911 Clark Street, Sacramento site
 - Assistant County Manager, and County Commissioners. Re write will be for a service agreement vs
@@ -568,7 +413,7 @@
 - generator at the 911 Building and the Sacramento site is an approved expense for ETC funds,
 - piece of the 911 Center infrastructure. 911 Center maintenance fee is $1,919.88, Sacramento is
 
-## [park-county#32] 2026-10-13 | Board of County Commissioners (Work Session) | agenda
+## [park-county#23] 2026-10-13 | Board of County Commissioners (Work Session) | agenda
 - PARK COUNTY BOARD OF COMMISSIONERS
 - PRESENTATION BY COLORADO SPRINGS UTILITES
 - PRESENTATION OF COUNTY TREASURER & PUBLIC TRUSTEE REPORTS:
@@ -578,14 +423,7 @@
 - The purpose of a work session is to provide for a free and open dialogue. Discussions are not
 - opportunity to discuss County business in a public forum as required. Public comment is not a
 
-## [park-county#33] 2026-10-13 | Advisory Board on the Environment (ABE) | agenda
-- Consideration of additions to or modifications of the October 13, 2026 meeting agenda
-- Review and approval of minutes of the September 8, 2026 meeting
-- Remarks or input from Park County personnel
-- Presentation of any pending Land Use Actions at the time of this writing:
-- South Park Rail Society – Trellis Bridge – Continued discussion
-
-## [park-county#34] 2026-10-13 | Board of County Commissioners (Agendas) | minutes
+## [park-county#24] 2026-10-13 | Board of County Commissioners (Agendas) | minutes
 - PARK COUNTY BOARD OF COMMISSIONERS
 - AGENDA APPROVAL
 - Michell motioned to amend the agenda postponing .VI. Presentation of proposed 2027 Budget by April
@@ -613,7 +451,31 @@
 - GENERAL GUIDELINES REGARDING MAKING PUBLIC COMMENTS
 - later than the Friday prior to the meeting or hearing to be included in the official record. Comments can be
 
-## [park-county#35] 2026-10-15 | Board of County Commissioners (Agendas) | minutes
+## [park-county#25] 2026-10-13 | Advisory Board on the Environment (ABE) | minutes
+- Park County personnel present: Shelli Yarbrough, Planning Department
+- Consideration of proposed additions to or modifications of the October 13, 2026, agenda. Mr. Castro
+- motioned that the agenda as written be approved. Mr. Petersen seconded the motion to approve. The agenda
+- was approved as presented
+- Review and approval of minutes of September 8, 2026, meeting. Mr. Schilken motioned that the minutes
+- as written be approved. M r. Castro seconded the motion to approve. The minutes were approved as
+- Discussion with Park County personnel regarding all things ABE
+- Presentation on pending Land Use Actions:
+- PZ-2026-0197: Applicant is requesting a setback variance from the front lot line of approximately 17’
+- PZ-2026-0198: The applicant is applying for a conditional use permit to operate a conference and retreat
+- center in the residential zone district to allow for church camps and retreats, weddings, corporate retreats,
+- completed in the future and ABE requests to review the additional information as it becomes available
+- ABE requests that the following information be taken into consideration as this process moves forward:
+- 1) Colorado Conservation Data Explorer (CODEX) identifies the area as a CPW Winter
+- area is also identified as Winter Concentration Area for Pronghorn & Mule Deer as well
+- as a Production Area for Elk. The area is also identified as a Summer & Fall
+- Concentration Area for Black Bear. It may be advised to contact Colorado Parks &
+- Wildlife (CPW) regarding this application. CPW may assist in identifying the impact
+- 2) An erosion control plan should be considered to protect wetlands on the property
+- 3) Is Ranger Station Rd. capable of handling potential traffic and is adequate parking
+- PZ-2026-0204: The applicant is requesting a Common Plat Amendment to combine Lot 1128 and Lot
+- South Park Rail Society: Nothing to report. Mr. Reiber will follow up with the Society to get an update
+
+## [park-county#26] 2026-10-15 | Board of County Commissioners (Agendas) | minutes
 - PARK COUNTY BOARD OF COMMISSIONERS
 - AGENDA APPROVAL
 - Mitchell motioned to approve the agenda as written. Wissel seconded, carried 2-0
@@ -625,7 +487,7 @@
 - GENERAL GUIDELINES REGARDING MAKING PUBLIC COMMENTS
 - later than the Friday prior to the meeting or hearing to be included in the official record. Comments can be
 
-## [park-county#36] 2026-10-19 | Historic Preservation Advisory Commission | agenda
+## [park-county#27] 2026-10-19 | Historic Preservation Advisory Commission | agenda
 - Park County Historic Preservation Advisory Commission
 - Topic: Park County Historic Preservation Advisory Commission (PCHPAC)
 - b) Approve/Modify Agendas
@@ -635,7 +497,7 @@
 - v. Preservation Plan Update Tasks
 - i) Public Comment
 
-## [park-county#37] 2026-10-20 | Board of County Commissioners (Work Session) | agenda
+## [park-county#28] 2026-10-20 | Board of County Commissioners (Work Session) | agenda
 - PARK COUNTY BOARD OF COMMISSIONERS
 - PRESENTATION BY CORONER OF 2027 PROPOSED BUDGET
 - PRESENTATION BY INFORMATION SERVICES OF 2027 PROPOSED BUDGET
@@ -646,16 +508,16 @@
 - The purpose of a work session is to provide for a free and open dialogue. Discussions are not
 - opportunity to discuss County business in a public forum as required. Public comment is not a
 
-## [park-county#38] 2026-10-20 | Board of County Commissioners (Agendas) | minutes
+## [park-county#29] 2026-10-20 | Board of County Commissioners (Agendas) | minutes
 - PARK COUNTY BOARD OF COMMISSIONERS
 - AGENDA APPROVAL
-- Mitchell motioned to approve the agenda as written. Gemmer seconded, carried 3 -0
+- Mitchell motioned to approve the agenda as written. Gemmer seconded, carried 3-0
 - I. APPROVAL OF VOUCHERS
-- Mitchell motioned to approve vouchers as provided by Finance. Gemmer seconded, carried 3- 0
+- Mitchell motioned to approve vouchers as provided by Finance. Gemmer seconded, carried 3-0
 - II. APPROVAL OF MINUTES
-- Mitchell motioned to approve minutes for 10/13/2026 and 10/15/2026. Wissel seconded, carried 2- 0
+- Mitchell motioned to approve minutes for 10/13/2026 and 10/15/2026. Wissel seconded, carried 2-0
 - CONVENE AS PARK COUNTY LIQUOR BOARD
-- Mitchell motioned to convene as the Park County Liquor Board. Gemmer seconded, carried 3- 0
+- Mitchell motioned to convene as the Park County Liquor Board. Gemmer seconded, carried 3-0
 - PUBLIC HEARING(S)
 - I. APPLICATION FOR RETAIL LIQUOR STORE LICENSE; WINNIES LIQUOR LLC, LOCATED 38600
 - Mitchell motioned to close public comments. Gemmer seconded, carried 3-0
@@ -665,7 +527,7 @@
 - ABATEMENT HEARING: JESSE AND ELIZABETH ZESIGER
 - I. CASE #PZ-2026-0191 REZONING: HAS REQUESTED A CONTINUANCE TO BOCC MEETING ON
 - TUESDAY, NOVEMBER 17TH, 2026. THE APPLICANT IS APPLYING TO REZONING FROM THE
-- Case PZ-2026-0191 requested a continuance to BOCC meeting on Tuesday November 17 th, 2026
+- Case PZ-2026-0191 requested a continuance to BOCC meeting on Tuesday November 17th, 2026
 - 1. PZ 2026-0191 - CASE PACKET AND APPLICATION - REDACTED.pdf
 - II. CASE #PZ-2026-0192 COMMON PLAT AMENDMENT: THE APPLICANT IS REQUESTING A
 - COMMON PLAT AMENDMENT TO COMBINE LOT 811 AND LOT 812 IN THE VALLEY OF THE SUN
@@ -685,7 +547,7 @@
 - GENERAL GUIDELINES REGARDING MAKING PUBLIC COMMENTS
 - later than the Friday prior to the meeting or hearing to be included in the official record. Comments can be
 
-## [park-county#39] 2026-10-21 | Planning Commission and Board of Adjustments | agenda
+## [park-county#30] 2026-10-21 | Planning Commission and Board of Adjustments | agenda
 - Park County Offices
 - *For the purpose of an accurate public record, you will need to identify yourself
 - APPROVAL OF AGENDA
@@ -694,7 +556,7 @@
 - PZ-2026-0197 Application and Staff Report_Redacted.pdf
 - Park County Planning Department
 
-## [park-county#40] 2026-10-22 | Land and Water Trust Fund Board | agenda
+## [park-county#31] 2026-10-22 | Land and Water Trust Fund Board | agenda
 - Park County Land and Water Trust Fund Board
 - *For the purpose of an accurate public record, you will need to identify yourself when you enter the
 - 1. Agenda Approval
@@ -704,32 +566,7 @@
 - The 2027 LWTF Budget Review is conducted in accordance with Resolution 97-75, Articles VI and VII;
 - Resolution 06-63, Section 8; and Resolution 18-10, Section 8
 
-## [park-county#41] 2026-10-27 | Board of County Commissioners (Agendas) | agenda
-- PARK COUNTY BOARD OF COMMISSIONERS
-- *For the purpose of an accurate public record, you will need to identify yourself when
-- AGENDA APPROVAL
-- APPROVAL OF VOUCHERS
-- APPROVAL OF MINUTES
-- CONSIDERATION AND/OR DECISION ON THE FOLLOWING ITEMS:
-- A RESOLUTION RECOMMENDING APPROVAL FOR A PUD AMENDMENT TO
-- OF THEIR ORIGINAL PLANS THERE. THE ORIGINAL PUD IS GRANTED FOR
-- 49355 HWY 285, GRANT AND THE APPLICANT WANTS TO COMBINE IT WITH
-- PZ 2026-0175 BOCC Resolution.pdf
-- A RESOLUTION APPROVING AN APPLICATION FOR A COMMON PLAT
-- AMENDMENT OF LOT 811, FILING 15 & LOT 812, FILING 16 OF THE VALLEY
-- PZ 2026-0192 BOCC Resolution.pdf
-- ABATEMENT HEARING; JESSE AND ELIZABETH ZESIGER, REPRESENTED
-- NEGOTIATIONS, DEVELOPING STRATEGY FOR NEGOTIATIONS, AND/OR
-- DISCUSSION OF A PERSONNEL MATTER NOT INVOLVING: ANY SPECIFIC
-- EMPLOYEES WHO HAVE REQUESTED DISCUSSION OF THE MATTER IN OPEN
-- APPOINTMENT OF ANY PERSON TO FILL AN OFFICE OF THIS BODY OR OF AN
-- DISCUSSION OF MATTERS PERSONAL TO PARTICULAR EMPLOYEES
-- PUBLIC COMMENTS
-- GENERAL GUIDELINES REGARDING MAKING PUBLIC COMMENTS
-- later than the Friday before a scheduled public hearing or meeting. Comments can be
-- administrative assistant no later than the Friday prior to the meeting or hearing to be
-
-## [park-county#42] 2026-10-27 | Board of County Commissioners (Work Session) | agenda
+## [park-county#32] 2026-10-27 | Board of County Commissioners (Work Session) | agenda
 - PARK COUNTY BOARD OF COMMISSIONERS
 - PRESENTATION BY HUMAN SERVICES FOR 2027 PROPOSED BUDGET
 - PRESENTATION BY PUBLIC HEALTH FOR 2027 PROPOSED BUDGET
@@ -744,31 +581,157 @@
 - The purpose of a work session is to provide for a free and open dialogue. Discussions are not
 - opportunity to discuss County business in a public forum as required. Public comment is not a
 
-## [park-county#43] 2026-10-28 | Planning Commission and Board of Adjustments | agenda
-- Park County Offices
-- *For the purpose of an accurate public record, you will need to identify yourself
-- APPROVAL OF AGENDA
-- APPROVAL OF MINUTES FROM SEPTEMBER 23, 2026
+## [park-county#33] 2026-10-27 | Board of County Commissioners (Agendas) | minutes
+- PARK COUNTY BOARD OF COMMISSIONERS
+- AGENDA APPROVAL
+- Mitchell motioned to amend the agenda moving public comment before the executive session. Gemmer
+- I. APPROVAL OF VOUCHERS
+- II. APPROVAL OF MINUTES
+- Mitchell motioned to approve the consent items. Gemmer seconded, carried 3-0
+- CONSIDERATION AND/OR DECISION ON THE FOLLOWING ITEMS:
+- I. A RESOLUTION RECOMMENDING APPROVAL FOR A PUD AMENDMENT TO CONSOLIDATE
+- THE ORIGINAL PUD IS GRANTED FOR 49355 HWY 285, GRANT AND THE APPLICANT WANTS TO
+- Mitchell motioned to approve Resolution # 2026-53 recommending approval for a PUD amendment to
+- PUD is granted for 49355 HWY 285, Grant and the applicant wants to combine it with 373 County Road
+- 1. PZ 2026-0175 BOCC Resolution.pdf
+- II. A RESOLUTION APPROVING AN APPLICATION FOR A COMMON PLAT AMENDMENT OF LOT
+- Mitchell motioned to approve resolution# 2026-54 approving an application for a common plat
+- amendment of lot 811, filing 15 & lot 812, filing 16 of the Valley of the Sun subdivision – addressed as 36
+- 1. PZ 2026-0192 BOCC Resolution.pdf
+- HEARING; JESSE AND ELIZABETH ZESIGER, REPRESENTED BY BRYAN ZESIGER:
+- PUBLIC COMMENTS
+- Mitchell motioned to close public comments and go to deliberation. Gemmer seconded, carried 3-0
+- Wissel motioned to consider all 6 properties as 1 residential property. Mitchell seconded, carried 3-0
+- Mitchell motioned to close public comments. Gemmer seconded, carried 3-0
+- DEVELOPING STRATEGY FOR NEGOTIATIONS, AND/OR INSTRUCTING NEGOTIATORS AND
+- UNDER C.R.S. SECTION 24-6-402(2)(F) FOR DISCUSSION OF A PERSONNEL MATTER NOT
+- INVOLVING: ANY SPECIFIC EMPLOYEES WHO HAVE REQUESTED DISCUSSION OF THE MATTER
+- APPOINTMENT OF ANY PERSON TO FILL AN OFFICE OF THIS BODY OR OF AN ELECTED
+- OFFICIAL; OR PERSONNEL POLICIES THAT DO NOT REQUIRE THE DISCUSSION OF MATTERS
+- GENERAL GUIDELINES REGARDING MAKING PUBLIC COMMENTS
+- later than the Friday prior to the meeting or hearing to be included in the official record. Comments can be
+
+## [park-county#34] 2026-10-28 | Planning Commission and Board of Adjustments | minutes
+- AGENDA APPROVAL: Spencer moved to approve the agenda; Garner seconded
+- MINUTES APPROVAL for September 23, 2026: Garner moved to approve the
 - REIMANN COMMON PLAT AMENDMENT CASE #PZ-2026-0204
 - The applicant is requesting a Common Plat Amendment to combine Lots 1128 &
-- PZ-2026-0204 Staff Report and Application_Redacted.pdf
+-  The applicant, Martin Reimann, was not present at the hearing
 - CAMP SYCAMORE CONDITIONAL USE PERMIT CASE PZ-2026-0198
 - The applicant is applying for a conditional use permit to operate a conference and
 - weddings, corporate retreats, camping and cabin rentals for up to 250 people. The
-- PZ-2026-0198 Complete Application_Redacted.pdf
-- PUBLIC COMMENT
-- Park County Planning Department
+-  Shelli Yarbrough gave the PowerPoint presentation. Commissioner Spencer
+- motioned to accept the presentation. Commissioner Garner seconded. Motion
+-  Commissioner Garner motioned to open public comment. Commissioner
+-  Public Comment: Steve Murphy, Sam Arnold, Michael Gebhardt, Aaron
+-  Commissioner Garner motioned to close public comment; Commissioner
+-  Commissioners deliberated. Applicant was asked to clarify some information
+-  Commissioner Garner moved to recommend denial of the application
+- PUBLIC COMMENT: None
 
-## [park-county#44] 2026-10-30 | Board of County Commissioners (Agendas) | agenda
+## [park-county#35] 2026-10-30 | Board of County Commissioners (Agendas) | minutes
+- PARK COUNTY BOARD OF COMMISSIONERS
+- AGENDA APPROVAL
+- Mitchell motioned to approve the agenda as written. Gemmer seconded, carried 3-0
+- CONSIDERATION AND/OR DECISION ON THE FOLLOWING ITEMS:
+- I. APPROVE/DENY PROPOSED INTERGOVERNMENTAL AGREEMENT REGARDING THE
+- HOUSING OF PARK COUNTY INMATES AT THE CHAFFEE COUNTY DETENTION CENTER
+- Mitchell motioned to approve the proposed intergovernmental agreement regarding the housing of Park
+- County inmates at the Chaffee County Detention Center with the amendment of 5. Daily Rate: Park
+- County shall pay Chaffee County a daily rate (“Inmate Charge”) for each Park County Inmate (Bed Space
+- Day”) housed at the Chaffee County Jail. The Inmate Charge shall be at the rate of $100.00 (One
+- per written agreement of the Parties. 5.1 Bed Space Days and Duration of Stay. Gemmer seconded,
+- IGA with Chaffee County for the Detention Center (Oct 2026).pdf
+- II. APPROVE/DENY CONTRACT RENEWAL WITH EVANS LEGAL GROUP, P.C. FOR LEGAL
+- Mitchell motioned to not renew contract with Evans Legal Group, P.C. for legal services. Wissel
+- PUBLIC COMMENTS
+- Mitchell motioned to close Public Comments. Wissel seconded, carried 3-0
+- GENERAL GUIDELINES REGARDING MAKING PUBLIC COMMENTS
+- later than the Friday prior to the meeting or hearing to be included in the official record. Comments can be
+
+## [park-county#37] 2026-11-03 | Board of County Commissioners (Work Session) | agenda
+- The purpose of a work session is to provide for a free and open dialogue. Discussions are not
+- opportunity to discuss County business in a public forum as required. Public comment is not a
+
+## [park-county#38] 2026-11-09 | Fair Board | agenda
+- Park County Fair Board Meeting Agenda
+- Location: Park County Fair Grounds Quonset Hut
+- II. Approval of August and September Minutes
+- * Grant Kirklin
+- XII. Issues and Discussions
+
+## [park-county#39] 2026-11-10 | Board of County Commissioners (Work Session) | agenda
+- PARK COUNTY BOARD OF COMMISSIONERS
+- PRESENTATION BY HERITAGE AND TOURISM:
+- 2027 PROPOSED BUDGET
+- PARK COUNTY HISTORICAL PRESERVATION ADVISORY COMMISSION
+- (PCHPAC) GRANT APPLICATION RECOMMENDATIONS:
+- ¡ °DENVER, SOUTH PARK AND PACIFIC HISTORICAL SOCIETY (DSP&P)
+- PRESENTATION BY EMERGENCY COMMUNICATION:
+- REVIEW OF INTERGOVERNMENTAL AGREEMENT FOR THE OPERATION,
+- ADMINISTRATION AND FINANCIAL SUPPORT OF THE PARK COUNTY
+- PRESENTATION BY LAND AND WATER TRUST FUND OF 2027 PROPOSED
+- PRESENTATION BY CLERK AND RECORDER OF 2027 PROPOSED BUDGET
+- PRESENTATION BY ASSESSOR OF 2027 PROPOSED BUDGET
+- PRESENTATION BY PUBLIC WORKS AND FLEET OF 2027 PROPOSED BUDGET
+- PRESENTATION BY SHERIFF AND JAIL OF 2027 PROPOSED BUDGET
+- The purpose of a work session is to provide for a free and open dialogue. Discussions are not
+- opportunity to discuss County business in a public forum as required. Public comment is not a
+
+## [park-county#40] 2026-11-10 | Board of County Commissioners (Agendas) | agenda
 - PARK COUNTY BOARD OF COMMISSIONERS
 - *For the purpose of an accurate public record, you will need to identify yourself when
 - AGENDA APPROVAL
+- APPROVAL OF VOUCHERS
+- APPROVAL OF MINUTES
 - CONSIDERATION AND/OR DECISION ON THE FOLLOWING ITEMS:
-- APPROVE/DENY PROPOSED INTERGOVERNMENTAL AGREEMENT
-- REGARDING THE HOUSING OF PARK COUNTY INMATES AT THE CHAFFEE
-- IGA with Chaffee County for the Detention Center (Oct 2026).pdf
-- APPROVE/DENY CONTRACT RENEWAL WITH EVANS LEGAL GROUP, P.C
+- APPROVE/DENY RECOMMENDATION OF PLANNING COMMISSION BOARD
+- MichaelLockette_Application_Redacted.pdf
+- APPROVE/DENY RECOMMENDATION OF FAIRBOARD BOARD MEMBER
+- APPROVE/DENY INTERGOVERNMENTAL AGREEMENT (IGA) FOR THE
+- OPERATION, ADMINISTRATION AND FINANCIAL SUPPORT OF THE PARK
+- APPROVE/DENY RESCINDING AND REPLACE PROPOSED
+- INTERGOVERNMENTAL AGREEMENT (IGA) REGARDING THE HOUSING OF
+- PARK COUNTY INMATES AT THE CHAFFEE COUNTY DETENTION CENTER
+- 2026 IGA re. Inmate Housing Chaffee.pdf
+- APPROVE/DENY PROPOSED LEGAL SERVICES CONTRACT WITH
+- MSA TLP and Park Co BOCC 11-2-2026.pdf
+- Exhibit A Rate Sheet 10-26-26.pdf
+- APPROVE/DENY TREASURER SOFTWARE SERVICE AGREEMENT WITH
+- Park County, CO Treasurer SaaS Flip Agreement 102126.pdf
 - PUBLIC COMMENTS
 - GENERAL GUIDELINES REGARDING MAKING PUBLIC COMMENTS
 - later than the Friday before a scheduled public hearing or meeting. Comments can be
 - administrative assistant no later than the Friday prior to the meeting or hearing to be
+
+## [park-county#41] 2026-11-10 | Advisory Board on the Environment (ABE) | agenda
+- Consideration of additions to or modifications of the November 10, 2026 meeting agenda
+- Review and approval of minutes of the October 13, 2026 meeting
+- Remarks or input from Park County personnel
+- Presentation of any pending Land Use Actions at the time of this writing:
+
+## [park-county#42] 2026-11-16 | Planning Commission and Board of Adjustments | agenda
+- Park County Offices
+- *For the purpose of an accurate public record, you will need to identify yourself
+- APPROVAL OF AGENDA
+- APPROVAL OF MINUTES FROM OCTOBER 28, 2026
+- KOPPEN COMMON PLAT AMENDMENT CASE #PZ-2026-0215
+- The applicant is requesting a Common Plat Amendment to combine part of lot 5 of the
+- PZ 2026-0215 Staff Report and Application_Redacted.pdf
+- BACKEL-GRAHAM CONDITIONAL USE PERMIT CASE #PZ-2026-0214
+- The applicant is applying for a retroactive conditional use permit to build a home in the
+- mining zone district. The home was built in 2012 and has a certificate of occupancy;
+- is addressed as 1954 Platte Dr, Fairplay
+- PZ 2026-0214 Staff report and application_Redacted.pdf
+- PUBLIC COMMENT
+- Park County Planning Department
+
+## [park-county#43] 2026-11-16 | South Park National Heritage Area Board | agenda
+- South Park National Heritage Area Board Meeting
+- Park County Government is inviting you to a scheduled Microsoft Teams
+- b) Approve/Modify Agendas:
+- c) Approve/Modify Minutes of Previous Meeting:
+- i. SPNHA Sub-Grant Application Review (Andy Spencer)
+- ii. South Park International Dark Sky Reserve Update (Andy Spencer)
+- iii. Status of Preservation Projects (Kate McCoy)
+- h) Public Comment:

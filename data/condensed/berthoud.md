@@ -1,101 +1,6 @@
 # berthoud
 
-## [berthoud#0] 2026-08-11 | Board of Trustees | minutes
-- Community Development Director Anne Johnson
-- Director of Water Utilities, Ken Matthews
-- Iv, Approval of the Agenda
-- Trustee Grace requested item "7. Adoption ofNew Municipal Code Section 4.9 Regarding
-- Boards and Commissions - Ordinance l388" be moved to the beginning ofthe Agenda
-- Marc Sexton spoke regarding the trees in Fickel Park and a program that allows people to
-- purchase trees in memory ofa loved one
-- Sarah Lincoln spoke in favor ofa bond to finance Mountain Vista Park
-- O'Brien requested repairs to their yard, an adjustment to the speed limit, and the installation of
-- VI. Scheduled Items and Estimated Times for Discussion
-- Consent Agenda items are considered to be routine by the Town Board and will be enacted
-- with a single vote. There will be no separate discussion ofthese items, Ifdiscussion is deemed
-- necessary, an item may be removed flom the Consent Agenda and considered separately
-- Trustee Anderson requested item "a. July 28, 2026 Meeting Minutes" be removed from the
-- Consent Agenda for individual consideration
-- Trustee Wing moved to combine and approve the items on the Consent Agenda, minus
-- Trustee Anderson requested an amendment to the minutes under item ',2. Appointment of
-- Member to Planning Commission" to clarify that the recommendation for appointment was
-- that recommendations for both vacancies should be considered at the same time
-- Trustee Wing moved to approve item "a. JlUIly 28,2026 Meeting Minutes,, with the
-- Amendment No, I to Lease Agreement with Northem Water for Water
-- Trustee Wing moved to approve the Agenda for the August ll,2026 Town Board Meeting
-- with the following amendment: Item "7. Adoption of New Municipal Code Section 4.9
-- Regarding Boards and Commissions - Ordinance 1388" be moved to the beginning ofthe
-- Commissions - Ordinance 1388
-- Clerk Samora provided an introduction to Ordinance 1388, including background information on
-- the existing ordinances and resolutions governing the Town's Boards and Commissions and the
-- benefits of consolidating them into a single ordinance
-- Trustees discussed the bylaws and mission statements for the boards and commissions
-- Trustee Wing moved to adopt Ordinance 1388, an Ordinance of the Town of Berthoud
-- amending Chapter 4 of the Berthoud Municipal Code by the adoption of a new Section 4.9,
-- Trustee Murphy proposed an amendment requiring all committees and commissions to
-- review the Ordinance in October and update their bylaws accordingly. Trustee Wing
-- 2, Berthoud Main Street Agreement (15 Min)
-- Administrator Kirk provided an introduction to the proposed agreement with Benhoud Main
-
-## [berthoud#1] 2026-08-13 | Planning Commission | agenda
-- 4. Approval of Meeting Minutes
-- 5. Public Hearing(s)
-- B. Comprehensive Plan update, Strategic Growth
-- C. Public Hearing to consider a request for approval of a Final Plat known as Legacy Park located
-- south of Mountain Avenue, east of Meadowlark Drive and west of S. Berthoud Parkway
-- D. Public Hearing to consider a request for a Replat, for the property known as 597 Meadowlark Drive
-- E. Public Hearing to consider a request for a Neighborhood Master Plan for the property known as
-
-## [berthoud#2] 2026-08-13 | General | agenda
-- 2. Wildfire Community Arts Center StreetFest Special Events Liquor Application
-- 4. Kum & Go LC Change in Corporate Name Application
-
-## [berthoud#3] 2026-08-17 | Tree Advisory Committee | agenda
-- 2. Approval of Meeting Minutes
-- 3. Public Comment Period
-- 4. Discussion Items
-- B. Review TAC Committee Resolution
-- C. Grants for Berthoud's Urban Forest
-- D. 2026 Fall Planting Plan
-
-## [berthoud#4] 2026-08-17 | Tree Advisory Committee | agenda
-- RESOLUTION ilO. 2OT9.O2
-- WHEREAS, experience with operations since adoption of Resolution 5-17
-- Resolution 5-17 is hereby withdrawn, amended and re-enacted to read as follows:
-- existing or hereafter created by the Town of Berthoud, except where a separate
-- Resolution (such as the Youth Advisory Board) is approved by the Board of Trustees:
-- Section 4 of this Resolution:
-- works in conjunction with the Town Arborist and the Department of Parks and
-- Recreation to recommend policies, programs and projects to the Board designed to
-- set out in Section 4(A) of this Resolution;
-- Committee works in conjunction with the Community Development Department to
-- recommend policies, programs and projects to the Board designed to preserve the
-- with economic development as more fully set out in Section 4(B) of this
-- c. Under the direction of the Town Board, the Berthoud Parks, Open Space,
-- Department of Parks and Recreation to recommend policies, programs and
-- projects to the Board designed to foster diversity and utilization of the parks, open
-- Section 4(C) of this Resolution
-- appointed members serving staggered terms. No meetings of a Committee shall be
-- (5) Membership on each committee shall be approved by motion before the Board of
-- Committee as of the date of this Resolution passing that do not live within the limits
-- members appointed to fill any vacancy created by the change shall have their initial
-- b. If any Town resident appointed as a member ceases to reside in the Town, his or her
-- c. Terms for all members will be for two (2) years except for appointments made in
-- calendar years 2019, 2O2O, and 2021 where the Board may choose to appoint
-- Committee. If appointed to fill an unexpired term, that interim appointment shall not
-- absence of enough applications to fill vacancies on a Commission or Committee, the
-- Board may make an exception and extend a term beyond the limitation identified
-- for that Committee shall be allowed to apply for appointment to another Committee
-- d. In July of each year, Town staff will publicly adveftise all appointments whose terms
-- interviewed in August and September and appointments will be made before
-- e. Any members serving on a Committee as of the date of this Resolution passing that
-- shall not be reappointed to the Committee which he or she has previously exceeded
-- policies, programs and projects for the Board to consider, if any. At the meeting,
-- pursue development of the policies, programs and projects proposed by the
-- Committee or otherwise identified by the Board, if any
-- No member of any Committee shall expend Town funds, or request
-
-## [berthoud#5] 2026-08-18 | Board of Trustees | minutes
+## [berthoud#0] 2026-08-18 | Board of Trustees | minutes
 - IV. Approval of the Agenda
 - Trustee Wing moved to approve lhe meeting agenda for the August l8' 2026 Special Town
 - V- Scheduled ltems and Estimated Times for Discussion
@@ -104,11 +9,11 @@
 - Trustee Anderson moved to approve the Intergovernmental Agreements with Larimer
 - authorize the Mayor to execute the agreements on behalf of the Town. Trustee Wing
 
-## [berthoud#6] 2026-08-22 | General | agenda
+## [berthoud#1] 2026-08-22 | General | agenda
 - 2906 W County Road 14
 - The Board of Trustees and PORT Committee may visit the property to observe use by the Platte
 
-## [berthoud#7] 2026-08-25 | Board of Trustees | minutes
+## [berthoud#2] 2026-08-25 | Board of Trustees | minutes
 - IV. Approval of the Agenda
 - Trustee Wing moved to approve the meeting agenda for the August 25,2026 Town Board
 - More than three trustees were supportive of scheduling a future agenda item to discuss flock
@@ -147,7 +52,7 @@
 - expressed concem that it may not clearly convey flrat taxes would not be increased
 - Bond Counsel Mario Trimble suggested an addition to the language stating "(without increasing
 
-## [berthoud#8] 2026-09-08 | Board of Trustees | minutes
+## [berthoud#3] 2026-09-08 | Board of Trustees | minutes
 - Community Development Director Anne Johnson
 - IV. Approval of the Agenda
 - Mayor Karspeck proposed amending the agenda to remove item " ld. Mountain Vista Park
@@ -184,7 +89,7 @@
 - infomtation on the Front Range Trail, including project background and a potential connection to
 - the Town ofBerthoud through Eagle Vista Open Space, They requested the Town of Berthoud
 
-## [berthoud#9] 2026-09-10 | Planning Commission | agenda
+## [berthoud#4] 2026-09-10 | Planning Commission | agenda
 - 4. Approval of Meeting Minutes
 - 5. Public Hearing(s)
 - Anne Johnson, Community Development Director
@@ -223,16 +128,16 @@
 - a. Planning Manager Tawn Hillenbrand provided an update on the Public Art Master Plan
 - Plan. They are planning a fall walking tour to take place at 11:00 am on Saturday,
 
-## [berthoud#10] 2026-09-10 | Planning Commission | agenda
+## [berthoud#5] 2026-09-10 | Planning Commission | agenda
 - 4. Approval of Meeting Minutes
 - 5. Presentation
 - B. Public Art Master Plan
 
-## [berthoud#11] 2026-09-10 | General | agenda
+## [berthoud#6] 2026-09-10 | General | agenda
 - 3. Berthoud Area Chamber of Commerce - Special Events Liquor License at Town Park
 - 4. Flamingle Limited - New Hotel & Restaurant License at 405 5th Street
 
-## [berthoud#12] 2026-09-14 | Historic Preservation Advisory Commission | agenda
+## [berthoud#7] 2026-09-14 | Historic Preservation Advisory Commission | agenda
 - 2. Approval of Meeting Minutes
 - A. Approval of Meeting Minutes, August 10, 2026
 - 3. Public Comment Period
@@ -241,19 +146,19 @@
 - C. Survey Grant update
 - E. Membership Ordinance and recruitment update
 
-## [berthoud#13] 2026-09-16 | Parks, Open Space, Recreation, and Trails Committee | agenda
+## [berthoud#8] 2026-09-16 | Parks, Open Space, Recreation, and Trails Committee | agenda
 - Parks, Open Space, Recreation, and Trails Committee Regular Meeting
 - 2. Approval of Meeting Minutes
 - 3. Public Comment Period
 - 4. Discussion Items
 - A) Updated Boards and Commissions Ordinance
 
-## [berthoud#14] 2026-09-21 | Tree Advisory Committee | agenda
+## [berthoud#9] 2026-09-21 | Tree Advisory Committee | agenda
 - 2. Approval of Meeting Minutes
 - 3. Public Comment Period
 - 4. Discussion Items
 
-## [berthoud#15] 2026-09-21 | Tree Advisory Committee | agenda
+## [berthoud#10] 2026-09-21 | Tree Advisory Committee | agenda
 - 3. Approval of Minutes from July 2026 Meeting:
 - A quorum was available. Danny moved to approve notes. Hannah 2nd the motion. All voice approved
 - 4. Public Comment or Non agenda items:
@@ -279,7 +184,7 @@
 - 3) Remove a Russian Olive at Roberts Park
 - 4) At Collins Park, crew took care of a cottonwood overhang private property on fence line
 
-## [berthoud#16] 2026-09-22 | Board of Trustees | minutes
+## [berthoud#11] 2026-09-22 | Board of Trustees | minutes
 - Project Engineer Daniel Buendia
 - Community Development Director Anne Johnson
 - IV. Approval of the Agenda
@@ -316,14 +221,14 @@
 - Temporarily Suspending the Acceptance, Processing and Approval of
 - AFplications for Large Data Centers in the Town
 
-## [berthoud#18] 2026-09-29 | Board of Trustees | agenda
+## [berthoud#13] 2026-09-29 | Board of Trustees | agenda
 - IV. Scheduled Items and Estimated Times for Discussion
 - 1. Initial Work Session Discussion: Land Use Considerations for Data Centers (30 Min)
 - 2. Capital Improvements Program Manual (30 Min)
 - 3. Purchasing Policy: Review and Discussion of Proposed Updates (30 Min)
 - 4. Meeting Management: Discussion of Board Meeting Procedures and Practices (30 Min)
 
-## [berthoud#19] 2026-09-29 | Board of Trustees | agenda
+## [berthoud#14] 2026-09-29 | Board of Trustees | agenda
 - IV. Scheduled Items and Estimated Times for Discussion
 - 1. Initial Work Session Discussion: Land Use Considerations for Data Centers (30 Min)
 - 2. Capital Improvements Program Manual (30 Min)
@@ -359,19 +264,19 @@
 - obtained from the website, Colorado Data Center Map: 90 Sites, 1.7 GW on September 1, 2026
 - This graphic illustrates the quantity and county name for the greatest number of Data Centers
 
-## [berthoud#20] 2026-10-07 | Parks, Open Space, Recreation, and Trails Committee | agenda
+## [berthoud#15] 2026-10-07 | Parks, Open Space, Recreation, and Trails Committee | agenda
 - Parks, Open Space, Recreation, and Trails Committee Regular Meeting
 - 2. Approval of Meeting Minutes
 - 3. Public Comment Period
 - 4. Discussion Items
 - B. Town Board Strategic Plan
 
-## [berthoud#21] 2026-10-08 | Planning Commission | agenda
+## [berthoud#16] 2026-10-08 | Planning Commission | agenda
 - 4. Approval of Meeting Minutes
 - Work Session with Brooke Cunningham, Regional Housing Director Northern Colrado Community
 - B. Discussion with Brooke Cunningham, Reginoal Housing Officer
 
-## [berthoud#22] 2026-10-08 | Planning Commission | agenda
+## [berthoud#17] 2026-10-08 | Planning Commission | agenda
 - 4. Approval of Meeting Minutes
 - Work Session with Brooke Cunningham, Regional Housing Director Northern Colrado Community
 - B. Discussion with Brooke Cunningham, Reginoal Housing Officer
@@ -392,7 +297,7 @@
 - f. Appointment of two new Planning Commissioners with training scheduled in the next
 - packet materials for Planning Commissioners to review. After a lengthy discussion,
 
-## [berthoud#24] 2026-10-13 | Board of Trustees | minutes
+## [berthoud#19] 2026-10-13 | Board of Trustees | minutes
 - Community Development Director Anne Johnson
 - Water Resources Administrator Alex Tennant
 - Water & Wastewater Engineer Savana Dumler
@@ -428,7 +333,7 @@
 - 3. Introductlon of Prellmlnary Drafr Budget and Settlng of Publlc Hearing (30 Min)
 - Administrator Kirk introduced the preliminary draft 2O27 budget and noted that the budget will
 
-## [berthoud#25] 2026-10-19 | Tree Advisory Committee | minutes
+## [berthoud#20] 2026-10-19 | Tree Advisory Committee | minutes
 - 2. Approval of Meeting Minutes
 - 3. Public Comment Period No comments
 - 4. A. Discussion Items
@@ -444,13 +349,13 @@
 - New fall pots assembled on main street. Planting/replacing trees (cemetery, Roberts and
 - More cost share tree replacement applications for the fall have been received. A few step
 
-## [berthoud#26] 2026-10-19 | Historic Preservation Advisory Commission | agenda
+## [berthoud#21] 2026-10-19 | Historic Preservation Advisory Commission | agenda
 - 3. Public Comment Period
 - 4. Discussion Items
 - C. Ordinance 1388
 - E. 2027 Goals Discussion
 
-## [berthoud#27] 2026-10-19 | Historic Preservation Advisory Commission | agenda
+## [berthoud#22] 2026-10-19 | Historic Preservation Advisory Commission | agenda
 - 3. Public Comment Period
 - 4. Discussion Items
 - C. Ordinance 1388
@@ -494,12 +399,12 @@
 - and adoption a master plan as defined under Colorado law
 - d. To study and recommend appropriate zoning classlfications
 
-## [berthoud#28] 2026-10-20 | Board of Trustees | agenda
+## [berthoud#23] 2026-10-20 | Board of Trustees | agenda
 - IV. Scheduled Items and Estimated Times for Discussion
 - 1. Introduction of Proposed Amendments to Chapter 30 of the Municipal Code (60 Min)
 - 2. Discussion of Ordinance 1355 and Potential Expansion of Affordable
 
-## [berthoud#29] 2026-10-20 | Board of Trustees | agenda
+## [berthoud#24] 2026-10-20 | Board of Trustees | agenda
 - IV. Scheduled Items and Estimated Times for Discussion
 - 1. Introduction of Proposed Amendments to Chapter 30 of the Municipal Code (60 Min)
 - 2. Discussion of Ordinance 1355 and Potential Expansion of Affordable
@@ -546,14 +451,14 @@
 - and building design, landscaping, signage, dark sky compliance, parking and public infrastructure. This Chapter
 - applies to development and redevelopment and both terms are used interchangeably
 
-## [berthoud#30] 2026-10-22 | Planning Commission | agenda
+## [berthoud#25] 2026-10-22 | Planning Commission | agenda
 - 4. Approval of Meeting Minutes
 - 5. Public Hearing(s)
 - B. Public Hearing to consider a repeal and replacement of Chapter 30 of the Berthoud Municipal Code
 - C. Annual Adoption of the Berthoud Three Mile Plan
 - D. Ordinance 1388
 
-## [berthoud#31] 2026-10-27 | Board of Trustees | agenda
+## [berthoud#26] 2026-10-27 | Board of Trustees | agenda
 - IV. Approval of the Agenda
 - VI. Scheduled Items and Estimated Times for Discussion
 - Consent Agenda items are considered to be routine by the Town Board and will be enacted with a single vote
@@ -563,7 +468,7 @@
 - 2. Continued Public Hearing: Adoption of Resolution 2026-25 Approving a
 - Neighborhood Master Plan for a Property Known as Heron Lakes Marina
 
-## [berthoud#32] 2026-10-27 | Board of Trustees | agenda
+## [berthoud#27] 2026-10-27 | Board of Trustees | agenda
 - IV. Approval of the Agenda
 - VI. Scheduled Items and Estimated Times for Discussion
 - Consent Agenda items are considered to be routine by the Town Board and will be enacted with a single vote
@@ -600,10 +505,10 @@
 - Wildfire Resiliency Code, explaining the wildland-urban interface boundary and the wildfire
 - Trustee Grace requested clarification regarding the modifications to the state code outlined in the
 
-## [berthoud#34] 2026-10-29 | General | agenda
+## [berthoud#29] 2026-10-29 | General | agenda
 - 2. Berthoud VFW Special Events Liquor Permit
 
-## [berthoud#35] 2026-11-04 | Parks, Open Space, Recreation, and Trails Committee | agenda
+## [berthoud#30] 2026-11-04 | Parks, Open Space, Recreation, and Trails Committee | agenda
 - Parks, Open Space, Recreation, and Trails Committee Regular Meeting
 - 2. Committee Appointments
 - 3. Approval of Meeting Minutes
@@ -612,8 +517,81 @@
 - B. Little Thompson River Trail Implementation Plan
 - C. Parks Development Master Plan
 
-## [berthoud#37] 2026-11-09 | Historic Preservation Advisory Commission | agenda
+## [berthoud#32] 2026-11-09 | Historic Preservation Advisory Commission | agenda
 - 2. Approval of Meeting Minutes
 - 3. Public Comment Period
 - 4. Discussion Items
 - C. Reconnaissance Plan grant update
+
+## [berthoud#33] 2026-11-10 | Board of Trustees | agenda
+- IV. Approval of the Agenda
+- VI. Scheduled Items and Estimated Times for Discussion
+- Consent Agenda items are considered to be routine by the Town Board and will be enacted with a single vote
+- There will be no separate discussion of these items. If discussion is deemed necessary, an item may be
+- removed from the Consent Agenda and considered separately
+- d. Approval of Holiday Lighting Program Expansion Contract
+- e. Adoption of Resolution 2026-29 Approving the Capital Improvement Program
+- f. Approval of Berthoud Golden Links Agreement to Provide Programming for
+- 2. Presentation: Berthoud Main Street Annual Report (40 Min)
+- 3. Public Hearing: Approval of Ordinance 1393 Approving Conveyance of Certain
+- 4. Public Hearing: An Ordinance of the Town of Berthoud Repealing and Reenacting
+- a. Adoption of Ordinance 1394, an Emergency Ordinance Amending Section 30-11
+- b. Approval of Ordinance 1395 Repealing and Reenacting Chapter 30 of the Berthoud
+- 5. Presentation: The 2027 Budget (60 Min)
+
+## [berthoud#34] 2026-11-10 | Board of Trustees | agenda
+- IV. Approval of the Agenda
+- VI. Scheduled Items and Estimated Times for Discussion
+- Consent Agenda items are considered to be routine by the Town Board and will be enacted with a single vote
+- There will be no separate discussion of these items. If discussion is deemed necessary, an item may be
+- removed from the Consent Agenda and considered separately
+- d. Approval of Holiday Lighting Program Expansion Contract
+- e. Adoption of Resolution 2026-29 Approving the Capital Improvement Program
+- f. Approval of Berthoud Golden Links Agreement to Provide Programming for
+- 2. Presentation: Berthoud Main Street Annual Report (40 Min)
+- 3. Public Hearing: Approval of Ordinance 1393 Approving Conveyance of Certain
+- 4. Public Hearing: An Ordinance of the Town of Berthoud Repealing and Reenacting
+- a. Adoption of Ordinance 1394, an Emergency Ordinance Amending Section 30-11
+- b. Approval of Ordinance 1395 Repealing and Reenacting Chapter 30 of the Berthoud
+- 5. Presentation: The 2027 Budget (60 Min)
+- can be approved with a single action by the Board
+- e. Adoption of Resolution 2026-29 Approving the Capital Improvement Program Policy
+- f. Approval of Berthoud Golden Links Agreement to Provide Programming for Seniors
+- The mayor will ask if any Board Member wishes to remove an item for discussion separately
+- Items removed from the consent agenda should be considered immediately following adoption of
+- the amended Consent Agenda
+- “Move to combine and approve the items on the Consent Agenda.”
+- Community Development Director Anne Johnson
+- Trustee Wing moved to approve the meeting agenda for the October 27, 2026 Town Board
+- properties, tax benefits available to metro districts but not to homeowners under TABOR, and a
+- request for the Board of Trustees to review the state’s audit of metro districts
+- with a single vote. There will be no separate discussion of these items. If discussion is deemed
+- necessary, an item may be removed from the Consent Agenda and considered separately
+- Trustee Murphy requested item "a. October 13, 2026 Meeting Minutes" be removed from
+- Consent Agenda for individual consideration
+- Trustee Wing moved to combine and approve items on the Consent Agenda minus item
+- Trustee Murphy requested a separate vote on item "a. October 13, 2026 Meeting Minutes",
+- Trustee Anderson moved to approve item "a". Mayor Pro-Tem Soricelli-Albrecht
+- b. Summary of Study Session Regarding Data Centers and Outline of Next
+- 2. Continued Public Hearing: Adoption of Resolution 2026-25 Approving a
+- Neighborhood Master Plan for a Property Known as Heron Lakes
+- Community Development Director Anne Johnson presented the Heron Lakes Marina
+
+## [berthoud#35] 2026-11-12 | Planning Commission | agenda
+- 4. Approval of Meeting Minutes
+- B. Development Review Process
+
+## [berthoud#36] 2026-11-16 | Tree Advisory Committee | minutes
+- 2. Approval of Meeting Minutes
+- 3. Public Comment/Non-Agenda Items
+- Sarah Lincoln, Steward of Newell Farm Park. Youngest tree is ten years old. It is
+- time to plant some trees. Design plans for a passive park. Tree space is clear where
+- plan and identify potential tree varieties. Stewards will take the care of the trees
+- Paul shared that Oktoberfest was busy. The location worked well. Identify that
+- moving it to February. Paul will discuss the process with Town Staff as well
+- 4. Discussion Items
+- B. New officer appointments
+- Discussed edits to bylaws. Discussion will continue in next November meeting
+- Discussed important components for a TAC mission statement using member
+- Discussed potential themes for next year. Any edit suggestions by the end of
+- tree at Waggoner, Berthoud report a concern identified a woodpecker had damaged

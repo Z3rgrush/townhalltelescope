@@ -1,159 +1,155 @@
-- title: 2027 Boulder County budget
-  summary: Commissioners held a town hall on the 2027 budget (Aug. 18), department presentations (Oct. 13-22), a public hearing on the recommended budget on Oct. 22, and a Nov. 5 work session. Adoption is scheduled for Dec. 8. Budgets for five county public improvement districts were also reviewed.
-  where: Countywide
-  refs:
-  - 3
-  - 23
-  - 24
-  - 25
-  - 27
-  - 28
-  - 32
-  - 33
-  - 35
-  - 36
-  topics:
-  - Budget & taxes
-  - Government operations
-  public_comment: true
-- title: Land Use Code rules for data centers and detention centers
-  summary: The Planning Commission agenda for Oct. 21 includes text amendments defining data centers and detention centers as specific land uses. The amendments would set where and at what scale each may be permitted in unincorporated Boulder County.
+- title: Proposed data center and detention center land use rules
+  summary: The Planning Commission was scheduled to take up Land Use Code amendments that would define data centers as a specific use and set where and at what scale they may be permitted in unincorporated Boulder County (Docket DC-26-0003). A companion amendment (DC-26-0004) does the same for detention centers, with a recommendation going to the commissioners.
   where: Unincorporated Boulder County
   refs:
-  - 31
+  - 28
   topics:
   - Data centers
   - Zoning & development
   tags:
   - data-center
-- title: Boulder Valley Comprehensive Plan major update
-  summary: The Planning Commission and the commissioners conditionally approved the ten-year major update (BVCP-25-0001), including Rural Lands text amendments. The commissioners adopted the approving resolution on Oct. 13.
-  where: Boulder Valley
-  refs:
-  - 2
-  - 7
-  - 26
-  topics:
-  - Zoning & development
-  - Land & property
-  public_comment: true
-- title: Amicus brief supporting Cook County assault-weapon ban
-  summary: The county asked commissioners to ratify its participation with other jurisdictions in a U.S. Supreme Court amicus brief in Viramontes v. Cook County. The brief supports Cook County's ban on certain semiautomatic firearms, including AR-15-style rifles.
+- title: 2027 Boulder County budget
+  summary: The commissioners held town halls, department budget presentations (Oct. 13, 15 and 22), a public hearing on the 2027 recommended budget on Oct. 22 and a Nov. 5 work session. Adoption is scheduled for Dec. 8. Allenspark resident Edward Yagi spoke at the hearing.
   where: Countywide
   refs:
-  - 34
+  - 0
+  - 20
+  - 21
+  - 22
+  - 24
+  - 25
+  - 29
+  - 30
+  - 32
+  - 33
+  topics:
+  - Budget & taxes
+  - Government operations
+  public_comment: true
+- title: County joins amicus brief backing Cook County assault weapons ban
+  summary: Commissioners were asked to ratify Boulder County's participation in an amicus brief in Viramontes v. Cook County at the U.S. Supreme Court. The brief supports Cook County, Illinois's ban on certain semiautomatic firearms, including AR-15-style rifles.
+  where: Countywide
+  refs:
+  - 31
   topics:
   - Guns
   - Lawsuits & legal
   tags:
   - guns
-- title: Ballot measure to expand Board of Commissioners from 3 to 5
-  summary: Commissioners fixed ballot titles for a citizen initiative petition to increase the board from three to five members. It will appear on the Nov. 3, 2026 ballot. The board also considered taking positions on other 2026 ballot measures.
+- title: Ballot measure to expand the Board of Commissioners from 3 to 5
+  summary: The commissioners fixed the ballot title for a citizen initiative petition to increase the Board of County Commissioners from 3 to 5 members. The question goes on the Nov. 3, 2026 ballot after the Clerk confirmed the petition was sufficient. The board also considered taking positions on other 2026 ballot measures.
   where: Countywide
   refs:
-  - 9
-  - 26
+  - 6
+  - 23
   topics:
   - Elections
   - Government operations
 - title: Eldorado Springs wastewater plant debt ballot question
-  summary: Sitting as the Eldorado Springs Public Improvement District board, commissioners referred a debt authorization question to the Nov. 3 ballot. The money would pay for wastewater treatment plant improvements required by the state health department.
+  summary: The Eldorado Springs Public Improvement District board referred a question to the Nov. 3, 2026 ballot asking voters to approve a multiple-year obligation to pay for wastewater treatment plant improvements required by the state health department.
   where: Eldorado Springs
   refs:
-  - 9
-  - 24
+  - 6
+  - 21
   topics:
   - Utilities
   - Water
-  - Budget & taxes
-- title: Affordable housing funding and Housing Authority actions
-  summary: The county reviewed its Affordable and Attainable Housing Tax Innovation Fund and awarded $1,084,000 for Willoughby Corner Phases II and III in Lafayette. It assigned private activity bond volume cap to the Housing Authority and renewed a $956,189 rapid re-housing grant. The Housing Authority's 2027 Annual Plan and Moving to Work supplement were approved after a public hearing.
-  where: Countywide; Willoughby Corner, 928 Canterbury Drive, Lafayette
+  - Fees & rates
+- title: Riverside Cabins Lodge permit revocation hearing
+  summary: The commissioners held a hearing on revoking the Riverside Cabins Lodge special review approval (SU-23-0013) for violating conditions of approval. They declined to revoke now and continued the hearing to Jan. 7, 2027. If the owners meet all conditions before then, they can use the permit.
+  where: Riverside Cabins Lodge (Lyons area)
   refs:
-  - 0
-  - 1
-  - 15
-  - 16
-  - 17
-  - 18
-  - 22
+  - 5
   topics:
-  - Housing
-  - Budget & taxes
+  - Zoning & development
+  - Land & property
+  public_comment: true
+- title: Boulder Valley Comprehensive Plan major update
+  summary: The Planning Commission held a public hearing and conditionally approved the BVCP major update, including Rural Lands text amendments. The commissioners then adopted a resolution approving it in October.
+  where: Boulder Valley
+  refs:
+  - 4
+  - 23
+  topics:
+  - Zoning & development
+  - Land & property
   public_comment: true
 - title: Longmont 1st & Main urban renewal tax increment agreement
-  summary: Boulder County considered a tax increment financing agreement with the Longmont Urban Renewal Authority for 1st & Main redevelopment. The project includes a regional transit center, environmental cleanup and public infrastructure.
+  summary: Boulder County agreed to share tax increment financing with the Longmont Urban Renewal Authority for redevelopment of the 1st & Main corridor. The project includes a regional transit center, environmental cleanup and public infrastructure.
   where: 1st & Main, Longmont
   refs:
-  - 6
-  - 22
+  - 3
+  - 19
   topics:
   - Economic development
   - Transit
   - Downtown & business
-- title: Riverside Cabins Lodge special review revocation hearing
-  summary: Staff recommended revoking the Special Review approval (SU-23-0013) for violating conditions. Commissioners declined to revoke and continued the hearing to Jan. 7, 2027, to see if the conditions are met. A Lyons Fire Protection District representative spoke.
-  where: Near Lyons
+- title: Housing Authority plans, Willoughby Corner and housing funding
+  summary: The commissioners approved the Housing Authority's 2027 Annual Plan and Moving to Work supplement after a public hearing. They also awarded $1,084,000 in affordable housing grant funds for Willoughby Corner Phases II and III at 928 Canterbury Drive in Lafayette, and approved a $956,189 Continuum of Care rapid re-housing renewal.
+  where: Countywide; 928 Canterbury Drive, Lafayette
   refs:
-  - 8
+  - 12
+  - 13
+  - 14
+  - 15
+  - 19
   topics:
-  - Zoning & development
-  - Fire & emergencies
-  public_comment: true
+  - Housing
+  - Homelessness
 - title: Energy Impact Offset Fund sunset and marijuana rules
-  summary: Commissioners approved Resolution 2026-070 after a hearing. It sunsets the fee on cultivators based on energy use and amends marijuana regulations, including extending license terms from one year to two.
+  summary: The commissioners held a hearing and approved Resolution 2026-0070. It sunsets the Energy Impact Offset Fund, which charged cultivators quarterly fees based on energy use, and amends marijuana regulations, including extending license terms from one to two years.
   where: Unincorporated Boulder County
   refs:
-  - 36
+  - 33
   topics:
   - Cannabis & liquor
   - Fees & rates
   - Energy
-- title: Apahapa LLC Flagstaff Road boundary line appeal
-  summary: An appeal of a director's decision on a boundary line adjustment between parcels at 6808 and 7022 Flagstaff Road, which also denied recognition of 6808 Flagstaff as a parcel. Commissioners tabled it to Dec. 3 and will take public comment then.
-  where: 6808 and 7022 Flagstaff Road
-  refs:
-  - 28
-  topics:
-  - Land & property
-  - Zoning & development
 - title: Wildfire mitigation grants and fire restrictions
-  summary: The county funded fuels mitigation grants, including $191,350 for Superior grazing and $990,262.88 for the Conifer Hill work, and added $30K for the wildfire awareness campaign. Stage 1 fire restrictions in the mountain area were rescinded effective Oct. 15.
-  where: Superior, Conifer Hill and mountain areas
+  summary: The commissioners approved strategic fuels mitigation funding of $191,350 for Superior's grazing program and a $990,262.88 grant for Conifer Hill work by The Watershed Center. Stage 1 fire restrictions in the mountain area were rescinded effective Oct. 15.
+  where: Superior; Conifer Hill; mountain Boulder County
   refs:
-  - 1
-  - 9
-  - 19
-  - 30
+  - 6
+  - 27
+  - 29
   topics:
   - Fire & emergencies
   - Environment & climate
+- title: Open space water share purchases and Tucker Complex
+  summary: The county proposed buying 20 shares of the Boulder and White Rock Ditch company for $450,000 and one James Ditch share for $120,000 to support irrigation on agricultural open space. Commissioners also discussed an interim management proposal for the Tucker Complex.
+  where: Boulder County open space
+  refs:
+  - 1
+  - 27
+  - 31
+  topics:
+  - Parks & open space
+  - Agriculture & wildlife
+  - Water
 - title: Eldora Resort cell tower
-  summary: Commissioners conditionally approved a 100-foot Verizon macro-cell tower on a 46-acre forestry-zoned parcel at Eldora Resort. A resolution followed on Oct. 13.
+  summary: The commissioners conditionally approved a 100-foot Verizon macro-cell tower on a 46-acre forestry-zoned parcel at Eldora Resort, and later adopted the resolution.
   where: Eldora Resort
   refs:
-  - 24
-  - 26
+  - 21
+  - 23
   topics:
   - Zoning & development
   - Broadband
-- title: Agricultural water share purchases
-  summary: Parks and Open Space proposed buying 20 shares of the Boulder and White Rock Ditch company for $450,000 and one James Ditch share for $120,000. The aim is better irrigation on county agricultural open space.
-  where: Countywide open space
+- title: Flagstaff Road boundary line adjustment appeal
+  summary: The commissioners tabled an appeal over a boundary line adjustment between 6808 and 7022 Flagstaff Road, which also denied recognition of 6808 Flagstaff Road. The hearing is set for Dec. 3, when public comment will be taken.
+  where: 6808 and 7022 Flagstaff Road
   refs:
-  - 30
-  - 34
+  - 25
   topics:
-  - Water
-  - Agriculture & wildlife
-  - Parks & open space
-- title: Tucker Complex interim management and zero waste plan
-  summary: A work session covered an interim management proposal for the Tucker Complex and a Zero Waste Plan update on fees and composting. Related grants fund construction and deconstruction material reuse policy.
-  where: Tucker Complex; Countywide
+  - Land & property
+  - Zoning & development
+- title: Nurturing Futures cash assistance and school mental health funding
+  summary: The commissioners approved a $3.77 million contract with AidKit to run the Nurturing Futures direct cash assistance program through March 2028. They also approved $800,000 contracts each with Boulder Valley and St. Vrain Valley school districts for school mental health services, funded by the 1B tax.
+  where: Countywide
   refs:
-  - 4
+  - 3
   - 19
+  - 23
   topics:
-  - Parks & open space
-  - Environment & climate
-  - Fees & rates
+  - Health & human services
+  - Schools & youth

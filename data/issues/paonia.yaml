@@ -1,5 +1,5 @@
-- title: Short-term rental rules and the draft Common Ground Ordinance
-  summary: An ad hoc committee has met repeatedly since August to go through the proposed Common Ground Ordinance on short-term rentals, line by line. It has leaned toward registration with no fee for owner-occupied rentals, a fee limited to administrative cost for whole-home rentals, self-certified safety, tax compliance, and a saturation threshold (the draft says 8% of housing stock) that would pause new registrations. The Board of Trustees would set final fees and requirements. Survey respondents mostly raised housing, noise, parking and tax concerns.
+- title: Short-term rental rules and the Common Ground Ordinance
+  summary: An ad hoc committee has met repeatedly since August to edit the proposed Common Ground Ordinance on short-term rentals. It has leaned toward registration with no numerical cap at first, three-year registrations, self-certified safety, a local contact, liability insurance and tax compliance, and it is still debating an 8% saturation threshold for whole-home rentals. Public survey responses and written comments have been mixed, citing housing, noise, parking and tax fairness.
   where: Townwide
   refs:
   - 0
@@ -20,7 +20,7 @@
   - Government operations
   public_comment: true
 - title: Stage 2 water restrictions and water supply concerns
-  summary: After unusually high water use dropped the tank level about four feet over a weekend, the Board considered Resolution 19-26 for Stage 2 restrictions. Edits allowed hand or drip watering of gardens, and residents commented on fire risk from dried lawns and on watering schedules. Staff reported the stored supply would last about eight days without production, and the Board asked for regular tank-level updates. Resolution 22-26 rescinding the restrictions was later on the October 27 agenda. The Planning Commission is also discussing water moratorium planning and tap availability, and the Board went into executive session on water rights.
+  summary: On Aug. 18 the Board adopted Stage 2 water restrictions (Resolution 19-26) after high water use dropped tank levels about four feet over a weekend, allowing limited hand or drip watering. Later meetings tracked tank levels and production, and the Board took up Resolution 22-26 rescinding the restrictions on Oct. 27. Planning staff are also preparing for possible water moratorium and tap availability processes, and the Board met with the water attorney in executive session on water rights.
   where: Townwide
   refs:
   - 2
@@ -28,130 +28,114 @@
   - 27
   - 30
   - 32
-  - 33
+  - 40
   topics:
   - Water
   - Utilities
-  - Fees & rates
+  - Fire & emergencies
   public_comment: true
-- title: Raw Water Monitoring Project engineering amendment
-  summary: 'The Board considered Amendment #2 to the RESPEC agreement for pre-construction award and construction engineering services on the Raw Water Monitoring Project. It covers verifying plans and meeting state and federal funding requirements, including installing meters to better track water production. It is funded within the project budget, and a resident asked for clarification.'
-  where: Town water system
-  refs:
-  - 2
-  topics:
-  - Water
-  - Utilities
-  public_comment: true
-- title: Estate zoning density and Table 16-2 changes
-  summary: Staff found an inconsistency in the estate zoning table and recommended allowing 1.5 to two acres per dwelling to support the Comprehensive Plan's housing-density goals. The Board discussed water and access limits and sent the item for a work session and a revised ordinance. A rezoning application from David Warren also had a continued public hearing.
-  where: Estate zoning areas
+- title: Zoning code rewrite, estate zoning density, ADUs and subdivision rules
+  summary: The Town is rewriting its zoning, subdivision and related codes to carry out the 2025 Comprehensive Plan, with smaller lots, ADUs by right, infill, impact fees and streamlined review. Staff also proposed fixing an inconsistency in Estate Zoning Table 16-2 and allowing 1.5 to two acres per dwelling. The Planning Commission is looking at ADU rules and sidewalks in new subdivisions, and a rezoning application from David Warren went to public hearing.
+  where: Townwide
   refs:
   - 3
   - 4
-  - 5
   - 8
-  - 9
-  topics:
-  - Zoning & development
-  - Housing
-  public_comment: true
-- title: Accessory dwelling units, sidewalks and subdivision rules
-  summary: The Planning Commission is discussing adding ADU rules to Chapter 16 because the 2025 Comprehensive Plan lists ADUs as a key way to create housing. Questions include where ADUs are allowed, utilities, parking, owner occupancy, fees and separate sale. It is also discussing sidewalk requirements in new subdivisions by lot size.
-  where: Townwide
-  refs:
   - 32
   - 33
+  - 42
   topics:
-  - Housing
   - Zoning & development
-- title: New police chief appointment
-  summary: The Board appointed Sergeant Henderson as the new Chief of Police. Residents spoke in support of Henderson during public comment.
-  where: Town Hall
-  refs:
-  - 30
-  topics:
-  - Policing & public safety
-  - Government operations
+  - Housing
+  - Land & property
   public_comment: true
-- title: 2027 budget and Town Administrator search
-  summary: The Board held budget work sessions in October and November on the 2027 budget, and asked for weekly sessions separate from other work sessions. A solid waste enterprise was also discussed. The Board considered an executive search firm profile for a Town Administrator, and employee insurance benefits were on an agenda.
+- title: 2027 budget work sessions
+  summary: The 2027 budget was presented Oct. 27 and the Board asked for weekly budget work sessions separate from other meetings. Sessions were held in October and November, including a discussion of a solid waste enterprise. Staff also suggested creating a Community Development position.
   where: Townwide
   refs:
-  - 15
-  - 17
   - 26
   - 30
   - 31
   - 38
   topics:
   - Budget & taxes
-  - Government operations
-- title: Comprehensive Safety Action Plan (Safe Streets for All)
-  summary: Consor Engineering is collecting data and presenting updates on the town's Comprehensive Safety Action Plan. Findings show crash rates fell between 2018 and 2023, and reported concerns include speeds on Samuel Wade Road and damaged roads and sidewalks on 2nd Street, 3rd Street and Grand Avenue. The plan positions the town for future funding.
-  where: Townwide, incl. Samuel Wade Road
-  refs:
-  - 8
-  - 9
-  - 36
-  - 37
-  topics:
-  - Roads & traffic
-  - Government operations
-- title: West Fourth Street overlay and Town Hall projects
-  summary: Public Works proposed an agreement with Delta County for a two-inch asphalt overlay on West Fourth Street, limited by the County's roughly $25,000 project cap. The Board also considered a Town Hall roof replacement bid and removing the solar panels, with an Empower presentation on upgrading them.
-  where: West Fourth Street; Town Hall
-  refs:
-  - 3
-  - 4
-  - 8
-  - 9
-  topics:
-  - Roads & traffic
-  - Government operations
-  - Energy
-- title: Solid waste, recycling and tobacco ordinances
-  summary: The Board considered Ordinance 01-26 on solid waste disposal rules and a proposal from Recyclops for free recycling service under Colorado's Extended Producer Responsibility program. The Board also acted on Ordinance 06-26 on the sale of cigarettes and tobacco.
-  where: Townwide
-  refs:
-  - 8
-  - 29
-  - 30
-  topics:
-  - Utilities
-  - Environment & climate
-  - Health & human services
-- title: Sewer tap fee waiver and sewer line inspection
-  summary: Ordinance 02-26 would waive sewer tap fees on certain properties and was reconsidered as an emergency waiver. Work on the trailer court utilities and a bid for sewer pipe CCTV scoping were also on agendas.
-  where: Trailer court; town sewer system
-  refs:
-  - 3
-  - 8
-  - 9
-  - 12
-  - 13
-  - 29
-  topics:
   - Fees & rates
-  - Utilities
-  - Housing
-- title: Town Board meeting rules, meeting time and rejected citizen initiatives
-  summary: The Board adopted Ordinance 07-26 amending meeting procedures and Resolution 23-26 moving regular meetings to a 5:30 start. It also discussed ordinances arising from rejected citizen initiative petitions.
+- title: New police chief appointment
+  summary: Residents spoke in support of Sergeant Henderson, and the Board appointed him as the new Chief of Police on Oct. 27. The Board also approved radios for the police department, and a patrol truck purchase was on a Sept. 30 agenda.
   where: Town Hall
   refs:
-  - 15
+  - 17
   - 30
+  - 40
+  topics:
+  - Policing & public safety
+  - Government operations
+  public_comment: true
+- title: Town Administrator search and Board vacancy
+  summary: The Town is searching for a permanent Town Administrator, with an executive search firm profile up for approval Sept. 30 while Greg Sund serves as interim. The Board also appointed a trustee after hearing from two candidates and declared another vacancy by Resolution 24-26.
+  where: Town Hall
+  refs:
+  - 3
+  - 17
+  - 39
   topics:
   - Government operations
-  - Elections
-- title: Street lights, dark skies and liquor license distance rules
-  summary: The Board discussed removing street lights, dark skies and trail lights, and eliminating liquor license distance requirements for certain license classes.
+- title: Recyclops free recycling service and Colorado EPR
+  summary: 'The Board heard from Recyclops about the state''s Extended Producer Responsibility program and a proposal for free recycling service. Trustees approved the proposal on Nov. 10 on conditions: a state contract, liability insurance, and an agreement with the local recycler Cory''s. A new solid waste disposal ordinance was also on the Sept. 8 agenda.'
   where: Townwide
   refs:
-  - 15
-  - 24
-  - 25
+  - 8
+  - 29
+  - 30
+  - 40
   topics:
   - Environment & climate
-  - Cannabis & liquor
   - Utilities
+  - Fees & rates
+- title: Water plant, sewer and street infrastructure projects
+  summary: The Board approved a RESPEC amendment for the Raw Water Monitoring Project, a $188,502.58 purchase of electric water plant valves and a sewer pipe CCTV scoping bid. It also considered a county agreement for a West Fourth Street overlay and a storm and sanitary sewer repair project. Sewer tap fee waiver ordinances and a Consor safety action plan covering roads like Samuel Wade Road were also on the agenda.
+  where: Townwide, West Fourth Street
+  refs:
+  - 2
+  - 3
+  - 8
+  - 12
+  - 37
+  - 39
+  - 40
+  topics:
+  - Water
+  - Roads & traffic
+  - Utilities
+  public_comment: true
+- title: Former Twin Lakes property and Berg Foundation
+  summary: The Carl E. Berg Foundation presented to the Board in September and again on Nov. 10 about the former Twin Lakes property. A Colorado Parks & Wildlife conservation easement and a pathway license were also on the Nov. 10 agenda.
+  where: Former Twin Lakes property
+  refs:
+  - 15
+  - 39
+  topics:
+  - Land & property
+  - Parks & open space
+- title: Street lights, dark skies and trail lights
+  summary: The Board discussed removing street lights and later gave direction on dark skies and trail lights. Separate items covered Town Hall solar panels and roof replacement.
+  where: Townwide
+  refs:
+  - 4
+  - 8
+  - 15
+  - 24
+  topics:
+  - Utilities
+  - Energy
+  - Government operations
+- title: Meeting procedures and meeting times
+  summary: The Board considered Ordinance 07-26 amending meeting procedures and Resolution 23-26 changing the regular meeting time, amending the start to 5:30. A commuter spoke about meeting times, and others raised concerns that public comments were not taken seriously at the ad hoc meetings.
+  where: Town Hall
+  refs:
+  - 30
+  - 40
+  topics:
+  - Government operations
+  - Ethics & transparency
+  public_comment: true

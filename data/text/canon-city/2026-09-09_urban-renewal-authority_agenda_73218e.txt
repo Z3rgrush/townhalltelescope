@@ -14,7 +14,7 @@ MMISIONERS DENNEHY, GRANTHAM, LUND,
 4. CITIZENS REQUEST TO SPEAK TO THE URBAN RENEWAL AUTHORITY.
 5. CONSENT AGENDA:
 A. Approve the minutes from the April 8, 2026, meeting.
-B. Receive and File: July 2026 Unaudited Monthly  Budget Summary.
+B. Receive and File: July 2026 Unaudited Monthly Budget Summary.
 C. Receive and File:  Cash Disbursements 04/08/2026 – 08/05/2026.
 D. Receive and File:  Cash Disbur
 sements 08/06/2026 – 09/09/2026.
@@ -221,7 +221,7 @@ Project Year Project Name Project Cost Grant Match % Description Project Cost Gr
 2021 415/ 417 Main Medora  $               3, 600. 00  $               1, 800. 00 50% 1, 800. 00$                      
 2023 331 Royal Gorge Blvd You Scream Building  $             17, 500. 00  $               7, 500. 00 43% 7, 500. 00$                      
 2023 520 Main Debbie Betts  $             15, 360. 00  $               7, 500. 00 49% 7, 500. 00$                      
-2024 430 Main Street 3 Rocks Engineering Secure Entry Door & AlarmSystem  $        15,723.70  $           11, 792. 78 75% 11, 792. 78$                   
+2024 430 Main Street 3 Rocks Engineering Secure Entry Door & Alarm System  $        15,723.70  $           11, 792. 78 75% 11, 792. 78$                   
 2024 1121 Main Street Lionstone Wealth Group  $             16, 980. 00  $               7, 500. 00 44% Large window replacement - Energy Efficiency  $       42, 688. 00  $    25, 000. 00 59% 32, 500. 00$                   
 2025 111 S. 5th Street Kim Martin Roof Replacement  $       83, 922. 19  $    25, 000. 00 30% 25, 000. 00$                   
 2025 129 N. 4th Street Boys & Girls Club Post construction award  $      134, 043. 00  $           50, 000. 00 37% 50, 000. 00$                   
@@ -232,9 +232,9 @@ Project Year Project Name Project Cost Grant Match % Description Project Cost Gr
 2025/ 2026 309- 313 Main Combat Zone  $             30, 855. 34  $             15,000.00 49% Large window replacement - Energy Efficiency  $       37, 051. 38  $    25, 000. 00 67% 40,000. 00$                   
 2025 428 S. 9th street Chris Freeling HVAC Replacement  $       12, 200. 00  $       9, 150. 00 75% 9, 150. 00$                      
 2026 121 N. 5th Street Sally' s Baker - 5th St. Market Electrical Upgrades  $       15, 000. 00  $       9, 750. 00 65% 9, 750. 00$                      
-2026 320 Main St Yarned n Dangerous Energy Efficiency - LargeWindows/ Main Door  $       41, 370. 00  $    25, 000. 00 60% 25, 000. 00$                   
+2026 320 Main St Yarned n Dangerous Energy Efficiency - Large Windows/ Main Door  $       41, 370. 00  $    25, 000. 00 60% 25, 000. 00$                   
 2026 613 Main Street Unbridled Holdings  $             15, 051. 33  $               7, 500. 00 50% 7, 500. 00$                      
-2026 426 - 428 Main Fremont One Ltd/ REIKeyholder  $             11, 000. 00  $               8, 250. 00 75% 8, 250. 00$                      
+2026 426 - 428 Main Fremont One Ltd/ REI Keyholder  $             11, 000. 00  $               8, 250. 00 75% 8, 250. 00$                      
 2026 517- 519 Main Street REI Keyholder  $             11, 000. 00  $               7, 500. 00 68% Sprinkler/ Alarm Sys  $      115, 990. 00  $           50, 000. 00 43% 57, 500. 00$                   
 2026 231 Main Street DiRitos  $             19, 000. 00  $               7, 500. 00 39% 7, 500. 00$                      
 2026 502- 506 Main Street Ary Corporation Phase 2 of Fire Installation  $        52,944.20  $           39, 708. 15 75% 39, 708. 15$                   
@@ -936,7 +936,7 @@ A. EligibleArea: Commercial structures located within the C-CAREUrban Renewal Ar
 with special preference given to structures located in Cañon City’s Central Business District. (Appendix
 B) 
 B. EligibleImprovements: Eligibleimprovements must significantlyupgradethe building’s operating
-systems, including but notlimited to electrical, plumbing, HVAC, and weatherization
+systems, including but not limited to electrical, plumbing, HVAC, and weatherization
 improvements. Examples of improvements may include but are not limited to: 
 Upgrade out-of-date or unsafeelectrical systems. 
 Upgrade or replacement of commercial electric, oil, or natural gas HVACsystem. 

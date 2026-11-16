@@ -1,11 +1,11 @@
 - title: 112 S. Canal brownfield cleanup and demolition
-  summary: CDPHE awarded a Targeted Brownfields Assessment for 112 S. Canal, and the town later applied for grants. By spring 2026 the demolition was out for bid, and Earth Services & Abatement was named contractor, with the grant contract still to be awarded.
+  summary: CDPHE awarded a Targeted Brownfields Assessment with a consultant and abatement contractor for 112 S. Canal. The town sought grants, put demolition out for bids, and picked Earth Services & Abatement as contractor; the grant contract was still pending in the fall.
   where: 112 S. Canal
   refs:
   - 0
   - 1
   - 2
-  - 3
+  - 5
   - 6
   - 7
   - 8
@@ -14,17 +14,17 @@
   - 11
   - 12
   topics:
-  - Land & property
   - Environment & climate
-  - Economic development
-- title: 'Water plant storage study, Well #2 testing and water system mapping'
-  summary: 'Engineers GMS (Tom McClernan) have been working on a water plant storage study, which moved to a PER with flow and chemical tests on Well #2. The town is also considering a $15/month Diamond Maps system from Colorado Rural Water to map valves, meters and hydrants. A report noted 84% water loss in April 2026.'
+  - Land & property
+  - Zoning & development
+- title: 'Water plant storage study, Well #2 testing and water loss'
+  summary: 'Council has followed a GMS water plant storage study, which moved to a preliminary engineering report with flow and chemical tests on Well #2. Staff reported 84% water loss in April, and drought water restrictions were adopted by Resolution 2026-02.'
   where: Manzanola water plant
   refs:
   - 0
   - 1
   - 2
-  - 3
+  - 5
   - 6
   - 7
   - 8
@@ -35,13 +35,13 @@
   topics:
   - Water
   - Utilities
-- title: MMOF/CDOT sidewalk grant of $474,041
-  summary: The town received a $474,041 CDOT MMOF grant for sidewalks. The contract is budgeted for Colorado's 2029 budget year, and a related council resolution was held until the grant amount was known.
-  where: Townwide sidewalks
+- title: MMOF CDOT grant of $474,041
+  summary: The town received a $474,041 CDOT Multimodal grant, but the contract is budgeted for Colorado's 2029 budget year, later extended to 2031, because state transportation funding is underfunded. CDOT suggested looking at other grants such as Safe Routes to School and TAP.
+  where: Townwide
   refs:
   - 0
-  - 1
-  - 3
+  - 2
+  - 5
   - 6
   - 7
   - 8
@@ -51,13 +51,13 @@
   - 12
   topics:
   - Roads & traffic
-  - Recreation & trails
   - Budget & taxes
-- title: Southeastern Water Conservancy District Conduit vault at water plant
-  summary: The council asked Congress for support of the Conduit and heard from SECWCD's Hunter Willits on placing a conduit vault at the water plant, for Valley water. It remained on agendas through October 2026.
-  where: Water plant
+- title: Southeastern Conduit vault at the water plant
+  summary: SECWCD staff discussed placing a Southern Delivery conduit vault at the town water plant. Council also considered asking Congress to support the Conduit.
+  where: Manzanola water plant
   refs:
-  - 2
+  - 1
+  - 8
   - 9
   - 10
   - 11
@@ -65,65 +65,48 @@
   topics:
   - Water
   - Utilities
-- title: Drought water restrictions and project water release
-  summary: The council took up Resolution 2026-02 on drought water restrictions in April 2026. In July it discussed a 100 acre-foot project water release on 6/30/2026.
-  where: Townwide
-  refs:
-  - 6
-  - 9
-  topics:
-  - Water
-  - Environment & climate
 - title: Second Street repair and chip seal
-  summary: Otero County was to repair Second Street for about $1,000 in mid-2026. A chip and seal of the street is planned for 2027 at about $10,000.
+  summary: Otero County was to repair Second Street at about $1,000, with a chip and seal planned for 2027 at roughly $10,000.
   where: Second Street
   refs:
+  - 7
   - 8
   - 9
-  - 10
   topics:
   - Roads & traffic
-- title: Solar tax credit refund
-  summary: The IRS sent a November 3 letter saying a tax credit refund is coming on the town's solar project.
+- title: Budget approval and wastewater loan payoff
+  summary: Council took up the budget and budget resolutions in December. In November it considered paying off the 2008 wastewater loan and moving the remaining funds to the sewer fund.
   where: Townwide
   refs:
   - 0
-  - 1
-  topics:
-  - Energy
-  - Budget & taxes
-- title: Federal procurement and grant compliance policies
-  summary: In March 2026 the council took up a package of procurement policies, including 2 CFR 200 compliance and requirements for federally funded projects.
-  where: Townwide
-  refs:
-  - 4
-  topics:
-  - Government operations
-  - Ethics & transparency
-- title: Budget approval and insurance renewal
-  summary: The council approved the budget and its resolutions in December 2025. It also considered the Gallagher insurance renewal at $36,216.
-  where: Townwide
-  refs:
-  - 0
-  - 1
-  topics:
-  - Budget & taxes
-- title: Weed and tree removal ordinance, senior housing parking lot, and surplus vehicles
-  summary: The council considered Ordinance 2026-05 on emergent weed and tree removal. It also discussed paving the Park Street Senior Housing parking lot and whether to sell or scrap a 2012 Dodge police car and a jetter truck.
-  where: Park Street Senior Housing and Townwide
-  refs:
-  - 6
-  - 10
   - 12
   topics:
-  - Government operations
+  - Budget & taxes
+  - Fees & rates
+- title: Proposition 123 housing needs assessment and senior housing lot
+  summary: Council must approve a housing needs assessment for Proposition 123, extended through 2029, and submit it to SECED. The Park Street Senior Housing parking lot was also to be paved.
+  where: Park Street
+  refs:
+  - 5
+  - 12
+  topics:
   - Housing
-  - Land & property
-- title: Charter franchise agreement
-  summary: A Charter franchise agreement was on the February 2026 agenda.
+- title: Federal procurement policies
+  summary: Council considered a set of procurement and federal funding compliance policies under 2 CFR 200, covering engineering, construction assurance and property acquisition.
   where: Townwide
   refs:
   - 3
   topics:
-  - Broadband
-  - Utilities
+  - Government operations
+- title: Equipment sales, weed ordinance and park tree work
+  summary: The town bought a Kubota in June and considered selling or scrapping a 2012 Dodge police car and jetter truck. It took up Ordinance 2026-05 on weed and tree removal and received a $2,000 SECOG grant to trim a cottonwood in Memorial Park.
+  where: Memorial Park
+  refs:
+  - 6
+  - 7
+  - 9
+  - 11
+  - 12
+  topics:
+  - Government operations
+  - Parks & open space

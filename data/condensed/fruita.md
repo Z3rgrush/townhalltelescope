@@ -1,71 +1,6 @@
 # fruita
 
-## [fruita#0] 2026-08-11 | Planning Commission | agenda
-- The following item(s) will be presented at this public hearing of the Fruita Planning Commission for their
-- consideration. Depending on the application type, the Planning Commission will formulate a recommendation
-- information may call (970) 858-0786. The hearing impaired may call Relay Colorado at 1-800-659-2656 or
-- Land use public hearings are similar to a court proceeding. Proper procedures will ensure a fair hearing for all
-- hearing for everyone, the following rules will be followed:
-- 1. There will generally be a 15-minute presentation (maximum) by the applicant
-- The purpose of a land use hearing is to have the facts of a case presented in a manner that will assist the
-- decision-makers in making a fair, legal, and complete decision. The hearing is a fact-finding forum by unbiased
-- inappropriate behavior, detract from the hearing and will not be permitted
-- C. AMENDENTS TO THE AGENDA
-- D. APPROVAL OF THE AGENDA
-- APPROVAL OF MINUTES:
-- H. PUBLIC HEARING ITEMS
-- 1. Application # 2026-07
-- Application Name 1925 J Road Serial Annexation
-- Application Type Annexation
-- Location 1925 J Road
-- County zoning)
-- Description This is a request to annex approximately 36.14 acres into the
-- 2. Application # 2026-09
-- Application Name 1925 J Road Rezone
-- Application Type Rezone
-- Requested Zone Community Residential (CR)
-- Description This is a request to rezone approximately 36.14 acres from
-- 3. Application # 2026-13
-- Application Name Raptor Crossing Major PUD Amendment
-- Application Type Major PUD Amendment
-- Description This is a request to amend the Raptor Crossing PUD Guide
-- Community Development Updates
-- 1. THE HEARING IS OPENED BY THE CHAIR OF THE PLANNING COMMISSION
-- 3. THE PETITIONER SUMMARIZES THE PROJECT
-- The petitioner or his/her representative is asked to present the proposal. Presentations should be brief
-- and to the point but covering all of the main aspects of the project
-- 4. PUBLIC COMMENTS
-- 6. THE HEARING IS CLOSED TO PUBLIC COMMENTS AND THE ITEM IS DISCUSSED
-- The Chair closes the public hearing to public comments. No further comments from the public are
-- for a discussion on the motion. The motion may be amended and if it is amended, the Commission votes
-- on whether to accept the amendment. After discussion and consideration of any amendments, the
-- made and voted on using the same procedure. In addition to recommending an item be approved,
-- approved with conditions or denied, the Commission may also table an item or continue an item to a
-- The Planning Commission’s decision is forwarded to the Fruita City Council. Once a project is
-- approved by the City Council it must be revised to reflect all the conditions placed on it by the City
-
-## [fruita#1] 2026-08-11 | Planning Commission | agenda
-- FROM:Planning & Development Department
-- AGENDA TEXT:Planning Commission Water Supply and Strategic Growth Community Engagement Discussion
-- The State of Colorado has mandated that by December 31, 2026, municipalities with a Comprehensive Plan must adopt a Water Supply Element and Strategic Growth Element as part of that plan. The purpose of this cover sheet is to get feedback and discuss with the Planning Commission a community engageme
-
-## [fruita#2] 2026-08-12 | Arts and Culture Board | minutes
-- 2. Public Comment
-- a. There was no public comment
-- locations and a new pedestal on South Mesa Street; the pedestal in the Dinosaur
-- Journey parking lot next to the Bark Park; and in front of the FARM (concrete
-- community identity; durability; safety; public accessibility; and accurate
-- representation
-- h. In response to member questions, Ms. Amann clarified that accurate
-- representation should reflect whether the artist provided clear and sufficient
-- i. Ms. Amann read each artist's description from their application while members
-- Voyager is built on, and climbing and safety considerations for pieces accessible
-- to children. Questions the applications did not answer will be followed up with
-- Members also discussed that the community identity and site fit categories are
-- the selected sculptures in person, confirm accurate representation, and
-- notified of the selections. The board will decide whether to announce selections
-
-## [fruita#3] 2026-08-18 | 2026 City Council Meetings | minutes
+## [fruita#0] 2026-08-18 | 2026 City Council Meetings | minutes
 - 3. AGENDA - ADOPT/AMEND
 - COUNCILOR PARRISH MOVED TO APPROVE THE AGENDA AS
 - 4. PROCLAMATIONS AND PRESENTATIONS
@@ -104,12 +39,12 @@
 - brief and to the point and cover all of the main points of the project
 - 3. Public Comment - (limit of 3 minutes per person) Speakers must step up to the microphone and state their name and address. Speakers
 
-## [fruita#4] 2026-08-20 | Livability Commission | agenda
+## [fruita#1] 2026-08-20 | Livability Commission | agenda
 - II. Public Comment
 - III. Review and Approve Minutes
 - a. Discussion of Bike Safety Event
 
-## [fruita#5] 2026-08-25 | 2026 City Council Meetings | minutes
+## [fruita#2] 2026-08-25 | 2026 City Council Meetings | minutes
 - 1. BEE CITY PRESENTATION (6:30 – 7:00 P.M.)
 - species, including improved water conservation, soil and air quality, crop yields and reduced lawn
 - County’s first Bee City. The Parks Department could serve as the committee and is already meeting
@@ -141,7 +76,7 @@
 - Element by December 31, 2026, the state will consider the City of Fruita “Compliance in Progress”
 - The Council discussed the questions in the survey and what implementation will look like after the
 
-## [fruita#6] 2026-08-27 | Fruita Tourism Advisory Council | minutes
+## [fruita#3] 2026-08-27 | Fruita Tourism Advisory Council | minutes
 - 2. Public Comment
 - Ms. Shepardson opened the meeting for public comment. After seeing none, this agenda item
 - 3. Approval of Minutes
@@ -170,7 +105,7 @@
 - c. Staff applied for a tourism marketing grant for next year to fund an earned media
 - e. Staff will begin scheduling presentations from mini-grant recipients at upcoming
 
-## [fruita#7] 2026-09-01 | 2026 City Council Meetings | minutes
+## [fruita#4] 2026-09-01 | 2026 City Council Meetings | minutes
 - Special Projects Coordinator Steve Martinez
 - Planning and Development Director Henry Hemphill
 - 3. AGENDA - ADOPT/AMEND
@@ -206,7 +141,7 @@
 - 2. Applicant Presentation - The petitioner is asked to present the proposal. Presentations should be
 - brief and to the point and cover all of the main points of the project
 
-## [fruita#8] 2026-09-15 | 2026 City Council Meetings | minutes
+## [fruita#5] 2026-09-15 | 2026 City Council Meetings | minutes
 - Planning and Development Director Henry Hemphill
 - 3. AGENDA - ADOPT/AMEND
 - accepted by Denise Rodriguez, Project Coordinator in the Mesa County Behavioral Health Division
@@ -242,13 +177,13 @@
 - consideration to matters which are placed into evidence and are part of the public record. Quasi
 - judicial hearings are held in the following manner:
 
-## [fruita#9] 2026-09-22 | 2026 City Council Meetings | minutes
+## [fruita#6] 2026-09-22 | 2026 City Council Meetings | minutes
 - A. EXECUTIVE SESSION – DISCUSSION AND POSSIBLE ACTION TO CONSIDER A
 - After the final interview, Council and Mayor proceeded to discuss which candidate would be the best
 - appointee to the position of Municipal Court Judge. Each Council member provided input on who they
 - The recommendation at the end of the discussion was for the City Manager to negotiate a contract for
 
-## [fruita#10] 2026-09-29 | 2026 City Council Meetings | minutes
+## [fruita#7] 2026-09-29 | 2026 City Council Meetings | minutes
 - Yamashita, Public Works Director, Special Projects Coordinator Steve Martinez and Special Counsel
 - 1. PRESENTATION – ACCESS CONTROL PLAN (ACP) AMENDMENT FOR THE
 - FUTURE CDOT WIDENING PROJECT BY MATT CASEY, DESIGN ENGINEER
@@ -289,17 +224,17 @@
 - to get its employees to market rate and while most have been updated to market rate, a few positions
 - remain that will require increases such those for Wastewater Reclamation Facility (WWRF) Operators
 
-## [fruita#11] 2026-09-30 | Arts and Culture Board | agenda
+## [fruita#8] 2026-09-30 | Arts and Culture Board | agenda
 - 2) Public Comment
 - 3) Approval of Minutes
 - 5) Grant Application Review - Fruita Historic Preservation Board
 
-## [fruita#12] 2026-10-01 | Fruita Tourism Advisory Council | agenda
+## [fruita#9] 2026-10-01 | Fruita Tourism Advisory Council | agenda
 - 2) Public Comment
 - 3) Approval of Minutes
 - 4) Presentation from Girls On
 
-## [fruita#13] 2026-10-05 | Parks and Recreation Commission | minutes
+## [fruita#10] 2026-10-05 | Parks and Recreation Commission | minutes
 - Fruita Parks and Recreation Commission Meeting
 - Steven Sparks
 - Steve Moralez (Parks Liaison)
@@ -325,7 +260,7 @@
 - Action Items/Topics for Future PARC Meetings To Consider:
 - LAUNCH Project: Possible future concerns with homeless camps in area
 
-## [fruita#14] 2026-10-13 | Planning Commission | agenda
+## [fruita#11] 2026-10-13 | Planning Commission | agenda
 - The following item (s) will be presented at this public hearing of the Fruita Planning Commission for their
 - consideration. Depending on the application type, the Planning Commission will formulate a recommendation
 - information may call (970) 858- 0786. The hearing impaired may call Relay Colorado at 1- 800-659-2656 or
@@ -366,12 +301,12 @@
 - Council before documents are recorded and/or building permits are issued. If the project fails to meet
 - the Fruita Land Use Code time limits for final documents, the project approval of the project lapses and
 
-## [fruita#15] 2026-10-15 | Livability Commission | agenda
+## [fruita#12] 2026-10-15 | Livability Commission | agenda
 - II. Public Comment
 - III. Review and Approve Minutes
 - a. Discussion on Trail Cleanup
 
-## [fruita#16] 2026-10-20 | 2026 City Council Meetings | minutes
+## [fruita#13] 2026-10-20 | 2026 City Council Meetings | minutes
 - Planning and Development Director Henry Hemphill
 - 3. Agenda - adopt/amend
 - Councilor Purser moved to approve the agenda as presented. Councilor Parrish seconded
@@ -405,14 +340,14 @@
 - south to the "future Skiff Avenue alignment," piping untreated storm runoff directly into the buried
 - Palmer Drain. To pay for this, the City took funds from 2027 citywide street overlays and chip
 
-## [fruita#17] 2026-10-22 | Fruita Tourism Advisory Council | agenda
+## [fruita#14] 2026-10-22 | Fruita Tourism Advisory Council | agenda
 - 2) Public Comment
 - 3) Approval of Minutes
 - 4) Presentations from:
 - 5) Mini-Grant Application
 - 6) 2027 Budget Overview
 
-## [fruita#19] 2026-11-02 | Parks and Recreation Commission | agenda
+## [fruita#16] 2026-11-02 | Parks and Recreation Commission | agenda
 - PARKS AND RECREATION REGULAR MEETING November 2, 2026 P a g e | 1
 - PARKS AND RECREATION
 - 2. AGENDA - ADOPT/AMEND
@@ -423,7 +358,52 @@
 - Recreation Advisory Board will not discuss the issue and will not take an official action under this
 - 5. PARKS AND RECREATION REPORT / UPDATE
 
-## [fruita#21] 2026-11-04 | Arts and Culture Board | agenda
+## [fruita#18] 2026-11-04 | Arts and Culture Board | agenda
 - FARM Fruita – 160 S. Park Square
 - 2) Public Comment
 - 3) Approval of Minutes
+
+## [fruita#19] 2026-11-10 | Planning Commission | agenda
+- The following item(s) will be presented at this public hearing of the Fruita Planning Commission for their
+- consideration. Depending on the application type, the Planning Commission will formulate a recommendation
+- information may call (970) 858-0786. The hearing impaired may call Relay Colorado at 1-800-659-2656 or
+- Land use public hearings are similar to a court proceeding. Proper procedures will ensure a fair hearing for all
+- hearing for everyone, the following rules will be followed:
+- 1. There will generally be a 15-minute presentation (maximum) by the applicant
+- The purpose of a land use hearing is to have the facts of a case presented in a manner that will assist the decision
+- makers in making a fair, legal, and complete decision. The hearing is a fact-finding forum by unbiased decision
+- behavior, detract from the hearing and will not be permitted
+- C. AMENDENTS TO THE AGENDA
+- D. APPROVAL OF THE AGENDA
+- APPROVAL OF MINUTES:
+- H. PUBLIC HEARING ITEMS
+- 1. Application # 2026-22
+- Application Name Wake Harbor Houseboat Campground
+- Application Type Conditional Use Permit
+- Location 1081 16 Road
+- Description This is a request for approval of a Conditional Use Permit
+- for a Campground & Recreational Vehicle Park Use in an
+- 2. Application # 2026-20
+- Application Name Myers Annexation
+- Application Type Annexation
+- Location 1903 J Road
+- (AFT – County zoning)
+- Description This is a request to annex approximately 8.89 acres into the
+- 3. Application # 2026-21
+- Application Name Myers Rezone
+- Application Type Rezone
+- Requested Zone Community Residential (CR)
+- Description This is a request to rezone approximately 8.89 acres from
+- Community Development Updates
+- 1. THE HEARING IS OPENED BY THE CHAIR OF THE PLANNING COMMISSION
+- 3. THE PETITIONER SUMMARIZES THE PROJECT
+- The petitioner or his/her representative is asked to present the proposal. Presentations should be brief
+- and to the point but covering all of the main aspects of the project
+- 4. PUBLIC COMMENTS
+- 6. THE HEARING IS CLOSED TO PUBLIC COMMENTS AND THE ITEM IS DISCUSSED
+- The Chair closes the public hearing to public comments. No further comments from the public are
+- for a discussion on the motion. The motion may be amended and if it is amended, the Commission votes
+- on whether to accept the amendment. After discussion and consideration of any amendments, the
+- made and voted on using the same procedure. In addition to recommending an item be approved,
+- approved with conditions or denied, the Commission may also table an item or continue an item to a
+- The Planning Commission’s decision is forwarded to the Fruita City Council. Once a project is

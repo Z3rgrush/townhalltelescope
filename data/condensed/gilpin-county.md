@@ -1,23 +1,6 @@
 # gilpin-county
 
-## [gilpin-county#0] 2026-08-11 | City Council | agenda
-- Public hearings will begin at the noticed time or later. All other agenda times are estimates and may be heard earlier or later
-- d. Road & Bridge April, May, June 2026 Report, John Combs, Director Road and Bridge
-- e. Approval of minutes from BoCC 7/28/26 meeting
-- 6. Cost Allocation Plan FY2025 Lorna Plamondon, Finance Director, Finance Department Meredith
-- 7. Public Hearing - Special Event Permit/Liquor license for Peak-to-Peak People's Fest (Gilpin County
-- Parks and Recreation 250 Norton Drive, Black Hawk, CO 80422 Sahari McCormick, Clerk & Recorder
-- 8. Resolution 26-080 Approval of the Sub-Contractor Service Agreement Renewal Between Gilpin
-- 9. Resolution 26-079 authorizing continued public health funding from CDPHE for Retail Food and
-- 10. Resolution 26-078 Semi Annual Financial Statement Mary, Lorenz, Treasurer
-- 11. Resolution 26-081 Authorizing the Submission of a Grant Application to the Colorado Division of
-- Manager of Strategic Projects
-- 12. Roadway Design and Construction Manual and County Road Inventory- Andrew Decker,
-- a. Resolution BOH 26-2 Ratification and Authorization of Signature for Resolution BOH 25
-- 1, originally approved on December 15, 2025 but unexecuted due to a clerical omission
-- 14. Resolution 26-077 – Referring a Ballot Issue to the Registered Electors of Gilpin County at the
-
-## [gilpin-county#1] 2026-08-18 | City Council | agenda
+## [gilpin-county#0] 2026-08-18 | City Council | agenda
 - 203 Eureka Street, Central City
 - 2. Fee Structure/Equipment Purchase Plan - Parks and Recreation
 - 3. Code Enforcement Process - Policy (Draft) - Community Development
@@ -26,7 +9,7 @@
 - 8. Bike Trail - COMBA Outside I-70 Project
 - 11. Community Wildfire Defense Grant Coordination
 
-## [gilpin-county#2] 2026-08-25 | City Council | agenda
+## [gilpin-county#1] 2026-08-25 | City Council | agenda
 - Public hearings will begin at the noticed time or later. All other agenda times are estimates and may be heard earlier or later
 - ďͿ Resolution 26-089 Adopting the 2026 Compensation Plan, Chanda Johnson, HR
 - ϰ͘ Resolution 26-085 - Authorizing the Development of a Rollinsville Area Fire-Protection
@@ -46,7 +29,7 @@
 - 11. BLE 26-4 - Resolution Approving a Boundary Line Elimination Combining Two Parcels Located in
 - INTO ONE PARCEL - Jack Zeman, Planner, Community Development
 
-## [gilpin-county#3] 2026-09-08 | City Council | agenda
+## [gilpin-county#2] 2026-09-08 | City Council | agenda
 - Public hearings will begin at the noticed time or later. All other agenda times are estimates and may be heard earlier or later
 - a. Resolution 26-082 Amending the List of Official Appointments, Melanie Bleyler,
 - c. Approval of Minutes for August 11, 2026 Board of County Commissioner’s Meeting
@@ -61,7 +44,7 @@
 - 10. Resolution 26-090 Amending the P-9, Public Records Request Policy, Melanie Bleyler,
 - b. Discussion of upcoming ballot propositions
 
-## [gilpin-county#4] 2026-09-15 | City Council | agenda
+## [gilpin-county#3] 2026-09-15 | City Council | agenda
 - 203 Eureka Street, Central City
 - 1. Court Appointed Special Advocates (CASA) -Melissa Hellmuth
 - 2. A Resolution Authorizing a $51,000 Match Commitment Over Three Years to Support the
@@ -70,7 +53,7 @@
 - Creek Watershed & Forest Health Partnership
 - 4. Russell Gulch Presentation and Tour – Jamie Boyle, Community Development Director, Jack
 
-## [gilpin-county#5] 2026-09-22 | City Council | agenda
+## [gilpin-county#4] 2026-09-22 | City Council | agenda
 - Public hearings will begin at the noticed time or later. All other agenda times are estimates and may be heard earlier or later
 - a. Approval of the Letter of Support for Boulder Valley and Longmont Conservation
 - District FRWRM Application
@@ -87,7 +70,7 @@
 - Community Development and Todd Messenger, County Attorney
 - 7. 2027 Proposed Draft Budget Presentation – Ray Rears, County Manager, and Lorna
 
-## [gilpin-county#6] 2026-10-13 | City Council | agenda
+## [gilpin-county#5] 2026-10-13 | City Council | agenda
 - Public hearings will begin at the noticed time or later. All other agenda times are estimates and may be heard earlier or later
 - a. Letter of Support- Dove Creek Ranch Fuels Reduction Project
 - c. Approval of Minutes for September22, 2026, Board of County Commissioner’s
@@ -100,13 +83,13 @@
 - 9. Resolution 26-096 Veterans Service Officer (VSO) Intergovernmental Agreement (IGA)
 - related to continued litigation in the Mathews matter and to discuss the purchase,
 
-## [gilpin-county#7] 2026-10-20 | City Council | agenda
+## [gilpin-county#6] 2026-10-20 | City Council | agenda
 - 203 Eureka Street, Central City
 -  Hazards Mitigation Plan
 -  Community Wildfire Protection Plan
 -  Annual Operating Plan
 
-## [gilpin-county#8] 2026-10-20 | City Council | agenda
+## [gilpin-county#7] 2026-10-20 | City Council | agenda
 - 203 Eureka Street, Central City
 -  Building trainings (fire, active shooter, power or water outage
 -  Hazards Mitigation Plan
@@ -114,7 +97,7 @@
 -  Annual Operating Plan
 - 3. CORA - Update on process/ fee – Kimberly Kaufman, Paralegal
 
-## [gilpin-county#9] 2026-10-26 | City Council | agenda
+## [gilpin-county#8] 2026-10-26 | City Council | agenda
 - ublic hearings will begin at the noticed time or later. All other agenda times are estimates and may be heard earlier or later
 - c. Approval of Minutes for October 13, 2026, Board of County Commissioner’s Meeting
 - d. DOLA EAIF Grant NO. 9953 Extension Letter- Jamie Boyle, Director of Community
@@ -125,3 +108,20 @@
 - unds if Awarded- Jeri Brewer, Manager of Strategic Projects, County Manager's Office
 - ESOLUTION 26-102 - Authorizing Local Planning Capacity Grant 24-011 Amendment Request
 - and Execution Jamie Boyle, Director of Community Development
+
+## [gilpin-county#9] 2026-11-10 | City Council | agenda
+- Public hearings will begin at the noticed time or later. All other agenda times are estimates and may be heard earlier or later
+- a. Departmental Quarterly Reports: Assessor, Clerk & Recorder, Community Development,
+- CSU Extension, Facilities, Finance, Human Resources, Human Services, Parks &
+- c. Letter of Support – Always Choose Adventure/Camp ACA OHV Grant Application
+- d. Approval of Minutes for October 27, 2026 Board of County Commissioner’s Meeting
+- 9:30 a.m. Public Hearing
+- 7. Resolution 26-103, Approve Supplemental Appropriations to the 2026 Budget - Lorna
+- 9. Resolution 26-105, A Resolution Approving the Gilpin County Sheriff’s Office’s Participation in
+- the 2026 Patrick Leahy Bulletproof Vest Partnership Grant Program – Sheriff Kevin Armstrong
+- 10. Resolution 26-104, Authorizing the Approval and Acceptance of the Contract
+- 11. BLE 26-6, Resolution Approving a Boundary Line Elimination Combining Lots 24 And 25 Into
+- Jack Zeman, Planner, Community Development
+- 12. Resolution 26-108 Travel and Per Diem Policy - P-5 (Revision) – Ray Rears, County Manager
+- 13. Resolution 26-107 Amending the List of Official Appointments - Ray Rears, County Manager
+- 14. Resolution 26-106 Appointing Voting Members of the Opioid Council for Region 10, Also

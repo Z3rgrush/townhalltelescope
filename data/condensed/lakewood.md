@@ -360,3 +360,126 @@
 - and the improvements eligible for the incentive are listed in Exhibit A before the agreement is signed,
 - agreement at a larger scale, 50 new jobs instead of 25, and adds a requirement that the headquarters
 - stay in Lakewood. Below is a summary of the agreement
+
+## [lakewood#14] 2026-11-16 | City Council | agenda
+- STUDY SESSION MEETING--AFFORDABLE HOUSING FUND OF THE CITY
+- advance as possible so we can accommodate your request
+- How to Connect to Provide Public Comment: Online participants may post written
+- comments of any length to LakewoodSpeaks.org, an online forum for public comments
+- ITEM 3 – AFFORDABLE HOUSING FUND
+
+## [lakewood#15] 2026-11-16 | City Council | agenda
+- STUDY SESSION MEETING--AFFORDABLE HOUSING FUND OF THE CITY
+- advance as possible so we can accommodate your request
+- How to Connect to Provide Public Comment: Online participants may post written
+- comments of any length to LakewoodSpeaks.org, an online forum for public comments
+- ITEM 3 – AFFORDABLE HOUSING FUND
+- From: Chris Conner, Housing and Livable Communities Manager
+- Subject: Affordable Housing Fund
+- SUMMARY STATEMENT: This study session reviews Housing Policy Commission's engagement in
+- 2026 to consider a local Affordable Housing Fund in City of Lakewood
+- BACKGROUND INFORMATION: The Housing Policy Commission has hosted discussions on
+- program and policy areas of an Affordable Housing Fund in 2026. This study session reviews those
+- discussions as well as activities involved in considering an ordinance to establish an Affordable
+- Housing Fund
+- BUDGETARY IMPACTS: None
+- be considered by the Lakewood City Council
+- ATTACHMENTS: 1. AHF Presentation for 11-16-26 Study Session
+- Affordable Housing Fund
+- Chris Conner, Manager of Housing and Thriving Communities
+- Housing Policy Commission (HPC)
+- Supportive Housing
+- Ordinance Discussion
+- Affordable Housing
+- Considerations for Policymaking
+- Lakewood Housing Unit Need 2023-2032
+- Lakewood Housing Unit Need 2023-2032 by Income Level and Type
+- HMIS State of Homelessness Projected HMIS Point in Time
+- Project Enrollments in HMIS: Jeffco,
+- HMIS Project Enrollments, Jefferson County, 2023-2025
+- Permanent Housing Homeless Prevention Temporary Housing
+- Accountability in the Use of Automated License Plate Reader and Automated
+- Vehicle Identification Systems
+- SUMMARY STATEMENT: The City Council is asked to review and provide feedback on the
+- proposed language staff drafted in response to concerns identified at the September 21, 2026, Study
+- Session. The City Council should also use this opportunity to identify any additional language or
+- areas of concern to be considered when staff procures a new vendor to provide advanced license
+- plate reader technology used to assist law enforcement investigations (ALPR) and automated vehicle
+- identification technology used for red-light and speed enforcement (AVIS)
+- identifying options for new vendors for both ALPR and AVIS
+- The City Manager will seek to incorporate any guidance provided by the City Council into future
+- vendor agreements to the extent reasonably feasible, taking into consideration available technology,
+- protections, and commercially reasonable contractual terms
+- Based on City Council feedback, staff developed criteria to guide future agreements with ALPR and
+
+## [lakewood#16] 2026-11-16 | City Council Study Session | agenda
+- How to Connect to Provide Public Comment:
+- Press *9 to Request to Speak, you will be prompted when to speak
+- as far in advance as possible so we can accommodate your request
+- ITEM 4 – UPDATED WEST COLFAX LRA INVESTMENT STRATEGY
+
+## [lakewood#17] 2026-11-16 | City Council Study Session | agenda
+- How to Connect to Provide Public Comment:
+- Press *9 to Request to Speak, you will be prompted when to speak
+- as far in advance as possible so we can accommodate your request
+- ITEM 4 – UPDATED WEST COLFAX LRA INVESTMENT STRATEGY
+- Investment Strategy
+- 2. Project Identification and Scoring
+- 4. Development Scenarios and Economic Impact
+- West Colfax LRA tax increment financing (TIF) expires in 2030
+- Create a strategy to apply funding within the Corridor to further LRA and City goals
+- Encourage new development
+- Objective to impact catalytic change with a focus on economic development
+- Projects that create influential change
+- for redevelopment
+- Planned/proposed development
+- Recent development (built since 2015)
+- Infrastructure projects
+-  West Colfax Transportation Safety Project
+-  North Dry Gulch Project
+- Redevelopment Parcels: property with vacant buildings and safety concerns
+- Vacant Parcels: property with no building improvement
+- Central Section – Pierce Street to Dover Street
+- Safety Projects focus on narrowing Colfax from 3 lanes to 2 lanes in each direction,
+- expected to attract private development
+- Eastern Section – Pierce Street to Sheridan Boulevard
+- Attracted recent development but also has longstanding development issues
+- Western Section – Dover Street to Simms Street
+- POTENTIAL PROJECTS
+- 10 projects/sites identified from:
+- Colfax BID interested projects
+- Projects influence or support
+- redevelopment efforts that are aligned
+- economic development
+- Project Address Section Acres
+- Warehouse 7195 W 16th Ave Center 0.4
+- PROJECT CRITERIA
+- projects and determine priority level
+- Project readiness
+- Project Criteria Attributes Weight Max. Score
+- Cost Score Estimated project cost 2 4
+- Project value/ability to fund multiple projects 2 4
+- Increases housing opportunities 1 2
+- Financial Feasibility Is the project financially feasible? 1 2
+- Project scale 1 2
+- Project Readiness Can the project occur before 2030? 1 2
+- PROJECT SCORES
+- 3. Quail Street Center
+- Project Address
+- Warehouse 7195 W 16th Ave 8 1 6 5 2 3 25 52.1%
+- Economic development opp
+- Based on project score, site size, and property readiness
+- 2. Quail Street Center
+- PROJECT DESCRIPTION AND GOALS
+- Acquire property and facilitate development through
+- Attract economic development users
+- Encourage TOD/mixed use development
+- Large scale development that can support other
+- new/planned development
+- Development Scenarios
+- Mix of multifamily
+- QUAIL STREET CENTER
+- facilitate redevelopment through demolition, site prep,
+- Large-scale development to support grocer relocation
+- QUAIL STREET CENTER PROPERTY
+- Balance of TOD and economic development uses

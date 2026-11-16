@@ -1,147 +1,152 @@
-- title: Data center moratorium discussion
-  summary: City Council took up a possible data center moratorium at its Aug. 25 update session and continued the discussion at the Sept. 1 planning session, with staff presentations on data centers. The documents do not state an outcome.
+- title: Data center moratorium discussions
+  summary: City Council discussed a possible data center moratorium at the Aug. 25 council update and again at the Sept. 1 planning session, with a data center presentation each time. The documents do not state a decision.
   where: Citywide
   refs:
-  - 7
-  - 9
+  - 3
+  - 5
   topics:
   - Data centers
   - Zoning & development
   tags:
   - data-center
-- title: Creekside Gardens Annexation and zoning
-  summary: Council held a public hearing on Aug. 25 on annexing about 26 acres at the southwest corner of East 140th Avenue and Washington Street into Ward 4, with zoning, an overall development plan and a conceptual site plan. Second readings of the annexation and zoning ordinances were on the Sept. 8 agenda.
-  where: Southwest corner of East 140th Avenue and Washington Street
-  refs:
-  - 8
-  - 12
-  topics:
-  - Annexation
-  - Zoning & development
-  - Housing
-- title: Bellflower Annexation, zoning and site plan
-  summary: The Planning Commission was scheduled on Oct. 20 to hold hearings on annexing about 39 acres near East 120th/140th Avenue and Holly Street. The hearings cover annexation, a zoning amendment with a development plan, and a conceptual site plan for a residential development on about 38 acres.
-  where: East of Holly Street, near East 120th and East 140th Avenues
-  refs:
-  - 28
-  topics:
-  - Annexation
-  - Zoning & development
-  - Housing
-- title: Welby Station zoning amendment
-  summary: The Planning Commission considered a zoning amendment for about 55 acres at the northeast and northwest corners of East 88th Avenue and Welby Road (Case PLZ202600342) on Sept. 15. Council held a public hearing on the zoning ordinance on Oct. 13.
-  where: East 88th Avenue and Welby Road
-  refs:
-  - 15
-  - 26
-  topics:
-  - Zoning & development
 - title: 2027 city budget, pay plans and tax levy
-  summary: Council reviewed the preliminary 2027 budget in September planning sessions. On Oct. 27 it held a public hearing on adopting the 2027 budget, pay plans, appropriations and the property tax levy (first reading). Related boards also took up 2027 budgets, including the 136th Avenue GID, TDA and TASHCO.
+  summary: Council reviewed the preliminary 2027 budget recommendation in September. On Oct. 27 it held a public hearing on adopting the 2027 budget, the appropriations ordinance, the Career Service and Excluded pay plans, and the first reading of the property tax levy. Companion budgets for TASHCO, the Thornton Development Authority, the 136th Avenue GID and E911 were also on the Oct. 27 agendas.
   where: Citywide
   refs:
-  - 9
-  - 16
-  - 21
+  - 5
+  - 12
+  - 17
+  - 30
+  - 31
+  - 32
   - 33
   - 34
-  - 35
-  - 36
-  - 37
   topics:
   - Budget & taxes
   - Government operations
-- title: 2027 water, sewer and stormwater rates and Water Enterprise bonds
-  summary: Council reviewed proposed 2027 utility rate and fee adjustments for water, sewer and stormwater, effective Jan. 1, 2027. An ordinance authorizing Series 2026 Water Enterprise Revenue Bonds was also on the Aug. 11 agenda.
+- title: 2027 water, sewer and stormwater rate increases
+  summary: Council reviewed proposed 2027 utility rate and fee adjustments for the Water, Sewer and Stormwater funds, effective Jan. 1, 2027. The Old Hire Fire Pension Board also asked that a cost-of-living adjustment be included in the 2027 budget.
   where: Citywide
   refs:
-  - 1
-  - 4
+  - 0
   topics:
   - Fees & rates
   - Water
   - Utilities
-- title: Interim City Attorney hiring and personnel matters
-  summary: Council held several executive sessions on the Interim City Attorney position, including interviewing internal candidates and a potential employment agreement. In October it also discussed a vendor for the City Attorney recruitment and the performance of the Municipal Judge, Interim City Attorney and City Manager.
+- title: Creekside Gardens Annexation at East 140th Avenue and Washington Street
+  summary: Council held a public hearing on Aug. 25 on annexing about 26 acres at the southwest corner of East 140th Avenue and Washington Street, with zoning and a conceptual site plan. The annexation and zoning ordinances were on the Sept. 8 agenda for second reading, and the land would be assigned to Ward 4.
+  where: Southwest corner of East 140th Avenue and Washington Street
   refs:
-  - 0
-  - 3
-  - 6
-  - 27
-  - 29
+  - 4
+  - 8
   topics:
-  - Government operations
-- title: City Code changes to align with Colorado Supreme Court ruling
-  summary: Council discussed and took up on first reading an ordinance amending Thornton City Code Sections 1-8, 38-175, 38-176 and 38-177 to align with state law following a Colorado Supreme Court ruling.
-  where: Citywide
+  - Annexation
+  - Zoning & development
+- title: Bellflower Annexation near East 140th Avenue and Holly Street
+  summary: The Planning Commission considered annexation, zoning and a conceptual site plan for a residential development on about 39 acres near East 140th Avenue and Holly Street on Oct. 20. Council scheduled a public hearing on the annexation, zoning and site plan for Nov. 10, with the land assigned to Ward 3.
+  where: North of East 140th Avenue and east of Holly Street
   refs:
-  - 0
-  - 1
+  - 25
+  - 37
   topics:
-  - Lawsuits & legal
-  - Government operations
-- title: Parks and Recreation Master Plan and Arts and Culture Master Plan
-  summary: Council reviewed the 2026 Parks, Recreation & Community Programs Master Plan and the Arts and Culture Master Plan 2026-2030 on Sept. 8. A resolution adopting the Parks and Recreation Master Plan was on the Sept. 22 agenda.
-  where: Citywide
+  - Annexation
+  - Housing
+  - Zoning & development
+- title: Welby Station rezoning at East 88th Avenue and Welby Road
+  summary: The Planning Commission held a hearing on Sept. 15 on rezoning about 55 acres at the northeast and northwest corners of East 88th Avenue and Welby Road. Council took up the zoning ordinance in a public hearing on Oct. 13.
+  where: East 88th Avenue and Welby Road
   refs:
   - 11
-  - 20
-  - 30
+  - 22
+  topics:
+  - Zoning & development
+- title: Parks and Recreation Master Plan and Arts and Culture Master Plan
+  summary: Council reviewed the 2026 Parks, Recreation & Community Programs Master Plan and the Arts and Culture Master Plan 2026-2030 on Sept. 8. A resolution adopting the Parks and Recreation Master Plan was on the Sept. 22 council agenda.
+  where: Citywide
+  refs:
+  - 7
+  - 16
+  - 27
   topics:
   - Parks & open space
   - Recreation & trails
   - Libraries & culture
-- title: Parterre subdivision legal strategy
-  summary: Council met in executive session on Sept. 8 to receive legal advice and give instructions to negotiators about strategies for developing the Parterre subdivision.
-  where: Parterre subdivision
-  refs:
-  - 11
-  - 13
-  topics:
-  - Zoning & development
-  - Lawsuits & legal
 - title: Small-lot housing and residential design standards
-  summary: Council discussed residential housing and design standards, including small-lot housing, on Oct. 20. The Planning Commission also had Chapter 18 development code housekeeping amendments on Oct. 6.
+  summary: Council held a planning session discussion on residential housing and design standards, including small-lot housing. Planning Commission also took up housekeeping amendments to the development code in October.
   where: Citywide
   refs:
+  - 20
   - 24
-  - 27
   topics:
   - Housing
   - Zoning & development
-- title: Marijuana licensing code amendments
-  summary: Council reviewed potential amendments to the city's marijuana licensing code on Oct. 27, with draft amendments prepared.
+- title: Parterre subdivision legal strategy
+  summary: Council went into executive session on Sept. 8 for legal advice and negotiator instructions about the development of the Parterre subdivision. No outcome is stated.
+  where: Parterre subdivision
+  refs:
+  - 7
+  - 9
+  topics:
+  - Lawsuits & legal
+  - Zoning & development
+- title: Interim City Attorney and City Attorney recruitment
+  summary: Council interviewed internal candidates for Interim City Attorney and discussed a potential employment agreement in August. In October it met in executive session on selecting a vendor for the City Attorney recruitment and on performance of the Municipal Judge, Interim City Attorney and City Manager.
   where: Citywide
   refs:
-  - 32
-  topics:
-  - Cannabis & liquor
-- title: Station area plans, Thornton Parkway path and transit-area redevelopment
-  summary: Council discussed visioning for the York at 144th and North Thornton at CO 7 station areas. The TDA moved to convey property to the city for the Thornton Parkway Multimodal Path from I-25 to Grant Street. Council also held executive sessions on responses to a Request for Qualifications for a redevelopment project.
-  where: Thornton Parkway, I-25 to Grant Street; York/144th and CO 7 station areas
-  refs:
   - 2
-  - 19
-  - 21
-  - 22
-  - 23
-  topics:
-  - Transit
-  - Zoning & development
-  - Roads & traffic
-- title: Municipal Annexation Act plan for Adams and Weld County land
-  summary: Council considered a resolution on Oct. 13 designating a plan under the Municipal Annexation Act for land in Adams and Weld Counties.
-  where: Adams and Weld Counties
-  refs:
+  - 24
   - 26
   topics:
-  - Annexation
-  - Land & property
-- title: Security and speaker rules at public hearings
-  summary: Council held an executive session on Oct. 13 to receive legal advice on speakers' constitutional rights and maintaining order during public hearings, and to discuss security arrangements.
-  where: Council chambers
+  - Government operations
+- title: Redevelopment Request for Qualifications negotiations
+  summary: Council held executive sessions on Sept. 22 and Sept. 29 to set negotiating strategy on respondents to a Request for Qualifications for a redevelopment project. The documents do not name the site.
   refs:
-  - 25
+  - 15
+  - 17
+  - 18
+  topics:
+  - Economic development
+  - Land & property
+- title: Marijuana licensing code amendments
+  summary: Council reviewed draft amendments to the city's marijuana licensing code at an Oct. 27 council update.
+  where: Citywide
+  refs:
+  - 29
+  topics:
+  - Cannabis & liquor
+- title: Public hearing conduct and security at council meetings
+  summary: On Oct. 13 Council went into executive session for legal advice on speakers' constitutional rights and maintaining order during public hearings, and on security arrangements.
+  where: City Council meetings
+  refs:
+  - 21
   topics:
   - Government operations
   - Policing & public safety
+- title: Station area plans and E-470 presentation
+  summary: Council discussed visioning for the York at 144th and North Thornton at Colorado 7 station areas and heard an E-470 Public Highway Authority presentation. The STAMP plan was also updated to the BTAC advisory group.
+  where: York St/144th Ave and Colorado 7 station areas
+  refs:
+  - 10
+  - 19
+  - 21
+  topics:
+  - Transit
+  - Roads & traffic
+  - Zoning & development
+- title: Annexation plan for land in Adams and Weld Counties
+  summary: On Oct. 13 Council considered a resolution designating a plan under the Municipal Annexation Act for land in Adams and Weld Counties.
+  where: Adams and Weld Counties
+  refs:
+  - 22
+  topics:
+  - Annexation
+- title: 'Liquor license hearings: Waldo''s Chicken and Beer, Paddock Lounge, Love Sushi, and event permit'
+  summary: The Local Licensing Authority held hearings on new licenses for Waldo's Chicken and Beer (9675 Washington St), Paddock Lounge (16059 Grant St) and Love Sushi (9740 Grant St). It also heard a special events permit for First Street Plaza at Eastlake N-Line Station, where residents spoke in opposition.
+  where: Washington St, Grant St, First Street Plaza
+  refs:
+  - 1
+  - 14
+  topics:
+  - Cannabis & liquor
+  - Downtown & business
+  public_comment: true

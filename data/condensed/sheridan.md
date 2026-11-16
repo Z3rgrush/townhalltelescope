@@ -1,66 +1,27 @@
 # sheridan
 
-## [sheridan#0] 2026-08-10 | City Council Work Session Agendas | agenda
-- meetings, please notify the City of Sheridan at 303-438-3306, 72 hours in advance
-- 2. Items to Be Discussed
-- b. 2027 Proposed Budget Revenues (City)
-
-## [sheridan#1] 2026-08-10 | City Council Agendas | minutes
-- Police Chief Jeff Martinez
-- your wisdom and insights and we welcome your presence among us. Guide us in our discussions
-- 5. Agenda Approval - no changes to the agenda
-- 6. Audit Presentation and Approval
-- City Clerk - reminded Council members to RSVP for the upcoming DRCOG Awards
-- Ceremony and announced the launch of a pilot program using Sheridan police officers to
-- setting session, efforts to secure Sheridan representation on South Suburban's stakeholder
-- bond committee, the success of National Night Out, and a $500 donation to the Friends of
-- Police Chief - reported that Officer Sean Ralph was honored by the Denver Tech Center
-- Optimist Club for his generosity in replacing a stolen bicycle for a hearing-impaired
-- a. Approval of Disbursements
-- 10. Public Hearing
-- To consider an application to rezone property located at 3600 S. Federal Blvd. from the
-- Public Hearing - 3600 S. Federal Blvd.pdf
-- Mayor Daigle opened the public hearing at 7:23 p.m. on August 10, 2026, to consider a request to rezone
-- Parks and Recreation District
-- Mayor Daigle entered Exhibits A through I into the record, including the rezoning application, authorization
-- documents, conceptual site plan, Planning and Zoning Commission materials, site photographs, and public
-- the property in January 2024 as part of a partnership with the Mile High Flood District. The proposed rezoning
-- would facilitate development of a public trailhead and park space. Mr. Snow reviewed the surrounding land
-- uses, public outreach efforts, and the applicable rezoning criteria. He noted that the proposal promotes
-- stated the proposal is consistent with multiple goals of the City's Comprehensive Plan related to recreation,
-- Planning and Zoning Commission unanimously recommended approval of the rezoning request through
-- Resolution No. 4-2026
-- In response to a question from the audience, staff confirmed the intent is to develop the property as a park
-- Applicant Representative Ana Claudia Magalhaes presented the proposed Bear Creek Trailhead project. She
-- and circulation, additional trailhead amenities, and small park features. She noted that extensive community
-- applicant also discussed future way finding signage, potential incorporation of a "Welcome to Sheridan"
-- monument sign, and anticipated project funding efforts, including grant opportunities. No questions were
-- posed by Council following the presentation
-- Mayor Daigle opened the public comment portion of the hearing. No members of the public came forward to
-- With no additional testimony or evidence presented, Mayor Daigle closed the public hearing at 7:44 p.m. on
-
-## [sheridan#3] 2026-08-19 | Planning Commission | minutes
+## [sheridan#0] 2026-08-19 | Planning Commission | minutes
 - Others Present: Community Development Director Rogge; City Planners Snow and Rasmussen; City Attorney
 - minutes were approved unanimously
-- City Planners Snow and Rasmussen provided updates on several ongoing projects within the department,
-- including the recent federal EPA Brownfields Grant award, the renewed South Metro Enterprise Zone, South
-- Santa Fe Planning & Linkages projects, and GIS updates. Director Rogge spoke about the Flying Saucer RV
+- ity Planners Snow and Rasmussen provided updates on several ongoing projects within the department,
+- ncluding the recent federal EPA Brownfields Grant award, the renewed South Metro Enterprise Zone, South
+- anta Fe Planning & Linkages projects, and GIS updates. Director Rogge spoke about the Flying Saucer RV
 - Park subdivision application, provided additional information on grant funding, and updated the group on the
 - aerial imagery map which shows the development of Sheridan over time
-- b. HB24-1152 State ADU Legislation Compliance Update – Community Development Director
+- B24-1152 State ADU Legislation Compliance Update – Community Development Director
 - Director Rogge provided an update to the Commission regarding a small text amendment to the City’s ADU
 - City Planner Rasmussen gave a presentation on the City’s progress in addressing the requirements of HB24
-- rezoning of property within the impacted areas. Staff will return to Planning Commission later in the year for
+- ezoning of property within the impacted areas. Staff will return to Planning Commission later in the year for
 - further discussion of amendments to the code
 
-## [sheridan#4] 2026-08-24 | City Council Work Session Agendas | agenda
+## [sheridan#1] 2026-08-24 | City Council Work Session Agendas | agenda
 - meetings, please notify the City of Sheridan at 303-438-3306, 72 hours in advance
 - 2. Items to Be Discussed
 - a. 2027 Proposed Budgets – Capital, Open Spaces, CTF, Volunteer
 - Fire, Sheridan Celebrates, and Stormwater
 - 2027 Proposed Capital Budget.pdf
 
-## [sheridan#5] 2026-08-24 | City Council Agendas | minutes
+## [sheridan#2] 2026-08-24 | City Council Agendas | minutes
 - Attorney), Jeff Martinez (Chief of Police)
 - 5. Agenda Approval - No changes to the agenda
 - c. City Manager – Reported that the Comcast cable franchise agreement expired in 2024 and that
@@ -87,7 +48,7 @@
 - measures to reduce roadway congestion and expand E-470
 - 15. Public Comment - shall not exceed twenty (20) minutes
 
-## [sheridan#6] 2026-08-24 | Sheridan Redevelopment Agency Agendas | minutes
+## [sheridan#3] 2026-08-24 | Sheridan Redevelopment Agency Agendas | minutes
 - Sheridan Redevelopment Agency Meeting
 - Chair Mayor Daigle called the regular meeting of the Sheridan Redevelopment Agency to
 - Stewart (City Attorney), Jeff Martinez (Chief of Police)
@@ -95,7 +56,7 @@
 - 5. Approval of Disbursements
 - SRA - 6. Resolutions (none)
 
-## [sheridan#7] 2026-09-02 | Planning Commission | minutes
+## [sheridan#4] 2026-09-02 | Planning Commission | minutes
 - i. Resolution 5-2026 - Approval of Planning & Zoning Commission Updated Rules of Procedure
 - Resolution - 5-2026.pdf
 - 5. Public Hearings
@@ -118,17 +79,17 @@
 - There will also be a presentation on the final recommendations in the SHIP (Sheridan Housing Implementation
 - Plan) by the consultant who has been working on that document
 
-## [sheridan#8] 2026-09-14 | City Council Work Session Agendas | agenda
+## [sheridan#5] 2026-09-14 | City Council Work Session Agendas | agenda
 - meetings, please notify the City of Sheridan at 303-438-3306, 72 hours in advance
 - 2. Items to Be Discussed
 - a. 2027 Proposed General Fund Budget and SRA 2027
 - Proposed Budget
 
-## [sheridan#10] 2026-09-28 | City Council Work Session Agendas | agenda
+## [sheridan#7] 2026-09-28 | City Council Work Session Agendas | agenda
 - meetings, please notify the City of Sheridan at 303-438-3306, 72 hours in advance
 - 2. Items to Be Discussed
 
-## [sheridan#11] 2026-09-28 | City Council Agendas | minutes
+## [sheridan#8] 2026-09-28 | City Council Agendas | minutes
 - (City Attorney), Jeff Martinez (Chief of Police)
 - 5. Agenda Approval
 - d. Chief of Police – Reported during Work Session
@@ -170,7 +131,7 @@
 - The applicant explained that the platting is an administrative step needed to formally
 - organize four parcels and resolve unused easements. No development is currently
 
-## [sheridan#12] 2026-09-28 | Sheridan Redevelopment Agency Agendas | minutes
+## [sheridan#9] 2026-09-28 | Sheridan Redevelopment Agency Agendas | minutes
 - Sheridan Redevelopment Agency Meeting
 - Chair Mayor Daigle called the regular meeting of the Sheridan Redevelopment Agency to order at
 - (City Attorney), Jeff Martinez (Chief of Police)
@@ -191,17 +152,17 @@
 - A RESOLUTION OF THE SHERIDAN REDEVELOPMENT AGENCY ADOPTING A BUDGET FOR THE
 - Res. 5-2026 - 2027 SRA Budget.pdf
 
-## [sheridan#13] 2026-09-29 | Local Licensing Authority | agenda
+## [sheridan#10] 2026-09-29 | Local Licensing Authority | agenda
 - meetings, please notify the City of Sheridan at 303-438-3306, 72 hours in advance
 - 2. Agenda Approval
 - 4. Public Hearing - Transfer of Ownership for a Hotel/Restaurant Liquor
 
-## [sheridan#15] 2026-10-12 | City Council Work Session Agendas | agenda
+## [sheridan#12] 2026-10-12 | City Council Work Session Agendas | agenda
 - meetings, please notify the City of Sheridan at 303-438-3306, 72 hours in advance
 - 2. Items to Be Discussed
 - a. Sheridan Housing Authority
 
-## [sheridan#16] 2026-10-12 | City Council Agendas | minutes
+## [sheridan#13] 2026-10-12 | City Council Agendas | minutes
 - Brandon Dittman (City Attorney), and Jeff Martinez (Chief of Police)
 - With the bonds of right over wrong always at the forefront, And our worries behind us, With our
 - 5. Agenda Approval - No changes to the agenda
@@ -227,14 +188,14 @@
 - 13. Public Comment - shall not exceed twenty (20) minutes
 - requested support for the annual VFW Airlift, and expressed a desire for greater
 
-## [sheridan#17] 2026-10-21 | Planning Commission | agenda
+## [sheridan#14] 2026-10-21 | Planning Commission | agenda
 - notify the City of Sheridan at 303-438-3307, 72 hours in advance
 - PLANNING AND ZONING COMMISSION
 - Equal Space Ordinance Discussion – Mel Englund,
 - Sheridan Housing Implementation Plan (SHIP) Presentation &
 - Discussion – Matrix Design Group
 
-## [sheridan#18] 2026-10-26 | City Council Agendas | agenda
+## [sheridan#15] 2026-10-26 | City Council Agendas | agenda
 - 5. Agenda Approval
 - d. Police Chief
 - e. Community Development (via written report only) Permit Report - September
@@ -252,15 +213,58 @@
 - ALLHEALTH NETWORK Res. 28-2026 - AllHealth Network Contract.pdf
 - 14. Public Comment - shall not exceed twenty (20) minutes
 
-## [sheridan#19] 2026-10-26 | City Council Work Session Agendas | agenda
+## [sheridan#16] 2026-10-26 | City Council Work Session Agendas | agenda
 - meetings, please notify the City of Sheridan at 303-438-3306, 72 hours in advance
 - 2. Items to Be Discussed
 - a. Sheridan Housing Authority
 
-## [sheridan#20] 2026-10-26 | Sheridan Redevelopment Agency Agendas | agenda
+## [sheridan#17] 2026-10-26 | Sheridan Redevelopment Agency Agendas | agenda
 - meetings, please notify the City of Sheridan at 303-438-3306, 72 hours in advance
 - SHERIDAN REDEVELOPMENT AGENCY
 - 3. Approval of Minutes
 - a. Approval of the Financial Reports
 - 5. Approval of Disbursements
 - 6. Resolutions (none)
+
+## [sheridan#18] 2026-11-09 | City Council Agendas | agenda
+- 5. Agenda Approval
+- d. Police Chief
+- a. Approval of Disbursements
+- 9. Public Hearing
+- i. Resolution 30-2026
+- A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF SHERIDAN,
+- COLORADO, APPROVING THE 2500 W. HAMPDEN AVENUE
+- SUBDIVISION PRELIMINARY PLAT Res. 30-2026 - 2500 W. Hampden
+- Ave - Preliminary Plat.pdf
+- ii. Resolution 31-2026
+- A RESOLUTION OF THE CITY COUNCIL OF SHERIDAN, COLORADO,
+- APPROVING THE 2500 W. HAMPDEN AVENUE SUBDIVISION FINAL
+- Res. 31-2026 - 2500 W. Hampden Ave - Final Plat.pdf
+- iii. Resolution 32-2026
+- APPROVING A SUBDIVISION IMPROVEMENTS AGREEMENT
+- 32-2026 - Subdivision Improvements Agreement - 2500 W. Hampden
+- 10. Items for Individual Consideration
+- a. Ordinances on Second Reading (none)
+- (Comments from the Public will be invited prior to consideration)
+- b. Ordinances on First Reading (none)
+- c. Resolutions
+- i. Resolution 29-2026
+- COLORADO, APPROVING AN AGREEMENT FOR THE PURCHASE OF
+- SHERIDAN POLICE DEPARTMENT EQUIPMENT BETWEEN THE CITY
+- Contract.pdf
+- ii. Resolution 33-2026
+- COLORADO APPROVING AN AGREEMENT BETWEEN THE CITY OF
+- iii. Resolution 34-2026
+- A RESOLUTION OF THE CITY COUNCIL OF SHERIDAN, COLORADO
+- APPROVING THE COLORADO OPIOIDS SETTLEMENTS WITH
+- meetings, please notify the City of Sheridan at 303-438-3306, 72 hours in advance
+- 13. Public Comment
+- Public Comment - shall not exceed twenty (20) minutes
+
+## [sheridan#19] 2026-11-09 | City Council Work Session Agendas | agenda
+- meetings, please notify the City of Sheridan at 303-438-3306, 72 hours in advance
+- 2. Items to Be Discussed
+- a. RRCC Intern Presentations
+
+## [sheridan#20] 2026-11-13 | CANDO | agenda
+- Presentation

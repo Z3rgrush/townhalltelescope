@@ -1,86 +1,87 @@
-- title: Temporary moratorium on residential development applications
-  summary: City Council took up Ordinance No. 1541 on initial posting, which would temporarily halt submission, acceptance, processing and approval of development, zoning and land use applications for residential development in the city. A public hearing was set for November 19, 2026.
-  where: Citywide
-  refs:
-  - 10
-  - 11
-  topics:
-  - Housing
-  - Zoning & development
-- title: Eagle Fire Lodge rezoning and multi-household permit at 777 E. US Highway 24
-  summary: 'Cedarwood Development requested rezoning of Lot 3R, Block 3, C.D. Weaver #1A Subdivision from PUD to Multiple Dwelling Urban Residential, plus a conditional use permit for multi-household attached dwellings. The Planning Commission held a hearing on Oct. 8, and Council saw Ordinances 1539 and 1540 on initial posting with hearings set for Nov. 19, 2026.'
-  where: 777 E. US Highway 24
-  refs:
-  - 7
-  - 10
-  - 11
-  topics:
-  - Housing
-  - Zoning & development
-- title: Appeal of dangerous building order at 209 E. Midland Avenue
-  summary: Owner Andrew Nguyen appealed a Notice and Order and Notice to Vacate for the long-vacant building. His representatives said the 60-day permit deadline is unworkable, citing a contractor bankruptcy and plan review and construction timelines. The building has also been recommended for Local Historic Landmark designation.
-  where: 209 E. Midland Avenue
-  refs:
-  - 1
-  - 4
-  topics:
-  - Land & property
-  - Historic preservation
-  - Housing
-- title: Historic landmark designation for 116 W. Lake Avenue
-  summary: The Historical Preservation Committee scheduled a Sept. 1 public hearing on a request by Steve Plutt and Murray WP Cabin, LLC to designate the property a Local Historic Landmark. The City Council hearing is set for Oct. 1, 2026.
-  where: 116 W. Lake Avenue
-  refs:
-  - 3
-  - 4
-  topics:
-  - Historic preservation
-  - Land & property
-- title: Unified Development Code change for Public Safety Facilities
-  summary: The city is amending the Unified Development Code to add Public Safety Facilities as a use under the Special Use Permit process and define the term. The Planning Commission considered it in September and October, and Council had Ordinance No. 1536 up for a public hearing on Nov. 5.
-  where: Citywide
+- title: Eagle Fire Lodge rezoning and apartment conversion at 777 E. US Highway 24
+  summary: Applicant Rick Dilsavor of Cedarwood Development seeks to rezone the former Eagle Fire Lodge motel from PUD to Multi Dwelling Urban Residential and get a conditional use permit to turn its 25 lodging units into 25 market-rate long-term rentals. The rezone would require 25 additional multifamily water taps under the City's Water Tap Management Plan. Planning Commission heard it October 8; Council took ordinances 1539 and 1540 on initial posting November 5 with a hearing set for November 19.
+  where: 777 East US Highway 24
   refs:
   - 5
-  - 7
-  - 10
-  - 11
+  - 8
+  - 9
+  - 12
+  topics:
+  - Housing
+  - Zoning & development
+  - Water
+- title: Proposed temporary moratorium on residential development applications
+  summary: City Council took Ordinance 1541 on initial posting on November 5. It would temporarily halt submission, acceptance, processing and approval of development, zoning and land use applications for residential development in the city. A public hearing is set for November 19, 2026.
+  where: Citywide
+  refs:
+  - 8
+  - 9
+  topics:
+  - Zoning & development
+  - Housing
+- title: '"Public Safety Facilities" added to the Unified Development Code'
+  summary: The city is amending the Unified Development Code to create a new use type, "Public Safety Facilities," to be handled under the Special Use Permit process and defined in the code. The Planning Commission discussed it in September and October, and Council held a hearing on Ordinance 1536 on November 5.
+  where: Citywide
+  refs:
+  - 3
+  - 5
+  - 8
+  - 9
   topics:
   - Zoning & development
   - Policing & public safety
-- title: Downtown Development Authority 2027 budget and micro-grants
-  summary: 'The DDA reviewed its 2027 budget, including $275,000 for TIF agreements (increased for the TAVA TIF agreement), $200,000 for micro-grants and $50,000 for beautification. It also reviewed micro-grant final reports: about $48,337 paid so far, $175,000 expected by year-end, and a move to one grant per applicant going forward.'
-  where: Downtown Woodland Park
+- title: 2027 budget for the city and the Downtown Development Authority
+  summary: The DDA board reviewed its 2027 budget, with projected 2027 expenditures of about $1.74 million against $1.19 million in revenue. Line items include $50,000 for beautification, $275,000 for TIF agreements (raised for the TAVA agreement) and $200,000 for micro-grants. The DDA resolution recommends approval to City Council, and the city's 2027 budget was on the November 5 Council agenda with public comment allowed.
+  where: Citywide
   refs:
+  - 7
+  - 8
   - 9
   topics:
   - Budget & taxes
   - Downtown & business
-  - Economic development
-- title: City 2027 budget
-  summary: The 2027 budget was on the Nov. 5 City Council agenda, with public comment allowed.
-  where: Citywide
+- title: DDA micro-grant program for downtown businesses
+  summary: DDA staff reported about $48,337 in micro-grants paid out so far, with $30,000 more up for approval and about $175,000 expected by year-end. Two recipients withdrew. One applicant received two grants this year, but going forward the limit will be one grant per applicant.
+  where: Downtown Woodland Park
   refs:
-  - 10
-  - 11
+  - 7
   topics:
-  - Budget & taxes
-- title: 'Historic preservation projects: Junction House, Templeton Cemetery, Bergstrom Park'
-  summary: The Historical Preservation Committee tracks the Junction House/Roberts House grant (Brownfields funding was discussed), the Templeton Cemetery restoration plan, a preservation plan and the Bergstrom Park Reimagined project. It also reviewed its 2027 work plan and proposed budget.
+  - Economic development
+  - Downtown & business
+- title: Local historic landmark designation for 116 W. Lake Avenue
+  summary: Steve Plutt and Murray WP Cabin, LLC asked to designate 116 W. Lake Avenue a Local Historic Landmark. The Historical Preservation Committee held a hearing on September 1, with a City Council public hearing scheduled for October 1, 2026.
+  where: 116 W. Lake Avenue
+  refs:
+  - 1
+  - 2
+  topics:
+  - Historic preservation
+  - Land & property
+- title: 'Historic preservation projects: Junction House, Templeton Cemetery and Bergstrom Park'
+  summary: The Historical Preservation Committee tracks active projects including the Junction House/Roberts House grant, where city staff said Brownfields grants can fund planning services, the Templeton Cemetery restoration plan, a preservation plan, and Bergstrom Park Reimagined. Council said the Bergstrom design is already agreed. The committee is also preparing its 2027 work plan and budget.
   where: Woodland Park
   refs:
-  - 3
+  - 1
+  - 2
   - 4
   - 6
-  - 8
   topics:
   - Historic preservation
   - Parks & open space
-- title: Main Street programs and grants
-  summary: The Main Street board discussed seeking a $2,500 AARP grant and DOLA mini-grants, and Oktoberfest and parade planning. Council also scheduled a State of Main Street presentation for Nov. 5.
+- title: Main Street programs, grants and Oktoberfest
+  summary: The Main Street board is planning Oktoberfest volunteer coordination and hoping for a $2,500 AARP grant. It could be matched with DOLA mini-grant funds; Main Street already received $5,000 from DOLA. Council also scheduled a State of Main Street presentation on November 5.
   where: Downtown Woodland Park
   refs:
-  - 2
-  - 10
+  - 0
+  - 8
   topics:
   - Downtown & business
   - Tourism & events
+- title: Zoning correction at 1420 and 1430 Red Haven Place
+  summary: Mark McNab of MBI Contractors and owner Ventus, LLC requested a zoning correction for property in the Paradise Subdivision. The Planning Commission hearing was set for November 12, with a Council hearing to follow.
+  where: 1420 and 1430 Red Haven Place
+  refs:
+  - 11
+  - 12
+  topics:
+  - Zoning & development

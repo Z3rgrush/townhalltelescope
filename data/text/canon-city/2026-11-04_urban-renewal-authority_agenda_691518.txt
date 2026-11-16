@@ -1,0 +1,563 @@
+URBAN RENEWAL 
+MEETING 
+November 4, 2026 
+5:00 p.m. 
+AGENDA 
+1. CALL TO O
+RDER: City Council Chambers
+2. ROLL CALL: C
+OMMISSIONERS BRADDY, DENNEHY, GRANTHAM,
+LUND, MCCULLAR, MELONI, PAYNE, 
+     REEVES, TONEY, WORTHINGTON,  
+ AND CHAIRMAN SCHMISSEUR. 
+3. PLEDGE OF ALLEGIANCE:
+4. CITIZENS REQUEST TO SPEAK TO THE URBAN RENEWAL AUTHORITY.
+5. CONSENT AGENDA:
+A. Approve the minutes from the October 7, 2026, meeting.
+B. Receive 
+and File: September 2026 Unaudited Monthly Budget
+Summary
+C. Receive
+ and File: 
+ Cash Disbursements 10/08/2026 – 11/04/2026.
+6. EXECUTIVE DIRECTOR R
+EPORT:
+7. PUBLIC HEARING:
+A. 2027 Budget Hearing
+8. DISCUSSION:
+A. Choose Treasurer
+B. Project Feasibility Discussion
+9. ADJOURN:  The next regular meeting is scheduled for December 9, 2026.
+Posted pursuant to code on Friday, October 30, 2026. 
+Cindy Foster Owens, City Clerk 
+1
+2
+3
+URBAN RENEWAL MEETING
+October 7, 2026
+5: 00 p. m. 
+MINUTES
+CALL TO ORDER:  The meeting was called to order at 5: 05 p. m. in Council
+Chambers. 
+ROLL CALL:   
+PRESENT ABSENT
+Commissioner Dennehy X
+Commissioner Grantham X
+Commissioner Lund X
+Commissioner McCullar X
+Commissioner Meloni X
+Commissioner Payne X
+Commissioner Reeser X
+Commissioner Reeves X
+Commissioner Toney X
+Commissioner Worthington X
+Chairman Schmisseur X
+ALSO PRESENT:  Economic Development Manager Rick Harrmann and Secretary
+Cindy Foster Owens
+PLEDGE OF ALLEGIANCE: 
+Chairman Schmisseur led the Pledge of Allegiance.  
+CITIZENS REQUEST TO SPEAK TO THE URBAN RENEWAL AUTHORITY.  
+No requests received.  
+CONSENT AGENDA: 
+Approved minutes from the September 9, 2026, meeting. 
+4
+Received and Filed: Cash Disbursements 09/ 10/2026 – 10/07/ 2026. 
+MOTION:  On motion by Commissioner Meloni and second by Commissioner Dennehy, 
+the Cañon City Area for Reinvestment Expansion approved the Agenda and Consent
+Agenda by unanimous roll call vote of those present. 
+FINANCIAL REPORT: 
+No report given. 
+EXECUTIVE DIRECTOR REPORT: 
+Report received from Economic Development Manager Rick Harrmann. 
+DISCUSSION: 
+Special Project Grant Application - 111 N. Cottonwood
+Dave Lambert spoke.  
+Topic discussed.  
+MOTION:  On motion by Commissioner McCullar and second by Commissioner Dennehy
+to approve a special project grant at 111 N. Cottonwood in an amount not to exceed
+42, 295. 01.  
+ABSENT AYE NAY ABSTAIN
+Commissioner Dennehy X
+Commissioner Grantham X
+Commissioner Lund X
+Commissioner Meloni X
+Commissioner Payne X
+Commissioner Reeser X
+Commissioner Reeves X
+Commissioner Toney X
+Commissioner Worthington X
+Chairman Schmisseur X
+5
+ADJOURN:  The meeting was adjourned at 5: 45 p. m. 
+Chairman Amy Schmisseur
+Attest: 
+Ryan Stevens, Executive Director
+6
+7
+8
+General Ledger
+Budget Status
+Printed:
+User: skhinton@canoncity. org
+10/ 22/ 2026 -  1:40 PM
+9, 2026Period:
+Account: From 40- 000- 0000- 00010 To 40- 460- 2000- 59002
+Include: Revenue and Expense
+Include Uncommitted JE' s: True
+Account Number Description Budget Amount Period Amount YTD Amount YTD Var Encumbered Amount Available % Available
+40 C-CAREFund
+40-460Dept
+R05 Taxes
+0.0040-460-0400- 31101 Property Tax Increment 568,665. 00 582, 119. 58 - 13, 454. 58 0.00 - 13, 454. 58 0.00
+0.0040-460-0400- 31301 Sales Tax Increment 200,000. 00 0.00 200,000. 00 0.00 200,000. 00 100. 00
+768,665. 00 0.000.00 582, 119. 58 186,545. 42 186,545. 42 24.27R05Sub Totals:
+R20 Intergovernmental
+0.0040-460-0400- 37510 Local Funding 0.00 0.00 0.00 0.00 0.00 0.00
+0.00 0.000.00 0.00 0.00 0.00 0.00R20Sub Totals:
+R55 Investment Income
+0.0040-460-0400- 45101 Earnings On Deposits & Invest 0.00 0.00 0.00 0.00 0.00 0.00
+0.00 0.000.00 0.00 0.00 0.00 0.00R55Sub Totals:
+R60 Other Resounces
+0.0040-460-0400- 46937 Financing Proceeds 0.00 0.00 0.00 0.00 0.00 0.00
+0.00 0.000.00 0.00 0.00 0.00 0.00R60Sub Totals:
+768,665. 00 0.00 582, 119. 58 186,545. 42 0.00 186,545. 42 24.27RevenueSub Totals:
+E20 Supplies & Materials
+0.0040-460-0400- 52200 Office Supplies 500. 00 0.00 500. 00 0.00 500. 00 100. 00
+0.0040-460-0400- 52210 Operating Supplies 1,000. 00 0.00 1,000. 00 0.00 1,000. 00 100. 00
+1,500. 00 0.000.00 0.00 1,500. 00 1,500. 00 100.00E20Sub Totals:
+E30 Purchased Services
+0.0040-460-0400- 53302 Legal Services 0.00 0.00 0.00 0.00 0.00 0.00
+0.0040-460-0400- 53305 Contracted Services 10, 000. 00 3,450. 00 6,550. 00 0.00 6,550. 00 65. 50
+0.0040-460-0400- 53312 Software titles 7,500. 00 6,262. 20 1,237. 80 0.00 1,237. 80 16. 50
+0.0040-460-0400- 53315 Postage/ Freight 500. 00 115. 51 384. 49 0.00 384. 49 76. 90
+0.0040-460- 0400- 53320 Printing 500. 00 0.00 500. 00 0.00 500. 00 100. 00
+GL- Budget Status ( 10/ 22/ 2026 -  1:40 PM) Page 1
+9
+Account Number Description Budget Amount Period Amount YTD Amount YTD Var Encumbered Amount Available % Available
+0.0040-460-0400- 53325 Publications/ Advertising 500. 00 47. 40 452. 60 0.00 452. 60 90. 52
+0.0040-460-0400- 53330 Membership Fees 500. 00 0.00 500. 00 0.00 500. 00 100. 00
+0.0040-460-0400- 53335 Travel & Training 0.00 0.00 0.00 0.00 0.00 0.00
+0.0040-460-0400- 53336 Meals 500. 00 0.00 500. 00 0.00 500. 00 100. 00
+0.0040-460-0400- 53350 Other Fees & Charges 20, 000. 00 10, 938. 63 9,061. 37 0.00 9,061. 37 45. 31
+40, 000. 00 0.000.00 20, 813. 74 19, 186. 26 19, 186. 26 47.97E30Sub Totals:
+E40 Program Expenses
+37, 756.0140-460-0400- 54001 Sales Tax TIFF Agreement 55, 000. 00 57, 729. 12 - 2,729. 12 0.00 - 2,729. 12 0.00
+0.0040-460-0400- 54002 Property Tax TIFF Agreement 90, 000. 00 83, 153. 30 6,846. 70 0.00 6,846. 70 7.61
+0.0040-460-0400- 54003 Property Tax Share Back 300,000. 00 243, 138. 75 56, 861. 25 0.00 56, 861. 25 18. 95
+0.0040-460-0400- 54004 Administrative Fees 45, 000. 00 10, 983. 63 34, 016. 37 0.00 34, 016. 37 75. 59
+490,000. 00 0.0037, 756. 01 395, 004. 80 94, 995. 20 94, 995. 20 19.39E40Sub Totals:
+E60 Debt Service
+10, 379.2540-460-0400- 56610 Principal 62, 121. 00 51, 723. 78 10, 397. 22 0.00 10, 397. 22 16. 74
+463.9940-460-0400- 56620 Interest Expense 2,940. 00 2,492. 42 447. 58 0.00 447. 58 15. 22
+65, 061. 00 0.0010, 843. 24 54, 216. 20 10, 844. 80 10, 844. 80 16.67E60Sub Totals:
+E70 Grants
+0.0040-460-0400- 57001 Life Safety Grant 150,000. 00 0.00 150,000. 00 0.00 150,000. 00 100. 00
+0.0040-460-0400- 57002 Façade Grant 52, 500. 00 38, 250. 00 14, 250. 00 0.00 14, 250. 00 27. 14
+0.0040-460-0400- 57003 Building Safety Grant 75, 000. 00 34, 750. 00 40, 250. 00 0.00 40, 250. 00 53. 67
+0.0040-460- 0400- 57004 Special Project Grant 0.00 0.00 0.00 0.00 0.00 0.00
+277,500. 00 0.000.00 73, 000. 00 204,500. 00 204,500. 00 73.69E70Sub Totals:
+E90 Capital Outlay
+0.0040-460-0400- 59000 Urban Renewal Projects 400,000. 00 0.00 400,000. 00 0.00 400,000. 00 100. 00
+0.0040-460- 0400- 59001 Water Street Sewer Main 0.00 0.00 0.00 0.00 0.00 0.00
+0.0040-460-0400- 59002 Main Street Fire Line Project 0.00 0.00 0.00 0.00 0.00 0.00
+400,000. 00 0.000.00 0.00 400,000. 00 400,000. 00 100.00E90Sub Totals:
+1,274,061. 00 48, 599. 25 543, 034. 74 731,026. 26 0.00 731,026. 26 57.38ExpenseSub Totals:
+0.00Dept460 Sub Totals: 48, 599. 25 - 39, 084. 84 544,480. 84505,396. 00
+Fund Revenue Sub Totals: 0.00 582, 119. 58 186,545. 42 186,545. 42 24. 27768,665. 00 0.00
+Fund Expense Sub Totals: 48, 599. 25 543, 034. 74 731,026. 26 731,026. 26 57. 381,274,061. 00 0.00
+Fund 40 Sub Totals: 0.0048, 599. 25 - 39, 084. 84 544,480. 84505,396. 00
+GL- Budget Status ( 10/ 22/ 2026 -  1:40 PM) Page 2
+10
+Account Number Description Budget Amount Period Amount YTD Amount YTD Var Encumbered Amount Available % Available
+1,274,061. 00
+768,665. 00
+0.00
+Expense Totals:
+Revenue Totals:
+0.00
+0.00
+48, 599. 25
+0.00
+543, 034. 74
+582, 119. 58
+731,026. 26
+186,545. 42
+731,026. 26
+186,545. 42
+57. 38
+24. 27
+Report Totals: 505,396. 00 48, 599. 25 - 39, 084. 84 544,480. 84
+GL- Budget Status ( 10/ 22/ 2026 -  1:40 PM) Page 3
+11
+12
+13
+14
+15
+Canon City Area for Reinvestment Expansion 
+2027 PROPOSED BUDGET 
+FOR THE FISCAL YEAR BEGINNING JANUARY O 1, 2027 
+October 15, 2026
+To: C-CARE Board of Commissioners
+From: Ryan Stevens, Executive Director Date: October 7, 2026
+Re:  2027 Budget
+Established in 2020, Cañon City Area for Reinvestment Expansion (C-CARE)’s mission is to mitigate
+blight in Cañon City’s commercial core and planned development areas, encouraging investment and
+reinvestment within targeted areas of the community. The ultimate goal is to strengthen the citywide
+tax base and expand the area’s job base. 
+C-CARE provides gap-financing incentives to developers pursuing projects that remediate blight, 
+improve aginginfrastructure, and redevelop key historic structures. These incentives leverage future
+tax revenues known as Tax Increment Financing (TIF) on a reimbursement or grant basis. TIF is a
+mechanism that captures net new, incremental tax revenues (sales or property tax above an established
+base that does not exist until development occurs) that are created when blighted, vacant or
+underutilized properties are redeveloped, and channels those revenues into grants or cost
+reimbursements for developers. This tool helps relieve the financial “gap” of development that results
+from the added costs of construction caused by the need to create new infrastructure or replace aging, 
+blighted infrastructure and modernizing historic structures. 
+Past Projects
+Since its inception in 2020, C-CARE has assisted four development projects: two historic renovations, 
+one project addressing blight in key areas of the community, and one that addresses Colorado
+Department of Transportation (CDOT) infrastructure requirements along the high-traffic east US 50
+corridor: 
+Renovation of the historic Hotel St. Cloud - Main Street
+Phase 1 was completed on December 31, 2022, with the opening of Fremont Public House.  
+Phase 2 was completed in early 2024 with the completion and opening of the main lobby, 1887
+Historic Eatery and the War Room speakeasy. 
+PROJECT COMPLETE - Phase 3, the completion of the guest rooms and complete grand
+opening, was completedin 2025 with a soft opening in early May 2025 and a grand openingin July
+2025. 
+Renovation of the historic Fremont County National Bank building - Main Street
+Project is complete, and was awarded the Governor’s Award for Downtown Excellence in the
+Place” category, presented by Downtown Colorado, Inc. 
+1
+17
+Faricy Boys Ford redevelopment project - US 50 East Access Corridor
+Project is complete. Faricy moved into its new building in October 2022, followed immediately
+by demolition of the old structure, removing blight and helping beautify the east access corridor
+of US 50.
+Holiday Inn Express development project - US 50/Mackenzie Avenue Median Project
+This project was completed in 2021, including installation of a new US 50 median and a left-turn
+lane onto Four Mile Lane.
+Four Mile Ranch Planned Development District & New TIF Area Proposed
+C-CARE continues to work with the Four Mile Ranch development team on the creation of a new
+25-year TIF area cover approximately 740 acres within the 1,563-acre Four Mile Ranch Planned
+Development District on the east side of Cañon City. Unlike C-CARE's existing reimbursement-based
+projects, this would be a project-specific urban renewal area in which tax increment is used to support
+bonds and other debt financing needed to convert a decades-dormant development that remains vacant,
+underutilized land, into the major infrastructure required to initiate development. The proposed TIF
+area represents only a portion of the overall Four Mile Ranch development.
+At full buildout, scheduled to occur over more than 20 years, the 1,563-acrea Four Mile Ranch plan
+provides for approximately 2,700 housing units, with most of the residential development
+approximately 75%) located outside the proposed TIF area. This distinction is important because
+growth outside the TIF boundary will generate new property tax revenue directly for all taxing entities, 
+while the TIF area helps provide the infrastructure necessary to make the larger development possible. 
+The plan also includes significant acreage for future commercial development, helping address Cañon
+City's limited inventory of development-ready commercial land and the substantial retail spending that
+currently occurs outside the community. Four Mile Ranch has also proposed providing land to the City
+for future workforce-housing opportunities. Together, the residential, commercial, and infrastructure
+components make Four Mile Ranch one of the community's most significant long-term opportunities
+for expanding the tax base and accommodating the future planned growth needed to regain economic
+self-sufficiency. 
+C-CARE Grants Program
+C-CARE continues to provide Façade Improvement, Life Safety and Accessibility, and Building
+Systems grants to help property and business owners overcome some of the higher costs associated
+with renovating and modernizing older commercial buildings. Eligible improvements include façades;
+fire suppression and alarm systems; electrical and HVAC upgrades; energy-efficiency improvements;
+accessibility improvements; and other building-system upgrades. Initiated in 2026, the program will
+expand in 2027 to include a new, more flexible grant structure that provides support for a broader
+scope of building improvements.
+Grant activity remained strong in 2026, with projects occurring primarily along Main Street and
+elsewhere within the urban renewal area. During the year, C-CARE supported façade improvements; 
+sprinkler and fire-safety projects; electrical and energy-efficiency upgrades; and other building and
+infrastructure improvements. The 2026 register includes projects at Sally's Bakery/5th Street Market, 
+Yarned n Dangerous, Unbridled Holdings, several Main Street properties, Palace Drug, Royal
+Pharmacy Consultants, the Abbey Event Center and others. 
+2
+18
+Since the grant programs began, C-CARE has helped support approximately $1.65 million in property
+and building improvements through roughly $806,000 in grant assistance. This investment has helped
+leverage substantial private-sector spending while addressing blight, modernizing older buildings, and
+improving the long-term usability of Cañon City's commercial properties. 
+3
+19
+C-CARE
+BUDGET STATEMENT
+2025 2026 2026 2027
+Actual Budget Estimate Budget
+Revenues
+Tax Increment 707,231$         768,665$         598,610$         773,534$         
+Local Funding 30,000            -                      -                      -                      
+Interest -                      -                      -                      -                      
+Total Revenues 737,231$         768,665$         598,610$         773,534$         
+Expenditures by Function
+Operations 446,216$         531,500$         511,854$         482,500$         
+Debt Service 65,059 65,061 65,061 65,060
+Grants 162,205 277,500 275,003 220,000
+Capital 127,310 400,000           -                      400,000
+Total Expenditures 800,791$         1,274,061$      851,918$         1,167,560$      
+Excess (Deficiency) of Revenues Over
+Under) Expenditures ( 63,560)$         (505,396)$       ( 253,308)$       ( 394,026)$       
+Cash Balances, Beginning of Year $ 771,396 $ 707,835 $ 707,835 $ 454,527
+Cash Balances, End of Year 707, 835$         202,439$         454,527$         60,501$           
+4
+20
+C-CARE
+REVENUE DETAIL
+2025 2026 2026 2027
+Account # Description Actual Budget Estimate Budget
+Operating Revenues
+40460-0400-31101 Property Tax Increment 603,214$   568,665$   582,120$   723,534$      
+40460-0400-31301 Sales Tax Increment 104,017 200,000 16,490 50,000
+Total Tax Increment 707,231$   768,665$   598,610$   773,534$      
+Non-Operating Revenues
+40-460-0400-37510 Local Funding 30,000$     -$               -$               -$                  
+Total Non-Operating Revenue 30,000$     -$               -$               -$                  
+40-460-0400-45101 Earnings on Deposits & Invest -$               -$               -$               -$                  
+Total Non-Operating Revenue -$               -$               -$               -$                  
+GRAND TOTAL REVENUES 707,231$   768, 665$   598,610$   773,534$      
+5
+21
+C-CARE
+EXPENDITURE DETAIL
+2025 2026 2026 2027
+Account # Description Actual Budget Estimate Budget
+Supplies & Materials
+40-460-0400-52200 Office Supplies 40$                500$              -$               500$              
+40-460-0400-52210 Operating Supplies - General -                     1,000             -                     1,000
+Total Supplies & Materials 40$                1,500$            -$               1,500$            
+Purchased Services
+40-460-0400-53302 Legal Services 2,375$            -$               5,000$            8,000$            
+40-460-0400-53305 Contracted Services 3,000 10,000            -                     2,000
+40-460-0400-53312 Software Titles 8,289 7,500 6,262 7,500
+40-460-0400-53315 Postage/Freight -                     500 200 500
+40-460-0400-53320 Printing -                     500                -                     500
+40-460-0400-53325 Publications/Advertising -                     500 100 500
+40-460-0400-53330 Membership Fees 500 500                -                     500
+40-460-0400-53336 Meals -                     500                -                     500
+40-460-0400-53350 Other Fees & Charges 32 20,000 55,000 26,000
+Total Purchased Services 14,196$          40,000$          66,562$          46,000$          
+Program Expenses
+40-460-0400-54001 Sales Tax TIF Agreement 11,437$          55,000$          75,000$          50,000$          
+40-460-0400-54002 Property Tax TIF Agreement 99,418 90,000 83,153 90,000
+40-460-0400-54003 Property Tax Shareback 277,981 300,000 243,139 250,000
+40-460-0400-54004 Administrative Fees 43,144 45,000 44,000 45,000
+Total Program Expenses 431,980$        490, 000$        445, 292$        435,000$        
+Debt Service
+40-460-0400-56610 Principal 61,502$          62,121$          62,121$          62,745$          
+40-460-0400-56611 Interest 3,557 2,940 2,940 2,315
+Total Debt Service 65,059$          65,061$          65,061$          65,060$          
+Grants
+40-460-0400-57001 Life Safety Grant 50,000$          150,000$        89,708$          -$                   
+40-460-0400-57002 Facade Grant Program 28,055 52,500 83,250 45,000
+40-460-0400-57003 Building Systems Grant 84,150 75,000 59,750            -                     
+40-460-0400-57004 Special Project Grant -                     -                     42,295 175,000
+Total Grants 162, 205$        277,500$        275, 003$        220, 000$        
+Capital
+40-460-0400-59901 Urban Renewal Projects -$               400,000$        -$               400,000$        
+40-460-0400-59902 Main Street Fire Line Project 127,310$        -$               -$               -$               
+Total Capital 127,310$        400, 000$        -$               400, 000$        
+Total C-CARE 800,791$        1,274, 061$     851, 918$        1,167,560$     
+6
+22
+C-CARE
+INCENTIVE DETAIL
+Business Name Project
+Agreement
+End Date
+Agreement
+Amount Paid to Date Remaining
+Unbridled Holdings III, LLC Hotel St. Cloud 2/3/2036 $ 1,200,000 55,625           $1,144,375
+FB Properties, Inc. Faricy Boys Ford Facility 10/6/2038 1,000,000 223,221 776,779
+Tezak Heavy Equipment Co. Fremont National Bank 10/7/2042 1,063,714 39,946 1,023,768
+ABRI Inc. Holiday Inn Express 4/30/2030 200,000 106,488 93,512
+The information provided is for agreements entered into or anticipated to being entered into by December 31, 2025. 
+This information is not required as part of the budget but is presented for transparency.
+7
+23
+24
+25
+C-CAREGrant Program Feasibility Gap Survey
+Overview of Findings
+Per C-CAREboard request, C-CAREstaff conducted an online survey of former URA
+grant recipients and others familiar with development and renovation in Cañon City, 
+principally in the downtown and URAarea. Invitations were sent to 36 email addresses
+with 7 responses to the survey.  
+Executive Summary
+The C-CAREGrant Program Feasibility Gap Survey provides an early but fairly consistent picture
+of the financial challenges associated with rehabilitating older commercial buildings in downtown
+Cañon City. 
+The survey received eight responses, with seven respondents providing substantive information
+about completed or proposed building projects. Allseven project respondents identified projects
+located in the downtown area between 1st and 9th Streets. 
+Although the sample size is limited, several themes were repeated across respondents: older-
+building conditions are difficult to predict, code and construction requirements can significantly
+increase project costs, and the completed value or income potential of a property often does not
+support the amount that must be invested in rehabilitation. 
+The responses also indicate that C-CAREassistance is doing more than improving appearances. 
+Respondents reported that projects increased property values, improved building safety and
+functionality, created usable or leasable space, retained businesses, attracted tenants, and
+returned vacant spaces to productive use. 
+The principal finding is that the feasibility problem is not simply the cost of construction. It is the
+gap between what must be invested in an older building and what the property can reasonably
+support through value, rent, or business income after the work is completed. 
+Project Size and Financial Feasibility
+Projects represented a wide range of investment levels, from less than $ 10,000 to more than
+250,000. Several respondents reported projects in the $ 100,000 to $250, 000 range or higher. 
+26
+When asked whether their projects would have been financially feasible without C-CARE
+assistance, five of the seven substantive respondents indicated that the project probably or
+definitely would not have been feasible, or selected a response indicating that feasibility was
+doubtful. Several also indicated that they would have reduced the scope of their project without
+assistance. 
+This suggests that grant assistance is not simply reimbursing projects that would have occurred
+unchanged. In many cases, assistance appears to affect whether a project proceeds, how much
+work is completed, or whether additional improvements can be incorporated. 
+The importance of assistance was also reflected in the percentage of project cost covered by C-
+CARE. Five of the seven project respondents reported that C-CAREassistance represented 21% 
+or more of project cost, including respondents who reported assistance exceeding 30%. 
+The Feasibility Gap
+The estimated financial gap varied considerably by project. 
+Among respondents able to estimate a specific amount: 
+Two reported gaps of approximately $ 5,000–$9,999. 
+One reported a gap of $10,000–$ 24,999. 
+Two reported gaps of $25,000–$ 49,999. 
+One reported a gap of $100,000 or more. 
+One respondent indicated that the gap was simply too difficult to estimate. 
+The range is significant because it suggests there may not be a single appropriate grant amount
+for every rehabilitation project. Smaller façade or building improvements may face relatively
+modest gaps, while major rehabilitation projects can encounter feasibility gaps measured in tens
+or even hundreds of thousands of dollars. 
+Primary Barriers to Rehabilitation
+The most frequently identified challenges were: 
+Building age and condition — identified by five of seven project respondents. 
+Construction costs — identified by four respondents. 
+Building code requirements — identified by four respondents. 
+Other recurring concerns included structural repairs, electrical/ plumbing/ mechanical
+upgrades, fire and life-safety requirements, architectural and engineering expenses, 
+unexpected construction conditions, and the inability of rents, business income, or
+appraised property value to support the required investment. 
+These responses point toward two related problems. 
+27
+The first is the cost of rehabilitating the building itself. Older buildings frequently require
+work that is not immediately visible before demolition or construction begins. 
+The second is the economic performance of the completed property. Even when
+rehabilitation is technically possible, the resulting property may not generate enough rent, 
+business income, or appraised value to justify the total investment. 
+One respondent summarized the problem particularly well, noting that rehabilitation of historic
+buildings can become a “labor of love” rather than a sound business decision because
+completed projects seldom appraise for an amount approaching the actual construction cost. 
+Another respondent described the difficulty as the inability to know what will be discovered once
+work begins, particularly when opening walls or removing existing improvements triggers
+additional code requirements. 
+Unexpected Costs and Risk
+Three of seven project respondents reported significant unexpected costs after construction
+began. Allthree reported unexpected costs of at least $ 10,000, and two reported unexpected
+costs exceeding $ 25,000. Even respondents who did not report a specific unexpected- cost
+amount repeatedly described uncertainty itself as a major feasibility problem. 
+For an owner or developer, this uncertainty creates risk before a project even begins. Financing
+may be based on an initial construction estimate, but concealed structural, electrical, plumbing, 
+environmental, or code issues can materially change the project after financing has already been
+arranged. This suggests that project feasibility should be evaluated not only according to the
+known construction budget but also according to the owner' s capacity to absorb unforeseen
+costs. 
+Benefits of C-CARE-Assisted Projects
+The survey also provides strong evidence of the broader benefits generated by rehabilitation
+projects. Among the seven substantive project respondents: 
+7 of 7 reported improved appearance. 
+5 of 7 reported increased property value. 
+5 of 7 reported improved building safety or functionality. 
+3 of 7 reported increased usable or leasable space. 
+3 of 7 reported helping retain an existing business. 
+2 of 7 reported that a vacant building or space became occupied. 
+2 of 7 reported helping attract a tenant. 
+One reported that the project allowed an existing business to expand. 
+These findings are important because the public benefit extends beyond the individual property
+owner. Rehabilitation can contribute to occupancy, business retention, property values, public
+safety, neighborhood appearance and additional private investment. 
+28
+One respondent specifically noted that improvements to their building appeared to encourage
+investment by other property owners in the same downtown block and generated positive
+comments from residents about the improvement of that portion of Main Street. 
+Assistance Property Owners Would Find Most Useful
+Respondents were also asked which forms of assistance would be most helpful for future
+projects. The strongest recurring requests were: 
+Code compliance assistance and larger grants for major rehabilitation projects. 
+There was also significant interest in electrical/ plumbing/ mechanical assistance, façade
+grants, interior renovation assistance, assistance for vacant buildings, low-interest loans, 
+architectural or engineering assistance, environmental remediation and pre- development
+or feasibility assistance. 
+The responses support maintaining relatively simple assistance for smaller projects while
+providing the C-CAREBoard with greater flexibilityfor larger or more complicated projects. 
+In particular, the results support the concept behind the Special Projects Grant: rather than
+attempting to anticipate every possible building problem with a separate grant program, C-CARE
+can evaluate larger projects according to the actual feasibility gap and the public benefit
+produced by the investment. 
+Overall Conclusion
+While the number of responses remains limited, the survey provides a consistent initial message. 
+Renovating older downtown buildings in Cañon City is often economically difficult because
+rehabilitation costs can exceed what the property' s eventual value, rent, or business income can
+reasonably support. That challenge is compounded by uncertainty about hidden conditions and
+code requirements that may not become apparent until construction begins. 
+Atthe same time, the survey demonstrates that successful rehabilitation projects create benefits
+extending beyond the individual property owner. They improve appearance and safety, increase
+property value, create usable commercial space, retain businesses, attract tenants, return
+vacant properties to productive use and can encourage additional investment nearby. 
+The results therefore support continuing C-CARE's smaller, easily accessible grant programs
+while also maintaining a flexible tool for larger projects where a documented feasibility gap exists
+and the proposed investment produces meaningful public benefit. 
+29
+C-CAREGRANTPROGRAM
+Feasibility Gap Survey Overview Report
+8
+Total responses
+7
+Responses with project information
+7 of 7
+Reported improved appearance
+ExecutiveSummary
+The survey provides a small but consistent picture of the feasibility challenge associated with rehabilitating
+older commercial buildings in downtown Cañon City. Seven respondents supplied substantive information
+about completed or proposed projects, all in the downtown area between 1st and 9th Streets. The sample is not
+large enough to be statistically representative, but the responses show recurring themes that are useful for
+program design and board discussion. 
+The central finding is that the feasibility problem is not simply that construction is expensive. Respondents
+described a recurring gap between the amount that must be invested in older buildings and what the completed
+property can support through appraisal, rent, or business income. That gap is compounded by uncertainty: 
+hidden conditions, structural needs and code requirements may not become known until construction is
+underway. 
+Keyfindings
+Building age and condition was the most frequently identified feasibility barrier, cited by 5 of 7 project
+respondents; construction costs and building code requirements were each cited by 4 of 7. 
+Three respondents reported significant unexpected costs after work began; all three reported at least
+10, 000 in unexpected costs, and two reported more than $ 25, 000. 
+The estimated feasibility gap ranged from $5,000-$9,999 to $100,000 or more, showing that the size of
+the gap varies substantially by project. 
+Every project respondent reported improved property appearance; 5 of 7 reported increased property
+value and 5 of 7 reported improved safety or functionality. 
+Code compliance assistance and larger grants for major rehabilitation were the most frequently
+selected forms of future assistance among substantive project respondents. 
+SurveyMethod:  
+The workbook contains eight responses. Seven respondents provided project- specific information; one
+respondent answered only the future- assistance question and meeting- related questions. Unless otherwise
+noted, project findings and the charts in this report use the seven substantive project responses. Several survey
+questions allowed multiple selections, so category totals can exceed the number of respondents. 
+30
+C-CAREUrban Renewal Authority  |  October 2026
+1. Barriers to Rehabilitation Feasibility
+Finding. The strongest concentration is around the physical condition of older buildings, construction cost and
+code compliance. Respondents also identified structural, building- systems, fire/ life-safety, appraisal and
+income limitations. Together, these responses indicate that the feasibility gap can be driven by both the cost
+side of a project and the limited economic value created after rehabilitation. 
+2. Benefits Produced by Completed Projects
+Finding. The reported benefits extend beyond cosmetic improvement. Respondents identified increases in
+property value, building safety and functionality, usable or leasable space, business retention, tenant attraction
+and occupancy of previously vacant space. Thisprovides evidence that rehabilitation assistance can generate
+broader redevelopment and economic- development outcomes. 
+31
+C-CAREUrban Renewal Authority  |  October 2026
+3. Assistance Considered Most Useful
+Finding. The responses favor flexibility. Code compliance assistance and larger grants for major rehabilitation
+projects were selected most often, while respondents also expressed interest in building- systems assistance, 
+façade and interior grants, vacant- building assistance and low-interest loans. Thepattern supports retaining
+straightforward assistance for smaller projects while maintaining a flexible tool for larger, more complicated
+rehabilitation needs. 
+32

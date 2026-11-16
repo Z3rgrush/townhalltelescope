@@ -1,36 +1,6 @@
 # avon
 
-## [avon#0] 2026-08-11 | Town Council | minutes
-- Financial Analyst Chase Simmons, Public Works Director Mike Jackson, Community Development Director
-- Matt Pielsticker, Senior Planner Jena Skinner, Housing Planner Patti Liermann, Building Official Derek
-- Place, Recreation Director Michael Labagh, IT Administrator Andrew Bare, and Police Chief Greg Daly
-- 2. APPROVAL OF AGENDA
-- Mayor Underwood opened consideration of the agenda and noted her desire for a brief discussion
-- regarding the written reports. No amendments to the agenda were proposed. Councilor Brooks moved to
-- approve the agenda as presented. Councilor Stanley seconded the motion. The motion passed
-- 4. PUBLIC COMMENT
-- Mayor Underwood explained the public comment process, including the available methods for providing
-- parking program at Hoffman Properties, which he indicated was discontinued because of actions taken by
-- about the program. Mr. McMahon referenced reports that the Los Angeles Police Department had allowed
-- its contract with Flock Safety to expire and stated that concerns regarding the use of the cameras would
-- cameras. Mr. Slater discussed his professional technology background and described research he had
-- conducted related to the Flock camera system, including review of public records, contracts, presentations,
-- Kathleen Walsh, an Avon resident, addressed Council virtually regarding a recent community housing
-- for additional opportunities for neighborhood participation and input regarding community housing
-- No additional public comment was received at that time, either in person or virtually
-- stated that Council would continue evaluating information and anticipated further discussion of the matter
-- later in the year. He also invited Mr. Slater to contact him directly to discuss the information he wished to
-- share. Regarding community housing outreach, Mr. Heil explained that the referenced meeting was
-- additional opportunities for public comment would be available during future Town Council public hearings
-- encouraged interested residents to meet with him to obtain a nomination packet and discuss the process,
-- noting that appointments could be scheduled by email or in person, subject to availability
-- 5.1. ACTION: Approval of July 28, 2026 Regular Council Meeting Minutes (Town Clerk Miguel Jauregui
-- Councilor Stanley moved to approve the Consent Agenda, as presented. Councilor Thuon seconded the
-- 6.1. PRESENTATION: Salvation Army Programs & Services Update (Service Extension Director Monica
-- The presentation highlighted the Center's food pantry, social services, community garden and
-- volunteer opportunities available within the community. As this was a presentation to Council, no
-
-## [avon#1] 2026-08-25 | Town Council | minutes
+## [avon#0] 2026-08-25 | Town Council | minutes
 - Development Director Matt Pielsticker, Senior Planner Jena Skinner, Recreation Director Michael Labagh,
 - IT Administrator Carlos Molina, and Deputy Police Chief Coby Cosper
 - 2. APPROVAL OF AGENDA
@@ -60,7 +30,7 @@
 - needed for staff review and analysis. He noted that he had met with residents earlier in the day to discuss
 - technical issues and emphasized that all public feedback is being considered. Mr. Heil stated that
 
-## [avon#2] 2026-09-08 | Town Council | minutes
+## [avon#1] 2026-09-08 | Town Council | minutes
 - Superintendent Kacy Carmichael; IT Administrator Andrew Bare; and Deputy Police Chief Coby Cosper
 - 2. APPROVAL OF AGENDA
 - Mayor Underwood opened consideration of the Agenda. No amendments were proposed. Councilor
@@ -90,7 +60,7 @@
 - Deputy Chief Cosper reported that the Avon Police Department had received 27 calls regarding trash
 - 5.1. ACTION: Approval of August 25, 2026 Regular Council Meeting Minutes (Town Clerk Miguel
 
-## [avon#3] 2026-09-22 | Town Council | minutes
+## [avon#2] 2026-09-22 | Town Council | minutes
 - Development Director Matt Pielstocker; Chief Cultural Officer Danita Dempsey; Recreation Director
 - Michael Labagh; IT Administrator Carlos Molina; and Police Chief Greg Daly
 - 2. APPROVAL OF AGENDA
@@ -120,3 +90,62 @@
 - No additional public comment was received, either in person or virtually
 - Following Public Comment, Mayor Underwood asked Town Manager Eric Heil to respond to questions
 - to be removed as part of future redevelopment activities and associated site excavation. He noted that,
+
+## [avon#3] 2026-10-06 | Town Council | minutes
+- Redmond, Financial Analyst Chase Simmons, Community Development Director Matt Pielsticker, Chief
+- Senior Engineer Keith Ferrell, IT Administrator Andrew Bare, and Police Chief Greg Daly
+- 2. APPROVAL OF AGENDA
+- Mayor Underwood opened consideration of the Agenda. Councilor Stanley moved to approve the Agenda
+- 4. PUBLIC COMMENT
+- Mayor Underwood explained the public comment process, including the available methods for submitting
+- comments and the time allotted to each speaker. No public comment was received, either in person or
+- 5.1. Approval of September 22, 2026, Regular Council Meeting Minutes (Town Clerk Miguel Jauregui
+- 5.2. Approval of Appointments to Colorado Municipal League Policy Committee (Chief Administrative
+- 5.3. Intergovernmental Agreement Colorado Department of Transportation Highway Safety Improvement
+- Project (HSIP) Grant — Post Boulevard Pedestrian Improvements (Senior Engineer Will Kearney)
+- 5.4. Intergovernmental Agreement Avon -Beaver Creek Skier Shuttle (Mobility Manager Jim Shoun)
+- 5.5. Notice of Award Construction Management Support Services (Director of Engineering Eva Wilson)
+- 5.6. Avondale Apartments Construction Manager/General Contractor Agreement (Community
+- Development Director Matt Pielsticker)
+- 5.7. Amendments to Comprehensive Plan for compliance with Colorado Senate Bill 24-174 (Planning
+- Mayor Pro Tern Carroll moved to approve the Consent Agenda as presented. Councilor Stanley seconded
+- 6.1. RESOLUTION 26-15: Support Eagle County School District Ballot Issue 5B (Chief Administrative
+- Chief Administrative Officer Ineke de Jong presented Resolution No, 26-15 expressing support for
+- Eagle County School District Ballot Issue 5B, a proposed mill levy override to provide additional
+- against supporting the ballot issue and the associated tax increase while expressing support for
+- increased teacher compensation. No additional public comment was received. Following Council
+- discussion, Councilor Hyatt moved to approve Resolution No. 26-15. Councilor Stanley seconded
+- Code Enforcement Officer Williams (Chief of Police Greg Daly)
+- Chief of Police Greg Daly introduced a swearing -in and badge pinning ceremony recognizing
+- contributions to the Avon Police Department. No public comment was received, either in person or
+- 6.3. PRESENTATION: Avon Police Department National Night Out Awards (Chief of Police Greg Daly)
+- Chief of Police Greg Daly presented the Avon Police Department Chiefs Community Partnership
+- Awards recognizing local businesses, organizations, and community members for their support of
+
+## [avon#4] 2026-10-27 | Town Council | minutes
+- Financial Officer Paul Redmond, Financial Analyst Chase Simmons, Community Development Director
+- Director Mike Jackson, IT Administrator Andrew Bare, and Police Chief Greg Daly. Town Attorney Nina P
+- 2. APPROVAL OF AGENDA
+- Mayor Underwood opened consideration of the Agenda. Councilor Stanley moved to approve the Agenda
+- 4. PUBLIC COMMENT
+- Mayor Underwood explained the public comment process, including the available methods for submitting
+- Councilors nevertheless voted in favor of retaining the cameras and requested that Public Works remove
+- the cameras if removal by Flock would be delayed, No other public comment was received, either in person
+- 5.1. RESOLUTION 26.18: Adopting a Fast Track Priority Scheduling Policy for Community Housing
+- Projects (Town Manager Eric Heil)
+- Mayor Pro Tern Carroll moved to approve the Consent Agenda as presented. Councilor Brooks seconded
+- 6.1. WORK SESSION: 2027 Budget Review (All Funds) (Chief Financial Officer Paul Redmond and
+- budget, including the budget timeline, community and economic outlook, financial policies, revenues
+- and expenditures, fund balances, reserves, debt obligations, capital improvement projects, staffing
+- and personnel costs, and long-term financial projections. Staff presented a balanced General Fund
+- budget and projected 2027 revenues of approximately $64.1 million across all funds, while
+- discussing reserve levels and continued investment in housing, infrastructure, recreation, mobility,
+- recreation cost recovery and fees, boat rental operations, grant funding, employee compensation
+- and staffing, the Capital Improvement Program, and funding and policy considerations for Dancing
+- in the Park, Lakeside Cinema, wildfire mitigation, commercial composting, energy and landscaping
+- rebates, destination marketing, and the Comprehensive Plan. No public comment was received
+- Council provided direction to staff for preparation of the 2027 budget
+- Mayor Underwood discussed the challenges of developing public policy, noting that policy decisions are
+- Councilor Stanley discussed her attendance at Mountain Towns 2030, which she described as informative
+- and noted efforts underway in Vail. She also discussed climate change and the, desire of younger generations
+- statement, identify each speaker, or reflect the proceedings with complete accuracy. The most accurate record of the meeting is

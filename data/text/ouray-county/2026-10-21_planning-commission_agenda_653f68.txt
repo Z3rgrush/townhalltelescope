@@ -28,7 +28,7 @@ MEMO
  ____________________________________________________________________________ 
 As directed by the BOCC, Land Use, Legal, and the Planning Commission have been working on 
 proposed revisions to the Land Use Code as outlined in Resolution No. 2024- 029 (attached). 
-Additionally, edits to code sections were made regarding the on-going discussions on a possible 
+Additionally, edits to code sections were made regarding the on- going discussions on a possible 
 ‘bonus adu’ concept (shown in blue text – other changes shown in red text). Staff made every 
 effort to simply cut/paste these changes from previously circulated documents (also in packet) 
 and does not comment in the proposed changes in this memo.  
@@ -155,7 +155,7 @@ prosecute a civil infraction zoning citation, instead of only using law enforcem
 infraction citation without an attorney present, as bizarre as that sounds. This leaves the 
 only feasible option of non-law-enforcement filings into county court as a civil legal action 
 through the normal process that seeks $100 in daily penalties under state statute after an 
-NOV is issued and $500-$1000 in initial fines are sought via civil court order, and then if 
+NOV is issued and $500 -$1000 in initial fines are sought via civil court order, and then if 
 there is something highly serious or substantial, we can also request a civil 
 injunction/abatement in district court. This new civil process, with its major quirks and 
 inefficiencies, applies for both building code and Land Use code violations under state 
@@ -190,7 +190,7 @@ prevent contamination from tailing piles and similar.
 However, it could be simpler to have this CDPHE referral process hard -wired in Code, 
 instead of in an informal MOU/IGA that could be changed and would need to be drafted 
 (nothing has been drafted yet with an MOU – just preliminary discussions with state and 
-local regulators as brain-storming for presentation to the policy-makers). This draft Code 
+local regulators as brain-storming for presentation to the policy -makers). This draft Code 
 language has also been provided to the State, and CDPHE has now requested to work 
 directly with the County Planner on any proposed changes here, to discuss possible 
 mandatory CDPHE referrals for certain types of high-country development.  
@@ -214,14 +214,14 @@ not Land Use Department, which results in a small amount of revenue for filing f
 - 13.12.A (LP): Changes made due to the International Code Council Codes (IBC, IRC, 
 IECC, IEBC, etc.) being use, not the Uniform Building Codes. 
 - 13.12.A.1 (LP): Generally the scope of the IBC/IRC or other building codes applies to both 
-building codes and “structures.” This is intended to close potential sought-after loopholes 
+building codes and “structures.” This is intended to close potential sought -after loopholes 
 with structures that may not be defined as “buildings,” such as underground structures 
 and similar. Of course, Land Use does not have time to regulate every single mailbox or 
 tree-house “structure:, but additional regulatory flexibility is needed here.  
 - 13.12.B (LP): This is just a starting point to require expert reports, safety measures, and 
 alternative excavation measures before blasting occurs for residential and commercial 
 development. This is a special concern as development “crawls” up the hills in certain 
-areas with extreme terrain features. Blasting regulations could also be parked in a stand-
+areas with extreme terrain features. Blasting regulations could also be parked in a stand -
 alone blasting/fire ordinance, but that project has been somewhat delayed due to the 
 development of a potential county -wide Fire & EMS Authority with potential fire code 
 authority. It may also be advisable to consider a stand- alone sub-section at the end of 
@@ -328,7 +328,7 @@ enthusiasts, and various races and community events.
 OTHER SECTION 3,  ZONING CONSIDERATIONS: 
 - Need to determine which zones will allow the new proposed uses of: Event Venue, Guest 
 Lodge Tier 1, Guest Lodge Tier 2. 
-- T here was discussion while reviewing Section 2 around not allowing the new commercial 
+- There was discussion while reviewing Section 2 around not allowing the new commercial 
 uses in the High Alpine area of the county. 
 - There was discussion while reviewing Section 2 around the possibility of limiting the size 
 of yurts. There was concern around a possible 2000sf yurt for example. Research 
@@ -353,7 +353,7 @@ prosecute a civil infraction zoning citation, instead of only using law enforcem
 infraction citation without an attorney present, as bizarre as that sounds. This leaves the 
 only feasible option of non-law-enforcement filings into county court as a civil legal action 
 through the normal process that seeks $100 in daily penalties under state statute after an 
-NOV is issued and $500-$1000 in initial fines are sought via civil court order, and then if 
+NOV is issued and $500 -$1000 in initial fines are  sought via civil court order, and then if 
 there is something highly serious or substantial, we can also request a civil 
 injunction/abatement in district court. This new civil process, with its major quirks and 
 inefficiencies, applies for both building code and Land Use code violations under state 
@@ -388,7 +388,7 @@ prevent contamination from tailing piles and similar.
 However, it could be simpler to have this CDPHE referral process hard- wired in Code, 
 instead of in an informal MOU/IGA that could be changed and would need to be drafted 
 (nothing has been drafted yet with an MOU – just preliminary discussions with state and 
-local regulators as brain-storming for presentation to the policy-makers). This draft Code 
+local regulators as brain-storming for presentation to the policy -makers). This draft Code 
 language has also been provided to the State, and CDPHE has now requested to work 
 directly with the County Planner on any proposed changes here, to discuss possible 
 mandatory CDPHE referrals for certain types of high-country development.  
@@ -412,14 +412,14 @@ not Land Use Department, which results in a small amount of revenue for filing f
 - 13.12.A (LP): Changes made due to the International Code Council Codes (IBC, IRC, 
 IECC, IEBC, etc.) being use, not the Uniform Building Codes. 
 - 13.12.A.1 (LP): Generally the scope of the IBC/IRC or other building codes applies to both 
-building codes and “structures.” This is intended to close potential sought-after loopholes 
+building codes and “structures.” This is intended to close potential sought -after loopholes 
 with structures that may not be defined as “buildings,” such as underground structures 
 and similar. Of course, Land Use does not have time to regulate every single mailbox or 
 tree-house “structure:, but additional regulatory flexibility is needed here.  
 - 13.12.B (LP): This is just a starting point to require expert reports, safety measures, and 
 alternative excavation meas ures before blasting occurs for residential and commercial 
 development. This is a special concern as development “crawls” up the hills in certain 
-areas with extreme terrain features. Blasting regulations could also be parked in a stand-
+areas with extreme terrain features. Blasting regulations could also be parked in a stand -
 alone blasting/fire ordinance, but that project has been somewhat delayed due to the 
 development of a potential county -wide Fire & EMS Authority with potential fire code 
 authority. It may also be advisable to consider a stand- alone sub-section at the end of 
@@ -454,24 +454,24 @@ WHEREAS, on September 25, 2012 the Board of County Commissioners of Ouray County
 priorities for modifications and amendments to the Ouray County Land Use Code ("Code"); and 
 WHEREAS, Resolution 2012-028 specifically provided that the priorities set forth in such Resolution 
 would be revisited in six months to "assess progress and reevaluate priorities"; and 
-WHEREAS, additional Code priorities and revisions were further set forth in Resolution No. 2019-007 ; 
+WHEREAS, additional Code priorities and revisions were further set forth in Resolution No. 2019-007; 
 WHEREAS, the Planning Commission is currently immersed in a review and update of the Ouray County 
 Master Plan with an anticipated completion in January or February 2024; and 
 WHEREAS, where applicable and not addressed through an adopted Ordinance, the Planning 
 Commission will, where reasonably practicable, begin working on review and planning for the next priority code 
 update project. 
-NOW THEREFORE , BE IT RESOLVED BY THE BOARD OF COUNTY COMMISSIONERS OF OURAY 
+NOW THEREFORE, BE IT RESOLVED BY THE BOARD OF COUNTY COMMISSIONERS OF OURAY 
 COUNTY, COLORADO, AS FOLLOWS: 
 1. The Board directs Planning Commission and/or Land Use Staff to begin or continue reviewing the 
-following topics or Code sections in approximate priority order : 
+following topics or Code sections in approximate priority order: 
 a. Complete Master Plan Revisions (in progress, Planning Commission+ Staff). May require 
-additional work on Recreational Master Plan (High Priority) . 
+additional work on Recreational Master Plan (High Priority). 
 b. Complete revisions for Short-Term Rental Ordinance, 2018-003 (in progress, Staff) (High 
 Priority). 
 c. Blasting Permitting Ordinance, Including Potential Fireworks and Open Fires Ordinance 
 Revisions to Ordinance 2012-011 and Ordinance 2002-001 (Staff) (High Priority). 
 d. Revise Land Use Code Section 2 and 3, including but not limited to (Planning Commission+ 
-Staff) (High Priority) : 
+Staff) (High Priority): 
 i. Floor Area 
 ii. Historically Significant Structures 
 iii. Flood Hazard Area 
@@ -481,11 +481,11 @@ vi. Bonus ADU Concept & Other Affordable Housing Initiatives
 vii. Yurts & Huts 
 viii. Commercial Campgrounds & Similar Uses 
 ix. IGAs, UGMA, AOI Cleanup to Section 3 
-x. Definition of Restricted "Sleeping Unit" for B&Bs . 
+x. Definition of Restricted "Sleeping Unit" for B&Bs. 
 xi. Tundra Definition tied to Wildlife Biologist or other Professional ";\ssessment 
-e. Enact "Areas and Activities of State Interest" Le. "1041 Regulations" under C.R.S. § 24-65 .1-
-101, as Possible new Land Use Code section (Plann ing Commission+ Staff (High Priority) . 
-f. Revise Non-Commercial Camping Ordinances , No. 2014-001 and 2015-002 , Including 
+e. Enact "Areas and Activities of State Interest" Le. "1041 Regulations" under C.R.S. § 24-65.1-
+101, as Possible new Land Use Code section (Planning Commission+ Staff (High Priority). 
+f. Revise Non-Commercial Camping Ordinances, No. 2014-001 and 2015-002, Including 
 Amended Definitions for Guides & Trespass Fees (Staff) (Medium Priority). 
 g. Grading & Excavation Permitting, which may be addressed through Land Use Code revisions 
 or new Ordinance) (Staff, and Possibly Planning Commission depending on context) 
@@ -503,7 +503,7 @@ section drafts based upon input from Planning Commission and Staff.
 sections or revisions, as applicable, and make a formal recommendation to the Board of County 
 Commissioners regarding changes or updates to the Land Use Code. 
 Approved and adopted this 21'~ day of fbt.q,itSt: , 2024. 
-V · f f "' • .. ..en ~ t.. uw , r-n , p A~ e:fl -t- ·N ~ tlx ollng or: vVM.11\A·,5~0 ,,.,,~~ Q ,--..,rrV\.C- 1, - J 
+V · f f "' • .. ..en~ t.. uw , r-n , p A~ e:fl -t- ·N ~ tlx ollng or: vVM.11\A·,5~0,,.,,~~Q ,--..,rrV\.C- 1, - J 
 Voting Against: NO t-->f 
 Cristy Lynn, Clerk and Recorder 
 BOARD OF COUNTY COMMISSIONERS 
@@ -527,7 +527,7 @@ water resources, and other environmental qualities and that does not unduly burd
 the County’s residents or its governments. 
 C. The intent of the County zones is to achieve across  the zones, the overall goal of the 
 Master Plan.  This goal includes, in alphabetical order, specific goals for agricultural 
-lands, c ounty/municipal relationships, economic development, housing, natural 
+lands, county/municipal relationships, economic development, housing, natural 
 resources, rural character, touris m, transportation, utilities, visually significant areas, 
 and wildlife and plant habitats. 
 D. The specific intent of each of the zones that follow shall be read in conjunction with 
@@ -597,7 +597,7 @@ Rev. 102126 Draft
  
 Section 3 – Zoning 
 Page 3 of 18 
-(2) Colona Zone    7 Dwelling Units pe r Acre  
+(2) Colona Zone    7 Dwelling Units per Acre  
 (3) High Mesa Zone   1 Dwelling Unit per 35 Acres 
 (4) North Mesa Zone   1 Dwelling Unit per 6 Acres  
 (5) South Mesa Zone   1 Dwelling Unit per 6 Acres  
@@ -1050,7 +1050,7 @@ This Section may be further interpreted and administered pursuant to
 Intergovernmental Agreements with the Municipalities and , shall automatically 
 lapse with respect to any Municipality if an Intergovernmental  Agreement is 
 terminated with regards to the Overlay Districts.   
-B. D efinitions:  
+B. D efinitions: 
 (1) Area of Influence ( “AOI”).  An area of unincorporated land wherein 
 development or use of land has an impact upon the adjoining municipality. 
 (2) Urban Development.  Development that  conforms to the standards of moderate 
@@ -1547,7 +1547,7 @@ excavation or disturbance of materials in excess of five (5) cubic yards to the
 Colorado Department of Public Health and Environment, unless waived by 
 that agency, and Staff may also require a materials management  plan and 
 other submissions as part of the permitting process.  
-I. The County shall approve and issue a High Alpine Site Development Permit upon the 
+I. The County shall approve and issue a High Alpine  Site Development Permit upon the 
 Applicant demonstrating to the satisfaction of the County that all of the following 
 criteria have been met: 
 (1) The proposed construction shall comply with all provisions stated in this Section 
@@ -1728,7 +1728,7 @@ without compensation for service on the Board.  Each member shall serve for thre
 (3) years, but may be reappointed for multiple terms.   The terms of the members 
 shall be staggered so that the term of one member will expire each year.  Any 
 member of the Board may be replaced or removed for cause by the BOCC  upon 
-written charges and after a public hearing.  Vacancies shall be filled for any vacancy 
+written charges and after a publi c hearing.  Vacancies shall be filled for any vacancy 
 whether due to removal, resi gnation, death, or unexcused absence from three 
 consecutive meeting by the BOCC for the remainder of the term.  An alternate 
 member may take the place of a member on a tempor ary basis in the event that a 
@@ -1859,128 +1859,128 @@ Planning Boards shall review those applications for development as outlined unde
 Section 3.9 of this Code.  The Joint Planning Boards will not have the authority to 
 adopt a master plan pursuant  to Section 30- 28-106(1) of the Colorado Revised 
 Statutes. 
-/0/1 /2 /3 /i255 /5 /1 /6 /7 /2 /8 /9 /1 /10 /11 /i255 /12/13/14 /1 /6 /7 /2 /8 /9 /1 /10 /11/15/8 /16 /2 /1 /17 /14 /8 /18 /19 /8 /20 /21
-/22/16 /2 /1 /17 /i255 /5 /8 /16 /23 /7 /17 /i255 /2 /11 /20 /24 /6 /24 /8 /23 /6 /i255 /7 /8 /i255 /25 /16 /24 /10 /9 /24 /23 /19 /i255 /6 /11 /7 /26 /25 /1 /14 /3 /6
-/27 /i255/29/30 /31 /31 /32 /33 /30
-/34 /8 /25 /i255 /35 /8 /36 /23 /6 /8 /23 /i255/37 /38 /39 /38 /40/41/42 /40 /32 /42 /43 /44 /45 /43 /39/29/46 /47 /44 /48 /49 /i255/50/43 /51 /i255 /27 /52 /49 /i255 /53 /54/53 /55 /i255 /32 /51 /i255 /55 /56 /52 /54 /i255 /57 /58
-/47 /39 /56 /i255/58/32 /42 /59 /i255 /60 /32 /31 /51 /42/39 /61 /32 /62 /30 /i255 /37/29/43 /32 /31 /51 /42 /39 /61 /32 /62 /30/41/39 /48 /42 /32 /63 /43 /39 /45 /33 /39 /64 /46
-/60 /43 /56 /i255 /65/29/38 /39 /33 /33 /31 /i255 /66/44 /67 /51 /30/29/39 /48 /68 /51 /32 /67 /68 /64 /30 /68 /51 /48 /42 /30 /31 /45 /68 /30 /51 /65 /i255 /37/29/38 /39 /33 /33 /31/41/66 /44 /67 /51 /30/29/39 /48 /68 /51 /32 /67 /68 /64 /30 /68 /51 /48 /42 /30 /31 /45 /68 /30 /51 /46 /49 /i255 /69 /i255 /70 /i255 /37 /42 /67 /61 /33 /30 /62 /67 /68 /30 /71 /71/41/33 /29/32 /67 /62 /45 /43 /39 /29/46 /49 /i255/58/i255 /72 /67 /31 /51 /39 /42 /67 /39
-/37/29/73 /67 /31 /51 /39 /42 /67 /39 /27 /27 /41/33/29/32 /67 /62 /45 /43 /39/29/46
-/74 /30 /32 /42 /i255/58/42 /45 /i255 /60 /32 /31/51 /42 /39 /61 /32 /62 /30 /49
+/0/1 /2/3/i255/5/1/6/7/2/8/9/1/10/11/i255/12 /13/14 /1/6/7/2/8/9/1/10/11 /15/8 /16/2/1/17/14/8/18/19/8/20/21
+/22/16 /2/1/17/i255/5/8/16/23/7/17/i255/2/11/20/24/6/24/8/23/6/i255/7/8/i255/25/16/24/10/9/24/23/19/i255/6/11/7/26/25/1/14/3/6
+/27/i255 /29/30 /31/31/32/33/30
+/34/8/25/i255/35/8/36/23/6/8/23/i255 /37/38/39/38/40 /41/42 /40/32/42/43/44/45/43/39 /29/46 /47 /44/48/49/i255 /50/43 /51/i255/27/52/49/i255/53/54 /53/55/i255/32/51/i255/55/56/52/54/i255/57/58
+/47/39/56/i255 /58/32 /42/59/i255/60/32/31/51/42 /39/61/32/62/30/i255/37 /29/43 /32/31/51/42/39/61/32/62/30 /41/39 /48/42/32/63/43/39/45/33/39/64/46
+/60/43/56/i255/65 /29/38 /39/33/33/31/i255/66 /44/67/51/30 /29/39 /48/68/51/32/67/68/64/30/68/51/48/42/30/31/45/68/30/51/65/i255/37 /29/38 /39/33/33/31 /41/66 /44/67/51/30 /29/39 /48/68/51/32/67/68/64/30/68/51/48/42/30/31/45/68/30/51/46/49/i255/69/i255/70/i255/37/42/67/61/33/30/62/67/68/30/71/71 /41/33 /29/32 /67/62/45/43/39/29 /46/49/i255 /58/i255 /72/67/31/51/39/42/67/39
+/37/29/73 /67/31/51/39/42/67/39/27/27/41 /33/29/32 /67/62/45/43/39 /29/46
+/74/30/32/42/i255 /58/42 /45/i255/60/32/31 /51/42/39/61/32/62/30/49
 /i255
-/58/67/59 /30 /i255 /75 /39 /33 /33 /31 /i255 /32/68 /61 /i255 /69 /39 /38 /62 /30 /i255 /70 /30 /62 /62 /30 /42 /i255 /62 /30 /51 /i255/29/30 /i255 /59 /68 /39 /66 /i255 /51 /44 /32 /51 /i255 /51 /44 /30 /i255 /60 /39 /48 /68 /51 /63 /i255 /67 /31 /i255 /43 /39 /68 /31 /67 /61 /30 /42 /67 /68 /33 /i255 /42 /30 /64 /67 /31 /67 /68 /33 /i255 /31 /30 /51 /76 /38 /32 /43 /59 /31 /i255 /32 /62 /39 /68 /33 /i255 /60 /39 /48 /68 /51 /63 /i255 /32 /68 /61/i255 /73 /42 /67 /64 /32 /51 /30
-/42 /39 /32 /61 /31 /49
-/32 /68 /61 /i255 /51 /44 /32 /51 /i255 /63 /39 /48 /49/i255 /32 /68 /61 /i255 /63 /39 /48 /42 /i255 /31 /51 /32 /77 /77 /49 /i255 /i255 /32 /42 /30 /i255 /73 /42 /30 /73 /32 /42 /67 /68 /33 /i255 /67 /68 /77 /39 /42/29/32 /51 /67 /39 /68 /i255 /51 /39 /i255 /38 /30 /i255 /31 /30 /68 /51 /i255 /51 /39 /i255 /51 /44 /30 /i255 /60 /39 /48 /68 /51 /63 /78 /31 /i255 /72 /62 /32 /68 /68 /67 /68 /33 /i255 /60 /39/29/29/67 /31 /31 /67 /39 /68 /i255 /39 /68 /i255 /51 /44 /67/31 /i255/29/32 /51 /51 /30 /42 /i255 /51 /44 /67 /31
-/29/39 /42 /68 /67 /68 /33 /45
-/57 /68 /61 /49 /i255 /79 /i255 /42 /30 /80 /48 /30 /31/51 /i255 /51 /44 /32 /51 /i255 /63 /39 /48 /i255 /73 /62 /30 /32 /31 /30 /i255 /67 /68 /43 /62 /48 /61 /30 /i255 /51 /44 /67 /31 /i255 /30/29/32 /67 /62 /i255 /39 /77 /i255/29/67/68 /30 /i255 /67 /68 /i255 /51 /44 /32 /51 /i255 /73 /32 /43 /59 /30 /51 /i255 /39 /77 /i255 /67 /68 /77 /39 /42/29/32 /51 /67 /39 /68 /45
+/58/67 /59/30/i255/75/39/33/33/31/i255/32 /68/61/i255/69/39/38/62/30/i255/70/30/62/62/30/42/i255/62/30/51/i255 /29/30 /i255/59/68/39/66/i255/51/44/32/51/i255/51/44/30/i255/60/39/48/68/51/63/i255/67/31/i255/43/39/68/31/67/61/30/42/67/68/33/i255/42/30/64/67/31/67/68/33/i255/31/30/51/76/38/32/43/59/31/i255/32/62/39/68/33/i255/60/39/48/68/51/63/i255/32/68/61 /i255/73/42/67/64/32/51/30
+/42/39/32/61/31/49
+/32/68/61/i255/51/44/32/51/i255/63/39/48/49 /i255/32/68/61/i255/63/39/48/42/i255/31/51/32/77/77/49/i255/i255/32/42/30/i255/73/42/30/73/32/42/67/68/33/i255/67/68/77/39/42 /29/32 /51/67/39/68/i255/51/39/i255/38/30/i255/31/30/68/51/i255/51/39/i255/51/44/30/i255/60/39/48/68/51/63/78/31/i255/72/62/32/68/68/67/68/33/i255/60/39 /29/29/67 /31/31/67/39/68/i255/39/68/i255/51/44/67 /31/i255 /29/32 /51/51/30/42/i255/51/44/67/31
+/29/39 /42/68/67/68/33/45
+/57/68/61/49/i255/79/i255/42/30/80/48/30/31 /51/i255/51/44/32/51/i255/63/39/48/i255/73/62/30/32/31/30/i255/67/68/43/62/48/61/30/i255/51/44/67/31/i255/30 /29/32 /67/62/i255/39/77/i255 /29/67 /68/30/i255/67/68/i255/51/44/32/51/i255/73/32/43/59/30/51/i255/39/77/i255/67/68/77/39/42 /29/32 /51/67/39/68/45
 /i255
-/72 /62 /30 /32/31 /30 /i255 /43 /39 /68 /31 /67 /61 /30 /42 /i255 /42 /30 /64 /67 /31 /67 /68 /33 /i255 /51 /44 /30 /i255 /31 /30 /51 /76 /38 /32 /43 /59 /31 /i255 /32 /62 /39 /68 /33 /i255 /5 /8 /16 /23 /7 /17 /i255 /2 /8 /1 /9 /6 /i255 /66 /67 /51 /44 /67 /68 /49 /i255 /39 /42 /i255 /38 /39 /42 /61 /30 /42 /67 /68 /33 /49 /i255 /51 /44 /30 /i255 /81 /32 /62 /62 /30 /63 /49 /i255 /57 /62 /73 /67 /68 /30 /49
-/32 /68 /61 /i255/82 /39 /48 /51 /44 /i255 /82 /62 /39 /73 /30 /i255 /83 /39 /68 /30 /31 /i255 /51 /39 /i255/84 /85 /85 /i255 /86 /11 /11 /7 /i255/77 /42 /39/29/i255 /51 /44 /30 /i255 /73 /42 /39 /73 /30 /42 /51 /63 /i255 /62 /67 /68 /30 /31 /i255 /32 /62 /39 /68 /33 /i255 /51 /44 /30 /i255 /60 /39 /48 /68 /51 /63 /i255 /42 /39 /32 /61 /31 /49 /i255 /32 /68 /61 /i255 /51 /39 /i255/87 /85 /i255 /77 /30 /30 /51
-/77 /42 /39 /29/i255 /32 /62 /62 /i255 /39 /51 /44 /30 /42 /i255 /73 /42 /39 /73 /30 /42 /51 /63 /i255 /62 /67 /68 /30 /31 /45 /45 /i255
+/72/62/30/32 /31/30/i255/43/39/68/31/67/61/30/42/i255/42/30/64/67/31/67/68/33/i255/51/44/30/i255/31/30/51/76/38/32/43/59/31/i255/32/62/39/68/33/i255/5/8/16/23/7/17/i255/2/8/1/9/6/i255/66/67/51/44/67/68/49/i255/39/42/i255/38/39/42/61/30/42/67/68/33/49/i255/51/44/30/i255/81/32/62/62/30/63/49/i255/57/62/73/67/68/30/49
+/32/68/61/i255 /82/39/48/51/44/i255/82/62/39/73/30/i255/83/39/68/30/31/i255/51/39/i255 /84/85/85/i255/86/11/11/7/i255 /77/42/39 /29/i255 /51/44/30/i255/73/42/39/73/30/42/51/63/i255/62/67/68/30/31/i255/32/62/39/68/33/i255/51/44/30/i255/60/39/48/68/51/63/i255/42/39/32/61/31/49/i255/32/68/61/i255/51/39/i255 /87/85/i255/77/30/30/51
+/77/42/39/29 /i255/32/62/62/i255/39/51/44/30/42/i255/73/42/39/73/30/42/51/63/i255/62/67/68/30/31/45/45/i255
 /i255
-/72 /62 /30 /32/31 /30 /i255 /32 /62 /31 /39 /i255 /43 /39 /68 /31 /67 /61 /30 /42 /i255 /42 /30 /64 /67 /31 /67 /68 /33 /i255 /51 /44 /30 /i255 /31 /30 /51 /76 /38 /32 /43 /59 /31 /i255 /32 /62 /39 /68 /33 /i255 /88 /2 /24 /20 /1 /7 /11 /i255 /i255 /2 /8 /1 /9 /6 /i255 /66 /67 /51 /44 /67 /68 /49 /i255 /39 /42 /i255 /38 /39 /42 /61 /30 /42 /67 /68 /33 /49 /i255 /51 /44 /30 /i255 /81 /32 /62 /62 /30 /63 /49 /i255 /57 /62 /73 /67 /68/30 /49
-/32 /68 /61 /i255/82 /39 /48 /51 /44 /i255 /82 /62 /39 /73 /30 /i255 /83 /39 /68 /30 /31 /i255 /51 /39 /i255/87 /85 /i255 /77 /30 /30 /51 /i255/77 /42 /39/29/i255 /32 /62 /62 /i255 /73 /42 /39 /73 /30 /42 /51 /63 /i255 /62 /67 /68 /30 /31 /45
+/72/62/30/32 /31/30/i255/32/62/31/39/i255/43/39/68/31/67/61/30/42/i255/42/30/64/67/31/67/68/33/i255/51/44/30/i255/31/30/51/76/38/32/43/59/31/i255/32/62/39/68/33/i255/88/2/24/20/1/7/11/i255/i255/2/8/1/9/6/i255/66/67/51/44/67/68/49/i255/39/42/i255/38/39/42/61/30/42/67/68/33/49/i255/51/44/30/i255/81/32/62/62/30/63/49/i255/57/62/73/67/68 /30/49
+/32/68/61/i255 /82/39/48/51/44/i255/82/62/39/73/30/i255/83/39/68/30/31/i255/51/39/i255 /87/85/i255/77/30/30/51/i255 /77/42/39 /29/i255 /32/62/62/i255/73/42/39/73/30/42/51/63/i255/62/67/68/30/31/45
 /i255
-/47 /44 /32 /68 /59 /i255 /63 /39 /48 /45
+/47/44/32/68/59/i255/63/39/48/45
 /i255
-/34 /8 /25 /i255 /35 /8 /36 /23 /6 /8/23
-/89 /11 /24 /10 /10 /17 /i255 /35 /8 /36 /23/6 /8 /23/i255/57 /42 /43 /44 /67 /51 /30 /43 /51 /48 /42 /30
-/71 /53 /54 /45 /90 /91 /90 /45 /55/55 /54 /52/i255/58/50/75 /79 /93 /94
-/38 /39 /38 /40/41/42 /40 /32 /42/43 /44 /45 /43 /39 /29
+/34/8/25/i255/35/8/36/23/6/8 /23
+/89/11/24/10/10/17/i255/35/8/36/23 /6/8/23 /i255/57/42/43/44/67/51/30/43/51/48/42/30
+/71/53/54/45/90/91/90/45/55 /55/54/52 /i255/58/50/75 /79/93/94
+/38/39/38/40 /41/42 /40/32/42 /43/44/45/43/39/29
 /i255
 
-/0/1 /2 /3 /i255 /5 /1 /6 /7 /2 /8 /9 /1 /10 /11 /i255 /12/13/14 /1 /6 /7 /2 /8 /9 /1 /10 /11/15/8 /16 /2 /1 /17 /14 /8 /18 /19 /8 /20 /21
-/22 /23 /24 /25 /i255 /26 /27 /28 /i255 /5/29/25 /28 /i255 /30 /28 /31 /32 /27 /32/29/24 /27
-/33 /i255/35/36 /37 /37 /38 /39 /36
-/40 /8 /41 /i255 /42 /11 /10 /10 /17 /i255 /43 /44 /45/44 /46 /36 /47 /47 /48 /49 /50 /33/51/48 /38 /52 /45 /45 /53 /54 /45/35/55 /56/36 /57 /58 /i255/59/54 /60 /i255 /33 /61 /58 /i255 /62 /63 /62/50 /i255 /38 /60 /i255 /33 /63 /64 /65 /66 /i255 /67 /68
-/69 /45 /64 /i255 /70/35/54 /38 /37 /60 /71 /45 /57 /38/47 /36/51/45 /72 /71 /38 /48 /54 /45 /53 /39 /45 /73 /70 /i255 /43/35/54 /38 /37 /60 /71 /45 /57 /38 /47 /36/51/45 /72 /71 /38 /48 /54 /45 /53 /39 /45 /73 /55
-/68/38 /71 /46 /58
-/74 /i255 /75 /72 /37 /60 /i255 /47 /36 /38 /71 /76 /36 /57 /i255 /60/52 /38 /60 /i255 /60 /52 /36 /i255 /77 /45 /72 /76 /60 /48 /i255 /78 /37 /i255 /54 /72 /71 /71 /36 /76 /60 /47 /48 /i255 /79 /45 /71 /46 /78 /76 /39 /i255 /45 /76 /i255 /54 /52 /38 /76 /39 /36 /37 /i255 /60 /45 /i255 /60 /52 /36 /i255 /80 /38 /76 /57 /i255 /81 /37 /36 /i255 /77 /45 /57 /36 /i255 /38 /76 /57 /i255 /60 /52 /38 /60 /i255 /38/i255 /82 /38 /54 /46 /36 /60 /i255 /78 /37
-/44 /36 /78 /76 /39 /i255 /57 /78 /37 /60 /71 /78 /44 /72 /60/36 /57 /i255 /60 /45/35/45 /71 /71 /45 /79 /i255 /83 /69 /52 /72 /71 /37 /57 /38 /48 /84 /i255 /82 /72 /60 /60 /78 /76 /39 /i255 /85 /45 /71 /60 /52 /i255 /78 /60 /36/35/37 /i255 /60 /45 /i255 /44 /36 /i255 /54 /45 /76 /37 /78 /57 /36 /71 /36 /57 /53 /i255 /i255/86/78/73 /36 /76 /i255 /60 /52 /36 /i255 /82 /71 /36 /37 /37 /72 /71 /36/i255 /60 /52 /36 /i255 /77 /45 /72 /76 /60 /48
-/37 /36 /36/35/37 /i255 /60 /45 /i255 /44 /36 /i255 /36/87 /36 /71 /60 /78 /76 /39 /i255 /47 /38 /60 /36 /47 /48 /i255 /45 /76 /i255 /60 /52 /36 /i255 /88 /38 /47 /47 /36 /48 /58 /i255 /89 /45 /72 /60 /52 /i255 /89 /47 /45 /82 /36 /i255 /38 /76 /57 /i255 /90 /47 /82 /78 /76 /36 /i255 /91 /45 /76 /36 /37 /i255 /38 /37 /i255 /37 /72 /78 /60 /38 /44 /47 /36 /i255 /85 /45 /71 /i255 /52 /78 /39 /52 /92 /57 /36/76 /37 /78 /60 /48 /58
-/38 /85 /85 /45 /71 /57 /38 /44 /47 /36 /i255 /52 /45 /72/37 /78 /76 /39 /i255 /60 /48 /82 /36 /i255 /82 /71 /45 /75 /36 /54 /60 /37 /58 /i255 /74 /i255 /44 /36 /47 /78 /36 /73 /36 /i255 /78 /60 /i255 /78 /37 /i255 /72 /71 /39 /36 /76 /60 /i255 /60 /52 /38 /60 /i255 /44 /72 /78 /47 /57 /78 /76 /39 /i255 /37 /36 /60 /i255 /44 /38 /54 /46 /37 /i255 /78 /76 /i255 /60 /52 /36 /37 /36 /i255 /91 /45 /76 /36 /37 /i255 /44 /36 /i255/71 /36 /73 /78 /37 /36 /57
-/60 /45 /i255 /33 /63 /63 /i255 /85 /36 /36 /60 /i255 /85 /71 /45/35/i255 /38 /47 /47 /i255 /76 /72/35/44 /36 /71 /36 /57 /i255 /77 /45 /72 /76 /60 /48 /i255 /93 /45 /38 /57 /i255 /71 /78 /39 /52 /60 /i255 /45 /85 /i255 /79 /38 /48 /37 /i255 /38 /76 /57 /i255 /49 /63 /i255 /85 /36 /36 /60 /i255 /85 /45 /71 /i255 /38 /47 /47 /i255 /45 /60 /52 /36 /71 /i255 /71 /45 /38 /57 /i255 /71 /78 /39 /52 /60 /i255 /45 /85 /i255 /79/38 /48 /37 /i255 /79 /52 /36 /60 /52 /36 /71
-/82 /72 /44 /47 /78 /54 /i255 /83 /78 /76 /54 /47 /72 /57 /78/76 /39 /i255 /37 /72 /44 /57 /78 /73 /78 /37 /78 /45 /76 /i255 /71 /45 /38 /57 /37 /i255 /57 /36 /57 /78 /54 /38 /60 /36 /57 /i255 /60 /45 /i255 /60 /52 /36 /i255 /77 /45 /72 /76 /60 /48 /84 /i255 /45 /71 /i255 /82 /71 /78 /73 /38 /60 /36 /53 /i255 /i255 /74 /i255 /37 /36 /36 /i255 /60 /52 /36 /37 /36 /i255/35/78/76 /78/35/72 /35/i255 /37 /36/60 /i255 /44 /38 /54 /46 /37 /i255 /38 /37
-/54 /71 /72 /54 /78 /38 /47 /i255 /60 /45 /i255 /82 /71 /36 /37/36 /71 /73 /78 /76 /39 /i255 /60 /52 /36 /i255 /52 /36 /38 /47 /60 /52 /58 /i255 /37 /38 /85 /36 /60 /48 /58 /i255 /79 /36 /47 /85 /38 /71 /36 /i255 /38 /76 /57 /i255 /94 /72 /38 /47 /78 /60 /48 /i255 /45 /85 /i255 /47 /78 /85 /36 /i255 /45 /85 /i255 /60 /52 /36 /i255 /71 /36 /37 /78 /57 /36 /76 /60 /37 /i255 /45 /85 /i255 /60 /52 /36 /37 /36 /i255 /91 /45 /76 /36/37 /i255 /38 /37 /i255 /79 /36 /47 /47 /i255 /38 /37
-/45 /60 /52 /36 /71 /i255 /60 /71 /38 /73 /36 /47 /36 /71 /37/i255 /45 /76 /i255 /60 /52 /36 /i255 /71 /45 /38 /57 /37 /i255 /78 /76 /i255 /60 /52 /36 /37 /36 /i255 /38 /71 /36 /38 /37 /53 /i255 /i255
-/56/52 /78 /47 /36 /i255/35/38 /76 /48 /i255 /38/71 /36 /i255 /82 /72 /91 /91 /47 /36 /57 /i255 /44 /48 /i255 /60 /52 /36 /i255 /77 /45 /72 /76 /60 /48 /95 /37 /i255 /71 /36 /54 /36 /76 /60 /i255 /91 /36 /38 /47 /i255 /78 /76 /i255 /82 /72 /71 /37 /72 /78 /76 /39 /i255 /60 /52 /36 /37 /36 /i255 /46 /78 /76 /57 /37 /i255 /45 /85 /i255 /82 /71 /45 /75 /36 /54 /60 /37 /i255 /45 /72 /60 /37 /78 /57 /36/i255 /45 /85 /i255 /60 /52 /36 /i255 /69 /45 /79 /76
-/45 /85 /i255 /93 /78 /57 /39 /79 /38 /48 /i255 /38 /76/57 /i255 /60 /52 /36 /i255 /77 /78 /60 /48 /i255 /45 /85 /i255/59/72 /71 /38 /48 /i255 /83 /79 /52 /78 /54 /52 /i255 /60 /52 /36 /i255 /80 /38 /76 /57 /i255 /81 /37 /36 /i255 /77 /45 /57 /36 /i255 /71 /78 /39 /52 /60 /47 /48 /i255 /82 /71 /78 /45 /71 /78 /60 /78 /91 /36 /37 /i255 /85 /45 /71 /i255 /37 /72 /54 /52 /i255 /57 /36 /73 /36 /47 /45 /82/35/36 /76 /60 /84 /i255 /60 /52 /36 /71 /36
-/78 /37 /i255 /76 /45 /i255 /94 /72 /36 /37 /60 /78 /45 /76/i255 /60 /52 /38 /60 /i255 /60 /52 /36 /i255 /78 /76 /85 /71 /38 /37 /60 /71 /72 /54 /60 /72 /71 /36 /i255 /57 /45 /36 /37 /i255 /76 /45 /60 /i255 /48 /36 /60 /i255 /36 /87 /78 /37 /60 /i255 /60 /45 /i255 /37 /72 /82 /82 /45 /71 /60 /i255 /60 /52 /36 /i255 /46 /78 /76 /57 /i255 /45 /85 /i255 /39 /71 /45 /79 /60 /52 /i255 /60 /52 /38 /60 /i255 /54 /45/35/36 /37/i255 /79 /78 /60 /52 /i255 /60 /52 /78 /37
-/46 /78 /76 /57 /i255 /45 /85 /i255 /57 /36 /73 /36 /47 /45/82/35/36 /76 /60 /53 /i255 /i255 /74 /76 /i255 /67 /47 /36 /38 /37 /38 /76 /60 /i255 /88 /38 /47 /47 /36 /48 /58 /i255 /44 /36 /85 /45 /71 /36 /i255 /82 /71 /45 /75 /36 /54 /60 /37 /i255 /37 /72 /54 /52 /i255 /38 /37 /i255 /60 /52 /78 /37 /i255 /54 /38 /76 /i255 /36 /73 /36 /76 /i255 /44 /36 /i255 /54 /45 /76 /37 /78 /57 /36 /71 /36 /57 /58 /i255/60 /52 /36 /i255 /77 /93 /92 /62 /61
-/71 /45 /38 /57 /i255 /37 /48 /37 /60 /36/35/i255 /76/36 /36 /57 /i255 /60 /45 /i255 /44 /36 /i255 /82 /38 /73 /36 /57 /i255 /83 /45 /71 /i255 /78 /76 /i255 /60 /52 /36 /i255 /78 /76 /60 /36 /71 /78/35/i255 /39 /71 /38 /57 /36 /57 /i255 /36 /73 /36 /71 /48 /i255 /45 /60 /52 /36 /71 /i255/35/45 /76 /60 /52 /84 /58 /i255 /38 /i255 /57 /36 /54 /36 /47 /36 /71 /38 /60 /78 /45 /76 /i255 /47 /38 /76 /36/i255 /76 /36 /36 /57 /37 /i255 /60 /45 /i255 /44 /36
-/78 /76 /37 /60 /38 /47 /47 /36 /57 /i255 /45 /76 /i255 /96/78 /39 /52 /79 /38 /48 /i255 /50 /62 /i255 /85 /45 /71 /i255 /79 /36 /37 /60 /i255 /44 /45 /72 /76 /57 /i255 /60 /71 /38 /85 /85 /78 /54 /i255 /36 /87 /78 /60 /78 /76 /39 /i255 /45 /76 /60 /45 /i255 /77 /93 /92 /62 /61 /77 /i255 /83 /60 /52 /78 /37 /i255 /78 /37 /i255 /38 /76 /i255 /38 /54 /54 /78 /57 /36 /76 /60 /i255 /79 /38 /78 /60 /78 /76 /39 /i255 /60/45 /i255 /52 /38 /82 /82 /36 /76
-/71 /78 /39 /52 /60 /i255 /76 /45 /79 /84 /58 /i255 /38 /76/57 /i255 /85 /78 /44 /36 /71 /i255 /45 /82 /60 /78 /54 /i255 /78 /76 /60 /36 /71 /76 /36 /60 /i255 /37 /36 /71 /73 /78 /54 /36 /i255 /76 /36 /36 /57 /37 /i255 /60 /45 /i255 /38 /73 /38 /78 /47 /38 /44 /47 /36 /i255 /60 /45 /i255 /38 /47 /47 /i255 /71 /36 /37 /78 /57 /36 /76 /60 /37 /53
-/69 /52 /38 /76 /46 /37 /i255 /78 /76 /i255 /38 /57 /73/38 /76 /54 /36 /i255 /85 /45 /71 /i255 /44 /71 /78 /76 /39 /78 /76 /39 /i255 /60 /52 /36 /37 /36 /i255 /54 /45/35/35/36 /76 /60 /37 /i255 /60 /45 /i255 /60 /52 /36 /i255 /38 /60 /60 /36 /76 /60 /78 /45 /76 /i255 /45 /85 /i255 /60 /52 /45 /37 /36 /i255 /78 /76 /73 /45 /47 /73 /36 /57 /53 /i255 /i255 /i255 /i255 /i255 /i255 /i255/i255
-/97 /45 /44 /i255 /98 /36 /47 /47 /48
-/67 /47 /36 /38 /37 /38 /76 /60 /i255 /88 /38 /47/47 /36 /48
-/99 /66 /63 /i255 /62 /66 /49 /i255 /61 /66 /63/63
-/i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255/i255 /i255 /i255
+/0/1 /2/3/i255/5/1/6/7/2/8/9/1/10/11/i255/12 /13/14 /1/6/7/2/8/9/1/10/11 /15/8 /16/2/1/17/14/8/18/19/8/20/21
+/22/23/24/25/i255/26/27/28/i255/5 /29/25 /28/i255/30/28/31/32/27/32 /29/24 /27
+/33/i255 /35/36 /37/37/38/39/36
+/40/8/41/i255/42/11/10/10/17/i255/43/44/45 /44/46/36/47/47/48/49/50/33 /51/48 /38/52/45/45/53/54/45 /35/55 /56/36 /57/58/i255 /59/54 /60/i255/33/61/58/i255/62/63/62 /50/i255/38/60/i255/33/63/64/65/66/i255/67/68
+/69/45/64/i255/70 /35/54 /38/37/60/71/45/57/38 /47/36 /51/45 /72/71/38/48/54/45/53/39/45/73/70/i255/43 /35/54 /38/37/60/71/45/57/38/47/36 /51/45 /72/71/38/48/54/45/53/39/45/73/55
+/68/38 /71/46/58
+/74/i255/75/72/37/60/i255/47/36/38/71/76/36/57/i255/60 /52/38/60/i255/60/52/36/i255/77/45/72/76/60/48/i255/78/37/i255/54/72/71/71/36/76/60/47/48/i255/79/45/71/46/78/76/39/i255/45/76/i255/54/52/38/76/39/36/37/i255/60/45/i255/60/52/36/i255/80/38/76/57/i255/81/37/36/i255/77/45/57/36/i255/38/76/57/i255/60/52/38/60/i255/38 /i255/82/38/54/46/36/60/i255/78/37
+/44/36/78/76/39/i255/57/78/37/60/71/78/44/72/60 /36/57/i255/60/45 /35/45 /71/71/45/79/i255/83/69/52/72/71/37/57/38/48/84/i255/82/72/60/60/78/76/39/i255/85/45/71/60/52/i255/78/60/36 /35/37 /i255/60/45/i255/44/36/i255/54/45/76/37/78/57/36/71/36/57/53/i255/i255 /86/78 /73/36/76/i255/60/52/36/i255/82/71/36/37/37/72/71/36 /i255/60/52/36/i255/77/45/72/76/60/48
+/37/36/36 /35/37 /i255/60/45/i255/44/36/i255/36 /87/36/71/60/78/76/39/i255/47/38/60/36/47/48/i255/45/76/i255/60/52/36/i255/88/38/47/47/36/48/58/i255/89/45/72/60/52/i255/89/47/45/82/36/i255/38/76/57/i255/90/47/82/78/76/36/i255/91/45/76/36/37/i255/38/37/i255/37/72/78/60/38/44/47/36/i255/85/45/71/i255/52/78/39/52/92/57/36 /76/37/78/60/48/58
+/38/85/85/45/71/57/38/44/47/36/i255/52/45/72 /37/78/76/39/i255/60/48/82/36/i255/82/71/45/75/36/54/60/37/58/i255/74/i255/44/36/47/78/36/73/36/i255/78/60/i255/78/37/i255/72/71/39/36/76/60/i255/60/52/38/60/i255/44/72/78/47/57/78/76/39/i255/37/36/60/i255/44/38/54/46/37/i255/78/76/i255/60/52/36/37/36/i255/91/45/76/36/37/i255/44/36/i255 /71/36/73/78/37/36/57
+/60/45/i255/33/63/63/i255/85/36/36/60/i255/85/71/45 /35/i255 /38/47/47/i255/76/72 /35/44 /36/71/36/57/i255/77/45/72/76/60/48/i255/93/45/38/57/i255/71/78/39/52/60/i255/45/85/i255/79/38/48/37/i255/38/76/57/i255/49/63/i255/85/36/36/60/i255/85/45/71/i255/38/47/47/i255/45/60/52/36/71/i255/71/45/38/57/i255/71/78/39/52/60/i255/45/85/i255/79 /38/48/37/i255/79/52/36/60/52/36/71
+/82/72/44/47/78/54/i255/83/78/76/54/47/72/57/78 /76/39/i255/37/72/44/57/78/73/78/37/78/45/76/i255/71/45/38/57/37/i255/57/36/57/78/54/38/60/36/57/i255/60/45/i255/60/52/36/i255/77/45/72/76/60/48/84/i255/45/71/i255/82/71/78/73/38/60/36/53/i255/i255/74/i255/37/36/36/i255/60/52/36/37/36/i255 /35/78 /76/78 /35/72/35/i255 /37/36 /60/i255/44/38/54/46/37/i255/38/37
+/54/71/72/54/78/38/47/i255/60/45/i255/82/71/36/37 /36/71/73/78/76/39/i255/60/52/36/i255/52/36/38/47/60/52/58/i255/37/38/85/36/60/48/58/i255/79/36/47/85/38/71/36/i255/38/76/57/i255/94/72/38/47/78/60/48/i255/45/85/i255/47/78/85/36/i255/45/85/i255/60/52/36/i255/71/36/37/78/57/36/76/60/37/i255/45/85/i255/60/52/36/37/36/i255/91/45/76/36 /37/i255/38/37/i255/79/36/47/47/i255/38/37
+/45/60/52/36/71/i255/60/71/38/73/36/47/36/71/37 /i255/45/76/i255/60/52/36/i255/71/45/38/57/37/i255/78/76/i255/60/52/36/37/36/i255/38/71/36/38/37/53/i255/i255
+/56/52 /78/47/36/i255 /35/38 /76/48/i255/38 /71/36/i255/82/72/91/91/47/36/57/i255/44/48/i255/60/52/36/i255/77/45/72/76/60/48/95/37/i255/71/36/54/36/76/60/i255/91/36/38/47/i255/78/76/i255/82/72/71/37/72/78/76/39/i255/60/52/36/37/36/i255/46/78/76/57/37/i255/45/85/i255/82/71/45/75/36/54/60/37/i255/45/72/60/37/78/57/36 /i255/45/85/i255/60/52/36/i255/69/45/79/76
+/45/85/i255/93/78/57/39/79/38/48/i255/38/76 /57/i255/60/52/36/i255/77/78/60/48/i255/45/85/i255 /59/72 /71/38/48/i255/83/79/52/78/54/52/i255/60/52/36/i255/80/38/76/57/i255/81/37/36/i255/77/45/57/36/i255/71/78/39/52/60/47/48/i255/82/71/78/45/71/78/60/78/91/36/37/i255/85/45/71/i255/37/72/54/52/i255/57/36/73/36/47/45/82 /35/36 /76/60/84/i255/60/52/36/71/36
+/78/37/i255/76/45/i255/94/72/36/37/60/78/45/76 /i255/60/52/38/60/i255/60/52/36/i255/78/76/85/71/38/37/60/71/72/54/60/72/71/36/i255/57/45/36/37/i255/76/45/60/i255/48/36/60/i255/36/87/78/37/60/i255/60/45/i255/37/72/82/82/45/71/60/i255/60/52/36/i255/46/78/76/57/i255/45/85/i255/39/71/45/79/60/52/i255/60/52/38/60/i255/54/45 /35/36 /37/i255/79/78/60/52/i255/60/52/78/37
+/46/78/76/57/i255/45/85/i255/57/36/73/36/47/45 /82/35/36 /76/60/53/i255/i255/74/76/i255/67/47/36/38/37/38/76/60/i255/88/38/47/47/36/48/58/i255/44/36/85/45/71/36/i255/82/71/45/75/36/54/60/37/i255/37/72/54/52/i255/38/37/i255/60/52/78/37/i255/54/38/76/i255/36/73/36/76/i255/44/36/i255/54/45/76/37/78/57/36/71/36/57/58/i255 /60/52/36/i255/77/93/92/62/61
+/71/45/38/57/i255/37/48/37/60/36 /35/i255 /76/36/36/57/i255/60/45/i255/44/36/i255/82/38/73/36/57/i255/83/45/71/i255/78/76/i255/60/52/36/i255/78/76/60/36/71/78 /35/i255 /39/71/38/57/36/57/i255/36/73/36/71/48/i255/45/60/52/36/71/i255 /35/45 /76/60/52/84/58/i255/38/i255/57/36/54/36/47/36/71/38/60/78/45/76/i255/47/38/76/36 /i255/76/36/36/57/37/i255/60/45/i255/44/36
+/78/76/37/60/38/47/47/36/57/i255/45/76/i255/96 /78/39/52/79/38/48/i255/50/62/i255/85/45/71/i255/79/36/37/60/i255/44/45/72/76/57/i255/60/71/38/85/85/78/54/i255/36/87/78/60/78/76/39/i255/45/76/60/45/i255/77/93/92/62/61/77/i255/83/60/52/78/37/i255/78/37/i255/38/76/i255/38/54/54/78/57/36/76/60/i255/79/38/78/60/78/76/39/i255/60 /45/i255/52/38/82/82/36/76
+/71/78/39/52/60/i255/76/45/79/84/58/i255/38/76 /57/i255/85/78/44/36/71/i255/45/82/60/78/54/i255/78/76/60/36/71/76/36/60/i255/37/36/71/73/78/54/36/i255/76/36/36/57/37/i255/60/45/i255/38/73/38/78/47/38/44/47/36/i255/60/45/i255/38/47/47/i255/71/36/37/78/57/36/76/60/37/53
+/69/52/38/76/46/37/i255/78/76/i255/38/57/73 /38/76/54/36/i255/85/45/71/i255/44/71/78/76/39/78/76/39/i255/60/52/36/37/36/i255/54/45 /35/35/36 /76/60/37/i255/60/45/i255/60/52/36/i255/38/60/60/36/76/60/78/45/76/i255/45/85/i255/60/52/45/37/36/i255/78/76/73/45/47/73/36/57/53/i255/i255/i255/i255/i255/i255/i255 /i255
+/97/45/44/i255/98/36/47/47/48
+/67/47/36/38/37/38/76/60/i255/88/38/47 /47/36/48
+/99/66/63/i255/62/66/49/i255/61/66/63 /63
+/i255/i255/i255/i255/i255/i255/i255/i255/i255/i255/i255/i255/i255/i255/i255/i255/i255/i255/i255/i255 /i255/i255/i255
 
-/0/1 /2 /3 /i255 /5 /1 /6 /7 /2 /8 /9 /1 /10 /11 /i255 /12/13/14 /1 /6 /7 /2 /8 /9 /1 /10 /11/15/8 /16 /2 /1 /17 /14 /8 /18 /19 /8 /20 /21
-/22 /11 /7 /i255 /23 /1 /14 /3
-/24 /i255/26/27 /28 /28 /29 /30 /27
-/31/11 /8 /2 /19 /11 /i255 /22 /11 /2 /11 /13/11 /7 /32 /6 /i255 /33 /30/26/28 /27 /34 /27/26/27 /35 /36 /28/37/30 /26/29 /36 /38 /39 /40 /41/26/42 /43/27 /44 /45 /i255/46/40 /35 /i255 /24 /47 /45 /i255 /48 /49/48 /50 /i255 /29 /35 /i255 /50 /51 /47 /48 /i255 /52 /53
-/54 /41 /51 /i255/26/40 /29 /28 /35 /34 /41 /44 /29 /38/27/37/41 /55 /34 /29 /56 /40 /41 /39 /30 /41 /57
-/58 /27 /29 /34 /i255/53/29 /34 /59 /45
-/60 /i255 /29/26/i255 /29 /i255 /38 /29 /61 /56 /i255 /44/41 /30 /i255 /34 /27 /28 /36 /44 /27 /62 /35 /i255 /63 /i255 /64 /29 /57 /27 /i255 /65 /55 /28 /35 /i255 /64 /27 /29 /34 /44 /i255 /66 /34 /41/26/i255 /53/36/59 /27 /i255 /35 /64 /29 /35 /i255 /56 /41 /55 /i255 /63 /i255 /64 /27 /i255 /64 /29 /44 /i255 /29 /i255 /44 /36 /28 /40 /55 /28 /28 /36 /41 /62 /i255 /34 /27 /30 /29 /34 /44 /36 /62 /30 /i255 /34 /41 /29 /44 /i255 /28 /27 /35 /i255 /67 /29 /40 /59 /28/39 /i255/68 /69 /70 /71 /72 /72 /73 /74 /i255 /68
-/76 /77 /78 /72 /69 /i255 /72 /79 /80 /70 /i255 /81 /77 /i255 /82 /70/70 /i255 /83 /84 /84 /85 /i255 /77 /86 /i255 /71 /72 /72 /i255 /87 /77 /78 /88 /81 /73 /i255 /89 /77 /71 /69 /i255 /90 /79 /91 /92 /81 /82 /i255 /77 /93 /i255 /76 /71 /73 /i255 /93 /77 /90 /i255 /81 /92 /70 /i255 /94 /71 /72 /72 /70 /73 /74 /i255 /95 /72 /96 /79 /88 /70 /i255 /71 /88 /69 /i255 /97 /77 /78 /81 /92 /i255 /97 /72 /77 /96 /70 /i255 /98 /77 /88 /70 /82 /i255 /71 /88 /69/i255 /99 /84 /85 /i255/100/79/88 /79/100/78 /100
-/77 /86 /i255 /101 /90 /79 /102 /71 /81 /70 /i255 /89 /77 /71 /69/82 /i255 /71 /88 /69 /i255 /71 /72 /72 /i255 /77 /81 /92 /70 /90 /i255 /96 /90 /77 /96 /70 /90 /81 /73 /i255 /72 /79 /88 /70 /82 /103
-/104 /92 /71 /88 /80 /82 /i255 /93 /77 /90 /i255 /73 /77 /78 /90/i255 /105 /77 /88 /82 /79 /69 /70 /90 /71 /106 /77 /88 /74
-/107 /70 /77 /90 /91 /70 /i255 /97 /70 /90 /70/100/70 /106 /82 /i255
-/108 /84 /109 /110 /i255 /111 /72 /69 /i255 /89 /70 /72 /71 /73/i255 /89 /69
+/0/1 /2/3/i255/5/1/6/7/2/8/9/1/10/11/i255/12 /13/14 /1/6/7/2/8/9/1/10/11 /15/8 /16/2/1/17/14/8/18/19/8/20/21
+/22/11/7/i255/23/1/14/3
+/24/i255 /26/27 /28/28/29/30/27
+/31/11 /8/2/19/11/i255/22/11/2/11/13 /11/7/32/6/i255/33/30 /26/28 /27/34/27 /26/27 /35/36/28 /37/30 /26/29 /36/38/39/40/41 /26/42 /43/27 /44/45/i255 /46/40 /35/i255/24/47/45/i255/48/49 /48/50/i255/29/35/i255/50/51/47/48/i255/52/53
+/54/41/51/i255 /26/40 /29/28/35/34/41/44/29/38 /27/37/41 /55/34/29/56/40/41/39/30/41/57
+/58/27/29/34/i255 /53/29 /34/59/45
+/60/i255/29 /26/i255 /29/i255/38/29/61/56/i255/44 /41/30/i255/34/27/28/36/44/27/62/35/i255/63/i255/64/29/57/27/i255/65/55/28/35/i255/64/27/29/34/44/i255/66/34/41 /26/i255/53/36 /59/27/i255/35/64/29/35/i255/56/41/55/i255/63/i255/64/27/i255/64/29/44/i255/29/i255/44/36/28/40/55/28/28/36/41/62/i255/34/27/30/29/34/44/36/62/30/i255/34/41/29/44/i255/28/27/35/i255/67/29/40/59/28 /39/i255 /68/69/70/71/72/72/73/74/i255/68
+/76/77/78/72/69/i255/72/79/80/70/i255/81/77/i255/82/70 /70/i255/83/84/84/85/i255/77/86/i255/71/72/72/i255/87/77/78/88/81/73/i255/89/77/71/69/i255/90/79/91/92/81/82/i255/77/93/i255/76/71/73/i255/93/77/90/i255/81/92/70/i255/94/71/72/72/70/73/74/i255/95/72/96/79/88/70/i255/71/88/69/i255/97/77/78/81/92/i255/97/72/77/96/70/i255/98/77/88/70/82/i255/71/88/69 /i255/99/84/85/i255 /100/79 /88/79 /100/78 /100
+/77/86/i255/101/90/79/102/71/81/70/i255/89/77/71/69 /82/i255/71/88/69/i255/71/72/72/i255/77/81/92/70/90/i255/96/90/77/96/70/90/81/73/i255/72/79/88/70/82/103
+/104/92/71/88/80/82/i255/93/77/90/i255/73/77/78/90 /i255/105/77/88/82/79/69/70/90/71/106/77/88/74
+/107/70/77/90/91/70/i255/97/70/90/70 /100/70 /106/82/i255
+/108/84/109/110/i255/111/72/69/i255/89/70/72/71/73 /i255/89/69
 
-/0/1 /2 /3 /i255 /5 /1 /6 /7 /2 /8 /9 /1 /10 /11 /i255 /12/13/14 /1 /6 /7 /2 /8 /9 /1 /10 /11/15/8 /16 /2 /1 /17 /14 /8 /18 /19 /8 /20 /21
-/22/16 /2 /1 /17 /i255 /5 /8 /16 /23 /7 /17 /i255 /24 /11 /7 /25 /1 /14 /3 /i255 /5 /8 /23 /6 /26 /9 /11 /2 /1 /7 /26 /8 /23 /6 /i255 /8 /27 /27 /i255 /5 /8 /16 /23 /7 /17 /i255 /1 /23 /9 /i255 /28 /2 /26 /20 /1 /7 /11 /i255 /29 /8 /1 /9 /6
-/30 /i255/32/33 /34 /34 /35 /36 /33
-/13/25 /8 /19 /19 /6 /i255/37/38 /26 /7 /11/13/8 /16 /23 /7 /1 /26 /23 /20 /11 /23 /7 /16 /2 /11 /6 /18 /23 /11 /7 /i255 /39/32/40 /41 /36 /36 /34/42/43 /44 /45 /46 /33/32/41 /47 /48 /46 /35 /45 /48 /49 /33 /48 /46 /47 /50 /33 /34 /51 /48 /33 /46 /52 /53/33 /54 /55 /i255/56/57 /46 /i255 /30 /58/55 /i255 /59 /60 /59 /61 /i255 /35 /46 /i255 /62 /63 /59 /58/64 /65
-/66 /41 /63 /i255/65/35 /50 /67 /i255 /68 /35 /34 /46 /50/41 /54 /35 /69 /33 /i255 /39/32/57 /35 /34 /46 /50 /41 /54 /35 /69 /33/42/41 /47 /50 /35 /70 /57 /41 /51 /36 /41 /49 /52
-/71/72 /73 /74 /75
+/0/1 /2/3/i255/5/1/6/7/2/8/9/1/10/11/i255/12 /13/14 /1/6/7/2/8/9/1/10/11 /15/8 /16/2/1/17/14/8/18/19/8/20/21
+/22/16 /2/1/17/i255/5/8/16/23/7/17/i255/24/11/7/25/1/14/3/i255/5/8/23/6/26/9/11/2/1/7/26/8/23/6/i255/8/27/27/i255/5/8/16/23/7/17/i255/1/23/9/i255/28/2/26/20/1/7/11/i255/29/8/1/9/6
+/30/i255 /32/33 /34/34/35/36/33
+/13/25 /8/19/19/6/i255 /37/38 /26/7/11 /13/8 /16/23/7/1/26/23/20/11/23/7/16/2/11/6/18/23/11/7/i255/39 /32/40 /41/36/36/34 /42/43 /44/45/46/33 /32/41 /47/48/46/35/45/48/49/33/48/46/47/50/33/34/51/48/33/46/52 /53/33 /54/55/i255 /56/57 /46/i255/30/58 /55/i255/59/60/59/61/i255/35/46/i255/62/63/59/58 /64/65
+/66/41/63/i255 /65/35 /50/67/i255/68/35/34/46/50 /41/54/35/69/33/i255/39 /32/57 /35/34/46/50/41/54/35/69/33 /42/41 /47/50/35/70/57/41/51/36/41/49/52
+/71/72 /73/74/75
 /i255
-/77 /78 /79 /72 /80 /79 /i255 /81 /82 /73 /83 /72 /73 /84/i255 /85 /86 /87 /80 /i255 /79/88/72 /87 /78 /i255 /85 /82 /i255 /85 /86 /79 /i255 /77 /78 /72 /89 /89 /87 /89 /90 /i255 /91 /82/88/88/87 /80 /80 /87 /82 /89 /i255 /72 /89 /84 /i255 /92 /93 /91 /91 /i255 /72 /80 /i255 /85 /86 /79 /94 /i255 /95 /82 /89 /80 /87 /84 /79 /73 /i255 /85 /86 /79 /i255 /73 /79 /96 /87 /79 /83 /i255 /82 /81 /i255 /79 /97 /87 /80 /98 /89 /90/i255 /91 /82 /99 /89 /85 /94 /i255 /91 /82 /84 /79
-/73 /79 /90 /99 /78 /72 /98 /82 /89 /80 /100
+/77/78/79/72/80/79/i255/81/82/73/83/72/73/84 /i255/85/86/87/80/i255/79 /88/72 /87/78/i255/85/82/i255/85/86/79/i255/77/78/72/89/89/87/89/90/i255/91/82 /88/88/87 /80/80/87/82/89/i255/72/89/84/i255/92/93/91/91/i255/72/80/i255/85/86/79/94/i255/95/82/89/80/87/84/79/73/i255/85/86/79/i255/73/79/96/87/79/83/i255/82/81/i255/79/97/87/80/98/89/90 /i255/91/82/99/89/85/94/i255/91/82/84/79
+/73/79/90/99/78/72/98/82/89/80/100
 /i255
-/101 /i255 /83 /72 /80 /i255 /80 /86 /82 /95 /74 /79 /84 /i255 /85/82 /i255 /78 /79 /72 /73 /89 /i255 /85 /86 /79 /73 /79 /i255 /83 /79 /73 /79 /i255 /89 /82 /i255 /91 /82 /99 /89 /85 /94 /i255 /80 /79 /85 /102 /72 /95 /74 /80 /i255 /73 /79 /103 /99 /87 /73 /79 /84 /i255 /72 /78 /82 /89 /90 /i255 /104 /73 /87 /96 /72 /85 /79 /i255 /73 /82 /72 /84 /80 /75 /i255 /72 /80 /i255 /83 /79 /78 /78 /i255 /72 /80 /i255 /85 /86 /79 /i255/88/87/89 /87 /88/72 /78 /i255 /80 /79 /85 /102 /72 /95 /74 /80
-/72 /78 /82 /89 /90 /i255 /91 /82 /99 /89 /85 /94 /i255 /105/82 /72 /84 /80 /i255 /83 /86 /79 /73 /79 /i255 /85 /86 /79 /i255 /106 /87 /80 /99 /72 /78 /i255 /101/88/104 /72 /95 /85 /i255 /105 /79 /90 /99 /78 /72 /98 /82 /89 /80 /i255 /84 /82 /89 /107 /85 /i255 /72 /104 /104 /78 /94 /100
+/101/i255/83/72/80/i255/80/86/82/95/74/79/84/i255/85 /82/i255/78/79/72/73/89/i255/85/86/79/73/79/i255/83/79/73/79/i255/89/82/i255/91/82/99/89/85/94/i255/80/79/85/102/72/95/74/80/i255/73/79/103/99/87/73/79/84/i255/72/78/82/89/90/i255/104/73/87/96/72/85/79/i255/73/82/72/84/80/75/i255/72/80/i255/83/79/78/78/i255/72/80/i255/85/86/79/i255 /88/87 /89/87/88 /72/78/i255/80/79/85/102/72/95/74/80
+/72/78/82/89/90/i255/91/82/99/89/85/94/i255/105 /82/72/84/80/i255/83/86/79/73/79/i255/85/86/79/i255/106/87/80/99/72/78/i255/101 /88/104 /72/95/85/i255/105/79/90/99/78/72/98/82/89/80/i255/84/82/89/107/85/i255/72/104/104/78/94/100
 /i255
-/101 /89 /i255 /85 /86 /79 /i255 /108 /78 /104 /87 /89 /79 /i255 /72 /89/84 /i255 /106 /72 /78 /78 /79 /94 /i255 /109 /82 /89 /79 /80 /75 /i255 /101 /i255 /80 /85 /73 /82 /89 /90 /78 /94 /i255 /73 /79 /103 /99 /79 /80 /85 /i255 /110 /111 /111 /107 /i255 /80 /79 /85 /102 /72 /95 /74 /80 /i255 /82 /112 /i255 /85 /86 /79 /i255 /91 /82 /99 /89 /85 /94 /i255 /105 /82 /72 /84 /i255 /73 /87 /90 /86 /85 /80 /i255 /82 /81 /i255 /83 /72 /94 /75 /i255/72 /80 /i255 /83 /79/78 /78 /i255 /72 /80 /i255 /104 /73 /87 /96 /72 /85 /79
-/73 /82 /72 /84 /80 /i255 /80 /79 /73 /96 /87 /89 /90 /i255 /113/i255 /82 /73 /i255/88/82 /73 /79 /i255 /104 /72 /73 /95 /79 /78 /80 /75 /i255 /83 /86 /79 /73 /79 /i255 /85 /86 /79 /i255 /104 /72 /73 /95 /79 /78 /i255 /80 /87 /114 /79 /i255 /115 /116 /i255 /72 /95 /73 /79 /80 /i255 /82 /73 /i255/88/82 /73 /79 /117 /i255 /72 /78 /78 /82 /83 /80 /100 /i255 /118 /82 /73 /i255 /119 /82 /99 /85 /86 /i255 /119 /78 /82 /104 /79 /i255 /109 /82 /89 /79 /i255 /104 /72/73 /95 /79 /78 /80 /75 /i255 /101 /i255 /83 /82 /99 /78 /84
-/73 /79 /103 /99 /79 /80 /85 /i255 /85 /86 /79 /i255 /80 /72 /88/79 /i255 /83 /86 /79 /73 /79 /i255 /104 /82 /80 /80 /87 /102 /78 /79 /i255 /72 /89 /84 /i255 /72 /85 /i255 /78 /79 /72 /80 /85 /i255 /120 /111 /107 /i255/88/87/89 /87/88/99 /88/i255 /73 /79 /90 /72 /73 /84 /78 /79 /80 /80 /i255 /82 /81 /i255 /85 /86 /79 /i255 /104 /72 /73 /95 /79 /78 /i255 /80 /87 /114 /79 /100
+/101/89/i255/85/86/79/i255/108/78/104/87/89/79/i255/72/89 /84/i255/106/72/78/78/79/94/i255/109/82/89/79/80/75/i255/101/i255/80/85/73/82/89/90/78/94/i255/73/79/103/99/79/80/85/i255/110/111/111/107/i255/80/79/85/102/72/95/74/80/i255/82/112/i255/85/86/79/i255/91/82/99/89/85/94/i255/105/82/72/84/i255/73/87/90/86/85/80/i255/82/81/i255/83/72/94/75/i255 /72/80/i255/83/79 /78/78/i255/72/80/i255/104/73/87/96/72/85/79
+/73/82/72/84/80/i255/80/79/73/96/87/89/90/i255/113 /i255/82/73/i255 /88/82 /73/79/i255/104/72/73/95/79/78/80/75/i255/83/86/79/73/79/i255/85/86/79/i255/104/72/73/95/79/78/i255/80/87/114/79/i255/115/116/i255/72/95/73/79/80/i255/82/73/i255 /88/82 /73/79/117/i255/72/78/78/82/83/80/100/i255/118/82/73/i255/119/82/99/85/86/i255/119/78/82/104/79/i255/109/82/89/79/i255/104/72 /73/95/79/78/80/75/i255/101/i255/83/82/99/78/84
+/73/79/103/99/79/80/85/i255/85/86/79/i255/80/72/88 /79/i255/83/86/79/73/79/i255/104/82/80/80/87/102/78/79/i255/72/89/84/i255/72/85/i255/78/79/72/80/85/i255/120/111/107/i255 /88/87 /89/87 /88/99/88/i255 /73/79/90/72/73/84/78/79/80/80/i255/82/81/i255/85/86/79/i255/104/72/73/95/79/78/i255/80/87/114/79/100
 /i255
-/121 /86 /79 /i255 /89 /79 /83 /i255 /80 /79 /85 /102 /72 /95/74 /80 /i255 /82 /112 /i255 /104 /73 /87 /96 /72 /85 /79 /i255 /73 /82 /72 /84 /80 /i255 /87 /80 /i255 /72 /89 /i255 /72 /79 /80 /85 /86 /79 /98 /95 /75 /i255 /72 /80 /i255 /83 /79 /78 /78 /i255 /72 /80 /i255 /86 /79 /72 /78 /85 /86 /75 /i255 /80 /72 /81 /79 /85 /94 /i255 /72 /89 /84 /i255 /83 /79 /78 /81 /72 /73 /79 /75 /i255 /87 /80 /80 /99 /79 /100 /i255 /122 /72 /96 /87 /89 /90 /i255 /89 /82/i255 /80 /79 /85 /102 /72 /95 /74
-/73 /79 /103 /99 /87 /73 /79/88/79 /89 /85 /i255 /104 /99/85 /80 /i255 /73 /79 /80 /87 /84 /79 /89 /95 /79 /80 /i255 /72 /85 /i255 /73 /87 /80 /74 /i255 /82 /81 /i255 /96 /79 /86 /87 /95 /78 /79 /i255 /72 /95 /95 /87 /84 /79 /89 /85 /80 /75 /i255 /72 /80 /i255 /83 /79 /78 /78 /i255 /72 /80 /i255 /89 /82 /87 /80 /79 /75 /i255 /84 /99 /80 /85 /i255 /72 /89 /84 /i255 /79 /73 /82 /80 /87 /82 /89 /i255 /87 /80 /80 /99 /79 /80 /100
+/121/86/79/i255/89/79/83/i255/80/79/85/102/72/95 /74/80/i255/82/112/i255/104/73/87/96/72/85/79/i255/73/82/72/84/80/i255/87/80/i255/72/89/i255/72/79/80/85/86/79/98/95/75/i255/72/80/i255/83/79/78/78/i255/72/80/i255/86/79/72/78/85/86/75/i255/80/72/81/79/85/94/i255/72/89/84/i255/83/79/78/81/72/73/79/75/i255/87/80/80/99/79/100/i255/122/72/96/87/89/90/i255/89/82 /i255/80/79/85/102/72/95/74
+/73/79/103/99/87/73/79 /88/79 /89/85/i255/104/99 /85/80/i255/73/79/80/87/84/79/89/95/79/80/i255/72/85/i255/73/87/80/74/i255/82/81/i255/96/79/86/87/95/78/79/i255/72/95/95/87/84/79/89/85/80/75/i255/72/80/i255/83/79/78/78/i255/72/80/i255/89/82/87/80/79/75/i255/84/99/80/85/i255/72/89/84/i255/79/73/82/80/87/82/89/i255/87/80/80/99/79/80/100
 /i255
-/101 /i255 /72 /104 /104 /73 /79 /95 /87 /72 /85 /79 /i255 /85 /86 /79/i255 /81 /72 /95 /85 /i255 /85 /86 /72 /85 /i255 /85 /86 /79 /i255 /92 /93 /91 /91 /i255 /73 /79 /103 /99 /87 /73 /79 /84 /i255 /110 /111 /111 /107 /i255 /80 /79 /85 /102 /72 /95 /74 /80 /i255 /82 /112 /i255 /85 /86 /79 /i255 /73 /87 /90 /86 /85 /i255 /82 /81 /i255 /83 /72 /94 /i255 /82 /81 /i255 /91 /82 /99 /89 /85 /94 /i255 /105 /82 /72 /84 /80 /i255 /87 /89 /i255 /73 /79 /95 /79 /89/85 /i255 /72 /104 /104 /78 /87 /95 /72 /98 /82 /89 /80
-/87 /89 /i255 /79 /97 /95 /79 /80 /80 /i255 /82 /81 /i255 /85 /86 /79/i255 /96 /87 /80 /99 /72 /78 /i255 /87/88/104 /72 /95 /85 /i255 /73 /79 /90 /99 /78 /72 /98 /82 /89 /80 /i255 /84 /99 /79 /i255 /85 /82 /i255 /95 /82 /89 /95 /79 /73 /89 /i255 /87 /89 /i255/88/72 /87 /89 /85 /72 /87 /89 /87 /89 /90 /i255 /85 /86 /79 /i255 /73 /99 /73 /72 /78 /i255 /95 /86 /72 /73 /72 /95 /85 /79 /73 /i255 /82 /81 /i255 /85 /86 /79 /i255 /72 /73 /79 /72 /100
+/101/i255/72/104/104/73/79/95/87/72/85/79/i255/85/86/79 /i255/81/72/95/85/i255/85/86/72/85/i255/85/86/79/i255/92/93/91/91/i255/73/79/103/99/87/73/79/84/i255/110/111/111/107/i255/80/79/85/102/72/95/74/80/i255/82/112/i255/85/86/79/i255/73/87/90/86/85/i255/82/81/i255/83/72/94/i255/82/81/i255/91/82/99/89/85/94/i255/105/82/72/84/80/i255/87/89/i255/73/79/95/79/89 /85/i255/72/104/104/78/87/95/72/98/82/89/80
+/87/89/i255/79/97/95/79/80/80/i255/82/81/i255/85/86/79 /i255/96/87/80/99/72/78/i255/87 /88/104 /72/95/85/i255/73/79/90/99/78/72/98/82/89/80/i255/84/99/79/i255/85/82/i255/95/82/89/95/79/73/89/i255/87/89/i255 /88/72 /87/89/85/72/87/89/87/89/90/i255/85/86/79/i255/73/99/73/72/78/i255/95/86/72/73/72/95/85/79/73/i255/82/81/i255/85/86/79/i255/72/73/79/72/100
 /i255
-/121 /86 /72 /89 /74 /i255 /94 /82 /99 /i255 /81 /82 /73 /i255 /94/82 /99 /73 /i255 /95 /82 /89 /80 /87 /84 /79 /73 /72 /98 /82 /89 /i255 /82 /81 /i255 /85 /86 /87 /80 /i255 /73 /79 /95 /82/88/88/79 /89 /84 /72 /98 /82 /89 /100
+/121/86/72/89/74/i255/94/82/99/i255/81/82/73/i255/94 /82/99/73/i255/95/82/89/80/87/84/79/73/72/98/82/89/i255/82/81/i255/85/86/87/80/i255/73/79/95/82 /88/88/79 /89/84/72/98/82/89/100
 /i255
-/71/87/95 /86 /72 /79 /78 /i255 /92 /82 /90 /90 /80
-/123 /72 /114 /94 /i255 /124 /82 /90 /i255 /105 /72 /89 /95 /86/i255 /122 /93 /108 /i255 /77 /73 /79 /80 /87 /84 /79 /89 /85
+/71/87 /95/86/72/79/78/i255/92/82/90/90/80
+/123/72/114/94/i255/124/82/90/i255/105/72/89/95/86 /i255/122/93/108/i255/77/73/79/80/87/84/79/89/85
 /i255
 /i255
------- ---- -
+-----------
 
-/0/1 /2 /3 /i255 /5 /1 /6 /7 /2 /8 /9 /1 /10 /11 /i255 /12/13/14 /1 /6 /7 /2 /8 /9 /1 /10 /11/15/8 /16 /2 /1 /17 /14 /8 /18 /19 /8 /20 /21
-/22 /11 /7 /i255 /23 /1 /14 /3 /i255 /5 /8 /24 /6 /25 /9 /11 /2 /1 /7 /25 /8 /24 /6
-/26 /i255/28/29 /30 /30 /31 /32 /29
-/33 /i255 /34 /i255 /35 /36 /37 /38 /32 /29 /39 /37 /40 /29 /41/41/42/32 /28/31 /37 /39 /43 /44 /45/28/46 /47/29 /38 /48 /i255/49/44 /50 /i255 /26 /51 /48 /i255 /52 /53/52 /54 /i255 /31 /50 /i255 /41 /55 /52 /56 /i255 /57 /58
-/59 /45 /55 /i255/28/44 /31 /30 /50 /36 /45 /38 /31 /39/29/42/45 /60 /36 /31 /61 /44 /45 /43 /32 /45 /62
-/58/31 /36 /63 /48 /i255
-/57 /29 /36 /i255 /45 /60 /36 /i255 /44 /45 /40 /62/29 /36 /30 /31 /50 /37 /45 /40 /48 /i255 /64 /i255 /65 /45 /60 /39 /38 /i255 /31 /30 /63 /i255 /50 /66 /29 /i255 /57 /39 /31 /40 /i255 /67 /45/28/28/37 /30 /30 /37 /45 /40 /i255 /50 /45 /i255 /44 /45 /40 /30 /37 /38 /29 /36 /i255 /36 /29 /62 /37 /29 /65 /37 /40 /32 /i255 /50 /66 /29 /i255 /29 /68 /37 /30 /50 /37 /40 /32 /i255 /30 /29 /50 /69 /31 /44 /63 /30 /i255 /44 /60 /36 /36 /29 /40 /50 /39 /61 /i255 /37/40 /i255 /50 /66 /29
-/67 /45 /60 /40 /50 /61 /i255 /36 /29 /32 /60 /39/31 /50 /37 /45 /40 /30 /43 /i255 /i255/49/40 /i255 /39 /31 /36 /32 /29 /36 /i255 /70 /31 /36 /44 /29 /39 /30 /48 /i255 /50 /66 /29 /i255 /29 /68 /37 /30 /50 /37 /40 /32 /i255 /52 /71 /72 /i255 /30 /29 /50 /69 /31 /44 /63 /30 /i255 /65 /45 /60 /39 /38 /i255 /69 /29 /i255 /44 /66 /31 /40 /32 /29 /38 /i255 /50 /45 /i255 /71 /53 /72 /i255 /31 /40 /38 /i255 /50 /66 /31 /50 /i255 /31 /i255/28/37/40 /37/28/60 /28 /i255 /30 /29 /50 /i255 /69 /31 /44 /63 /i255 /45 /40
-/39 /31 /36 /32 /29 /36 /i255 /70 /31 /36 /44 /29 /39/30 /i255 /45 /40 /i255 /70 /36 /37 /62 /31 /50 /29 /i255 /73 /i255 /70 /60 /69 /39 /37 /44 /i255 /36 /45 /31 /38 /30 /i255 /69 /29 /i255 /30 /29 /50 /i255 /69 /31 /44 /63 /i255 /26 /53 /53 /72 /43 /i255 /64 /i255 /36 /29 /31 /39 /37 /74 /29 /i255 /50 /66 /31 /50 /i255 /60 /30 /37 /40 /32 /i255 /50 /66 /29 /30 /29 /i255 /70 /31 /36 /31/28/29 /50 /29 /36 /30 /i255 /65 /45 /60 /39 /38 /i255 /69 /29 /i255 /70 /36 /45 /69 /39/29/28/31 /50 /37 /44 /i255 /45 /40
-/30/28/31 /39 /39 /29 /36 /i255 /70 /31 /36 /44 /29/39 /30 /48 /i255 /69 /60 /50 /i255 /64 /i255 /69 /29 /39 /37 /29 /62 /29 /i255 /31 /i255 /39 /31 /36 /32 /29 /36 /i255 /70 /31 /36 /44 /29 /39 /i255 /75 /52 /53 /i255 /31 /44 /36 /29 /30 /i255 /45 /36 /i255/28/45 /36 /29 /76 /i255 /30 /66 /45 /60 /39 /38 /i255 /69 /29 /i255 /62 /37 /29 /65 /29 /38 /i255 /38 /37 /77 /77 /29 /36 /29 /40 /50 /39 /61 /43 /i255 /i255 /59 /66 /31 /40 /63 /i255 /61 /45 /60 /i255 /77 /45 /36 /i255 /61 /45/60 /36
-/44 /45 /40 /30 /37 /38 /29 /36 /31 /50 /37 /45 /40/i255 /45 /40 /i255 /50 /66 /37 /30 /i255/28/31 /50 /50 /29 /36 /43
-/78 /45 /69 /39 /29 /i255 /79 /29 /39 /39 /29 /36
+/0/1 /2/3/i255/5/1/6/7/2/8/9/1/10/11/i255/12 /13/14 /1/6/7/2/8/9/1/10/11 /15/8 /16/2/1/17/14/8/18/19/8/20/21
+/22/11/7/i255/23/1/14/3/i255/5/8/24/6/25/9/11/2/1/7/25/8/24/6
+/26/i255 /28/29 /30/30/31/32/29
+/33/i255/34/i255/35/36/37/38/32/29/39/37/40/29/41 /41/42/32 /28/31 /37/39/43/44/45 /28/46 /47/29 /38/48/i255 /49/44 /50/i255/26/51/48/i255/52/53 /52/54/i255/31/50/i255/41/55/52/56/i255/57/58
+/59/45/55/i255 /28/44 /31/30/50/36/45/38/31/39 /29/42/45 /60/36/31/61/44/45/43/32/45/62
+/58/31 /36/63/48/i255
+/57/29/36/i255/45/60/36/i255/44/45/40/62 /29/36/30/31/50/37/45/40/48/i255/64/i255/65/45/60/39/38/i255/31/30/63/i255/50/66/29/i255/57/39/31/40/i255/67/45 /28/28/37 /30/30/37/45/40/i255/50/45/i255/44/45/40/30/37/38/29/36/i255/36/29/62/37/29/65/37/40/32/i255/50/66/29/i255/29/68/37/30/50/37/40/32/i255/30/29/50/69/31/44/63/30/i255/44/60/36/36/29/40/50/39/61/i255/37 /40/i255/50/66/29
+/67/45/60/40/50/61/i255/36/29/32/60/39 /31/50/37/45/40/30/43/i255/i255 /49/40 /i255/39/31/36/32/29/36/i255/70/31/36/44/29/39/30/48/i255/50/66/29/i255/29/68/37/30/50/37/40/32/i255/52/71/72/i255/30/29/50/69/31/44/63/30/i255/65/45/60/39/38/i255/69/29/i255/44/66/31/40/32/29/38/i255/50/45/i255/71/53/72/i255/31/40/38/i255/50/66/31/50/i255/31/i255 /28/37 /40/37 /28/60 /28 /i255/30/29/50/i255/69/31/44/63/i255/45/40
+/39/31/36/32/29/36/i255/70/31/36/44/29/39 /30/i255/45/40/i255/70/36/37/62/31/50/29/i255/73/i255/70/60/69/39/37/44/i255/36/45/31/38/30/i255/69/29/i255/30/29/50/i255/69/31/44/63/i255/26/53/53/72/43/i255/64/i255/36/29/31/39/37/74/29/i255/50/66/31/50/i255/60/30/37/40/32/i255/50/66/29/30/29/i255/70/31/36/31 /28/29 /50/29/36/30/i255/65/45/60/39/38/i255/69/29/i255/70/36/45/69/39 /29/28/31 /50/37/44/i255/45/40
+/30/28/31 /39/39/29/36/i255/70/31/36/44/29 /39/30/48/i255/69/60/50/i255/64/i255/69/29/39/37/29/62/29/i255/31/i255/39/31/36/32/29/36/i255/70/31/36/44/29/39/i255/75/52/53/i255/31/44/36/29/30/i255/45/36/i255 /28/45 /36/29/76/i255/30/66/45/60/39/38/i255/69/29/i255/62/37/29/65/29/38/i255/38/37/77/77/29/36/29/40/50/39/61/43/i255/i255/59/66/31/40/63/i255/61/45/60/i255/77/45/36/i255/61/45 /60/36
+/44/45/40/30/37/38/29/36/31/50/37/45/40 /i255/45/40/i255/50/66/37/30/i255 /28/31 /50/50/29/36/43
+/78/45/69/39/29/i255/79/29/39/39/29/36
 
-/0/1 /2 /3 /i255 /5 /1 /6 /7 /2 /8 /9 /1 /10 /11 /i255 /12/13/14 /1 /6 /7 /2 /8 /9 /1 /10 /11/15/8 /16 /2 /1 /17 /14 /8 /18 /19 /8 /20 /21
-/22 /11 /7 /23 /1 /14 /3 /6
-/24 /i255/26/27 /28 /28 /29 /30 /27
-/31/11 /32 /9 /17 /i255 /33 /1 /2 /2 /34 /6 /i255/35 /36 /27 /37 /38 /39 /40 /29 /41 /41 /42 /28 /43 /44 /43/45/39 /29 /40 /46 /46 /47 /48 /46/26/49 /50/27 /38 /51 /i255/52/48 /53 /i255 /24 /54 /51 /i255 /44 /55/44 /56 /i255 /29 /53 /i255 /56 /57 /44 /58 /i255 /59 /60
-/61 /46 /57 /i255/26/48 /29 /28 /53 /41 /46 /38 /29 /62/27/45/46 /63 /41 /29 /39 /48 /46 /47 /30 /46 /64
-/60/39 /i255 /40 /63 /28 /65 /29 /37 /38/i255 /29 /37 /38 /i255 /66 /i255 /36 /46 /63 /62 /38 /i255 /62 /42 /67 /27 /i255 /53 /46 /i255 /28 /27 /27 /i255 /24 /55 /55 /68 /i255 /46 /69 /69 /i255 /29 /62 /62 /i255 /70 /46 /63 /37 /53 /39 /i255 /71 /46 /29 /38 /i255 /41 /42 /30 /40 /53 /28 /i255 /46 /69 /i255 /36 /29 /39 /i255 /69 /46 /41 /i255 /53 /40 /27 /i255 /72 /29 /62 /62 /27 /39 /51 /i255 /73 /62 /74 /42 /37 /27 /i255 /29 /37 /38 /i255 /75 /46 /63 /53 /40 /i255 /75 /62 /46 /74 /27 /i255 /76 /46 /37 /27 /28 /i255 /29/37 /38 /i255 /77 /55 /68
-/26/42/37 /42/26/63 /26/i255 /46 /69 /69/i255 /59 /41 /42 /64 /29 /53 /27 /i255 /71 /46 /29 /38 /28 /i255 /29 /37 /38 /i255 /29 /62 /62 /i255 /46 /53 /40 /27 /41 /i255 /74 /41 /46 /74 /27 /41 /53 /39 /i255 /62 /42 /37 /27 /28 /47
-/50/27 /37 /38 /39 /i255 /29 /37 /38 /i255/78 /29 /37 /i255 /79 /29 /41 /41 /42 /28
-/43 /55 /54 /24 /i255/52/62/38 /i255 /71 /27/62 /29 /39 /i255 /71 /38
-/71 /42 /38 /30 /36 /29 /39 /51 /i255 /70 /52
-/58 /44 /54 /80 /44
+/0/1 /2/3/i255/5/1/6/7/2/8/9/1/10/11/i255/12 /13/14 /1/6/7/2/8/9/1/10/11 /15/8 /16/2/1/17/14/8/18/19/8/20/21
+/22/11/7/23/1/14/3/6
+/24/i255 /26/27 /28/28/29/30/27
+/31/11 /32/9/17/i255/33/1/2/2/34/6/i255 /35/36/27/37/38/39/40/29/41/41/42/28/43/44/43 /45/39 /29/40/46/46/47/48/46 /26/49 /50/27 /38/51/i255 /52/48 /53/i255/24/54/51/i255/44/55 /44/56/i255/29/53/i255/56/57/44/58/i255/59/60
+/61/46/57/i255 /26/48 /29/28/53/41/46/38/29/62 /27/45/46 /63/41/29/39/48/46/47/30/46/64
+/60/39 /i255/40/63/28/65/29/37/38 /i255/29/37/38/i255/66/i255/36/46/63/62/38/i255/62/42/67/27/i255/53/46/i255/28/27/27/i255/24/55/55/68/i255/46/69/69/i255/29/62/62/i255/70/46/63/37/53/39/i255/71/46/29/38/i255/41/42/30/40/53/28/i255/46/69/i255/36/29/39/i255/69/46/41/i255/53/40/27/i255/72/29/62/62/27/39/51/i255/73/62/74/42/37/27/i255/29/37/38/i255/75/46/63/53/40/i255/75/62/46/74/27/i255/76/46/37/27/28/i255/29 /37/38/i255/77/55/68
+/26/42 /37/42 /26/63/26/i255 /46/69/69 /i255/59/41/42/64/29/53/27/i255/71/46/29/38/28/i255/29/37/38/i255/29/62/62/i255/46/53/40/27/41/i255/74/41/46/74/27/41/53/39/i255/62/42/37/27/28/47
+/50/27 /37/38/39/i255/29/37/38/i255 /78/29/37/i255/79/29/41/41/42/28
+/43/55/54/24/i255 /52/62 /38/i255/71/27 /62/29/39/i255/71/38
+/71/42/38/30/36/29/39/51/i255/70/52
+/58/44/54/80/44

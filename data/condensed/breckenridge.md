@@ -1,81 +1,6 @@
 # breckenridge
 
-## [breckenridge#0] 2026-08-11 | Town Council | minutes
-- EXECUTIVE SESSION CERTIFICATE
-- certifies as follows:
-- subject to negotiations, developing strategies for negotiations, and instructing negotiators . Council
-- (i) Discuss negotiations and receive legal advice related to the Town's litigation against MW Golden
-- This certificate shall be included before the minutes of the regular Town Council meeting of Tuesday,
-- As Town Attorney, I hereby attest that it is my opinion that the portion of the discussion in executive
-- II) APPROVAL OF MINUTES
-- 2026. Mayor Owens declared they would stand approved as presented
-- III) APPROVALOFAGENDA
-- A) PUBLIC COMMENT (NON-AGENDA ITEMS ONLY; 3-MINUTE TIME LIMIT)
-- Mayor Kelly Owens opened public comment
-- a land grab by the Village and Vail Resorts and the proposed tax structure is unfair
-- With no additional public comments, Mayor Owens closed public comment
-- Lucy Kay, BTO President, reported that Wildflower Week generated approximately
-- 1) COUNCIL BILL NO. 8, SERIES 2026-AN ORDINANCE AMENDING TITLE 9,
-- EMPLOYEE HOUSING IMPACT MITIGATION FOR EXTERIOR FOOD AND
-- RIVERWALK COMPATIBLE IMPROVEMENTS, POLICY 47 (ABSOLUTE)
-- Mark Truckey, Director of Community Development, presented a Council Bill for first
-- reading which would eliminate employee housing mitigation requirements for exterior
-- Mayor Owens opened public comment
-- With no public comments, Mayor Owens closed public comment
-- Council Member Gerard moved to approve COUNCIL BILL NO. 8, SERIES 2026
-- AN ORDINANCE AMENDING TITLE 9, CHAPTER 1, POLICY 24 (ABSOLUTE)
-- THE SOCIAL COMMUNITY, REGARDING EMPLOYEE HOUSING IMPACT
-- IMPROVEMENTS, POLICY 47 (ABSOLUTE) FENCES, GATES AND GATEWAY
-- B) RESOLUTIONS, SERIES 2026
-- 1) RESOLUTION NO. 15, SERIES 2026 - A RESOLUTION AUTHORIZING THE
-- Mark Truckey, Director of Community Development, presented a resolution that would
-- Council Member Gerard moved to approve RESOLUTION NO. 15, SERIES 2026 -A
-- RESOLUTION AUTHORIZING THE EXECUTION AND RECORDING OF A
-- Planning Decisions were approved as presented
-- GovCon dark sky award
-- Council Member Saade reported for MMC and noted a presentation on the Strong
-- measure on the ballot, the Town may be asked to pass a resolution supporting it. The
-- nicotine tax revenue, funding for First Steps has dropped. The county has agreed to fund
-- discussions regarding funding
-- H) ARTS & CULTURE MASTER PLAN STEERING COMMITTEE
-- the dry river and reduced water flow, and he suggested exploring repairs to the river
-- lining. Town Manager Haynes added that an upcoming Blue River pathway project will
-
-## [breckenridge#1] 2026-08-17 | Breckenridge Open Space Advisory Commission | minutes
-- *Please note that this meeting summary was partially generated using AI transcription technology and has been reviewed
-- II) APPROVAL OF MINUTES
-- The June 15, 2026 BOSAC meeting minutes were approved as presented
-- III) PUBLIC COMMENTS
-- Teague Holmes spoke in support of the Tiger Road Rec Path to improve pedestrian and
-- options. Highlighting a gap in the local trail network, he urged BOSAC to consider more
-- land at Little Mountain, taking advantage of nearby parking and facilities at the Ice Rink and
-- that feeds 6–10 downhill trails spanning green to double-black difficulties. He emphasized
-- major gap in Breckenridge's system, and help to separate high-speed downhill traffic from
-- flow trails has become oversaturated and belongs in bike parks rather than natural settings
-- known trails and bike parks, youth cyclists and the Firecracker 50 race
-- BOSAC unanimously approved the name of the new "Bald Barber" trail – 6/0
-- J. Quandary Trailhead Improvements Update
-- approved the project guidance and final naming for the Little Daisy Open Space
-- M. BTO Business of the Year Award
-- V) OPEN SPACE DISCUSSION
-- Trails Workplan (0:27:50)
-- Mr. Overlock led the Trails Workplan discussion, which focused on refining the Trails Matrix
-- Work Plan—a draft tool designed to prioritize a multi-year “wish list” of potential and
-- penalized for not meeting every connectivity metric. There was also discussion about the
-- parking access
-- experience, cost, and redundancy. A proposed Phase 1 of the Tiger Road Rec Path scored
-- whether Open Space should fund construction of recpaths while Streets & Parks handles
-- maintenance. Concepts like American Gulch to Lincoln Park received moderate scores due to
-- redundancy with Forest Queen Road, and the Rose Trail sparked conversation over beginner
-- Moving forward, BOSAC agreed that the matrix serves as a helpful discussion tool rather
-- than a final decision-maker. To allocate resources effectively across competing projects, staff
-- will adjust the matrix wording and consider developing a secondary prioritization tool. The
-- Regarding the access road, Town Council Liaison Mr. Beckerman noted that renaming
-- McCain Drive to "Little Daisy Drive" is prohibited by local road-naming rules against
-- duplicate words. Following a brief discussion, BOSAC voted 6–0 to retain the name
-- negotiations, developing strategies for negotiations, and/or instructing negotiators concerning
-
-## [breckenridge#2] 2026-08-18 | Liquor and Marijuana Licensing Authority | agenda
+## [breckenridge#0] 2026-08-18 | Liquor and Marijuana Licensing Authority | agenda
 - II. APPROVAL OF MINUTES
 - III. APPROVAL OF AGENDA
 - V. PUBLIC HEARING; ACTION ITEMS
@@ -86,7 +11,7 @@
 - D. APPROVED SPECIAL EVENTS
 - E. PUBLIC COMMENT
 
-## [breckenridge#3] 2026-08-18 | Liquor and Marijuana Licensing Authority | agenda
+## [breckenridge#1] 2026-08-18 | Liquor and Marijuana Licensing Authority | agenda
 - II. APPROVAL OF MINUTES
 - III. APPROVAL OF AGENDA
 - V. PUBLIC HEARING; ACTION ITEMS
@@ -115,7 +40,7 @@
 - Exchange Parking Lot – 101 S Ridge St
 - Hearing/Approval: July 7, 2026
 
-## [breckenridge#4] 2026-08-18 | Planning Commission | agenda
+## [breckenridge#2] 2026-08-18 | Planning Commission | agenda
 - 150 Ski Hill Road
 - The indicated times are intended only to be used as guides. The order of projects, as well as the length of the discussion
 - for each project, is at the discretion of the Commission. We advise you to be present at the beginning of the meeting
@@ -127,7 +52,7 @@
 - IV. PRELIMINARY HEARINGS (6:45PM)
 - A. CITY MARKET (#430) FUEL CENTER (CC) 430 N. PARK AVENUE; PL-2026-0171
 
-## [breckenridge#5] 2026-08-25 | Town Council | minutes
+## [breckenridge#3] 2026-08-25 | Town Council | minutes
 - EXECUTIVE SESSION CERTIFICATE
 - certifies as follows:
 - discuss the purchase, acquisition, lease, transfer, or sale of real, personal, or other property interest;
@@ -164,7 +89,7 @@
 - technology. She noted that while Flock cameras currently capture license plates and
 - identifying device signals inside vehicles. She cautioned that such advancements raise
 
-## [breckenridge#6] 2026-09-01 | Planning Commission | agenda
+## [breckenridge#4] 2026-09-01 | Planning Commission | agenda
 - 150 Ski Hill Road
 - The indicated times are intended only to be used as guides. The order of projects, as well as the length of the discussion
 - for each project, is at the discretion of the Commission. We advise you to be present at the beginning of the meeting
@@ -173,7 +98,7 @@
 - II. PUBLIC COMMENT ON HISTORIC PRESERVATION ISSUES (NON-AGENDA ITEMS
 - A. COMPREHENSIVE PLAN UNDERUTILIZED PARCELS ANALYSIS
 
-## [breckenridge#7] 2026-09-01 | Planning Commission | agenda
+## [breckenridge#5] 2026-09-01 | Planning Commission | agenda
 - 150 Ski Hill Road
 - The indicated times are intended only to be used as guides. The order of projects, as well as the length of the discussion
 - for each project, is at the discretion of the Commission. We advise you to be present at the beginning of the meeting
@@ -210,7 +135,7 @@
 - asking you to approve, not less. That’s the piece I would like you to sit with tonight, because I don't think
 - this is a disagreement about the facts on the lot. I think it's just a disagreement about which condition that
 
-## [breckenridge#8] 2026-09-02 | Breckenridge Events Committee | agenda
+## [breckenridge#6] 2026-09-02 | Breckenridge Events Committee | agenda
 - b Approval of minutes from August 5, 2026, Meeting
 - III. Approved Upcoming Events – no need to discuss unless there are significant changes or questions/concern
 - h 10.9.26 Global Fire
@@ -220,7 +145,7 @@
 - The Breckenridge Events Committee evaluates events against four strategic goals:
 - Resident Focused - An event designed specifically for residents vs. an event more broadly marketed to visitors and residents
 
-## [breckenridge#9] 2026-09-08 | Town Council | minutes
+## [breckenridge#7] 2026-09-08 | Town Council | minutes
 - EXECUTIVE SESSION CERTIFICATE
 - certifies as follows :
 - C.R.S to discuss the purchase, acquisition, lease, transfer, or sale of real, personal, or other property
@@ -259,7 +184,7 @@
 - AN ORDINANCE CONCERNING THE REFUNDING OF CERTAIN
 - OUTSTANDING CERTIFICATES OF PARTICIPATION, SERIES 2016, AND IN
 
-## [breckenridge#10] 2026-09-15 | Liquor and Marijuana Licensing Authority | agenda
+## [breckenridge#8] 2026-09-15 | Liquor and Marijuana Licensing Authority | agenda
 - II. APPROVAL OF MINUTES
 - III. APPROVAL OF AGENDA
 - V. PUBLIC HEARING; ACTION ITEMS - NONE
@@ -269,7 +194,7 @@
 - D. APPROVED SPECIAL EVENTS
 - E. PUBLIC COMMENT
 
-## [breckenridge#11] 2026-09-15 | Liquor and Marijuana Licensing Authority | agenda
+## [breckenridge#9] 2026-09-15 | Liquor and Marijuana Licensing Authority | agenda
 - II. APPROVAL OF MINUTES
 - III. APPROVAL OF AGENDA
 - V. PUBLIC HEARING; ACTION ITEMS - NONE
@@ -303,7 +228,7 @@
 - Hearing/Approval: August 4, 2026
 - Hearing/Approval: August 10, 2026
 
-## [breckenridge#12] 2026-09-15 | Planning Commission | agenda
+## [breckenridge#10] 2026-09-15 | Planning Commission | agenda
 - 150 Ski Hill Road
 - The indicated times are intended only to be used as guides. The order of projects, as well as the length of the discussion
 - for each project, is at the discretion of the Commission. We advise you to be present at the beginning of the meeting
@@ -312,7 +237,7 @@
 - II. PUBLIC COMMENT ON HISTORIC PRESERVATION ISSUES (NON-AGENDA ITEMS
 - A. LITTLE RED SCHOOL HOUSE EXPANSION TOWN PROJECT WORK SESSION (CC) 600 REILING
 
-## [breckenridge#13] 2026-09-15 | Planning Commission | agenda
+## [breckenridge#11] 2026-09-15 | Planning Commission | agenda
 - 150 Ski Hill Road
 - The indicated times are intended only to be used as guides. The order of projects, as well as the length of the discussion
 - for each project, is at the discretion of the Commission. We advise you to be present at the beginning of the meeting
@@ -349,7 +274,7 @@
 - Mr. Kulick: If this property was developed as market-rate and not workforce housing, the site would
 - very large SF homes that could total more square footage than multifamily at 20 UPA
 
-## [breckenridge#14] 2026-09-21 | Breckenridge Open Space Advisory Commission | minutes
+## [breckenridge#12] 2026-09-21 | Breckenridge Open Space Advisory Commission | minutes
 - *Please note that this meeting summary was partially generated using AI transcription technology and has been reviewed
 - Alex Lindquist, Dave Stitz, and Sam Parker. Members of the public that were present
 - II) APPROVAL OF MINUTES
@@ -385,7 +310,7 @@
 - Stamp Mill relocation originally approved for 2026 is rolling over into 2027 while boundary
 - roof near the Jesse Mill on Gold Run Road
 
-## [breckenridge#15] 2026-09-22 | Town Council | minutes
+## [breckenridge#13] 2026-09-22 | Town Council | minutes
 - II) APPROVAL OF MINUTES
 - September gt\ 2026. Mayor Owens declared they would stand approved as presented
 - III) APPROVAL OF AGENDA
@@ -427,7 +352,7 @@
 - RESOLUTION IN SUPPORT OF SUMMIT COUNTY'S REFERRED MEASURE IA
 - 2) RESOLUTION NO. 19, SERIES 2026 -A RESOLUTION IN SUPPORT OF SUMMIT
 
-## [breckenridge#16] 2026-10-06 | Planning Commission | agenda
+## [breckenridge#14] 2026-10-06 | Planning Commission | agenda
 - 150 Ski Hill Road
 - The indicated times are intended only to be used as guides. The order of projects, as well as the length of the discussion
 - for each project, is at the discretion of the Commission. We advise you to be present at the beginning of the meeting
@@ -437,7 +362,7 @@
 - III. TOWN PROJECTS (5:40PM)
 - A. LITTLE RED SCHOOLHOUSE EXPANSION TOWN PROJECT HEARING (CC); 600 REILING RD,
 
-## [breckenridge#17] 2026-10-07 | Breckenridge Events Committee | agenda
+## [breckenridge#15] 2026-10-07 | Breckenridge Events Committee | agenda
 - b Approval of minutes from September 2, 2026, Meeting
 - III. Approved Upcoming Events – no need to discuss unless there are significant changes or questions/concern
 - a 10.9.26 Global Fire
@@ -446,119 +371,46 @@
 - The Breckenridge Events Committee evaluates events against four strategic goals:
 - Resident Focused - An event designed specifically for residents vs. an event more broadly marketed to visitors and residents
 
-## [breckenridge#18] 2026-10-13 | Town Council | agenda
-- 150 Ski Hill Road
-- 1741 4335). If you need special assistance in order to attend any of the Town's public meetings, please notify
-- I. BUDGET RETREAT (12:30PM-5:30PM)
-- BUDGET RETREAT
-- RESOLUTION TO ADOPT A LEGISLATIVE POLICY (RESOLUTION)
-- RESOLUTION IN SUPPORT OF STATEWIDE BALLOT MEASURE - PROPOSITION NN
-- (RESOLUTION)
-- AUTOMATED LICENSE PLATE READER PROGRAM PRESENTATION
-- EXECUTIVE SESSION TO DISCUSS NEGOTIATIONS WITH SUMMIT SCHOOL DISTRICT
-
-## [breckenridge#19] 2026-10-13 | Town Council | agenda
-- 150 Ski Hill Road
-- 1741 4335). If you need special assistance in order to attend any of the Town's public meetings, please notify
-- I. BUDGET RETREAT (12:30PM-5:30PM)
-- BUDGET RETREAT
-- RESOLUTION TO ADOPT A LEGISLATIVE POLICY (RESOLUTION)
-- RESOLUTION IN SUPPORT OF STATEWIDE BALLOT MEASURE - PROPOSITION NN
-- (RESOLUTION)
-- AUTOMATED LICENSE PLATE READER PROGRAM PRESENTATION
-- EXECUTIVE SESSION TO DISCUSS NEGOTIATIONS WITH SUMMIT SCHOOL DISTRICT
-- 2027 BUDGET AGENDA
-- BUDGET PROCESS OVERVIEW
-- hometown feel and friendly atmosphere
-- GOAL 1: Implement Capital Project Plans
-- GOAL 2: Review and update Ordinances & Development Code
-- GOAL 2: To reduce delivery truck traffic, parking conflicts and
-- GOAL 1: Provide a variety of housing price points and types in the
-- GOAL 2: Information about the housing programs and projects is
-- readily available and the process to find and access housing is easy
-- continues to implement innovative strategic programs and adapts to
-- Workforce Housing
-- affordable, diverse housing
-- units a year, expand Housing
-- Objective 1.1: Continue to increase housing inventory to meet the
-- needs of the community through new construction projects and
-- housing preservation programs that target a variety of income levels
-- Objective 2.1: Summit Combined Housing Authority is the one stop
-- shop for information on housing options, assistance, and programs
-- Objective 2.2: Town website is updated and housing information
-- continues to implement innovative strategic programs and adapts
-- Objective 3.2: Housing Department is fully staffed
-- By 2030, Breckenridge aims to grow its housing inventory from
-- should reflect community diversity, and overall housing stability
-- also aims to raise awareness of the Summit County Housing
-- households, increase use of the housing website, and ensure the
-- Housing Department is fully staffed
-- Objective 1.1: Identify the Town Code enforcement needs of each Town Department
-- Objective 1.2: Identify and revise sections of the Town Code that need to be updated to
-- where needed and include process improvements where identified by departments
-- Objective 1.3: Identify an education/enforcement strategy that balances the needs of the
-- Objective 1.4: Identify the organizational structure/location for personnel that would best
-- The Town will identify specific departmental code enforcement needs, adopt the necessary ordinances,
-- and implement a comprehensive enforcement strategy. This approach is designed to be effective,
-- responsive to community concerns, and carried out in a way that generates minimal negative feedback
-- the use of marketing tools and strategies, including analysis of what
-
-## [breckenridge#20] 2026-10-13 | Town Council | agenda
-- 150 Ski Hill Road
-- 1741 4335). If you need special assistance in order to attend any of the Town's public meetings, please notify
-- II. APPROVAL OF MINUTES
-- III. APPROVAL OF AGENDA
-- A. PUBLIC COMMENT (NON-AGENDA ITEMS ONLY; 3-MINUTE TIME LIMIT PLEASE)
-- B. RESOLUTIONS, SERIES 2026
-- 1. RESOLUTION NO. 20, SERIES 2026 — A RESOLUTION APPROVING TOWN OF
-- 2. RESOLUTION NO.21, SERIES 2026 — A RESOLUTION IN SUPPORT OF STATEWIDE
-- G. ARTS & CULTURE MASTER PLAN STEERING COMMITTEE
-
-## [breckenridge#21] 2026-10-13 | Town Council | agenda
-- 150 Ski Hill Road
-- 1741 4335). If you need special assistance in order to attend any of the Town's public meetings, please notify
-- II. APPROVAL OF MINUTES
-- III. APPROVAL OF AGENDA
-- A. PUBLIC COMMENT (NON-AGENDA ITEMS ONLY; 3-MINUTE TIME LIMIT PLEASE)
-- B. RESOLUTIONS, SERIES 2026
-- 1. RESOLUTION NO. 20, SERIES 2026 — A RESOLUTION APPROVING TOWN OF
-- 2. RESOLUTION NO.21, SERIES 2026 — A RESOLUTION IN SUPPORT OF STATEWIDE
-- G. ARTS & CULTURE MASTER PLAN STEERING COMMITTEE
+## [breckenridge#16] 2026-10-13 | Town Council | minutes
+- EXECUTIVE SESSION CERTIFICATE
+- certifies as follows:
+- C.R.S to discuss the purchase, acquisition, lease, transfer, or sale of real, personal, or other property
+- may be subject to negotiations, developing strategies for negotiations, and instructing negotiators. Council
+- (i) Discussions regarding potential negotiations with the Summit School District regarding real
+- This certificate shall be included before the minutes ofthe regular Town Council meeting of Tuesday,
+- As Town Attorney, I hereby attest that it is my opinion that the portion of the discussion in executive
 - II) APPROVAL OF MINUTES
-- September 8th, 2026. Mayor Owens declared they would stand approved as presented
+- September 22nd, 2026. Mayor Owens declared they would stand approved as presented
 - III) APPROVAL OF AGENDA
-- Town Manager Shannon Haynes stated that the agenda could be amended to add
-- Resolution No. 19, Series 2026, a resolution supporting Summit County’s Ballot Measure
-- 4A—the Summit School District Mill Levy Override—which Council had expressed
-- Council Member Gerard moved to amend the agenda to include consideration of
-- Resolution No. 19, Series 2026 concerning Ballot Measure 4A and the Summit School
-- District Mill Levy Override. Council Member Saade seconded the motion
-- The motion passed 7 – 0, and the agenda was amended
 - A) PUBLIC COMMENT (NON-AGENDA ITEMS ONLY; 3-MINUTE TIME LIMIT)
-- Mayor Kelly Owens opened public comment
-- appreciation for staff and the contractor for their work on the Warriors Mark Project. In
-- addition, Rockne requested Council consider installing a water tap
-- Advisory Commission and requested Town Council increase the minimum wage
-- With no additional public comments, Mayor Owens closed public comment
-- 1) COUNCIL BILL NO. 10, SERIES 2026 — AN ORDINANCE CONCERNING THE
-- REFUNDING OF CERTAIN OUTSTANDING CERTIFICATES OF
-- AUTHORIZING THE REFUNDING PROJECT, APPROVING THE CONVEYANCE
-- A SITE LEASE, A LEASE PURCHASE AGREEMENT, AND OTHER DOCUMENTS
-- Laura MacInnes, Finance Director, presented the second reading of an ordinance related
-- development, with $4.6 million still outstanding. She noted that the COPs become
-- proceed only if the potential savings justify the costs associated with refunding. There
 - Mayor Owens opened public comment
-- With no public comments, Mayor Owens closed public comment
-- Council Member Gerard moved to approve COUNCIL BILL NO. 10, SERIES 2026 —
-- AN ORDINANCE CONCERNING THE REFUNDING OF CERTAIN
-- OUTSTANDING CERTIFICATES OF PARTICIPATION, SERIES 2016, AND IN
-- CONNECTION THEREWTITH AUTHORIZING THE REFUNDING PROJECT,
-- APPROVING THE CONVEYANCE OF CERTAIN LEASED PROPERTY, AND THE
-- EXECUTION AND DELIVERY OF A SITE LEASE, A LEASE PURCHASE
-- AGREEMENT, AND OTHER DOCUMENTS RELATED THERETO. Council Member
+- Awareness Month and expressed disappointment that the Town had not publicly
+- engagement. Ochoa asked whether the police department's policies and training comply
+- with Colorado law, requested information about officers' training curriculum, and called
+- With no additional public comments, Mayor Owens closed public comment
+- Breckenridge's culinary brand. The high-quality collection of chefs generated significant
+- down. She also stated that the BTO has begun discussing potential changes to its
+- strategies and structure for event planning in 2028
 - B) RESOLUTIONS, SERIES 2026
+- 1) RESOLUTION NO. 20, SERIES 2026-A RESOLUTION APPROVING TOWN OF
+- Keely Ambrose, Town Attorney, presented a resolution that would provide guidelines for
+- Council Member Page moved to approve RESOLUTION NO. 20, SERIES 2026 - A
+- RESOLUTION APPROVING TOWN OF BRECKENRIDGE LEGISLATIVE POLICY
+- 2) RESOLUTION NO. 21, SERIES 2026-A RESOLUTION IN SUPPORT OF
+- Shannon Haynes, Town Manager, stated this resolution would support proposition NN,
+- public education funding by 2% each year for 10 years without raising any taxes. The
+- Council Member Page moved to approve RESOLUTION NO. 21, SERIES 2026-A
+- RESOLUTION IN SUPPORT OF STATEWIDE BALLOT MEASURE PROPOSITION
+- Housing Working Group
+- Mayor Owens will handle midyear matters such as the Comprehensive Plan and water
+- Planning Decisions were approved as presented
+- raise its fees for the first time in IO years
+- results. Oktoberfest was successful. BTO is considering additional Labor Day events,
+- received positive feedback from restaurants at GovCon' s record-attendance event, and is
+- developing next summer's marketing plan
+- G) ARTS & CULTURE MASTER PLAN STEERING COMMITTEE
 
-## [breckenridge#22] 2026-10-19 | Breckenridge Open Space Advisory Commission | minutes
+## [breckenridge#17] 2026-10-19 | Breckenridge Open Space Advisory Commission | minutes
 - *Please note that this meeting summary was partially generated using AI transcription technology and has been reviewed
 - II) APPROVAL OF MINUTES
 - The August 17, 2026 BOSAC meeting minutes were approved as presented
@@ -595,7 +447,7 @@
 - Town Council budget retreat, highlighting a conservative fiscal approach based on flat sales
 - tax revenue projections. 2026 projected revenues exceed operational expenses by
 
-## [breckenridge#23] 2026-10-20 | Liquor and Marijuana Licensing Authority | agenda
+## [breckenridge#18] 2026-10-20 | Liquor and Marijuana Licensing Authority | agenda
 - II. APPROVAL OF MINUTES
 - III. APPROVAL OF AGENDA
 - V. PUBLIC HEARING; ACTION ITEMS - NONE
@@ -605,7 +457,7 @@
 - D. APPROVED SPECIAL EVENTS
 - E. PUBLIC COMMENT
 
-## [breckenridge#24] 2026-10-20 | Liquor and Marijuana Licensing Authority | agenda
+## [breckenridge#19] 2026-10-20 | Liquor and Marijuana Licensing Authority | agenda
 - II. APPROVAL OF MINUTES
 - III. APPROVAL OF AGENDA
 - V. PUBLIC HEARING; ACTION ITEMS - NONE
@@ -647,7 +499,7 @@
 - Arts District – S Ridge Street from Lincoln Ave to E Washington Ave and E Washington Ave from S
 - Hearing/Approval: September 29, 2026
 
-## [breckenridge#25] 2026-10-20 | Planning Commission | agenda
+## [breckenridge#20] 2026-10-20 | Planning Commission | agenda
 - 150 Ski Hill Road
 - The indicated times are intended only to be used as guides. The order of projects, as well as the length of the discussion
 - for each project, is at the discretion of the Commission. We advise you to be present at the beginning of the meeting
@@ -658,7 +510,7 @@
 - IV. PRELIMINARY HEARINGS (5:45PM)
 - A. CITY MARKET #430 FUEL CENTER (CC), 430 N. PARK AVENUE, PL-2026-0171
 
-## [breckenridge#26] 2026-10-21 | Breckenridge Social Equity Advisory Commission | agenda
+## [breckenridge#21] 2026-10-21 | Breckenridge Social Equity Advisory Commission | agenda
 - 150 Ski Hill Road
 - If you will need special assistance in order to attend any of the Town's public meetings, please notify the Town
 - B. DISCUSSION/APPROVAL OF AGENDA
@@ -670,7 +522,7 @@
 - B. DECEMBER MEETING DISCUSSION
 - VIII. PUBLIC COMMENT (NON-AGENDA ITEMS)
 
-## [breckenridge#27] 2026-10-21 | Breckenridge Social Equity Advisory Commission | agenda
+## [breckenridge#22] 2026-10-21 | Breckenridge Social Equity Advisory Commission | agenda
 - 150 Ski Hill Road
 - If you will need special assistance in order to attend any of the Town's public meetings, please notify the Town
 - B. DISCUSSION/APPROVAL OF AGENDA
@@ -710,7 +562,7 @@
 - IX. Public Comment (Non-Agenda Items)
 - Community member, Summer Star, shared reflections on belonging, safety, and representation as a
 
-## [breckenridge#28] 2026-10-27 | Town Council | agenda
+## [breckenridge#23] 2026-10-27 | Town Council | agenda
 - 150 Ski Hill Road
 - 0112 6789). If you need special assistance in order to attend any of the Town's public meetings, please notify
 - ORDINANCE TO APPROVE 2027 MILL LEVY (FIRST READING)
@@ -724,7 +576,7 @@
 - CHILDCARE CENTER LEASE DISCUSSION
 - LITTLE RED SCHOOLHOUSE TOWN PROJECT
 
-## [breckenridge#29] 2026-10-27 | Town Council | agenda
+## [breckenridge#24] 2026-10-27 | Town Council | agenda
 - 150 Ski Hill Road
 - 0112 6789). If you need special assistance in order to attend any of the Town's public meetings, please notify
 - ORDINANCE TO APPROVE 2027 MILL LEVY (FIRST READING)
@@ -768,7 +620,7 @@
 - ever be painted. (Mr. Mullins: We can discuss that with the client as well.) I appreciate
 - we can discuss another color for the mountain environment that blends better if that is
 
-## [breckenridge#30] 2026-10-27 | Town Council | agenda
+## [breckenridge#25] 2026-10-27 | Town Council | agenda
 - 150 Ski Hill Road
 - 0112 6789). If you need special assistance in order to attend any of the Town's public meetings, please notify
 - II. APPROVAL OF MINUTES
@@ -784,7 +636,7 @@
 - A. PLANNING COMMISSION APPOINTMENTS
 - G. ARTS & CULTURE MASTER PLAN STEERING COMMITTEE
 
-## [breckenridge#31] 2026-10-27 | Town Council | agenda
+## [breckenridge#26] 2026-10-27 | Town Council | agenda
 - 150 Ski Hill Road
 - 0112 6789). If you need special assistance in order to attend any of the Town's public meetings, please notify
 - II. APPROVAL OF MINUTES
@@ -827,7 +679,7 @@
 - Shannon Haynes, Town Manager, stated this resolution would support proposition NN,
 - public education funding by 2% each year for 10 years without raising any taxes. The
 
-## [breckenridge#32] 2026-11-03 | Planning Commission | agenda
+## [breckenridge#27] 2026-11-03 | Planning Commission | agenda
 - 150 Ski Hill Road
 - The indicated times are intended only to be used as guides. The order of projects, as well as the length of the discussion
 - for each project, is at the discretion of the Commission. We advise you to be present at the beginning of the meeting
@@ -836,7 +688,7 @@
 - II. PUBLIC COMMENT ON HISTORIC PRESERVATION ISSUES (NON-AGENDA ITEMS
 - B. NEW PLANNING COMMISSION APPOINTMENTS
 
-## [breckenridge#33] 2026-11-03 | Planning Commission | agenda
+## [breckenridge#28] 2026-11-03 | Planning Commission | agenda
 - 150 Ski Hill Road
 - The indicated times are intended only to be used as guides. The order of projects, as well as the length of the discussion
 - for each project, is at the discretion of the Commission. We advise you to be present at the beginning of the meeting
@@ -871,3 +723,161 @@
 - The hearing was opened to public comment. There were no public comments, and the comment period
 - Mr. Giller: Thank you for a thoughtful redesign of the project. This is a much better design. I too
 - sample board for the final hearing so we can see the proposed stone
+
+## [breckenridge#29] 2026-11-10 | Town Council | agenda
+- 150 Ski Hill Road
+- 1741 4335). If you need special assistance in order to attend any of the Town's public meetings, please notify
+- II. PARKING STUDY PRESENTATION (3:00-3:40PM)
+- PARKING STUDY PRESENTATION
+- ORDINANCE TO APPROVE 2027 MILL LEVY (SECOND READING)
+- RESOLUTION TO APPROVE LITTLE RED SCHOOL HOUSE SURRENDER AND ACCEPTANCE
+- AGREEMENT (RESOLUTION)
+- ORDINANCE TO APPROVE LITTLE RED SCHOOLHOUSE LEASE AGREEMENT (FIRST
+- ORDINANCE TO APPROVE CARRIAGE HOUSE LEASE AGREEMENT (FIRST READING)
+- ORDINANCE TO APPROVE TIMBERLINE LEARNING CENTER LEASE AGREEMENT (FIRST
+- RESOLUTION TO APPROVE PROPOSITION 123 INTERGOVERNMENTAL AGREEMENT WITH
+- THE TOWN OF SILVERTHORNE (RESOLUTION)
+- PUBLIC PROJECTS UPDATE
+- HOUSING UPDATE
+- COMMUNITY OR DESTINATION EVENT AND ANIMATION GRANT PROGRAM UPDATE
+- COMMUNICATIONS/ OUTREACH PLAN AND KEY PERFORMANCE INDICATORS
+- PRESENTATION
+- TOWN SPECIAL EVENTS POSITION DISCUSSION
+- EXECUTIVE SESSION TO DISCUSS PARKING AGREEMENT NEGOTIATIONS WITH
+- EXECUTIVE SESSION TO DISCUSS PERSONNEL MATTERS (TOWN ATTORNEY REVIEW)
+
+## [breckenridge#30] 2026-11-10 | Town Council | agenda
+- 150 Ski Hill Road
+- 1741 4335). If you need special assistance in order to attend any of the Town's public meetings, please notify
+- II. PARKING STUDY PRESENTATION (3:00-3:40PM)
+- PARKING STUDY PRESENTATION
+- ORDINANCE TO APPROVE 2027 MILL LEVY (SECOND READING)
+- RESOLUTION TO APPROVE LITTLE RED SCHOOL HOUSE SURRENDER AND ACCEPTANCE
+- AGREEMENT (RESOLUTION)
+- ORDINANCE TO APPROVE LITTLE RED SCHOOLHOUSE LEASE AGREEMENT (FIRST
+- ORDINANCE TO APPROVE CARRIAGE HOUSE LEASE AGREEMENT (FIRST READING)
+- ORDINANCE TO APPROVE TIMBERLINE LEARNING CENTER LEASE AGREEMENT (FIRST
+- RESOLUTION TO APPROVE PROPOSITION 123 INTERGOVERNMENTAL AGREEMENT WITH
+- THE TOWN OF SILVERTHORNE (RESOLUTION)
+- PUBLIC PROJECTS UPDATE
+- HOUSING UPDATE
+- COMMUNITY OR DESTINATION EVENT AND ANIMATION GRANT PROGRAM UPDATE
+- COMMUNICATIONS/ OUTREACH PLAN AND KEY PERFORMANCE INDICATORS
+- PRESENTATION
+- TOWN SPECIAL EVENTS POSITION DISCUSSION
+- EXECUTIVE SESSION TO DISCUSS PARKING AGREEMENT NEGOTIATIONS WITH
+- EXECUTIVE SESSION TO DISCUSS PERSONNEL MATTERS (TOWN ATTORNEY REVIEW)
+- From: Matt Hulsey – Assistant Public Works Director – Mobility, Parking, Sustainability
+- Subject: Parking Study Presentation
+- Deliver a Balanced Year-Round Economy Hometown Feel & Authentic Character
+- With consultants from DJ&A, staff will present the results of the Town-wide parking study completed by DJ&A (and supported by
+- Parkicity and Parkalytics) and seek Town Council direction on implementation priorities. The study evaluated parking utilization,
+- visitor and employee parking needs, pricing structures, enforcement practices, and technology opportunities. The resulting action
+- plan includes thirteen parking management strategies organized into six themes that focus on improving management of existing
+- parking resources rather than constructing additional parking supply
+- The study concludes that Breckenridge does not have a parking supply shortage. Instead, Town has a logistical issue- parking
+- demand is heavily concentrated in the downtown core while significant capacity remains available in peripheral parking facilities
+- The recommended strategies are intended to improve distribution of parking demand, enhance employee parking reliability,
+- In 2017, the Town implemented the paid parking and enforcement program currently in place. Aspects of the program have been
+- modified over time to improve occupancy and utilization. At the time the program was implemented, the Town contracted
+- Interstate Parking Company (IPC) to provide parking management services for the Town and has utilized their services since
+
+## [breckenridge#31] 2026-11-10 | Town Council | agenda
+- 150 Ski Hill Road
+- 1741 4335). If you need special assistance in order to attend any of the Town's public meetings, please notify
+- II. APPROVAL OF MINUTES
+- III. APPROVAL OF AGENDA
+- A. PUBLIC COMMENT (NON-AGENDA ITEMS ONLY; 3-MINUTE TIME LIMIT PLEASE)
+- 1. COUNCIL BILL NO. 11, SERIES 2026 — AN ORDINANCE SETTING THE MILL LEVY
+- 1. COUNCIL BILL NO. 12, SERIES 2026 — AN ORDINANCE APPROVING A LEASE WITH
+- 2. COUNCIL BILL NO. 13, SERIES 2026 — AN ORDINANCE APPROVING A LEASE WITH
+- 3. COUNCIL BILL NO. 14, SERIES 2026 — AN ORDINANCE APPROVING A LEASE WITH
+- B. RESOLUTIONS, SERIES 2026
+- 1. RESOLUTION NO. 24, SERIES 2026 — A RESOLUTION AUTHORIZING THE EXECUTION
+- AND RECORDING OF A SURRENDER AND ACCEPTANCE AGREEMENT
+- 2. RESOLUTION NO. 25, SERIES 2026 — A RESOLUTION APPROVING AN
+- INTERGOVERNMENTAL AGREEMENT WITH THE TOWN OF SILVERTHORNE
+- REGARDING PROPOSITION 123 AFFORDABLE HOUSING CREDITS
+- G. ARTS & CULTURE MASTER PLAN STEERING COMMITTEE
+
+## [breckenridge#32] 2026-11-10 | Town Council | agenda
+- 150 Ski Hill Road
+- 1741 4335). If you need special assistance in order to attend any of the Town's public meetings, please notify
+- II. APPROVAL OF MINUTES
+- III. APPROVAL OF AGENDA
+- A. PUBLIC COMMENT (NON-AGENDA ITEMS ONLY; 3-MINUTE TIME LIMIT PLEASE)
+- 1. COUNCIL BILL NO. 11, SERIES 2026 — AN ORDINANCE SETTING THE MILL LEVY
+- 1. COUNCIL BILL NO. 12, SERIES 2026 — AN ORDINANCE APPROVING A LEASE WITH
+- 2. COUNCIL BILL NO. 13, SERIES 2026 — AN ORDINANCE APPROVING A LEASE WITH
+- 3. COUNCIL BILL NO. 14, SERIES 2026 — AN ORDINANCE APPROVING A LEASE WITH
+- B. RESOLUTIONS, SERIES 2026
+- 1. RESOLUTION NO. 24, SERIES 2026 — A RESOLUTION AUTHORIZING THE EXECUTION
+- AND RECORDING OF A SURRENDER AND ACCEPTANCE AGREEMENT
+- 2. RESOLUTION NO. 25, SERIES 2026 — A RESOLUTION APPROVING AN
+- INTERGOVERNMENTAL AGREEMENT WITH THE TOWN OF SILVERTHORNE
+- REGARDING PROPOSITION 123 AFFORDABLE HOUSING CREDITS
+- G. ARTS & CULTURE MASTER PLAN STEERING COMMITTEE
+- EXECUTIVE SESSION CERTIFICATE
+- certifies as follows:
+- discuss the purchase, acquisition, lease, transfer, or sale of real, personal, or other property interest;
+- determining positions relative to matters that may be subject to negotiations, developing strategies for
+- This certificate shall be included before the minutes of the regular Town Council meeting of Tuesday,
+- own Attorney, I hereby attest that it is my opinion that the portion of the discussion in executive
+- II) APPROVAL OF MINUTES
+- 13th, 2026. Mayor Owens declared they would stand approved as presented
+- III) APPROVAL OF AGENDA
+- Town Manager Shannon Haynes clarified that a public hearing would be held in
+- conjunction with the resolution adopting the budget. Haynes noted that this is standard
+- A) PUBLIC COMMENT (NON-AGENDA ITEMS ONLY; 3-MINUTE TIME LIMIT)
+- Mayor Owens opened public comment
+- for supporting the tiny home construction program. Oss presented awards to the Town of
+- With no additional public comments, Mayor Owens closed public comment
+- 1) COUNCIL BILL NO. 11, SERIES 2026 – AN ORDINANCE SETTING THE MILL
+- LEVY WITHIN THE TOWN OF BRECKENRIDGE FOR 2027
+- levy at 5.07 mills, unchanged since 2014, and projected to generate $5.48 million for
+- With no public comment, Mayor Owens closed public comment
+- Council Member Gerard moved to approve COUNCIL BILL NO. 11, SERIES 2026
+- AN ORDINANCE SETTING THE MILL LEVY WITHIN THE TOWN OF
+- B) RESOLUTIONS, SERIES 2026
+- 1) RESOLUTION NO. 22, SERIES 2026 – A RESOLUTION ADOPTING THE 2027
+- BUDGET AND MAKING APPROPRIATIONS THEREFOR; AND APPROVING THE
+- 2027 CAPITAL IMPROVEMENT PLAN
+- Laura MacInnes, Finance Director, presented a resolution to adopt the 2027 budget,
+
+## [breckenridge#33] 2026-11-16 | Breckenridge Open Space Advisory Commission | minutes
+- *Please note that this meeting summary was partially generated using AI transcription technology and has been reviewed
+- II) APPROVAL OF MINUTES
+- The September 21, 2026 BOSAC meeting minutes were approved as presented
+- III) PUBLIC COMMENTS
+- E. Peak 10 Trails Project
+- OST staff and the commission reviewed the proposed project led by the White River National
+- Forest (WRNF), which is pending approval to be included in WRNF’s 2027 workplan and
+- comment periods. The project aims to inventory user-created social trails on the National
+- the Breckenridge Ski Resort, and the general public. Discussion touched on potential town
+- were instructed to avoid discussing public business during the visit. Staff will facilitate a
+- follow-up discussion on field trip observations and takeaways during the November 16, 2026
+- around $100,000 and had a 6-month material lead time. Positive feedback was received
+- regarding the low-profile design. Despite minor permitting challenges, coordination with
+- contractors and Summit County was smooth. The commission agreed to consider future
+- installations at locations like the Wellington Bike Park and Illinois Creek, keeping in mind
+- expenses covered through grant funding (The Town provided a 10% match, amounting to
+- $4,021, from open space funds), and user feedback was overwhelmingly positive; staff
+- Pass Road during the duration of the shuttle remained busy but manageable, with support
+- trailheads without dedicated parking
+- V) OPEN SPACE DISCUSSION
+- local tourism office and businesses. All hikes were fully booked, and staff plan to refine
+- o Staff received public feedback requesting more accessible, non-hiking program options
+- (e.g., stationary talks) and are considering additional venues like the local library for
+- future presentations
+- OST Grant Application Reviews (0:51:13)
+- Staff shared that $30,000 was budgeted for grant awards within the 2027 OST budget
+- Friends of the Dillon Ranger District (FDRD): Requested $25,000
+- o Discussion highlighted FDRD's high-quality trail work, increased operational costs, and
+- focused impact on projects near Breckenridge. Mr. Joel Dukes shared strong staff support
+- for FDRD project leaders Lizzie and Maddie
+- o Commissioners expressed unanimous support for awarding $25,000, citing the
+- o Outcome: Approved 4/0 for $25,000
+- Colorado Fourteeners Initiative (CFI): Requested $10,000
+- o Discussion highlighted CFI’s vital role in trail maintenance on high-alpine peaks and
+- their active involvement in the Southern Tenmile Recreation Access Plan. Mr. Jay
+- Beckerman raised concerns regarding the absence of a documented 2027 grant funding

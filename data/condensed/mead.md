@@ -616,7 +616,8 @@
 - e. Ordinance No. 1122 — An Ordinance of the Town of Mead, Colorado, Granting an
 - Right to Use the Streets, Alleys, Avenues, Roads, Highways, Easements, Right-of
 - Transmit, and Distribute Electricity to the Town and its Residents; Granting the Right
-- the Mayor or Mayor Pro Tem and Town Clerk to Execute the Franchise Agreement on
+- to Acquire, Construct, Install, Locate, Maintain, Operate, Repair, Replace, and Extend
+- or Mayor Pro Tem and Town Clerk to Execute the Franchise Agreement on Behalf of
 - f. Resolution No. 74-R-2026 – A Resolution of the Town of Mead, Colorado,
 - g. Resolution No. 75-R-2026 - A Resolution of the Town of Mead, Colorado, Approving
 - an Agreement for Professional Services with Pro-Pipe Services, LLC for Sanitary
@@ -635,7 +636,8 @@
 - 10. Public Comment:
 - set for public hearing
 - 12. Executive Session - Pursuant to C.R.S. 24-6-402(4)(f) to discuss personnel matters
-- 13. Executive Session - Pursuant to C.R.S. 24-6-402(4)(f) to discuss personnel matters
+- C.R.S. 24-6-402(4)(b) to discuss specific legal questions with the Town Attorney
+- regarding the Town Manager’s Amended and Restated Employment Agreement
 
 ## [mead#24] 2026-11-09 | Board of Trustees | agenda
 - 441 3rd Street, Mead
@@ -654,7 +656,8 @@
 - e. Ordinance No. 1122 — An Ordinance of the Town of Mead, Colorado, Granting an
 - Right to Use the Streets, Alleys, Avenues, Roads, Highways, Easements, Right-of
 - Transmit, and Distribute Electricity to the Town and its Residents; Granting the Right
-- the Mayor or Mayor Pro Tem and Town Clerk to Execute the Franchise Agreement on
+- to Acquire, Construct, Install, Locate, Maintain, Operate, Repair, Replace, and Extend
+- or Mayor Pro Tem and Town Clerk to Execute the Franchise Agreement on Behalf of
 - f. Resolution No. 74-R-2026 – A Resolution of the Town of Mead, Colorado,
 - g. Resolution No. 75-R-2026 - A Resolution of the Town of Mead, Colorado, Approving
 - an Agreement for Professional Services with Pro-Pipe Services, LLC for Sanitary
@@ -673,6 +676,9 @@
 - 10. Public Comment:
 - set for public hearing
 - 12. Executive Session - Pursuant to C.R.S. 24-6-402(4)(f) to discuss personnel matters
-- 13. Executive Session - Pursuant to C.R.S. 24-6-402(4)(f) to discuss personnel matters
-- The Town Board held a special meeting on Thursday, October 29 th to discuss the construction and
-- funding details of the new police facility. The 19,000 sq foot facility is to be located at the Municipal
+- C.R.S. 24-6-402(4)(b) to discuss specific legal questions with the Town Attorney
+- regarding the Town Manager’s Amended and Restated Employment Agreement
+
+## [mead#25] 2026-11-12 | Board of Trustees | agenda
+- 441 3rd Street, Mead
+- 441 Third Street

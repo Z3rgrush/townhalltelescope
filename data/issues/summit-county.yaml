@@ -1,5 +1,5 @@
-- title: Quikrete concrete and asphalt batch plant appeal on Highway 9
-  summary: The commissioners held a public hearing on an appeal of the Lower Blue Planning Commission's decision on PLN26-004, a Class 4 conditional use permit for milling and concrete and asphalt batch plant operations. The site is a 151-acre portion of a 605-acre A-1 parcel. The packet includes public comments, a stormwater plan and a landscape plan. The documents do not state the outcome.
+- title: Quikrete concrete and asphalt batch plant appeal at 28755 State Hwy 9
+  summary: The Board of County Commissioners heard an appeal of the Lower Blue Planning Commission decision on PLN26-004, a Class 4 conditional use permit for milling and concrete and asphalt batch plant operations on a 151-acre portion of a 605-acre A-1 parcel. The packet includes public comments, a stormwater plan, a landscape plan and a draft resolution; the documents do not state the outcome.
   where: 28755 State Hwy 9
   refs:
   - 0
@@ -8,45 +8,68 @@
   - Land & property
   - Environment & climate
   public_comment: true
+- title: Verizon wireless facility appeal at 6631 Heeney Road
+  summary: The Board took up an appeal of the Planning Commission decision on PLN26-009 and PLN26-010, a Class 4 conditional use permit and site plan for a new Verizon wireless telecommunication facility on Heeney Road (CR 30). Public comments are in the packet along with draft resolutions; the outcome is not stated.
+  where: 6631 Heeney Road (CR 30)
+  refs:
+  - 3
+  topics:
+  - Zoning & development
+  - Broadband
+  - Utilities
+  public_comment: true
 - title: 2027 county budget
-  summary: A draft 2027 budget was presented on Oct. 13, with a public hearing and public comment on the proposed budget on Oct. 27. Work sessions covered capital projects, road and bridge, lodging tax, the coroner, human services (BOSS) and a District Attorney budget amendment.
+  summary: The county presented its 2027 draft budget and held public hearings for comment on it in October and November. Work sessions covered the coroner, human services, Strong Future funds (early childhood, behavioral health, recycling, wildfire) and a Q3 2026 budget amendment.
   where: Countywide
   refs:
   - 0
   - 1
   - 2
   - 3
+  - 4
   topics:
   - Budget & taxes
-  - Roads & traffic
+  - Health & human services
+  - Schools & youth
   public_comment: true
-- title: SCRAP fee analysis and rate study
-  summary: Commissioners reviewed a rate study and fee analysis for SCRAP on Oct. 20. A follow-up rate study Q&A and a comparison of other agencies' rate factors were on the Oct. 27 work session.
-  where: Countywide
+- title: SCRAP landfill tipping fee increase
+  summary: Commissioners considered a new tipping fee schedule for the SCRAP landfill for 2027, based on a rate study. A resolution and fee schedule were in the packet.
+  where: Summit County landfill (SCRAP)
   refs:
-  - 1
   - 3
   topics:
   - Fees & rates
   - Utilities
-- title: Proposition 123 housing credits for Soda Creek project in Keystone
-  summary: The county was asked to approve an intergovernmental agreement with the Town of Keystone on allocating Proposition 123 housing credits (units) for the Soda Creek project.
+  - Environment & climate
+- title: Snake River wastewater plant rates and tax lien
+  summary: The county reviewed a Snake River wastewater utility rate study in work sessions, with Q&A comparing other agencies' rate factors. The Board also considered certifying indebtedness to the Snake River Sewer Fund for the treatment plant.
+  where: Snake River Wastewater Treatment Plant
+  refs:
+  - 2
+  - 3
+  - 4
+  topics:
+  - Water
+  - Fees & rates
+  - Utilities
+- title: Proposition 123 housing credits IGA with Keystone for Soda Creek project
+  summary: The Board considered an intergovernmental agreement with the Town of Keystone on allocating Proposition 123 housing credits to the Soda Creek project.
   where: Soda Creek, Keystone
   refs:
   - 0
   topics:
   - Housing
 - title: Summit Gulch claims option agreement in Upper Blue Basin
-  summary: Commissioners were asked to approve exercising an option agreement to acquire the Summit Gulch claims in the Upper Blue Basin.
-  where: Summit Gulch, Upper Blue Basin
+  summary: The Board was asked to approve exercising an option agreement for the Summit Gulch Claims in the Upper Blue Basin.
+  where: Upper Blue Basin
   refs:
   - 0
   topics:
   - Land & property
   - Parks & open space
-- title: County Road 506 full maintenance consideration
-  summary: Commissioners considered a resolution on whether the county should provide full maintenance on CR 506.
-  where: County Road 506
+- title: County Road 506 full maintenance
+  summary: The Board considered a resolution on whether the county should take on full maintenance of CR 506 for 2026.
+  where: CR 506
   refs:
   - 0
   topics:
@@ -60,11 +83,11 @@
   - Policing & public safety
   - Government operations
 - title: Community Services Block Grant needs assessment and Head Start grant
-  summary: Commissioners were asked to authorize the chair to approve the 3-year CSBG Community Needs Assessment and the 2027-2029 Community Action Plan. They were also asked to approve a Head Start supplemental grant application.
+  summary: The Board considered authorizing the Chair to approve the 3-year CSBG community needs assessment and 2027-2029 community action plan, and a Head Start supplemental grant application.
   where: Countywide
   refs:
   - 0
-  - 2
+  - 1
   topics:
   - Health & human services
   - Schools & youth

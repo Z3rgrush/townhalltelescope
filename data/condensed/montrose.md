@@ -1,50 +1,6 @@
 # montrose
 
-## [montrose#0] 2026-08-11 | Historic Preservation Commission | agenda
-- participation. Individuals wishing to be heard during public hearing proceedings are encouraged to be
-- 1) PUBLIC COMMENT
-- 2) PUBLIC HEARING
-- A) Alteration to Designated Property Hearing - Montrose Post Office
-- The commission will review the application for historic property alteration for
-- Action: Accept public comment/consider approval of the application
-
-## [montrose#1] 2026-08-12 | Planning Commission | minutes
-- Asst. City Attorney), lace Hochwalt ( Community Development Director), Scott Murphy ( City Engineer),
-- Approval of Minutes
-- Richard Rogers moved to approve the minutes of the June 24, 2026, meeting as submitted. Delphine
-- Star Court Lot 8 Townhomes Subdivision Preliminary Plat
-- This is a hearing for a proposed subdivision located on Lot 8 of the Miami Business Park Subdivision
-- Filing No. 2, also addressed as 739-749 East Star Court. This application subdivides the townhomes,
-- Staff Presentation
-- Applicant Presentation
-- A Planning Commissioner asked if it was the same as the sketch plan viewed previously, and Mr. Julian
-- Public Comment
-- Delphine Jadot moved to recommend to City Council approval of the Preliminary Plat application with
-- the following condition(s). The approval of this Preliminary Plat is expressly conditioned upon City staff
-- ensuring that all policies, regulations, ordinances and municipal code provisions are met and that the
-- Applicant adequately addresses all of staffs concerns prior to the execution of the Final Plat. The City
-- staff is not authorized by this approval to execute the Final Plat prior to all conditions being satisfied
-- The request meets the Code criteria based on the evidence and testimony presented at this hearing and
-- LOCUST ROAD ADDITION INITIAL ZONING
-- This is a hearing for the initial zoning of the Locust Road Addition, a pending annexation of 1815 Locust
-- Road, as well as a portion of the Locust Road right of way. The applicant has requested the " R-2" Low
-- Density District zoning designation. The applicant is Gustavo Martinez
-- Road if the residential presence is expanded
-- Planning Commissioners and staff discussed prioritizing pedestrian infrastructure and eventually
-- rebuilding Locust Road to its true minor arterial classification
-- Phoebe Benziger moved to recommend approval of the initial zoning request of " R-2" Low District. The
-- request meets the Code criteria based on the evidence and testimony presented at this hearing and inthe staff report. Beth McCorkle seconded, and the motion passed unanimously
-- CHELSI LANE & TOWNHOMES AMENDED PD PLAN
-- This is a hearing for a proposed amendment to the Chelsi Replat Amended PD Plan and Preliminary Plat
-- The previously approved PD plan from 1992 approved 24 units in this portion of the property. This PD
-- amendment reduces the number to 23. There are no further changes to the PD plan. The applicant is
-- exhibits have been entered into the record. Scott Murphy gave an infrastructure overview, includingdrainage, sewer, sidewalks, and fire protection
-
-## [montrose#2] 2026-08-17 | City Council | minutes
-- 24-6-402(41(bl, and the following additional details are provided for identification purposes:
-- litigation update and discussion. All voted yes. Motion passed
-
-## [montrose#3] 2026-08-18 | City Council | minutes
+## [montrose#0] 2026-08-18 | City Council | minutes
 - YOU MAKE A DIFFERENCE AWARD PRESENTATION
 - Mayor Michael Badagliacco presented a You Make a Difference award to Visitor Center Volunteer
 - CALL FOR PUBLIC COMMENT
@@ -80,7 +36,7 @@
 - Mr. Reeder recommended approval of a sole source purchase and contract with Pye Barker,
 - best to avoid multiple contracts for monitoring
 
-## [montrose#4] 2026-08-26 | General | minutes
+## [montrose#1] 2026-08-26 | General | minutes
 - 24-6-4o2(41(bl and (axg) as applicable concerning discussion of a confidential memo addressed
 - only to Council as well as to discuss the possibility, if appropriate, to hire independent counsel
 - posted purpose of the executive session were discussed. The motion was not seconded
@@ -91,7 +47,7 @@
 - investigation would be supported. Mr. Dowsey recommended conducting the discussion in
 - 24-6-402(4llbl, and the following additional details are provided for identification purposes: April
 
-## [montrose#5] 2026-08-31 | City Council | agenda
+## [montrose#2] 2026-08-31 | City Council | agenda
 - *Please note that the times listed are estimates only. Actual times may vary depending upon discussion and public comment re ceived
 - Public comment will be accepted on topics listed under “Discussion Items.” Please note that no
 - City Council or City staff may respond or engage in discussion should the comment provoke
@@ -103,7 +59,7 @@
 - Staff: Parks Superintendent Jon Waschbusch
 - 2) GENERAL CITY COUNCIL DISCUSSION
 
-## [montrose#6] 2026-08-31 | City Council | agenda
+## [montrose#3] 2026-08-31 | City Council | agenda
 - *Please note that the times listed are estimates only. Actual times may vary depending upon discussion and public comment re ceived
 - Public comment will be accepted on topics listed under “Discussion Items.” Please note that no
 - City Council or City staff may respond or engage in discussion should the comment provoke
@@ -135,7 +91,7 @@
 - $514,011.00. This is $14,011.00 over the budgeted amount for this project but will be covered
 - by savings from other capital projects in the 2026 Public Works budget
 
-## [montrose#8] 2026-09-01 | City Council | minutes
+## [montrose#5] 2026-09-01 | City Council | minutes
 - Phoebe Benziger, Cliff Faurer, John Broadbooks, Jan Edwards, Janet Eckerdt, Patty Greeves, Doug
 - Weaver, Pat Riddell, Butch Zinsli, Stephen Waters, Steve DeGolier, Jeff Guynes, Carol McBride,
 - CALL FOR PUBLIC COMMENT
@@ -170,11 +126,11 @@
 - Rick Bleier, Leah Vandersluis, and John Brown spoke in support of Ordinance 2728
 - Cliff Faurer spoke in opposition to Ordinance 2728
 
-## [montrose#10] 2026-09-14 | City Council | minutes
+## [montrose#7] 2026-09-14 | City Council | minutes
 - executive session for discussion of specialized details of security arrangements or investigations
 - under C.R.5- Section 24-6-402(4)(d); and the following additional details are added for identification
 
-## [montrose#11] 2026-09-15 | City Council | minutes
+## [montrose#8] 2026-09-15 | City Council | minutes
 - CALL FOR PUBLIC COMMENT
 - 25th anniversary of 9/11. Mr. Riba also thanked the Montrose Police Department, the Montrose
 - Fire Protection District, the Montrose County Sheriff's Office, and local businesses that supported
@@ -209,7 +165,7 @@
 - ROTARY PARK PUMP HOUSE REPLACEMENT PROJECT
 - City Council considered a contract with FCI Constructors, lnc., in the amount of 5514,011.00 for
 
-## [montrose#13] 2026-09-23 | Planning Commission | minutes
+## [montrose#10] 2026-09-23 | Planning Commission | minutes
 - Staff Members Present: Gregory Stunder ( Asst. City Attorney), Jace Hochwalt ( Community Development
 - Approval of Minutes
 - Phoebe Benziger moved to approve the minutes of the August 12, 2026, meeting as submitted. Ronald
@@ -225,7 +181,7 @@
 - the state mandates may affect the plan from developer and property owner standpoints; overlaying the
 - current map with the future plan to better indicate land use density; map titling and refining density
 
-## [montrose#14] 2026-10-02 | City Council | minutes
+## [montrose#11] 2026-10-02 | City Council | minutes
 - DISCUSSION OF COUNCIL MEMBER VACANCY
 - time is possible to make the appointment. Mr. Dowsey stated that the District lV seat was vacated
 - on September 7, and the City Charter requires an appointment to the vacant seat within 30 days
@@ -245,11 +201,11 @@
 - seat. An oath of office will be administered following Mr. Woodden's appointment
 - receive unanimous support and suggested pursuing an opportunity to broaden the pool of
 
-## [montrose#15] 2026-10-05 | City Council | minutes
+## [montrose#12] 2026-10-05 | City Council | minutes
 - executive session for discussion of a personnel matter under C.R.S. Section 2a-6-ao2(allfl, and
 - the following additional details are provided for identification purposes: Municipal Court Judge
 
-## [montrose#16] 2026-10-06 | City Council | minutes
+## [montrose#13] 2026-10-06 | City Council | minutes
 - CALL FOR PUBLIC COMMENT
 - Armour spoke regarding issues with students parking on residential streets near the high school
 - The speakers requested reinstatement of permit-only parking on the residential streets and
@@ -285,7 +241,7 @@
 - within City of Montrose water and sewer service areas and said a portion of the Locust Road right
 - of way is included within the annexation. Mr. Reis also reviewed the intent of the requested "R
 
-## [montrose#17] 2026-10-14 | Planning Commission | agenda
+## [montrose#14] 2026-10-14 | Planning Commission | agenda
 - to be heard during public hearing proceedings are encouraged to be prepared and will generally be
 - 3) Approval of Minutes of the September 23, 2026 Planning Commission meeting
 - 5) CHIPETA LAKE 2 ADDITION INITIAL ZONING This is a hearing for the initial zoning of the
@@ -296,7 +252,7 @@
 - Sleep Rock Drive. This plat renews and amends the undeveloped portion of the Spruce
 - Spruce Point Development Company, LLC
 
-## [montrose#18] 2026-10-14 | Planning Commission | agenda
+## [montrose#15] 2026-10-14 | Planning Commission | agenda
 - to be heard during public hearing proceedings are encouraged to be prepared and will generally be
 - 3) Approval of Minutes of the September 23, 2026 Planning Commission meeting
 - 5) CHIPETA LAKE 2 ADDITION INITIAL ZONING This is a hearing for the initial zoning of the
@@ -330,7 +286,7 @@
 - The Chipeta Lake 2 Addition is a proposed annexation approximately 1.14 acres in size. The
 - annexation consists of Tract 3 of the Chipeta Road Dedication. It is within the City’s Urban
 
-## [montrose#19] 2026-10-20 | City Council | minutes
+## [montrose#16] 2026-10-20 | City Council | minutes
 - RESOLUTION 2O26.L6
 - City Council considered Resolution 2026-76, a Resolution of the City Council of the City of
 - Montrose, Colorado, making a commitment to increase affordable housing units consistent with
@@ -364,7 +320,7 @@
 - dry conditions existed throughout the region increasing the threat of fire danger, and the City
 - was a possible evacuation site for those fleeing wildfires. Ms. Morgenthaler said the declaratlon
 
-## [montrose#22] 2026-11-02 | City Council | agenda
+## [montrose#19] 2026-11-02 | City Council | agenda
 - *Please note that the times listed are estimates only. Actual times may vary depending upon discussion and public comment re ceived
 - Public comment will be accepted on topics listed under “Discussion Items.” Please note that no formal
 - Council or City staff may respond or engage in discussion should the comment provoke discussion
@@ -376,7 +332,7 @@
 - B) Public Works Division of Property Official Act of the City Plat (15 minutes)
 - 4) GENERAL CITY COUNCIL DISCUSSION
 
-## [montrose#23] 2026-11-02 | City Council | agenda
+## [montrose#20] 2026-11-02 | City Council | agenda
 - *Please note that the times listed are estimates only. Actual times may vary depending upon discussion and public comment re ceived
 - Public comment will be accepted on topics listed under “Discussion Items.” Please note that no formal
 - Council or City staff may respond or engage in discussion should the comment provoke discussion
@@ -415,7 +371,7 @@
 - said Facilities of Grantee over the lands of Grantor so that Grantee may go to and from said
 - Facilities from the public roads adjacent to Grantor’s lands, which said lands of Grantor, situate in
 
-## [montrose#24] 2026-11-02 | City Council | agenda
+## [montrose#21] 2026-11-02 | City Council | agenda
 - *Please note that the times listed are estimates only. Actual times may vary depending upon discussion and public comment re ceived
 - hearing proceedings are encouraged to be prepared and will generally be limited to three minutes to allow
 - Spanish interpretation may be provided upon request, subject to availability. Please email the City at least
@@ -450,7 +406,7 @@
 - 12) BLACK CANYON FLATS OGDEN FRONTAGE PIPING FUNDING REQUEST (10 minutes)
 - City Council consideration of $25,000.00 in expenditures payable to Ridgway Valley
 
-## [montrose#25] 2026-11-02 | City Council | agenda
+## [montrose#22] 2026-11-02 | City Council | agenda
 - *Please note that the times listed are estimates only. Actual times may vary depending upon discussion and public comment re ceived
 - hearing proceedings are encouraged to be prepared and will generally be limited to three minutes to allow
 - Spanish interpretation may be provided upon request, subject to availability. Please email the City at least
@@ -485,14 +441,14 @@
 - 12) BLACK CANYON FLATS OGDEN FRONTAGE PIPING FUNDING REQUEST (10 minutes)
 - City Council consideration of $25,000.00 in expenditures payable to Ridgway Valley
 
-## [montrose#26] 2026-11-04 | Planning Commission | agenda
+## [montrose#23] 2026-11-04 | Planning Commission | agenda
 - to be heard during public hearing proceedings are encouraged to be prepared and will generally be
 - 3) Approval of Minutes of the October 14, 2026 Planning Commission meeting
 - 5) EL CHAPIN SUBDIVISION SKETCH PLAN This is a review of a proposed subdivision located
 - on a 12.28 acre site on 6600 Road consisting of 45 residential lots. The review and
 - discussion of a sketch plan by the Planning Commission is informal and non-binding in
 
-## [montrose#27] 2026-11-04 | Planning Commission | agenda
+## [montrose#24] 2026-11-04 | Planning Commission | agenda
 - to be heard during public hearing proceedings are encouraged to be prepared and will generally be
 - 3) Approval of Minutes of the October 14, 2026 Planning Commission meeting
 - 5) EL CHAPIN SUBDIVISION SKETCH PLAN This is a review of a proposed subdivision located
@@ -520,3 +476,61 @@
 - Commission’s feedback. The sketch plan has been reviewed by City staff and partner
 - feedback from the Planning Commission, the applicant will submit and the City will review a
 - Preliminary Plat for the subdivision (including engineering design for all public infrastructure)
+
+## [montrose#26] 2026-11-16 | City Council | agenda
+- *Please note that the times listed are estimates only. Actual times may vary depending upon discussion and public comment received
+- Public comment will be accepted on topics listed under “Discussion Items.” Please note that no formal
+- Council or City staff may respond or engage in discussion should the comment provoke discussion
+- Please refrain from any personal attacks and disagreements, personnel and employment matters, the
+- use of profanity or ethnic, racial, or gender-oriented slurs as they may be considered “disorderly
+- Hearing assistance devices are available for public use. Please let us know if you need
+- Dalton Post - Montrose PD - Police Officer
+- Jose Paredes - Montrose PD - Police Officer
+- Gloria Salgado - Montrose PD - Police Officer
+- Bradley Levins - Montrose PD - Police Officer
+- Jamie Nance - Public Works - Street Cleaning Operator
+- Juan Pablo Flores - Public Works - Streets Crew Member
+- 2) DISCUSSION ITEMS
+- B) Planning Commission Regular Member Appointment (10 minutes)
+- Staff: Community Development Director Jace Hochwalt
+- C) Rio Grande East Oak Grove Roundabout Art Discussion (20 minutes)
+- E) Stormwater Inspection Camera Purchase Recommendation (10 minutes)
+- 3) GENERAL CITY COUNCIL DISCUSSION
+
+## [montrose#27] 2026-11-16 | City Council | agenda
+- *Please note that the times listed are estimates only. Actual times may vary depending upon discussion and public comment received
+- Public comment will be accepted on topics listed under “Discussion Items.” Please note that no formal
+- Council or City staff may respond or engage in discussion should the comment provoke discussion
+- Please refrain from any personal attacks and disagreements, personnel and employment matters, the
+- use of profanity or ethnic, racial, or gender-oriented slurs as they may be considered “disorderly
+- Hearing assistance devices are available for public use. Please let us know if you need
+- Dalton Post - Montrose PD - Police Officer
+- Jose Paredes - Montrose PD - Police Officer
+- Gloria Salgado - Montrose PD - Police Officer
+- Bradley Levins - Montrose PD - Police Officer
+- Jamie Nance - Public Works - Street Cleaning Operator
+- Juan Pablo Flores - Public Works - Streets Crew Member
+- 2) DISCUSSION ITEMS
+- B) Planning Commission Regular Member Appointment (10 minutes)
+- Staff: Community Development Director Jace Hochwalt
+- C) Rio Grande East Oak Grove Roundabout Art Discussion (20 minutes)
+- E) Stormwater Inspection Camera Purchase Recommendation (10 minutes)
+- 3) GENERAL CITY COUNCIL DISCUSSION
+- Consideration
+- applications
+- : Rio Grande East Oak Grove Roundabout Art Discussion
+- approaches, they will share the landscape plan for the Rio Grande and East Oak Grove Rd
+- current plan or if a different direction is desired in regard to the artwork to be installed in and
+- Consider the approval of a comprehensive update to Chapter 3-1 Trash Collection
+- Renamed Solid Waste Collection Services, Chapter 3-1 would establish separate residential,
+- and replacement terms for normal wear and other requests
+- ● Special and Bulk Services. Replaces prior approval for loose material with scheduled,
+- paid bulk collection and Code Enforcement referral when unscheduled. Identifies
+- Permits optional, fee-based programs for tires, televisions and monitors, bulbs, batteries,
+- refrigerated appliances, green waste, and compost, plus future recycling services
+- to 1994 annexation boundaries, outside-city utility customers, and limited self-hauling
+- Residential treatment for multifamily properties generally applies to four or fewer
+- separately billed units; the existing code expressly includes up to eight units for curbside
+- ● Separates Residential from Non-Residential. Clarifies the difference between the two
+- partial-month proration; and allows outside-city charges up to 1.5 times normal fees
+- Adds a monthly service fee alongside the per-gallon charge for 300-gallon non

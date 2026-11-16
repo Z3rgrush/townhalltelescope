@@ -1,123 +1,107 @@
-- title: Broomfield Town Square site plan revocation / Notice to Show Cause
-  summary: On Sept. 22 Councilmembers Twiss and Peterson asked Council to consider starting a revocation hearing for the Broomfield Town Square Site Development Plan. On Oct. 13 Council took up a Notice to Show Cause (Resolution 2026-133). The documents do not state an outcome.
+- title: Broomfield Town Square site plan revocation
+  summary: Councilmembers Twiss and Peterson asked in September to consider starting a revocation hearing for the Broomfield Town Square Site Development Plan. The Land Use Review Commission held a hearing on Oct. 26 with public speakers; its recommendation vote was 5 to 2 (the minutes show motions both for and against revocation). Council took up a Notice to Show Cause (Resolution 2026-133) on Oct. 13.
   where: Broomfield Town Square
   refs:
+  - 17
   - 23
-  - 29
+  - 28
   topics:
   - Zoning & development
   - Land & property
-- title: 2026 revised and 2027 City and County budgets
-  summary: Council reviewed the draft 2026 revised and 2027 operating and capital budgets, the long range financial plan and department budget presentations. A public hearing was set for Oct. 13 and budget resolutions for the City and County, BURA, Arista Local Improvement District and Flatiron Improvement District were scheduled for Oct. 27. The library was told its 2027 budget is flat.
-  where: Citywide
+  public_comment: true
+- title: AdventHealth and UCHealth hospital developments
+  summary: The Land Use Review Commission recommended approval 6 to 0 of final plats and site development plans for an AdventHealth hospital in North Park Filing No. 8 and a UCHealth hospital in Northlands Filing No. 1. A resident from Anthem Ranch spoke on the AdventHealth request. A commissioner asked for an added condition on the UCHealth plan. City Council and the urban renewal authority were scheduled to consider the plans on Nov. 10.
+  where: North Park Filing No. 8 and Northlands Filing No. 1
   refs:
-  - 5
-  - 14
-  - 15
-  - 22
-  - 24
-  - 29
-  - 35
-  topics:
-  - Budget & taxes
-- title: Hospital developments in North Park and Northlands (AdventHealth and UCHealth)
-  summary: The Land Use Review Commission recommended approval, 6-0, of the North Park Filing No. 8 Replat A final plat and site plans, including the AdventHealth hospital. It also recommended the UCHealth hospital site plan in Northlands Filing No. 1 Replat C, with an added condition. An Anthem Ranch resident spoke at the hearing.
-  where: North Park and Northlands
-  refs:
-  - 17
+  - 11
+  - 39
   topics:
   - Zoning & development
   - Health & human services
   public_comment: true
-- title: 'November 3 ballot: lodging tax and Xcel franchise agreement'
-  summary: Council referred a lodging tax question to the Nov. 3, 2026 election and later considered resolutions supporting Ballot Item 1A (lodging tax) and 1B (Broomfield-Xcel franchise agreement). Council also approved election IGAs and heard an update on 2026 ballot measures, including a proposed DA term-limits question.
+- title: 2026 revised and 2027 city budget
+  summary: Council reviewed the proposed revised 2026 and 2027 budgets through department presentations in study sessions, a public hearing on Oct. 13, and budget resolutions on Oct. 27. Budgets for the Urban Renewal Authority, Arista Local Improvement District and Flatiron Improvement District were also up. The library board noted the 2027 budget is flat and worried about longer-term erosion.
   where: Citywide
   refs:
-  - 3
-  - 8
+  - 7
+  - 9
+  - 16
+  - 18
   - 23
   - 29
   topics:
-  - Elections
   - Budget & taxes
-  - Utilities
-- title: 'Housing: needs assessment, inclusionary housing and Proposition 123'
-  summary: Council heard the Broomfield Housing Alliance annual update and a youth housing presentation. A study session covered the 2026 Housing Needs Assessment and inclusionary housing ordinance status. Council also considered opting in to Proposition 123 Cycle 2 and a Prop 123 fast-track review ordinance (first reading Oct. 27).
+- title: Lodging tax increase and Xcel franchise ballot measures
+  summary: Council considered resolutions supporting November ballot items 1A on lodging tax and 1B on the Broomfield-Xcel franchise agreement. A first reading of an ordinance increasing the lodging tax was set for Nov. 10.
   where: Citywide
   refs:
-  - 15
-  - 18
+  - 17
   - 23
-  - 35
+  - 39
+  topics:
+  - Budget & taxes
+  - Elections
+  - Utilities
+- title: 'Housing: Proposition 123, inclusionary housing and needs assessment'
+  summary: Council took up opting into Proposition 123 affordable housing financing Cycle 2 and a first reading of a Proposition 123 fast-track review process. A study session covered the 2026 housing needs assessment and the inclusionary housing ordinance. Council also heard from the Broomfield Housing Alliance and a youth housing presentation.
+  where: Citywide
+  refs:
+  - 9
+  - 12
+  - 17
+  - 29
   topics:
   - Housing
   - Zoning & development
-- title: Enterprise utility ordinance and water items
-  summary: Council took up Ordinance 2308 on an enterprise utility (first reading Oct. 13, second reading Oct. 27). It also approved a Mile High Water license, and the FLOW water advisory committee met.
+- title: Enterprise Utility ordinance
+  summary: Council considered Ordinance 2308 on an enterprise utility, with first reading Oct. 13 and a public hearing and second reading Oct. 27.
   where: Citywide
   refs:
-  - 0
-  - 13
-  - 15
+  - 23
   - 29
-  - 35
   topics:
-  - Water
   - Utilities
-- title: Electronic bike enforcement ordinance
-  summary: Council held first reading of Ordinance 2311 on electronic bike enforcement on Aug. 25.
+  - Fees & rates
+- title: Electronic bike enforcement
+  summary: Council took up Ordinance 2311 on enforcing rules for electric bikes, with first readings on the Aug. 25 and Nov. 10 agendas.
   where: Citywide
   refs:
-  - 8
+  - 2
+  - 39
   topics:
-  - Policing & public safety
   - Roads & traffic
-- title: Protecting outdoor recreation facilities in site plan amendments
+  - Policing & public safety
+- title: Protecting outdoor recreation facilities in site plan changes
   summary: Ordinance 2305 would require a public hearing for site development plan amendments that reduce or eliminate outdoor recreation facilities. It had first reading Aug. 25 and second reading Sept. 22.
   where: Citywide
   refs:
-  - 8
-  - 23
+  - 2
+  - 17
   topics:
-  - Zoning & development
-  - Recreation & trails
-- title: EV charging fees and zoning
-  summary: Council set a fee structure for EV charging stations on city property. It also held a public hearing and second reading on Ordinance 2301, allowing EV charging as a primary permitted use in non-residential districts.
-  where: Citywide
-  refs:
-  - 3
-  - 15
-  topics:
-  - Energy
-  - Fees & rates
-  - Zoning & development
-- title: Rail, transit and regional transportation
-  summary: Council considered a Rail District station narrative for joint service and Front Range Passenger Rail. Councilmember Ward also asked for a resolution supporting H.R. 5356 (National Infrastructure Bank Act) and a study session on Regional Transportation Authorities. The transportation forum met Aug. 14.
-  where: Citywide
-  refs:
-  - 3
-  - 4
-  - 15
-  - 23
-  - 29
-  topics:
-  - Transit
-  - Roads & traffic
-- title: Palisade Park Chipotle and Nordstrom Silo landmark
-  summary: Council and BURA held public hearings on the Chipotle final plat and site plan at Palisade Park. Council also considered a landmark nomination for the Nordstrom Silo.
-  where: Palisade Park; Nordstrom Silo
-  refs:
-  - 15
-  - 23
-  topics:
-  - Zoning & development
-  - Historic preservation
-- title: Parks, recreation and senior services 2027 fee schedule
-  summary: Council considered the 2027 Parks, Recreation and Senior Services fee schedule (Resolution 2026-92). It also considered the Markel Wottge Open Space Plan implementation agreement.
-  where: Citywide
-  refs:
-  - 3
-  - 8
-  topics:
-  - Fees & rates
   - Parks & open space
+  - Zoning & development
+- title: Chipotle at Palisade Park and EV charging rules
+  summary: Council and the urban renewal authority held hearings on the final plat and site plan for a Chipotle at Palisade Park. Council also held second reading of Ordinance 2301 allowing EV charging as a primary use in non-residential districts.
+  where: Palisade Park
+  refs:
+  - 9
+  topics:
+  - Zoning & development
+  - Downtown & business
+- title: Nordstrom Silo landmark nomination
+  summary: Council considered Resolution 2026-111 to nominate the Nordstrom Silo as a landmark.
+  where: Nordstrom Silo
+  refs:
+  - 17
+  topics:
+  - Historic preservation
+- title: 'Councilmember requests: 311 line and regional transportation'
+  summary: Councilmember Cohen asked to implement 311 as a non-emergency number. Councilmember Ward asked for a resolution supporting H.R. 5356, the National Infrastructure Bank Act, which was on the Oct. 13 agenda, and for a study session on Regional Transportation Authorities.
+  where: Citywide
+  refs:
+  - 17
+  - 23
+  - 39
+  topics:
+  - Government operations
+  - Transit

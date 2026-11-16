@@ -32,28 +32,7 @@
 - Attachment I - Public Comments FINAL 2.pdf
 - Appeal PLN26-004 Presentation_10-8-UA.pdf
 
-## [summit-county#1] 2026-10-20 | Special Work Session | agenda
-- 9:00 a.m. SCRAP Fee Analysis
-- SCRAP Fee Analysis
-- Staff Report SCRAP Fee Analysis.pdf
-- Attach A - SCRAP Rate Study.pdf
-- Attach C - Rate Study Supplement.pdf
-- Attach D - SCRAP Fee Analysis Presentation 10.20.26.pdf
-- 9:30 a.m. Capital Projects, Road & Bridge and Lodging Tax Budget Discussion
-- Capital Projects Budget Discussion
-- Capital Funds Budget Staff Report 10.20.26.pdf
-- Capital Budget Summary 2027.pdf
-- Capital Fund - 2027 Budget.pdf
-- Road and Bridge Budget Discussion
-- R & B Capital Projects Presentation 10.20.26.pdf
-- 2027 5 Year R&B Capital Road & Bridge Plan.pdf
-- Road & Bridge Fund - 2027 Budget.pdf
-- Lodging Tax Budget Discussion
-- Lodging Tax Budget Staff Report.pdf
-- Lodging Tax Fund - 2027 Budget.pdf
-- 11:30 a.m. Discussion of District Attorney Budget Amendment (Executive Session Recommended in part)
-
-## [summit-county#2] 2026-10-27 | Regular Meeting | agenda
+## [summit-county#1] 2026-10-27 | Regular Meeting | agenda
 - APPROVAL OF AGENDA
 - Approval of 10/16/26 Regular Meeting Minutes
 - Approval of Head Start Supplemental Grant Application
@@ -63,7 +42,7 @@
 - PUBLIC HEARING
 - Public Comment on the Proposed 2027 Budget
 
-## [summit-county#3] 2026-10-27 | Work Session | agenda
+## [summit-county#2] 2026-10-27 | Work Session | agenda
 - 9:00 a.m. Coroner Budget Discussion
 - Staff Report Coroner Budget Discussion 10.27.26.pdf
 - Coroner - Next Year Budget Report.pdf
@@ -74,3 +53,39 @@
 - 10:50 a.m. BOSS Budget Discussion
 - Human Services Budget Summary
 - HS Budget Summary Memo 10272026 - remediated.pdf
+
+## [summit-county#3] 2026-11-10 | Regular Meeting | agenda
+- APPROVAL OF AGENDA
+- Approval of Certification of Indebtedness to the Snake River Sewer Fund (Snake River Wastewater Treatment Plant)
+- RS11.10.26_TAX-LIEN-SNAKE-RIVER-WWTP.pdf
+- PUBLIC HEARING
+- Appeal of Planning Commission Decision on Planning Case # PLN26-009 and PLN26-010 Class 4 Conditional Use Permit and Site Plan
+- Class 4 Conditional Use Permit and Site Plan application for a new Verizon wireless telecommunication facility located at 6631 Heeney Road (CR 30)
+- Attachment C - Project Narrative.pdf
+- Attachment G - Public Comments.pdf
+- Attachment H - Draft Resolutions.pdf
+- Presentation - Appeal PLN26-009 & PLN26-010.pdf
+- Public Comment on the Proposed 2027 Budget
+- Q3 Budget Amendment
+- Q3 Budget Amendment Staff Report 11.10.26-UA.pdf
+- Q3 2026 Budget Resolution.docx
+- Consideration of SCRAP (Landfill) Increased Tipping Fee Schedule
+- Staff Report SCRAP Rate Study 11.10.2026.SG.pdf
+- 2026-08-13 SCRAP Rate Study.Final.Exhibit A.pdf
+- SCRAP Resolution 2026-X Tip Fee increase FINAL.pdf
+- SCRAP 2027 Tip Fee Schedule-Exhibit A.pdf
+
+## [summit-county#4] 2026-11-10 | Work Session | agenda
+- Att. A Strong Future Fund - 2027 Budget
+- Att. B Strong Future Programs - 2027 Budget Detail
+- Att. C Early Childhood Fund - 2027 Budget
+- Att. E Wildfire - 2027 Budget
+- 9:20 a.m. Early Childhood Organization Budget Discussion
+- 2027 Strong Future ECO Presentation
+- 2027 Strong Future Behavioral Health BOCC Presentation
+- 2027 Strong Future Recycling Budget Presentation
+- 10:40 a.m. Strong Future Wildfire Budget Discussion
+- 2027 Strong Future Wildfire BOCC Presentation
+- Snake River Wastewater Utility Rate Study
+- Rate Study Q&A 11.10.2026.docx
+- OTHER AGENCY RATE FACTORS.pdf

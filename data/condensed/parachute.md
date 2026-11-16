@@ -1,13 +1,6 @@
 # parachute
 
-## [parachute#0] 2025-11-12 | Town Council Budget Workshop | agenda
-- ITEMS FOR DISCUSSION
-- 2026 Budget Workshop and Discussion
-- 2026 Proposed Budget 10 09 2025.pdf
-- 10 16 2025 Proposed 2026 Budget Council Presentation.pptx
-- TOP Employee Benefits Package Assessment Plan Scoping Document DRAFT
-
-## [parachute#1] 2026-01-15 | Town Council | minutes
+## [parachute#0] 2026-01-15 | Town Council | minutes
 - (B) APPROVE AGENDA
 - request that an item be “removed” from the consent agenda and considered on the regular agenda
 - D.3 Resolution No. 2026-01 A Resolution Supporting the Grant Application for a Department of Local
@@ -35,7 +28,7 @@
 - With Qwest Corporation to Authorize the Purchase of Real Property Located at 147 1st Street in the Town of Parachute
 - Town Manager Report provided by TM: Upcoming URA meeting 3/26/2026, Plan Jam 3/31/2026
 
-## [parachute#2] 2026-02-04 | Town Council | minutes
+## [parachute#1] 2026-02-04 | Town Council | minutes
 - (C) APPROVE AGENDA
 - (D) PUBLIC COMMENT FOR ITEMS NOT ON THE AGENDA
 - No Public Comment
@@ -49,7 +42,7 @@
 - A Resolution of the Town Council of the Town of Parachute, Colorado, Setting the Order of Candidates on the Ballot for
 - Discussion of Sales Tax Ballot Initiative Options
 
-## [parachute#3] 2026-02-19 | Town Council | minutes
+## [parachute#2] 2026-02-19 | Town Council | minutes
 - Sam Stewart, Police Chief
 - (C) APPROVE AGENDA
 - Travis Elliott, Town Manager, requested to amend the agenda to add Proclamation 2026-02-P
@@ -86,7 +79,7 @@
 - Police Chief Sam Stewart presented the department’s annual update and statistics
 - Plan Jam 3/31/26
 
-## [parachute#4] 2026-03-19 | Town Council | minutes
+## [parachute#3] 2026-03-19 | Town Council | minutes
 - Development Specialist
 - Vinnie Tomasulo, Eco/Com Development Director
 - (C) APPROVE AGENDA
@@ -125,7 +118,7 @@
 - Attachment 1: Ordinance No. 835-2026 -Amending Title 15 of PMC with Turf Law
 - Attachment 2: Resolution No. 2026-01-PC -Amend Title 15 Amendment Turf Law
 
-## [parachute#5] 2026-04-16 | Town Council | minutes
+## [parachute#4] 2026-04-16 | Town Council | minutes
 - Resolution No. 2026-17
 - A RESOLUTION OF THE TOWN COUNCIL OF THE TOWN OF
 - Town Council Appointment of Mayor Pro-Tem Pursuant to Parachute Home Rule Charter, Section 2-5
@@ -156,7 +149,7 @@
 - PARACHUTE, COLORADO APPROVING AN AGREEMENT FOR PROFESSIONAL SERVICES WITH
 - Discussion of Process to Solicit and Appoint a Candidate for a Vacancy on Town Council
 
-## [parachute#6] 2026-05-21 | Town Council | minutes
+## [parachute#5] 2026-05-21 | Town Council | minutes
 - Economic/Community Development, Harley Walker, Director of Public Works, and Sam Stewart, Police
 - APPROVE AGENDA
 - request that an item be “removed” from the consent agenda and considered on the regular agenda
@@ -189,7 +182,7 @@
 - in compliance with Stage 2 water restrictions;
 - Straight Bottom Ranch will be expanding solar project by 50 acres;
 
-## [parachute#7] 2026-06-18 | Town Council | minutes
+## [parachute#6] 2026-06-18 | Town Council | minutes
 - Director of Economic/Community Development, Harley Walker, Director of Public Works,
 - Sam Stewart, Police Chief, Tamara Castellari, Public Information/Records Clerk, Alyshia
 - (C) APPROVE AGENDA
@@ -229,42 +222,35 @@
 - developers/investors tax incentives for future development
 - Madison Croissant, CSU Intern, assisting with creation/distribution/presentation of 2026 Citizen Survey and
 
-## [parachute#8] 2026-07-16 | Town Council | agenda
-- APPROVE AGENDA
-- request that an item be “removed” from the consent agenda and considered on the regular agenda
-- PUBLIC COMMENTS ON THE ISSUES NOT ON THE AGENDA
-- PRESENTATIONS
-- Regional Housing Needs Assessment, Liz Axberg, Housing Policy Analyst, City of Aspen
-- Collins, Executive Director, Middle Colorado Watershed Council
-- PUBLIC HEARINGS
-- Attachment C - Presentation Parachute.pdf
-- Public Hearing
-- Before the Town Council to Consider a Change of Premises License Application for
-- Resolution No. 2026-33
-- A RESOLUTION OF THE TOWN COUNCIL OF THE TOWN OF
+## [parachute#7] 2026-07-16 | Town Council | minutes
+- (C) APPROVE AGENDA
+- request that an item be "removed" from the consent agenda and considered on the regular agenda
+- (E) PUBLIC COMMENTS ON THE ISSUES NOT ON THE AGENDA
+- following upcoming events: 1) Battlement Creek Fire Ceremony on July 17, 2026, 6:30 p.m. 50th
+- p.m; 4) Art in the Park, August 29 and 30, 2026, 10:00-4:00 p.m. at the Wasson Mckay House
+- (F) PRESENTATIONS
+- F.2) Regional Housing Needs Assessment, Liz Axberg, Housing Policy Analyst, City of Aspen
+- Executive Director, Middle Colorado Watershed Council
+- (G) PUBLIC HEARINGS
+- G.1) Public Hearing Before the Town Council to Consider a Change of Premises License Application for a
+- (H) RESOLUTIONS
+- H.1) Resolution No. 2026-33 A RESOLUTION OF THE TOWN COUNCIL OF THE TOWN OF
 - PARACHUTE, COLORADO, GRANTING PUBLIC SERVICE COMPANY OF COLORADO A
-- Resolution No. 2026-34
-- PARACHUTE, COLORADO, APPROVING CONTRACT FOR ASPHALT PAVING OF PUBLIC
-- Draft Parachute Community Center Management Plan & Discussion
-- Preparation and Discussion of Agenda Topics for Joint BOCC Worksession on August 20, 2026
-- Cover Memo: Public Hearing Mountain Managers III LLC Change of Premises.pdf
-- Attachment 1: Application to Modify Premises - Mountain Managers III LLC - Redacted.pdf
-- Attachment 3: 2026-32 Resolution - Modification of Premise Mountain Managers III LLC with
-- Cover Memo: Resolution No. 2026-33 Granting Temporary Construction Easement to Xcel
-- Attachment 1: Resolution No. 2026-33 - Xcel Public Service Company - Temporary Easement
-- Attachment 2: Temporary Construction Easement Agreement - Xcel Energy - Draft
-- Cover Memo: Resolution No. 2026-34 Bid Award and Contract with FPI for Asphalt Paving Project
-- Attachment 1: Resolution No. 2026-34 - Bid Award and Approving Contract with FPI for Asphalt
-- Paving Project
-- Attachment 2: Resolution No. 2026-34 - Exhibit A - Notice of Intent to Award - Contract
-- Performance and Payment Bond - FPI
-- Attachment 3: Frontier Paving Inc Bid Package.pdf
-- Attachment 4: RFP20261-bid-results Public Works Shop Paving
-- Cover Memo: Town Council Parachute Community Center Management Plan Discussion
-- Attachment 1: Community Center Management Plan Scoping Document FINAL
-- Attachment 3: Draft Parachute Community Center Rental Agreement and Liability Waiver
+- (I) CONTRACTS
+- I.1) Resolution No. 2026-34 A RESOLUTION OF THE TOWN COUNCIL OF THE TOWN OF
+- PARACHUTE, COLORADO, APPROVING CONTRACT FOR ASPHALT PAVING OF PUBLIC WORKS
+- J.1) Draft Parachute Community Center Management Plan &
+- Management Plan, presented Town Council with pricing, reservations, security, policies, and procedures for
+- J.2) Preparation and Discussion of Agenda Topics for Joint BOCC Worksession on August 20, 2026
+- The meeting/dinner will start at 5:30 and discussions to begin at 6:00 and the regular Town Council meeting
+- will follow. Mayor Ruggard wanted to make sure that the bridge discussion was on the agenda as it is
+- The Town was not granted the Build Grant ($6.4 Million grant for 1st Street), but we will try again next
+- year. It is highly competitive with only two grants issued in Colorado this year;
+- Fire Ban remains in place through Labor Day;
+- Stage 2 Water Restrictions remain in place;
+- Public Works has started the Revelle Springs Raw Water Line Replacement project;
 
-## [parachute#9] 2026-08-20 | Town Council | minutes
+## [parachute#8] 2026-08-20 | Town Council | minutes
 - Director of Economic/Community Development, Harley Walker, Director of Public Works,
 - Sam Stewart, Police Chief, Tamara Castellari, Public Information/Records Clerk, Alyshia
 - (C) APPROVE AGENDA
@@ -304,34 +290,37 @@
 - developers/investors tax incentives for future development
 - Madison Croissant, CSU Intern, assisting with creation/distribution/presentation of 2026 Citizen Survey and
 
-## [parachute#10] 2026-09-17 | Town Council | agenda
-- APPROVE AGENDA
-- request that an item be “removed” from the consent agenda and considered on the regular agenda
-- PUBLIC COMMENTS ON THE ISSUES NOT ON THE AGENDA
-- PRESENTATIONS
-- South Bridge Project Update and Request for a Letter of Support, Steve Boyd, City Manager; Ryan
-- YouthZone Annual Report and 2027 Financial Request, Jesse Hanna, Chief Operations Officer
-- Attachment 1: Renewal Application - Family Dollar Store #26890_Redacted
-- Presentation: City of GWS South Bridge Update.pptx
-- Presentation: YouthZone
-- PUBLIC HEARINGS
-- Resolution No. 2026-39 Approving a Special Use Review for Fun House Kids LLC at 201 East 1st
-- Resolution No. 2026-40 Approving Modifications and Re-Adopting the Town Council's Strategic
-- 2027 Budget Kickoff/Workshop
-- Presentation: Bike Clinic
-- Cover Memo: Fun House Kids Special Use Review
-- Attachment 1: Application for Special Use Permit - Fun House Kids LLC.pdf
-- Attachment 2: Referral Comments and Discussion.pdf
-- Attachment 3: Public Hearing Notice Information and attachments.pdf
-- Attachment 4: Resolution No. 2026-04-PC Fun House Kids LLC.pdf
-- Attachment 5: Resolution No. 2026-39 Approving Special Use Review for Fun House Kids LLC
-- Cover Memo: Resolution 2026-40 Final Town Council strategic goal Adoption.pdf
-- Attachment 1: Resolution No. 2026-40 - Approving Modifications and Re Adopting Strategic Goal
-- Attachment 2: Resolution No. 2026-40 - EXHIBIT A - 2026 Town Council Goal Statement.pdf
-- Attachment 1: TOP Employee Focus Group Feedback Sessions Report
-- Cover Memo: 2027 Draft Budget Kickoff and Workshop Mtg
+## [parachute#9] 2026-09-17 | Town Council | minutes
+- (C) APPROVE AGENDA
+- request that an item be "removed" from the consent agenda and considered on the regular agenda
+- Consent Agenda for Items D.1), D.2), and D.3), as Item D.4) will be discussed outside of the Consent Agenda
+- Councilmembers briefly discussed the violation issued to Family Dollar Store #26890 and staff confirmed the
+- violation was not significant enough to preclude the approval of the renewal
+- (E) PUBLIC COMMENTS ON THE ISSUES NOT ON THE AGENDA
+- Diana Lawrence, 998 CR 309, Parachute, Colorado, spoke regarding Parachute Rising a No-Excuse Plan for
+- Resolution in Support of Garfield County Library 6B Ballot Measure
+- Parachute Rising presentation
+- (FPRESENTATIONS
+- F.1) South Bridge Project Update and Request for a Letter of Support, Steve Boyd, City Manager; Ryan
+- Ryan Gordon, City Engineer, presented the South Bridge Project update and request for a Letter of Support
+- for the Glenwood Springs South Bridge Project to be presented at October 15, 2026 Town Council regular
+- F.2) YouthZone Annual Report and 2027 Financial Request, Jesse Hanna, Chief Operations Officer
+- (G) PUBLIC HEARINGS
+- G.1) Resolution No. 2026-39 Approving a Special Use Review for Fun House Kids LLC at 201 East 1st Street
+- (H) RESOLUTIONS
+- H.1) Resolution No. 2026-40 Approving Modifications and Re-Adopting the Town Council's Strategic Goal
+- I.2) 2027 Budget Kickoff/Workshop
+- Travis Elliott, Town Manager, and Teresa Beecraft, Director of Finance, presented the 2027 draft budget
+- Town was granted the Colorado Parks and Wildlife Grant regarding bear proof trash cans
+- Travis Elliott and Mayor Rugaard will attend the October 5, 2026 BOCC meeting to discuss PATS funding
+- Clarks Grocery has now closed and community stakeholders are continuing to have discussions regarding
+- Property located at 103 4th Street (Code Violation Case) is in the process of being cleaned up and will have &
+- stakeholders, met on October 8, 2026 to brainstorm and they are asking the community to donate and do as
+- has been classified as a Project of Merit as a result of not getting the DOT Grant and as such hopeful to receive
+- the grant next year; and looking at ways to generate money (i.e., nightly fees on hotel stays (will need voter
+- approval), tobacco tax, taxes) as the Town needs additional funding for PATS, wages, and streets
 
-## [parachute#11] 2026-10-15 | Town Council | agenda
+## [parachute#10] 2026-10-15 | Town Council | agenda
 - APPROVE AGENDA
 - request that an item be “removed” from the consent agenda and considered on the regular agenda
 - Ratification of a Letter
